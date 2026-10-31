@@ -28,6 +28,10 @@ ENTRIES = {
     # table of contents ("Inhalt"): one unnumbered page (scan 13). "contents" keeps the printed
     # lines in the translation.
     "toc": {"pages": ["scan0013"], "title": "Contents", "start": r"", "end": r"(?!)", "contents": True},
+    # §§ 114-115: starts mid-p. 68, ends mid-p. 71. Page joins checked by eye: 68|69, 69|70 and
+    # 70|71 all run on mid-sentence ("in der | Gestalt", "eine | Beute", "unrichtige | Kenntniß").
+    "lion-tiger": {"pages": [68, 69, 70, 71], "title": "§§ 114–115: The lion, the tiger (pp. 68–71)",
+                   "start": r"^§\.\s*114\b", "end": r"^§\.\s*116\b"},
 }
 # A paragraph continues on the next page if the page ends without sentence-final punctuation;
 # "continue" / "break" in an entry override this for the pages listed (the first page of the pair).
@@ -41,8 +45,13 @@ def page_blocks(page) -> list[dict]:
 
 
 def build(cfg: dict) -> tuple[list[dict], list[dict]]:
-    """-> (main blocks, footnote blocks); each block has a "page"."""
+    """-> (main blocks, footnote blocks); each block has a "page".
+
+    A footnote is kept when its mark occurs in the entry's own text on that page, so that an entry
+    that starts or ends mid-page gets its notes and not those of the § before or after it.
+    """
     main, notes, started, ended = [], [], False, False
+    page_text: dict = {}  # page -> the entry's main text on that page
     for page in cfg["pages"]:
         first_on_page = True
         for b in page_blocks(page):
@@ -50,8 +59,7 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
             if b["type"] == "furniture":
                 continue
             if b["type"] == "footnote":
-                if started and not ended:
-                    notes.append({"type": "footnote", "marker": b.get("marker", ""), "text": text, "page": page})
+                notes.append({"type": "footnote", "marker": b.get("marker", ""), "text": text, "page": page})
                 continue
             if not started:
                 if not re.search(cfg["start"], text):
@@ -61,6 +69,7 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
                 ended = True
             if ended:
                 continue
+            page_text[page] = page_text.get(page, "") + "\n" + text
             prev = main[-1] if main else None
             continues = (page in cfg.get("continue", []) or not SENTENCE_END.search(prev["text"] if prev else "")) \
                 and page not in cfg.get("break", [])
@@ -79,6 +88,8 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
             break
     if not started:
         sys.exit(f"start pattern {cfg['start']!r} not found")
+    notes = [n for n in notes if n["page"] in page_text and re.search(
+        rf"(?<![*†]){re.escape(n['marker'])}", page_text[n["page"]])]
     return main, notes
 
 

@@ -8,6 +8,13 @@ Same pipeline, rules and output as my Löw project,
 [low-flora](https://github.com/EzraBrand/low-flora) (Löw, *Die Flora der Juden*). Work in
 progress: small steps, each checked by hand before the next.
 
+**Reading edition (web):** https://ezrabrand.github.io/lewysohn-zoologie/ — German and English side
+by side, scans linked from each page mark, Arabic and Greek transliterations as tooltips, numbered
+footnotes. Built by `build_site.py` into `docs/` (GitHub Pages serves `main:/docs`).
+
+**A whole entry:** [§§ 114–115, the lion and the tiger, in English](data/entries/lion-tiger/en.md)
+(and the [joined German text](data/entries/lion-tiger/de.md)).
+
 ## Status (31-Oct-2026)
 
 | Step | Status |
@@ -15,8 +22,8 @@ progress: small steps, each checked by hand before the next.
 | 1. Sources and book structure | done (see [Source](#source) and [Structure](#structure)) |
 | 2. Table of contents: OCR and translation | done: [German](data/entries/toc/de.md), [English](data/entries/toc/en.md); no OCR errors |
 | 3. Abbreviation table | the book has **no list of abbreviations**; to be built from usage during step 4 |
-| 4. One whole test entry: §§ 114–115, the lion and the tiger, pp. 68–71 | OCR done ([68](data/ocr/or-claude-opus-5.5%40low%2Bital/68.md), [69](data/ocr/or-claude-opus-5.5%40low%2Bital/69.md), [70](data/ocr/or-claude-opus-5.5%40low%2Bital/70.md), [71](data/ocr/or-claude-opus-5.5%40low%2Bital/71.md)); **gold drafts for pp. 68 and 70 wait for a hand check** ([68 notes](data/gold/68.notes.md), [70 notes](data/gold/70.notes.md)); not yet joined or translated |
-| 5. Reading edition (`build_site.py`) | not started |
+| 4. One whole test entry: §§ 114–115, the lion and the tiger, pp. 68–71 | OCR done ([68](data/ocr/or-claude-opus-5.5%40low%2Bital/68.md), [69](data/ocr/or-claude-opus-5.5%40low%2Bital/69.md), [70](data/ocr/or-claude-opus-5.5%40low%2Bital/70.md), [71](data/ocr/or-claude-opus-5.5%40low%2Bital/71.md)); joined and translated from the unchecked OCR ([English](data/entries/lion-tiger/en.md), $0.109); page joins checked by eye; **gold drafts for pp. 68 and 70 still wait for a hand check** ([68 notes](data/gold/68.notes.md), [70 notes](data/gold/70.notes.md)) |
+| 5. Reading edition (`build_site.py`) | done for the test entry and the contents; the abbreviation page is a placeholder |
 
 ## Source
 
@@ -83,6 +90,8 @@ uv run eval.py                                         # CER table (needs gold p
 
 uv run entry.py toc                                    # contents page, lines kept, in English
 uv run translate.py 68 69                              # single pages in English
+uv run entry.py lion-tiger                             # §§ 114–115, pages joined, in English
+uv run build_site.py                                   # reading edition in docs/
 ```
 
 Page keys are printed page numbers, or `scanNNNN` for an unnumbered page. Output folders and
@@ -98,7 +107,10 @@ formats are as in low-flora, without the volume level: `data/ocr/{engine}/{page}
   Only the OpenRouter and Anthropic engines are kept (no Tesseract or Kraken yet).
 - `translate.py`: the prompt and examples are about zoology; the translation rules (v3) are unchanged.
 - `entry.py`: in contents mode, each printed line is a Markdown line break in `de.md` / `en.md`.
-- `abbrev.py` and `build_site.py` are not ported yet.
+  A footnote is kept when its mark occurs in the entry's own text on that page, so an entry that
+  starts or ends mid-page (as most §§ do) gets its own notes and not its neighbour's.
+- `build_site.py`: one volume, entries only; no abbreviation table yet.
+- `abbrev.py` is not ported (the book has no list of abbreviations).
 
 ## Translation rules (v3, from low-flora)
 
@@ -117,8 +129,10 @@ the low-flora README.
 | OCR, Opus 5.5 @low +ital, contents page | 1 | $0.040 | $0.040 |
 | OCR, Opus 5.5 @low +ital, pp. 68–71 | 4 | $0.335 | $0.084 (21–28 s) |
 | Translation of the contents, Opus 5.5 @medium | 1 | $0.017 | — |
+| Translation of §§ 114–115, Opus 5.5 @medium (3 chunks, 45 s) | 4 | $0.109 | $0.027 |
 
-OpenRouter prices. Total so far: about $0.39. A full run of about 414 pages would be about $35 for
+OpenRouter prices. Total so far: about $0.50. Translation is much cheaper per page than in Löw
+(octavo pages, about 1,700 characters each). A full run of about 414 pages would be about $35 for
 OCR and about $25–50 for translation (Löw's translation cost was $0.06–0.13 per page).
 
 ## Notes
@@ -132,6 +146,10 @@ OCR and about $25–50 for translation (Löw's translation cost was $0.06–0.13
   (Jer. 51:38) that is not on the page. This is the same kind of error as the Syriac in Löw:
   plausible and hard to notice. Hebrew in the gold pages needs a careful check.
 - Small: p. 71 print ῞Υλη, OCR Ὑλη (accent lost); p. 70 the first letter of ויהורא/זיהורא is unclear.
+- **Translation of §§ 114–115:** accurate, hedges kept, the three `[p. N]` marks in place. Two
+  small rule breaks: the model changed the author's romanization "Schir ha-Jichud" to
+  "Shir ha-Yiḥud", and gave "Thierg." as "History of Animals" in one note but kept it in the text.
+  The p. 69 OCR error (נער) is in the translation too: it was made from the unchecked OCR.
 - Block types are not consistent: `§. 115.` and `Der Tiger.` are one heading block on p. 70, two on p. 68.
 - **No list of abbreviations** in the book. The references are mostly full tractate names
   (Chulin 53, a; B. Kama 16, b), so the table will be smaller than Löw's; the Vorrede names the
@@ -147,14 +165,14 @@ OCR and about $25–50 for translation (Löw's translation cost was $0.06–0.13
 
 1. Check the gold drafts for pp. 68 and 70 (rename `.draft.txt` → `.txt`); then the CER of Opus
    and of archive.org's OCR on them.
-2. Join pp. 68–71 into §§ 114–115 (`entry.py`, start `^§\. 114`, end `^§\. 116`), check the three
-   page joins by eye, translate (about $0.40).
+2. After the gold check: translate §§ 114–115 again from the gold text (`uv run entry.py lion-tiger`)
+   and rebuild the site.
 3. Abbreviations: build the table from usage and make the expansion a deterministic step after
    translation (as the Jastrow/BDB mappings in
    [Bekiut](https://github.com/EzraBrand/bekiut)), not a model step.
 4. Hebrew check: a second engine on the Hebrew runs only, and a person reviews where they differ
    (catches errors like נער for עיא).
-5. Reading edition: port `build_site.py` (index, entry, contents, abbreviation pages).
+5. Reading edition: links from `§. N` cross-references to their §, and the registers as data.
 6. Full run: about $60–85 in total; needs a larger OpenRouter limit (the current key has about $5 left).
 
 ## License
