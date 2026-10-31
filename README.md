@@ -21,8 +21,8 @@ footnotes. Built by `build_site.py` into `docs/` (GitHub Pages serves `main:/doc
 |---|---|
 | 1. Sources and book structure | done (see [Source](#source) and [Structure](#structure)) |
 | 2. Table of contents: OCR and translation | done: [German](data/entries/toc/de.md), [English](data/entries/toc/en.md); no OCR errors |
-| 3. Abbreviation table | the book has **no list of abbreviations**; to be built from usage during step 4 |
-| 4. One whole test entry: §§ 114–115, the lion and the tiger, pp. 68–71 | OCR done ([68](data/ocr/or-claude-opus-5.5%40low%2Bital/68.md), [69](data/ocr/or-claude-opus-5.5%40low%2Bital/69.md), [70](data/ocr/or-claude-opus-5.5%40low%2Bital/70.md), [71](data/ocr/or-claude-opus-5.5%40low%2Bital/71.md)); joined and translated from the unchecked OCR ([English](data/entries/lion-tiger/en.md), $0.109); page joins checked by eye; **gold drafts for pp. 68 and 70 still wait for a hand check** ([68 notes](data/gold/68.notes.md), [70 notes](data/gold/70.notes.md)) |
+| 3. Abbreviation table | the book has **no list of abbreviations**; a reviewed table built from §§ 114–115 ([ABBREVIATIONS.md](ABBREVIATIONS.md), 34 rows), expanded by a fixed step after translation (`abbrev.py`) |
+| 4. One whole test entry: §§ 114–115, the lion and the tiger, pp. 68–71 | done: OCR ([68](data/ocr/or-claude-opus-5.5%40low%2Bital/68.md), [69](data/ocr/or-claude-opus-5.5%40low%2Bital/69.md), [70](data/ocr/or-claude-opus-5.5%40low%2Bital/70.md), [71](data/ocr/or-claude-opus-5.5%40low%2Bital/71.md)); **gold pages [68](data/gold/68.txt) and [70](data/gold/70.txt)** checked by hand; page joins checked by eye; translated with rules v4 ([English](data/entries/lion-tiger/en.md), $0.119) |
 | 5. Reading edition (`build_site.py`) | done for the test entry and the contents; the abbreviation page is a placeholder |
 
 ## Source
@@ -90,14 +90,18 @@ uv run eval.py                                         # CER table (needs gold p
 
 uv run entry.py toc                                    # contents page, lines kept, in English
 uv run translate.py 68 69                              # single pages in English
-uv run entry.py lion-tiger                             # §§ 114–115, pages joined, in English
+uv run entry.py lion-tiger                             # §§ 114–115: join, translate, expand abbreviations
+uv run entry.py lion-tiger --expand-only               # redo only the abbreviation step (no model call)
+uv run abbrev.py                                       # check all entries, render ABBREVIATIONS.md
+uv run ia_ocr.py 68 70                                 # archive.org's OCR as a baseline engine for eval.py
 uv run build_site.py                                   # reading edition in docs/
 ```
 
 Page keys are printed page numbers, or `scanNNNN` for an unnumbered page. Output folders and
 formats are as in low-flora, without the volume level: `data/ocr/{engine}/{page}.json` and `.md`,
 `data/gold/{page}.txt`, `data/translation/{model}@{effort}-{rules}/{page}.json`,
-`data/entries/{entry}/de.md` and `en.md`.
+`data/entries/{entry}/de.md` and `en.md` (`en.raw.json` = the model's output before the
+abbreviation step).
 
 ### Changes from low-flora
 
@@ -105,22 +109,51 @@ formats are as in low-flora, without the volume level: `data/ocr/{engine}/{page}
 - `ocr.py`: the prompt describes Lewysohn and **Fraktur** (long s → `s`; a list of Fraktur
   letter pairs that are easy to confuse; letter-spaced words as plain text; `§. N.` as a heading).
   Only the OpenRouter and Anthropic engines are kept (no Tesseract or Kraken yet).
-- `translate.py`: the prompt and examples are about zoology; the translation rules (v3) are unchanged.
-- `entry.py`: in contents mode, each printed line is a Markdown line break in `de.md` / `en.md`.
-  A footnote is kept when its mark occurs in the entry's own text on that page, so an entry that
-  starts or ends mid-page (as most §§ do) gets its own notes and not its neighbour's.
-- `build_site.py`: one volume, entries only; no abbreviation table yet.
-- `abbrev.py` is not ported (the book has no list of abbreviations).
+- `translate.py`: the prompt and examples are about zoology; rules v4 (see below).
+- `entry.py`:
+  - In contents mode, each printed line is a Markdown line break in `de.md` / `en.md`.
+  - A footnote is kept when its mark occurs in the entry's own text on that page, so an entry that
+    starts or ends mid-page (as most §§ do) gets its own notes and not its neighbour's.
+  - **Paragraphs are split at Lewysohn's long dashes** (` — `, not before a digit, so ranges like
+    "S. 63 — 76" stay); the dash itself is dropped. Main text only, not footnotes.
+  - `FIXES`: corrections to the OCR of pages without gold text, each checked against the scan.
+  - After translation, `abbrev.py` checks and expands the abbreviations.
+- `abbrev.py`: new. A reviewed table (`abbreviations.json`) and a fixed expansion step after
+  translation, as with the Jastrow/BDB mappings in [Bekiut](https://github.com/EzraBrand/bekiut).
+  The book has no list of abbreviations; the table is built from the text.
+- `ia_ocr.py`: new. archive.org's OCR per page, from its DjVu XML, as a baseline for `eval.py`.
+- `build_site.py`: one volume, entries only; the tooltip covers the whole abbreviation ("B. Kama").
 
-## Translation rules (v3, from low-flora)
+## Translation rules (v4, 31-Oct-2026)
 
 German and French → English, with the author's hedges kept. Latin (including zoological names),
 English, references and the author's romanizations stay as printed. Hebrew script is not
 transliterated. Syriac gets Hebrew letters in brackets (in code); Arabic and Persian get IJMES, and
-Greek gets SBL transliteration in brackets. Abbreviations: `Abbr. [=expansion]` at the first use.
-Roman numerals → Arabic (`I 346` → `1, 346`). "Palästina" → "Eretz Yisrael" (titles and English
-quotations stay as printed). Gold text is translated where it exists. Details: `translate.py` and
-the low-flora README.
+Greek gets SBL transliteration in brackets. Roman numerals → Arabic (`I 346` → `1, 346`).
+"Palästina" → "Eretz Yisrael" (titles and English quotations stay as printed). Gold text is
+translated where it exists.
+
+New in v4:
+- **Abbreviations** are no longer expanded by the model. The prompt lists the abbreviations of the
+  input in two groups. Sources and bibliography (mode `expand`) stay exactly as printed, German
+  titles of classical works included ("Thierg.", "Naturg."). General German abbreviations (mode
+  `translate`) are rendered in English (S. → p., vgl. → cf.). After translation, `abbrev.py`
+  counts each `expand` abbreviation in the German and the English (a mismatch means the model
+  translated or dropped one), then adds ` [=expansion]` after its first use in the document. For a
+  classical work the expansion gives the English and the Latin title: `Thierg. [=Aelian, On the
+  Nature of Animals (De natura animalium; German title Thiergeschichte)]`.
+- The author's romanized Hebrew titles keep his spelling ("Schir ha-Jichud", not "Shir ha-Yiḥud").
+
+## Results: CER on the gold pages (pp. 68 and 70)
+
+| Engine | All | Latin script | Hebrew | Arabic | Greek |
+|---|---|---|---|---|---|
+| Opus 5.5 @low +ital | 0.0% | 0.0% | 0.7% (1 letter) | 0.0% | 0.0% |
+| archive.org's OCR (Toronto copy) | 30.7% | 36.8% | 110% | 100% | 100% |
+
+Gold characters: 4,620 (Latin script 3,251, Hebrew 152, Arabic 6, Greek 6). The gold pages were made
+from the Opus draft and checked by hand, so the Opus numbers favour Opus; the one Hebrew error
+(טגרים for טגריס) is the only change that the check made. Two pages only: rough signals.
 
 ## Costs so far
 
@@ -129,31 +162,34 @@ the low-flora README.
 | OCR, Opus 5.5 @low +ital, contents page | 1 | $0.040 | $0.040 |
 | OCR, Opus 5.5 @low +ital, pp. 68–71 | 4 | $0.335 | $0.084 (21–28 s) |
 | Translation of the contents, Opus 5.5 @medium | 1 | $0.017 | — |
-| Translation of §§ 114–115, Opus 5.5 @medium (3 chunks, 45 s) | 4 | $0.109 | $0.027 |
+| Translation of §§ 114–115, rules v3 (from OCR; replaced) | 4 | $0.109 | $0.027 |
+| Translation of §§ 114–115, rules v4 (3 chunks, 47 s) | 4 | $0.119 | $0.030 |
 
-OpenRouter prices. Total so far: about $0.50. Translation is much cheaper per page than in Löw
+OpenRouter prices. Total so far: about $0.62. Translation is much cheaper per page than in Löw
 (octavo pages, about 1,700 characters each). A full run of about 414 pages would be about $35 for
-OCR and about $25–50 for translation (Löw's translation cost was $0.06–0.13 per page).
+OCR and about $15–25 for translation.
 
 ## Notes
 
-- **Fraktur works well with Opus 5.5.** On pp. 68–71 I found no error in the German when I read
-  the OCR against the scans: long s, ß, letter-spaced words, old spellings (Thier, Heerden,
-  Sprüchwort), and even the printer's error "aehtiopische" are as printed. Not yet measured
-  against gold.
-- **Hebrew: one fluent but wrong word.** p. 69: the print has עיא (or עוא) for the lion's roar
-  when it sees its prey (Chulin 53a); the OCR wrote **נער**, a real word for a lion's roar
-  (Jer. 51:38) that is not on the page. This is the same kind of error as the Syriac in Löw:
-  plausible and hard to notice. Hebrew in the gold pages needs a careful check.
-- Small: p. 71 print ῞Υλη, OCR Ὑλη (accent lost); p. 70 the first letter of ויהורא/זיהורא is unclear.
-- **Translation of §§ 114–115:** accurate, hedges kept, the three `[p. N]` marks in place. Two
-  small rule breaks: the model changed the author's romanization "Schir ha-Jichud" to
-  "Shir ha-Yiḥud", and gave "Thierg." as "History of Animals" in one note but kept it in the text.
-  The p. 69 OCR error (נער) is in the translation too: it was made from the unchecked OCR.
+- **Fraktur works well with Opus 5.5.** On the gold pages the German (Latin script) has no errors:
+  long s, ß, letter-spaced words, old spellings (Thier, Heerden, Sprüchwort), and even the
+  printer's error "aehtiopische" are as printed.
+- **Hebrew is the weak point, and the errors are plausible words.** Three errors in 4 pages, each a
+  real word or form:
+  - p. 69: print **עוא** (the roar when the lion sees its prey, Chulin 53a); OCR **נער**, a real
+    word for a lion's roar (Jer. 51:38) that is not on the page.
+  - pp. 70 and 71: print **טגריס**; OCR **טגרים** (final ם for ס, twice).
+
+  This is the same kind of error as the Syriac in Löw: hard to notice. pp. 69 and 71 are corrected
+  in `entry.py` (`FIXES`), checked by me against the scan; p. 70 is corrected in its gold text.
+- Small: p. 71 print ῞Υλη, OCR Ὑλη (accent lost). On p. 70 the gold keeps ויהורא (the Talmud word
+  is זיהרא; the first letter in the print is unclear).
+- **Translation of §§ 114–115 (v4):** accurate, hedges kept, the three `[p. N]` marks in place,
+  all 22 source and bibliography abbreviations kept as printed and expanded once. The model wrote
+  "Varro" for Lewysohn's "Varo".
+- **Abbreviations:** 34 rows from this entry. Six bibliography expansions are marked **guess**
+  (which work by Gesenius, Fürst, Voigt, Münster is meant); check them when more entries cite them.
 - Block types are not consistent: `§. 115.` and `Der Tiger.` are one heading block on p. 70, two on p. 68.
-- **No list of abbreviations** in the book. The references are mostly full tractate names
-  (Chulin 53, a; B. Kama 16, b), so the table will be smaller than Löw's; the Vorrede names the
-  Talmud editions used.
 - The contents page was OCR'd and translated without an error (13 lines, 13 page numbers).
   Abtheilung is translated "Part", Klasse "Class".
 - **Existing work:** Natan Slifkin wrote in 2012
@@ -163,17 +199,14 @@ OCR and about $25–50 for translation (Löw's translation cost was $0.06–0.13
 
 ## Next decision points
 
-1. Check the gold drafts for pp. 68 and 70 (rename `.draft.txt` → `.txt`); then the CER of Opus
-   and of archive.org's OCR on them.
-2. After the gold check: translate §§ 114–115 again from the gold text (`uv run entry.py lion-tiger`)
-   and rebuild the site.
-3. Abbreviations: build the table from usage and make the expansion a deterministic step after
-   translation (as the Jastrow/BDB mappings in
-   [Bekiut](https://github.com/EzraBrand/bekiut)), not a model step.
-4. Hebrew check: a second engine on the Hebrew runs only, and a person reviews where they differ
-   (catches errors like נער for עיא).
-5. Reading edition: links from `§. N` cross-references to their §, and the registers as data.
-6. Full run: about $60–85 in total; needs a larger OpenRouter limit (the current key has about $5 left).
+1. **Hebrew check:** 3 Hebrew errors in 4 pages. Options: a second engine on the Hebrew runs only,
+   with a person reviewing where they differ; or a check of each Hebrew word against a word list
+   (Jastrow headwords in Bekiut), flagging words not found.
+2. **Next entries:** more §§ (for example all of the mammal class, pp. 64–158, about $11 for OCR and
+   translation), then a gold page from each, to see whether the CER holds.
+3. Abbreviations: grow the table with each entry; resolve the **guess** rows.
+4. Reading edition: links from `§. N` cross-references to their §, and the registers as data.
+5. Full run: about $50–60 in total.
 
 ## License
 

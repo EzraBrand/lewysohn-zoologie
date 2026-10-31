@@ -42,7 +42,9 @@ for c in CONTENTS:
 RTL_OR_GREEK = r"[֐-׿יִ-ﭏ؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿܀-ݏͰ-Ͽἀ-῿]"
 _TAIL = r"[^\s\[\]<>()*†,;:.?!]*"  # a run ends before Latin punctuation and footnote marks
 RUN = re.compile(rf"({RTL_OR_GREEK}{_TAIL}(?:\s+{RTL_OR_GREEK}{_TAIL})*)(\s\[(?!=)([^\]]+)\])?")
-EXPANSION = re.compile(r"(\S+)\s\[=([^\]]*)\]")
+import abbrev  # noqa: E402  (the whole abbreviation, e.g. "B. Kama", gets the tooltip, not only "Kama")
+_ABBRS = "|".join(re.escape(r["abbr"]) for r in sorted(abbrev.items(), key=lambda r: -len(r["abbr"])))
+EXPANSION = re.compile(rf"((?<![\w.])(?:{_ABBRS})|[^\s(\[]\S*)\s\[=([^\]]*)\]")
 PAGE_MARK = re.compile(r"\[p\. ([^\]\s]+)\]")
 PARTICLES = {"el", "al", "ul", "il", "ad", "an", "as", "aš", "at", "ha", "ba", "bi", "li", "wa", "be", "le"}
 NOTE_MARK = re.compile(r"(\*{1,3}|†{1,2}|<sup>\d{1,2}</sup>)\)")  # numbered notes are superscripts
@@ -254,12 +256,15 @@ def doc_html(doc: dict) -> str:
 <h1>{html.escape(doc["title"])}</h1>
 <p class="sub">{html.escape(doc["sub"])}</p>
 <details class="about"><summary>How to read this page</summary>
-<p>Left: Lewysohn's German text (printed in Fraktur) as transcribed by Claude Opus 5.5, not yet
-checked by hand. Right: an English translation by Claude Opus 5.5 (rules {d["rules"]}). Hebrew-script
-words are not transliterated; Arabic and Greek words show a transliteration when you point at them.
-Abbreviations are not yet expanded (the book has no list of abbreviations; a table is planned).
-“p. 69” links to the scan of that page. Numbers link to the footnotes below. Machine output: check
-the scan before you cite.</p></details>
+<p>Left: Lewysohn's German text (printed in Fraktur) as transcribed by Claude Opus 5.5; pp. 68 and 70
+are checked by hand, pp. 69 and 71 are not (two Hebrew words on them corrected against the scan).
+The paragraphs are split where Lewysohn separates topics with a long dash. Right: an English
+translation by Claude Opus 5.5 (rules {d["rules"]}). Hebrew-script words are not transliterated;
+Arabic and Greek words show a transliteration when you point at them. Dotted words are
+abbreviations: point at them for the expansion, from a table reviewed by hand
+(<a href="abbreviations.html">table</a>), added by a program after translation. “p. 69” links to
+the scan of that page. Numbers link to the footnotes below. Machine output: check the scan before
+you cite.</p></details>
 {TOGGLES.format(cn=CN_TOGGLE if names else "")}
 <div class="scans" aria-label="Scans">{thumbs}</div>
 <div class="cols-head row"><div class="cell de">German (Lewysohn)</div><div class="cell en">English</div></div>
@@ -286,10 +291,11 @@ made to see what current tools can do. The companion project for plants is
 <ul class="docs">{items}</ul>
 <h2>What this is, and what it is not</h2>
 <ul class="plain">
-<li>The transcription and the translation are machine output (Claude Opus 5.5). No page has been
-checked by hand yet; one Hebrew OCR error is known (p. 69: נער where the print has עיא).</li>
-<li>Abbreviations are not yet expanded: the book has no list of abbreviations, and the table is
-still to be built (<a href="abbreviations.html">status</a>).</li>
+<li>The transcription and the translation are machine output (Claude Opus 5.5). Two pages
+(pp. 68 and 70) were checked by hand.</li>
+<li>The book has no list of abbreviations. They are expanded from a table built from the text and
+reviewed by hand (<a href="abbreviations.html">table</a>); “guess” marks an expansion that is not
+certain.</li>
 <li>Each page links to the scan: please check it before citing anything.</li>
 <li>Code, data, method and costs: <a href="{REPO}">{REPO.split("//")[1]}</a>.</li>
 </ul>
@@ -300,12 +306,29 @@ still to be built (<a href="abbreviations.html">status</a>).</li>
 
 
 def abbreviations_html() -> str:
+    import abbrev
+    pages: dict = {}
+    for path in sorted((DATA / "entries").iterdir()):
+        for k, v in abbrev.entry_texts(path)[2].items():
+            pages.setdefault(k, []).extend(str(x) for x in v if str(x) not in pages.get(k, []))
+    kinds = {"source": "Primary source", "bibliography": "Bibliography", "general": "General"}
+    rows = "".join(
+        f'<tr><td>{html.escape(r["abbr"])}</td><td>{html.escape(r["expansion"])}'
+        + (f' → <i>{html.escape(r["english"])}</i>' if r["mode"] == "translate" else "")
+        + f'</td><td>{kinds[r["kind"]]}</td><td>{html.escape(r["basis"])}</td>'
+        f'<td>{", ".join(pages.get(r["abbr"], []))}</td></tr>'
+        for r in sorted(abbrev.items(), key=lambda r: r["abbr"].casefold()))
     body = f"""{header("abbreviations.html")}
 <main class="index">
 <h1>Abbreviations and short references</h1>
-<p class="lede">Not yet built. Lewysohn's book has no list of abbreviations; most references are
-full tractate names (Chulin 53, a; B. Kama 16, b). A table will be built from the abbreviations
-as they occur, and the expansion will be a fixed step after translation, not a model step.</p>
+<p class="lede">Lewysohn's book has no list of abbreviations. This table is built from the
+abbreviations as they occur and reviewed by hand. Sources and bibliography stay as printed in the
+English, and a program adds the expansion after the first use; general German abbreviations are
+translated (→). Basis: <b>Vorrede</b> = from Lewysohn's preface; <b>standard</b>; <b>general
+knowledge</b>; <b>guess</b> = not certain, check.</p>
+<input id="filter" type="search" placeholder="Filter, e.g. Thierg. or Bochart" aria-label="Filter">
+<table class="abbr"><thead><tr><th>Abbreviation</th><th>Expansion</th><th>Kind</th><th>Basis</th><th>Pages</th></tr></thead>
+<tbody>{rows}</tbody></table>
 </main>"""
     return page_html("Abbreviations · Lewysohn, Zoologie des Talmuds", body)
 

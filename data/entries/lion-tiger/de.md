@@ -7,27 +7,45 @@
 ‎Genereller Name: ארי (Aboth 5, 20), אריא (B. Kama 40, a)
 und אריה (Jebamoth 122, b). Der männliche Löwe heißt: ארי זכר
 (Sabbat 150, a), der weibliche: לביה (B. Kama 16, b) und גורייתא
-(Sabbat 67, a). — Von אריא ist der Pl. אריות (Chulin 3, b) und
-אריותא (Sanhedrin 59, b*). — Der junge L. oder Leu heißt: גוריא
-(ibid. 64, a). — ארי wird abgeleitet von ראה (sehende, Bochart), oder
-ארה (abreißen, zerreißen, Gesenius). — לביה von لَبَأَ (säugen, Ro-
-senmüller), oder von לבי (brüllen, Fürst). — גוריא von גור (saugen,
-Fürst). — Die Löwin wurde von Einigen כלבא genannt (Jalk. Schim.
+(Sabbat 67, a).
+
+‎Von אריא ist der Pl. אריות (Chulin 3, b) und
+אריותא (Sanhedrin 59, b*).
+
+‎Der junge L. oder Leu heißt: גוריא
+(ibid. 64, a).
+
+‎ארי wird abgeleitet von ראה (sehende, Bochart), oder
+ארה (abreißen, zerreißen, Gesenius).
+
+‎לביה von لَبَأَ (säugen, Ro-
+senmüller), oder von לבי (brüllen, Fürst).
+
+‎גוריא von גור (saugen,
+Fürst).
+
+‎Die Löwin wurde von Einigen כלבא genannt (Jalk. Schim.
 2. Th. §. 721). Der Löwe ist der König der Thiere (Chagiga 13,
 b). Er ist das Sinnbild der Kraft (Pesachim 112, a) und dient
 daher als Ehrentitel für ausgezeichnete Gelehrte (Sabbat 111, b).
 Auch der Ruf Gottes wird poetisch dem Löwengeschrei verglichen (Be-
 rachoth 3, a**), welches, wie Reisende in Afrika erzählen, derart
 Heerden und andere Thiere erschreckt, daß sie sich dann zusammen-
-drängen und zitternd den noch fernen Wälderkönig fürchten. — Auch
+drängen und zitternd den noch fernen Wälderkönig fürchten.
+
+‎Auch
 der mächtige Geist der Verführung zum Götzendienst erscheint in der [p. 69] Gestalt eines jungen Löwen, dessen Brüllen 400 Meilen weit gehört
 wird (Sanhedrin 64, a); dieser Hypersymbolik liegt jedenfalls die
 Wahrheit zu Grunde, daß das Geschrei des Löwen sehr laut und
-weitdringend ist. — Andere Stellen, welche die Hoheit und Furcht-
+weitdringend ist.
+
+‎Andere Stellen, welche die Hoheit und Furcht-
 barkeit des Löwen bezeichnen, sind: „Sei Schwanz unter Löwen und
 nicht Haupt unter Füchsen!“, denn dort herrscht Kraft, hier List
 (Aboth 4, 15), „Bekämpfe nicht den todten Löwen!“ (Gittin 83, b),
-d. h., habe Achtung vor gewesener Größe. — Fürchtete man einem
+d. h., habe Achtung vor gewesener Größe.
+
+‎Fürchtete man einem
 Gegenstande sich zu nähern, so sagte man: Der Löwe kauert auf dem
 Gegenstande (Schebuoth 22, b*). Seine Eßsucht bezeichnete man
 mit dem Sprüchwort: „Eine Handvoll sättigt den Löwen nicht“ (Be-
@@ -44,44 +62,58 @@ der Löwe hungert und auf Beute ausgeht, so heißt sein Brüllen in
 dieser Zeit שאג, weshalb Gott über den Verlust des Tempels, wie
 der Löwe, schreit (Berachoth 3, a); erblickt der Löwe die Beute, oder
 befindet er sich bereits in ihrer Nähe, dann modulirt sich die Stimme
-und heißt נער (Chulin 53, a), während des Verzehrens knurrt er (Be-
+und heißt עוא (Chulin 53, a), während des Verzehrens knurrt er (Be-
 rachoth 32, a), was נהם heißt.
 
 ‎Die vorderen Körpertheile sind auffallend bei ihm entwickelter
 als die hinteren Theile, so daß er hinten schmal und vorn breit er-
 scheint (Middoth 4, 7). Seine Tragzeit beträgt drei Jahre (Becho-
 roth 8, a); doch irrthümlich, worüber §. 17 gesprochen wurde; sie be-
-trägt 180 Tage, s. Voigt, l. c. 1. S. 268***). — Erfaßt er eine [p. 70] Beute, so verzehrt er sie sogleich, ohne ihren Tod abzuwarten (Pe-
+trägt 180 Tage, s. Voigt, l. c. 1. S. 268***).
+
+‎Erfaßt er eine [p. 70] Beute, so verzehrt er sie sogleich, ohne ihren Tod abzuwarten (Pe-
 sachim 49, b), was vollkommen mit der Angabe neuerer Naturfor-
 scher übereinstimmt, denn der Löwe, wie überhaupt alle von le-
 bendigen Thieren sich nährenden reißenden Thiere stecken den Kopf
 in die Beute und wühlen darin, um mit Lust die hitzige Nahrung zu
-genießen. — Zuweilen jedoch weilt der Löwe unter Heerden, ohne sie
+genießen.
+
+‎Zuweilen jedoch weilt der Löwe unter Heerden, ohne sie
 zu berühren (Chulin 53, a), oder es mildert sich seine Gier, wenn er
 erst ein Stück derselben zerrissen hat (ibid.). Aus der Wunde, die er
 durch seine Zähne, oder mit seinen Krallen gemacht hat, fließt eine
 gelbe Feuchtigkeit (Arist. l. c. 9, 31, 3), welche ויהורא (Chulin ibid.
-und hierzu §. 86) heißt. — Den Menschen fällt er nur bei starkem
+und hierzu §. 86) heißt.
+
+‎Den Menschen fällt er nur bei starkem
 Hunger an (Jebamoth 121, b), fällt aber überhaupt niemals zwei
-Menschen an, die bei einander sich befinden (Sabbat 151, b). — Von
+Menschen an, die bei einander sich befinden (Sabbat 151, b).
+
+‎Von
 seiner Beute schleppt er zuweilen einen Theil in seine Höhle, um Vor-
 rath zu haben (Sanhedrin 90, b), oder zur Nahrung für die Löwin
 und die Jungen (B. Kama 16, b). Wer an einer Löwengrube (גוב
 של אריות) glücklich vorüber ging, hat einen dankenden Segensspruch
-zu verrichten (Berachoth 57, b). — Er ist zähmbar (Sanhedrin 15,
+zu verrichten (Berachoth 57, b).
+
+‎Er ist zähmbar (Sanhedrin 15,
 b), doch hält man ihn wegen seiner Gefährlichkeit im Käfig (Sabbat
 106, b), und der Handel mit ihm ist verboten (A. Sara 16, a).
 Ganz besonders gefährlich ist er zur Begattungszeit, weshalb das
 Sprüchwort: „Wer will ein Kleid zwischen Löwen und Löwin aus-
-breiten, wann sie sich begatten?“ (Sanhedrin 106, a). — Bei aller
+breiten, wann sie sich begatten?“ (Sanhedrin 106, a).
+
+‎Bei aller
 Kraft jedoch fürchtet er die aehtiopische Mücke (Sabbat 77, b), worüber
-§. 433 ausführlich gesprochen werden wird. — Die Löwenmilch wird
+§. 433 ausführlich gesprochen werden wird.
+
+‎Die Löwenmilch wird
 in der Medicin benutzt (Midr. Jalk. Schim. 2. Th. §. 721).
 
 ### ‎§. 115.
 Der Tiger.
 
-‎טגרים (Τίγρις) und umschrieben: אריא דבי עילאי „Löwe des
+‎טגריס (Τίγρις) und umschrieben: אריא דבי עילאי „Löwe des
 Waldes Ilai“ (Chulin 59, b). Dem Löwen gleich an Größe ist der
 Tiger, welches Thier von den Alten wenig gekannt war. Aristo-
 teles ist der erste, der des Tigers Erwähnung thut. Er sagt: Es
@@ -94,15 +126,23 @@ Naturforscher als ein Thier, das dem Löwen am ähnlichsten sei, so
 Oppian (Κυνηγετικά 3. B., angef. bei Bochart l. c. P. 3. lib. 1.
 col. 721 und ibid. lib. 8 col. 792): „Du wirst ihn nach alledem
 als eine Gebirgslöwin ansehen, außer dem Felle, welches bunt-
-gefleckt ihn umgiebt.“ — So stellt auch Varo (De ling. lat. lib. 4)
-beide Thiere nebeneinander: „Tigris est ut leo varius.“ — Ebenso
-benennt ihn, wie wir gesehen, auch der Talmud neben טגרים auch
-אריא דבי עילאי. — Das Wort עילאי nimmt Raschi als Eigennamen
+gefleckt ihn umgiebt.“
+
+‎So stellt auch Varo (De ling. lat. lib. 4)
+beide Thiere nebeneinander: „Tigris est ut leo varius.“
+
+‎Ebenso
+benennt ihn, wie wir gesehen, auch der Talmud neben טגריס auch
+אריא דבי עילאי.
+
+‎Das Wort עילאי nimmt Raschi als Eigennamen
 eines gewissen Waldes; vielleicht aber mögen beide Wörter בי עילאי
 als ein Wort בעילאי zu lesen sein, das wie באלא (Chulin 80, a)
 entweder den Libanonwald, oder Wald schlechthin bezeichnet. Oder
 sollte vielleicht עילאי mit Ὑλη, Silva verwandt sein? Vergleiche Art.
-Frettchen. — Münster übersetzt עילאי durch major.
+Frettchen.
+
+‎Münster übersetzt עילאי durch major.
 
 ‎Naturhistorisches hat über das Thier der Talmud nur Weniges
 und überdies nur im fabelhaften Gewande mitgetheilt. Chulin 59,

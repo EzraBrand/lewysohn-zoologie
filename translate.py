@@ -9,7 +9,8 @@ and .md, one English block for each source block. Words in Hebrew, Aramaic, Syri
 Greek stay in their script; Syriac, Arabic, Persian and Greek get a transliteration in square
 brackets, Hebrew script does not. Roman numerals become Arabic numerals.
 When data/gold/{page}.txt exists, the gold text is translated instead of the OCR output.
-Ported from low-flora (Löw, Flora der Juden); rules v3 unchanged.
+Ported from low-flora (Löw, Flora der Juden). Rules v4 (31-Oct-2026): abbreviations stay as printed
+and abbrev.py expands them after translation; the author's romanizations keep his spelling.
 """
 
 import argparse
@@ -21,11 +22,13 @@ from pathlib import Path
 
 import requests
 
+import abbrev
+
 sys.stdout.reconfigure(encoding="utf-8")
 
 DATA = Path(__file__).parent / "data"
 KEY_FILE = Path.home() / "Desktop/Misc/key.txt"
-RULES_VERSION = "v3"  # change when the translation rules change; it is part of the output folder name
+RULES_VERSION = "v4"  # change when the translation rules change; it is part of the output folder name
 
 PROMPT = """\
 Below is one OCR'd page of Ludwig Lewysohn, "Die Zoologie des Talmuds" (Frankfurt 1858), a \
@@ -49,13 +52,15 @@ add a transliteration in square brackets right after each word or phrase, e.g. "
 "τερέβινθος [terebinthos]". Use standard current academic transliteration: IJMES for Arabic \
 and Persian; SBL Handbook of Style (2nd ed.) for Greek. If the OCR text has [?], keep [?] and do \
 not transliterate it. If a reading looks wrong, still transliterate what is written.
-- Abbreviations: at the FIRST occurrence in the input of each abbreviation in the list below, \
-add " [=expansion]" right after it, e.g. "assyr. [=Assyrian]", "BB. [=Bar Bahlul, Lexicon]". \
-Use the expansion from the list; for bibliography shorten it to author and short title. If the \
-list says the expansion is unknown, write "[=?]". Later occurrences in the input stay as \
-they are. Abbreviations that are not in the list: leave them as they are.
-Abbreviation list for this input:
+- Abbreviations: the list "Keep as printed" below names abbreviations and short titles that \
+must stay exactly as printed: do not expand, translate or drop them, and do not add a bracket \
+after them. This includes German titles of works, e.g. "Thierg." and "Naturg." stay "Thierg." and \
+"Naturg." (a program adds the expansion after translation). The list "Translate" gives general \
+German abbreviations with the English form to use. Abbreviations in neither list: leave them as \
+they are.
 {abbrevs}
+- The author's own romanized Hebrew titles and terms keep his spelling (e.g. "Schir ha-Jichud", \
+"Mekore Minhagim"); do not modernize it.
 - Roman numerals used as numbers become Arabic numerals: "p. XXXIX" -> "p. 39". A Roman volume, book or chapter number before a page or folio number becomes "number, page" as the author writes elsewhere: "Robinson I 346. III 221" -> "Robinson 1, 346. 3, 221", "Gal. VI 644" -> "Gal. 6, 644", "jKil. I 27^{{a}}" -> "jKil. 1, 27^{{a}}", "E. Wiedem. XLIX 19" -> "E. Wiedem. 49, 19". Keep Roman numerals that are part of a name or title (e.g. Pius XII).
 - "Palästina" / "Palestine" in the author's text: write "Eretz Yisrael"; the adjective \
 ("palästinisch", "Palestinian"): "of Eretz Yisrael" or "Eretz-Yisrael" before a noun (e.g. \
@@ -110,17 +115,6 @@ def add_hebrew_letters(text: str) -> str:
     return SYRIAC_RUN.sub(lambda m: f"{m.group(0)} [{syriac_to_hebrew(m.group(0))}]", text)
 
 
-def abbrev_rows(page_keys: str | list[str]) -> str:
-    keys = [page_keys] if isinstance(page_keys, str) else page_keys
-    table = DATA.parent / "abbreviations.json"
-    if not table.exists():
-        return "(none)"
-    rows = [r for r in json.loads(table.read_text(encoding="utf-8"))["items"].values()
-            if any(k in r["pages"] for k in keys)]
-    return "\n".join(f"- {r['abbr']} = {r['expansion'] if r['basis'] != 'unknown' else '?'}"
-                     for r in rows) or "(none)"
-
-
 CONTENTS = """\
 This input is a table of contents. Here the rule on joining lines does NOT apply: keep every \
 printed line as its own line, separated by "\\n", in the same order. Replace each row of \
@@ -132,7 +126,7 @@ here Roman page numbers (VII, IX: the front matter) stay Roman. Translate the Ge
 def translate(page: dict, model: str, effort: str, page_key: str | list[str], extra: str = "") -> dict:
     src = [{"type": b["type"], "marker": b.get("marker", ""), "text": b["text"]} for b in page["blocks"]]
     prompt = PROMPT.format(blocks=json.dumps({"blocks": src}, ensure_ascii=False, indent=1),
-                           abbrevs=abbrev_rows(page_key), extra=extra)
+                           abbrevs=abbrev.prompt_rows("\n".join(b["text"] for b in src)), extra=extra)
     t = time.monotonic()
     r = requests.post(
         "https://openrouter.ai/api/v1/chat/completions",

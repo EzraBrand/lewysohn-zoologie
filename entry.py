@@ -2,6 +2,7 @@
 
   uv run entry.py toc                      # build data/entries/toc/ (German + English)
   uv run entry.py toc --no-translate       # only the joined German text
+  uv run entry.py lion-tiger --expand-only # redo the abbreviation step, no model call
 
 Per page the source is the gold text if it exists, else the OCR (translate.py's default).
 Running heads and page numbers are dropped. A paragraph that runs over a page break is joined,
@@ -15,6 +16,7 @@ import re
 import sys
 from pathlib import Path
 
+import abbrev as A
 import translate as T
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -36,12 +38,47 @@ ENTRIES = {
 # A paragraph continues on the next page if the page ends without sentence-final punctuation;
 # "continue" / "break" in an entry override this for the pages listed (the first page of the pair).
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
+# Corrections to the OCR of pages that have no gold text: (old, new), with enough context to be
+# unique. Checked against the scan by Claude, 31-Oct-2026 (not by hand like a gold page).
+FIXES = {
+    69: [("heißt נער (Chulin 53, a)", "heißt עוא (Chulin 53, a)")],  # print: ע, full-height ו, א
+    71: [("neben טגרים auch", "neben טגריס auch")],  # final letter is ס, as on gold p. 70
+}
+# Lewysohn separates the topics inside a paragraph with a long dash; in the joined text each
+# topic becomes its own paragraph (the dash is dropped). Not before a digit: "S. 63 — 76" is a range.
+DASH = re.compile(r"\s+—\s+(?=\D)")
 
 
 def page_blocks(page) -> list[dict]:
     ocr = json.loads((DATA / "ocr" / SOURCE / f"{page}.json").read_text(encoding="utf-8"))
     gold = DATA / "gold" / f"{page}.txt"
-    return (T.gold_page(gold, ocr) if gold.exists() else ocr)["blocks"]
+    if gold.exists():
+        return T.gold_page(gold, ocr)["blocks"]
+    for old, new in FIXES.get(page, []):
+        hits = [b for b in ocr["blocks"] if old in b["text"]]
+        if len(hits) != 1:
+            sys.exit(f"p. {page}: correction {old!r} found {len(hits)} times, not once")
+        hits[0]["text"] = hits[0]["text"].replace(old, new)
+    return ocr["blocks"]
+
+
+def split_dashes(main: list[dict]) -> list[dict]:
+    """Body paragraphs -> one paragraph per dash-separated topic; "page" = page where it starts."""
+    out = []
+    for b in main:
+        if b["type"] != "body":
+            out.append(b)
+            continue
+        page = b["page"]
+        for part in DASH.split(b["text"]):
+            out.append({**b, "text": part, "page": page})
+            marks = T_PAGE_MARK.findall(part)
+            if marks:
+                page = int(marks[-1]) if marks[-1].isdigit() else marks[-1]
+    return out
+
+
+T_PAGE_MARK = re.compile(r"\[p\. ([^\]\s]+)\]")
 
 
 def build(cfg: dict) -> tuple[list[dict], list[dict]]:
@@ -110,6 +147,8 @@ def render(title: str, main: list[dict], notes: list[dict], lines: bool = False)
         text = T.LRM + T.md_inline(b["text"])  # LRM: see translate.LRM
         if lines:
             text = re.sub(r"(?:\s*\.){3,}\s*", " … ", text).replace("\n", f"  \n{T.LRM}")
+        elif b["type"] == "heading":  # "§. 115.\nDer Tiger." is one Markdown heading line
+            text = text.replace("\n", " ")
         out += [f"### {text}" if b["type"] == "heading" else text, ""]
     if notes:
         out += ["---", "", "**Notes**", ""]
@@ -127,12 +166,19 @@ def main():
     p.add_argument("--model", default="anthropic/claude-opus-5.5")
     p.add_argument("--effort", default="medium")
     p.add_argument("--no-translate", action="store_true")
+    p.add_argument("--expand-only", action="store_true",
+                   help="no model call: redo the abbreviation step from en.raw.json")
     a = p.parse_args()
     cfg = ENTRIES[a.entry]
     out = DATA / "entries" / a.entry
     out.mkdir(parents=True, exist_ok=True)
+    if a.expand_only:
+        finish(cfg, out)
+        return
 
     main_blocks, notes = build(cfg)
+    if not cfg.get("contents"):
+        main_blocks = split_dashes(main_blocks)
     (out / "de.json").write_text(json.dumps({"main": main_blocks, "notes": notes}, ensure_ascii=False, indent=1),
                                  encoding="utf-8")
     (out / "de.md").write_text(render(cfg["title"], main_blocks, notes, cfg.get("contents", False)), encoding="utf-8")
@@ -153,11 +199,29 @@ def main():
             print(f"{kind} chunk {i}: {len(ch)} blocks, {res['meta']['seconds']} s, "
                   f"${res['meta']['cost_usd']:.4f}", flush=True)
     meta = {"model": a.model, "effort": a.effort, "rules": T.RULES_VERSION, "cost_usd": round(cost, 4)}
-    (out / "en.json").write_text(json.dumps({"main": en_main, "notes": en_notes, "meta": meta},
+    # the model's output, before the abbreviation step: --expand-only starts again from here
+    (out / "en.raw.json").write_text(json.dumps({"main": en_main, "notes": en_notes, "meta": meta},
+                                                ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"translation cost ${cost:.4f}")
+    finish(cfg, out)
+
+
+def finish(cfg: dict, out: Path) -> None:
+    """en.raw.json -> abbreviations expanded (abbrev.py) -> en.json and en.md."""
+    raw = json.loads((out / "en.raw.json").read_text(encoding="utf-8"))
+    en_main, en_notes = raw["main"], raw["notes"]
+    de = json.loads((out / "de.json").read_text(encoding="utf-8"))
+    problems = A.check("\n".join(b["text"] for b in de["main"] + de["notes"]),
+                       "\n".join(b["text"] for b in en_main + en_notes))
+    for p in problems:
+        print(f"ABBREVIATION CHECK: {p}")
+    uses = A.expand([en_main, en_notes])
+    raw["meta"]["abbreviations_expanded"] = sorted(uses)
+    (out / "en.json").write_text(json.dumps({"main": en_main, "notes": en_notes, "meta": raw["meta"]},
                                             ensure_ascii=False, indent=1), encoding="utf-8")
-    title = cfg["title"]
-    (out / "en.md").write_text(render(title, en_main, en_notes, cfg.get("contents", False)), encoding="utf-8")
-    print(f"translation cost ${cost:.4f}; wrote {out / 'en.md'}")
+    (out / "en.md").write_text(render(cfg["title"], en_main, en_notes, cfg.get("contents", False)),
+                               encoding="utf-8")
+    print(f"{len(uses)} abbreviations expanded, {len(problems)} check problem(s); wrote {out / 'en.md'}")
 
 
 if __name__ == "__main__":
