@@ -48,6 +48,7 @@
   "model": "anthropic/claude-opus-5.5",
   "effort": "medium",
   "rules": "v3",
-  "cost_usd": 0.0173
+  "cost_usd": 0.0173,
+  "abbreviations_expanded": []
  }
 }

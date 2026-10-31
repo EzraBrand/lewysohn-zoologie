@@ -1,0 +1,69 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Vorrede.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Vorrede."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Man hat seit einigen Decennien den Versuch begonnen die ver-\nschiedenen wissenschaftlichen Disciplinen des Talmud's zu sondiren und\nsystematisch darzustellen*), ein Unternehmen, das nicht bloß geeignet\nist das Talmudstudium an sich fruchtbarer und anziehender zu machen,\nsondern auch dazu beiträgt, demselben auch bei Denjenigen, welche noch\nimmer den Talmud für nichts Anderes als ein Conglomerat zusammen-\ngeworfener Gedanken und Sätze zu halten gewohnt sind, die gebührende\nWürdigung zu verschaffen. Man unterschätze den letztgedachten Zweck\nnicht; gab es ja eine Zeit, in welcher das karge Zugeständniß jener\nengherzigen und unrichtigen Anschauung glücklicher Weise zum Rettungs-\nmittel des Talmud's dienen konnte**), und ist auch diese Zeit der Auto-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Man hat seit einigen Decennien den Versuch begonnen die ver-\nschiedenen wissenschaftlichen Disciplinen des Talmud's zu sondiren und\nsystematisch darzustellen*), ein Unternehmen, das nicht bloß geeignet\nist das Talmudstudium an sich fruchtbarer und anziehender zu machen,\nsondern auch dazu beiträgt, demselben auch bei Denjenigen, welche noch\nimmer den Talmud für nichts Anderes als ein Conglomerat zusammen-\ngeworfener Gedanken und Sätze zu halten gewohnt sind, die gebührende\nWürdigung zu verschaffen. Man unterschätze den letztgedachten Zweck\nnicht; gab es ja eine Zeit, in welcher das karge Zugeständniß jener\nengherzigen und unrichtigen Anschauung glücklicher Weise zum Rettungs-\nmittel des Talmud's dienen konnte**), und ist auch diese Zeit der Auto-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "So fanden ganz, oder theilweise ihre Bearbeiter, die Numisma-\ntik (Zunz), die Jura (Fassel, Frankel, Bodenheimer), die Medicin\n(D. m. Frankel, Wunderbar), die Mathematik (Ehrmann), die Land-\nwirthschaft (Ph. Philippson), das Kalenderwesen (Luzzatto, Lewi-\nsohn, Zuckermann), die Chronologie (Graetz), die Geographie\n(Schwarz) u. s. w.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "So fanden ganz, oder theilweise ihre Bearbeiter, die Numisma-\ntik (Zunz), die Jura (Fassel, Frankel, Bodenheimer), die Medicin\n(D. m. Frankel, Wunderbar), die Mathematik (Ehrmann), die Land-\nwirthschaft (Ph. Philippson), das Kalenderwesen (Luzzatto, Lewi-\nsohn, Zuckermann), die Chronologie (Graetz), die Geographie\n(Schwarz) u. s. w."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Siehe „Die Reuchlin'sche Vertheidigung des Talmud's“, abgedruckt\nin der Literaturbeilage der Allg. Ztg. d. Judenth.“ 1839, Nr. 87. Vergl.\nauch Klein's Jahrbuch 1844 und 1856, S. 34 ff.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Siehe „Die Reuchlin'sche Vertheidigung des Talmud's“, abgedruckt\nin der Literaturbeilage der Allg. Ztg. d. Judenth.“ 1839, Nr. 87. Vergl.\nauch Klein's Jahrbuch 1844 und 1856, S. 34 ff."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    4084
+   ]
+  ],
+  "input_tokens": 6625,
+  "output_tokens": 821,
+  "cost_usd": 0.0429,
+  "seconds": 12.7
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "main": [
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "The\nZoology of the Talmud.",
+   "page": "scan0001"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "By\nDr. L. Lewysohn.",
+   "page": "scan0001"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "[p. scan0003] The\nZoology of the Talmud.",
+   "page": "scan0003"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "A comprehensive presentation\nof rabbinic zoology, with constant comparison\nof the researches of older and more recent writers",
+   "page": "scan0003"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "by",
+   "page": "scan0003"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Dr. L. Lewysohn,\nPreacher of the Israelite Congregation of Worms.",
+   "page": "scan0003"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Published by the author.\nOn commission with Joseph Baer in Frankfurt am Main.\n1858.",
+   "page": "scan0003"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "[p. scan0005] To his eldest brother\nAbraham Lewysohn\nin Peiskretscham, Upper Silesia,\n(author of the work: Mekore Minhagim, Berlin 1846)",
+   "page": "scan0005"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "and",
+   "page": "scan0005"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "to his elder brother\nSalomon Lewysohn\nin Posen,\n(author of the treatise: Chibbat Jeruschelajim we-Ahabat Zion, Wollstein 5615)",
+   "page": "scan0005"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "this book is dedicated as a token of the most heartfelt love",
+   "page": "scan0005"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "by the author.",
+   "page": "scan0005"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "[p. scan0006] והחוט המשולש לא במהרה ינתק!\n(Pred. [=Ecclesiastes (German Prediger)] 4, 12).",
+   "page": "scan0006"
+  }
+ ],
+ "notes": [],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "rules": "v5",
+  "cost_usd": 0.023,
+  "abbreviations_expanded": [
+   "Pred."
+  ]
+ }
+}

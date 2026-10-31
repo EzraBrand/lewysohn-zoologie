@@ -110,8 +110,7 @@ Kraft jedoch fürchtet er die aehtiopische Mücke (Sabbat 77, b), worüber
 ‎Die Löwenmilch wird
 in der Medicin benutzt (Midr. Jalk. Schim. 2. Th. §. 721).
 
-### ‎§. 115.
-Der Tiger.
+### ‎§. 115. Der Tiger.
 
 ‎טגריס (Τίγρις) und umschrieben: אריא דבי עילאי „Löwe des
 Waldes Ilai“ (Chulin 59, b). Dem Löwen gleich an Größe ist der

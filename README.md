@@ -21,6 +21,8 @@ footnotes. Built by `build_site.py` into `docs/` (GitHub Pages serves `main:/doc
 |---|---|
 | 1. Sources and book structure | done (see [Source](#source) and [Structure](#structure)) |
 | 2. Table of contents: OCR and translation | done: [German](data/entries/toc/de.md), [English](data/entries/toc/en.md); no OCR errors |
+| 2a. Front matter: half-title, title page, dedication, motto | done: [English](data/entries/front/en.md) ([German](data/entries/front/de.md)) |
+| 2b. Preface (Vorrede, pp. VII–XII) | done: [English](data/entries/preface/en.md) ([German](data/entries/preface/de.md)); not checked by hand |
 | 3. Abbreviation table | the book has **no list of abbreviations**; a reviewed table built from §§ 114–115 ([ABBREVIATIONS.md](ABBREVIATIONS.md), 34 rows), expanded by a fixed step after translation (`abbrev.py`) |
 | 4. One whole test entry: §§ 114–115, the lion and the tiger, pp. 68–71 | done: OCR ([68](data/ocr/or-claude-opus-5.5%40low%2Bital/68.md), [69](data/ocr/or-claude-opus-5.5%40low%2Bital/69.md), [70](data/ocr/or-claude-opus-5.5%40low%2Bital/70.md), [71](data/ocr/or-claude-opus-5.5%40low%2Bital/71.md)); **gold pages [68](data/gold/68.txt) and [70](data/gold/70.txt)** checked by hand; page joins checked by eye; translated with rules v4 ([English](data/entries/lion-tiger/en.md), $0.119) |
 | 5. Reading edition (`build_site.py`) | done for the test entry and the contents; the abbreviation page is a placeholder |
@@ -117,14 +119,19 @@ abbreviation step).
   - **Paragraphs are split at Lewysohn's long dashes** (` — `, not before a digit, so ranges like
     "S. 63 — 76" stay); the dash itself is dropped. Main text only, not footnotes.
   - `FIXES`: corrections to the OCR of pages without gold text, each checked against the scan.
-  - After translation, `abbrev.py` checks and expands the abbreviations.
+  - A footnote at the top of a page whose mark is not in that page's text continues the last note
+    of the page before (the numbered list in note `***)` of the preface runs over pp. IX–XI).
+  - `keep_hyphen`: page breaks at a real hyphen ("Auto-|da-fé's").
+  - After translation (fixed steps, no model): the page marks are copied from the German (the model
+    turned `[p. VIII]` into `[p. 8]`); Talmud folios get the modern form; `abbrev.py` checks and
+    expands the abbreviations.
 - `abbrev.py`: new. A reviewed table (`abbreviations.json`) and a fixed expansion step after
   translation, as with the Jastrow/BDB mappings in [Bekiut](https://github.com/EzraBrand/bekiut).
   The book has no list of abbreviations; the table is built from the text.
 - `ia_ocr.py`: new. archive.org's OCR per page, from its DjVu XML, as a baseline for `eval.py`.
 - `build_site.py`: one volume, entries only; the tooltip covers the whole abbreviation ("B. Kama").
 
-## Translation rules (v4, 31-Oct-2026)
+## Translation rules (v5, 31-Oct-2026)
 
 German and French → English, with the author's hedges kept. Latin (including zoological names),
 English, references and the author's romanizations stay as printed. Hebrew script is not
@@ -143,6 +150,14 @@ New in v4:
   classical work the expansion gives the English and the Latin title: `Thierg. [=Aelian, On the
   Nature of Animals (De natura animalium; German title Thiergeschichte)]`.
 - The author's romanized Hebrew titles keep his spelling ("Schir ha-Jichud", not "Shir ha-Yiḥud").
+- An abbreviation is expanded only at its **first use** in a document. "Midr. Jalk. Schim." is a
+  row of its own, so it is expanded as one title.
+
+New in v5: **Talmud folio references in the modern form** in the English: "Sanhedrin 106, a" →
+"Sanhedrin 106a", "ibid. 64, a" → "ibid. 64a". A fixed step after translation
+(`translate.modern_citations`), so a v4 translation becomes v5 without a model call. Only a side
+`a`/`b` after "number, " changes; Mishnah and Jerusalem Talmud references ("Aboth 5, 20",
+"B. batra 2, 3") stay. The German stays as printed.
 
 ## Results: CER on the gold pages (pp. 68 and 70)
 
@@ -164,8 +179,11 @@ from the Opus draft and checked by hand, so the Opus numbers favour Opus; the on
 | Translation of the contents, Opus 5.5 @medium | 1 | $0.017 | — |
 | Translation of §§ 114–115, rules v3 (from OCR; replaced) | 4 | $0.109 | $0.027 |
 | Translation of §§ 114–115, rules v4 (3 chunks, 47 s) | 4 | $0.119 | $0.030 |
+| OCR, front matter and preface | 10 | $0.526 | $0.012–0.078 |
+| Translation, front matter | 4 | $0.023 | — |
+| Translation, preface (3 chunks) | 6 | $0.133 | $0.022 |
 
-OpenRouter prices. Total so far: about $0.62. Translation is much cheaper per page than in Löw
+OpenRouter prices. Total so far: about $1.30. Translation is much cheaper per page than in Löw
 (octavo pages, about 1,700 characters each). A full run of about 414 pages would be about $35 for
 OCR and about $15–25 for translation.
 
@@ -187,8 +205,14 @@ OCR and about $15–25 for translation.
 - **Translation of §§ 114–115 (v4):** accurate, hedges kept, the three `[p. N]` marks in place,
   all 22 source and bibliography abbreviations kept as printed and expanded once. The model wrote
   "Varro" for Lewysohn's "Varo".
-- **Abbreviations:** 34 rows from this entry. Six bibliography expansions are marked **guess**
-  (which work by Gesenius, Fürst, Voigt, Münster is meant); check them when more entries cite them.
+- **Preface (pp. VII–XII):** read against the scans; no OCR error found. Printer's errors kept as
+  printed: "babyl. Taldmud", "bot sich … darin dem Mangel", "Worms., den". The Kusari quotation on
+  p. VIII ends מגאלינום in the print (the Hebrew Kusari has מגאלינוס). The translation is close
+  and keeps the author's modesty formulas. The abbreviation check reports "Kusari: 2 in the
+  German, 3 in the English"; this is correct ("Kusaricommentar" → "Kusari commentary").
+- **Abbreviations:** 61 rows from §§ 114–115 and the front matter. Five expansions are marked
+  **guess** (which work by Gesenius, Fürst, Voigt, Münster is meant; "D. m." as Doctor medicinae);
+  check them when more entries cite them. "Klein's Jahrbuch" (preface, note) is not identified.
 - Block types are not consistent: `§. 115.` and `Der Tiger.` are one heading block on p. 70, two on p. 68.
 - The contents page was OCR'd and translated without an error (13 lines, 13 page numbers).
   Abtheilung is translated "Part", Klasse "Class".
@@ -202,8 +226,9 @@ OCR and about $15–25 for translation.
 1. **Hebrew check:** 3 Hebrew errors in 4 pages. Options: a second engine on the Hebrew runs only,
    with a person reviewing where they differ; or a check of each Hebrew word against a word list
    (Jastrow headwords in Bekiut), flagging words not found.
-2. **Next entries:** more §§ (for example all of the mammal class, pp. 64–158, about $11 for OCR and
-   translation), then a gold page from each, to see whether the CER holds.
+2. **Next part, in book order:** the first part, *Allgemeine Zoologie* (pp. 1–63, §§ 1 to about
+   100): about $7 for OCR and translation. Then the classes. A gold page from each part, to see
+   whether the CER holds.
 3. Abbreviations: grow the table with each entry; resolve the **guess** rows.
 4. Reading edition: links from `§. N` cross-references to their §, and the registers as data.
 5. Full run: about $50–60 in total.

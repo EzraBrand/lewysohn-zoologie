@@ -1,0 +1,173 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "X Vorrede.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "X Vorrede."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "die Wörterbücher von Nathan, Landau, Bondi u. A. Am meisten\naber diente ihm der Commentar des unsterblichen Raschi, wiewohl",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "die Wörterbücher von Nathan, Landau, Bondi u. A. Am meisten\naber diente ihm der Commentar des unsterblichen Raschi, wiewohl"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Pinchas Eliahu b. Meier (S. 166, Anm. ** ist vor אליהו der\nName פנחס im Drucke ausgefallen.) verfaßte das Werk ספר הבריח\nBrünn 1797, 4.). Er recurrirt zu öftern Malen auf den Talmud,\ndessen Angaben, wahre wie falsche, er zu begründen sucht; vergl.\nz. B. die Angabe Betreffs der Geburt der Fledermaus. — Die letz-\nten drei genannten Werke sind encyclopädische Compendien sämmtlicher\nNaturwissenschaften und der Metaphysik.",
+   "marker": "4)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Pinchas Eliahu b. Meier (S. 166, Anm. ** ist vor "
+    },
+    {
+     "lang": "heb",
+     "text": "אליהו"
+    },
+    {
+     "lang": "deu",
+     "text": " der\nName "
+    },
+    {
+     "lang": "heb",
+     "text": "פנחס"
+    },
+    {
+     "lang": "deu",
+     "text": " im Drucke ausgefallen.) verfaßte das Werk "
+    },
+    {
+     "lang": "heb",
+     "text": "ספר הבריח"
+    },
+    {
+     "lang": "deu",
+     "text": "\nBrünn 1797, 4.). Er recurrirt zu öftern Malen auf den Talmud,\ndessen Angaben, wahre wie falsche, er zu begründen sucht; vergl.\nz. B. die Angabe Betreffs der Geburt der Fledermaus. — Die letz-\nten drei genannten Werke sind encyclopädische Compendien sämmtlicher\nNaturwissenschaften und der Metaphysik."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Das größte Verdienst von jüdischen Gelehrten um die Zoologie er-\nwarb sich Dr. M. E. Bloch durch seine Werke: a) Oekonomische Na-\nturgeschichte der Fische Deutschland's (Berlin 1782, 4. Drei Theile\nmit illum. Kupfern), b) Naturgeschichte der ausländischen Fische (Ber-\nlin 1785—88, 4. Neun Theile mit illum. Kupfern). Der Verf.\ndieser ausgezeichneten, für die Ichtyologie unentbehrlichen Werke hat\ndie Ehre, daß mehrere Species nach ihm benannt werden, z. B.\nSphyrna Blochii u. A.",
+   "marker": "5)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das größte Verdienst von jüdischen Gelehrten um die Zoologie er-\nwarb sich Dr. M. E. Bloch durch seine Werke: a) Oekonomische Na-\nturgeschichte der Fische Deutschland's (Berlin 1782, 4. Drei Theile\nmit illum. Kupfern), b) Naturgeschichte der ausländischen Fische (Ber-\nlin 1785—88, 4. Neun Theile mit illum. Kupfern). Der Verf.\ndieser ausgezeichneten, für die Ichtyologie unentbehrlichen Werke hat\ndie Ehre, daß mehrere Species nach ihm benannt werden, z. B.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Sphyrna Blochii"
+    },
+    {
+     "lang": "deu",
+     "text": " u. A."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Dr. L. Ali Cohen verfaßte das Buch: De dichter van het boek\nIjob, als dierkundige beschouwd u. s. w. (Groningen 1843, 8).\nDer Verf. erklärte die Thiernamen im Buche Job in öffentlichen Vor-\nlesungen.",
+   "marker": "6)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dr. L. Ali Cohen verfaßte das Buch: "
+    },
+    {
+     "lang": "other",
+     "text": "De dichter van het boek\nIjob, als dierkundige beschouwd"
+    },
+    {
+     "lang": "deu",
+     "text": " u. s. w. (Groningen 1843, 8).\nDer Verf. erklärte die Thiernamen im Buche Job in öffentlichen Vor-\nlesungen."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Das Lit. Bl. des Orient's 1840, Nr. 44, theilte „Proben aus einer\nbald zu erscheinenden biblischen Zoologie“ von Abr. Basch mit. Die\nProben behandeln שליו und שכוי; das Werk selbst ist bis jetzt nicht\nerschienen.",
+   "marker": "7)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Lit. Bl. des Orient's 1840, Nr. 44, theilte „Proben aus einer\nbald zu erscheinenden biblischen Zoologie“ von Abr. Basch mit. Die\nProben behandeln "
+    },
+    {
+     "lang": "heb",
+     "text": "שליו"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "שכוי"
+    },
+    {
+     "lang": "deu",
+     "text": "; das Werk selbst ist bis jetzt nicht\nerschienen."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Naturhistorisches enthalten ferner die Werke Kusari des Jehuda ha-\nLevi und der Commentar מגן אבות des R. Simon b. Zemach Duran\nüber Pirke Aboth. — In gleicher Weise die Commentare über Perek\nSchira; besondere Erwähnung verdient M. Zipser in seinen Auf-\nsätzen a) „Der Naturphilosoph nach Perek Schira“ (Lit. Bl. des Orient's\n1850, Nrn. 18, 20 und 21) und b) „Ueber die verschiedenen hebräi-\nschen Benennungen der Schal- und Muschelthiere“ (Ben-Chananja\n1858. S. 31 ff. und S. 76 ff.). — Sachs giebt in den beiden\nHeften seiner „Beiträge zur Sprache und Alterthumsforschung“ die\nErklärungen mancher talmudischen Thiernamen, die aber großentheils\nohne nothwendige Berücksichtigung des Zusammenhanges der betreffen-",
+   "marker": "8)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Naturhistorisches enthalten ferner die Werke Kusari des Jehuda ha-\nLevi und der Commentar "
+    },
+    {
+     "lang": "heb",
+     "text": "מגן אבות"
+    },
+    {
+     "lang": "deu",
+     "text": " des R. Simon b. Zemach Duran\nüber Pirke Aboth. — In gleicher Weise die Commentare über Perek\nSchira; besondere Erwähnung verdient M. Zipser in seinen Auf-\nsätzen a) „Der Naturphilosoph nach Perek Schira“ (Lit. Bl. des Orient's\n1850, Nrn. 18, 20 und 21) und b) „Ueber die verschiedenen hebräi-\nschen Benennungen der Schal- und Muschelthiere“ (Ben-Chananja\n1858. S. 31 ff. und S. 76 ff.). — Sachs giebt in den beiden\nHeften seiner „Beiträge zur Sprache und Alterthumsforschung“ die\nErklärungen mancher talmudischen Thiernamen, die aber großentheils\nohne nothwendige Berücksichtigung des Zusammenhanges der betreffen-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3276,
+    2597
+   ],
+   [
+    3276,
+    2391
+   ]
+  ],
+  "input_tokens": 11407,
+  "output_tokens": 1628,
+  "cost_usd": 0.0782,
+  "seconds": 23.6
+ }
+}

@@ -27,6 +27,8 @@ DATA = Path(__file__).parent / "data"
 
 # (scan index, why). Picked from previews; see README.
 SAMPLE = [
+    *[(s, "front") for s in (1, 3, 5, 6)],  # half-title, title page, dedication, motto (2 blank, 4 stamps)
+    *[(s, "preface") for s in range(7, 13)],  # Vorrede, pp. VII-XII
     (13, "toc"),  # Inhalt: one page, unnumbered
     *[(s, "entry") for s in range(82, 86)],  # pp. 68-71: §§ 114-115, lion and tiger (test entry)
 ]

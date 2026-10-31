@@ -1,0 +1,37 @@
+{
+ "blocks": [
+  {
+   "type": "body",
+   "lang": "heb",
+   "text": "והחוט המשולש לא במהרה ינתק!\n(Pred. 4, 12).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "והחוט המשולש לא במהרה ינתק!"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Pred. 4, 12)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1848,
+    324
+   ]
+  ],
+  "input_tokens": 2643,
+  "output_tokens": 89,
+  "cost_usd": 0.0124,
+  "seconds": 4.3
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die\nZoologie des Talmuds.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die\nZoologie des Talmuds."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Eine umfassende Darstellung\nder rabbinischen Zoologie, unter steter Vergleichung\nder Forschungen älterer und neuerer Schriftsteller",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine umfassende Darstellung\nder rabbinischen Zoologie, unter steter Vergleichung\nder Forschungen älterer und neuerer Schriftsteller"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "von",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "von"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Dr. L. Lewysohn,\nPrediger der israelitischen Gemeinde zu Worms.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dr. L. Lewysohn,\nPrediger der israelitischen Gemeinde zu Worms."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Selbstverlag des Verfassers.\nIn Commission bei Joseph Baer in Frankfurt am Main.\n1858.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Selbstverlag des Verfassers.\nIn Commission bei Joseph Baer in Frankfurt am Main.\n1858."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3328,
+    1912
+   ],
+   [
+    3328,
+    2868
+   ]
+  ],
+  "input_tokens": 11322,
+  "output_tokens": 328,
+  "cost_usd": 0.0518,
+  "seconds": 8.0
+ }
+}

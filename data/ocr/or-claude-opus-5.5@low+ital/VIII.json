@@ -1,0 +1,89 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "VIII Vorrede.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "VIII Vorrede."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "da-fé's, wir wollen hoffen, für immer dahin, so wuchern dennoch im\nüppigen Nachwuchs, die nicht minder lichterlohen Feinde, die Ignoranz\nund die Animosität, dem Talmud entgegen*), behauptet dennoch das\nSprüchwort: Non habet osorem, nisi sui ignorantem über den\nTalmud noch immer seine vollste Gültigkeit, und noch ist die Zeit\nnicht gekommen, welche die Waffe der Feder zur Vertheidigung und\nAbwehr in die Rüstkammer einer Antiquitätensammlung legen darf. —\nDie Aufgabe des Talmudstudiums ist heute vielmehr eine höhere, eine\ndringendere geworden: es genügt nicht mehr zu zeigen, was, son-\ndern wie der Talmud des Wissenswerthen enthält, wie die talmu-\ndische Quelle auch für die humanistischen Studien unserer Zeit nicht\nfruchtlos benutzt werden kann, und von diesem Gedanken geleitet, er-\nlaubt sich der Verfasser dieses Buch dem gelehrten Publicum zu über-\ngeben; er wagt zu hoffen, daß dasselbe für jenen im Eingang ge-\ndachten Doppelzweck nicht ganz verfehlt sein dürfte; denn es gereicht\ndem Talmud allerdings zur Ehre, wenn er mehrere naturhistorische\nMomente angiebt, die nicht bloß den alten Naturforschern, wie Ari-\nstoteles, Aelian, Oppian, Plinius u. A. unbekannt geblieben**),\nsondern auch solche, die noch in den neuesten Lehrbüchern der Zoolo-\ngie als Entdeckungen sehr jungen Ursprungs bezeichnet sind. Es seien",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "da-fé's, wir wollen hoffen, für immer dahin, so wuchern dennoch im\nüppigen Nachwuchs, die nicht minder lichterlohen Feinde, die Ignoranz\nund die Animosität, dem Talmud entgegen*), behauptet dennoch das\nSprüchwort: "
+    },
+    {
+     "lang": "lat",
+     "text": "Non habet osorem, nisi sui ignorantem"
+    },
+    {
+     "lang": "deu",
+     "text": " über den\nTalmud noch immer seine vollste Gültigkeit, und noch ist die Zeit\nnicht gekommen, welche die Waffe der Feder zur Vertheidigung und\nAbwehr in die Rüstkammer einer Antiquitätensammlung legen darf. —\nDie Aufgabe des Talmudstudiums ist heute vielmehr eine höhere, eine\ndringendere geworden: es genügt nicht mehr zu zeigen, was, son-\ndern wie der Talmud des Wissenswerthen enthält, wie die talmu-\ndische Quelle auch für die humanistischen Studien unserer Zeit nicht\nfruchtlos benutzt werden kann, und von diesem Gedanken geleitet, er-\nlaubt sich der Verfasser dieses Buch dem gelehrten Publicum zu über-\ngeben; er wagt zu hoffen, daß dasselbe für jenen im Eingang ge-\ndachten Doppelzweck nicht ganz verfehlt sein dürfte; denn es gereicht\ndem Talmud allerdings zur Ehre, wenn er mehrere naturhistorische\nMomente angiebt, die nicht bloß den alten Naturforschern, wie Ari-\nstoteles, Aelian, Oppian, Plinius u. A. unbekannt geblieben**),\nsondern auch solche, die noch in den neuesten Lehrbüchern der Zoolo-\ngie als Entdeckungen sehr jungen Ursprungs bezeichnet sind. Es seien"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Vergl. „Die Schächtung der Juden in sanitätspolizeilicher Hinsicht,\nvon Medicinal-Rath Dr. Niemann, in Casper's Vierteljahrsschrift für ge-\nrichtliche und öffentliche Medicin. 9. Bd. 1. Hft. S. 63—76; diese von\nder höchsten Unkenntniß des Talmuds strotzende Arbeit fand die gebührende\nAbfertigung in der Frankel'schen Monatsschrift für Gesch. und Wissensch. d.\nJudenth. 1856, S. 299—304.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Vergl. „Die Schächtung der Juden in sanitätspolizeilicher Hinsicht,\nvon Medicinal-Rath Dr. Niemann, in Casper's Vierteljahrsschrift für ge-\nrichtliche und öffentliche Medicin. 9. Bd. 1. Hft. S. 63—76; diese von\nder höchsten Unkenntniß des Talmuds strotzende Arbeit fand die gebührende\nAbfertigung in der Frankel'schen Monatsschrift für Gesch. und Wissensch. d.\nJudenth. 1856, S. 299—304."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "So sagt Jehuda ha-Levi (Kusari 4, 31) mit Recht: מכל זה\nמה שנזכר בהלכות שחיטה והלכות טריפה יש בהם מן החכמות מה שנעלם\nרובו מגאלינום, und wäre eine ähnliche Würdigung des Talmud's Denjeni-\ngen anzuempfehlen, welche mit modernem Rittersinn es wagen mit diesem\nGiganten eine Lanze zu brechen; s. S. 50 Anm. ** und S. 346.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "So sagt Jehuda ha-Levi (Kusari 4, 31) mit Recht: "
+    },
+    {
+     "lang": "heb",
+     "text": "מכל זה\nמה שנזכר בהלכות שחיטה והלכות טריפה יש בהם מן החכמות מה שנעלם\nרובו מגאלינום"
+    },
+    {
+     "lang": "deu",
+     "text": ", und wäre eine ähnliche Würdigung des Talmud's Denjeni-\ngen anzuempfehlen, welche mit modernem Rittersinn es wagen mit diesem\nGiganten eine Lanze zu brechen; s. S. 50 Anm. ** und S. 346."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3296,
+    2055
+   ],
+   [
+    3296,
+    3045
+   ]
+  ],
+  "input_tokens": 11304,
+  "output_tokens": 1288,
+  "cost_usd": 0.071,
+  "seconds": 19.9
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "blocks": [
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Seinem ältesten Bruder\nAbraham Lewysohn\nin Peiskretscham, O. S.,\n(Verfasser des Werkes: Mekore Minhagim, Berlin 1846)",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seinem ältesten Bruder\nAbraham Lewysohn\nin Peiskretscham, O. S.,\n(Verfasser des Werkes: "
+    },
+    {
+     "lang": "translit",
+     "text": "Mekore Minhagim"
+    },
+    {
+     "lang": "deu",
+     "text": ", Berlin 1846)"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "und",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "und"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "seinem ältern Bruder\nSalomon Lewysohn\nin Posen,\n(Verfasser der Schrift: Chibbat Jeruschelajim we-Ahabat Zion, Wollstein 5615)",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "seinem ältern Bruder\nSalomon Lewysohn\nin Posen,\n(Verfasser der Schrift: "
+    },
+    {
+     "lang": "translit",
+     "text": "Chibbat Jeruschelajim we-Ahabat Zion"
+    },
+    {
+     "lang": "deu",
+     "text": ", Wollstein 5615)"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "widmet dieses Buch als Zeichen innigster Liebe",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "widmet dieses Buch als Zeichen innigster Liebe"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "der Verfasser.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "der Verfasser."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3100,
+    2972
+   ]
+  ],
+  "input_tokens": 6611,
+  "output_tokens": 402,
+  "cost_usd": 0.0345,
+  "seconds": 8.4
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "main": [
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "Preface.",
+   "page": "scan0007"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "For some decades now an attempt has been under way to examine the various scholarly disciplines of the Talmud and to present them systematically*), an undertaking that is not only suited to making the study of the Talmud in itself more fruitful and more attractive, but also helps to secure for it its due appreciation even among those who are still accustomed to regard the Talmud as nothing other than a conglomerate of thoughts and sentences thrown together. Let the last-mentioned purpose not be underestimated; there was indeed a time in which the meagre concession of that narrow-minded and incorrect view could fortunately serve as a means of rescuing the Talmud**), and even if this time of the autos-da-fé is, [p. 8] we will hope, gone forever, nonetheless the no less blazing enemies, ignorance and animosity, still flourish against the Talmud in luxuriant new growth*); the proverb Non habet osorem, nisi sui ignorantem still retains its fullest validity regarding the Talmud, and the time has not yet come when the weapon of the pen for defense and protection may be laid in the armory of a collection of antiquities.",
+   "page": "scan0007"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "The task of Talmud study has today rather become a higher, a more urgent one: it no longer suffices to show what, but how the Talmud contains matters worth knowing, how the Talmudic source can be used not without fruit for the humanistic studies of our time as well; and guided by this thought, the author ventures to present this book to the learned public; he dares to hope that it may not entirely fail in the twofold purpose mentioned at the outset; for it certainly redounds to the credit of the Talmud that it gives several points of natural history which not only remained unknown to the ancient naturalists, such as Aristotle, Aelian, Oppian, Pliny and others**), but also some which are still described in the most recent textbooks of zoology as discoveries of very recent origin. Of the many points [p. 9] which the reader of the work will frequently encounter, only a few may be mentioned here: the Talmudic statement concerning the enmity of various animals toward one another, which agrees completely with the observations of Buffon, Linnaeus and others (see e.g. §. 259), further the correct view of the Talmud on the determination of colors (see p. 131), as well as its statement on Generatio originaria, which, as is well known, physiology has still not brought to a complete conclusion.",
+   "page": "VIII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "May the author now be permitted to say something about the plan of the book itself. The zoology of the Talmud has not only not yet been treated systematically, but, in view of the excellent works of Bochart*) and Rosenmüller**) on biblical zoology, it has also called forth materials that can only be described as extremely meagre, for which likewise Bochart deserves the greatest credit***). After Bochart the writer of this [p. 10] used the dictionaries of Nathan, Landau, Bondi and others. Most of all, however, he was served by the commentary of the immortal Rashi, although [p. 11] the help of the Tosaphists, of Maimuni, Simson, Nachmanides, Bartenoro, Heller and others cannot be considered slight.",
+   "page": "IX"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "With all these aids, however, many difficulties nevertheless remained that presented themselves in the preparation of this book. First of all there is a large number of animal names, especially names of birds and fish, which the lexicographers and commentators partly do not give at all, partly cite with the insufficient remark: \"a kind of animal,\" \"a kind of fish,\" etc. Here recourse had to be taken to analogy of subject matter and of language, which nevertheless could often help to nothing more than mere conjectures. The author is far from believing that he everywhere succeeded in correctly identifying the various species, but he is conscious of having striven for it with the best will, and even if in many places he has only been able to give hints, these may nevertheless not be entirely useless as a stimulus to further inquiry. Should he have erred in the discussion of some species, he may well find excuse in the inexorable silence of the commentaries and dictionaries.",
+   "page": "XI"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Another difficulty was presented by the explanation of the foreign words, often corrupted anyway, in Rashi and the other glossaries. Landau's Marpe Laschon (printed with his Prague edition of the Talmud) reached the writer of this only toward the end of the work, for which reason he could make use of it only in the supplementary notes; but he found this laudable work of that meritorious scholar not entirely sufficient for the intended purpose. Besides the incorrect explanations of many words, such as can hardly be avoided in a work of this kind, [p. 12] explanations are also lacking for many words that are precisely most essential for determining the meaning of the word*).",
+   "page": "XI"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Finally, no small difficulty presented itself to the author in the lack of correct editions of both Talmuds; thus of the Babylonian Talmud he possessed only the so-called black Sulzbach edition, and of the Jerusalem Talmud the Cracow edition (see p. 368).",
+   "page": "XII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "The undersigned believes he may be permitted to make mention of these difficulties.",
+   "page": "XII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Besides both Talmuds, the realm of Midrash (namely Midr. Rabba and Jalk. Schim.) and that of the Piutim were also used; from the best-known decisors only that was drawn upon which could serve to determine the species named by the Talmud.",
+   "page": "XII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "The undersigned cannot conclude without expressly remarking that he by no means wishes the scientific results of the present book to be regarded as a norm for practical ritual consequences, and that he will feel amply rewarded if he should have succeeded in contributing even a small contribution to the scientific treatment of the Talmud.",
+   "page": "XII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Worms., 5 March 1858.",
+   "page": "XII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Lewysohn.",
+   "page": "XII"
+  }
+ ],
+ "notes": [
+  {
+   "type": "footnote",
+   "marker": "*)",
+   "text": "Thus numismatics (Zunz), law (Fassel, Frankel, Bodenheimer), medicine (D. m. Frankel, Wunderbar), mathematics (Ehrmann), agriculture (Ph. Philippson), the calendar (Luzzatto, Lewisohn, Zuckermann), chronology (Graetz), geography (Schwarz) etc. have found their scholars, wholly or in part.",
+   "page": "scan0007"
+  },
+  {
+   "type": "footnote",
+   "marker": "**)",
+   "text": "See „Die Reuchlin'sche Vertheidigung des Talmud's“, printed in the literary supplement of the Allg. Ztg. d. Judenth.“ 1839, no. 87. Compare also Klein's Jahrbuch 1844 and 1856, p. 34 ff.",
+   "page": "scan0007"
+  },
+  {
+   "type": "footnote",
+   "marker": "*)",
+   "text": "Compare „Die Schächtung der Juden in sanitätspolizeilicher Hinsicht, by Medical Councillor Dr. Niemann, in Casper's Vierteljahrsschrift für gerichtliche und öffentliche Medicin. vol. 9, issue 1, p. 63—76; this work, brimming with the utmost ignorance of the Talmud, received the rebuttal it deserved in Frankel's Monatsschrift für Gesch. und Wissensch. d. Judenth. 1856, p. 299—304.",
+   "page": "VIII"
+  },
+  {
+   "type": "footnote",
+   "marker": "**)",
+   "text": "Thus Jehuda ha-Levi (Kusari 4, 31) rightly says: מכל זה מה שנזכר בהלכות שחיטה והלכות טריפה יש בהם מן החכמות מה שנעלם רובו מגאלינום, and a similar appreciation of the Talmud would be recommended to those who, with modern chivalry, dare to break a lance with this giant; see p. 50 note ** and p. 346.",
+   "page": "VIII"
+  },
+  {
+   "type": "footnote",
+   "marker": "*)",
+   "text": "Hierozoicon s. de animalibus scripturae sacrae etc. etc.; the edition available to me was Frankfurt am Main 1675 f.",
+   "page": "IX"
+  },
+  {
+   "type": "footnote",
+   "marker": "**)",
+   "text": "Handbuch der biblischen Alterthümer. vol. 4, part 2 (Leipzig 1831, 8.).",
+   "page": "IX"
+  },
+  {
+   "type": "footnote",
+   "marker": "***)",
+   "text": "There is, however, by no means a lack of works composed by Jewish scholars on zoology, partly specifically, partly within larger treatises; I list the most outstanding here.\n1) Kalonymos b. Kalonymos composed, in Hebrew rhymes, אגרת בעלי חיים, translated from the Arabic, containing fabulous dialogues applied to ethical purposes. — Enoch b. Hirsch rendered this work under the same title into Judeo-German (Fürth 1783, 4.).\n2) Gerson, father of the Ralbag, wrote ספר שער השמים (ed. Heidenheim, Rödelheim 1801, 8.). This book, without any consideration of the Talmud, is merely a compilatory work after Aristotle and Ibn Roschd.\n3) Baruch Lindau composed ראשית למודים (Berlin 1789, 8), likewise leaving the Talmud out of consideration.\n4) Pinchas Eliahu b. Meier (on p. 166, note **, the name פנחס has dropped out in printing before אליהו.) composed the work ספר הבריח Brünn 1797, 4.). He frequently recurs to the Talmud, whose statements, true and false alike, he seeks to substantiate; compare e.g. the statement concerning the birth of the bat. — The last three works named are encyclopaedic compendia of all the natural sciences and of metaphysics.\n5) The greatest merit among Jewish scholars in zoology was earned by Dr. M. E. Bloch through his works: a) Oekonomische Naturgeschichte der Fische Deutschland's (Berlin 1782, 4. Three parts with coloured copperplates), b) Naturgeschichte der ausländischen Fische (Berlin 1785—88, 4. Nine parts with coloured copperplates). The author of these excellent works, indispensable for ichthyology, has the honour that several species are named after him, e.g. Sphyrna Blochii and others.\n6) Dr. L. Ali Cohen composed the book: De dichter van het boek Ijob, als dierkundige beschouwd etc. (Groningen 1843, 8). The author explained the animal names in the Book of Job in public lectures.\n7) The Lit. Bl. des Orient's 1840, no. 44, published „Samples from a biblical zoology soon to appear“ by Abr. Basch. The samples treat שליו and שכוי; the work itself has not yet appeared.\n8) Natural-historical material is further contained in the works Kusari of Jehuda ha-Levi and the commentary מגן אבות of R. Simon b. Zemach Duran on Pirke Aboth. — Likewise the commentaries on Perek Schira; special mention is deserved by M. Zipser in his essays a) „Der Naturphilosoph nach Perek Schira“ (Lit. Bl. des Orient's 1850, nos. 18, 20 and 21) and b) „Ueber die verschiedenen hebräischen Benennungen der Schal- und Muschelthiere“ (Ben-Chananja 1858. p. 31 ff. and p. 76 ff.). — Sachs gives, in the two issues of his „Beiträge zur Sprache und Alterthumsforschung“, explanations of many Talmudic animal names, which, however, for the most part, lacking the necessary consideration of the context of the Talmudic passages concerned, are merely products of philological combinations. — The work תולדות החיים composed by Joseph Scheinhak, cited by Cassel in the Kusari commentary p. 224, is not more closely known to me.",
+   "page": "IX"
+  },
+  {
+   "type": "footnote",
+   "marker": "*)",
+   "text": "By way of example, let mention be made here of the חפשיתא גמלניתא (A. Sara 28a); these words literally mean „large beetles“, and one would probably have thought of the giant beetle rather than the cockchafer, had not Rashi explained the species by הנטון, i.e. Hanneton, which word, however, is not mentioned by Landau. See p. 306.",
+   "page": "XII"
+  }
+ ],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "rules": "v5",
+  "cost_usd": 0.1333
+ }
+}

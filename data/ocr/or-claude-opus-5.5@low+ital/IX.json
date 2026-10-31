@@ -1,0 +1,145 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Vorrede.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Vorrede."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "IX",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "IX"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "von den vielen Momenten, denen der Leser des Werkes häufig begegnen\nwird, hier nur einige erwähnt: die talmudische Angabe Betreffs der\nFeindschaft verschiedener Thiere unter einander, welche vollkommen mit\nden Beobachtungen Büffon's, Linné's u. A. übereinstimmt (s. z. B.\n§. 259), ferner die richtige Ansicht des Talmud's über die Bestim-\nmung der Farben (s. S. 131), sowie seine Angabe über Generatio\noriginaria, welche bekanntlich die Physiologie noch immer nicht zum\nvölligen Abschluß gebracht hat.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "von den vielen Momenten, denen der Leser des Werkes häufig begegnen\nwird, hier nur einige erwähnt: die talmudische Angabe Betreffs der\nFeindschaft verschiedener Thiere unter einander, welche vollkommen mit\nden Beobachtungen Büffon's, Linné's u. A. übereinstimmt (s. z. B.\n§. 259), ferner die richtige Ansicht des Talmud's über die Bestim-\nmung der Farben (s. S. 131), sowie seine Angabe über "
+    },
+    {
+     "lang": "lat",
+     "text": "Generatio\noriginaria"
+    },
+    {
+     "lang": "deu",
+     "text": ", welche bekanntlich die Physiologie noch immer nicht zum\nvölligen Abschluß gebracht hat."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Möge es dem Verfasser nun gestattet sein, Einiges über die An-\nlage des Buches selbst zu sprechen. Die Zoologie des Talmud's ist\nbisher nicht allein noch nicht systematisch bearbeitet worden, sondern sie\nhat auch in Anbetracht der trefflichen Werke von Bochart*) und Rosen-\nmüller**) über die biblische Zoologie, nur äußerst dürftig zu nennende\nMaterialien hervorgerufen, in Betreff welcher ebenfalls Bochart das\ngrößte Verdienst gebührt***). Nächst Bochart benutzte Schreiber dieses",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Möge es dem Verfasser nun gestattet sein, Einiges über die An-\nlage des Buches selbst zu sprechen. Die Zoologie des Talmud's ist\nbisher nicht allein noch nicht systematisch bearbeitet worden, sondern sie\nhat auch in Anbetracht der trefflichen Werke von Bochart*) und Rosen-\nmüller**) über die biblische Zoologie, nur äußerst dürftig zu nennende\nMaterialien hervorgerufen, in Betreff welcher ebenfalls Bochart das\ngrößte Verdienst gebührt***). Nächst Bochart benutzte Schreiber dieses"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Hierozoicon s. de animalibus scripturae sacrae etc. etc.; mir\nstand die Ausgabe Frankf. a. M. 1675 f. zu Gebote.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Hierozoicon s. de animalibus scripturae sacrae etc. etc."
+    },
+    {
+     "lang": "deu",
+     "text": "; mir\nstand die Ausgabe Frankf. a. M. 1675 f. zu Gebote."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Handbuch der biblischen Alterthümer. 4. Bd. 2. Th. (Leipzig\n1831, 8.).",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Handbuch der biblischen Alterthümer. 4. Bd. 2. Th. (Leipzig\n1831, 8.)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Es fehlt aber keineswegs an Werken, welche von jüdischen Ge-\nlehrten, theils speciell, theils in größern Abhandlungen über Zoologie ver-\nfaßt sind; ich gebe hier die vorzüglichsten an.\n1) Kalonymos b. Kalonymos verfaßte in hebr. Reimen אגרת בעלי\nחיים aus dem Arab. übersetzt, fabelhafte Dialoge zur Anwendung\nethischer Zwecke enthaltend. — Dieses Werk übertrug unter gleichem\nTitel Enoch b. Hirsch in jüdisch-deutsche Sprache (Fürth 1783, 4.).\n2) Gerson, Vater des Ralbag, schrieb ספר שער השמים (Edit. Hei-\ndenheim, Rödelheim 1801, 8.). Dieses Buch ist ohne alle Berück-\nsichtigung des Talmud's nur eine compilatorische Arbeit nach Aristoteles\nund Ibn Roschd.\n3) Baruch Lindau verfaßte ראשית למודים (Berlin 1789, 8), eben-\nfalls den Talmud unberücksichtigt lassend.",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Es fehlt aber keineswegs an Werken, welche von jüdischen Ge-\nlehrten, theils speciell, theils in größern Abhandlungen über Zoologie ver-\nfaßt sind; ich gebe hier die vorzüglichsten an.\n1) Kalonymos b. Kalonymos verfaßte in hebr. Reimen "
+    },
+    {
+     "lang": "heb",
+     "text": "אגרת בעלי\nחיים"
+    },
+    {
+     "lang": "deu",
+     "text": " aus dem Arab. übersetzt, fabelhafte Dialoge zur Anwendung\nethischer Zwecke enthaltend. — Dieses Werk übertrug unter gleichem\nTitel Enoch b. Hirsch in jüdisch-deutsche Sprache (Fürth 1783, 4.).\n2) Gerson, Vater des Ralbag, schrieb "
+    },
+    {
+     "lang": "heb",
+     "text": "ספר שער השמים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Edit. Hei-\ndenheim, Rödelheim 1801, 8.). Dieses Buch ist ohne alle Berück-\nsichtigung des Talmud's nur eine compilatorische Arbeit nach Aristoteles\nund Ibn Roschd.\n3) Baruch Lindau verfaßte "
+    },
+    {
+     "lang": "heb",
+     "text": "ראשית למודים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Berlin 1789, 8), eben-\nfalls den Talmud unberücksichtigt lassend."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3304,
+    2123
+   ],
+   [
+    3304,
+    2881
+   ]
+  ],
+  "input_tokens": 11320,
+  "output_tokens": 1393,
+  "cost_usd": 0.0731,
+  "seconds": 19.8
+ }
+}

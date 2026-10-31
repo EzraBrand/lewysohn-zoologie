@@ -27,8 +27,15 @@ CHUNK_CHARS = 6000
 
 # start / end: regexes for the first block of the entry and the first block after it
 ENTRIES = {
-    # table of contents ("Inhalt"): one unnumbered page (scan 13). "contents" keeps the printed
-    # lines in the translation.
+    # front matter, in book order. "contents" keeps the printed lines (no joins, no dash split);
+    # "extra" replaces the contents rule in the prompt.
+    "front": {"pages": ["scan0001", "scan0003", "scan0005", "scan0006"], "start": r"", "end": r"(?!)",
+              "title": "Half-title, title page, dedication, motto", "contents": True, "extra": T.FRONT},
+    # Vorrede, pp. VII-XII (p. VII unnumbered = scan 7). Page joins checked by eye: all five run on
+    # mid-sentence; VII|VIII breaks "Auto-|da-fé's" at a real hyphen.
+    "preface": {"pages": ["scan0007", "VIII", "IX", "X", "XI", "XII"], "title": "Preface (pp. VII–XII)",
+                "start": r"", "end": r"(?!)", "keep_hyphen": ["VIII"]},
+    # table of contents ("Inhalt"): one unnumbered page (scan 13).
     "toc": {"pages": ["scan0013"], "title": "Contents", "start": r"", "end": r"(?!)", "contents": True},
     # §§ 114-115: starts mid-p. 68, ends mid-p. 71. Page joins checked by eye: 68|69, 69|70 and
     # 70|71 all run on mid-sentence ("in der | Gestalt", "eine | Beute", "unrichtige | Kenntniß").
@@ -114,7 +121,9 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
                     and not cfg.get("contents"):  # a contents list is never joined across pages
                 if prev["text"].endswith("-"):  # word broken over the page: marker after the word
                     word, _, rest = text.partition(" ")
-                    prev["text"] = f"{prev['text'][:-1]}{word} [p. {page}] {rest}"
+                    # "keep_hyphen": pages whose first word follows a real hyphen ("Auto-|da-fé's")
+                    head = prev["text"] if page in cfg.get("keep_hyphen", []) else prev["text"][:-1]
+                    prev["text"] = f"{head}{word} [p. {page}] {rest}"
                 else:
                     prev["text"] += f" [p. {page}] {text}"
             else:
@@ -125,9 +134,24 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
             break
     if not started:
         sys.exit(f"start pattern {cfg['start']!r} not found")
-    notes = [n for n in notes if n["page"] in page_text and re.search(
-        rf"(?<![*†]){re.escape(n['marker'])}", page_text[n["page"]])]
-    return main, notes
+    # A footnote at the top of a page whose mark is not in that page's text (or that has no mark)
+    # continues the last note of the page before: e.g. the numbered list in note ***) of p. IX runs
+    # over pp. X-XI, and the OCR gives each item ("4)", "5)") its own block. After the first note
+    # whose mark is in the text, a note with an unknown mark belongs to the § before or after.
+    kept, page_seen = [], {}
+    for n in notes:
+        in_text = n["marker"] and n["page"] in page_text and re.search(
+            rf"(?<![*†]){re.escape(n['marker'])}", page_text[n["page"]])
+        if in_text:
+            page_seen[n["page"]] = True
+            kept.append(n)
+        elif not page_seen.get(n["page"]) and kept and kept[-1]["page"] != n["page"] or \
+                not page_seen.get(n["page"]) and kept and kept[-1].get("continued_on") == n["page"]:
+            prev = kept[-1]
+            prev["text"] += "\n" + (f"{n['marker']} " if n["marker"] else "") + n["text"]
+            prev["continued_on"] = n["page"]
+            print(f"note on p. {n['page']} ({n['marker'] or 'no mark'}) joined to {prev['marker']} of p. {prev['page']}")
+    return main, kept
 
 
 def chunks(blocks: list[dict]) -> list[list[dict]]:
@@ -152,12 +176,37 @@ def render(title: str, main: list[dict], notes: list[dict], lines: bool = False)
         out += [f"### {text}" if b["type"] == "heading" else text, ""]
     if notes:
         out += ["---", "", "**Notes**", ""]
-        for page in sorted({n["page"] for n in notes}):
-            out += [f"*p. {page}*", ""]
-            out += [T.LRM + f"{n['marker']} {T.md_inline(n['text'])}".strip() + "  "
-                    for n in notes if n["page"] == page]
+        for page in dict.fromkeys(n["page"] for n in notes):  # book order, not sorted as text
+            label = f"unnumbered page (scan {int(page[4:])})" if str(page).startswith("scan") else f"p. {page}"
+            out += [f"*{label}*", ""]
+            for n in notes:
+                if n["page"] != page:
+                    continue
+                text = f"{n['marker']} {T.md_inline(n['text'])}".strip()
+                # a list in a note ("\n4) ...", joined over pages) keeps its line breaks
+                text = re.sub(r"\n(?=\d+\) )", "\0", re.sub(r"-\n(?=\w)", "", text))
+                out += [T.LRM + text.replace("\n", " ").replace("\0", f"  \n{T.LRM}") + "  "]
             out.append("")
     return "\n".join(out)
+
+
+PAGE_MARK = re.compile(r"\[p\. [^\]\s]+\]")
+
+
+def restore_page_marks(de_blocks: list[dict], en_blocks: list[dict]) -> int:
+    """Copy the page marks from the German into the English, block by block and in order: the
+    model may change them (the Roman-numeral rule turned "[p. VIII]" into "[p. 8]"). -> blocks fixed."""
+    fixed = 0
+    for de, en in zip(de_blocks, en_blocks):
+        marks = PAGE_MARK.findall(de["text"])
+        if len(PAGE_MARK.findall(en["text"])) != len(marks):
+            print(f"PAGE MARKS: {len(marks)} in the German, a different number in the English: {en['text'][:60]!r}")
+            continue
+        it = iter(marks)
+        new = PAGE_MARK.sub(lambda m: next(it), en["text"])
+        fixed += new != en["text"]
+        en["text"] = new
+    return fixed
 
 
 def main():
@@ -192,7 +241,7 @@ def main():
     for kind, blocks, target in (("text", main_blocks, en_main), ("notes", notes, en_notes)):
         for i, ch in enumerate(chunks(blocks), 1):
             res = T.translate({"blocks": ch, "meta": {"entry": a.entry, "part": kind}}, a.model, a.effort, keys,
-                              extra=T.CONTENTS if cfg.get("contents") else "")
+                              extra=cfg.get("extra", T.CONTENTS if cfg.get("contents") else ""))
             for src, b in zip(ch, res["blocks"]):
                 target.append({**b, "page": src["page"]})
             cost += res["meta"]["cost_usd"]
@@ -210,7 +259,15 @@ def finish(cfg: dict, out: Path) -> None:
     """en.raw.json -> abbreviations expanded (abbrev.py) -> en.json and en.md."""
     raw = json.loads((out / "en.raw.json").read_text(encoding="utf-8"))
     en_main, en_notes = raw["main"], raw["notes"]
+    for b in en_main + en_notes:  # also for outputs made before translate.modern_citations existed
+        b["text"] = T.modern_citations(b["text"])
+    # v4 -> v5 differs only by this fixed step, so a v4 translation finished here is v5
+    if raw["meta"].get("rules") == "v4":
+        raw["meta"]["rules"] = "v5"
     de = json.loads((out / "de.json").read_text(encoding="utf-8"))
+    n = restore_page_marks(de["main"], en_main) + restore_page_marks(de["notes"], en_notes)
+    if n:
+        print(f"page marks restored in {n} block(s)")
     problems = A.check("\n".join(b["text"] for b in de["main"] + de["notes"]),
                        "\n".join(b["text"] for b in en_main + en_notes))
     for p in problems:

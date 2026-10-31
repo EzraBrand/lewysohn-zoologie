@@ -1,0 +1,133 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "XII Vorrede.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "XII Vorrede."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "zu vermeiden sind, fehlen auch die Erklärungen vieler Wörter, die\ngerade zur Ermittelung der Wortbedeutung höchst wesentlich sind*).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "zu vermeiden sind, fehlen auch die Erklärungen vieler Wörter, die\ngerade zur Ermittelung der Wortbedeutung höchst wesentlich sind*)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Eine nicht geringe Schwierigkeit bot sich endlich dem Verfasser darin\ndem Mangel correcter Ausgaben beider Talmude, so besaß er von\ndem babyl. Taldmud nur die Sulzbacher sogenannte schwarze, und von\ndem jerusalem. Talmud die Krakauer Ausgabe (s. S. 368). — Dieser\nSchwierigkeiten Erwähnung zu thun, glaubt der Unterzeichnete sich er-\nlauben zu dürfen. — Außer beiden Talmuden wurde auch das Midrasch-\nGebiet (namentlich Midr. Rabba und Jalk. Schim.) und das der Piutim\nbenutzt; aus den bekanntesten Decisoren wurde nur dasjenige, was\nzur Ermittelung der vom Talmud angegebenen Species dienen konnte,\nherbeigezogen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine nicht geringe Schwierigkeit bot sich endlich dem Verfasser darin\ndem Mangel correcter Ausgaben beider Talmude, so besaß er von\ndem babyl. Taldmud nur die Sulzbacher sogenannte schwarze, und von\ndem jerusalem. Talmud die Krakauer Ausgabe (s. S. 368). — Dieser\nSchwierigkeiten Erwähnung zu thun, glaubt der Unterzeichnete sich er-\nlauben zu dürfen. — Außer beiden Talmuden wurde auch das Midrasch-\nGebiet (namentlich Midr. Rabba und Jalk. Schim.) und das der Piutim\nbenutzt; aus den bekanntesten Decisoren wurde nur dasjenige, was\nzur Ermittelung der vom Talmud angegebenen Species dienen konnte,\nherbeigezogen."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Unterzeichnete kann nicht schließen ohne die ausdrückliche Be-\nmerkung, daß er die wissenschaftlichen Resultate des vor-\nliegenden Buches als Norm für rituell-practische Folgen\nkeineswegs betrachtet wissen will, und daß er sich reichlich\nbelohnt fühlen werde, wenn es ihm gelungen sein sollte, einen, wenn\nauch nur kleinen Beitrag zur wissenschaftlichen Behandlung des Talmud's\ngeliefert zu haben.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Unterzeichnete kann nicht schließen ohne die ausdrückliche Be-\nmerkung, daß er die wissenschaftlichen Resultate des vor-\nliegenden Buches als Norm für rituell-practische Folgen\nkeineswegs betrachtet wissen will, und daß er sich reichlich\nbelohnt fühlen werde, wenn es ihm gelungen sein sollte, einen, wenn\nauch nur kleinen Beitrag zur wissenschaftlichen Behandlung des Talmud's\ngeliefert zu haben."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Beispielshalber sei hier des חפשיתא גמלניתא (A. Sara 28, a) er-\nwähnt; diese Wörter heißen wörtlich „große Käfer“, und man hätte wohl\neher an den Riesenkäfer als an den Maikäfer gedacht, wenn nicht Raschi\ndie Species durch הנטון, d. i. Hanneton erklärte, welches Wort aber von\nLandau nicht erwähnt wird. Siehe S. 306.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Beispielshalber sei hier des "
+    },
+    {
+     "lang": "arc",
+     "text": "חפשיתא גמלניתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 28, a) er-\nwähnt; diese Wörter heißen wörtlich „große Käfer“, und man hätte wohl\neher an den Riesenkäfer als an den Maikäfer gedacht, wenn nicht Raschi\ndie Species durch "
+    },
+    {
+     "lang": "heb",
+     "text": "הנטון"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i. "
+    },
+    {
+     "lang": "fra",
+     "text": "Hanneton"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärte, welches Wort aber von\nLandau nicht erwähnt wird. Siehe S. 306."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Worms., den 5. März 1858.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Worms., den 5. März 1858."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Lewysohn.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Lewysohn."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    1856
+   ],
+   [
+    3308,
+    2784
+   ]
+  ],
+  "input_tokens": 11363,
+  "output_tokens": 1105,
+  "cost_usd": 0.0676,
+  "seconds": 17.3
+ }
+}

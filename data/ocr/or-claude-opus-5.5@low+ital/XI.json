@@ -1,0 +1,93 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Vorrede.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Vorrede."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "XI",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "XI"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "die Aushülfe der Tosaphisten, Maimuni's, Simson's, Nachmanidi's,\nBartenoro's, Heller's u. A. nicht gering erachtet werden kann. —\nBei allen diesen Hülfsmitteln blieben aber dennoch der Schwierigkeiten\nviele, die sich bei der Ausarbeitung dieses Buches darboten. Vorerst\nist es eine große Anzahl von Thiernamen, insbesondere Vögel- und\nFischnamen, die von den Lexicographen und Commentatoren theils\ngar nicht angegeben, theils mit der ungenügenden Bemerkung: „eine\nThierart“, eine „Fischart“ u. s. w. angeführt werden. Hierbei mußte\nzur Sach- und Sprachanalogie die Zuflucht genommen werden, die aber\ndennoch öfter zu nichts Anderem als zu bloßen Conjecturen verhelfen\nkonnte. Der Verfasser ist weit entfernt zu glauben, daß ihm überall\ndie richtige Ermittelung der verschiedenen Species gelang, doch ist er\nsich bewußt mit dem besten Willen nach ihr gestrebt zu haben, und\nhat er an vielen Stellen auch nur Winke zu geben vermocht, so dürf-\nten dieselben dennoch zur weitern Anregung nicht ganz zwecklos sein.\nSollte derselbe in der Erörterung mancher Species sich geirrt haben,\nso darf er wohl in dem unerbittlichen Schweigen der Commentare und\nWörterbücher Entschuldigung finden.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "die Aushülfe der Tosaphisten, Maimuni's, Simson's, Nachmanidi's,\nBartenoro's, Heller's u. A. nicht gering erachtet werden kann. —\nBei allen diesen Hülfsmitteln blieben aber dennoch der Schwierigkeiten\nviele, die sich bei der Ausarbeitung dieses Buches darboten. Vorerst\nist es eine große Anzahl von Thiernamen, insbesondere Vögel- und\nFischnamen, die von den Lexicographen und Commentatoren theils\ngar nicht angegeben, theils mit der ungenügenden Bemerkung: „eine\nThierart“, eine „Fischart“ u. s. w. angeführt werden. Hierbei mußte\nzur Sach- und Sprachanalogie die Zuflucht genommen werden, die aber\ndennoch öfter zu nichts Anderem als zu bloßen Conjecturen verhelfen\nkonnte. Der Verfasser ist weit entfernt zu glauben, daß ihm überall\ndie richtige Ermittelung der verschiedenen Species gelang, doch ist er\nsich bewußt mit dem besten Willen nach ihr gestrebt zu haben, und\nhat er an vielen Stellen auch nur Winke zu geben vermocht, so dürf-\nten dieselben dennoch zur weitern Anregung nicht ganz zwecklos sein.\nSollte derselbe in der Erörterung mancher Species sich geirrt haben,\nso darf er wohl in dem unerbittlichen Schweigen der Commentare und\nWörterbücher Entschuldigung finden."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Eine andere Schwierigkeit bot die Erklärung der ohnedies öfter\ncorrumpirten Fremdwörter in Raschi und den andern Glossarien. Lan-\ndau's Marpe Laschon (seiner Prager Talmudausgabe beigedruckt) kam\ndem Schreiber dieses erst gegen Ende der Arbeit zu, weshalb er nur noch\nin den nachgeholten Anmerkungen von demselben Gebrauch machen konnte;\ner fand aber dieses rühmliche Werk jenes verdienstvollen Gelehrten für\nden vorgesetzten Zweck nicht ganz genügend. Außer den unrichtigen\nErklärungen vieler Wörter, wie solche bei einer derartigen Arbeit kaum",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine andere Schwierigkeit bot die Erklärung der ohnedies öfter\ncorrumpirten Fremdwörter in Raschi und den andern Glossarien. Lan-\ndau's Marpe Laschon (seiner Prager Talmudausgabe beigedruckt) kam\ndem Schreiber dieses erst gegen Ende der Arbeit zu, weshalb er nur noch\nin den nachgeholten Anmerkungen von demselben Gebrauch machen konnte;\ner fand aber dieses rühmliche Werk jenes verdienstvollen Gelehrten für\nden vorgesetzten Zweck nicht ganz genügend. Außer den unrichtigen\nErklärungen vieler Wörter, wie solche bei einer derartigen Arbeit kaum"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "den Talmudstellen nur Producte philologischer Combinationen sind. —\nDas von Joseph Scheinhak verfaßte Werk תולדות החיים, bei\nCassel im Kusaricommentar S. 224 citirt, ist mir nicht näher bekannt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "den Talmudstellen nur Producte philologischer Combinationen sind. —\nDas von Joseph Scheinhak verfaßte Werk "
+    },
+    {
+     "lang": "heb",
+     "text": "תולדות החיים"
+    },
+    {
+     "lang": "deu",
+     "text": ", bei\nCassel im Kusaricommentar S. 224 citirt, ist mir nicht näher bekannt."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2000
+   ],
+   [
+    3308,
+    3000
+   ]
+  ],
+  "input_tokens": 11358,
+  "output_tokens": 1163,
+  "cost_usd": 0.0687,
+  "seconds": 18.8
+ }
+}

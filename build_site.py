@@ -32,12 +32,16 @@ DOCS = [
      "title": "The lion, the tiger", "sub": "§§ 114–115 · pp. 68–71 · Hebrew, Aramaic, Greek, Arabic, footnotes"},
 ]
 # table of contents: page keys as in data/raw (scanNNNN for an unnumbered page)
+# front matter, in book order; "contents" = printed lines kept
 CONTENTS = [
+    {"slug": "front", "kind": "entry", "entry": "front", "pages": ["scan0001", "scan0003", "scan0005", "scan0006"],
+     "title": "Title page and dedication", "sub": "Half-title, title page, dedication to his brothers, motto (Eccl. 4:12)",
+     "contents": True},
+    {"slug": "preface", "kind": "entry", "entry": "preface", "pages": ["scan0007", "VIII", "IX", "X", "XI", "XII"],
+     "title": "Preface", "sub": "Vorrede · pp. VII–XII · the aim of the book, its sources, earlier Jewish works on zoology"},
     {"slug": "contents", "kind": "entry", "entry": "toc", "pages": ["scan0013"],
-     "title": "Contents", "sub": "The printed Inhalt: parts and classes (one page)"},
+     "title": "Contents", "sub": "The printed Inhalt: parts and classes (one page)", "contents": True},
 ]
-for c in CONTENTS:
-    c["contents"] = True
 
 RTL_OR_GREEK = r"[֐-׿יִ-ﭏ؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿܀-ݏͰ-Ͽἀ-῿]"
 _TAIL = r"[^\s\[\]<>()*†,;:.?!]*"  # a run ends before Latin punctuation and footnote marks
@@ -148,6 +152,12 @@ def common_name_html(r: dict) -> str:
     return f'<span class="cn"> [={html.escape(text)}]</span>'
 
 
+def note_html(text: str, page, ctx: dict) -> str:
+    """A footnote; a numbered list in it ("\n4) ...", joined over pages) keeps its line breaks."""
+    text = re.sub(r"\n(?=\d+\) )", "\u2063", text)  # invisible separator as a placeholder
+    return inline(text, page, ctx).replace("\u2063", "<br>")
+
+
 def paragraph_page(text: str, start: str) -> str:
     marks = PAGE_MARK.findall(text)
     return marks[-1] if marks else start
@@ -244,7 +254,7 @@ def doc_html(doc: dict) -> str:
         for lang, b in (("de", de), ("en", en)):
             ctx = {"ids": ids, "notes": {}, "lang": lang}
             cells.append(f'<div class="cell {lang}" id="{lang}-n{i}"><p><a class="fnback" href="#{lang}-r{i}">{i}</a> '
-                         f'<span class="pgref">{page_label(b["page"])}</span> {inline(b["text"], b["page"], ctx)}</p></div>')
+                         f'<span class="pgref">{page_label(b["page"])}</span> {note_html(b["text"], b["page"], ctx)}</p></div>')
         notes.append(f'<div class="row note">{"".join(cells)}</div>')
     thumbs = "".join(
         f'<a href="{VIEWER}/{ids[p]}" target="_blank" rel="noopener" title="Scan of this page">'
@@ -279,7 +289,7 @@ collection</a>, Public Domain Mark 1.0 · Transcription, translation and code: <
 def index_html() -> str:
     li = lambda ds: "".join(f'<li><a href="{d["slug"]}.html"><strong>{html.escape(d["title"])}</strong></a>'
                             f'<span>{html.escape(d["sub"])}</span></li>' for d in ds)
-    items = li(DOCS) + "</ul><h2>Tables of contents</h2><ul class=\"docs\">" + li(CONTENTS)
+    items = li(CONTENTS) + "</ul><h2>Entries</h2><ul class=\"docs\">" + li(DOCS)
     body = f"""{header("index.html")}
 <main class="index">
 <h1>Ludwig Lewysohn, <i>Die Zoologie des Talmuds</i></h1>
@@ -414,7 +424,7 @@ def main():
     (OUT / "app.js").write_text(JS, encoding="utf-8")
     (OUT / "index.html").write_text(index_html(), encoding="utf-8")
     (OUT / "abbreviations.html").write_text(abbreviations_html(), encoding="utf-8")
-    for d in DOCS + CONTENTS:
+    for d in CONTENTS + DOCS:
         if d["kind"] == "entry" and not (DATA / "entries" / d["entry"] / "en.json").exists():
             print(f"skip docs/{d['slug']}.html (no translation yet)")
             continue

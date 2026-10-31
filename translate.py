@@ -11,6 +11,7 @@ brackets, Hebrew script does not. Roman numerals become Arabic numerals.
 When data/gold/{page}.txt exists, the gold text is translated instead of the OCR output.
 Ported from low-flora (Löw, Flora der Juden). Rules v4 (31-Oct-2026): abbreviations stay as printed
 and abbrev.py expands them after translation; the author's romanizations keep his spelling.
+Rules v5: Talmud folio references in the modern form ("Sanhedrin 106a"), by modern_citations().
 """
 
 import argparse
@@ -28,7 +29,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 DATA = Path(__file__).parent / "data"
 KEY_FILE = Path.home() / "Desktop/Misc/key.txt"
-RULES_VERSION = "v4"  # change when the translation rules change; it is part of the output folder name
+RULES_VERSION = "v5"  # change when the translation rules change; it is part of the output folder name
 
 PROMPT = """\
 Below is one OCR'd page of Ludwig Lewysohn, "Die Zoologie des Talmuds" (Frankfurt 1858), a \
@@ -115,6 +116,23 @@ def add_hebrew_letters(text: str) -> str:
     return SYRIAC_RUN.sub(lambda m: f"{m.group(0)} [{syriac_to_hebrew(m.group(0))}]", text)
 
 
+# Talmud folio and side as printed ("Sanhedrin 106, a", "ibid. 64, a") -> the modern form
+# ("Sanhedrin 106a"). Only a side a or b that stands alone after "number, "; Mishnah and
+# Jerusalem Talmud references ("Aboth 5, 20", "B. batra 2, 3") have no side letter and stay.
+FOLIO = re.compile(r"\b(\d+),\s*([ab])(?![\w.])")
+
+
+def modern_citations(text: str) -> str:
+    return FOLIO.sub(r"\1\2", text)
+
+
+FRONT = """\
+This input is the front matter of the book (half-title, title page, dedication, motto). Here the \
+rule on joining lines does NOT apply: keep every printed line as its own line, separated by \
+"\\n", in the same order. Translate the German; keep names, places, dates and the Hebrew motto \
+as printed; keep the author's romanized Hebrew book titles in his spelling and add nothing."""
+
+
 CONTENTS = """\
 This input is a table of contents. Here the rule on joining lines does NOT apply: keep every \
 printed line as its own line, separated by "\\n", in the same order. Replace each row of \
@@ -150,7 +168,7 @@ def translate(page: dict, model: str, effort: str, page_key: str | list[str], ex
     if len(blocks) != len(src):
         raise RuntimeError(f"{len(blocks)} blocks back for {len(src)} sent")
     for b in blocks:
-        b["text"] = add_hebrew_letters(b["text"])
+        b["text"] = modern_citations(add_hebrew_letters(b["text"]))
     return {"blocks": blocks, "meta": {
         "model": d.get("model", model), "effort": effort, "source_meta": page["meta"],
         "input_tokens": u.get("prompt_tokens"), "output_tokens": u.get("completion_tokens"),

@@ -40,8 +40,15 @@ def joined(text: str) -> str:
 
 
 def found(text: str, rows: list[dict]) -> list[dict]:
-    text = joined(text)
-    return [r for r in rows if re.search(pattern(r["abbr"]), text)]
+    """Rows that occur in text, longest first; a shorter one inside a longer one ("S." in "O. S.",
+    "Midr." in "Midr. Rabba") does not count. Returned in table order."""
+    text, hits = joined(text), set()
+    for r in sorted(rows, key=lambda r: -len(r["abbr"])):
+        rx = re.compile(pattern(r["abbr"]))
+        if rx.search(text):
+            hits.add(r["abbr"])
+            text = rx.sub(lambda m: "\0" * len(m.group(0)), text)
+    return [r for r in rows if r["abbr"] in hits]
 
 
 def prompt_rows(text: str) -> str:

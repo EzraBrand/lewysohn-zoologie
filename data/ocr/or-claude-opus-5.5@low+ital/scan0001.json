@@ -1,0 +1,45 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die\nZoologie des Talmuds.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die\nZoologie des Talmuds."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Von\nDr. L. Lewysohn.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Von\nDr. L. Lewysohn."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2468,
+    1248
+   ]
+  ],
+  "input_tokens": 5856,
+  "output_tokens": 105,
+  "cost_usd": 0.0255,
+  "seconds": 5.0
+ }
+}
