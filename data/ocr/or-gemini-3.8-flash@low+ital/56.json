@@ -1,0 +1,233 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "56\tAbortiren. — Mißgeburt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "56\tAbortiren. — Mißgeburt."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Kennzeichen wahrnehmen; dann aber lassen sie Nichts weiter von sich\nwahrnehmen, bis sie werfen wollen; denn dieses Herannahen ihrer\nNiederkunft erkennen die Hirten an gewissen Anzeigen“. Im Talmud\n(Nidda 29, a) heißt die Menstruation der Thiere: טנוף und wird all-\ngemein gesagt: כל היולדות מטנפות, d. i., Jedes gebärende Thier men-\nstruirt. Nach Raschi geschieht dieses Tags zuvor*); dahingegen wird\nBechoroth 21, b der Ausdruck: טנוף verschieden erklärt, entweder als\nAbortus, indem der Embryon sich auflöst und von dem Thiere ab-\ngeht, oder als Blutklümpchen (כעכובי דדמא), d. i. als Menstruation.\nMaimuni zur Mischna (Bechoroth 3, 1) und Schulchan Aruch Jore\nDea §. 315, 7 recipiren die erste Erklärung; indessen wird auch hier\ndie Menstruationsfähigkeit der Thiere vorausgesetzt, denn es heißt da-\nselbst, man solle den Auswurf einem sachverständigen Hirten vorzeigen,\nauf daß er erkenne, ob er in Folge der Trächtigkeit entstanden ist,\noder nicht, was nichts anderes heißt, als ob der Auswurf ein Abortus,\noder die Menstruation war. — Bei dem menschlichen Weibe heißt\ndas Blut der Menstruation דם נדה, das Blut der Jungferschaft\nדם בתולים, das Blut der Reinigung דם טהרה (Nidda 7, 1 u. öfter).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Kennzeichen wahrnehmen; dann aber lassen sie Nichts weiter von sich\nwahrnehmen, bis sie werfen wollen; denn dieses Herannahen ihrer\nNiederkunft erkennen die Hirten an gewissen Anzeigen“. Im Talmud\n(Nidda 29, a) heißt die Menstruation der Thiere: "
+    },
+    {
+     "lang": "heb",
+     "text": "טנוף"
+    },
+    {
+     "lang": "deu",
+     "text": " und wird all-\ngemein gesagt: "
+    },
+    {
+     "lang": "heb",
+     "text": "כל היולדות מטנפות"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i., Jedes gebärende Thier men-\nstruirt. Nach Raschi geschieht dieses Tags zuvor*); dahingegen wird\nBechoroth 21, b der Ausdruck: "
+    },
+    {
+     "lang": "heb",
+     "text": "טנוף"
+    },
+    {
+     "lang": "deu",
+     "text": " verschieden erklärt, entweder als\nAbortus, indem der Embryon sich auflöst und von dem Thiere ab-\ngeht, oder als Blutklümpchen ("
+    },
+    {
+     "lang": "arc",
+     "text": "כעכובי דדמא"
+    },
+    {
+     "lang": "deu",
+     "text": "), d. i. als Menstruation.\nMaimuni zur Mischna (Bechoroth 3, 1) und Schulchan Aruch Jore\nDea §. 315, 7 recipiren die erste Erklärung; indessen wird auch hier\ndie Menstruationsfähigkeit der Thiere vorausgesetzt, denn es heißt da-\nselbst, man solle den Auswurf einem sachverständigen Hirten vorzeigen,\nauf daß er erkenne, ob er in Folge der Trächtigkeit entstanden ist,\noder nicht, was nichts anderes heißt, als ob der Auswurf ein Abortus,\noder die Menstruation war. — Bei dem menschlichen Weibe heißt\ndas Blut der Menstruation "
+    },
+    {
+     "lang": "heb",
+     "text": "דם נדה"
+    },
+    {
+     "lang": "deu",
+     "text": ", das Blut der Jungferschaft\n"
+    },
+    {
+     "lang": "heb",
+     "text": "דם בתולים"
+    },
+    {
+     "lang": "deu",
+     "text": ", das Blut der Reinigung "
+    },
+    {
+     "lang": "heb",
+     "text": "דם טהרה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Nidda 7, 1 u. öfter)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 99.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 99."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Abortiren. Die unzeitige Frucht heißt נפל (Nidda 15, b), die\nmißgebildete Frucht, oder Mondkalb: שפיר (ibid. 24, b). Abgegan-\ngene Blutstücke: חררת דם (Bechoroth 21, b). Die Nachgeburt: שליה\n(Nidda 26, a). Ueber die monströsen Aborte des menschlichen Wei-\nbes handelt der dritte Abschnitt des Tractates Nidda und gehört die\nUntersuchung hierüber in das Gebiet der Anthropologie.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Abortiren. Die unzeitige Frucht heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "נפל"
+    },
+    {
+     "lang": "deu",
+     "text": " (Nidda 15, b), die\nmißgebildete Frucht, oder Mondkalb: "
+    },
+    {
+     "lang": "heb",
+     "text": "שפיר"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 24, b). Abgegan-\ngene Blutstücke: "
+    },
+    {
+     "lang": "heb",
+     "text": "חררת דם"
+    },
+    {
+     "lang": "deu",
+     "text": " (Bechoroth 21, b). Die Nachgeburt: "
+    },
+    {
+     "lang": "heb",
+     "text": "שליה"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Nidda 26, a). Ueber die monströsen Aborte des menschlichen Wei-\nbes handelt der dritte Abschnitt des Tractates Nidda und gehört die\nUntersuchung hierüber in das Gebiet der Anthropologie."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 100.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 100."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Mißgeburt. Der Talmud (Nidda 24, a) nennt diejenige Miß-\ngeburt von Menschen und Thieren שמועה, welche zwei Rückgrate und\nzwei Rücken hat. Jonathan (5. B. M. 14, 7) erwähnt einer Miß-\ngeburt des Viehes mit zwei Köpfen und zwei Rückgraten, die er\nשלולא nennt, was aber mit der שמועה identisch ist, da auch der Tal-\nmud auf jene Bibelstelle, in der das letztere Wort vorkommt, sich be-\nzieht. — Der Talmud läßt es unbestimmt, ob eine solche Mißgeburt\nleben könne, dagegen giebt er zu, daß ein Mensch mit gekrümmtem,\ndoppelt scheinendem Rückgrat leben kann (ibid.). — Andere Mißge-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Mißgeburt. Der Talmud (Nidda 24, a) nennt diejenige Miß-\ngeburt von Menschen und Thieren "
+    },
+    {
+     "lang": "heb",
+     "text": "שמועה"
+    },
+    {
+     "lang": "deu",
+     "text": ", welche zwei Rückgrate und\nzwei Rücken hat. Jonathan (5. B. M. 14, 7) erwähnt einer Miß-\ngeburt des Viehes mit zwei Köpfen und zwei Rückgraten, die er\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שלולא"
+    },
+    {
+     "lang": "deu",
+     "text": " nennt, was aber mit der "
+    },
+    {
+     "lang": "heb",
+     "text": "שמועה"
+    },
+    {
+     "lang": "deu",
+     "text": " identisch ist, da auch der Tal-\nmud auf jene Bibelstelle, in der das letztere Wort vorkommt, sich be-\nzieht. — Der Talmud läßt es unbestimmt, ob eine solche Mißgeburt\nleben könne, dagegen giebt er zu, daß ein Mensch mit gekrümmtem,\ndoppelt scheinendem Rückgrat leben kann (ibid.). — Andere Mißge-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Es geht nämlich dem Thiere Schleim (גליירא, Glaire) ab.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Es geht nämlich dem Thiere Schleim ("
+    },
+    {
+     "lang": "arc",
+     "text": "גליירא"
+    },
+    {
+     "lang": "fra",
+     "text": ", Glaire"
+    },
+    {
+     "lang": "deu",
+     "text": ") ab."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2160
+   ],
+   [
+    3308,
+    3056
+   ]
+  ],
+  "input_tokens": 3360,
+  "output_tokens": 1764,
+  "cost_usd": 0.0091,
+  "seconds": 20.0
+ }
+}

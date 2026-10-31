@@ -1,5 +1,5 @@
 {
- "note": "Reviewed mapping, maintained by hand. mode 'expand': the translation keeps the abbreviation as printed and abbrev.py adds ' [=expansion]' at its first use in a document. mode 'translate': a general German abbreviation that the translation renders in English as 'english'. basis: 'Vorrede' = from Lewysohn's preface; 'standard' = standard reference abbreviation; 'general knowledge' = from elsewhere, likely; 'guess' = not certain, check. Built from §§ 114-115 and the front matter on 31-Oct-2026.",
+ "note": "Reviewed mapping, maintained by hand. mode 'expand': the translation keeps the abbreviation as printed and abbrev.py adds ' [=expansion]' at its first use in a document. mode 'translate': a general German abbreviation that the translation renders in English as 'english'. basis: 'Vorrede' = from Lewysohn's preface; 'standard' = standard reference abbreviation; 'general knowledge' = from elsewhere, likely; 'guess' = not certain, check. Built from §§ 114-115 the front matter, part 1 and the mammals on 31-Oct-2026.",
  "items": [
   {
    "abbr": "B. Kama",
@@ -152,8 +152,8 @@
    "abbr": "Voigt",
    "kind": "bibliography",
    "mode": "expand",
-   "expansion": "F. S. Voigt, Lehrbuch der Zoologie (Stuttgart 1835–40)",
-   "basis": "guess"
+   "expansion": "F. S. Voigt, Lehrbuch der Zoologie (Stuttgart 1835–40); the text names it (p. 9: \"Voigt, Lehrb. d. Zool.\")",
+   "basis": "standard"
   },
   {
    "abbr": "Münster",
@@ -453,6 +453,531 @@
    "expansion": "Arabischen: Arabic",
    "basis": "standard",
    "english": "Arabic"
+  },
+  {
+   "abbr": "R. ha-Schana",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Rosh Hashanah",
+   "basis": "standard"
+  },
+  {
+   "abbr": "M. Katan",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Moed Katan",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Sch. Aruch",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Shulchan Aruch",
+   "basis": "standard"
+  },
+  {
+   "abbr": "S. Ar. Ch. Mispat",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Shulchan Aruch, Choshen Mishpat",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Tos.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Tosafot",
+   "basis": "standard"
+  },
+  {
+   "abbr": "B. M.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Buch Mose: book of Moses (5. B. M. = Deuteronomy)",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Lev.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Leviticus",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Exod.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Exodus",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Deut.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Deuteronomy",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Sam.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Samuel",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Jerem.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Jeremiah",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Kön.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Kings (German Könige)",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Spr. Sal.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Proverbs (German Sprüche Salomo's)",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Proverb.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Proverbs",
+   "basis": "standard"
+  },
+  {
+   "abbr": "h. n.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Pliny the Elder, Natural History (Naturalis historia)",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Stich.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Plautus, Stichus",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Lehrb. d. Zool.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "F. S. Voigt, Lehrbuch der Zoologie (Stuttgart 1835–40)",
+   "basis": "standard"
+  },
+  {
+   "abbr": "L. Bl. des Orients",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "Literaturblatt des Orients (Leipzig 1840–51), the literary supplement of Der Orient",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Or. Ester",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "Jonah Bondi, Or Esther, a dictionary of the foreign words in the Talmud",
+   "basis": "guess"
+  },
+  {
+   "abbr": "jerus. Talm.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "jerusalemischer Talmud",
+   "basis": "standard",
+   "english": "Jerusalem Talmud"
+  },
+  {
+   "abbr": "Talm. jerus.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Talmud jerusalemitanum",
+   "basis": "standard",
+   "english": "Jerusalem Talmud"
+  },
+  {
+   "abbr": "Tal. Jerus.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Talmud Jerusalemitanum",
+   "basis": "standard",
+   "english": "Jerusalem Talmud"
+  },
+  {
+   "abbr": "hal.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Halacha (a paragraph of the Jerusalem Talmud)",
+   "basis": "standard",
+   "english": "halakhah"
+  },
+  {
+   "abbr": "Cap.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Capitel: chapter",
+   "basis": "standard",
+   "english": "ch."
+  },
+  {
+   "abbr": "s. v.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "sub voce: under the word",
+   "basis": "standard",
+   "english": "s.v."
+  },
+  {
+   "abbr": "s. h. v.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "sub hac voce: under this word",
+   "basis": "standard",
+   "english": "s.v."
+  },
+  {
+   "abbr": "a. a. O.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "am angeführten Orte: in the place cited",
+   "basis": "standard",
+   "english": "loc. cit."
+  },
+  {
+   "abbr": "angef.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "angeführt: cited",
+   "basis": "standard",
+   "english": "cited"
+  },
+  {
+   "abbr": "vergl.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "vergleiche: compare",
+   "basis": "standard",
+   "english": "cf."
+  },
+  {
+   "abbr": "Vergl.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Vergleiche: compare",
+   "basis": "standard",
+   "english": "Cf."
+  },
+  {
+   "abbr": "Vgl.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Vergleiche: compare",
+   "basis": "standard",
+   "english": "Cf."
+  },
+  {
+   "abbr": "unt.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "unten: below",
+   "basis": "standard",
+   "english": "below"
+  },
+  {
+   "abbr": "ob.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "oben: above",
+   "basis": "standard",
+   "english": "above"
+  },
+  {
+   "abbr": "u. a. m.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "und andere mehr: and others",
+   "basis": "standard",
+   "english": "etc."
+  },
+  {
+   "abbr": "Anmerk.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Anmerkung: note",
+   "basis": "standard",
+   "english": "note"
+  },
+  {
+   "abbr": "Jahrg.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Jahrgang: annual volume",
+   "basis": "standard",
+   "english": "vol."
+  },
+  {
+   "abbr": "Thl.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Theil: part",
+   "basis": "standard",
+   "english": "part"
+  },
+  {
+   "abbr": "aram.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "aramäisch: Aramaic",
+   "basis": "standard",
+   "english": "Aramaic"
+  },
+  {
+   "abbr": "gr.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "griechisch: Greek",
+   "basis": "standard",
+   "english": "Greek"
+  },
+  {
+   "abbr": "griech.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "griechisch: Greek",
+   "basis": "standard",
+   "english": "Greek"
+  },
+  {
+   "abbr": "lat.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "lateinisch: Latin",
+   "basis": "standard",
+   "english": "Latin"
+  },
+  {
+   "abbr": "arab.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "arabisch: Arabic",
+   "basis": "standard",
+   "english": "Arabic"
+  },
+  {
+   "abbr": "span.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "spanisch: Spanish",
+   "basis": "standard",
+   "english": "Spanish"
+  },
+  {
+   "abbr": "franz.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "französisch: French",
+   "basis": "standard",
+   "english": "French"
+  },
+  {
+   "abbr": "ital.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "italienisch: Italian",
+   "basis": "standard",
+   "english": "Italian"
+  },
+  {
+   "abbr": "talm.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "talmudisch: Talmudic",
+   "basis": "standard",
+   "english": "Talmudic"
+  },
+  {
+   "abbr": "bibl.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "biblisch: biblical",
+   "basis": "standard",
+   "english": "biblical"
+  },
+  {
+   "abbr": "Hieroz.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "Samuel Bochart, Hierozoicon (Frankfurt a. M. 1675 edition)",
+   "basis": "Vorrede"
+  },
+  {
+   "abbr": "Hiero.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "Samuel Bochart, Hierozoicon (Frankfurt a. M. 1675 edition)",
+   "basis": "Vorrede"
+  },
+  {
+   "abbr": "Bibl. Alterth.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "E. F. K. Rosenmüller, Handbuch der biblischen Alterthumskunde (Leipzig 1823–31)",
+   "basis": "Vorrede"
+  },
+  {
+   "abbr": "R. W.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "G. B. Winer, Biblisches Realwörterbuch",
+   "basis": "general knowledge"
+  },
+  {
+   "abbr": "Buxdorf",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "Johannes Buxtorf, Lexicon Chaldaicum, Talmudicum et Rabbinicum (Basel 1640)",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Buxtorf",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "Johannes Buxtorf, Lexicon Chaldaicum, Talmudicum et Rabbinicum (Basel 1640)",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Mytholog. Wörterb.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "F. Nork, Etymologisch-symbolisch-mythologisches Real-Wörterbuch (Stuttgart 1843–45)",
+   "basis": "guess"
+  },
+  {
+   "abbr": "L. Bl. d. Orients",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "Literaturblatt des Orients (Leipzig 1840–51), the literary supplement of Der Orient",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Monatsschrift für Ges. u. Wissensch. des Judenth.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "Monatsschrift für Geschichte und Wissenschaft des Judenthums, ed. Zacharias Frankel (Dresden, from 1851)",
+   "basis": "standard"
+  },
+  {
+   "abbr": "N. G.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Aristotle, History of Animals (Historia animalium; German title Naturgeschichte)",
+   "basis": "general knowledge"
+  },
+  {
+   "abbr": "De gener.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Aristotle, On the Generation of Animals (De generatione animalium)",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Il.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Homer, Iliad",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Prov.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Proverbs",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Ezech.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Ezekiel",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Koh.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Ecclesiastes (Kohelet)",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Nehem.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Nehemiah",
+   "basis": "standard"
+  },
+  {
+   "abbr": "St. const.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Status constructus: construct state",
+   "basis": "standard",
+   "english": "construct state"
+  },
+  {
+   "abbr": "fr.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "französisch: French",
+   "basis": "standard",
+   "english": "French"
+  },
+  {
+   "abbr": "Hebr.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Hebräische: Hebrew",
+   "basis": "standard",
+   "english": "Hebrew"
+  },
+  {
+   "abbr": "Jahrh.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Jahrhundert: century",
+   "basis": "standard",
+   "english": "century"
+  },
+  {
+   "abbr": "fem.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "femininum: feminine",
+   "basis": "standard",
+   "english": "fem."
+  },
+  {
+   "abbr": "Fem.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Femininum: feminine",
+   "basis": "standard",
+   "english": "fem."
+  },
+  {
+   "abbr": "masc.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "masculinum: masculine",
+   "basis": "standard",
+   "english": "masc."
   }
  ]
 }

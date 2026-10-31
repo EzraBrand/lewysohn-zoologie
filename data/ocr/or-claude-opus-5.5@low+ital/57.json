@@ -1,0 +1,193 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Nutzen der Thiere.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nutzen der Thiere."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "57",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "57"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "burten sind Thiere mit fünf oder mit drei Füßen, ferner Thiere mit\ndoppeltem Mastdarm (Chulin 58, b). Doppeldärme sind bei Säuge-\nthieren, nicht aber bei Vögeln als Monstrosität anzusehen (ibid.).\nDer sechste und siebente Abschnitt des Tractats Bechoroth handeln\nausführlich über die Monstrositäten bei Menschen und Thieren, wo-\nvon in der speciellen Zoologie bei den einzelnen Artikeln der nöthige\nGebrauch gemacht wurde.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "burten sind Thiere mit fünf oder mit drei Füßen, ferner Thiere mit\ndoppeltem Mastdarm (Chulin 58, b). Doppeldärme sind bei Säuge-\nthieren, nicht aber bei Vögeln als Monstrosität anzusehen (ibid.).\nDer sechste und siebente Abschnitt des Tractats Bechoroth handeln\nausführlich über die Monstrositäten bei Menschen und Thieren, wo-\nvon in der speciellen Zoologie bei den einzelnen Artikeln der nöthige\nGebrauch gemacht wurde."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 101.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 101."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Nutzen der Thiere. Der Mensch, Beherrscher der übrigen le-\nbendigen Schöpfung (Gen. 2, 26), verstand es, dieselbe sich dienstbar\nund nützlich zu machen. Das Vieh dient ihm zur Nahrung (B. mez.\n86, b*), zum Pfluge (Chagiga 3, b), zum Dreschen (Meïla 13, a),\nzum Lasttragen (A. Sara 5, b), zum Düngen der Felder (B. Kama\n30, a) u. a. m. — Aus der Haut (Nasir 31, b**), den Haaren (Me-\nnachoth 39, b), der Wolle (ibid.), den Hörnern (Kinim 25, a), den\nKlauen (Chulin 25, b), den Schenkelknochen (Kinim 25, a), und den\nDärmen (ibid.) verfertigt er mannigfache Geräthe***). — Vögel\nund Fische (§. 313) dienen vorzugsweise zur Speise, von letzteren\nbenutzt er auch den Thran (Sabbat 24, b). — Die Thiere dienen\ntheils zur Arbeit, theils zur Speise, wobei wir in der speciellen Zoo-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nutzen der Thiere. Der Mensch, Beherrscher der übrigen le-\nbendigen Schöpfung (Gen. 2, 26), verstand es, dieselbe sich dienstbar\nund nützlich zu machen. Das Vieh dient ihm zur Nahrung (B. mez.\n86, b*), zum Pfluge (Chagiga 3, b), zum Dreschen (Meïla 13, a),\nzum Lasttragen (A. Sara 5, b), zum Düngen der Felder (B. Kama\n30, a) u. a. m. — Aus der Haut (Nasir 31, b**), den Haaren (Me-\nnachoth 39, b), der Wolle (ibid.), den Hörnern (Kinim 25, a), den\nKlauen (Chulin 25, b), den Schenkelknochen (Kinim 25, a), und den\nDärmen (ibid.) verfertigt er mannigfache Geräthe***). — Vögel\nund Fische (§. 313) dienen vorzugsweise zur Speise, von letzteren\nbenutzt er auch den Thran (Sabbat 24, b). — Die Thiere dienen\ntheils zur Arbeit, theils zur Speise, wobei wir in der speciellen Zoo-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Im jerus. Talm. (Peah Cap. 8, fol. 21, a) wird den Babyloniern vor-\ngeworfen, daß sie rohes Fleisch äßen, und wird hinzugefügt: מפני שדעתן\nמקולקלת, „weil sie halbwissend“, d. i. roh sind; allein Menachoth 99, b\nberichtet geradezu die Mischna, daß babylonische Priester rohes Opferfleisch ver-\nzehrten, מפני שדעתן יפה, „weil sie gedankenstark sind“, und sich vor rohem\nFleisch nicht ekeln (Bartenoro). Maimuni (z. d. Mischna) erklärt es einfach\nso, daß jene Priester tüchtigere Magen hatten; die Gemara hingegen (ibid. 100,\na), läßt jene Tüchtigkeit nicht von babylonischen, sondern von alexandrinischen\nPriestern gelten.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Im jerus. Talm. (Peah Cap. 8, fol. 21, a) wird den Babyloniern vor-\ngeworfen, daß sie rohes Fleisch äßen, und wird hinzugefügt: "
+    },
+    {
+     "lang": "heb",
+     "text": "מפני שדעתן\nמקולקלת"
+    },
+    {
+     "lang": "deu",
+     "text": ", „weil sie halbwissend“, d. i. roh sind; allein Menachoth 99, b\nberichtet geradezu die Mischna, daß babylonische Priester rohes Opferfleisch ver-\nzehrten, "
+    },
+    {
+     "lang": "heb",
+     "text": "מפני שדעתן יפה"
+    },
+    {
+     "lang": "deu",
+     "text": ", „weil sie gedankenstark sind“, und sich vor rohem\nFleisch nicht ekeln (Bartenoro). Maimuni (z. d. Mischna) erklärt es einfach\nso, daß jene Priester tüchtigere Magen hatten; die Gemara hingegen (ibid. 100,\na), läßt jene Tüchtigkeit nicht von babylonischen, sondern von alexandrinischen\nPriestern gelten."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Die vom getödteten Vieh besser ist, als die vom gefallenen (vergl.\nS. 60, Anmerk.). Hierher gehört noch die Anwendung der Thierhaut zu Trom-\nmeln (Sota 49, b; טנבורא, ital. Tamburo).",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die vom getödteten Vieh besser ist, als die vom gefallenen (vergl.\nS. 60, Anmerk.). Hierher gehört noch die Anwendung der Thierhaut zu Trom-\nmeln (Sota 49, b; "
+    },
+    {
+     "lang": "arc",
+     "text": "טנבורא"
+    },
+    {
+     "lang": "deu",
+     "text": ", ital. Tamburo)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Hierher gehört die Bereitung des Leims, der bekanntlich ein Product\naus gekochter thierischer Gallerte ist. Der beste ist von den Abfällen von Rinds-\nhäuten, doch hat man zur Zeit des Talmuds auch Bestandtheile von Mehl dem\nLeim beigemischt. Dieser heißt; קולן של סופרים (Κόλλα, Leim für Schreiber,\nwelcher die Materialien zusammenleimt), oder פרורא דאושכפי (Raschi: גלו\"ד,\nGluten, Leim der Schuster; Pesachim 42, b). Die Abfälle von Häuten heißen:\nקיצועין (Raschi: רוניו\"ש, Rognures; B. Kama 119, b). — Ueber das Zusam-\nmenleimen einzelner Papiertafeln s. Raschi zu Sota 17, a zu Ende.",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hierher gehört die Bereitung des Leims, der bekanntlich ein Product\naus gekochter thierischer Gallerte ist. Der beste ist von den Abfällen von Rinds-\nhäuten, doch hat man zur Zeit des Talmuds auch Bestandtheile von Mehl dem\nLeim beigemischt. Dieser heißt; "
+    },
+    {
+     "lang": "heb",
+     "text": "קולן של סופרים"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "grc",
+     "text": "Κόλλα"
+    },
+    {
+     "lang": "deu",
+     "text": ", Leim für Schreiber,\nwelcher die Materialien zusammenleimt), oder "
+    },
+    {
+     "lang": "arc",
+     "text": "פרורא דאושכפי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "גלו\"ד"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nGluten, Leim der Schuster; Pesachim 42, b). Die Abfälle von Häuten heißen:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קיצועין"
+    },
+    {
+     "lang": "deu",
+     "text": " (Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "רוניו\"ש"
+    },
+    {
+     "lang": "deu",
+     "text": ", Rognures; B. Kama 119, b). — Ueber das Zusam-\nmenleimen einzelner Papiertafeln s. Raschi zu Sota 17, a zu Ende."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3292,
+    2028
+   ],
+   [
+    3292,
+    3044
+   ]
+  ],
+  "input_tokens": 11358,
+  "output_tokens": 1967,
+  "cost_usd": 0.0848,
+  "seconds": 26.8
+ }
+}

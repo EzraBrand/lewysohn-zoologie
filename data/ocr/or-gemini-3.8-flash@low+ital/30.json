@@ -1,0 +1,249 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "30 Mund. — Ohren.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "30 Mund. — Ohren."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "der innern durchlöcherten Nasenwand trägt, heißt חסם (Sabbat 5, 1).\nAus חוֹטם entstand durch Einschiebung des R-Lautes חרטום, worüber\nim folgenden Artikel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "der innern durchlöcherten Nasenwand trägt, heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "חסם"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 5, 1).\nAus "
+    },
+    {
+     "lang": "heb",
+     "text": "חוֹטם"
+    },
+    {
+     "lang": "deu",
+     "text": " entstand durch Einschiebung des R-Lautes "
+    },
+    {
+     "lang": "heb",
+     "text": "חרטום"
+    },
+    {
+     "lang": "deu",
+     "text": ", worüber\nim folgenden Artikel."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 48.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 48."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Mund. Die Mundöffnung wird bei den vierfüßigen Thieren\nvon den Lippen begrenzt und von den Kinnbacken eingeschlossen, bei\nden Vögeln von den beiden Theilen des Schnabels. Von den Kinn-\nbacken heißt die obere: לחי העליון, die untere: לחי התחתון (Bechoroth\n40, a). In der Regel bedeckt die obere, die länger ist, die untere\nKinnbacke; doch kommt es vor, daß die untere Lippe länger als die\nobere ist. — Diese heißt: שפה עליונה, die untere Lippe: שפה תחתונה\n(ibid. 40, a) und beide bestehen aus einer knochenlosen, elastischen\nFleischmasse (ibid. 40, b). — Der innere Theil der Kinnbacke, an\nwelchem die Zähne sich befinden, heißt: עצם שכפה (ibid.). — Bei\nden Vögeln heißt der Schnabel: חרטום (Raschi: ביק, bec, Chulin\n121, a *), der obere Theil desselben: חרטום עליון der untere: חרטום\nתחתון (ibid.). — Wenn dem Vieh die obere Kinnbacke fehlt, so kann\nman es durch Einschütten des Futters noch am Leben erhalten (ibid.\n55, b). — Ueber den Mangel des obern Mundtheils bei Vieh und\nVögeln s. die Decisoren zu Sch. Aruch Jore Dea §. 33, 1. — Ueber\nden Schnabel der wilden und zahmen Gans s. §. 243. Schließlich\nsei bemerkt, daß der tolle Hund das Maul beständig aufhält (Joma\n83, b), den Grund hiervon s. §. 122.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Mund. Die Mundöffnung wird bei den vierfüßigen Thieren\nvon den Lippen begrenzt und von den Kinnbacken eingeschlossen, bei\nden Vögeln von den beiden Theilen des Schnabels. Von den Kinn-\nbacken heißt die obere: "
+    },
+    {
+     "lang": "heb",
+     "text": "לחי העליון"
+    },
+    {
+     "lang": "deu",
+     "text": ", die untere: "
+    },
+    {
+     "lang": "heb",
+     "text": "לחי התחתון"
+    },
+    {
+     "lang": "deu",
+     "text": " (Bechoroth\n40, a). In der Regel bedeckt die obere, die länger ist, die untere\nKinnbacke; doch kommt es vor, daß die untere Lippe länger als die\nobere ist. — Diese heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "שפה עליונה"
+    },
+    {
+     "lang": "deu",
+     "text": ", die untere Lippe: "
+    },
+    {
+     "lang": "heb",
+     "text": "שפה תחתונה"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(ibid. 40, a) und beide bestehen aus einer knochenlosen, elastischen\nFleischmasse (ibid. 40, b). — Der innere Theil der Kinnbacke, an\nwelchem die Zähne sich befinden, heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "עצם שכפה"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid.). — Bei\nden Vögeln heißt der Schnabel: "
+    },
+    {
+     "lang": "heb",
+     "text": "חרטום"
+    },
+    {
+     "lang": "deu",
+     "text": " (Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "ביק"
+    },
+    {
+     "lang": "deu",
+     "text": ", bec, Chulin\n121, a *), der obere Theil desselben: "
+    },
+    {
+     "lang": "heb",
+     "text": "חרטום עליון"
+    },
+    {
+     "lang": "deu",
+     "text": " der untere: "
+    },
+    {
+     "lang": "heb",
+     "text": "חרטום\nתחתון"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid.). — Wenn dem Vieh die obere Kinnbacke fehlt, so kann\nman es durch Einschütten des Futters noch am Leben erhalten (ibid.\n55, b). — Ueber den Mangel des obern Mundtheils bei Vieh und\nVögeln s. die Decisoren zu Sch. Aruch Jore Dea §. 33, 1. — Ueber\nden Schnabel der wilden und zahmen Gans s. §. 243. Schließlich\nsei bemerkt, daß der tolle Hund das Maul beständig aufhält (Joma\n83, b), den Grund hiervon s. §. 122."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 49.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 49."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Ohren. Gewöhnlich אזנים, aber auch aram. אודני (Sanhedrin\n106, a), sie sind entweder hervorstehend, wie bei dem Vieh, oder be-\nstehen nur in einer Ohröffnung, wie bei den Vögeln und zum Theil\nbei den Fischen. Der Esel hat lange Ohren (Kiduschin 33, a **).\n— Der Maulesel hat längere Ohren als das Maulthier (Chu-\nlin 70, a und hierzu §. 168). Das Kameel hat kaum hervorste-\nhende Ohren (Sanhedrin 106, a). — Bei der Geburt der Ziege kommen\ndie Ohren zuerst zum Vorschein (Bechoroth 35, a). Zuweilen findet sich",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ohren. Gewöhnlich "
+    },
+    {
+     "lang": "heb",
+     "text": "אזנים"
+    },
+    {
+     "lang": "deu",
+     "text": ", aber auch aram. "
+    },
+    {
+     "lang": "arc",
+     "text": "אודני"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sanhedrin\n106, a), sie sind entweder hervorstehend, wie bei dem Vieh, oder be-\nstehen nur in einer Ohröffnung, wie bei den Vögeln und zum Theil\nbei den Fischen. Der Esel hat lange Ohren (Kiduschin 33, a **).\n— Der Maulesel hat längere Ohren als das Maulthier (Chu-\nlin 70, a und hierzu §. 168). Das Kameel hat kaum hervorste-\nhende Ohren (Sanhedrin 106, a). — Bei der Geburt der Ziege kommen\ndie Ohren zuerst zum Vorschein (Bechoroth 35, a). Zuweilen findet sich"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Nach Raschi (B. Kama 55, a) heißt der Schnabel auch עוק. — Das\nAufpicken der einzelnen Körner: פיד של תרנגולת (A. Sara 4, a).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Nach Raschi (B. Kama 55, a) heißt der Schnabel auch "
+    },
+    {
+     "lang": "heb",
+     "text": "עוק"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Das\nAufpicken der einzelnen Körner: "
+    },
+    {
+     "lang": "heb",
+     "text": "פיד של תרנגולת"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 4, a)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " „Sagt man dir, du hättest ein Eselsohr, so sei ruhig; sagt man, du\nhättest zwei, so leg dir einen Zaum um“ (R. Bereschit fol. 50, col. 4). „Nennt\nman dich „„Esel!““ so lege dir einen Sattel auf“ (B. Kama 92, b).",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " „Sagt man dir, du hättest ein Eselsohr, so sei ruhig; sagt man, du\nhättest zwei, so leg dir einen Zaum um“ (R. Bereschit fol. 50, col. 4). „Nennt\nman dich „„Esel!““ so lege dir einen Sattel auf“ (B. Kama 92, b)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3284,
+    2353
+   ],
+   [
+    3284,
+    2755
+   ]
+  ],
+  "input_tokens": 3337,
+  "output_tokens": 1918,
+  "cost_usd": 0.0097,
+  "seconds": 15.2
+ }
+}

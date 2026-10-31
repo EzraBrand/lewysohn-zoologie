@@ -1,0 +1,377 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Lunge. — Die Speiseröhre und Eingeweide.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Lunge. — Die Speiseröhre und Eingeweide."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "37",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "37"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 61.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 61."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Lunge. Die Lunge (ריאה, Chulin 49, a) hat auf der rechten\nfünf, auf der linken drei Lungentheile, welche verschieden benannt\nwerden. Die erste Lunge, oder der erste Lungenlappen auf der rech-\nten Seite, heißt אונה העליונה, sie liegt um die Luftröhre und wird in\nder engen Brusthöhle (§. 57) eingeschlossen. Die jener zunächst fol-\ngende heißt: אונה האמצעי „die mittlere Lunge“, dieser folgt אונה\nארוכה ועבה, „die länglich-dicke Lunge“. Der vierte große Lungentheil\nheißt: אומה „Mutter“, gegen welche die erstgedachten gleichsam als\nKinder betrachtet werden. Endlich befindet sich auf der rechten Seite,\ninnerhalb nach dem Herzen zu gelegen, וורדא, wegen ihrer platten\nrosenähnlichen Form „die Rose“ genannt, welche von einem Hautsack\n(כים של וורדא) eingeschlossen wird; wegen seiner Kleinheit heißt dieser\nTheil auch עינוניתא דוורדא (Chulin 47, a, soviel wie אינוניתא, die kleine\nאונה). — Auf der linken Seite heißt der erstobere Lungentheil אונה\nעליונה של שמאל, die ihr folgende: אונה יורה כחץ „pfeilähnlich ge-\nstreckte Lunge“, und der dritte Theil heißt ebenfalls אומה „Mutter“,\nwelche kleiner als die auf der rechten Seite ist. — Ueber die mannig-\nfachen Abnormitäten der Lunge, sowohl im Betreff der Anzahl, als\nauch der Gestalt und der Lage der einzelnen Lungentheile vergl. die\nDecisoren zu Jore Deah §. 35. — Ueber den Schafwurm, der sich in\nder Lunge findet, s. §. 482; über andere Krankheiten der Lunge §. 104.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Lunge. Die Lunge ("
+    },
+    {
+     "lang": "heb",
+     "text": "ריאה"
+    },
+    {
+     "lang": "deu",
+     "text": ", Chulin 49, a) hat auf der rechten\nfünf, auf der linken drei Lungentheile, welche verschieden benannt\nwerden. Die erste Lunge, oder der erste Lungenlappen auf der rech-\nten Seite, heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "אונה העליונה"
+    },
+    {
+     "lang": "deu",
+     "text": ", sie liegt um die Luftröhre und wird in\nder engen Brusthöhle (§. 57) eingeschlossen. Die jener zunächst fol-\ngende heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "אונה האמצעי"
+    },
+    {
+     "lang": "deu",
+     "text": " „die mittlere Lunge“, dieser folgt "
+    },
+    {
+     "lang": "heb",
+     "text": "אונה\nארוכה ועבה"
+    },
+    {
+     "lang": "deu",
+     "text": ", „die länglich-dicke Lunge“. Der vierte große Lungentheil\nheißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "אומה"
+    },
+    {
+     "lang": "deu",
+     "text": " „Mutter“, gegen welche die erstgedachten gleichsam als\nKinder betrachtet werden. Endlich befindet sich auf der rechten Seite,\ninnerhalb nach dem Herzen zu gelegen, "
+    },
+    {
+     "lang": "arc",
+     "text": "וורדא"
+    },
+    {
+     "lang": "deu",
+     "text": ", wegen ihrer platten\nrosenähnlichen Form „die Rose“ genannt, welche von einem Hautsack\n("
+    },
+    {
+     "lang": "heb",
+     "text": "כים של וורדא"
+    },
+    {
+     "lang": "deu",
+     "text": ") eingeschlossen wird; wegen seiner Kleinheit heißt dieser\nTheil auch "
+    },
+    {
+     "lang": "arc",
+     "text": "עינוניתא דוורדא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 47, a, soviel wie "
+    },
+    {
+     "lang": "arc",
+     "text": "אינוניתא"
+    },
+    {
+     "lang": "deu",
+     "text": ", die kleine\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אונה"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Auf der linken Seite heißt der erstobere Lungentheil "
+    },
+    {
+     "lang": "heb",
+     "text": "אונה\nעליונה של שמאל"
+    },
+    {
+     "lang": "deu",
+     "text": ", die ihr folgende: "
+    },
+    {
+     "lang": "heb",
+     "text": "אונה יורה כחץ"
+    },
+    {
+     "lang": "deu",
+     "text": " „pfeilähnlich ge-\nstreckte Lunge“, und der dritte Theil heißt ebenfalls "
+    },
+    {
+     "lang": "heb",
+     "text": "אומה"
+    },
+    {
+     "lang": "deu",
+     "text": " „Mutter“,\nwelche kleiner als die auf der rechten Seite ist. — Ueber die mannig-\nfachen Abnormitäten der Lunge, sowohl im Betreff der Anzahl, als\nauch der Gestalt und der Lage der einzelnen Lungentheile vergl. die\nDecisoren zu Jore Deah §. 35. — Ueber den Schafwurm, der sich in\nder Lunge findet, s. §. 482; über andere Krankheiten der Lunge §. 104."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 62.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 62."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Speiseröhre und Eingeweide. Ueber diese inneren Theile\ndes Viehs darf folgende Midraschstelle (Rabba Wajikra fol. 168, col. 2)\nihrer Ausführlichkeit wegen als klassisch bezeichnet werden. Sie lautet:\n„Sieh, wie viele Mühe hat das Vieh ehe es die eingenommene Speise\nwieder von sich giebt! Die Speise geht durch den Mund (פומא) in\nden וושט, von diesem in den אוסטומכא, von hier aus in den המסס,\nvon hier in den בית כסיא, von hier in den כרם, von hier in die בי\nמעיא, von hier in den כרוכת קטנא von hier in den כרוכת עוביא, von\nhier in den סניא דיבי, von hier in den פטרכא und von hier geschieht\ndie Entleerung“. — Nach dieser Stelle müssen obige Namen über-\nsetzt werden: וושט, Speiseröhre; איסטומכא (Στόμαχος) erster\nMagen oder Vormagen; המסס (Omasum) zweiter Magen; בית\nכסיא, Blättermagen; כרם, Fettmagen; בי מעיא, Gedärme;\nכרוכת קטינא, dünner Darm; כרוכת עוביא, dicker Darm; סניא דיבי,\nUnrathsdarm und פטרכא, Mastdarm. Diese Stelle bedarf aber",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Speiseröhre und Eingeweide. Ueber diese inneren Theile\ndes Viehs darf folgende Midraschstelle (Rabba Wajikra fol. 168, col. 2)\nihrer Ausführlichkeit wegen als klassisch bezeichnet werden. Sie lautet:\n„Sieh, wie viele Mühe hat das Vieh ehe es die eingenommene Speise\nwieder von sich giebt! Die Speise geht durch den Mund ("
+    },
+    {
+     "lang": "arc",
+     "text": "פומא"
+    },
+    {
+     "lang": "deu",
+     "text": ") in\nden "
+    },
+    {
+     "lang": "heb",
+     "text": "וושט"
+    },
+    {
+     "lang": "deu",
+     "text": ", von diesem in den "
+    },
+    {
+     "lang": "arc",
+     "text": "אוסטומכא"
+    },
+    {
+     "lang": "deu",
+     "text": ", von hier aus in den "
+    },
+    {
+     "lang": "heb",
+     "text": "המסס"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nvon hier in den "
+    },
+    {
+     "lang": "arc",
+     "text": "בית כסיא"
+    },
+    {
+     "lang": "deu",
+     "text": ", von hier in den "
+    },
+    {
+     "lang": "heb",
+     "text": "כרם"
+    },
+    {
+     "lang": "deu",
+     "text": ", von hier in die "
+    },
+    {
+     "lang": "arc",
+     "text": "בי\nמעיא"
+    },
+    {
+     "lang": "deu",
+     "text": ", von hier in den "
+    },
+    {
+     "lang": "arc",
+     "text": "כרוכת קטנא"
+    },
+    {
+     "lang": "deu",
+     "text": " von hier in den "
+    },
+    {
+     "lang": "arc",
+     "text": "כרוכת עוביא"
+    },
+    {
+     "lang": "deu",
+     "text": ", von\nhier in den "
+    },
+    {
+     "lang": "arc",
+     "text": "סניא דיבי"
+    },
+    {
+     "lang": "deu",
+     "text": ", von hier in den "
+    },
+    {
+     "lang": "arc",
+     "text": "פטרכא"
+    },
+    {
+     "lang": "deu",
+     "text": " und von hier geschieht\ndie Entleerung“. — Nach dieser Stelle müssen obige Namen über-\nsetzt werden: "
+    },
+    {
+     "lang": "heb",
+     "text": "וושט"
+    },
+    {
+     "lang": "deu",
+     "text": ", Speiseröhre; "
+    },
+    {
+     "lang": "arc",
+     "text": "איסטומכא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "grc",
+     "text": "Στόμαχος"
+    },
+    {
+     "lang": "deu",
+     "text": ") erster\nMagen oder Vormagen; "
+    },
+    {
+     "lang": "heb",
+     "text": "המסס"
+    },
+    {
+     "lang": "deu",
+     "text": " (Omasum) zweiter Magen; "
+    },
+    {
+     "lang": "arc",
+     "text": "בית\nכסיא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Blättermagen; "
+    },
+    {
+     "lang": "heb",
+     "text": "כרם"
+    },
+    {
+     "lang": "deu",
+     "text": ", Fettmagen; "
+    },
+    {
+     "lang": "arc",
+     "text": "בי מעיא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Gedärme;\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כרוכת קטינא"
+    },
+    {
+     "lang": "deu",
+     "text": ", dünner Darm; "
+    },
+    {
+     "lang": "arc",
+     "text": "כרוכת עוביא"
+    },
+    {
+     "lang": "deu",
+     "text": ", dicker Darm; "
+    },
+    {
+     "lang": "arc",
+     "text": "סניא דיבי"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nUnrathsdarm und "
+    },
+    {
+     "lang": "arc",
+     "text": "פטרכא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Mastdarm. Diese Stelle bedarf aber"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2546
+   ],
+   [
+    3308,
+    2710
+   ]
+  ],
+  "input_tokens": 11324,
+  "output_tokens": 2474,
+  "cost_usd": 0.0948,
+  "seconds": 33.4
+ }
+}

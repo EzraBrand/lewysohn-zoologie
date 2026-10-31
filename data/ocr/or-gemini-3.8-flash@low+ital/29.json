@@ -1,0 +1,509 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Augen. — Nase.\t29",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Augen. — Nase."
+    },
+    {
+     "lang": "lat",
+     "text": "\t29"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "backen, bei den Vögeln von dem Schädel bis zur Spike des Schna-\nbels, heißt das Gesicht. An ihm befinden sich die Stirn, die Schlä-\nfen, Augen, Nase und Maul. — Die Stirn heißt: מצח, zuweilen\nauch: אפותא (Berachoth 44, a) und פדחת (Jebamoth 120, a). —\nDie Schläfen heißen: כלכול, was der Talmud näher durch צידעא\n(Sabbat 80, b) und dieses lektre wieder Raschi durch טינפלא (<i>tempe</i>)\nerklärt. Die Stelle um die Schläfe herum heißt: אנדיפי, oder בת צידעא\n(ibid.). — Das Gesicht heißt überhaupt אפא (Chulin 52, b) und\nפרצוף פנים (πρόσωπον, Jebamoth 120, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "backen, bei den Vögeln von dem Schädel bis zur Spike des Schna-\nbels, heißt das Gesicht. An ihm befinden sich die Stirn, die Schlä-\nfen, Augen, Nase und Maul. — Die Stirn heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "מצח"
+    },
+    {
+     "lang": "deu",
+     "text": ", zuweilen\nauch: "
+    },
+    {
+     "lang": "arc",
+     "text": "אפותא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Berachoth 44, a"
+    },
+    {
+     "lang": "deu",
+     "text": ") und "
+    },
+    {
+     "lang": "heb",
+     "text": "פדחת"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Jebamoth 120, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). —\nDie Schläfen heißen: "
+    },
+    {
+     "lang": "arc",
+     "text": "כלכול"
+    },
+    {
+     "lang": "deu",
+     "text": ", was der Talmud näher durch "
+    },
+    {
+     "lang": "arc",
+     "text": "צידעא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n("
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat 80, b"
+    },
+    {
+     "lang": "deu",
+     "text": ") und dieses lektre wieder Raschi durch "
+    },
+    {
+     "lang": "arc",
+     "text": "טינפלא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "fra",
+     "text": "<i>tempe</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ")\nerklärt. Die Stelle um die Schläfe herum heißt: "
+    },
+    {
+     "lang": "arc",
+     "text": "אנדיפי"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "arc",
+     "text": "בת צידעא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid."
+    },
+    {
+     "lang": "deu",
+     "text": "). — Das Gesicht heißt überhaupt "
+    },
+    {
+     "lang": "arc",
+     "text": "אפא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin 52, b"
+    },
+    {
+     "lang": "deu",
+     "text": ") und\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פרצוף פנים"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "grc",
+     "text": "πρόσωπον"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "Jebamoth 120, a"
+    },
+    {
+     "lang": "deu",
+     "text": ")."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 46.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 46."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Augen. Gewöhnlich עינים, doch heißen die Augenpuncte der\nFliege: טיפין (Nidda 25, a). — Die Augenwimpern: חימורא (Sab-\nbat 77, b) und רים של עין, was näher durch: חורא ברא דעינא erklärt\nwird (Bechoroth 38, b). — Die Augenbrauen: גבינים (ibid. 43,\nb). — Der Augapfel: גלגל עין (ibid. 40, a)*). — Das Weiße\ndes Auges: לבן שבעין, das Schwarze: שחור שבעין (ibid. 38, a). —\nDer Augapfel ist weder bei dem Thier, noch bei dem Vieh ganz so\nrund wie bei dem Menschen, wohl aber ist es die Pupille, die wie-\nderum bei den Fischen nicht ganz rund ist (Nidda 23, a). In der\nThat läuft sie bei den Fischen nach dem Munde zu etwas spitz aus,\nwas zuweilen leicht bemerkbar ist. — Abnormitäten giebt es öfters\ndarin, daß bei dem Vieh ein Auge größer als das andere ist (Be-\nchoroth 40, b). Man vergleiche über die Abnormitäten des Vieh-\nauges überhaupt Mischna (ibid. 6, 2—3). — Bei dem Huhn (über-\nhaupt bei allen schweren Landvögeln, s. §. 246 Anm. †) bedeckt die\nuntere Wimper die obere. (Sabbat 77, b). — Der syrische Maulwurf\nist gänzlich blind (§. 135). — Ueber das Augenwasser s. unt. §. 84.\n— Bei dem Menschen ist das Weiße größer als das Schwarze des\nAuges; bei dem Thiere ist es entgegengesetzt (jerus. Talm. Nidda 50, c).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Augen. Gewöhnlich "
+    },
+    {
+     "lang": "heb",
+     "text": "עינים"
+    },
+    {
+     "lang": "deu",
+     "text": ", doch heißen die Augenpuncte der\nFliege: "
+    },
+    {
+     "lang": "arc",
+     "text": "טיפין"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Nidda 25, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Die Augenwimpern: "
+    },
+    {
+     "lang": "arc",
+     "text": "חימורא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sab-"
+    },
+    {
+     "lang": "deu",
+     "text": "\nbat "
+    },
+    {
+     "lang": "lat",
+     "text": "77, b"
+    },
+    {
+     "lang": "deu",
+     "text": ") und "
+    },
+    {
+     "lang": "heb",
+     "text": "רים של עין"
+    },
+    {
+     "lang": "deu",
+     "text": ", was näher durch: "
+    },
+    {
+     "lang": "arc",
+     "text": "חורא ברא דעינא"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt\nwird ("
+    },
+    {
+     "lang": "lat",
+     "text": "Bechoroth 38, b"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Die Augenbrauen: "
+    },
+    {
+     "lang": "heb",
+     "text": "גבינים"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid. 43,"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "lat",
+     "text": "b"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Der Augapfel: "
+    },
+    {
+     "lang": "arc",
+     "text": "גלגל עין"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid. 40, a"
+    },
+    {
+     "lang": "deu",
+     "text": ")*). — Das Weiße\ndes Auges: "
+    },
+    {
+     "lang": "arc",
+     "text": "לבן שבעין"
+    },
+    {
+     "lang": "deu",
+     "text": ", das Schwarze: "
+    },
+    {
+     "lang": "arc",
+     "text": "שחור שבעין"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid. 38, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). —\nDer Augapfel ist weder bei dem Thier, noch bei dem Vieh ganz so\nrund wie bei dem Menschen, wohl aber ist es die Pupille, die wie-\nderum bei den Fischen nicht ganz rund ist ("
+    },
+    {
+     "lang": "lat",
+     "text": "Nidda 23, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). In der\nThat läuft sie bei den Fischen nach dem Munde zu etwas spitz aus,\nwas zuweilen leicht bemerkbar ist. — Abnormitäten giebt es öfters\ndarin, daß bei dem Vieh ein Auge größer als das andere ist ("
+    },
+    {
+     "lang": "lat",
+     "text": "Be-"
+    },
+    {
+     "lang": "deu",
+     "text": "\nchoroth "
+    },
+    {
+     "lang": "lat",
+     "text": "40, b"
+    },
+    {
+     "lang": "deu",
+     "text": "). Man vergleiche über die Abnormitäten des Vieh-\nauges überhaupt Mischna ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid. 6, 2—3"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Bei dem Huhn (über-\nhaupt bei allen schweren Landvögeln, s. §. 246 Anm. †) bedeckt die\nuntere Wimper die obere. ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat 77, b"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Der syrische Maulwurf\nist gänzlich blind (§. 135). — Ueber das Augenwasser s. unt. §. 84.\n— Bei dem Menschen ist das Weiße größer als das Schwarze des\nAuges; bei dem Thiere ist es entgegengesetzt ("
+    },
+    {
+     "lang": "lat",
+     "text": "jerus. Talm. Nidda 50, c"
+    },
+    {
+     "lang": "deu",
+     "text": ")."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 47.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 47."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Nase. Die Nase heißt אף, oder חוטם (Joma 19, b), auch אוסיא\n(Sabbat 67, a). — Die Nasenlöcher: נחירים (auch biblisch). —\nDie Scheidewand und die beiden äußeren Wände der Nase: חטמין\n(Bechoroth 39, a). — Der Nasenring, den das weibliche Kameel an",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nase. Die Nase heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "אף"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "arc",
+     "text": "חוטם"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Joma 19, b"
+    },
+    {
+     "lang": "deu",
+     "text": "), auch "
+    },
+    {
+     "lang": "arc",
+     "text": "אוסיא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n("
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat 67, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Die Nasenlöcher: "
+    },
+    {
+     "lang": "heb",
+     "text": "נחירים"
+    },
+    {
+     "lang": "deu",
+     "text": " (auch biblisch). —\nDie Scheidewand und die beiden äußeren Wände der Nase: "
+    },
+    {
+     "lang": "arc",
+     "text": "חטמין"
+    },
+    {
+     "lang": "deu",
+     "text": "\n("
+    },
+    {
+     "lang": "lat",
+     "text": "Bechoroth 39, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Der Nasenring, den das weibliche Kameel an"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Die Redensart: „Jemanden wie seinen Augapfel lieben\", findet sich in\nRabba Echa fol. 72, col 4.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Redensart: „Jemanden wie seinen Augapfel lieben\", findet sich in\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Rabba Echa fol. 72, col 4."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3208,
+    2595
+   ],
+   [
+    3208,
+    2717
+   ]
+  ],
+  "input_tokens": 3355,
+  "output_tokens": 1735,
+  "cost_usd": 0.009,
+  "seconds": 15.6
+ }
+}

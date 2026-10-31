@@ -1,0 +1,365 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Das Vieh. — Die Thiere. 3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Vieh. — Die Thiere. 3"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "dern auch collectiv für das Viehgeschlecht gemeinhin (Temura 9, a),\ndoch hat das Wort auch die plurale Form בהמות.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "dern auch collectiv für das Viehgeschlecht gemeinhin (Temura 9, a),\ndoch hat das Wort auch die plurale Form "
+    },
+    {
+     "lang": "heb",
+     "text": "בהמות"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "In religiös-gesetzlicher Beziehung unterschied man בהמה טהורה\n„reines, d. i. zu essen gestattetes Vieh“, und בהמה טמאה „unreines,\nd. h. zu essen verbotenes Vieh“ (Kilajim 8, 2). — In Beziehung\nder Größe giebt es בהמה גסה „großes Vieh“, z. B. die Kuh und\nihr Kalb, da auch Letzteres wegen seiner späteren Größe so genannt\nwird (§. 5) und בהמה דקה „Kleinvieh“ (Chulin 42, a*). — Endlich\nunterschied man in Betreff des Aufenthalts ביתיות „im Hause le-\nbendes“ und מדבריות „im Freien lebendes“ Vieh (Beza 40, a**).\nLetzteres Vieh hieß auch חיואי ברייתי (Chulin 43, b). Das deutsche\nWort „Hausthier“ ist umfassender und bezeichnet jedes domesticirte\nThier, während der Talmud hierunter nur das Viehgeschlecht versteht.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In religiös-gesetzlicher Beziehung unterschied man "
+    },
+    {
+     "lang": "heb",
+     "text": "בהמה טהורה"
+    },
+    {
+     "lang": "deu",
+     "text": "\n„reines, d. i. zu essen gestattetes Vieh“, und "
+    },
+    {
+     "lang": "heb",
+     "text": "בהמה טמאה"
+    },
+    {
+     "lang": "deu",
+     "text": " „unreines,\nd. h. zu essen verbotenes Vieh“ (Kilajim 8, 2). — In Beziehung\nder Größe giebt es "
+    },
+    {
+     "lang": "heb",
+     "text": "בהמה גסה"
+    },
+    {
+     "lang": "deu",
+     "text": " „großes Vieh“, z. B. die Kuh und\nihr Kalb, da auch Letzteres wegen seiner späteren Größe so genannt\nwird (§. 5) und "
+    },
+    {
+     "lang": "heb",
+     "text": "בהמה דקה"
+    },
+    {
+     "lang": "deu",
+     "text": " „Kleinvieh“ (Chulin 42, a*). — Endlich\nunterschied man in Betreff des Aufenthalts "
+    },
+    {
+     "lang": "heb",
+     "text": "ביתיות"
+    },
+    {
+     "lang": "deu",
+     "text": " „im Hause le-\nbendes“ und "
+    },
+    {
+     "lang": "heb",
+     "text": "מדבריות"
+    },
+    {
+     "lang": "deu",
+     "text": " „im Freien lebendes“ Vieh (Beza 40, a**).\nLetzteres Vieh hieß auch "
+    },
+    {
+     "lang": "arc",
+     "text": "חיואי ברייתי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 43, b). Das deutsche\nWort „Hausthier“ ist umfassender und bezeichnet jedes domesticirte\nThier, während der Talmud hierunter nur das Viehgeschlecht versteht."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 4.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 4."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Thiere. Der Talmud versteht unter Thier sowohl alle im\nverwilderten Zustand lebenden, als auch die zwar domesticirten, aber\nzum Viehgeschlecht nicht gehörenden Zugthiere. Genereller Name ist\nחיה „das Lebendige“. — In Beziehung der Größe unterschied man\nחיה גסה „großes Thier“ (A. Sara 16, b) und חיה דקה „kleines Thier“\n(B. Kama 80, a). Zu Letzterem gehören der Hirsch, der Fuchs u. s. w.\n— In ritueller Beziehung giebt es חיה טמאה „unreines“ und חיה\nטהורה „reines“ Thier (Kilajim 8, 2), wobei jenes zu essen verboten,\ndieses gestattet ist. — Wasserthiere heißen חיה שבים „Thier des Meeres“\n(Kelim 10, 1). — Das Raubthier heißt חיה רעה „das böse Thier“\n(Sanhedrin 38, b). Im Gegensatz zu den Hausthieren heißen die auswärts\nlebenden Thiere (wie das auswärts lebende Vieh §. 3) חיואי ברייתי***)",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Thiere. Der Talmud versteht unter Thier sowohl alle im\nverwilderten Zustand lebenden, als auch die zwar domesticirten, aber\nzum Viehgeschlecht nicht gehörenden Zugthiere. Genereller Name ist\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חיה"
+    },
+    {
+     "lang": "deu",
+     "text": " „das Lebendige“. — In Beziehung der Größe unterschied man\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חיה גסה"
+    },
+    {
+     "lang": "deu",
+     "text": " „großes Thier“ (A. Sara 16, b) und "
+    },
+    {
+     "lang": "heb",
+     "text": "חיה דקה"
+    },
+    {
+     "lang": "deu",
+     "text": " „kleines Thier“\n(B. Kama 80, a). Zu Letzterem gehören der Hirsch, der Fuchs u. s. w.\n— In ritueller Beziehung giebt es "
+    },
+    {
+     "lang": "heb",
+     "text": "חיה טמאה"
+    },
+    {
+     "lang": "deu",
+     "text": " „unreines“ und "
+    },
+    {
+     "lang": "heb",
+     "text": "חיה\nטהורה"
+    },
+    {
+     "lang": "deu",
+     "text": " „reines“ Thier (Kilajim 8, 2), wobei jenes zu essen verboten,\ndieses gestattet ist. — Wasserthiere heißen "
+    },
+    {
+     "lang": "heb",
+     "text": "חיה שבים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Thier des Meeres“\n(Kelim 10, 1). — Das Raubthier heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "חיה רעה"
+    },
+    {
+     "lang": "deu",
+     "text": " „das böse Thier“\n(Sanhedrin 38, b). Im Gegensatz zu den Hausthieren heißen die auswärts\nlebenden Thiere (wie das auswärts lebende Vieh §. 3) "
+    },
+    {
+     "lang": "arc",
+     "text": "חיואי ברייתי"
+    },
+    {
+     "lang": "deu",
+     "text": "***)"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Das im Wachsthum gehinderte, zwerghafte Geschöpf heißt männlich ננס\n(Νάννος), weiblich ננסת (Bechoroth 45, b). Kleinvieh heißt sonst auch\nגודרות (B. mez. 69, a und öfter); vgl. עדר הגדר §. 151, Anm.** — בהמות\nדקות nennt der jerus. Talm. (B. mez. 8, c): בעיר דקיק.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das im Wachsthum gehinderte, zwerghafte Geschöpf heißt männlich "
+    },
+    {
+     "lang": "heb",
+     "text": "ננס"
+    },
+    {
+     "lang": "deu",
+     "text": "\n("
+    },
+    {
+     "lang": "grc",
+     "text": "Νάννος"
+    },
+    {
+     "lang": "deu",
+     "text": "), weiblich "
+    },
+    {
+     "lang": "heb",
+     "text": "ננסת"
+    },
+    {
+     "lang": "deu",
+     "text": " (Bechoroth 45, b). Kleinvieh heißt sonst auch\n"
+    },
+    {
+     "lang": "heb",
+     "text": "גודרות"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. mez. 69, a und öfter); vgl. "
+    },
+    {
+     "lang": "heb",
+     "text": "עדר הגדר"
+    },
+    {
+     "lang": "deu",
+     "text": " §. 151, Anm.** — "
+    },
+    {
+     "lang": "heb",
+     "text": "בהמות\nדקות"
+    },
+    {
+     "lang": "deu",
+     "text": " nennt der jerus. Talm. (B. mez. 8, c): "
+    },
+    {
+     "lang": "heb",
+     "text": "בעיר דקיק"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Der Talmud (Pesachim 52, b) stellt den Grundsatz auf: אין חיה\nשביהודה גדילה על פירות שבגליל ואין חיה שבגליל גדילה על פירות שביהודה\nwas Raschi so versteht, daß das Thier wegen der Nahrung von Judäa nach Ga-\nliläa und umgekehrt sich nicht entfernt; L. Heller (Schebiith 9, 3) scheint es wört-\nlich zu nehmen, nämlich von der Erhaltung des Thieres; vgl. Tosephoth\nChadaschim daselbst.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Talmud (Pesachim 52, b) stellt den Grundsatz auf: "
+    },
+    {
+     "lang": "heb",
+     "text": "אין חיה\nשביהודה גדילה על פירות שבגליל ואין חיה שבגליל גדילה על פירות שביהודה"
+    },
+    {
+     "lang": "deu",
+     "text": "\nwas Raschi so versteht, daß das Thier wegen der Nahrung von Judäa nach Ga-\nliläa und umgekehrt sich nicht entfernt; L. Heller (Schebiith 9, 3) scheint es wört-\nlich zu nehmen, nämlich von der Erhaltung des Thieres; vgl. Tosephoth\nChadaschim daselbst."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Ueber die doppelte Bedeutung des Wortes ברייתי von ברא „auswärts“,\noder von בריא „fettsein“, s. Raschi zu Chulin 47, a. — Der Hund gehört zum\nThiergeschlecht (Kilajim 8, 6), obgleich (B. batra 8, a) bemerkt wird, daß das\nWort כלב an Zahlenwerth dem Worte בהמה gleich ist.",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ueber die doppelte Bedeutung des Wortes "
+    },
+    {
+     "lang": "arc",
+     "text": "ברייתי"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "arc",
+     "text": "ברא"
+    },
+    {
+     "lang": "deu",
+     "text": " „auswärts“,\noder von "
+    },
+    {
+     "lang": "heb",
+     "text": "בריא"
+    },
+    {
+     "lang": "deu",
+     "text": " „fettsein“, s. Raschi zu Chulin 47, a. — Der Hund gehört zum\nThiergeschlecht (Kilajim 8, 6), obgleich (B. batra 8, a) bemerkt wird, daß das\nWort "
+    },
+    {
+     "lang": "heb",
+     "text": "כלב"
+    },
+    {
+     "lang": "deu",
+     "text": " an Zahlenwerth dem Worte "
+    },
+    {
+     "lang": "heb",
+     "text": "בהמה"
+    },
+    {
+     "lang": "deu",
+     "text": " gleich ist."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "1*",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "1*"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3288,
+    3163
+   ],
+   [
+    3288,
+    2153
+   ]
+  ],
+  "input_tokens": 11374,
+  "output_tokens": 2577,
+  "cost_usd": 0.097,
+  "seconds": 33.8
+ }
+}

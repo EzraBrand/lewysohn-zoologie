@@ -1,0 +1,161 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "108\nDer Siebenschläfer.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "108\nDer Siebenschläfer."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Thieres überhaupt. Gleiche Feinde hat mit der Maus auch die Ratte;\ndoch scheint folgende Talmudstelle nur von der Ratte zu handeln. B. mez.\n97, a wird erzählt: „Jemand lieh sich von einem Andern eine Katze,\ngegen welche aber die עכברי sich verbanden und sie tödteten. Auf\neine in Folge dessen erhobene Ersatzklage von Seiten des frühern Be-\nsitzers, erklärte der Richter, daß der Verklagte vom Schadenersatz frei-\nzusprechen sei, „„denn ein Mann, der sich von Frauen todtschlagen\nläßt, hat alles Recht verloren.““ — Nun aber ist es eine Unmög-\nlichkeit, daß die Mäuse, deren Charakter Furchtsamkeit ist, die Katze\nbesiegen könnten, wohl aber ist die Ratte dreist, zornig und kühn\n(Voigt l. c. 1, S. 350 und 353). Sie springt selbst dem Menschen\nnach Händen und Gesicht, und die Katze kann nur dann sie bezwin-\ngen, wenn sie dieselbe würgend beim Hals gepackt hat, während sie\nbei einem andern Angriff einen furchtbaren Kampf mit der Ratte\nzu bestehen hat, wobei sie selbst nicht selten durch viele empfangene\nWunden zu Grunde geht.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Thieres überhaupt. Gleiche Feinde hat mit der Maus auch die Ratte;\ndoch scheint folgende Talmudstelle nur von der Ratte zu handeln. B. mez.\n97, a wird erzählt: „Jemand lieh sich von einem Andern eine Katze,\ngegen welche aber die "
+    },
+    {
+     "lang": "arc",
+     "text": "עכברי"
+    },
+    {
+     "lang": "deu",
+     "text": " sich verbanden und sie tödteten. Auf\neine in Folge dessen erhobene Ersatzklage von Seiten des frühern Be-\nsitzers, erklärte der Richter, daß der Verklagte vom Schadenersatz frei-\nzusprechen sei, „„denn ein Mann, der sich von Frauen todtschlagen\nläßt, hat alles Recht verloren.““ — Nun aber ist es eine Unmög-\nlichkeit, daß die Mäuse, deren Charakter Furchtsamkeit ist, die Katze\nbesiegen könnten, wohl aber ist die Ratte dreist, zornig und kühn\n(Voigt l. c. 1, S. 350 und 353). Sie springt selbst dem Menschen\nnach Händen und Gesicht, und die Katze kann nur dann sie bezwin-\ngen, wenn sie dieselbe würgend beim Hals gepackt hat, während sie\nbei einem andern Angriff einen furchtbaren Kampf mit der Ratte\nzu bestehen hat, wobei sie selbst nicht selten durch viele empfangene\nWunden zu Grunde geht."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 140.\nDer Siebenschläfer.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 140.\nDer Siebenschläfer."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Dieses Thier, welches auch Rellmaus, Bilchmaus, Ras-\nselmaus, ferner Schlafratze und von Blumenbach: Glis escu-\nlentus genannt wird, war dem Talmud wohl bekannt, von Raschi\njedoch mißverstanden und von keinem Commentar erklärt worden.\nAb. Sara 68, b wird der Unterschied zwischen עכברא דמתא (Stadt-\nmaus, d. i., Hausmaus, Mus domesticus), und עכברא דברא (aus-\nwärts lebende Maus, oder Ratte) gemacht. Erstere ist ekelhaft, Letz-\ntere eine Delicatesse und kommt als solche auf die Tische der Großen\n(עולה על שלחן מלכים). Raschi erklärt das Thier durch das Fremd-\nwort אשקורל, welches man mit Ecureuil zu erklären geneigt wäre,\ndenn auch Gerson (im שער השמים Ed. Heidenheim 24, b) sagt\nvom Eichhörnchen: ויש מהם בעלי תנועה רכה כמעט שלא ינוחו כמו\nאישקורול „Einige sind von leichter, kaum rastender Bewegung, wie\ndas Ecureuil“; — allein abgesehen, daß Raschi mit demselben Worte\nden Zoophyten, die aus Fleisch und Erde bestehende Maus (Sanhe-\ndrin 91, a) erklärt (§. 494), die gewiß zu unappetitlich ist, um als\nDelicatesse gelten zu können, so ist auch das Eichhörnchen nicht ge-\nnießbar und am allerwenigsten ein Leckerbissen der Gourmands. —\nEs ist aber in unserer Stelle sicherlich nichts anderes als der Sieben-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dieses Thier, welches auch Rellmaus, Bilchmaus, Ras-\nselmaus, ferner Schlafratze und von Blumenbach: "
+    },
+    {
+     "lang": "lat",
+     "text": "Glis escu-\nlentus"
+    },
+    {
+     "lang": "deu",
+     "text": " genannt wird, war dem Talmud wohl bekannt, von Raschi\njedoch mißverstanden und von keinem Commentar erklärt worden.\nAb. Sara 68, b wird der Unterschied zwischen "
+    },
+    {
+     "lang": "arc",
+     "text": "עכברא דמתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Stadt-\nmaus, d. i., Hausmaus, "
+    },
+    {
+     "lang": "lat",
+     "text": "Mus domesticus"
+    },
+    {
+     "lang": "deu",
+     "text": "), und "
+    },
+    {
+     "lang": "arc",
+     "text": "עכברא דברא"
+    },
+    {
+     "lang": "deu",
+     "text": " (aus-\nwärts lebende Maus, oder Ratte) gemacht. Erstere ist ekelhaft, Letz-\ntere eine Delicatesse und kommt als solche auf die Tische der Großen\n("
+    },
+    {
+     "lang": "heb",
+     "text": "עולה על שלחן מלכים"
+    },
+    {
+     "lang": "deu",
+     "text": "). Raschi erklärt das Thier durch das Fremd-\nwort "
+    },
+    {
+     "lang": "heb",
+     "text": "אשקורל"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches man mit "
+    },
+    {
+     "lang": "fra",
+     "text": "Ecureuil"
+    },
+    {
+     "lang": "deu",
+     "text": " zu erklären geneigt wäre,\ndenn auch Gerson (im "
+    },
+    {
+     "lang": "heb",
+     "text": "שער השמים"
+    },
+    {
+     "lang": "deu",
+     "text": " Ed. Heidenheim 24, b) sagt\nvom Eichhörnchen: "
+    },
+    {
+     "lang": "heb",
+     "text": "ויש מהם בעלי תנועה רכה כמעט שלא ינוחו כמו\nאישקורול"
+    },
+    {
+     "lang": "deu",
+     "text": " „Einige sind von leichter, kaum rastender Bewegung, wie\ndas "
+    },
+    {
+     "lang": "fra",
+     "text": "Ecureuil"
+    },
+    {
+     "lang": "deu",
+     "text": "“; — allein abgesehen, daß Raschi mit demselben Worte\nden Zoophyten, die aus Fleisch und Erde bestehende Maus (Sanhe-\ndrin 91, a) erklärt (§. 494), die gewiß zu unappetitlich ist, um als\nDelicatesse gelten zu können, so ist auch das Eichhörnchen nicht ge-\nnießbar und am allerwenigsten ein Leckerbissen der Gourmands. —\nEs ist aber in unserer Stelle sicherlich nichts anderes als der Sieben-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3304,
+    2071
+   ],
+   [
+    3304,
+    2973
+   ]
+  ],
+  "input_tokens": 3342,
+  "output_tokens": 1407,
+  "cost_usd": 0.0078,
+  "seconds": 13.2
+ }
+}

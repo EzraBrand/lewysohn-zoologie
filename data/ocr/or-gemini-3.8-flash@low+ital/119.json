@@ -1,0 +1,333 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Das Schaf.\n119",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Schaf.\n119"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "der Ausspruch: איל בן יומו קרוי איל „Ein Schaf führt diesen Namen\nschon, wenn es einen Tag alt ist“ (B. Kama 65, b). — Sonst heißt\ndas Lämmchen: אימרא (Keritot 28, b), öfterer טלא und טליה (Me-\nnachot 107, b) pl. טלאים (Chulin 84, a). — Ein großer Widder heißt\nברחא (Sabbat 18, b) und im Pl. עתוזים, womit jedoch zuweilen un-\neigentlich das Schafgeschlecht überhaupt bezeichnet wird (Chulin 84, a).\nEndlich heißt die ziegenartige vom Schaf geworfene Mißgeburt נדמה\n(B. Kama 77, b) und das kleine, magere Lamm פטרוזא (Bechoroth\n11, a).\nDer Nutzen des Schafes ist so groß, daß der Talmud den Ver-\nkauf von Feldern und hierfür den Ankauf von Schafen empfiehlt\n(Chulin 84, a). Ihr Besitz bereichert (ibid. b). — Einen mannig-\nfachen Nutzen für musikalische Instrumente gewährt besonders der\nSchafbock. Aus seinen Hörnern verfertigte man Blasinstrumente,\naus seinen hohlen Schenkelknochen Flöten, aus den großen Därmen\nSaiten zur Laute, aus den kleinen Därmen Saiten zur Harfe; die\nHaut diente zur Pauke, die Wolle zu Kugeln in Form von Granat-\näpfeln, die man alsdann zwischen die goldenen Glocken am Oberrock\ndes Hohenpriesters befestigte, so daß die Glocken durch Anschlag an\njene Kugeln ertönten; man pflegte deshalb lakonisch zu sagen: „Der\nBock ist am Leben e i n- und im Tode siebentönig“ (Kinim 25, a). —\nDas Lammfleisch wurde als etwas sehr Geschmackhaftes gerühmt (Ke-\nritot 28, b). Der größte Werth des Thieres besteht jedoch in der\nWolle, welche zu gewinnen große Pflege erforderte. Man führte die\nSchafe ins Wasser, die Wolle öfter zu waschen (Chulin 137, a), denn sol-\nchen, welche feine Wolle trugen (s. insb. §. 154), band man Decken um,\ndamit jene rein bleibe (Sabbat 54, a). — Die Schafe sind von Farbe\nentweder weiß, schwarz, oder bunt (Chulin 135, a). Die Wolle ist\njedoch nicht immer gleichwerth, indem sie zuweilen harthärig und zur\nBearbeitung kaum brauchbar ist (ibid. 137, a). — Nachdem man\ndie Schafe geschoren hatte, band man ihnen vor die Stirn einen",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "der Ausspruch: "
+    },
+    {
+     "lang": "heb",
+     "text": "איל בן יומו קרוי איל"
+    },
+    {
+     "lang": "deu",
+     "text": " „Ein Schaf führt diesen Namen\nschon, wenn es einen Tag alt ist“ ("
+    },
+    {
+     "lang": "lat",
+     "text": "B. Kama "
+    },
+    {
+     "lang": "deu",
+     "text": "65, b). — Sonst heißt\ndas Lämmchen: "
+    },
+    {
+     "lang": "heb",
+     "text": "אימרא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Keritot "
+    },
+    {
+     "lang": "deu",
+     "text": "28, b), öfterer "
+    },
+    {
+     "lang": "heb",
+     "text": "טלא"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "טליה"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Me-\nnachot "
+    },
+    {
+     "lang": "deu",
+     "text": "107, b) pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "טלאים"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin "
+    },
+    {
+     "lang": "deu",
+     "text": "84, a). — Ein großer Widder heißt\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ברחא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat "
+    },
+    {
+     "lang": "deu",
+     "text": "18, b) und im Pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "עתוזים"
+    },
+    {
+     "lang": "deu",
+     "text": ", womit jedoch zuweilen un-\neigentlich das Schafgeschlecht überhaupt bezeichnet wird ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin "
+    },
+    {
+     "lang": "deu",
+     "text": "84, a).\nEndlich heißt die ziegenartige vom Schaf geworfene Mißgeburt "
+    },
+    {
+     "lang": "heb",
+     "text": "נדמה"
+    },
+    {
+     "lang": "deu",
+     "text": "\n("
+    },
+    {
+     "lang": "lat",
+     "text": "B. Kama "
+    },
+    {
+     "lang": "deu",
+     "text": "77, b) und das kleine, magere Lamm "
+    },
+    {
+     "lang": "heb",
+     "text": "פטרוזא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Bechoroth\n"
+    },
+    {
+     "lang": "deu",
+     "text": "11, a).\nDer Nutzen des Schafes ist so groß, daß der Talmud den Ver-\nkauf von Feldern und hierfür den Ankauf von Schafen empfiehlt\n("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin "
+    },
+    {
+     "lang": "deu",
+     "text": "84, a). Ihr Besitz bereichert ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid. "
+    },
+    {
+     "lang": "deu",
+     "text": "b). — Einen mannig-\nfachen Nutzen für musikalische Instrumente gewährt besonders der\nSchafbock. Aus seinen Hörnern verfertigte man Blasinstrumente,\naus seinen hohlen Schenkelknochen Flöten, aus den großen Därmen\nSaiten zur Laute, aus den kleinen Därmen Saiten zur Harfe; die\nHaut diente zur Pauke, die Wolle zu Kugeln in Form von Granat-\näpfeln, die man alsdann zwischen die goldenen Glocken am Oberrock\ndes Hohenpriesters befestigte, so daß die Glocken durch Anschlag an\njene Kugeln ertönten; man pflegte deshalb lakonisch zu sagen: „Der\nBock ist am Leben e i n- und im Tode siebentönig“ ("
+    },
+    {
+     "lang": "lat",
+     "text": "Kinim "
+    },
+    {
+     "lang": "deu",
+     "text": "25, a). —\nDas Lammfleisch wurde als etwas sehr Geschmackhaftes gerühmt ("
+    },
+    {
+     "lang": "lat",
+     "text": "Ke-\nritot "
+    },
+    {
+     "lang": "deu",
+     "text": "28, b). Der größte Werth des Thieres besteht jedoch in der\nWolle, welche zu gewinnen große Pflege erforderte. Man führte die\nSchafe ins Wasser, die Wolle öfter zu waschen ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin "
+    },
+    {
+     "lang": "deu",
+     "text": "137, a), denn sol-\nchen, welche feine Wolle trugen (s. insb. §. 154), band man Decken um,\ndamit jene rein bleibe ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat "
+    },
+    {
+     "lang": "deu",
+     "text": "54, a). — Die Schafe sind von Farbe\nentweder weiß, schwarz, oder bunt ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin "
+    },
+    {
+     "lang": "deu",
+     "text": "135, a). Die Wolle ist\njedoch nicht immer gleichwerth, indem sie zuweilen harthärig und zur\nBearbeitung kaum brauchbar ist ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid. "
+    },
+    {
+     "lang": "deu",
+     "text": "137, a). — Nachdem man\ndie Schafe geschoren hatte, band man ihnen vor die Stirn einen"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "gewordenes Stück“; 3) Φάγιλος „eßbar werdend“ (vgl. über die Transposition\nder Buchstaben §. 146); 4) Πάλληξ „Jüngling“. — נוקד im Hebr. „Viehhirt“\n(Amos 1, 1) und heißt das Junge wahrscheinlich so, da es mit dem 13. Monat\nals selbstständiges, der Mutter entzogenes Stück dem Hirten übergeben wird. —\nפרכריגמא, gr. Παραχάραγμα „falsche Münze“, d. i., ein Gegenstand von unvol-\nlem Werthe, so auch das Thier, das im 13. Monat weder den Werth des כבש,\nnoch den des איל besitzt. — Viele lesen פרכדיגמא, doch ist jene erstere Leseart\nzweifellos vorzuziehen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "gewordenes Stück“; 3) "
+    },
+    {
+     "lang": "grc",
+     "text": "Φάγιλος"
+    },
+    {
+     "lang": "deu",
+     "text": " „eßbar werdend“ (vgl. über die Transposition\nder Buchstaben §. 146); 4) "
+    },
+    {
+     "lang": "grc",
+     "text": "Πάλληξ"
+    },
+    {
+     "lang": "deu",
+     "text": " „Jüngling“. — "
+    },
+    {
+     "lang": "heb",
+     "text": "נוקד"
+    },
+    {
+     "lang": "deu",
+     "text": " im Hebr. „Viehhirt“\n("
+    },
+    {
+     "lang": "lat",
+     "text": "Amos "
+    },
+    {
+     "lang": "deu",
+     "text": "1, 1) und heißt das Junge wahrscheinlich so, da es mit dem 13. Monat\nals selbstständiges, der Mutter entzogenes Stück dem Hirten übergeben wird. —\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פרכריגמא"
+    },
+    {
+     "lang": "deu",
+     "text": ", gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Παραχάραγμα"
+    },
+    {
+     "lang": "deu",
+     "text": " „falsche Münze“, d. i., ein Gegenstand von unvol-\nlem Werthe, so auch das Thier, das im 13. Monat weder den Werth des "
+    },
+    {
+     "lang": "heb",
+     "text": "כבש"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nnoch den des "
+    },
+    {
+     "lang": "heb",
+     "text": "איל"
+    },
+    {
+     "lang": "deu",
+     "text": " besitzt. — Viele lesen "
+    },
+    {
+     "lang": "heb",
+     "text": "פרכדיגמא"
+    },
+    {
+     "lang": "deu",
+     "text": ", doch ist jene erstere Leseart\nzweifellos vorzuziehen."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2406
+   ],
+   [
+    3308,
+    2574
+   ]
+  ],
+  "input_tokens": 3038,
+  "output_tokens": 1469,
+  "cost_usd": 0.0078,
+  "seconds": 25.6
+ }
+}

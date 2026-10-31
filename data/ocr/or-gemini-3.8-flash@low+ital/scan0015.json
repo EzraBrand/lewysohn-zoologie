@@ -1,0 +1,325 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Erste Abtheilung.\nAllgemeine Zoologie.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Erste Abtheilung.\nAllgemeine Zoologie."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 1.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 1."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die lebendigen Geschöpfe. Sämmtliche lebendigen Geschöpfe\nbenennt der Talmud mit den allgemeinen Ausdrücken: חי „Lebendiges“\n(Nidda 17, a), נפש „Beseeltes“ (Berachoth 44, b) und בעלי חיים\n„lebendige Wesen“ (B. mez. 32, b). — Dieselben sind entweder\nmännlichen, זכר, oder weiblichen Geschlechtes, נקבה, oder geschlechtlos\nטומטום (Bechoroth 41, a), oder endlich zwitterhaft אנדרוגינוס (Ἀν-\nδρογύνης ibid.). — Das castrirte Geschöpf (§. 20) heißt סריס (ibid.\n42, b *). — Bei Menschen und Säugethieren heißt der Embryon\nעובר, die Geburt: ולד; bei Vögeln heißt das noch nicht ausgekrochene\nKüchlein רעצא (ibid. 8, b), das noch nicht flüggewordene Junge\nאפרוח**)(Beza 4, a), das schon etwas ältergewordene Junge: גזל***). —\nEine andere Bezeichnung für das Junge ist der Vorsatz von בן, oder\nבר vor dem eigentlichen Thiernamen, z. B. בן יונה, die junge Taube,\nבן חמור, der junge Esel, בר חמרא, die junge Eselin u. s. w. Für בן",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die lebendigen Geschöpfe. Sämmtliche lebendigen Geschöpfe\nbenennt der Talmud mit den allgemeinen Ausdrücken: "
+    },
+    {
+     "lang": "heb",
+     "text": "חי"
+    },
+    {
+     "lang": "deu",
+     "text": " „Lebendiges“\n(Nidda 17, a), "
+    },
+    {
+     "lang": "heb",
+     "text": "נפש"
+    },
+    {
+     "lang": "deu",
+     "text": " „Beseeltes“ (Berachoth 44, b) und "
+    },
+    {
+     "lang": "heb",
+     "text": "בעלי חיים"
+    },
+    {
+     "lang": "deu",
+     "text": "\n„lebendige Wesen“ (B. mez. 32, b). — Dieselben sind entweder\nmännlichen, "
+    },
+    {
+     "lang": "heb",
+     "text": "זכר"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder weiblichen Geschlechtes, "
+    },
+    {
+     "lang": "heb",
+     "text": "נקבה"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder geschlechtlos\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טומטום"
+    },
+    {
+     "lang": "deu",
+     "text": " (Bechoroth 41, a), oder endlich zwitterhaft "
+    },
+    {
+     "lang": "heb",
+     "text": "אנדרוגינוס"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "grc",
+     "text": "Ἀν-\nδρογύνης"
+    },
+    {
+     "lang": "deu",
+     "text": " ibid.). — Das castrirte Geschöpf (§. 20) heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "סריס"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid.\n42, b *). — Bei Menschen und Säugethieren heißt der Embryon\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עובר"
+    },
+    {
+     "lang": "deu",
+     "text": ", die Geburt: "
+    },
+    {
+     "lang": "heb",
+     "text": "ולד"
+    },
+    {
+     "lang": "deu",
+     "text": "; bei Vögeln heißt das noch nicht ausgekrochene\nKüchlein "
+    },
+    {
+     "lang": "heb",
+     "text": "רעצא"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 8, b), das noch nicht flüggewordene Junge\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אפרוח"
+    },
+    {
+     "lang": "deu",
+     "text": "**)(Beza 4, a), das schon etwas ältergewordene Junge: "
+    },
+    {
+     "lang": "heb",
+     "text": "גזל"
+    },
+    {
+     "lang": "deu",
+     "text": "***). —\nEine andere Bezeichnung für das Junge ist der Vorsatz von "
+    },
+    {
+     "lang": "heb",
+     "text": "בן"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder\n"
+    },
+    {
+     "lang": "heb",
+     "text": "בר"
+    },
+    {
+     "lang": "deu",
+     "text": " vor dem eigentlichen Thiernamen, z. B. "
+    },
+    {
+     "lang": "heb",
+     "text": "בן יונה"
+    },
+    {
+     "lang": "deu",
+     "text": ", die junge Taube,\n"
+    },
+    {
+     "lang": "heb",
+     "text": "בן חמור"
+    },
+    {
+     "lang": "deu",
+     "text": ", der junge Esel, "
+    },
+    {
+     "lang": "heb",
+     "text": "בר חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": ", die junge Eselin u. s. w. Für "
+    },
+    {
+     "lang": "heb",
+     "text": "בן"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Der Talmud (Jebamoth 79, b) unterscheidet den durch Operation castrir-\nten סריס אדם, von dem unfruchtbar geborenen Menschen סריס חמה. — Das\nunfruchtbare Weib heißt אילונית (ibid. 80 b) und עקרה (Sabbat 111, a). Vergl.\n§. 20, Anm.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Der Talmud (Jebamoth 79, b) unterscheidet den durch Operation castrir-\nten "
+    },
+    {
+     "lang": "heb",
+     "text": "סריס אדם"
+    },
+    {
+     "lang": "deu",
+     "text": ", von dem unfruchtbar geborenen Menschen "
+    },
+    {
+     "lang": "heb",
+     "text": "סריס חמה"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Das\nunfruchtbare Weib heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "אילונית"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 80 b) und "
+    },
+    {
+     "lang": "heb",
+     "text": "עקרה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 111, a). Vergl.\n§. 20, Anm."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Ueber die Ethmologie dieses Wortes vergl. unt. §. 330.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Ueber die Ethmologie dieses Wortes vergl. unt. §. 330."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Midr. Rabba (Echa fol. 53, col. 2) gebraucht גוזל von jedem Vogel,\nund Pesachin 49, a wird es selbst von unmündigen, hilflos verlassenen Kindern\ngebraucht; so gebraucht der Pajtan (im Jozar zu Sabbat-Chanuca s. v. אודך כי\nאנפת) die Bezeichnung גורים für saugende Kinder.",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Midr. Rabba (Echa fol. 53, col. 2) gebraucht "
+    },
+    {
+     "lang": "heb",
+     "text": "גוזל"
+    },
+    {
+     "lang": "deu",
+     "text": " von jedem Vogel,\nund Pesachin 49, a wird es selbst von unmündigen, hilflos verlassenen Kindern\ngebraucht; so gebraucht der Pajtan (im Jozar zu Sabbat-Chanuca s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "אודך כי"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אנפת"
+    },
+    {
+     "lang": "deu",
+     "text": ") die Bezeichnung "
+    },
+    {
+     "lang": "heb",
+     "text": "גורים"
+    },
+    {
+     "lang": "deu",
+     "text": " für saugende Kinder."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Zoologie des Talmuds.\t1",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zoologie des Talmuds.\t1"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3268,
+    4092
+   ]
+  ],
+  "input_tokens": 1946,
+  "output_tokens": 1150,
+  "cost_usd": 0.0058,
+  "seconds": 22.9
+ }
+}

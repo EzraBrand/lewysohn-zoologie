@@ -1,0 +1,173 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Zweite Abtheilung.\nSpecielle Zoologie.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zweite Abtheilung.\nSpecielle Zoologie."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Erste Klasse.\nSäugethiere.\n§. 111.\nEine Affenart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Erste Klasse.\nSäugethiere.\n§. 111.\nEine Affenart."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Kilajim 8, 5 wird gesagt, daß das Geschöpf אדני שדה (Simson\nliest: אבני שדה) zum Thiergeschlecht (§. 19) gehöre; R. Jose meinte,\ndaß es, wie der Mensch, nach seinem Tode das Zelt verunreinige. —\nDie älteren Erklärer machen ein fabelhaftes Thier daraus, weshalb\nwir im letzten Abschnitt dieses Werkes nochmals darauf zurückkommen\nwerden (§. 506). Hier behandeln wir die Ansicht der neueren Er-\nklärer. Schon Beer Naphtali (im מחנה כהונה zu Rabba Kohelet\nfol. 99, col. 3) schwankt zwischen der naturhistorischen und der fabel-\nhaften Auffassung; er sagt: אדני שדה ist entweder ein Thier, das dem\nMenschen ähnlich ist (d. i., der Affe), oder ein Mensch, der aus der\nErde herauswächst. — Entschieden behauptet Landau (zum Aruch),\ndaß אדני שדה der Schimpanse (Pithecus Troglodytes; auch Jocko,\noder Barris genannt) ist, während Schwarz (תוצאות הארץ Bl.\n4, 2) das Thier als den Orang=Utang (Pithecus Satyrus, auch\nPongo, oder Waldmensch genannt) erklärt*). Zwischen beiden",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Kilajim "
+    },
+    {
+     "lang": "deu",
+     "text": "8, 5 wird gesagt, daß das Geschöpf "
+    },
+    {
+     "lang": "heb",
+     "text": "אדני שדה"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Simson\n"
+    },
+    {
+     "lang": "deu",
+     "text": "liest: "
+    },
+    {
+     "lang": "heb",
+     "text": "אבני שדה"
+    },
+    {
+     "lang": "deu",
+     "text": ") zum Thiergeschlecht (§. 19) gehöre; R. Jose meinte,\ndaß es, wie der Mensch, nach seinem Tode das Zelt verunreinige. —\nDie älteren Erklärer machen ein fabelhaftes Thier daraus, weshalb\nwir im letzten Abschnitt dieses Werkes nochmals darauf zurückkommen\nwerden (§. 506). Hier behandeln wir die Ansicht der neueren Er-\nklärer. Schon "
+    },
+    {
+     "lang": "lat",
+     "text": "Beer Naphtali "
+    },
+    {
+     "lang": "deu",
+     "text": "(im "
+    },
+    {
+     "lang": "heb",
+     "text": "מחנה כהונה"
+    },
+    {
+     "lang": "deu",
+     "text": " zu Rabba Kohelet\nfol. 99, col. 3) schwankt zwischen der naturhistorischen und der fabel-\nhaften Auffassung; er sagt: "
+    },
+    {
+     "lang": "heb",
+     "text": "אדני שדה"
+    },
+    {
+     "lang": "deu",
+     "text": " ist entweder ein Thier, das dem\nMenschen ähnlich ist (d. i., der Affe), oder ein Mensch, der aus der\nErde herauswächst. — Entschieden behauptet "
+    },
+    {
+     "lang": "lat",
+     "text": "Landau "
+    },
+    {
+     "lang": "deu",
+     "text": "(zum Aruch),\ndaß "
+    },
+    {
+     "lang": "heb",
+     "text": "אדני שדה"
+    },
+    {
+     "lang": "deu",
+     "text": " der Schimpanse ("
+    },
+    {
+     "lang": "lat",
+     "text": "Pithecus Troglodytes"
+    },
+    {
+     "lang": "deu",
+     "text": "; auch Jocko,\noder Barris genannt) ist, während "
+    },
+    {
+     "lang": "lat",
+     "text": "Schwarz "
+    },
+    {
+     "lang": "deu",
+     "text": "("
+    },
+    {
+     "lang": "heb",
+     "text": "תוצאות הארץ"
+    },
+    {
+     "lang": "lat",
+     "text": " Bl.\n"
+    },
+    {
+     "lang": "deu",
+     "text": "4, 2) das Thier als den Orang=Utang ("
+    },
+    {
+     "lang": "lat",
+     "text": "Pithecus Satyrus"
+    },
+    {
+     "lang": "deu",
+     "text": ", auch\nPongo, oder Waldmensch genannt) erklärt*). Zwischen beiden"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Wir müssen jedoch bemerken, daß weder der Schimpanse, noch der Orang-\nUtang den alten Naturforschern bekannt waren; es findet sich von ihnen bei Ari-\nstoteles, Plinius und Aelian keine Erwähnung.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Wir müssen jedoch bemerken, daß weder der Schimpanse, noch der Orang-\nUtang den alten Naturforschern bekannt waren; es findet sich von ihnen bei Ari-\nstoteles, Plinius und Aelian keine Erwähnung."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    3812
+   ]
+  ],
+  "input_tokens": 2250,
+  "output_tokens": 688,
+  "cost_usd": 0.0043,
+  "seconds": 7.0
+ }
+}

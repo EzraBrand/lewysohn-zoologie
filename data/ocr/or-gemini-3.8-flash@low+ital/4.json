@@ -1,0 +1,389 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "4       Die Vögel. — Die Amphibien. — Die Fische.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "4       Die Vögel. — Die Amphibien. — Die Fische."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "(Chulin 43, b). — Kleine Raubthiere, wie Marder, Iltise u. s. w. heißen\nauch ריחשא (Sabbat 146, b). Uneigentlich werden Feldthiere ערהי\n(B. batra 36, a; s. §. 167) genannt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "(Chulin 43, b). — Kleine Raubthiere, wie Marder, Iltise u. s. w. heißen\nauch "
+    },
+    {
+     "lang": "arc",
+     "text": "ריחשא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 146, b). Uneigentlich werden Feldthiere "
+    },
+    {
+     "lang": "arc",
+     "text": "ערהי"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(B. batra 36, a; s. §. 167) genannt."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 5.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 5."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Vögel. Der generelle Name für Geflügel ist עוף, pl.\nעופות „fliegend“. — In religiös-gesetzlicher Beziehung (§. 23) unter-\nschied man עוף טהור „reiner“ und עוף טמא „unreiner Vogel“ (Chulin\n138, b). — In Anbetracht der Größe giebt es עוף הגס „großen“\nund עוף הדק „kleinen Vogel“ (ibid. 42, a). Zur ersteren Art gehö-\nren Gänse, Hühner, zur letzteren Tauben, Sperlinge *). — Endlich\nunterschied man עוף של יבשה „Landvogel“ und עוף של מים „Wasser-\nvogel“ (Chulin 56, a). — Es sei noch bemerkt, daß die Vögel we-\ngen des Pickens in eßbare Gegenstände allgemein נקורי (Sabbat 110,\nb **) heißen, sowie junges Geflügel בן עוף (Tos. Ketuboth 5, a, s. v.\nאשא) benannt wurde. — צפור soll überall nur der Name für reine\nVögel sein (s. §. 237); speciell jedoch heißt der Sperling צפור. —\nEine Heuschreckenart heißt צפורת כרמים „Vogel der Weinberge“ (s. §. 375).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Vögel. Der generelle Name für Geflügel ist "
+    },
+    {
+     "lang": "heb",
+     "text": "עוף"
+    },
+    {
+     "lang": "deu",
+     "text": ", pl.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עופות"
+    },
+    {
+     "lang": "deu",
+     "text": " „fliegend“. — In religiös-gesetzlicher Beziehung (§. 23) unter-\nschied man "
+    },
+    {
+     "lang": "heb",
+     "text": "עוף טהור"
+    },
+    {
+     "lang": "deu",
+     "text": " „reiner“ und "
+    },
+    {
+     "lang": "heb",
+     "text": "עוף טמא"
+    },
+    {
+     "lang": "deu",
+     "text": " „unreiner Vogel“ (Chulin\n138, b). — In Anbetracht der Größe giebt es "
+    },
+    {
+     "lang": "heb",
+     "text": "עוף הגס"
+    },
+    {
+     "lang": "deu",
+     "text": " „großen“\nund "
+    },
+    {
+     "lang": "heb",
+     "text": "עוף הדק"
+    },
+    {
+     "lang": "deu",
+     "text": " „kleinen Vogel“ (ibid. 42, a). Zur ersteren Art gehö-\nren Gänse, Hühner, zur letzteren Tauben, Sperlinge *). — Endlich\nunterschied man "
+    },
+    {
+     "lang": "heb",
+     "text": "עוף של יבשה"
+    },
+    {
+     "lang": "deu",
+     "text": " „Landvogel“ und "
+    },
+    {
+     "lang": "heb",
+     "text": "עוף של מים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Wasser-\nvogel“ (Chulin 56, a). — Es sei noch bemerkt, daß die Vögel we-\ngen des Pickens in eßbare Gegenstände allgemein "
+    },
+    {
+     "lang": "arc",
+     "text": "נקורי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 110,\nb **) heißen, sowie junges Geflügel "
+    },
+    {
+     "lang": "arc",
+     "text": "בן עוף"
+    },
+    {
+     "lang": "deu",
+     "text": " (Tos. Ketuboth 5, a, s. v.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אשא"
+    },
+    {
+     "lang": "deu",
+     "text": ") benannt wurde. — "
+    },
+    {
+     "lang": "heb",
+     "text": "צפור"
+    },
+    {
+     "lang": "deu",
+     "text": " soll überall nur der Name für reine\nVögel sein (s. §. 237); speciell jedoch heißt der Sperling "
+    },
+    {
+     "lang": "heb",
+     "text": "צפור"
+    },
+    {
+     "lang": "deu",
+     "text": ". —\nEine Heuschreckenart heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "צפורת כרמים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Vogel der Weinberge“ (s. §. 375)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 6.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 6."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Amphibien. Für diese Klasse von Thieren hat der Tal-\nmud nur allgemeine Benennungen, wie רחש „sich Bewegendes“\n(Chulin 10, a), שרץ „Kriechendes“ (ibid. 126, b) und שקץ „Ekel-\nerregendes“ (Nidda 21, a). Nur die Schlange heißt: חיה הרומשה\n„Schleichendes Thier“ (Tos. ibid. 23, s. v. ליוחני). Eine Meinung,\nwelche Aruch (s. v. סר) anführt, daß Amphibien כרוי דבי כרבי (Chulin\n62, b) heißen sollen, ist unrichtig; vgl. §. 394. — Nach Reggio\n(Pentateuchausgabe Lev. 11, 10) sollen die Amphibien unter נפש\nהחיה אשר במים verstanden sein.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Amphibien. Für diese Klasse von Thieren hat der Tal-\nmud nur allgemeine Benennungen, wie "
+    },
+    {
+     "lang": "heb",
+     "text": "רחש"
+    },
+    {
+     "lang": "deu",
+     "text": " „sich Bewegendes“\n(Chulin 10, a), "
+    },
+    {
+     "lang": "heb",
+     "text": "שרץ"
+    },
+    {
+     "lang": "deu",
+     "text": " „Kriechendes“ (ibid. 126, b) und "
+    },
+    {
+     "lang": "heb",
+     "text": "שקץ"
+    },
+    {
+     "lang": "deu",
+     "text": " „Ekel-\nerregendes“ (Nidda 21, a). Nur die Schlange heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "חיה הרומשה"
+    },
+    {
+     "lang": "deu",
+     "text": "\n„Schleichendes Thier“ (Tos. ibid. 23, s. v. "
+    },
+    {
+     "lang": "arc",
+     "text": "ליוחני"
+    },
+    {
+     "lang": "deu",
+     "text": "). Eine Meinung,\nwelche Aruch (s. v. "
+    },
+    {
+     "lang": "arc",
+     "text": "סר"
+    },
+    {
+     "lang": "deu",
+     "text": ") anführt, daß Amphibien "
+    },
+    {
+     "lang": "arc",
+     "text": "כרוי דבי כרבי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin\n62, b) heißen sollen, ist unrichtig; vgl. §. 394. — Nach Reggio\n(Pentateuchausgabe Lev. 11, 10) sollen die Amphibien unter "
+    },
+    {
+     "lang": "heb",
+     "text": "נפש\nהחיה אשר במים"
+    },
+    {
+     "lang": "deu",
+     "text": " verstanden sein."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 7.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 7."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Fische. Generelle Namen für Fische sind דג, כוורא (M. Ka-\ntan 11, a) und נון (Nedarim 54, b). Meerfische heißen דגים של ים",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Fische. Generelle Namen für Fische sind "
+    },
+    {
+     "lang": "heb",
+     "text": "דג"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "arc",
+     "text": "כוורא"
+    },
+    {
+     "lang": "deu",
+     "text": " (M. Ka-\ntan 11, a) und "
+    },
+    {
+     "lang": "arc",
+     "text": "נון"
+    },
+    {
+     "lang": "deu",
+     "text": " (Nedarim 54, b). Meerfische heißen "
+    },
+    {
+     "lang": "heb",
+     "text": "דגים של ים"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Diesen Unterschied lassen die Tosephot (Sebachim 70, b, s. v. אבל)\nnicht gelten; man kann wohl, sagen sie, das Kuhkalb zum Großvieh und die\nZiege zum Kleinvieh, nicht aber die junge Gans und das Hühnerküchlein zum\nGroßgeflügel zählen.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Diesen Unterschied lassen die Tosephot (Sebachim 70, b, s. v. "
+    },
+    {
+     "lang": "arc",
+     "text": "אבל"
+    },
+    {
+     "lang": "deu",
+     "text": ")\nnicht gelten; man kann wohl, sagen sie, das Kuhkalb zum Großvieh und die\nZiege zum Kleinvieh, nicht aber die junge Gans und das Hühnerküchlein zum\nGroßgeflügel zählen."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "S. indessen §. 287, wo auch die Schlangen so benannt werden; an-\ndererseits heißen Regen- und andere auf Misthaufen ausgescharrte (נקר) Würmer:\nניקרי (§. 465).",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "S. indessen §. 287, wo auch die Schlangen so benannt werden; an-\ndererseits heißen Regen- und andere auf Misthaufen ausgescharrte ("
+    },
+    {
+     "lang": "heb",
+     "text": "נקר"
+    },
+    {
+     "lang": "deu",
+     "text": ") Würmer:\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ניקרי"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 465)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3276,
+    2718
+   ],
+   [
+    3276,
+    2418
+   ]
+  ],
+  "input_tokens": 3017,
+  "output_tokens": 1511,
+  "cost_usd": 0.0079,
+  "seconds": 25.4
+ }
+}

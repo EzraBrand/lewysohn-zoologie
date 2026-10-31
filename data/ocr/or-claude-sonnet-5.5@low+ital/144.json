@@ -1,0 +1,297 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "144",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "144"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Maulesel und Maulthier.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Maulesel und Maulthier."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 168.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 168."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Maulesel und Maulthier.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Maulesel und Maulthier."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Maulstute מולאה, pl. מולאות (Mula, Sabbat 52, a), כורנייתא\n(ibid. 110, b); die weißen כורנייתא חיוורתא und יימים, letzterer Name\nwegen der Wildheit des Thieres (Chulin 7, b). Das letzte Wort,\nwelches biblisch ist (Gen. 36, 24), wird vom Midrasch (Rabba Be-\nreschit fol. 92, col. 2) durch המיונם, d. i., Ἡμίονος erklärt. — Das\nMännchen heißt: כידנא חיוורא (Sabbat 110, b), ferner פרד (Chulin\n79, a); das Weibchen: פרדה (ibid.). Das Junge: גירדונא ווטרתא\n(Nedarim 41, a), wofür Burtorf (Lex. talm. p. 394) גירדונא (was\nim Vulgär-Griechischen Γαιδαρο lautet) liest; im jerusalem. Talmud\n(B. mez. 11, a) steht: גיידור קטן. — Auffallend ist die Meinung der\nTosephot (B. mez. 78, b. s. v. במילתא), daß im Aramäischen nur\nכורנייתא der Name für פרד ist. — Von פרד ist der Pl. פרדים (Jo-\nzar: Sabbat ha-Gadol s. v. כרם חמד).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Maulstute "
+    },
+    {
+     "lang": "heb",
+     "text": "מולאה"
+    },
+    {
+     "lang": "deu",
+     "text": ", pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "מולאות"
+    },
+    {
+     "lang": "deu",
+     "text": " (Mula, Sabbat 52, a), "
+    },
+    {
+     "lang": "arc",
+     "text": "כורנייתא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(ibid. 110, b); die weißen "
+    },
+    {
+     "lang": "arc",
+     "text": "כורנייתא חיוורתא"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "יימים"
+    },
+    {
+     "lang": "deu",
+     "text": ", letzterer Name\nwegen der Wildheit des Thieres (Chulin 7, b). Das letzte Wort,\nwelches biblisch ist (Gen. 36, 24), wird vom Midrasch (Rabba Be-\nreschit fol. 92, col. 2) durch "
+    },
+    {
+     "lang": "heb",
+     "text": "המיונם"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i., "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἡμίονος"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt. — Das\nMännchen heißt: "
+    },
+    {
+     "lang": "arc",
+     "text": "כידנא חיוורא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 110, b), ferner "
+    },
+    {
+     "lang": "heb",
+     "text": "פרד"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin\n79, a); das Weibchen: "
+    },
+    {
+     "lang": "heb",
+     "text": "פרדה"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid.). Das Junge: "
+    },
+    {
+     "lang": "arc",
+     "text": "גירדונא ווטרתא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Nedarim 41, a), wofür Burtorf (Lex. talm. p. 394) "
+    },
+    {
+     "lang": "arc",
+     "text": "גירדונא"
+    },
+    {
+     "lang": "deu",
+     "text": " (was\nim Vulgär-Griechischen "
+    },
+    {
+     "lang": "grc",
+     "text": "Γαιδαρο"
+    },
+    {
+     "lang": "deu",
+     "text": " lautet) liest; im jerusalem. Talmud\n(B. mez. 11, a) steht: "
+    },
+    {
+     "lang": "arc",
+     "text": "גיידור קטן"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Auffallend ist die Meinung der\nTosephot (B. mez. 78, b. s. v. "
+    },
+    {
+     "lang": "arc",
+     "text": "במילתא"
+    },
+    {
+     "lang": "deu",
+     "text": "), daß im Aramäischen nur\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כורנייתא"
+    },
+    {
+     "lang": "deu",
+     "text": " der Name für "
+    },
+    {
+     "lang": "heb",
+     "text": "פרד"
+    },
+    {
+     "lang": "deu",
+     "text": " ist. — Von "
+    },
+    {
+     "lang": "heb",
+     "text": "פרד"
+    },
+    {
+     "lang": "deu",
+     "text": " ist der Pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "פרדים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Jo-\nzar: Sabbat ha-Gadol s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "כרם חמד"
+    },
+    {
+     "lang": "deu",
+     "text": ")."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Maulesel ist der Bastard von der Eselin und dem Hengst,\ndahingegen ist das Maulthier der Bastard von dem Esel und der\nPferdestute; der erstere hat eine gröbere Stimme, längere Ohren und\neinen kürzeren Schwanz als das letztere (Chulin 79, a). Obgleich\nbeide Species bei der ersten Schöpfung wie alle anderen Thiere a\npriori geschaffen wurden (Pesachim 54, a), so können sie sich doch\nnicht fortpflanzen, da die Maulstute keine Bärmutter hat (Bechoroth\n8, b), sie ist daher unfruchtbar (Sabbat 67, a); so nannte man einen\nkinderlosen Ehegatten sprüchwörtlich: כורנא עקרה „unfruchtbare Maul-\nstute“ (B. batra 91, a); hiermit vgl. man das latein. Sprüchwort:\nQuum mula peperit „Wann die Maulstute gebärt“, womit die Un-\nmöglichkeit ironisch bezeichnet ist; s. jedoch folgenden §. — Wird aber\ndie Stute dennoch geil, so soll man ihr durch das Maulmännchen\nden Geschlechtstrieb befriedigen (Chulin 79, a). Im Allgemeinen wird der\nBiß eines weißen Maulthiers als höchst gefährlich bezeichnet (ib. 7, b*),",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Maulesel ist der Bastard von der Eselin und dem Hengst,\ndahingegen ist das Maulthier der Bastard von dem Esel und der\nPferdestute; der erstere hat eine gröbere Stimme, längere Ohren und\neinen kürzeren Schwanz als das letztere (Chulin 79, a). Obgleich\nbeide Species bei der ersten Schöpfung wie alle anderen Thiere a\npriori geschaffen wurden (Pesachim 54, a), so können sie sich doch\nnicht fortpflanzen, da die Maulstute keine Bärmutter hat (Bechoroth\n8, b), sie ist daher unfruchtbar (Sabbat 67, a); so nannte man einen\nkinderlosen Ehegatten sprüchwörtlich: "
+    },
+    {
+     "lang": "arc",
+     "text": "כורנא עקרה"
+    },
+    {
+     "lang": "deu",
+     "text": " „unfruchtbare Maul-\nstute“ (B. batra 91, a); hiermit vgl. man das latein. Sprüchwort:\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Quum mula peperit"
+    },
+    {
+     "lang": "deu",
+     "text": " „Wann die Maulstute gebärt“, womit die Un-\nmöglichkeit ironisch bezeichnet ist; s. jedoch folgenden §. — Wird aber\ndie Stute dennoch geil, so soll man ihr durch das Maulmännchen\nden Geschlechtstrieb befriedigen (Chulin 79, a). Im Allgemeinen wird der\nBiß eines weißen Maulthiers als höchst gefährlich bezeichnet (ib. 7, b*),"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "und worin Bohnen, Körner u. dgl. geröstet werden; die Uebersetzung des Verses\nwäre: „Zerstampfst du den Thoren auch mit einer Keule in dem Stoßgefäß\nbei hellem Feuer, so weicht doch die Thorheit nicht von ihm.“ — Jedenfalls\nist die Erklärung Buber's einfacher und natürlicher.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "und worin Bohnen, Körner u. dgl. geröstet werden; die Uebersetzung des Verses\nwäre: „Zerstampfst du den Thoren auch mit einer Keule in dem Stoßgefäß\nbei hellem Feuer, so weicht doch die Thorheit nicht von ihm.“ — Jedenfalls\nist die Erklärung Buber's einfacher und natürlicher."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Dennoch durften sie nicht entklauet werden, weil man selbst das wildeste\nThier nicht quälen soll (ibid.); die Thierquälerei war bei den Juden schon in frü-\nhester Zeit verboten.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dennoch durften sie nicht entklauet werden, weil man selbst das wildeste\nThier nicht quälen soll (ibid.); die Thierquälerei war bei den Juden schon in frü-\nhester Zeit verboten."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2360
+   ],
+   [
+    3308,
+    2708
+   ]
+  ],
+  "input_tokens": 11322,
+  "output_tokens": 2163,
+  "cost_usd": 0.0443,
+  "seconds": 16.4
+ }
+}

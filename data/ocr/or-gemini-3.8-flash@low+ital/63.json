@@ -1,0 +1,157 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Schluß.\t63",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß.\t63"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 110.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 110."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Wir wollen hier nur einiger Thiere erwähnen; bei wel-\nchen die abweichendsten Erklärungen gegeben werden. ילי (Sabbat\n54, b) wird von Raschi als Blutigel, von Tosephot als Igel,\nvon Maimuni als Schlange und von Sachs als Vielfuß er-\nklärt (s. §. 446*). — בינוחא (Maccoth 16, b) bezeichnen die Tose-\nphot als Fisch, Raschi als Raupe. — כרוי (Chulin 62, b) die To-\nsephot als Vögel, Raschi als Insecten, Landau als Amphi-\nbien. — יארור (Sanhedrin 59, b) Raschi als Vogel, Andere als\nDrachen. — תיא wird von Kimchi als Auerochs, von Ibn Esra\nals Vogel erklärt (§. 158); über כרכורים s. §. 246, Anm.**. —\nEndlich erklärt Raschi קמצא (§. 392) durch Heuschrecke, oder\nAmeise, Burdorf durch Schnecke.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Wir wollen hier nur einiger Thiere erwähnen; bei wel-\nchen die abweichendsten Erklärungen gegeben werden. "
+    },
+    {
+     "lang": "heb",
+     "text": "ילי"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat\n54, b"
+    },
+    {
+     "lang": "deu",
+     "text": ") wird von Raschi als Blutigel, von Tosephot als Igel,\nvon Maimuni als Schlange und von Sachs als Vielfuß er-\nklärt (s. §. 446*). — "
+    },
+    {
+     "lang": "heb",
+     "text": "בינוחא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Maccoth 16, b"
+    },
+    {
+     "lang": "deu",
+     "text": ") bezeichnen die Tose-\nphot als Fisch, Raschi als Raupe. — "
+    },
+    {
+     "lang": "heb",
+     "text": "כרוי"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin 62, b"
+    },
+    {
+     "lang": "deu",
+     "text": ") die To-\nsephot als Vögel, Raschi als Insecten, Landau als Amphi-\nbien. — "
+    },
+    {
+     "lang": "heb",
+     "text": "יארור"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sanhedrin 59, b"
+    },
+    {
+     "lang": "deu",
+     "text": ") Raschi als Vogel, Andere als\nDrachen. — "
+    },
+    {
+     "lang": "heb",
+     "text": "תיא"
+    },
+    {
+     "lang": "deu",
+     "text": " wird von Kimchi als Auerochs, von Ibn Esra\nals Vogel erklärt (§. 158); über "
+    },
+    {
+     "lang": "heb",
+     "text": "כרכורים"
+    },
+    {
+     "lang": "deu",
+     "text": " s. §. 246, Anm.**. —\nEndlich erklärt Raschi "
+    },
+    {
+     "lang": "heb",
+     "text": "קמצא"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 392) durch Heuschrecke, oder\nAmeise, Burdorf durch Schnecke."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Wo wir eine von allen gedachten Ansichten abweichende Meinung zu be-\ngründen suchen.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Wo wir eine von allen gedachten Ansichten abweichende Meinung zu be-\ngründen suchen."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2728
+   ]
+  ],
+  "input_tokens": 2245,
+  "output_tokens": 733,
+  "cost_usd": 0.0044,
+  "seconds": 7.9
+ }
+}

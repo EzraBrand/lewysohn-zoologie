@@ -1,0 +1,229 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Fledermaus.\t103",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Fledermaus.\t103"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "טלפא, d. i., כרושתינא ist der עטלף, den man Talpa (Maulwurf) nennt;\nallein offenbar unrichtig, denn עטלף heißt im Talmud nur Fleder-\nmaus, wie ja Raschi selbst in der erstcitirten Stelle erklärt. Auffal-\nlender ist noch der Widerspruch Raschi's, der zu Jesaias 2, 20 Talpa ge-\nradezu עטלף gegenüberstellt. Die Raschistelle in Sabbat ibid. muß daher\nemendirt werden in עטלף שקורין קלבא שוריץ, oder in תנשמת שקורין\nטלפא, daß aber die erstere Emendation die richtige ist, werden wir\ndurch Parallelstellen aus Plinius, übereinstimmend mit der dortigen\nTalmudstelle, weiter unten nachweisen.\nWas die anderen Namen betrifft, so kommt das bibl. תנשמת so-\nwohl unter den Vögeln (3. B. M. 11, 18) als auch unter den nie-\ndrigen vierfüßigen Thieren (ibid. 11, 30) vor; der Talmud hat für\ndas doppeldeutige Wort in der Bibel, das gemeinsame Wort באות\nund sagt: באות unter den vierfüßigen kleinen Raubthieren ist der\nMaulwurf, באות unter den Vögeln ist die Fledermaus; da nun\naber auch עטלף unter den Vögeln (3. B. M. 11, 19) vorkommt, so\nmüssen die verschiedenen Namen עטלף, תנשמת und ערפד verschiedene\nSpielarten der Fledermäuse anzeigen, da in der That die Arten die-\nser Thiergattung sehr zahlreich sind (Voigt l. c. 1, S. 335). Wir\nkönnen aber bei dem Mangel sicherer Angaben keine Specialisirung\nder Arten, wie sie unter den verschiedenen Namen im Talmud vor-\nkommen, machen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "טלפא"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i., "
+    },
+    {
+     "lang": "arc",
+     "text": "כרושתינא"
+    },
+    {
+     "lang": "deu",
+     "text": " ist der "
+    },
+    {
+     "lang": "heb",
+     "text": "עטלף"
+    },
+    {
+     "lang": "deu",
+     "text": ", den man "
+    },
+    {
+     "lang": "lat",
+     "text": "Talpa"
+    },
+    {
+     "lang": "deu",
+     "text": " (Maulwurf) nennt;\nallein offenbar unrichtig, denn "
+    },
+    {
+     "lang": "heb",
+     "text": "עטלף"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt im Talmud nur Fleder-\nmaus, wie ja Raschi selbst in der erstcitirten Stelle erklärt. Auffal-\nlender ist noch der Widerspruch Raschi's, der zu Jesaias 2, 20 "
+    },
+    {
+     "lang": "lat",
+     "text": "Talpa"
+    },
+    {
+     "lang": "deu",
+     "text": " ge-\nradezu "
+    },
+    {
+     "lang": "heb",
+     "text": "עטלף"
+    },
+    {
+     "lang": "deu",
+     "text": " gegenüberstellt. Die Raschistelle in Sabbat ibid. muß daher\nemendirt werden in "
+    },
+    {
+     "lang": "arc",
+     "text": "עטלף שקורין קלבא שוריץ"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder in "
+    },
+    {
+     "lang": "arc",
+     "text": "תנשמת שקורין\nטלפא"
+    },
+    {
+     "lang": "deu",
+     "text": ", daß aber die erstere Emendation die richtige ist, werden wir\ndurch Parallelstellen aus Plinius, übereinstimmend mit der dortigen\nTalmudstelle, weiter unten nachweisen.\nWas die anderen Namen betrifft, so kommt das bibl. "
+    },
+    {
+     "lang": "heb",
+     "text": "תנשמת"
+    },
+    {
+     "lang": "deu",
+     "text": " so-\nwohl unter den Vögeln (3. B. M. 11, 18) als auch unter den nie-\ndrigen vierfüßigen Thieren (ibid. 11, 30) vor; der Talmud hat für\ndas doppeldeutige Wort in der Bibel, das gemeinsame Wort "
+    },
+    {
+     "lang": "heb",
+     "text": "באות"
+    },
+    {
+     "lang": "deu",
+     "text": "\nund sagt: "
+    },
+    {
+     "lang": "heb",
+     "text": "באות"
+    },
+    {
+     "lang": "deu",
+     "text": " unter den vierfüßigen kleinen Raubthieren ist der\nMaulwurf, "
+    },
+    {
+     "lang": "heb",
+     "text": "באות"
+    },
+    {
+     "lang": "deu",
+     "text": " unter den Vögeln ist die Fledermaus; da nun\naber auch "
+    },
+    {
+     "lang": "heb",
+     "text": "עטלף"
+    },
+    {
+     "lang": "deu",
+     "text": " unter den Vögeln (3. B. M. 11, 19) vorkommt, so\nmüssen die verschiedenen Namen "
+    },
+    {
+     "lang": "heb",
+     "text": "עטלף"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "תנשמת"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "ערפד"
+    },
+    {
+     "lang": "deu",
+     "text": " verschiedene\nSpielarten der Fledermäuse anzeigen, da in der That die Arten die-\nser Thiergattung sehr zahlreich sind (Voigt l. c. 1, S. 335). Wir\nkönnen aber bei dem Mangel sicherer Angaben keine Specialisirung\nder Arten, wie sie unter den verschiedenen Namen im Talmud vor-\nkommen, machen."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Fledermaus ist völlig ein Animal nocturnum, sie begattet\nsich und gebärt nur zur Nachtzeit (Beza 7, a); sie fliegt des Nachts\nherum, weshalb ihr der Hahn zuruft: „Wozu dient dir das Licht?\nMir gehört es!“ (Sanhedrin 98, b), wobei Raschi die falsche An-\ngabe macht, daß die Fledermaus keine Augen habe. Oder sollte viel-\nleicht Raschi andeuten wollen, daß die Fledermaus keiner Augen be-\ndarf? Bekanntlich hat man mit derselben die sinnreichsten natur-\nhistorisch-physiologischen Versuche gemacht. Man blendete sie und ver-\nstopfte die Augenhöhlen mit Klebwachs, und doch waren ihre Bewe-\ngungen so sicher wie früher, und sie flog, ohne irgendwo anzustoßen,\ngeschickt umher, so daß der berühmte Abt Spallanzani (s. Gren's:\nNeues Journal der Physik 1. B. 4. H. S. 399) daraus schloß, daß",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Fledermaus ist völlig ein "
+    },
+    {
+     "lang": "lat",
+     "text": "Animal nocturnum"
+    },
+    {
+     "lang": "deu",
+     "text": ", sie begattet\nsich und gebärt nur zur Nachtzeit (Beza 7, a); sie fliegt des Nachts\nherum, weshalb ihr der Hahn zuruft: „Wozu dient dir das Licht?\nMir gehört es!“ (Sanhedrin 98, b), wobei Raschi die falsche An-\ngabe macht, daß die Fledermaus keine Augen habe. Oder sollte viel-\nleicht Raschi andeuten wollen, daß die Fledermaus keiner Augen be-\ndarf? Bekanntlich hat man mit derselben die sinnreichsten natur-\nhistorisch-physiologischen Versuche gemacht. Man blendete sie und ver-\nstopfte die Augenhöhlen mit Klebwachs, und doch waren ihre Bewe-\ngungen so sicher wie früher, und sie flog, ohne irgendwo anzustoßen,\ngeschickt umher, so daß der berühmte Abt Spallanzani (s. Gren's:\nNeues Journal der Physik 1. B. 4. H. S. 399) daraus schloß, daß"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "ein Nachtthier, wie die Fledermaus, oder ein im Dunkeln weilendes Thier,\nwie der Maulwurf (§. 135); fälschlich aber übersetzt das Wort Luzzatto\n(Kerem Chemed 4. Bd. S. 138) durch פחות „Geringste“, wofür gar kein\nAnhaltepunkt zu finden ist. Unter קפופות in dem dort mitgetheilten Gedichte ist\nwahrscheinlich der Geier gemeint, s. §. 188 zu Ende.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "ein Nachtthier, wie die Fledermaus, oder ein im Dunkeln weilendes Thier,\nwie der Maulwurf (§. 135); fälschlich aber übersetzt das Wort Luzzatto\n(Kerem Chemed 4. Bd. S. 138) durch "
+    },
+    {
+     "lang": "heb",
+     "text": "פחות"
+    },
+    {
+     "lang": "deu",
+     "text": " „Geringste“, wofür gar kein\nAnhaltepunkt zu finden ist. Unter "
+    },
+    {
+     "lang": "heb",
+     "text": "קפופות"
+    },
+    {
+     "lang": "deu",
+     "text": " in dem dort mitgetheilten Gedichte ist\nwahrscheinlich der Geier gemeint, s. §. 188 zu Ende."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2772
+   ],
+   [
+    3308,
+    2236
+   ]
+  ],
+  "input_tokens": 3325,
+  "output_tokens": 1229,
+  "cost_usd": 0.0071,
+  "seconds": 12.5
+ }
+}

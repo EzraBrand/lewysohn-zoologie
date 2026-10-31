@@ -1,0 +1,141 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "8\t\t\tGeneratio propagativa.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "8"
+    },
+    {
+     "lang": "lat",
+     "text": "\t\t\tGeneratio propagativa."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 15.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 15."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Generatio propagativa. Die Erzeugung der allermeisten leben-\ndigen Geschöpfe geschieht durch Begattung. Der Act derselben fin-\ndet auf verschiedene Weise statt. „Alle Geschöpfe“, sagt der Talmud\n(Bechoroth 8, a), „begatten sich durch Besteigen, so daß das Männ-\nchen während des Coitus auf dem Rücken des Weibchens zu stehen\nkommt, nur der Mensch, die Fische und die Schlangen begatten\nsich mit zugewandten Gesichtern, so daß das Weibchen während jenes\nActes auf dem Rücken zu liegen kommt. — Diese Angabe enthält\nmanche Unrichtigkeiten; denn die allermeisten Fische vollziehen die Be-\ngattung durch Aneinanderreiben der Bäuche und einige Arten, wie\nder Dornroche und der Stachelroche, besteigen sich sogar förmlich (Ari-\nstoteles Thiergeschichte 5, 4, 1). Nur das Krokodill (zwar zum\nEidechsengeschlecht gehörend, aber größtentheils im Wasser lebend) be-\ngattet sich auf die vom Talmud angegebene Weise. — Wahrscheinlich\ndachte der Talmud an die walfischartigen Wasserthiere, welche nach\nOppian (angef. bei Harduin zu Plin. h. n. 9, 50, 74) nach menschlicher\nWeise den Coitus vollziehen. — Indessen begattet sich unter den Fi-\nschen die Muräne (§. 336) auf die angegebene Weise. Aristoteles\n(Thierg. 5, 3, 2) sagt: Die Fußlosen und Langgebauten, z. B. die\nSchlangen und die Muräne, umschlingen sich mit einander zu-\ngewandten Bäuchen, und namentlich verschlingen sich die Schlangen\nso innig, daß ihre Verkuppelung wie eine Schlange mit zwei Köpfen\naussieht.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Generatio propagativa."
+    },
+    {
+     "lang": "deu",
+     "text": " Die Erzeugung der allermeisten leben-\ndigen Geschöpfe geschieht durch Begattung. Der Act derselben fin-\ndet auf verschiedene Weise statt. „Alle Geschöpfe“, sagt der Talmud\n(Bechoroth 8, a), „begatten sich durch Besteigen, so daß das Männ-\nchen während des Coitus auf dem Rücken des Weibchens zu stehen\nkommt, nur der Mensch, die Fische und die Schlangen begatten\nsich mit zugewandten Gesichtern, so daß das Weibchen während jenes\nActes auf dem Rücken zu liegen kommt. — Diese Angabe enthält\nmanche Unrichtigkeiten; denn die allermeisten Fische vollziehen die Be-\ngattung durch Aneinanderreiben der Bäuche und einige Arten, wie\nder Dornroche und der Stachelroche, besteigen sich sogar förmlich ("
+    },
+    {
+     "lang": "lat",
+     "text": "Ari-\nstoteles"
+    },
+    {
+     "lang": "deu",
+     "text": " Thiergeschichte 5, 4, 1). Nur das Krokodill (zwar zum\nEidechsengeschlecht gehörend, aber größtentheils im Wasser lebend) be-\ngattet sich auf die vom Talmud angegebene Weise. — Wahrscheinlich\ndachte der Talmud an die walfischartigen Wasserthiere, welche nach\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Oppian"
+    },
+    {
+     "lang": "deu",
+     "text": " (angef. bei "
+    },
+    {
+     "lang": "lat",
+     "text": "Harduin"
+    },
+    {
+     "lang": "deu",
+     "text": " zu "
+    },
+    {
+     "lang": "lat",
+     "text": "Plin. h. n."
+    },
+    {
+     "lang": "deu",
+     "text": " 9, 50, 74) nach menschlicher\nWeise den Coitus vollziehen. — Indessen begattet sich unter den Fi-\nschen die Muräne (§. 336) auf die angegebene Weise. Aristoteles\n(Thierg. 5, 3, 2) sagt: Die Fußlosen und Langgebauten, z. B. die\nSchlangen und die Muräne, umschlingen sich mit einander zu-\ngewandten Bäuchen, und namentlich verschlingen sich die Schlangen\nso innig, daß ihre Verkuppelung wie eine Schlange mit zwei Köpfen\naussieht."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Vom Kameel heißt es in unserer Talmudstelle, daß es sich rück-\nlings (אחור כנגד אחור) begatte, was mit Aristoteles (ib. 5, 12, 13)\nübereinstimmt; er sagt: Das Kameel harnt und begattet sich, wie\noben gesagt wurde, rücklings. Es wird hier wahrscheinlich auf\nThiergesch. 5, 2, 4 hingewiesen; allein an dieser Stelle sagt Aristo-\nteles ausdrücklich: Die Begattung geschieht nicht rücklings, sondern\ndas Weibchen thut sich nieder und das Männchen umschließt dasselbe.\nEs muß also hier eine der beiden Stellen emendirt werden.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Vom Kameel heißt es in unserer Talmudstelle, daß es sich rück-\nlings ("
+    },
+    {
+     "lang": "heb",
+     "text": "אחור כנגד אחור"
+    },
+    {
+     "lang": "deu",
+     "text": ") begatte, was mit Aristoteles ("
+    },
+    {
+     "lang": "lat",
+     "text": "ib."
+    },
+    {
+     "lang": "deu",
+     "text": " 5, 12, 13)\nübereinstimmt; er sagt: Das Kameel harnt und begattet sich, wie\noben gesagt wurde, rücklings. Es wird hier wahrscheinlich auf\nThiergesch. 5, 2, 4 hingewiesen; allein an dieser Stelle sagt Aristo-\nteles ausdrücklich: Die Begattung geschieht nicht rücklings, sondern\ndas Weibchen thut sich nieder und das Männchen umschließt dasselbe.\nEs muß also hier eine der beiden Stellen emendirt werden."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Schlange, heißt es in unserer Stelle ferner, empfängt auch\nim trächtigen Zustande das Männchen, das Vieh hingegen läßt, wenn\nes trächtig ist, das Männchen nicht mehr zu. — Vom Kameel wird\nendlich noch bemerkt, daß es während der Begattung sehr wild ist\n(Sanhedrin 37, b; s. jedoch Raschi). Ueber die Benennung des Coitus\nvgl. §. 43.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Schlange, heißt es in unserer Stelle ferner, empfängt auch\nim trächtigen Zustande das Männchen, das Vieh hingegen läßt, wenn\nes trächtig ist, das Männchen nicht mehr zu. — Vom Kameel wird\nendlich noch bemerkt, daß es während der Begattung sehr wild ist\n(Sanhedrin 37, b; s. jedoch Raschi). Ueber die Benennung des Coitus\nvgl. §. 43."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2440
+   ],
+   [
+    3308,
+    2592
+   ]
+  ],
+  "input_tokens": 3302,
+  "output_tokens": 923,
+  "cost_usd": 0.0059,
+  "seconds": 9.8
+ }
+}

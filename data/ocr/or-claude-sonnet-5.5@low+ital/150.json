@@ -1,0 +1,217 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "150",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "150"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Das Einhorn.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Einhorn."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "chen sogar das Wort Rgazál aus. — Allein wir haben hier nur\ndie talmudische Ansicht von ראם zu untersuchen, und da haben wir\nvor Allem ein Hauptmoment hervorzuheben, es ist die fabelhafte\nGröße, welche der Talmud an vielen Stellen dem Thiere zuspricht.\nAls Extrem an Größe wird es den Läuseniſsen entgegengestellt.\nSabbat 107, b und öfter heißt es: „Gott pflegt und ernährt Alles,\nvon den קרני ראמים bis zu den ביצי כינים. — Wir kommen auf diese\nNamen noch zurück. Ferner heißt es: das ראם ist so groß, daß es\nnicht in die Arche Noah's hineingehen konnte, man mußte es an dem\nHorn an die Arche festbinden, so daß es die Nase frei halten und\nathmen konnte (Sebachim 113, b). In einer andern Stelle wird\nvon der Größe eines אורזילא בר יומא (eines einen Tag alten אורזילא,\nso liest Samuel — רש\"בם —; die Tosephot hingegen lesen: אורזילא\nדבר ראימא „junges אורזילא\") fabelhaft gesprochen (B. batra 74, b);\nin dieser Stelle werden auch die biblischen חנינים הגרולים (Meerunge-\nheuer) durch ארזילי רימא wiedergegeben, was Samuel wiederum durch\nראמים שבים erklärt. So ist durchgehends die Größe das vom Tal-\nmud dem Thiere ertheilte charakteristische Merkmal*), während die\nBibel ihm die Behendigkeit (Ps. 29, 6), die Wildheit (Job 39, 9),\ndie Stärke (Deut. 33, 17) als Charakteristicum beilegt. Nehmen wir\nnun jenes von talmudischer Seite gegebene Moment als Ausgangs-\npunkt der Untersuchung, so hat man am allerwahrscheinlichsten an das\nEinhorn zu denken, nicht bloß, weil dasselbe wegen seiner wenig\nverbreiteten Bekanntschaft zur Fabeldichtung am geeignetsten war,\nsondern vorzüglich seiner Größe halber. Die Antilope Oryx kommt\nan Größe höchstens dem Ochsen gleich und ist in Aegypten, besonders\naber im innern Afrika wohlbekannt, es paßt also dieses letztere Thier\nzu wenig in die gedachten Talmudstellen; daß aber die Größe vor\nAllem berücksichtigt wurde, geht aus den Tosephot (Sebachim 113,\nb; s. v. אורזילא) hervor, nach welchen an einigen Orten auch die\nBüffel (בופלש §. 159) ראם genannt wurden, was sicherlich nur ge-\nschah, weil das Thier wegen seiner Größe, an welcher es den Ochsen\nübertrifft, für den Namen ראם geeignet schien, wobei aber die Tose-\nphot zugleich bemerken, daß der Büffel nicht das eigentliche ראם sein\nkann, weil er lange nicht die angenommene Größe des letztern be-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "chen sogar das Wort Rgazál aus. — Allein wir haben hier nur\ndie talmudische Ansicht von "
+    },
+    {
+     "lang": "heb",
+     "text": "ראם"
+    },
+    {
+     "lang": "deu",
+     "text": " zu untersuchen, und da haben wir\nvor Allem ein Hauptmoment hervorzuheben, es ist die fabelhafte\nGröße, welche der Talmud an vielen Stellen dem Thiere zuspricht.\nAls Extrem an Größe wird es den Läuseniſsen entgegengestellt.\nSabbat 107, b und öfter heißt es: „Gott pflegt und ernährt Alles,\nvon den "
+    },
+    {
+     "lang": "heb",
+     "text": "קרני ראמים"
+    },
+    {
+     "lang": "deu",
+     "text": " bis zu den "
+    },
+    {
+     "lang": "heb",
+     "text": "ביצי כינים"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Wir kommen auf diese\nNamen noch zurück. Ferner heißt es: das "
+    },
+    {
+     "lang": "heb",
+     "text": "ראם"
+    },
+    {
+     "lang": "deu",
+     "text": " ist so groß, daß es\nnicht in die Arche Noah's hineingehen konnte, man mußte es an dem\nHorn an die Arche festbinden, so daß es die Nase frei halten und\nathmen konnte (Sebachim 113, b). In einer andern Stelle wird\nvon der Größe eines "
+    },
+    {
+     "lang": "arc",
+     "text": "אורזילא בר יומא"
+    },
+    {
+     "lang": "deu",
+     "text": " (eines einen Tag alten "
+    },
+    {
+     "lang": "arc",
+     "text": "אורזילא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nso liest Samuel — "
+    },
+    {
+     "lang": "heb",
+     "text": "רש\"בם"
+    },
+    {
+     "lang": "deu",
+     "text": " —; die Tosephot hingegen lesen: "
+    },
+    {
+     "lang": "arc",
+     "text": "אורזילא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "דבר ראימא"
+    },
+    {
+     "lang": "deu",
+     "text": " „junges "
+    },
+    {
+     "lang": "arc",
+     "text": "אורזילא"
+    },
+    {
+     "lang": "deu",
+     "text": "\") fabelhaft gesprochen (B. batra 74, b);\nin dieser Stelle werden auch die biblischen "
+    },
+    {
+     "lang": "heb",
+     "text": "חנינים הגרולים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Meerunge-\nheuer) durch "
+    },
+    {
+     "lang": "arc",
+     "text": "ארזילי רימא"
+    },
+    {
+     "lang": "deu",
+     "text": " wiedergegeben, was Samuel wiederum durch\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ראמים שבים"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt. So ist durchgehends die Größe das vom Tal-\nmud dem Thiere ertheilte charakteristische Merkmal*), während die\nBibel ihm die Behendigkeit (Ps. 29, 6), die Wildheit (Job 39, 9),\ndie Stärke (Deut. 33, 17) als Charakteristicum beilegt. Nehmen wir\nnun jenes von talmudischer Seite gegebene Moment als Ausgangs-\npunkt der Untersuchung, so hat man am allerwahrscheinlichsten an das\nEinhorn zu denken, nicht bloß, weil dasselbe wegen seiner wenig\nverbreiteten Bekanntschaft zur Fabeldichtung am geeignetsten war,\nsondern vorzüglich seiner Größe halber. Die Antilope Oryx kommt\nan Größe höchstens dem Ochsen gleich und ist in Aegypten, besonders\naber im innern Afrika wohlbekannt, es paßt also dieses letztere Thier\nzu wenig in die gedachten Talmudstellen; daß aber die Größe vor\nAllem berücksichtigt wurde, geht aus den Tosephot (Sebachim 113,\nb; s. v. "
+    },
+    {
+     "lang": "arc",
+     "text": "אורזילא"
+    },
+    {
+     "lang": "deu",
+     "text": ") hervor, nach welchen an einigen Orten auch die\nBüffel ("
+    },
+    {
+     "lang": "heb",
+     "text": "בופלש"
+    },
+    {
+     "lang": "deu",
+     "text": " §. 159) "
+    },
+    {
+     "lang": "heb",
+     "text": "ראם"
+    },
+    {
+     "lang": "deu",
+     "text": " genannt wurden, was sicherlich nur ge-\nschah, weil das Thier wegen seiner Größe, an welcher es den Ochsen\nübertrifft, für den Namen "
+    },
+    {
+     "lang": "heb",
+     "text": "ראם"
+    },
+    {
+     "lang": "deu",
+     "text": " geeignet schien, wobei aber die Tose-\nphot zugleich bemerken, daß der Büffel nicht das eigentliche "
+    },
+    {
+     "lang": "heb",
+     "text": "ראם"
+    },
+    {
+     "lang": "deu",
+     "text": " sein\nkann, weil er lange nicht die angenommene Größe des letztern be-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Nach Midr. Jalkut Schim. 2. Th. fol. 97, d, reicht das Reem bis in\ndie Wolken (Himmel); vgl. auch ibid. fol. 154, b.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nach Midr. Jalkut Schim. 2. Th. fol. 97, d, reicht das Reem bis in\ndie Wolken (Himmel); vgl. auch ibid. fol. 154, b."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2408
+   ],
+   [
+    3308,
+    2572
+   ]
+  ],
+  "input_tokens": 11391,
+  "output_tokens": 1899,
+  "cost_usd": 0.0418,
+  "seconds": 15.6
+ }
+}

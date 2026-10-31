@@ -1,0 +1,337 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "38\t\t\tFortsetzung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "38\t\t\tFortsetzung."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "einer andern Reihenfolge, da sie sowohl mit den Angaben des Tal-\nmuds, als auch mit den Benennungen der einzelnen Theile der Mägen\nund Eingeweide nach Angabe der neuern Anatomie nicht überein-\nstimmt. Nach dem Talmud (Raschi Chulin 42, a) geht die Speise\nvon dem בית הכוסות in den המסס (also entgegengesetzt der Angabe\ndes Midrasch), von hier aus in den קבה und von diesem in die dünnen\nDärme. Hier fehlt aber zweifellos vor קבה noch die Angabe von\nכרס. — Wir werden aber zur richtigen Bestimmung gelangen, wenn\nwir die richtige Angabe Blumenbach's (in seinem Handbuch der\nvergleichenden Anatomie) damit vergleichen. Nach ihm haben die\nwiederkäuenden Thiere vier Mägen, der erste heißt: Pansen (tal-\nmudisch בית הכוסות, Raschi פנצא, panse). — Der zweite heißt:\nHaube, oder Magengipfel (talmudisch המסס, Raschi צינפייל,\nhöchst wahrscheinlich Zipfel). — Der dritte Magen heißt: Falten-\nmagen. Er hat die Form eines zusammengekugelten Igels und ist\nder kleinste der vier Mägen (talmudisch: כרס הפנימי, der aber Chulin\n50, b verschiedene Namen führt; s. unt. und מקום צר יש בכרס „ein\nenger Ort im Keres\", beschrieben wird, wahrscheinlich mit Hindeu-\ntung auf seine Form). — Der vierte Magen endlich heißt: Laub-\noder Fettmagen (talmudisch: כרס החיצון, oder קבה; der erstre Name\nwird jedoch noch anders erklärt; s. Tos. ibid. S. v. ואיזהו; dahin-\ngegen ist קבה unbestreitbar der Fettmagen).\nVerfolgen wir nun den weitern Lauf der gedachten Theile.\nNach dem Fettmagen folgen die eigentlichen Därme von Midrasch כי\nמעיא, vom Talmud דקין, oder בני מעים genannt, und zwar zuerst\nכרוכא קטינא, der dünne Darm, alsdann כרוכא עוביא der Zwölffinger-\ndarm, dann סניא דיבי, der Unrathsdarm *), endlich der Mastdarm\nvom Midrasch פטרכא **), vom Talmud כרכשא (Chulin 49, b; Raschi\nטבחיא) genannt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "einer andern Reihenfolge, da sie sowohl mit den Angaben des Tal-\nmuds, als auch mit den Benennungen der einzelnen Theile der Mägen\nund Eingeweide nach Angabe der neuern Anatomie nicht überein-\nstimmt. Nach dem Talmud (Raschi Chulin 42, a) geht die Speise\nvon dem "
+    },
+    {
+     "lang": "heb",
+     "text": "בית הכוסות"
+    },
+    {
+     "lang": "deu",
+     "text": " in den "
+    },
+    {
+     "lang": "heb",
+     "text": "המסס"
+    },
+    {
+     "lang": "deu",
+     "text": " (also entgegengesetzt der Angabe\ndes Midrasch), von hier aus in den "
+    },
+    {
+     "lang": "heb",
+     "text": "קבה"
+    },
+    {
+     "lang": "deu",
+     "text": " und von diesem in die dünnen\nDärme. Hier fehlt aber zweifellos vor "
+    },
+    {
+     "lang": "heb",
+     "text": "קבה"
+    },
+    {
+     "lang": "deu",
+     "text": " noch die Angabe von\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרס"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Wir werden aber zur richtigen Bestimmung gelangen, wenn\nwir die richtige Angabe Blumenbach's (in seinem Handbuch der\nvergleichenden Anatomie) damit vergleichen. Nach ihm haben die\nwiederkäuenden Thiere vier Mägen, der erste heißt: Pansen (tal-\nmudisch "
+    },
+    {
+     "lang": "heb",
+     "text": "בית הכוסות"
+    },
+    {
+     "lang": "deu",
+     "text": ", Raschi "
+    },
+    {
+     "lang": "heb",
+     "text": "פנצא"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "panse"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Der zweite heißt:\nHaube, oder Magengipfel (talmudisch "
+    },
+    {
+     "lang": "heb",
+     "text": "המסס"
+    },
+    {
+     "lang": "deu",
+     "text": ", Raschi "
+    },
+    {
+     "lang": "heb",
+     "text": "צינפייל"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nhöchst wahrscheinlich Zipfel). — Der dritte Magen heißt: Falten-\nmagen. Er hat die Form eines zusammengekugelten Igels und ist\nder kleinste der vier Mägen (talmudisch: "
+    },
+    {
+     "lang": "heb",
+     "text": "כרס הפנימי"
+    },
+    {
+     "lang": "deu",
+     "text": ", der aber Chulin\n50, b verschiedene Namen führt; s. unt. und "
+    },
+    {
+     "lang": "heb",
+     "text": "מקום צר יש בכרס"
+    },
+    {
+     "lang": "deu",
+     "text": " „ein\nenger Ort im Keres\", beschrieben wird, wahrscheinlich mit Hindeu-\ntung auf seine Form). — Der vierte Magen endlich heißt: Laub-\noder Fettmagen (talmudisch: "
+    },
+    {
+     "lang": "heb",
+     "text": "כרס החיצון"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "קבה"
+    },
+    {
+     "lang": "deu",
+     "text": "; der erstre Name\nwird jedoch noch anders erklärt; s. Tos. ibid. S. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "ואיזהו"
+    },
+    {
+     "lang": "deu",
+     "text": "; dahin-\ngegen ist "
+    },
+    {
+     "lang": "heb",
+     "text": "קבה"
+    },
+    {
+     "lang": "deu",
+     "text": " unbestreitbar der Fettmagen).\nVerfolgen wir nun den weitern Lauf der gedachten Theile.\nNach dem Fettmagen folgen die eigentlichen Därme von Midrasch "
+    },
+    {
+     "lang": "heb",
+     "text": "כי\nמעיא"
+    },
+    {
+     "lang": "deu",
+     "text": ", vom Talmud "
+    },
+    {
+     "lang": "heb",
+     "text": "דקין"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "בני מעים"
+    },
+    {
+     "lang": "deu",
+     "text": " genannt, und zwar zuerst\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרוכא קטינא"
+    },
+    {
+     "lang": "deu",
+     "text": ", der dünne Darm, alsdann "
+    },
+    {
+     "lang": "heb",
+     "text": "כרוכא עוביא"
+    },
+    {
+     "lang": "deu",
+     "text": " der Zwölffinger-\ndarm, dann "
+    },
+    {
+     "lang": "heb",
+     "text": "סניא דיבי"
+    },
+    {
+     "lang": "deu",
+     "text": ", der Unrathsdarm *), endlich der Mastdarm\nvom Midrasch "
+    },
+    {
+     "lang": "heb",
+     "text": "פטרכא"
+    },
+    {
+     "lang": "deu",
+     "text": " **), vom Talmud "
+    },
+    {
+     "lang": "heb",
+     "text": "כרכשא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 49, b; Raschi\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טבחיא"
+    },
+    {
+     "lang": "deu",
+     "text": ") genannt."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 63.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 63."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Fortsetzung. Die im vorhergehenden Artikel erwähnten Theile\nder Eingeweide führen jedoch noch verschiedene Benennungen. Einige",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fortsetzung. Die im vorhergehenden Artikel erwähnten Theile\nder Eingeweide führen jedoch noch verschiedene Benennungen. Einige"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Den Ausdruck סניא דיבי erklärt Raschi auf doppelte Weise. Erstens\ndurch „Verachtung der Wölfe\", d. h. der magere und ekelhafte Darm, den selbst\nder Wolf unberührt läßt; es ist derjenige Darm, welchen der Fleischer öffnet, um\ndurch ihn den Unrath zu entfernen, er heißt קרשטיא בודיל, Crasse budello, oder\nבודל שאגליר Budello (ital.) Cagalar (span.). — Zweitens „Abfluß des Un-\nraths\", indem, wie erwähnt, derselbe zur Entfernung des Unraths geöffnet wird.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Den Ausdruck "
+    },
+    {
+     "lang": "heb",
+     "text": "סניא דיבי"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt Raschi auf doppelte Weise. Erstens\ndurch „Verachtung der Wölfe\", d. h. der magere und ekelhafte Darm, den selbst\nder Wolf unberührt läßt; es ist derjenige Darm, welchen der Fleischer öffnet, um\ndurch ihn den Unrath zu entfernen, er heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "קרשטיא בודיל"
+    },
+    {
+     "lang": "deu",
+     "text": ", Crasse budello, oder\n"
+    },
+    {
+     "lang": "heb",
+     "text": "בודל שאגליר"
+    },
+    {
+     "lang": "ita",
+     "text": " Budello (ital.)"
+    },
+    {
+     "lang": "other",
+     "text": " Cagalar (span.)."
+    },
+    {
+     "lang": "deu",
+     "text": " — Zweitens „Abfluß des Un-\nraths\", indem, wie erwähnt, derselbe zur Entfernung des Unraths geöffnet wird."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Das aram. Wort erklärt Mussaphia durch ᾿Απόπατος, Auswurf.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Das aram. Wort erklärt Mussaphia durch "
+    },
+    {
+     "lang": "grc",
+     "text": "᾿Απόπατος"
+    },
+    {
+     "lang": "deu",
+     "text": ", Auswurf."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3292,
+    2160
+   ],
+   [
+    3292,
+    2820
+   ]
+  ],
+  "input_tokens": 3352,
+  "output_tokens": 2371,
+  "cost_usd": 0.0114,
+  "seconds": 15.6
+ }
+}

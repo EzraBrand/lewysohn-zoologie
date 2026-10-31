@@ -1,0 +1,177 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Wolf.\t81",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Wolf.\t81"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Doch werdet Ihr so grämlich schier?\nDa schaut nur erst nach oben —;\nGlücklich, wer entronnen hier,\nAnderswo den Wirth mag loben!",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Doch werdet Ihr so grämlich schier?\nDa schaut nur erst nach oben —;\nGlücklich, wer entronnen hier,\nAnderswo den Wirth mag loben!"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Alles entfloh und Herr Reinecke genoß in aller Ruhe das Dessert.\nNach Midrasch Rabba Ester fol. 125, col. 4; der aber die Pointe\nder Fabel in dem Stichwort sieht, welches der Fuchs dem Löwen\ngiebt, daß nämlich auch der Löwe den Tod finden wird.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Alles entfloh und Herr Reinecke genoß in aller Ruhe das Dessert.\nNach Midrasch Rabba Ester fol. 125, col. 4; der aber die Pointe\nder Fabel in dem Stichwort sieht, welches der Fuchs dem Löwen\ngiebt, daß nämlich auch der Löwe den Tod finden wird."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 121.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 121."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Wolf.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Wolf."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "זאב (Bechoroth 8, a), דובא (Chulin 75, b) und לוקום (Λύκος,\nSucca 56, b*). Die Gefräßigkeit des Wolfes ist sprüchwörtlich ge-\nworden, weshalb eine vom Judenthum zum Griechenthum übergegan-\ngene Proselytin mit dem Fuße auf den Altar stieß und auf griechisch\nausrief: „Wolf, Wolf, wie lange wirst du das Vermögen der Juden\nverschlingen!“ (Succa 56, b). Dasselbe Bild vom Wolfe und dem\nAltar, doch im freundlichen Sinne, wird im Midrasch Rabba Bere-\nschit fol. 112, col. 3 gebraucht. Seine Gefräßigkeit ist der Grund, daß\ner nicht, wie andere Thiere, für seine Jungen genügend sorgsam ist;\ner verzehrt die Beute am liebsten selbst (Rabba Bereschit fol. 112,\nc und dazu Ide Mosche). Er stillt seinen Durst an einer Quelle\nund wird dort zuweilen durch Netze gefangen (Rabba Ester fol.\n126, a). — Er ist den Viehheerden gefährlich (B. Kama 15, b), be-\nsonders greift er bei den Schaf- und Ziegenheerden die Böcke an,\nweil diese häufig die Köpfe in die Höhe heben und ihn so gleichsam\nprovociren (Sabbat 53, b). Im Hunger greift er sogar Menschen\nan, und so tödtete er einst zwei Kinder (Tanit 19, a); doch ist er\nsonst feige, und der Hirt hat sich selbst die Schuld zuzuschreiben, wenn\ner einen einzigen Wolf nicht vertreiben konnte. Auch bei zwei Hir-\ntenhunden kann ein Wolf wenig ausrichten, dahingegen ist es gefähr-\nlich, wenn die Wölfe gesellschaftlich in Rudeln jagen (B. mez. 93, b**).\nIn seiner Wildheit darf ihn Jeder tödten und das Fell als herren-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "זאב"
+    },
+    {
+     "lang": "deu",
+     "text": " (Bechoroth 8, a), "
+    },
+    {
+     "lang": "arc",
+     "text": "דובא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 75, b) und "
+    },
+    {
+     "lang": "heb",
+     "text": "לוקום"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "grc",
+     "text": "Λύκος"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nSucca 56, b*). Die Gefräßigkeit des Wolfes ist sprüchwörtlich ge-\nworden, weshalb eine vom Judenthum zum Griechenthum übergegan-\ngene Proselytin mit dem Fuße auf den Altar stieß und auf griechisch\nausrief: „Wolf, Wolf, wie lange wirst du das Vermögen der Juden\nverschlingen!“ (Succa 56, b). Dasselbe Bild vom Wolfe und dem\nAltar, doch im freundlichen Sinne, wird im Midrasch Rabba Bere-\nschit fol. 112, col. 3 gebraucht. Seine Gefräßigkeit ist der Grund, daß\ner nicht, wie andere Thiere, für seine Jungen genügend sorgsam ist;\ner verzehrt die Beute am liebsten selbst (Rabba Bereschit fol. 112,\nc und dazu Ide Mosche). Er stillt seinen Durst an einer Quelle\nund wird dort zuweilen durch Netze gefangen (Rabba Ester fol.\n126, a). — Er ist den Viehheerden gefährlich (B. Kama 15, b), be-\nsonders greift er bei den Schaf- und Ziegenheerden die Böcke an,\nweil diese häufig die Köpfe in die Höhe heben und ihn so gleichsam\nprovociren (Sabbat 53, b). Im Hunger greift er sogar Menschen\nan, und so tödtete er einst zwei Kinder (Tanit 19, a); doch ist er\nsonst feige, und der Hirt hat sich selbst die Schuld zuzuschreiben, wenn\ner einen einzigen Wolf nicht vertreiben konnte. Auch bei zwei Hir-\ntenhunden kann ein Wolf wenig ausrichten, dahingegen ist es gefähr-\nlich, wenn die Wölfe gesellschaftlich in Rudeln jagen (B. mez. 93, b**).\nIn seiner Wildheit darf ihn Jeder tödten und das Fell als herren-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Im Midr. Jalk. Schim. 2. Th. fol. 122, d heißt der Wolf אקניתא,\nd. i., Κνηκίας, der Fahle, Beiname des Wolfes; die Lexica erklären das Wort\nnicht.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Im Midr. Jalk. Schim. 2. Th. fol. 122, d heißt der Wolf "
+    },
+    {
+     "lang": "arc",
+     "text": "אקניתא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nd. i., "
+    },
+    {
+     "lang": "grc",
+     "text": "Κνηκίας"
+    },
+    {
+     "lang": "deu",
+     "text": ", der Fahle, Beiname des Wolfes; die Lexica erklären das Wort\nnicht."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Dieses gilt jedoch nur von der Heerde, denn die gesellig lebenden Wölfe\ngreifen nicht leicht Menschen an (Arist. l. c. 8, 7, 1).",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dieses gilt jedoch nur von der Heerde, denn die gesellig lebenden Wölfe\ngreifen nicht leicht Menschen an (Arist. l. c. 8, 7, 1)."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Zoologie des Talmuds.\t6",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zoologie des Talmuds.\t6"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2940
+   ],
+   [
+    3308,
+    2128
+   ]
+  ],
+  "input_tokens": 11329,
+  "output_tokens": 1646,
+  "cost_usd": 0.0391,
+  "seconds": 13.8
+ }
+}

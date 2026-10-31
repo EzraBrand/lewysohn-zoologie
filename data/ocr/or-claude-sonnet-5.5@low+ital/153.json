@@ -1,0 +1,225 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Meerjungfer.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Meerjungfer."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "153",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "153"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "gehöre. Aus diesen Momenten läßt sich aber das Thier nicht genau\nbestimmen, so viel ist gewiß, daß es wegen seines eigenen Namens\nweder mit der einhörnigen Antilope (קרש, §. 146), noch mit dem\nEinhorn (ראם, §. 174), noch endlich mit dem einhörnigen Ochsen\n(שור פר, §. 175) zu verwechseln ist, und hat man vielleicht an eine\nAbart eines der gedachten drei Thiere zu denken, da wohl im frü-\nhesten Alterthume jedes derselben mehrere Arten gezählt haben mochte;\ndoch mit Gewißheit läßt sich hier allerdings nicht verfahren. Die\nAngabe des Talmuds, daß das Thier ausgestorben (נגנז) und über-\nhaupt bloß zur Zeit Mosis vorhanden gewesen sei, ist offenbar nur\nals ironisch anzusehen, da ja auch Ezechiel des Thieres erwähnt.\nVöllig willkürlich und ohne alle Begründung ist die Uebersetzung des\nWortes durch Zebra (Pinchas im ספר הברית S. 68), da ein un-\nreines, d. h., zu essen verbotenes Thier der תחש am wenigsten ge-\nwesen sein konnte. — Es sei mir aber gestattet zu den vielen Ver-\nmuthungen noch eine hinzuzufügen. Bekannt ist die Annahme Eini-\nger, תחש mit dem deutschen Dachs wegen der Lautähnlichkeit zu\nvergleichen, gewiß ein bloßes Wortspiel, das kaum bestritten zu wer-\nden verdient; allein dürfte man nicht eher das hebr. Wort mit dem\ngr. Ταχύς vergleichen? Die Antilopen sind bekanntlich schnellfüßige\nund muntere Thiere, und unser Thier mochte neben seinem gewöhn-\nlichen, aber in der Bibel nicht erwähnten Namen noch einen Bei-\nnamen תחש gehabt haben. So nennen die Lacedämonier den Hasen\naußer seinem eigentlichen Namen auch Ταχίναν, und zwar seiner\nSchnellfüßigkeit wegen (Aelian: Thierg. 7, 47), und תחש könnte\neine besonders durch Schnellfüßigkeit sich auszeichnende Antilopen-\nart bezeichnen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "gehöre. Aus diesen Momenten läßt sich aber das Thier nicht genau\nbestimmen, so viel ist gewiß, daß es wegen seines eigenen Namens\nweder mit der einhörnigen Antilope ("
+    },
+    {
+     "lang": "heb",
+     "text": "קרש"
+    },
+    {
+     "lang": "deu",
+     "text": ", §. 146), noch mit dem\nEinhorn ("
+    },
+    {
+     "lang": "heb",
+     "text": "ראם"
+    },
+    {
+     "lang": "deu",
+     "text": ", §. 174), noch endlich mit dem einhörnigen Ochsen\n("
+    },
+    {
+     "lang": "heb",
+     "text": "שור פר"
+    },
+    {
+     "lang": "deu",
+     "text": ", §. 175) zu verwechseln ist, und hat man vielleicht an eine\nAbart eines der gedachten drei Thiere zu denken, da wohl im frü-\nhesten Alterthume jedes derselben mehrere Arten gezählt haben mochte;\ndoch mit Gewißheit läßt sich hier allerdings nicht verfahren. Die\nAngabe des Talmuds, daß das Thier ausgestorben ("
+    },
+    {
+     "lang": "heb",
+     "text": "נגנז"
+    },
+    {
+     "lang": "deu",
+     "text": ") und über-\nhaupt bloß zur Zeit Mosis vorhanden gewesen sei, ist offenbar nur\nals ironisch anzusehen, da ja auch Ezechiel des Thieres erwähnt.\nVöllig willkürlich und ohne alle Begründung ist die Uebersetzung des\nWortes durch Zebra (Pinchas im "
+    },
+    {
+     "lang": "heb",
+     "text": "ספר הברית"
+    },
+    {
+     "lang": "deu",
+     "text": " S. 68), da ein un-\nreines, d. h., zu essen verbotenes Thier der "
+    },
+    {
+     "lang": "heb",
+     "text": "תחש"
+    },
+    {
+     "lang": "deu",
+     "text": " am wenigsten ge-\nwesen sein konnte. — Es sei mir aber gestattet zu den vielen Ver-\nmuthungen noch eine hinzuzufügen. Bekannt ist die Annahme Eini-\nger, "
+    },
+    {
+     "lang": "heb",
+     "text": "תחש"
+    },
+    {
+     "lang": "deu",
+     "text": " mit dem deutschen Dachs wegen der Lautähnlichkeit zu\nvergleichen, gewiß ein bloßes Wortspiel, das kaum bestritten zu wer-\nden verdient; allein dürfte man nicht eher das hebr. Wort mit dem\ngr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Ταχύς"
+    },
+    {
+     "lang": "deu",
+     "text": " vergleichen? Die Antilopen sind bekanntlich schnellfüßige\nund muntere Thiere, und unser Thier mochte neben seinem gewöhn-\nlichen, aber in der Bibel nicht erwähnten Namen noch einen Bei-\nnamen "
+    },
+    {
+     "lang": "heb",
+     "text": "תחש"
+    },
+    {
+     "lang": "deu",
+     "text": " gehabt haben. So nennen die Lacedämonier den Hasen\naußer seinem eigentlichen Namen auch "
+    },
+    {
+     "lang": "grc",
+     "text": "Ταχίναν"
+    },
+    {
+     "lang": "deu",
+     "text": ", und zwar seiner\nSchnellfüßigkeit wegen (Aelian: Thierg. 7, 47), und "
+    },
+    {
+     "lang": "heb",
+     "text": "תחש"
+    },
+    {
+     "lang": "deu",
+     "text": " könnte\neine besonders durch Schnellfüßigkeit sich auszeichnende Antilopen-\nart bezeichnen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 177.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 177."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Meerjungfer.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Meerjungfer."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Bechoroth 8, a heißt es: Die דולפנין (Delphine) vermehren sich\nnach Art der Menschen, כבני אדם; Raschi liest: מבני אדם, d. i. sie werden\ndurch menschlichen Beischlaf beschwängert. — Hierauf fragt der Tal-\nmud, was דולפנין wären, welche Frage Rabbi Jehuda mit den Wor-\nten beantwortet: Dulphenin sind Söhne des Meeres. Hierzu Raschi:\nEs giebt Meerfische, deren eine Hälfte mensch-, und die andere fisch-\nähnlich ist, שריינא (Sirène) genannt. — Man ist sonst geneigt alle\nMittheilungen über Sirenen, Meermänner, Meerfrauen, oder Meer-\njungfern ins Gebiet der Sage zu verweisen, und doch liegt in der",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bechoroth 8, a heißt es: Die "
+    },
+    {
+     "lang": "heb",
+     "text": "דולפנין"
+    },
+    {
+     "lang": "deu",
+     "text": " (Delphine) vermehren sich\nnach Art der Menschen, "
+    },
+    {
+     "lang": "heb",
+     "text": "כבני אדם"
+    },
+    {
+     "lang": "deu",
+     "text": "; Raschi liest: "
+    },
+    {
+     "lang": "heb",
+     "text": "מבני אדם"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i. sie werden\ndurch menschlichen Beischlaf beschwängert. — Hierauf fragt der Tal-\nmud, was "
+    },
+    {
+     "lang": "heb",
+     "text": "דולפנין"
+    },
+    {
+     "lang": "deu",
+     "text": " wären, welche Frage Rabbi Jehuda mit den Wor-\nten beantwortet: Dulphenin sind Söhne des Meeres. Hierzu Raschi:\nEs giebt Meerfische, deren eine Hälfte mensch-, und die andere fisch-\nähnlich ist, "
+    },
+    {
+     "lang": "heb",
+     "text": "שריינא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sirène) genannt. — Man ist sonst geneigt alle\nMittheilungen über Sirenen, Meermänner, Meerfrauen, oder Meer-\njungfern ins Gebiet der Sage zu verweisen, und doch liegt in der"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2042
+   ],
+   [
+    3308,
+    2970
+   ]
+  ],
+  "input_tokens": 11351,
+  "output_tokens": 1894,
+  "cost_usd": 0.0416,
+  "seconds": 15.3
+ }
+}

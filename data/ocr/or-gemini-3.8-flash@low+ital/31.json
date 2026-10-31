@@ -1,0 +1,393 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hals. — Rücken.\t31",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hals. — Rücken."
+    },
+    {
+     "lang": "lat",
+     "text": "\t"
+    },
+    {
+     "lang": "deu",
+     "text": "31"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "bei der Ziege die Abnormität, daß ihre Ohren bis an den Boden her-\nabreichen (חתומי, ibid. 44, a*). — Dem tollen Hunde hängen die\nOhren herab (Joma 83, b). — Dem Skorpion soll die Spinne\nin die Ohröffnung kriechen (Sabbat 77, b), ebenso soll dies die Fisch-\nlaus in die Ohröffnungen des Walfisches (ibid. und hierzu §. 357).\n— Ueber ein Mittel gegen Ohrschmerzen s. §. 409.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "bei der Ziege die Abnormität, daß ihre Ohren bis an den Boden her-\nabreichen ("
+    },
+    {
+     "lang": "heb",
+     "text": "חתומי"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "ibid. 44, a*"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Dem tollen Hunde hängen die\nOhren herab ("
+    },
+    {
+     "lang": "lat",
+     "text": "Joma 83, b"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Dem Skorpion soll die Spinne\nin die Ohröffnung kriechen ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat 77, b"
+    },
+    {
+     "lang": "deu",
+     "text": "), ebenso soll dies die Fisch-\nlaus in die Ohröffnungen des Walfisches ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid."
+    },
+    {
+     "lang": "deu",
+     "text": " und hierzu §. 357).\n— Ueber ein Mittel gegen Ohrschmerzen s. §. 409."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 50.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 50."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Hals. Die Abtheilung des Rumpfes, welche ihn mit dem Kopfe\nverbindet, heißt צואר (Chulin 19, b) אונקא (Sabbat 140, b; vergl.\n§. 355), ebenso עונקא (Berachoth 44, b), und קוע (ibid. 28, a):\nHals. Seine Länge nimmt die Säule der Halswirbel**) ein, welche\nמפרקת heißt, sie erstreckt sich von dem Hinterkopf (שיפוי ראש) bis zu\ndem Puncte (עורף), wo die Rückensäule beginnt (ibid. 20, a). — Von\nden Insecten haben nur die Heuschrecken, namentlich die Gattung\nGryllus coronatus (§. 384) einen Hals, der dem des Viehes ähnlich\nist, d. h., bei welchen der Kopf nicht durch einen Faden, sondern\ndurch die Halsabtheilung mit dem Rumpf verbunden ist (A. Sara\n51, a). — Die Hausgans unterscheidet sich von der wilden durch\neinen längeren Hals (B. Kama 55, a). Nach Raschi soll jedoch das\nhier vorkommende קוע „Schnabel“ bedeuten, und müssen wir über\ndie nähere Erörterung dieses Controverspunctes auf §. 243 verweisen.\n— Das persische Kameel hat einen dickern Hals als das arabische\n(ibid.).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hals. Die Abtheilung des Rumpfes, welche ihn mit dem Kopfe\nverbindet, heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "צואר"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin 19, b"
+    },
+    {
+     "lang": "heb",
+     "text": ") אונקא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat 140, b;"
+    },
+    {
+     "lang": "deu",
+     "text": " vergl.\n§. 355), ebenso "
+    },
+    {
+     "lang": "heb",
+     "text": "עונקא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Berachoth 44, b"
+    },
+    {
+     "lang": "deu",
+     "text": "), und "
+    },
+    {
+     "lang": "heb",
+     "text": "קוע"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid. 28, a"
+    },
+    {
+     "lang": "deu",
+     "text": "):\nHals. Seine Länge nimmt die Säule der Halswirbel**) ein, welche\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מפרקת"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt, sie erstreckt sich von dem Hinterkopf ("
+    },
+    {
+     "lang": "heb",
+     "text": "שיפוי ראש"
+    },
+    {
+     "lang": "deu",
+     "text": ") bis zu\ndem Puncte ("
+    },
+    {
+     "lang": "heb",
+     "text": "עורף"
+    },
+    {
+     "lang": "deu",
+     "text": "), wo die Rückensäule beginnt ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid. 20, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Von\nden Insecten haben nur die Heuschrecken, namentlich die Gattung\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Gryllus coronatus"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 384) einen Hals, der dem des Viehes ähnlich\nist, d. h., bei welchen der Kopf nicht durch einen Faden, sondern\ndurch die Halsabtheilung mit dem Rumpf verbunden ist ("
+    },
+    {
+     "lang": "lat",
+     "text": "A. Sara\n51, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Die Hausgans unterscheidet sich von der wilden durch\neinen längeren Hals ("
+    },
+    {
+     "lang": "lat",
+     "text": "B. Kama 55, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). Nach Raschi soll jedoch das\nhier vorkommende "
+    },
+    {
+     "lang": "heb",
+     "text": "קוע"
+    },
+    {
+     "lang": "deu",
+     "text": " „Schnabel“ bedeuten, und müssen wir über\ndie nähere Erörterung dieses Controverspunctes auf §. 243 verweisen.\n— Das persische Kameel hat einen dickern Hals als das arabische\n("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid."
+    },
+    {
+     "lang": "deu",
+     "text": ")."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 51.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 51."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Rücken. Der Rücken heißt: גב, (schon biblisch). Das Kameel\nhat auf dem Rücken einen Fettbuckel (חטרת, Raschi: הלדרובא, welches\nFremdwort ich nicht zu erklären weiß; vielleicht habe man hier an\ndor für dos „Rücken“ und bosse, gr. ὕβος „Buckel“ zu denken, aus\nwelchen Bestandtheilen das höchst wahrscheinlich corrupt geschriebene\nFremdwort entstand Chulin 122, a)***). — Auf dem Rücken der Kro-\nkodile wachsen Parasiten (§. 271). — Auf die Rücken der Ochsen",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Rücken. Der Rücken heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "גב"
+    },
+    {
+     "lang": "deu",
+     "text": ", (schon biblisch). Das Kameel\nhat auf dem Rücken einen Fettbuckel ("
+    },
+    {
+     "lang": "heb",
+     "text": "חטרת"
+    },
+    {
+     "lang": "deu",
+     "text": ", Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "הלדרובא"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches\nFremdwort ich nicht zu erklären weiß; vielleicht habe man hier an\n"
+    },
+    {
+     "lang": "fra",
+     "text": "dor"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "fra",
+     "text": "dos"
+    },
+    {
+     "lang": "deu",
+     "text": " „Rücken“ und "
+    },
+    {
+     "lang": "fra",
+     "text": "bosse"
+    },
+    {
+     "lang": "deu",
+     "text": ", gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "ὕβος"
+    },
+    {
+     "lang": "deu",
+     "text": " „Buckel“ zu denken, aus\nwelchen Bestandtheilen das höchst wahrscheinlich corrupt geschriebene\nFremdwort entstand "
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin 122, a)***"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Auf dem Rücken der Kro-\nkodile wachsen Parasiten (§. 271). — Auf die Rücken der Ochsen"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Hiermit vgl. man Aristoteles (l. c. 8, 27, 3), er sagt: „In Syrien ha-\nben die Ziegen Ohren, die eine Spanne und vier Finger breit lang sind. Von\neinigen kann man die Ohren unten nach der Erde zusammennehmen.“ — Es ist\ndies die sogenannte Mamberziege, Ovis aurita , welche Büffon abgebil-\ndet hat.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Hiermit vgl. man Aristoteles ("
+    },
+    {
+     "lang": "lat",
+     "text": "l. c. 8, 27, 3"
+    },
+    {
+     "lang": "deu",
+     "text": "), er sagt: „In Syrien ha-\nben die Ziegen Ohren, die eine Spanne und vier Finger breit lang sind. Von\neinigen kann man die Ohren unten nach der Erde zusammennehmen.“ — Es ist\ndies die sogenannte Mamberziege, "
+    },
+    {
+     "lang": "lat",
+     "text": "Ovis aurita"
+    },
+    {
+     "lang": "deu",
+     "text": " , welche Büffon abgebil-\ndet hat."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Ueber die Anzahl der Hals- und der anderen Wirbel s. §. 28 Anm.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Ueber die Anzahl der Hals- und der anderen Wirbel s. §. 28 Anm."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Vielleicht ist das Wort aus dem span. Corcova corrumpirt.",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Vielleicht ist das Wort aus dem span. Corcova corrumpirt."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3224,
+    2346
+   ],
+   [
+    3224,
+    2734
+   ]
+  ],
+  "input_tokens": 3337,
+  "output_tokens": 1444,
+  "cost_usd": 0.0079,
+  "seconds": 12.0
+ }
+}

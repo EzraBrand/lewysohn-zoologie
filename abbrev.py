@@ -1,6 +1,7 @@
 """Abbreviations: a reviewed table and a fixed expansion step after translation (no model).
 
   uv run abbrev.py                 # check all entries, render ABBREVIATIONS.md
+  uv run abbrev.py --candidates part1   # dotted words not in the table, for review
 
 abbreviations.json is maintained by hand (see its "note"). Rows with mode "expand" stay as printed
 in the translation (the prompt says so) and expand() adds " [=expansion]" after the first use in a
@@ -130,7 +131,33 @@ def render(pages: dict[str, list]) -> str:
     return "\n".join(lines)
 
 
+CANDIDATE = re.compile(  # one to four short words, each ending in a dot ("B. mez.", "vgl.", "l. c.")
+    r"(?<![\w.])(?:[A-ZÄÖÜa-zäöüß][a-zäöüß']{0,7}\.\s?){1,4}")
+
+
+def candidates(entry: str) -> list[tuple[str, int]]:
+    """Dotted short words in an entry's German that no table row covers, with counts, for review.
+    A word that ends a sentence also matches; the review sorts that out."""
+    de = json.loads((ROOT / "data" / "entries" / entry / "de.json").read_text(encoding="utf-8"))
+    text = joined("\n".join(b["text"] for b in de["main"] + de["notes"]))
+    for r in sorted(items(), key=lambda r: -len(r["abbr"])):
+        text = re.sub(pattern(r["abbr"]), " ", text)
+    counts: dict[str, int] = {}
+    for m in CANDIDATE.finditer(text):
+        c = m.group(0).strip()
+        after = text[m.end():m.end() + 2].strip()[:1]
+        # one longer word before a capital or the end: a sentence end, not an abbreviation
+        if " " not in c and len(c) > 3 and (not after or after.isupper() or after in "„\"("):
+            continue
+        counts[c] = counts.get(c, 0) + 1
+    return sorted(counts.items(), key=lambda kv: -kv[1])
+
+
 def main():
+    if len(sys.argv) == 3 and sys.argv[1] == "--candidates":
+        for c, n in candidates(sys.argv[2]):
+            print(f"{n:4d}  {c}")
+        return
     pages: dict[str, list] = {}
     for path in sorted((ROOT / "data" / "entries").iterdir()):
         de_text, en_text, p = entry_texts(path)

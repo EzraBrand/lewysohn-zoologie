@@ -1,0 +1,257 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Begattungszeit. — Tragzeit. 9",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Begattungszeit. — Tragzeit. 9"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 16.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 16."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Begattungszeit. Die Animalia nocturna begatten sich zur Nacht-,\ndie A. diuturna zur Tageszeit, der Mensch allein zu jeder Zeit. Nach\ndieser Zeitbestimmung richtet sich auch die Geburtszeit, beziehungsweise\ndie Zeit des Eierlegens (Beza 7, a). — Vieh, Thiere (und Vögel*)\nbegatten sich vorzugsweise zur Frühlingszeit (R. ha-Schana 11, a). —\nWir gedenken hier einer talmudischen Angabe, die mannigfacher Be-\nrichtigungen bedarf. Sie lautet: כל המוליד מניק וכל המטיל בצים\nמלקט חוץ מעטלף שאף על פי שמטיל בצים מניק „jedes lebendige Junge\ngebärende Thier säugt dasselbe, jedes eierlegende klaubt für jenes mit\ndem Schnabel die Speise auf; nur die Fledermaus ist eierlegend und\ndennoch säugend. — Ueber diese unrichtige Angabe betreffs der Fleder-\nmaus handeln wir §. 136; aber auch der erste Theil der talmudischen\nAngabe muß nur auf die vierfüßigen, die eigentlichen Säugethiere be-\nschränkt werden, denn auch unter den Insecten bringt manches leben-\ndige Junge zur Welt, z. B. der Skorpion (Aelian Thierg. 6, 20),\ndie Fleischfliege (Sarcophaga carnaria; Voigt l. c. 5, S. 285);\ndas Weibchen läßt die Maden auf Fleisch fallen, und hier beginnen\ndiese sogleich zu fressen. Ebenso bringt von den Schlangen die ge-\nmeine Viper (Vipera Berus ; Voigt l. c. 3, S. 72) lebendige Junge\nzur Welt und doch ist weder die Schlange, noch das Insect säugend.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Begattungszeit. Die "
+    },
+    {
+     "lang": "lat",
+     "text": "Animalia nocturna"
+    },
+    {
+     "lang": "deu",
+     "text": " begatten sich zur Nacht-,\n"
+    },
+    {
+     "lang": "lat",
+     "text": "die A. diuturna"
+    },
+    {
+     "lang": "deu",
+     "text": " zur Tageszeit, der Mensch allein zu jeder Zeit. Nach\n"
+    },
+    {
+     "lang": "deu",
+     "text": "dieser Zeitbestimmung richtet sich auch die Geburtszeit, beziehungsweise\n"
+    },
+    {
+     "lang": "deu",
+     "text": "die Zeit des Eierlegens (Beza 7, a). — Vieh, Thiere (und Vögel*)\n"
+    },
+    {
+     "lang": "deu",
+     "text": "begatten sich vorzugsweise zur Frühlingszeit (R. ha-Schana 11, a). —\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Wir gedenken hier einer talmudischen Angabe, die mannigfacher Be-\n"
+    },
+    {
+     "lang": "deu",
+     "text": "richtigungen bedarf. Sie lautet: "
+    },
+    {
+     "lang": "heb",
+     "text": "כל המוליד מניק וכל המטיל בצים"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מלקט חוץ מעטלף שאף על פי שמטיל בצים מניק"
+    },
+    {
+     "lang": "deu",
+     "text": " „jedes lebendige Junge\n"
+    },
+    {
+     "lang": "deu",
+     "text": "gebärende Thier säugt dasselbe, jedes eierlegende klaubt für jenes mit\n"
+    },
+    {
+     "lang": "deu",
+     "text": "dem Schnabel die Speise auf; nur die Fledermaus ist eierlegend und\n"
+    },
+    {
+     "lang": "deu",
+     "text": "dennoch säugend. — Ueber diese unrichtige Angabe betreffs der Fleder-\n"
+    },
+    {
+     "lang": "deu",
+     "text": "maus handeln wir §. 136; aber auch der erste Theil der talmudischen\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Angabe muß nur auf die vierfüßigen, die eigentlichen Säugethiere be-\n"
+    },
+    {
+     "lang": "deu",
+     "text": "schränkt werden, denn auch unter den Insecten bringt manches leben-\n"
+    },
+    {
+     "lang": "deu",
+     "text": "dige Junge zur Welt, z. B. der Skorpion (Aelian Thierg. 6, 20),\n"
+    },
+    {
+     "lang": "deu",
+     "text": "die Fleischfliege ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sarcophaga carnaria"
+    },
+    {
+     "lang": "deu",
+     "text": "; Voigt l. c. 5, S. 285);\n"
+    },
+    {
+     "lang": "deu",
+     "text": "das Weibchen läßt die Maden auf Fleisch fallen, und hier beginnen\n"
+    },
+    {
+     "lang": "deu",
+     "text": "diese sogleich zu fressen. Ebenso bringt von den Schlangen die ge-\n"
+    },
+    {
+     "lang": "deu",
+     "text": "meine Viper ("
+    },
+    {
+     "lang": "lat",
+     "text": "Vipera Berus"
+    },
+    {
+     "lang": "deu",
+     "text": " ; Voigt l. c. 3, S. 72) lebendige Junge\n"
+    },
+    {
+     "lang": "deu",
+     "text": "zur Welt und doch ist weder die Schlange, noch das Insect säugend."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 17.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 17."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Tragzeit. Die größte Schwierigkeit bietet die Talmudstelle (Be-\nchoroth 8, a) über die Bestimmung der Tragzeit. Sie enthält theils\nungenaue, theils gänzlich unrichtige Angaben, was, wie wir später\nauch bei andern Naturforschern zeigen werden, in dem Mangel der Be-\nobachtung seinen Grund hat. Der Talmud folgte großentheils hierin\nnur den Irrthümern der alten Naturforscher. Wir zählen hier die\nThiere nach der Reihe in gedachter Talmudstelle auf. Vom Huhn\nheißt es: תרנגולת לכ\"א יום „die Henne zu 21 Tagen“. Raschi erklärt:\n„Nach dem befruchtenden Betreten des Hahnes weilt das Ei bis zur\nVollendung 21 Tage im Innern der Henne.“**) — Das meint je-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Tragzeit. Die größte Schwierigkeit bietet die Talmudstelle (Be-\nchoroth 8, a) über die Bestimmung der Tragzeit. Sie enthält theils\nungenaue, theils gänzlich unrichtige Angaben, was, wie wir später\nauch bei andern Naturforschern zeigen werden, in dem Mangel der Be-\nobachtung seinen Grund hat. Der Talmud folgte großentheils hierin\nnur den Irrthümern der alten Naturforscher. Wir zählen hier die\nThiere nach der Reihe in gedachter Talmudstelle auf. Vom Huhn\nheißt es: "
+    },
+    {
+     "lang": "heb",
+     "text": "תרנגולת לכ\"א יום"
+    },
+    {
+     "lang": "deu",
+     "text": " „die Henne zu 21 Tagen“. Raschi erklärt:\n„Nach dem befruchtenden Betreten des Hahnes weilt das Ei bis zur\nVollendung 21 Tage im Innern der Henne.“**) — Das meint je-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Schon Raschi deutet an, daß hier Vögel gestrichen werden müssen; er\nerwähnt nur בהמה als Collectivbezeichnung für Säugethiere, vgl. §. 13 Anm.*),\nvgl. auch Keritot 6, a, wo Raschi חיה aus dem Talmudtexte streicht.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schon Raschi deutet an, daß hier Vögel gestrichen werden müssen; er\nerwähnt nur "
+    },
+    {
+     "lang": "heb",
+     "text": "בהמה"
+    },
+    {
+     "lang": "deu",
+     "text": " als Collectivbezeichnung für Säugethiere, vgl. §. 13 Anm.*),\nvgl. auch Keritot 6, a, wo Raschi "
+    },
+    {
+     "lang": "heb",
+     "text": "חיה"
+    },
+    {
+     "lang": "deu",
+     "text": " aus dem Talmudtexte streicht."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Als Consequenzen des adoptirten Irrthums sind die künstlichen Win-\ndungen interessant, in welche David Schiff in seiner Gutachtensammlung לשון\nזהב (Offenbach 5576) S. 28, col. 4 sich verliert.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Als Consequenzen des adoptirten Irrthums sind die künstlichen Win-\ndungen interessant, in welche David Schiff in seiner Gutachtensammlung "
+    },
+    {
+     "lang": "heb",
+     "text": "לשון\nזהב"
+    },
+    {
+     "lang": "deu",
+     "text": " (Offenbach 5576) S. 28, col. 4 sich verliert."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3228,
+    2816
+   ],
+   [
+    3228,
+    2224
+   ]
+  ],
+  "input_tokens": 3330,
+  "output_tokens": 1982,
+  "cost_usd": 0.0099,
+  "seconds": 16.1
+ }
+}

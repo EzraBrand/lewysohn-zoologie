@@ -1,0 +1,289 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "52",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "52"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Thran. — Honig, Wachs. — Ambra, Moschus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Thran. — Honig, Wachs. — Ambra, Moschus."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 88.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 88."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Thran. Der Fischthran heißt: שומן דגים (Sabbat 24, b) und\nder Walfischthran משחא (B. Batra 73, b). Er dient zur Beleuchtung\n(Sabbat l. c.). Nach Raschi soll er von geschmolzenen Eingeweiden\nder Fische gewonnen werden; allein mit Recht machen die Tosephot\n(ibid. 21, a, s. v. חלב) einen Unterschied zwischen geschmolzenem Fisch-\nfett, welches קרבי דגים heißt und dem eigentlichen Thran, der be-\nkannten dünnflüssigen Fettmasse der Fische; s. §. 306, Anmerkung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Thran. Der Fischthran heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "שומן דגים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 24, b) und\nder Walfischthran "
+    },
+    {
+     "lang": "arc",
+     "text": "משחא"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. Batra 73, b). Er dient zur Beleuchtung\n(Sabbat l. c.). Nach Raschi soll er von geschmolzenen Eingeweiden\nder Fische gewonnen werden; allein mit Recht machen die Tosephot\n(ibid. 21, a, s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "חלב"
+    },
+    {
+     "lang": "deu",
+     "text": ") einen Unterschied zwischen geschmolzenem Fisch-\nfett, welches "
+    },
+    {
+     "lang": "heb",
+     "text": "קרבי דגים"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt und dem eigentlichen Thran, der be-\nkannten dünnflüssigen Fettmasse der Fische; s. §. 306, Anmerkung."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 89.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 89."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Honig, Wachs. Bienenhonig heißt schlechtweg דבש, der Hor-\nnissenhonig hingegen דבש צירעין und der Wespenhonig דבש גזין (Becho-\nroth 7, b), doch findet sich (Machschirin 6, 4) ebenso דבש דבורים.\nObgleich die Biene als Insekt nicht gegessen werden darf**), so kann\ndoch der Honig, der als eine bloße Reproduction der eingenommenen\nBlumensäfte betrachtet wird, genossen werden (Bechoroth l. c.);\ndennoch soll der Honig der Hornisse nicht gegessen werden dürfen\n(ibid.). — Sogar der verdorbene Honig wurde zu mannigfachen\nZwecken benutzt, worüber unt. §. 403. — So lange der Honig noch\nim Stocke ist kann er weder als Getränk, noch als Speise betrachtet\nwerden, indem er da noch nicht flüssig genug ist (B. Batra 80, a). Den\nbiblischen Ausspruch über den mäßigen Genuß des Honigs (Proverb.\n25, 16 und 27) wendet der Talmud (Chagiga 14, b) im ethischen\nSinne auf das Zuweitgehen in allen Dingen, namentlich in der ge-\nheimen Wissenschaft, an. Ueber den diätetischen Genuß des Honigs\ns. Joma 86, a. Das Wachs heißt שעוה auch קירותא (Sabbat 20, b)\nund קורה (Jebamoth 102, a). Das zweite Wort entspricht dem gr.\nΚηρός, das dritte dem lat. Cera.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Honig, Wachs. Bienenhonig heißt schlechtweg "
+    },
+    {
+     "lang": "heb",
+     "text": "דבש"
+    },
+    {
+     "lang": "deu",
+     "text": ", der Hor-\nnissenhonig hingegen "
+    },
+    {
+     "lang": "heb",
+     "text": "דבש צירעין"
+    },
+    {
+     "lang": "deu",
+     "text": " und der Wespenhonig "
+    },
+    {
+     "lang": "heb",
+     "text": "דבש גזין"
+    },
+    {
+     "lang": "deu",
+     "text": " (Becho-\nroth 7, b), doch findet sich (Machschirin 6, 4) ebenso "
+    },
+    {
+     "lang": "heb",
+     "text": "דבש דבורים"
+    },
+    {
+     "lang": "deu",
+     "text": ".\nObgleich die Biene als Insekt nicht gegessen werden darf**), so kann\ndoch der Honig, der als eine bloße Reproduction der eingenommenen\nBlumensäfte betrachtet wird, genossen werden (Bechoroth l. c.);\ndennoch soll der Honig der Hornisse nicht gegessen werden dürfen\n(ibid.). — Sogar der verdorbene Honig wurde zu mannigfachen\nZwecken benutzt, worüber unt. §. 403. — So lange der Honig noch\nim Stocke ist kann er weder als Getränk, noch als Speise betrachtet\nwerden, indem er da noch nicht flüssig genug ist (B. Batra 80, a). Den\nbiblischen Ausspruch über den mäßigen Genuß des Honigs (Proverb.\n25, 16 und 27) wendet der Talmud (Chagiga 14, b) im ethischen\nSinne auf das Zuweitgehen in allen Dingen, namentlich in der ge-\nheimen Wissenschaft, an. Ueber den diätetischen Genuß des Honigs\ns. Joma 86, a. Das Wachs heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "שעוה"
+    },
+    {
+     "lang": "deu",
+     "text": " auch "
+    },
+    {
+     "lang": "arc",
+     "text": "קירותא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 20, b)\nund "
+    },
+    {
+     "lang": "heb",
+     "text": "קורה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Jebamoth 102, a). Das zweite Wort entspricht dem gr.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Κηρός"
+    },
+    {
+     "lang": "deu",
+     "text": ", das dritte dem lat. "
+    },
+    {
+     "lang": "lat",
+     "text": "Cera"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 90.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 90."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Ambra, Moschus. Die Ambra findet man in den Därmen\ndes Pottfisches und heißt im Talmud (Keritot 61, a) כפת הירדן,\nworüber ausführlich §. 181. — Der Moschus heißt מושק (Berachoth",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ambra, Moschus. Die Ambra findet man in den Därmen\ndes Pottfisches und heißt im Talmud (Keritot 61, a) "
+    },
+    {
+     "lang": "heb",
+     "text": "כפת הירדן"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nworüber ausführlich §. 181. — Der Moschus heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "מושק"
+    },
+    {
+     "lang": "deu",
+     "text": " (Berachoth"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "an die spielende Uebersetzung von Cholera durch חולי רע, und letztere erinnert\nandererseits an מרעין בישין durch Morbus (!).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "an die spielende Uebersetzung von Cholera durch "
+    },
+    {
+     "lang": "heb",
+     "text": "חולי רע"
+    },
+    {
+     "lang": "deu",
+     "text": ", und letztere erinnert\nandererseits an "
+    },
+    {
+     "lang": "heb",
+     "text": "מרעין בישין"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "lat",
+     "text": "Morbus"
+    },
+    {
+     "lang": "deu",
+     "text": " (!)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Aus diesem Grunde soll nach Philo (II, 255) der Honig von dem\nOpfermaterial ausgeschlossen gewesen sein. Vgl. mein Werk „Die Opfer des al-\nten Testaments“ §. 16.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Aus diesem Grunde soll nach Philo (II, 255) der Honig von dem\nOpfermaterial ausgeschlossen gewesen sein. Vgl. mein Werk „Die Opfer des al-\nten Testaments“ §. 16."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2666
+   ],
+   [
+    3308,
+    2310
+   ]
+  ],
+  "input_tokens": 11384,
+  "output_tokens": 1970,
+  "cost_usd": 0.0849,
+  "seconds": 26.6
+ }
+}

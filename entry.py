@@ -11,6 +11,7 @@ text. The text is translated in chunks of whole paragraphs with translate.transl
 """
 
 import argparse
+import difflib
 import json
 import re
 import sys
@@ -22,7 +23,7 @@ import translate as T
 sys.stdout.reconfigure(encoding="utf-8")
 
 DATA = Path(__file__).parent / "data"
-SOURCE = "or-claude-opus-5.5@low+ital"
+SOURCE = "or-claude-opus-5.5@low+ital"  # default OCR; an entry may set "source" (Sonnet from part 2 on)
 CHUNK_CHARS = 6000
 
 # start / end: regexes for the first block of the entry and the first block after it
@@ -35,6 +36,16 @@ ENTRIES = {
     # mid-sentence; VII|VIII breaks "Auto-|da-fé's" at a real hyphen.
     "preface": {"pages": ["scan0007", "VIII", "IX", "X", "XI", "XII"], "title": "Preface (pp. VII–XII)",
                 "start": r"", "end": r"(?!)", "keep_hyphen": ["VIII"]},
+    # first part, Allgemeine Zoologie: pp. 1-63 (p. 1 unnumbered = scan 15). All 62 page joins
+    # checked by eye (logs/qa_1-63.csv): p. 3 ends "ברייתי***)" and p. 43 ends "(עצבים)" mid-sentence.
+    "part1": {"pages": ["scan0015", *range(2, 64)], "title": "First part: General zoology (pp. 1–63)",
+              "start": r"", "end": r"^Zweite\s+Abtheilung", "continue": [4, 44]},
+    # second part, first class, Säugethiere: pp. 64-158; OCR by Sonnet 5.5 with the Flash check of
+    # the Hebrew (decided 31-Oct-2026). All 94 page joins checked by eye (logs/qa_64-158.csv); these
+    # run on although the page ends with ")", ";", ":" or "!" (a verse quotation on pp. 80-81).
+    "mammals": {"pages": list(range(64, 159)), "title": "Second part, first class: Mammals (pp. 64–158)",
+                "start": r"^Zweite\s+Abtheilung", "end": r"^Zweite\s+Klasse",
+                "source": "or-claude-sonnet-5.5@low+ital", "continue": [76, 81, 85, 101, 129]},
     # table of contents ("Inhalt"): one unnumbered page (scan 13).
     "toc": {"pages": ["scan0013"], "title": "Contents", "start": r"", "end": r"(?!)", "contents": True},
     # §§ 114-115: starts mid-p. 68, ends mid-p. 71. Page joins checked by eye: 68|69, 69|70 and
@@ -47,25 +58,87 @@ ENTRIES = {
 SENTENCE_END = re.compile(r"[.!?:;)\]]\s*$")
 # Corrections to the OCR of pages that have no gold text: (old, new), with enough context to be
 # unique. Checked against the scan by Claude, 31-Oct-2026 (not by hand like a gold page).
-FIXES = {
-    69: [("heißt נער (Chulin 53, a)", "heißt עוא (Chulin 53, a)")],  # print: ע, full-height ו, א
-    71: [("neben טגרים auch", "neben טגריס auch")],  # final letter is ס, as on gold p. 70
+FIXES = {  # by OCR source: the engines make different errors
+    "or-claude-opus-5.5@low+ital": {
+        69: [("heißt נער (Chulin 53, a)", "heißt עוא (Chulin 53, a)")],  # print: ע, full-height ו, א
+        71: [("neben טגרים auch", "neben טגריס auch")],  # final letter is ס, as on gold p. 70
+    },
+    "or-claude-sonnet-5.5@low+ital": {
+        69: [("heißt נהם (Chulin 53, a)", "heißt עוא (Chulin 53, a)")],
+        71: [("neben טגרים auch", "neben טגריס auch")],
+    },
+}
+# Systematic word errors of one OCR engine, corrected on every page of that source. Sonnet reads
+# the Fraktur x of "Buxdorf" (Lewysohn's spelling of Buxtorf) as r; checked on p. 76 and against Flash.
+WORD_FIXES = {
+    "or-claude-sonnet-5.5@low+ital": [(r"\bBurdorf\b", "Buxdorf"), (r"\bBurtorf\b", "Buxtorf")],
+}
+# OCR block-type errors: {page: [(start of the block's text, correct type)]}, checked on the scan.
+TYPE_FIXES = {
+    16: [("die ihm hingeworfenen Speisen", "body"), ("Die von Raschi (Chulin 59, a)", "body")],
+}
+# Printer's errors in footnote marks: {page: {mark of the note as printed: mark in the text}}.
+NOTE_MARK_FIXES = {
+    52: {"*)": "**)"},  # text "darf**)", note printed "*) Aus diesem Grunde ..." (checked on the scan)
 }
 # Lewysohn separates the topics inside a paragraph with a long dash; in the joined text each
 # topic becomes its own paragraph (the dash is dropped). Not before a digit: "S. 63 — 76" is a range.
 DASH = re.compile(r"\s+—\s+(?=\D)")
 
 
-def page_blocks(page) -> list[dict]:
-    ocr = json.loads((DATA / "ocr" / SOURCE / f"{page}.json").read_text(encoding="utf-8"))
+def hebfix_decisions() -> dict[str, list[dict]]:
+    """Hebrew corrections decided by vote (hebvote.py), by page key; p. 1 is scan0015."""
+    out: dict[str, list[dict]] = {}
+    for f in sorted((DATA / "hebfix").glob("*.decisions.json")):
+        for d in json.loads(f.read_text(encoding="utf-8"))["items"]:
+            out.setdefault("scan0015" if d["page"] == 1 else str(d["page"]), []).append(d)
+    return out
+
+
+HEBFIX = hebfix_decisions() if (DATA / "hebfix").exists() else {}
+
+
+def apply_hebfix(page, blocks: list[dict]) -> None:
+    """Replace each voted word, as a whole word, everywhere on its page.
+
+    The OCR errors are systematic (final ם for ס, ו for ז), so a word misread once is usually
+    misread at its other uses on the page too; the comparison may flag only one of them.
+    """
+    for d in HEBFIX.get(str(page), []):
+        old, new = d["old"].split(), d["new"].split()
+        if len(old) != len(new):
+            print(f"HEBFIX p. {page}: word count differs, not applied: {d['old']} -> {d['new']}")
+            continue
+        for o, n in zip(old, new):
+            if o == n:
+                continue
+            rx = re.compile(rf"(?<![א-ת]){re.escape(o)}(?![א-ת])")
+            for b in blocks:
+                b["text"] = rx.sub(n, b["text"])
+
+
+def page_blocks(page, source: str = SOURCE) -> list[dict]:
+    ocr = json.loads((DATA / "ocr" / source / f"{page}.json").read_text(encoding="utf-8"))
     gold = DATA / "gold" / f"{page}.txt"
     if gold.exists():
         return T.gold_page(gold, ocr)["blocks"]
-    for old, new in FIXES.get(page, []):
+    apply_hebfix(page, ocr["blocks"])
+    for rx, new in WORD_FIXES.get(source, []):
+        for blk in ocr["blocks"]:
+            blk["text"] = re.sub(rx, new, blk["text"])
+    for old, new in FIXES.get(source, {}).get(page, []):
         hits = [b for b in ocr["blocks"] if old in b["text"]]
         if len(hits) != 1:
             sys.exit(f"p. {page}: correction {old!r} found {len(hits)} times, not once")
         hits[0]["text"] = hits[0]["text"].replace(old, new)
+    for start, typ in TYPE_FIXES.get(page, []):
+        hits = [b for b in ocr["blocks"] if b["text"].startswith(start)]
+        if len(hits) != 1:
+            sys.exit(f"p. {page}: type correction {start!r} found {len(hits)} times, not once")
+        hits[0]["type"], hits[0]["marker"] = typ, ""
+    for b in ocr["blocks"]:
+        if b["type"] == "footnote" and b.get("marker") in NOTE_MARK_FIXES.get(page, {}):
+            b["marker"] = NOTE_MARK_FIXES[page][b["marker"]]
     return ocr["blocks"]
 
 
@@ -98,7 +171,7 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
     page_text: dict = {}  # page -> the entry's main text on that page
     for page in cfg["pages"]:
         first_on_page = True
-        for b in page_blocks(page):
+        for b in page_blocks(page, cfg.get("source", SOURCE)):
             text = b["text"].strip()
             if b["type"] == "furniture":
                 continue
@@ -190,6 +263,42 @@ def render(title: str, main: list[dict], notes: list[dict], lines: bool = False)
     return "\n".join(out)
 
 
+HEB_WORD = re.compile(r"[א-ת][֑-ׇא-ת'\"]*")
+
+
+def sync_hebrew(de_blocks: list[dict], en_blocks: list[dict]) -> int:
+    """Copy Hebrew words corrected by the vote (HEBFIX) from the German into the English.
+
+    Hebrew is not translated, so each English paragraph has the Hebrew words of its German
+    paragraph, in the same order. The two word lists are aligned; where the German has a voted
+    new word and the English still has another word in that place, the English word is replaced.
+    This lets a translation made before the vote take the corrections without a model call.
+    """
+    new_words = {w for ds in HEBFIX.values() for d in ds for w in d["new"].split()}
+    if not new_words:
+        return 0
+    changed = 0
+    for de, en in zip(de_blocks, en_blocks):
+        dw = [m.group(0) for m in HEB_WORD.finditer(de["text"])]
+        em = list(HEB_WORD.finditer(en["text"]))
+        ew = [m.group(0) for m in em]
+        repl = {}
+        for op, i1, i2, j1, j2 in difflib.SequenceMatcher(None, dw, ew, autojunk=False).get_opcodes():
+            if op == "replace" and i2 - i1 == j2 - j1:
+                for i, j in zip(range(i1, i2), range(j1, j2)):
+                    if dw[i] in new_words and dw[i] != ew[j]:
+                        repl[j] = dw[i]
+        if repl:
+            text, shift = en["text"], 0
+            for j in sorted(repl):
+                m = em[j]
+                text = text[:m.start() + shift] + repl[j] + text[m.end() + shift:]
+                shift += len(repl[j]) - len(m.group(0))
+            en["text"] = text
+            changed += len(repl)
+    return changed
+
+
 PAGE_MARK = re.compile(r"\[p\. [^\]\s]+\]")
 
 
@@ -261,6 +370,8 @@ def finish(cfg: dict, out: Path) -> None:
     en_main, en_notes = raw["main"], raw["notes"]
     for b in en_main + en_notes:  # also for outputs made before translate.modern_citations existed
         b["text"] = T.modern_citations(b["text"])
+        if b["type"] == "heading":  # "Abtheilung" is "Part" everywhere (as in the contents)
+            b["text"] = re.sub(r"\b(First|Second|Third) Division\b", r"\1 Part", b["text"])
     # v4 -> v5 differs only by this fixed step, so a v4 translation finished here is v5
     if raw["meta"].get("rules") == "v4":
         raw["meta"]["rules"] = "v5"
@@ -268,6 +379,9 @@ def finish(cfg: dict, out: Path) -> None:
     n = restore_page_marks(de["main"], en_main) + restore_page_marks(de["notes"], en_notes)
     if n:
         print(f"page marks restored in {n} block(s)")
+    n = sync_hebrew(de["main"], en_main) + sync_hebrew(de["notes"], en_notes)
+    if n:
+        print(f"{n} Hebrew word(s) corrected in the English from the voted German")
     problems = A.check("\n".join(b["text"] for b in de["main"] + de["notes"]),
                        "\n".join(b["text"] for b in en_main + en_notes))
     for p in problems:

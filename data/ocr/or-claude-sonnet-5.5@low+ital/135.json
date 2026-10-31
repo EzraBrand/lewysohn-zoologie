@@ -1,0 +1,273 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Das Kameel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Kameel."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "135",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "135"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "— Das Weibchen des Dromedars heißt נאקה, oder נאקתא (Raschi:\nדרומול, Dromadaire, Sabbat 51, b). Ueber אינקא s. §. 520. — Das\nsäugende Kameel הונן (Sanhedrin 52, a); das junge Kameel בן גמל\n(Chulin 59, a), dasjenige junge Kameel, das noch keine Last getragen\nhat, heißt; גמל רך (ibid. 122, a). — Das tollgewordene K.: גמלא\nפריצא (Berachoth 54, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "— Das Weibchen des Dromedars heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "נאקה"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "arc",
+     "text": "נאקתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Raschi:\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דרומול"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Dromadaire"
+    },
+    {
+     "lang": "deu",
+     "text": ", Sabbat 51, b). Ueber "
+    },
+    {
+     "lang": "arc",
+     "text": "אינקא"
+    },
+    {
+     "lang": "deu",
+     "text": " s. §. 520. — Das\nsäugende Kameel "
+    },
+    {
+     "lang": "arc",
+     "text": "הונן"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sanhedrin 52, a); das junge Kameel "
+    },
+    {
+     "lang": "arc",
+     "text": "בן גמל"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Chulin 59, a), dasjenige junge Kameel, das noch keine Last getragen\nhat, heißt; "
+    },
+    {
+     "lang": "arc",
+     "text": "גמל רך"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 122, a). — Das tollgewordene K.: "
+    },
+    {
+     "lang": "arc",
+     "text": "גמלא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פריצא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Berachoth 54, a)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Das Kameel hat kurze Ohren, was in Form der Fabel so aus-\ngedrückt wird: „Das Kameel wollte Hörner, und da schnitt man ihm\nauch die Ohren ab“ (Sanhedrin 106, a). Es hat als wiederkäuendes\nThier keine Oberzähne, doch an jeder Seite einen Beißzahn (ניבי,\nwas nach einer andern Erklärung das hervorragende Zahnfleisch\nיינציבש, Gencives, bezeichnet), welche dem jungen Kameel noch fehlen\n(Chulin 59, a). — Der Hals ist beim arabischen Kameel dünner als\nbeim persischen (B. Kama 55, a). Der Fettbuckel heißt חטרא, oder\nחטטרת, welches Raschi (Chulin 122, a und Jes. 30, 6) durch חולדרובא\nerklärt; die muthmaßliche Erklärung des Fremdwortes s. §. 51. Dieser\nBuckel wird manchmal lädirt und eitert (איישרא, ichoreux), weshalb\nman ihn mit Honig beschmierte, wozu man, der Kosten halber, ver-\ndorbenen Honig nahm (B. mez. 38, b). Der Schwanz ist kurz, was\ndem Thiere darin zu statten kommt, daß es den Schwanz an den Ge-\nsträuchen, welche seine gewöhnliche Nahrung bilden, nicht verletzt\n(Sabbat 77, b). Der Eigenthümer pflegte an der Schwanzspitze des\nKameels einen Lappen als Erkennungszeichen zu binden; zuweilen\nverband dieses Zeichen den Schwanz mit dem Höcker (Sabbat 54, a\nund Maimuni zu ibid. 5, 3). — Seine gewöhnliche Nahrung ist,\nwie erwähnt, Gesträuche, da es mit der geringsten Kost vorlieb nimmt\n(Sabbat 77, b), doch gab man ihm auch Gerste (Menachoth 69, a)\nund zuweilen verdorbenen Honig (Sabbat 154, b). In Arabien pflanzte\nman als besonderes Kameelfutter den Distelkohl (קרדינש, Cardon, ibid.\n144, b). Uebrigens frißt es sehr stark und ist im Stande auf ein\nMal einen Kor Getreide zu verzehren (ibid. 155, b). Vgl. Aruch\ns. v. גרגרניות.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Kameel hat kurze Ohren, was in Form der Fabel so aus-\ngedrückt wird: „Das Kameel wollte Hörner, und da schnitt man ihm\nauch die Ohren ab“ (Sanhedrin 106, a). Es hat als wiederkäuendes\nThier keine Oberzähne, doch an jeder Seite einen Beißzahn ("
+    },
+    {
+     "lang": "arc",
+     "text": "ניבי"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nwas nach einer andern Erklärung das hervorragende Zahnfleisch\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יינציבש"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Gencives"
+    },
+    {
+     "lang": "deu",
+     "text": ", bezeichnet), welche dem jungen Kameel noch fehlen\n(Chulin 59, a). — Der Hals ist beim arabischen Kameel dünner als\nbeim persischen (B. Kama 55, a). Der Fettbuckel heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "חטרא"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder\n"
+    },
+    {
+     "lang": "arc",
+     "text": "חטטרת"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches Raschi (Chulin 122, a und Jes. 30, 6) durch "
+    },
+    {
+     "lang": "arc",
+     "text": "חולדרובא"
+    },
+    {
+     "lang": "deu",
+     "text": "\nerklärt; die muthmaßliche Erklärung des Fremdwortes s. §. 51. Dieser\nBuckel wird manchmal lädirt und eitert ("
+    },
+    {
+     "lang": "arc",
+     "text": "איישרא"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "ichoreux"
+    },
+    {
+     "lang": "deu",
+     "text": "), weshalb\nman ihn mit Honig beschmierte, wozu man, der Kosten halber, ver-\ndorbenen Honig nahm (B. mez. 38, b). Der Schwanz ist kurz, was\ndem Thiere darin zu statten kommt, daß es den Schwanz an den Ge-\nsträuchen, welche seine gewöhnliche Nahrung bilden, nicht verletzt\n(Sabbat 77, b). Der Eigenthümer pflegte an der Schwanzspitze des\nKameels einen Lappen als Erkennungszeichen zu binden; zuweilen\nverband dieses Zeichen den Schwanz mit dem Höcker (Sabbat 54, a\nund Maimuni zu ibid. 5, 3). — Seine gewöhnliche Nahrung ist,\nwie erwähnt, Gesträuche, da es mit der geringsten Kost vorlieb nimmt\n(Sabbat 77, b), doch gab man ihm auch Gerste (Menachoth 69, a)\nund zuweilen verdorbenen Honig (Sabbat 154, b). In Arabien pflanzte\nman als besonderes Kameelfutter den Distelkohl ("
+    },
+    {
+     "lang": "arc",
+     "text": "קרדינש"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "Cardon"
+    },
+    {
+     "lang": "deu",
+     "text": ", ibid.\n144, b). Uebrigens frißt es sehr stark und ist im Stande auf ein\nMal einen Kor Getreide zu verzehren (ibid. 155, b). Vgl. Aruch\ns. v. "
+    },
+    {
+     "lang": "arc",
+     "text": "גרגרניות"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Sein Hauptnutzen besteht im Lasttragen, und da nicht alle Ka-\nmeele gleich stark sind, so pflegte man zu sagen: „Nach dem Kameel\nist die Last“ (Kethuboth 67, a), und sind die arabischen Kameele",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Sein Hauptnutzen besteht im Lasttragen, und da nicht alle Ka-\nmeele gleich stark sind, so pflegte man zu sagen: „Nach dem Kameel\nist die Last“ (Kethuboth 67, a), und sind die arabischen Kameele"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "trianische K., ebenso Plinius (h. n. 8, 18, 26); Baktrien fiel bekannt-\nlich dem persischen Reiche anheim, und so mag das baktrische oder baktrianische\nKameel mit גמלא פרסא identisch sein.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "trianische K., ebenso Plinius (h. n. 8, 18, 26); Baktrien fiel bekannt-\nlich dem persischen Reiche anheim, und so mag das baktrische oder baktrianische\nKameel mit "
+    },
+    {
+     "lang": "arc",
+     "text": "גמלא פרסא"
+    },
+    {
+     "lang": "deu",
+     "text": " identisch sein."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2172
+   ],
+   [
+    3308,
+    2836
+   ]
+  ],
+  "input_tokens": 11350,
+  "output_tokens": 2130,
+  "cost_usd": 0.044,
+  "seconds": 16.0
+ }
+}

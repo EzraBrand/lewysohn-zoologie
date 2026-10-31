@@ -1,0 +1,265 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "158",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "158"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Schluß. — Der Cachelot.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. — Der Cachelot."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Rücken des Thieres sich befinden läßt. — Endlich heißt es an ge-\ndachter Stelle ausdrücklich, daß der Fisch zwei Flossen hatte, was in\nder That bei dem Walfisch der Fall ist.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Rücken des Thieres sich befinden läßt. — Endlich heißt es an ge-\ndachter Stelle ausdrücklich, daß der Fisch zwei Flossen hatte, was in\nder That bei dem Walfisch der Fall ist."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Indessen bezeichnete der Talmud mit לויתן auch ein fabelhaftes\nThier, worüber wir §. 505 ausführlich sprechen werden. Vgl. auch §. 347.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Indessen bezeichnete der Talmud mit "
+    },
+    {
+     "lang": "heb",
+     "text": "לויתן"
+    },
+    {
+     "lang": "deu",
+     "text": " auch ein fabelhaftes\nThier, worüber wir §. 505 ausführlich sprechen werden. Vgl. auch §. 347."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 180.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 180."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Fraglich ist es, welches Walthier in der Tosephot\n(Bechoroth 7, b; s. v. רוב) gemeint ist. Es heißt hier: Man darf\ndie Muränen (מרנס, Muraenae), welche man in dem רג בלי\"נא fin-\ndet, essen. Für מרנס haben die entsprechenden Piske Tosephot\nהרינגן „Häringe“, die allerdings einen Haupttheil des Walfischfutters\nbilden; allein Balaena ist der Gattungsname verschiedener Walthiere\nso heißt der Cachelot bei Aristoteles (Thierg. 1, 4, 1) Φάλαινα;\ndoch ist es wahrscheinlicher, daß in den Tosephot der Walfisch ge-\nmeint ist, da dieser keine Zähne hat, wodurch es möglich ist, daß die\ndurch den engen Schlund hinunter gedrückten Häringe ganz und erkenn-\nbar blieben, während der Kachelot (Cachelot) spitze und etwas ge-\nkrümmte Zähne hat, und seine Speise daher kauet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Fraglich ist es, welches Walthier in der Tosephot\n"
+    },
+    {
+     "lang": "lat",
+     "text": "(Bechoroth 7, b; s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "רוב"
+    },
+    {
+     "lang": "lat",
+     "text": ")"
+    },
+    {
+     "lang": "deu",
+     "text": " gemeint ist. Es heißt hier: Man darf\ndie Muränen ("
+    },
+    {
+     "lang": "heb",
+     "text": "מרנס"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "Muraenae"
+    },
+    {
+     "lang": "deu",
+     "text": "), welche man in dem "
+    },
+    {
+     "lang": "heb",
+     "text": "רג בלי\"נא"
+    },
+    {
+     "lang": "deu",
+     "text": " fin-\ndet, essen. Für "
+    },
+    {
+     "lang": "heb",
+     "text": "מרנס"
+    },
+    {
+     "lang": "deu",
+     "text": " haben die entsprechenden "
+    },
+    {
+     "lang": "translit",
+     "text": "Piske Tosephot"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "הרינגן"
+    },
+    {
+     "lang": "deu",
+     "text": " „Häringe“, die allerdings einen Haupttheil des Walfischfutters\nbilden; allein "
+    },
+    {
+     "lang": "lat",
+     "text": "Balaena"
+    },
+    {
+     "lang": "deu",
+     "text": " ist der Gattungsname verschiedener Walthiere\nso heißt der Cachelot bei Aristoteles (Thierg. 1, 4, 1) "
+    },
+    {
+     "lang": "grc",
+     "text": "Φάλαινα"
+    },
+    {
+     "lang": "deu",
+     "text": ";\ndoch ist es wahrscheinlicher, daß in den Tosephot der Walfisch ge-\nmeint ist, da dieser keine Zähne hat, wodurch es möglich ist, daß die\ndurch den engen Schlund hinunter gedrückten Häringe ganz und erkenn-\nbar blieben, während der Kachelot (Cachelot) spitze und etwas ge-\nkrümmte Zähne hat, und seine Speise daher kauet."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 181.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 181."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Cachelot.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Cachelot."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Dieses Walthier, das auch der Pottfisch heißt, wird zwar nicht\nausdrücklich im Talmud genannt, doch wird, wie vom Bisamthier\nnur der Moschus (§. 150), so auch vom Cachelot bloß die Ambra\nerwähnt, vorausgesetzt, daß die Erklärung des Aruch unter den ab-\nweichenden Erklärungen die richtigere wäre, was aber höchst fraglich\nist. Keritot 6, a werden die Species aufgezählt, aus welchen das\nRäucherwerk im Tempel bestand. Zu diesen wurde auch von dem כיפה\nהירדן ein Wenig genommen, welche Species verschieden erklärt wird.\nRaschi hält sie für eine am Ufer des Jordans*) wachsende Krautart;\nAruch hat zwei Erklärungen, wonach jene Species entweder eine wohl-\nriechende Pflanze, oder die Ambra ist. Die Erklärung lautet:\nרעי של רג הגדל בירדן והוא עמכרא. Sollten diese Worte den Sinn\nhaben; „Excremente des großen Fisches im Jordan, und zwar die",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dieses Walthier, das auch der Pottfisch heißt, wird zwar nicht\nausdrücklich im Talmud genannt, doch wird, wie vom Bisamthier\nnur der Moschus (§. 150), so auch vom Cachelot bloß die Ambra\nerwähnt, vorausgesetzt, daß die Erklärung des Aruch unter den ab-\nweichenden Erklärungen die richtigere wäre, was aber höchst fraglich\nist. Keritot 6, a werden die Species aufgezählt, aus welchen das\nRäucherwerk im Tempel bestand. Zu diesen wurde auch von dem "
+    },
+    {
+     "lang": "heb",
+     "text": "כיפה"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "הירדן"
+    },
+    {
+     "lang": "deu",
+     "text": " ein Wenig genommen, welche Species verschieden erklärt wird.\nRaschi hält sie für eine am Ufer des Jordans*) wachsende Krautart;\nAruch hat zwei Erklärungen, wonach jene Species entweder eine wohl-\nriechende Pflanze, oder die Ambra ist. Die Erklärung lautet:\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רעי של רג הגדל בירדן והוא עמכרא"
+    },
+    {
+     "lang": "deu",
+     "text": ". Sollten diese Worte den Sinn\nhaben; „Excremente des großen Fisches im Jordan, und zwar die"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Ueber die Etymologie des Namens ירדן s. meine Aphorismen im L. Bl.\nd. Orients 1849 col. 391.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ueber die Etymologie des Namens "
+    },
+    {
+     "lang": "heb",
+     "text": "ירדן"
+    },
+    {
+     "lang": "deu",
+     "text": " s. meine Aphorismen im L. Bl.\nd. Orients 1849 col. 391."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2595
+   ],
+   [
+    3308,
+    2405
+   ]
+  ],
+  "input_tokens": 11391,
+  "output_tokens": 1829,
+  "cost_usd": 0.0411,
+  "seconds": 13.9
+ }
+}

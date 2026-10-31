@@ -1,0 +1,405 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "146\t\tDas Schwein.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "146"
+    },
+    {
+     "lang": "lat",
+     "text": "\t\t"
+    },
+    {
+     "lang": "deu",
+     "text": "Das Schwein."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "stute zweimal geworfen habe. — Jene dritte Art hat im Lateinischen\nkeinen besonderen Namen, und so mag פרוטיות nur eine Lautverhär-\ntung für פרודיות sein.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "stute zweimal geworfen habe. — Jene dritte Art hat im Lateinischen\nkeinen besonderen Namen, und so mag "
+    },
+    {
+     "lang": "heb",
+     "text": "פרוטיות"
+    },
+    {
+     "lang": "deu",
+     "text": " nur eine Lautverhär-\ntung für "
+    },
+    {
+     "lang": "heb",
+     "text": "פרודיות"
+    },
+    {
+     "lang": "deu",
+     "text": " sein."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 170.\nDas Schwein.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 170.\nDas Schwein."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "חזיר של ישוב und חזיר (Chulin 122, a), fem. חזירה (A. Sara\n20, b), und חזירתא (Rabba Echa fol. 68, d), pl. חזירין (R. Bereschit\nfol. 70, a). Euphonisch ist der Name דבר אחר, womit sonst auch\nder Aussatz (Sabbat 129, b) und der Coitus (Berachoth 8, b) ge-\nnannt wird; so heißt ein geflecktes Schwein דבר אחר חוטראנא (Sab-\nbat 110, b), und das aussätzige (mit Finnen behaftete) Schwein\nheißt daher mit doppeltem Rechte דבר אחר (Ketuboth 61, b, was\nRaschi durch שור\"שמין (?) wiedergiebt*).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "חזיר של ישוב"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "חזיר"
+    },
+    {
+     "lang": "lat",
+     "text": " (Chulin 122, a)"
+    },
+    {
+     "lang": "deu",
+     "text": ", fem. "
+    },
+    {
+     "lang": "heb",
+     "text": "חזירה"
+    },
+    {
+     "lang": "lat",
+     "text": " (A. Sara\n20, b)"
+    },
+    {
+     "lang": "deu",
+     "text": ", und "
+    },
+    {
+     "lang": "heb",
+     "text": "חזירתא"
+    },
+    {
+     "lang": "lat",
+     "text": " (Rabba Echa fol. 68, d)"
+    },
+    {
+     "lang": "deu",
+     "text": ", pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "חזירין"
+    },
+    {
+     "lang": "lat",
+     "text": " (R. Bereschit\nfol. 70, a)"
+    },
+    {
+     "lang": "deu",
+     "text": ". Euphonisch ist der Name "
+    },
+    {
+     "lang": "heb",
+     "text": "דבר אחר"
+    },
+    {
+     "lang": "deu",
+     "text": ", womit sonst auch\nder Aussatz "
+    },
+    {
+     "lang": "lat",
+     "text": "(Sabbat 129, b)"
+    },
+    {
+     "lang": "deu",
+     "text": " und der Coitus "
+    },
+    {
+     "lang": "lat",
+     "text": "(Berachoth 8, b)"
+    },
+    {
+     "lang": "deu",
+     "text": " ge-\nnannt wird; so heißt ein geflecktes Schwein "
+    },
+    {
+     "lang": "heb",
+     "text": "דבר אחר חוטראנא"
+    },
+    {
+     "lang": "lat",
+     "text": " (Sab-\nbat 110, b)"
+    },
+    {
+     "lang": "deu",
+     "text": ", und das aussätzige (mit Finnen behaftete) Schwein\nheißt daher mit doppeltem Rechte "
+    },
+    {
+     "lang": "heb",
+     "text": "דבר אחר"
+    },
+    {
+     "lang": "lat",
+     "text": " (Ketuboth 61, b"
+    },
+    {
+     "lang": "deu",
+     "text": ", was\nRaschi durch "
+    },
+    {
+     "lang": "heb",
+     "text": "שור\"שמין"
+    },
+    {
+     "lang": "deu",
+     "text": " (?) wiedergiebt*)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Seine allbekannte Unreinheit schuf das Sprüchwort: „Hänge\ndem Schwein (דבר אחר) eine Palme um, und es thut dennoch das\nSeinige“, d. h., es wälzt sich dennoch im Kothe herum (Berachoth\n43, b). Seine Schnauze, die gewöhnlich im Kothe wühlt, wird\ndeshalb in ritueller Beziehung dem Kothe selbst gleich geachtet (ibid.\n25, a). Weil es so überall seine Nahrung findet, so wird es das\nreichste der Thiere genannt (Sabbat 155, b); da ferner das Schwein\nschnell fett wird, und so der Ertrag ihrer Zucht groß ist, so werden\ndie Schweinezüchter mit den Wucherern verglichen (Berachoth 55, a).\nUebrigens ist den Israeliten in Folge eines historischen Ereignisses\ndie Schweinezucht verboten worden (Menachoth 64, b). — Am lieb-\nsten frißt es Würmer und sonst kleine Kriechthiere (Aristoteles Thierg.\n9, 25, 3: Schnecken), weshalb seine Schnauze öfter blutig gefärbt\nist (Nidda 58, b), doch frißt es aus Hunger auch anderes Fleisch\n(Tos. B. Kama 19, b), und es kam wohl vor, daß es menschliche\nLeichname ausgrub (M. Katan 24, a**). — Es ist unter allen Thie-\nren den meisten Krankheiten unterworfen (Kiduschin 49, b, was auch",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seine allbekannte Unreinheit schuf das Sprüchwort: „Hänge\ndem Schwein ("
+    },
+    {
+     "lang": "heb",
+     "text": "דבר אחר"
+    },
+    {
+     "lang": "deu",
+     "text": ") eine Palme um, und es thut dennoch das\nSeinige“, d. h., es wälzt sich dennoch im Kothe herum "
+    },
+    {
+     "lang": "lat",
+     "text": "(Berachoth\n43, b)"
+    },
+    {
+     "lang": "deu",
+     "text": ". Seine Schnauze, die gewöhnlich im Kothe wühlt, wird\ndeshalb in ritueller Beziehung dem Kothe selbst gleich geachtet "
+    },
+    {
+     "lang": "lat",
+     "text": "(ibid.\n25, a)"
+    },
+    {
+     "lang": "deu",
+     "text": ". Weil es so überall seine Nahrung findet, so wird es das\nreichste der Thiere genannt "
+    },
+    {
+     "lang": "lat",
+     "text": "(Sabbat 155, b)"
+    },
+    {
+     "lang": "deu",
+     "text": "; da ferner das Schwein\nschnell fett wird, und so der Ertrag ihrer Zucht groß ist, so werden\ndie Schweinezüchter mit den Wucherern verglichen "
+    },
+    {
+     "lang": "lat",
+     "text": "(Berachoth 55, a)"
+    },
+    {
+     "lang": "deu",
+     "text": ".\nUebrigens ist den Israeliten in Folge eines historischen Ereignisses\ndie Schweinezucht verboten worden "
+    },
+    {
+     "lang": "lat",
+     "text": "(Menachoth 64, b)"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Am lieb-\nsten frißt es Würmer und sonst kleine Kriechthiere (Aristoteles Thierg.\n9, 25, 3: Schnecken), weshalb seine Schnauze öfter blutig gefärbt\nist "
+    },
+    {
+     "lang": "lat",
+     "text": "(Nidda 58, b)"
+    },
+    {
+     "lang": "deu",
+     "text": ", doch frißt es aus Hunger auch anderes Fleisch\n"
+    },
+    {
+     "lang": "lat",
+     "text": "(Tos. B. Kama 19, b)"
+    },
+    {
+     "lang": "deu",
+     "text": ", und es kam wohl vor, daß es menschliche\nLeichname ausgrub "
+    },
+    {
+     "lang": "lat",
+     "text": "(M. Katan 24, a**)"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Es ist unter allen Thie-\nren den meisten Krankheiten unterworfen "
+    },
+    {
+     "lang": "lat",
+     "text": "(Kiduschin 49, b"
+    },
+    {
+     "lang": "deu",
+     "text": ", was auch"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Man wollte in Gegenwart von Kindern weder einen obscönen, noch\neinen unästhetischen Ausdruck hören lassen und bezeichnete daher einen solchen\nmit der Benennung דבר אחר; f. E. Levita (Tischbi s. v. דבר). — Der Pajtan\n(im Sulat zum 1. Sabbat nach Pessach s. v. אין כמוך) nennt das Schwein auch:\nחית נבר „das wühlende Thier“; vgl. hierzu B. Kama 17, b.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Man wollte in Gegenwart von Kindern weder einen obscönen, noch\neinen unästhetischen Ausdruck hören lassen und bezeichnete daher einen solchen\nmit der Benennung "
+    },
+    {
+     "lang": "heb",
+     "text": "דבר אחר"
+    },
+    {
+     "lang": "lat",
+     "text": "; f. E. Levita ("
+    },
+    {
+     "lang": "deu",
+     "text": "Tischbi "
+    },
+    {
+     "lang": "lat",
+     "text": "s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "דבר"
+    },
+    {
+     "lang": "lat",
+     "text": ")"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Der Pajtan\n(im Sulat zum 1. Sabbat nach Pessach "
+    },
+    {
+     "lang": "lat",
+     "text": "s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "אין כמוך"
+    },
+    {
+     "lang": "deu",
+     "text": ") nennt das Schwein auch:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חית נבר"
+    },
+    {
+     "lang": "deu",
+     "text": " „das wühlende Thier“; vgl. hierzu "
+    },
+    {
+     "lang": "lat",
+     "text": "B. Kama 17, b"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Das Gittin 59, a erwähnte פיסתקא erklärt Raschi durch: Eicheln\n(גלו\"נש. Glands), welche die Schweine fressen; vgl. §. 172.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das "
+    },
+    {
+     "lang": "lat",
+     "text": "Gittin 59, a"
+    },
+    {
+     "lang": "deu",
+     "text": " erwähnte "
+    },
+    {
+     "lang": "heb",
+     "text": "פיסתקא"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt Raschi durch: Eicheln\n("
+    },
+    {
+     "lang": "fra",
+     "text": "גלו\"נש"
+    },
+    {
+     "lang": "lat",
+     "text": ". Glands)"
+    },
+    {
+     "lang": "deu",
+     "text": ", welche die Schweine fressen; vgl. §. 172."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2970
+   ],
+   [
+    3308,
+    2166
+   ]
+  ],
+  "input_tokens": 3357,
+  "output_tokens": 1535,
+  "cost_usd": 0.0083,
+  "seconds": 12.5
+ }
+}

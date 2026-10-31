@@ -1,0 +1,253 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Reine und unreine Vögel 15",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Reine und unreine Vögel"
+    },
+    {
+     "lang": "lat",
+     "text": " 15"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "der Beschaffenheit der Hörner. Das reine Thier muß nicht bloß\nwiederkäuend sein und gespaltene Klauen haben, sondern auch gega-\nbelte Hörner besitzen. — Sind diese nicht gegabelt (מפוצלות, Raschi:\nפורקיירש, furcosa, fourcher), so müssen sie splitterweise, schuppenartig\n(כרוכות), gekerbt (חרוקות, Raschi: קרנייר, cran, creneler) und הדורות\nsein. Dieses letztere Wort wird verschieden erklärt. Aruch (und so\nentscheiden die späteren Decisoren; s. Jore Dea §. 80, 1) liest הדורות\nund erklärt es mit: rund (zum Unterschied von dem platten Ziegen-\nhorn); Raschi liest: חדורות und erklärt es mit: spitzig. — Wir dür-\nfen jedoch an dem Endresultat der gedachten Decisoren uns wohl hal-\nten. Ueber das Einhorn vgl. §. 174; über die Antilope (קרש)\n§. 146; über die Gazellenart (עיזא כרכוז) §. 157.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "der Beschaffenheit der Hörner. Das reine Thier muß nicht bloß\nwiederkäuend sein und gespaltene Klauen haben, sondern auch gega-\nbelte Hörner besitzen. — Sind diese nicht gegabelt ("
+    },
+    {
+     "lang": "heb",
+     "text": "מפוצלות"
+    },
+    {
+     "lang": "deu",
+     "text": ", Raschi:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פורקיירש"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "furcosa"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "fourcher"
+    },
+    {
+     "lang": "deu",
+     "text": "), so müssen sie splitterweise, schuppenartig\n("
+    },
+    {
+     "lang": "heb",
+     "text": "כרוכות"
+    },
+    {
+     "lang": "deu",
+     "text": "), gekerbt ("
+    },
+    {
+     "lang": "heb",
+     "text": "חרוקות"
+    },
+    {
+     "lang": "deu",
+     "text": ", Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "קרנייר"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "cran"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "creneler"
+    },
+    {
+     "lang": "deu",
+     "text": ") und "
+    },
+    {
+     "lang": "heb",
+     "text": "הדורות"
+    },
+    {
+     "lang": "deu",
+     "text": "\nsein. Dieses letztere Wort wird verschieden erklärt. Aruch (und so\nentscheiden die späteren Decisoren; s. "
+    },
+    {
+     "lang": "lat",
+     "text": "Jore Dea §. 80, 1"
+    },
+    {
+     "lang": "deu",
+     "text": ") liest "
+    },
+    {
+     "lang": "heb",
+     "text": "הדורות"
+    },
+    {
+     "lang": "deu",
+     "text": "\nund erklärt es mit: rund (zum Unterschied von dem platten Ziegen-\nhorn); Raschi liest: "
+    },
+    {
+     "lang": "heb",
+     "text": "חדורות"
+    },
+    {
+     "lang": "deu",
+     "text": " und erklärt es mit: spitzig. — Wir dür-\nfen jedoch an dem Endresultat der gedachten Decisoren uns wohl hal-\nten. Ueber das Einhorn vgl. §. 174; über die Antilope ("
+    },
+    {
+     "lang": "heb",
+     "text": "קרש"
+    },
+    {
+     "lang": "deu",
+     "text": ")\n§. 146; über die Gazellenart ("
+    },
+    {
+     "lang": "heb",
+     "text": "עיזא כרכוז"
+    },
+    {
+     "lang": "deu",
+     "text": ") §. 157."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 23.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 23."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Reine und unreine Vögel. Das Gesetz (Lev. 11, 13—19)\nzählt zwar die zu essen verbotenen Vögel auf, giebt aber für die Be-\nstimmung der Reinheit, oder Unreinheit der Vögel kein charakteristisches\nZeichen an, was aber um so nothwendiger erschien, als mancher von\ndem Gesetz erwähnte Vogel den Nachsatz: למינו oder למינהו „nach\nseiner Art“ hat; es war daher nöthig, die verwandten Gattungen der\nverbotenen Vögel durch allgemeine Merkmale kenntlich zu machen.\nDer Talmud (Chulin 65, a) stellt daher folgende Bedingungen zur\nConstatirung eines reinen Vogels auf. Dieser ist erstens kein\nRaubvogel, d. h. er tödtet und verzehrt nicht andere Vögel; er hat\nzweitens außer den Vorderzehen noch einen אצבע יתירה. Nach den\nmeisten Ansichten ist dies die Hinterzehe, und obgleich diese auch die\nmeisten Raubvögel besitzen, so wird doch der reine Vogel auf einer\nausgespannten Schnure derart die Zehen theilen, daß drei (die vor-\nderen Zehen) auf der einen und die hintere Zehe auf der andern Seite\nderselben sich befinden; der unreine Vogel wird hingegen die Zehen\nin zwei und zwei, oder in zwei und drei theilen. — Anders erklärt\njenen Ausdruck R. Nissim (zu Alfasi), daß die Verlängerung der\nmittlern Vorderzehe gemeint sei. Wir kommen hierauf §. 193\nzurück. — Die reinen Vögel haben drittens einen Kropf; viertens\neinen Magen, der eine doppelte Haut hat, die sich leicht voneinander\nabschälen läßt; endlich fängt fünftens*) zwar auch der reine Vogel",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Reine und unreine Vögel. Das Gesetz ("
+    },
+    {
+     "lang": "lat",
+     "text": "Lev. 11, 13—19"
+    },
+    {
+     "lang": "deu",
+     "text": ")\nzählt zwar die zu essen verbotenen Vögel auf, giebt aber für die Be-\nstimmung der Reinheit, oder Unreinheit der Vögel kein charakteristisches\nZeichen an, was aber um so nothwendiger erschien, als mancher von\ndem Gesetz erwähnte Vogel den Nachsatz: "
+    },
+    {
+     "lang": "heb",
+     "text": "למינו"
+    },
+    {
+     "lang": "deu",
+     "text": " oder "
+    },
+    {
+     "lang": "heb",
+     "text": "למינהו"
+    },
+    {
+     "lang": "deu",
+     "text": " „nach\nseiner Art“ hat; es war daher nöthig, die verwandten Gattungen der\nverbotenen Vögel durch allgemeine Merkmale kenntlich zu machen.\nDer Talmud ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin 65, a"
+    },
+    {
+     "lang": "deu",
+     "text": ") stellt daher folgende Bedingungen zur\nConstatirung eines reinen Vogels auf. Dieser ist erstens kein\nRaubvogel, d. h. er tödtet und verzehrt nicht andere Vögel; er hat\nzweitens außer den Vorderzehen noch einen "
+    },
+    {
+     "lang": "heb",
+     "text": "אצבע יתירה"
+    },
+    {
+     "lang": "deu",
+     "text": ". Nach den\nmeisten Ansichten ist dies die Hinterzehe, und obgleich diese auch die\nmeisten Raubvögel besitzen, so wird doch der reine Vogel auf einer\nausgespannten Schnure derart die Zehen theilen, daß drei (die vor-\nderen Zehen) auf der einen und die hintere Zehe auf der andern Seite\nderselben sich befinden; der unreine Vogel wird hingegen die Zehen\nin zwei und zwei, oder in zwei und drei theilen. — Anders erklärt\njenen Ausdruck R. Nissim (zu Alfasi), daß die Verlängerung der\nmittlern Vorderzehe gemeint sei. Wir kommen hierauf §. 193\nzurück. — Die reinen Vögel haben drittens einen Kropf; viertens\neinen Magen, der eine doppelte Haut hat, die sich leicht voneinander\nabschälen läßt; endlich fängt fünftens*) zwar auch der reine Vogel"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Diese fünf Zeichen sind im Talmud allerdings nicht so geordnet, wie\nwir sie hier geben; wir folgten hierbei der Anordnung des Schulchan Aruch (Jore",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Diese fünf Zeichen sind im Talmud allerdings nicht so geordnet, wie\nwir sie hier geben; wir folgten hierbei der Anordnung des Schulchan Aruch ("
+    },
+    {
+     "lang": "lat",
+     "text": "Jore"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3284,
+    3034
+   ],
+   [
+    3284,
+    2274
+   ]
+  ],
+  "input_tokens": 3333,
+  "output_tokens": 1915,
+  "cost_usd": 0.0097,
+  "seconds": 17.1
+ }
+}

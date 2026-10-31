@@ -1,0 +1,177 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Eine Affenart.                                   65",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine Affenart."
+    },
+    {
+     "lang": "other",
+     "text": "                                   "
+    },
+    {
+     "lang": "deu",
+     "text": "65"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Ansichten kann man schwanken, da für jede derselben sprechende Mo-\nmente sich darbieten. Für die Erklärung von Orang-Utang spricht\ndie Erklärung des jerusalemitiſchen Talmuds, der אדני שדה durch\nבר נש דטור „Mensch des Berges“ erklärt; in der That bewohnt jener\ndie hohen, waldigen Berge in dem Innern von Borneo, Cochin-\nchina und Malakka, so daß er äußerst schwer zu fangen ist (Voigt,\nLehrb. der Zoologie 1. S. 243), während der Jocko in den Wäldern\nvon Guiana lebt. — Ferner ist es allerdings der Orang-Utang und\nnicht der Schimpanse, der von Linné gewissermaßen als eine Gat-\ntung von Menschen betrachtet und Homo troglodytes genannt wird.\n— Dahingegen spricht für die Annahme von Schimpanse Folgen-\ndes: Das Wort אדני heißt entweder Herr (von אדון, im St. const.\nאַדְנֵי; fälschlich wäre nach der Form von אבני, wie Simson will,\nאַדְנֵי zu lesen), oder Mensch (wie Bochart meint, indem er נ mit ם\nverwechselt hält; Hieroz. P. II. 4, 13, col. 846). Der Name ist da-\nher auch Gen. masc. und für מטמאות (sie verunreinigt) muß mit\nBartenoro: מטמא gelesen werden. — Der Begriff dieses Namens ist\naber in jedem Falle die Menschenähnlichkeit, und in der That ist der\nJocko am menschenähnlichsten, weshalb er auch der afrikanische Wald-\nmensch benannt wird. Er hat auch mehr Intelligenz als der Pongo.\nEr baut sich Hütten aus Buschwerk gegen die Sonnenhitze; er bricht\nStücke ab, womit er Menschen und Elephanten prügelt; er soll sogar\nNegerweiber rauben und jahrelang in Gefangenschaft halten und er\nkann zu einem geschickten und folgsamen Diener abgerichtet werden\n(Voigt l. c. 1. S. 240). Es spricht ferner für diese Ansicht, daß die\nTalmudisten höchst wahrscheinlich mehr Naturkunde von afrikanischen\nals von hinterindischen Thieren hatten. Da nun ebenso viele Gründe\nfür als gegen die eine und die andere Ansicht geltend gemacht wer-\nden können, so muß die Wahl zwischen beiden vorerst noch bestimmt\nwerden.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ansichten kann man schwanken, da für jede derselben sprechende Mo-\nmente sich darbieten. Für die Erklärung von Orang-Utang spricht\ndie Erklärung des jerusalemitiſchen Talmuds, der "
+    },
+    {
+     "lang": "heb",
+     "text": "אדני שדה"
+    },
+    {
+     "lang": "deu",
+     "text": " durch\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בר נש דטור"
+    },
+    {
+     "lang": "deu",
+     "text": " „Mensch des Berges“ erklärt; in der That bewohnt jener\ndie hohen, waldigen Berge in dem Innern von Borneo, Cochin-\nchina und Malakka, so daß er äußerst schwer zu fangen ist (Voigt,\nLehrb. der Zoologie 1. S. 243), während der Jocko in den Wäldern\nvon Guiana lebt. — Ferner ist es allerdings der Orang-Utang und\nnicht der Schimpanse, der von Linné gewissermaßen als eine Gat-\ntung von Menschen betrachtet und Homo troglodytes genannt wird.\n— Dahingegen spricht für die Annahme von Schimpanse Folgen-\ndes: Das Wort "
+    },
+    {
+     "lang": "heb",
+     "text": "אדני"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt entweder Herr (von "
+    },
+    {
+     "lang": "heb",
+     "text": "אדון"
+    },
+    {
+     "lang": "deu",
+     "text": ", im St. const.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אַדְנֵי"
+    },
+    {
+     "lang": "deu",
+     "text": "; fälschlich wäre nach der Form von "
+    },
+    {
+     "lang": "heb",
+     "text": "אבני"
+    },
+    {
+     "lang": "deu",
+     "text": ", wie Simson will,\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אַדְנֵי"
+    },
+    {
+     "lang": "deu",
+     "text": " zu lesen), oder Mensch (wie Bochart meint, indem er "
+    },
+    {
+     "lang": "heb",
+     "text": "נ"
+    },
+    {
+     "lang": "deu",
+     "text": " mit "
+    },
+    {
+     "lang": "heb",
+     "text": "ם"
+    },
+    {
+     "lang": "deu",
+     "text": "\nverwechselt hält; Hieroz. P. II. 4, 13, col. 846). Der Name ist da-\nher auch Gen. masc. und für "
+    },
+    {
+     "lang": "heb",
+     "text": "מטמאות"
+    },
+    {
+     "lang": "deu",
+     "text": " (sie verunreinigt) muß mit\nBartenoro: "
+    },
+    {
+     "lang": "heb",
+     "text": "מטמא"
+    },
+    {
+     "lang": "deu",
+     "text": " gelesen werden. — Der Begriff dieses Namens ist\naber in jedem Falle die Menschenähnlichkeit, und in der That ist der\nJocko am menschenähnlichsten, weshalb er auch der afrikanische Wald-\nmensch benannt wird. Er hat auch mehr Intelligenz als der Pongo.\nEr baut sich Hütten aus Buschwerk gegen die Sonnenhitze; er bricht\nStücke ab, womit er Menschen und Elephanten prügelt; er soll sogar\nNegerweiber rauben und jahrelang in Gefangenschaft halten und er\nkann zu einem geschickten und folgsamen Diener abgerichtet werden\n(Voigt l. c. 1. S. 240). Es spricht ferner für diese Ansicht, daß die\nTalmudisten höchst wahrscheinlich mehr Naturkunde von afrikanischen\nals von hinterindischen Thieren hatten. Da nun ebenso viele Gründe\nfür als gegen die eine und die andere Ansicht geltend gemacht wer-\nden können, so muß die Wahl zwischen beiden vorerst noch bestimmt\nwerden."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Midrasch (l. c.) scheint die Abrichtung des Thieres und der\nAffen überhaupt entweder nicht gekannt, oder doch nicht sehr hoch an-\ngeschlagen zu haben. Er sagt in Beziehung auf das Schriftwort\n(Koh. 6, 11): „Es giebt der Dinge viele, die Eitelkeit vermehren“,\nFolgendes: Zum Beispiel Diejenigen, welche Affen, Katzen, große\nWiesel (§. 129), Adone Sadeh und Seehunde aufziehen, welchen\nGenuß haben sie von ihnen?“ Im Jalkut Schimoni (II. Th. fol.\n186, 1) werden bloß Affen, Katzen, und für die anderen Thiere wer-\nden Schweine erwähnt. Im Midrasch Jelamdenu (Pirschat Schelach",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Midrasch (l. c.) scheint die Abrichtung des Thieres und der\nAffen überhaupt entweder nicht gekannt, oder doch nicht sehr hoch an-\ngeschlagen zu haben. Er sagt in Beziehung auf das Schriftwort\n(Koh. 6, 11): „Es giebt der Dinge viele, die Eitelkeit vermehren“,\nFolgendes: Zum Beispiel Diejenigen, welche Affen, Katzen, große\nWiesel (§. 129), Adone Sadeh und Seehunde aufziehen, welchen\nGenuß haben sie von ihnen?“ Im Jalkut Schimoni (II. Th. fol.\n186, 1) werden bloß Affen, Katzen, und für die anderen Thiere wer-\nden Schweine erwähnt. Im Midrasch Jelamdenu (Pirschat Schelach"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Zoologie des Talmuds.                                   5",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zoologie des Talmuds."
+    },
+    {
+     "lang": "other",
+     "text": "                                   "
+    },
+    {
+     "lang": "deu",
+     "text": "5"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3304,
+    2285
+   ],
+   [
+    3304,
+    2827
+   ]
+  ],
+  "input_tokens": 3325,
+  "output_tokens": 1054,
+  "cost_usd": 0.0064,
+  "seconds": 11.6
+ }
+}

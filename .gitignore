@@ -10,3 +10,4 @@ data/cache/
 data/ocr/_raw/
 data/gold/*.scan.jpg
 *.bak
+blog/

@@ -1,0 +1,169 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Bockhirsch.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Bockhirsch."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "117",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "117"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "stard von Vieh und Thier ist (im Gegensatz von כלאים, welches Ba-\nstard von zwei verschiedenen Viehstücken ist, s. Raschi zu B. Kama\n78, a), so bleibt doch der Untersuchung zur Erörterung der dritten\nAnsicht, eine weitere Aufgabe. Es fragt sich, welches primäre, und\nwie es scheint, da und dort in Massen vorhandene Thier hier gemeint ist?\n      Der Name כוי verleitet leicht an den Brandhirsch zu denken;\nso wird der Hirsch genannt, wenn er im Alter eine Hals- und Brust-\nmähne erhält, wo er alsdann wild und gefährlich ist (s. Voigt l. c.\n1. S. 395). Allein es würde dann unverständlich bleiben, warum\nder Talmud wegen des Zweifels, zu welchem Geschlechte (Thier-, oder\nViehgeschlecht) er gezählt werde, ihm alle rigorosen Bestimmungen\n(ritueller Natur), welche für beide Geschlechter verordnet sind, zuer-\ntheilt? (Biccurim 2, 8—11.) Kann ja der Brandhirsch, der ursprüng-\nlich zum Thiergeschlecht gehörte (§. 143), nicht bloß des Alters hal-\nber in Beziehung des Geschlechts zweifelhaft werden?*) Wohl aber\nkonnte jener Zweifel durch die äußere Erscheinung des Thieres ent-\nstehen, und in der That schildert Plinius ein Thier, das im Ganzen\nhirschähnlich ist, jedoch einen Bart wie eine Ziege hat; so konnte man\nin ritueller Beziehung leicht einen Zweifel über das Geschlecht des\nThieres hegen und so die weitern Consequenzen in gesetzlicher Bestim-\nmung verfolgen. Plinius (h. n. 8, 33, 50) sagt: Eadem est spe-\ncie, barba tantum et armorum villo distans, quem Τραγέλαφον\nvocant, non alibi, quam juxta Phasin amnem nascens „Der soge-\nnannte Tragelaphos (Bockhirsch) ist von derselben Species (des Hir-\nsches), bloß durch den Bart und die Zotten der Schultern verschie-\nden und nirgends als in der Nähe des Flusses Phasis vorhanden.“\nSchon dieser Doppelname zeigt, wie schon die Griechen das Thier\ngewissermaßen als eine aus Ziege und Hirsch bestehende Species an-\nsahen, und mit ihm mag wohl כוי identisch sein. Freilich müßte man\nauf die Angabe des Plinius, daß das Thier nur an einem bestimm-\nten Orte vorhanden ist, kein großes Gewicht legen, um so weniger\nals Voigt (ibid.) den oben erwähnten, überall vorhandenen Brand-\nhirsch ebenfalls Tragelaphos nennt; übrigens konnte ja der den Al-\nten bekannte Tragelaphos später sich auch anderswohin verpflanzt\nhaben und an manchen Orten sogar in Heerden aufgezogen worden",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "stard von Vieh und Thier ist (im Gegensatz von "
+    },
+    {
+     "lang": "heb",
+     "text": "כלאים"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches Ba-\nstard von zwei verschiedenen Viehstücken ist, s. Raschi zu B. Kama\n78, a), so bleibt doch der Untersuchung zur Erörterung der dritten\nAnsicht, eine weitere Aufgabe. Es fragt sich, welches primäre, und\nwie es scheint, da und dort in Massen vorhandene Thier hier gemeint ist?\n      Der Name "
+    },
+    {
+     "lang": "heb",
+     "text": "כוי"
+    },
+    {
+     "lang": "deu",
+     "text": " verleitet leicht an den Brandhirsch zu denken;\nso wird der Hirsch genannt, wenn er im Alter eine Hals- und Brust-\nmähne erhält, wo er alsdann wild und gefährlich ist (s. Voigt l. c.\n1. S. 395). Allein es würde dann unverständlich bleiben, warum\nder Talmud wegen des Zweifels, zu welchem Geschlechte (Thier-, oder\nViehgeschlecht) er gezählt werde, ihm alle rigorosen Bestimmungen\n(ritueller Natur), welche für beide Geschlechter verordnet sind, zuer-\ntheilt? (Biccurim 2, 8—11.) Kann ja der Brandhirsch, der ursprüng-\nlich zum Thiergeschlecht gehörte (§. 143), nicht bloß des Alters hal-\nber in Beziehung des Geschlechts zweifelhaft werden?*) Wohl aber\nkonnte jener Zweifel durch die äußere Erscheinung des Thieres ent-\nstehen, und in der That schildert Plinius ein Thier, das im Ganzen\nhirschähnlich ist, jedoch einen Bart wie eine Ziege hat; so konnte man\nin ritueller Beziehung leicht einen Zweifel über das Geschlecht des\nThieres hegen und so die weitern Consequenzen in gesetzlicher Bestim-\nmung verfolgen. Plinius (h. n. 8, 33, 50) sagt: "
+    },
+    {
+     "lang": "lat",
+     "text": "Eadem est spe-\ncie, barba tantum et armorum villo distans, quem "
+    },
+    {
+     "lang": "grc",
+     "text": "Τραγέλαφον"
+    },
+    {
+     "lang": "lat",
+     "text": "\nvocant, non alibi, quam juxta Phasin amnem nascens"
+    },
+    {
+     "lang": "deu",
+     "text": " „Der soge-\nnannte "
+    },
+    {
+     "lang": "lat",
+     "text": "Tragelaphos"
+    },
+    {
+     "lang": "deu",
+     "text": " (Bockhirsch) ist von derselben Species (des Hir-\nsches), bloß durch den Bart und die Zotten der Schultern verschie-\nden und nirgends als in der Nähe des Flusses Phasis vorhanden.“\nSchon dieser Doppelname zeigt, wie schon die Griechen das Thier\ngewissermaßen als eine aus Ziege und Hirsch bestehende Species an-\nsahen, und mit ihm mag wohl "
+    },
+    {
+     "lang": "heb",
+     "text": "כוי"
+    },
+    {
+     "lang": "deu",
+     "text": " identisch sein. Freilich müßte man\nauf die Angabe des Plinius, daß das Thier nur an einem bestimm-\nten Orte vorhanden ist, kein großes Gewicht legen, um so weniger\nals Voigt (ibid.) den oben erwähnten, überall vorhandenen Brand-\nhirsch ebenfalls "
+    },
+    {
+     "lang": "lat",
+     "text": "Tragelaphos"
+    },
+    {
+     "lang": "deu",
+     "text": " nennt; übrigens konnte ja der den Al-\nten bekannte "
+    },
+    {
+     "lang": "lat",
+     "text": "Tragelaphos"
+    },
+    {
+     "lang": "deu",
+     "text": " später sich auch anderswohin verpflanzt\nhaben und an manchen Orten sogar in Heerden aufgezogen worden"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Rappoport (Kerem Chemed 4. Bd. S. 224) liest כְּוִי, gebildet von\nכְּוִיָּה, wie von צבי von צביה u. a. m., und übersetzt es durch: „Müttermahl“,\nd. h., das am Zeichen erkennbare Thier.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Rappoport (Kerem Chemed 4. Bd. S. 224) liest "
+    },
+    {
+     "lang": "heb",
+     "text": "כְּוִי"
+    },
+    {
+     "lang": "deu",
+     "text": ", gebildet von\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כְּוִיָּה"
+    },
+    {
+     "lang": "deu",
+     "text": ", wie von "
+    },
+    {
+     "lang": "heb",
+     "text": "צבי"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "heb",
+     "text": "צביה"
+    },
+    {
+     "lang": "deu",
+     "text": " u. a. m., und übersetzt es durch: „Müttermahl“,\nd. h., das am Zeichen erkennbare Thier."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3296,
+    2041
+   ],
+   [
+    3296,
+    2995
+   ]
+  ],
+  "input_tokens": 11358,
+  "output_tokens": 1768,
+  "cost_usd": 0.0404,
+  "seconds": 15.3
+ }
+}

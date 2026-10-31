@@ -1,0 +1,197 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Eier. 11",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eier. 11"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "gangbaren Glauben als den seinigen adoptirte, während er bei den-\njenigen Hausthieren, deren Begattung leicht beobachtet werden kann\nund beobachtet zu werden pflegt, in der That richtige Angaben macht.\nSo giebt er an, daß reines Kleinvieh 5 Monate, großes 9 Monate\nund großes unreines Vieh 12 Monate trächtig gehe*). Hiermit\nvgl. man Aristoteles (l. c. 6, 19, 1): Das Schaf und die Ziege tra-\ngen 5 Monate; ferner (ibid. 6, 22, 1): Die Stute trägt 11 Monat,\nmit dem zwölften wirft sie. Hingegen kann die allgemeine tal-\nmudische Bestimmung wiederum nicht auf das Kameel passen, da es\nnach Aristot. (ibid. 5, 12, 13) fünf Monate trägt. — Das mensch-\nliche Weib trägt 9 Monate (Nidda 31, a) oder 271 Tage (ibid. 38, b\nnach dem Zahlenwerth des Wortes הריון); in manchen Gegenden trägt\nes in der Regel nur 7 Monate (Jebamoth 37, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "gangbaren Glauben als den seinigen adoptirte, während er bei den-\njenigen Hausthieren, deren Begattung leicht beobachtet werden kann\nund beobachtet zu werden pflegt, in der That richtige Angaben macht.\nSo giebt er an, daß reines Kleinvieh 5 Monate, großes 9 Monate\nund großes unreines Vieh 12 Monate trächtig gehe*). Hiermit\nvgl. man Aristoteles (l. c. 6, 19, 1): Das Schaf und die Ziege tra-\ngen 5 Monate; ferner (ibid. 6, 22, 1): Die Stute trägt 11 Monat,\nmit dem zwölften wirft sie. Hingegen kann die allgemeine tal-\nmudische Bestimmung wiederum nicht auf das Kameel passen, da es\nnach Aristot. (ibid. 5, 12, 13) fünf Monate trägt. — Das mensch-\nliche Weib trägt 9 Monate (Nidda 31, a) oder 271 Tage (ibid. 38, b\nnach dem Zahlenwerth des Wortes "
+    },
+    {
+     "lang": "heb",
+     "text": "הריון"
+    },
+    {
+     "lang": "deu",
+     "text": "); in manchen Gegenden trägt\nes in der Regel nur 7 Monate (Jebamoth 37, a)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 18.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 18."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Eier. Die Eier der reinen Vögel (§. 23) sind von denen der\nunreinen, und die Eier beider Arten von denen der Amphibien auf\nfolgende Weise verschieden. Die Eier reiner Vögel sind an einem\nEnde stumpf (כד, Raschi: פלטא, platt), am andern mehr spitz zulau-\nfend. Ferner umgiebt bei ihnen das Eiweiß (חלבון, R. אלבון, album)\nden Dotter (חלמון**), R.: מויל, moyeu), bei den unreinen Vögeln\nhingegen sind die Eier an beiden Enden entweder stumpf (rund), oder\nspitz, sowie bei ihnen (zuweilen) die erste flüssige Schichte im Ei gelb\nund das Innere des Eies weiß ist (Chulin 64, a). Das erstere Mo-\nment der äußern Gestaltung bestimmt indessen nicht endgültig über\ndie Reinheit oder Unreinheit des Vogels (ibid.). Den gedachten Un-\nterschied machte man auch im Betreff der Fische. Der Rogenstock der\nreinen Fische ist an den Enden stumpf und spitz, der der unreinen an\nbeiden Enden stumpf oder spitz (ibid.). — Die Eier der Amphibien\nhaben keine gesonderten Dotter und Weiß, sondern haben dieselben\nuntereinander gemischt (ibid.). Die letztere Angabe scheint nicht völlig",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eier. Die Eier der reinen Vögel (§. 23) sind von denen der\nunreinen, und die Eier beider Arten von denen der Amphibien auf\nfolgende Weise verschieden. Die Eier reiner Vögel sind an einem\nEnde stumpf ("
+    },
+    {
+     "lang": "heb",
+     "text": "כד"
+    },
+    {
+     "lang": "deu",
+     "text": ", Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "פלטא"
+    },
+    {
+     "lang": "deu",
+     "text": ", platt), am andern mehr spitz zulau-\nfend. Ferner umgiebt bei ihnen das Eiweiß ("
+    },
+    {
+     "lang": "heb",
+     "text": "חלבון"
+    },
+    {
+     "lang": "deu",
+     "text": ", R. "
+    },
+    {
+     "lang": "heb",
+     "text": "אלבון"
+    },
+    {
+     "lang": "deu",
+     "text": ", album)\nden Dotter ("
+    },
+    {
+     "lang": "heb",
+     "text": "חלמון"
+    },
+    {
+     "lang": "deu",
+     "text": "**), R.: "
+    },
+    {
+     "lang": "heb",
+     "text": "מויל"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "moyeu"
+    },
+    {
+     "lang": "deu",
+     "text": "), bei den unreinen Vögeln\nhingegen sind die Eier an beiden Enden entweder stumpf (rund), oder\nspitz, sowie bei ihnen (zuweilen) die erste flüssige Schichte im Ei gelb\nund das Innere des Eies weiß ist (Chulin 64, a). Das erstere Mo-\nment der äußern Gestaltung bestimmt indessen nicht endgültig über\ndie Reinheit oder Unreinheit des Vogels (ibid.). Den gedachten Un-\nterschied machte man auch im Betreff der Fische. Der Rogenstock der\nreinen Fische ist an den Enden stumpf und spitz, der der unreinen an\nbeiden Enden stumpf oder spitz (ibid.). — Die Eier der Amphibien\nhaben keine gesonderten Dotter und Weiß, sondern haben dieselben\nuntereinander gemischt (ibid.). Die letztere Angabe scheint nicht völlig"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "andern Widerspruch aufmerksam gemacht. Aristoteles (l. c. 6, 4, 3) sagt vom\nRebhuhn, daß es über 60 (!) Jahre leben kann; dahingegen (ibid. 9, 8, 4), daß\nes gegen 15 Jahre lebe; es ist somit hier eine Textemendation nöthig.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "andern Widerspruch aufmerksam gemacht. Aristoteles (l. c. 6, 4, 3) sagt vom\nRebhuhn, daß es über 60 (!) Jahre leben kann; dahingegen (ibid. 9, 8, 4), daß\nes gegen 15 Jahre lebe; es ist somit hier eine Textemendation nöthig."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Nach dem jerus. Talm. (Nidda C. 1, fol. 49, b), ausführlicher in den\nTosephot (Bechoroth 21, a, s. v. חנא) mitgetheilt, wird folgender Unterschied\ngemacht: Reines Vieh kann zuweilen schon beim Beginn des fünften Monats\n(למקוטעין) werfen, unreines Vieh und reine Thiere tragen voll.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nach dem jerus. Talm. (Nidda C. 1, fol. 49, b), ausführlicher in den\nTosephot (Bechoroth 21, a, s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "חנא"
+    },
+    {
+     "lang": "deu",
+     "text": ") mitgetheilt, wird folgender Unterschied\ngemacht: Reines Vieh kann zuweilen schon beim Beginn des fünften Monats\n("
+    },
+    {
+     "lang": "heb",
+     "text": "למקוטעין"
+    },
+    {
+     "lang": "deu",
+     "text": ") werfen, unreines Vieh und reine Thiere tragen voll."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Oder הלמון; s. Kerem Chemed 6. Bd., S. 14 ff.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Oder "
+    },
+    {
+     "lang": "heb",
+     "text": "הלמון"
+    },
+    {
+     "lang": "deu",
+     "text": "; s. Kerem Chemed 6. Bd., S. 14 ff."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3256,
+    2094
+   ],
+   [
+    3256,
+    2978
+   ]
+  ],
+  "input_tokens": 11336,
+  "output_tokens": 1860,
+  "cost_usd": 0.0825,
+  "seconds": 24.8
+ }
+}

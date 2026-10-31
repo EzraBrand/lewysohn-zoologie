@@ -1,0 +1,369 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der wilde Esel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der wilde Esel."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "143",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "143"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "die in Rede stehenden Esel mit den Asinis silvestribus identisch zu\nsein, von welchen Plinius (h. n. 8, 30, 46) berichtet, daß Afrika eine\nMenge dieser Esel besitzt. Einige pflegen die Männchen dieser Gat-\ntung ihren Eselsheerden beizugeben, es sind somit schon halbgezähmte\nEsel, die sich leicht domesticiren lassen, und welche, wie oben erwähnt,\nvon Einigen für unsere לוברוקים genommen werden; man könnte da-\nher לוברוקים auch mit „Waldesel“ übersetzen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "die in Rede stehenden Esel mit den "
+    },
+    {
+     "lang": "lat",
+     "text": "Asinis silvestribus"
+    },
+    {
+     "lang": "deu",
+     "text": " identisch zu\nsein, von welchen Plinius (h. n. 8, 30, 46) berichtet, daß Afrika eine\nMenge dieser Esel besitzt. Einige pflegen die Männchen dieser Gat-\ntung ihren Eselsheerden beizugeben, es sind somit schon halbgezähmte\nEsel, die sich leicht domesticiren lassen, und welche, wie oben erwähnt,\nvon Einigen für unsere "
+    },
+    {
+     "lang": "arc",
+     "text": "לוברוקים"
+    },
+    {
+     "lang": "deu",
+     "text": " genommen werden; man könnte da-\nher "
+    },
+    {
+     "lang": "arc",
+     "text": "לוברוקים"
+    },
+    {
+     "lang": "deu",
+     "text": " auch mit „Waldesel“ übersetzen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 167.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 167."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der wilde Esel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der wilde Esel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "ערוד (Kilajim 1, 6; Aruch liest auch ארוד), pl. ערודי (A. Sara\n16, b), fem. ערודיאות (Menachoth 103, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ערוד"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kilajim 1, 6; Aruch liest auch "
+    },
+    {
+     "lang": "heb",
+     "text": "ארוד"
+    },
+    {
+     "lang": "deu",
+     "text": "), pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "ערודי"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara\n16, b), fem. "
+    },
+    {
+     "lang": "heb",
+     "text": "ערודיאות"
+    },
+    {
+     "lang": "deu",
+     "text": " (Menachoth 103, b)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Er ist im Ganzen dem zahmen Esel ähnlich (Kilajim 1, 6), doch\nist er mehr silberfarbig, größer und schöner (Voigt, l. c. 1, S. 444).\nEr gehört in ritueller Beziehung zum Thiergeschlecht (Kilajim 8, 6\nund ob. §. 19) und ist das einzige Thier, dessen Fleisch unter dem\nHüftknochen (אנקא, Hanche) sowohl der Länge als auch der Breite\nnach sich zerreißen läßt (Chulin 59, a). Man bediente sich seiner\nzum Getreidemahlen (A. Sara 16, b*) und sein Fleisch diente zur\nFütterung der Löwen in der Menagerie der Könige (Menachoth 103,\nb). Er lebt von Cerealien, und deshalb machte man Schutzzäune\num die Felder und ließ außerhalb derselben einiges Getreide wachsen,\nauf daß das Thier in die Felder nicht eindringe (B. batra 36, a**).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Er ist im Ganzen dem zahmen Esel ähnlich (Kilajim 1, 6), doch\nist er mehr silberfarbig, größer und schöner (Voigt, l. c. 1, S. 444).\nEr gehört in ritueller Beziehung zum Thiergeschlecht (Kilajim 8, 6\nund ob. §. 19) und ist das einzige Thier, dessen Fleisch unter dem\nHüftknochen ("
+    },
+    {
+     "lang": "arc",
+     "text": "אנקא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Hanche) sowohl der Länge als auch der Breite\nnach sich zerreißen läßt (Chulin 59, a). Man bediente sich seiner\nzum Getreidemahlen (A. Sara 16, b*) und sein Fleisch diente zur\nFütterung der Löwen in der Menagerie der Könige (Menachoth 103,\nb). Er lebt von Cerealien, und deshalb machte man Schutzzäune\num die Felder und ließ außerhalb derselben einiges Getreide wachsen,\nauf daß das Thier in die Felder nicht eindringe (B. batra 36, a**)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Dahingegen wird im Jozar zu Sabbat-Sachor s. v. זכור איש אשר\nיושב נגב בלי עול\nder Stamm des amalekitischen Bergvolkes mit den Worten: כערוד „der Südbewohner ununterjocht wie der Arod“ bezeichnet. Hier wird\nwahrscheinlich auf Rosch ha-Schana 3, a angespielt, wo der Kananiter ערוד\nבמדבר heißt; letzterer Ausdruck ist so viel wie חמור הבר „wilder Esel“.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dahingegen wird im Jozar zu Sabbat-Sachor s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "זכור איש אשר\nיושב נגב בלי עול"
+    },
+    {
+     "lang": "deu",
+     "text": "\nder Stamm des amalekitischen Bergvolkes mit den Worten: "
+    },
+    {
+     "lang": "heb",
+     "text": "כערוד"
+    },
+    {
+     "lang": "deu",
+     "text": " „der Südbewohner ununterjocht wie der Arod“ bezeichnet. Hier wird\nwahrscheinlich auf Rosch ha-Schana 3, a angespielt, wo der Kananiter "
+    },
+    {
+     "lang": "heb",
+     "text": "ערוד\nבמדבר"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt; letzterer Ausdruck ist so viel wie "
+    },
+    {
+     "lang": "heb",
+     "text": "חמור הבר"
+    },
+    {
+     "lang": "deu",
+     "text": " „wilder Esel“."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Ich erlaube mir an dieser Stelle folgende Vermuthung zu äußern.\nDie Worte des Targums zu Spr. Salom. 27, 22, welche in der Baseler Aus-\ngabe der מקראות גדולות fälschlich בגו סיעתא ובאורדך lauten und בגו סיעתא\nובאורדך heißen müssen, werden verschieden erklärt. Landau (s. v. ארדך) er-\nklärt das letzte Wort durch ארוד „Waldesel“, der zum Mahlen gebraucht wurde;\nSalomon Buber (in dem מגד ירחים 1. Heft. S. 48) liest אסיתא (Mörser)\nfür סיעתא und ובמרוך (Stößel) für ובאורדך. — Es fragt sich aber, wie das\nו-copulativum zu erklären ist, da im Texte בעלי und nicht ובעלי steht? Ich\nglaube, daß das ו zu סיעתא gehört, ist aber aus ך-finale corrumpirt und zum\nfolgenden Wort gezogen worden. Ich möchte lesen בגו סיעתאן באור דך. Das\nzweite Wort ist das gr. Σείσων, ein Gefäß, das über das Feuer gestellt wird,",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ich erlaube mir an dieser Stelle folgende Vermuthung zu äußern.\nDie Worte des Targums zu Spr. Salom. 27, 22, welche in der Baseler Aus-\ngabe der "
+    },
+    {
+     "lang": "heb",
+     "text": "מקראות גדולות"
+    },
+    {
+     "lang": "deu",
+     "text": " fälschlich "
+    },
+    {
+     "lang": "arc",
+     "text": "בגו סיעתא ובאורדך"
+    },
+    {
+     "lang": "deu",
+     "text": " lauten und "
+    },
+    {
+     "lang": "arc",
+     "text": "בגו סיעתא\nובאורדך"
+    },
+    {
+     "lang": "deu",
+     "text": " heißen müssen, werden verschieden erklärt. Landau (s. v. "
+    },
+    {
+     "lang": "arc",
+     "text": "ארדך"
+    },
+    {
+     "lang": "deu",
+     "text": ") er-\nklärt das letzte Wort durch "
+    },
+    {
+     "lang": "arc",
+     "text": "ארוד"
+    },
+    {
+     "lang": "deu",
+     "text": " „Waldesel“, der zum Mahlen gebraucht wurde;\nSalomon Buber (in dem "
+    },
+    {
+     "lang": "heb",
+     "text": "מגד ירחים"
+    },
+    {
+     "lang": "deu",
+     "text": " 1. Heft. S. 48) liest "
+    },
+    {
+     "lang": "arc",
+     "text": "אסיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Mörser)\nfür "
+    },
+    {
+     "lang": "arc",
+     "text": "סיעתא"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "arc",
+     "text": "ובמרוך"
+    },
+    {
+     "lang": "deu",
+     "text": " (Stößel) für "
+    },
+    {
+     "lang": "arc",
+     "text": "ובאורדך"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Es fragt sich aber, wie das\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ו"
+    },
+    {
+     "lang": "deu",
+     "text": "-copulativum zu erklären ist, da im Texte "
+    },
+    {
+     "lang": "arc",
+     "text": "בעלי"
+    },
+    {
+     "lang": "deu",
+     "text": " und nicht "
+    },
+    {
+     "lang": "arc",
+     "text": "ובעלי"
+    },
+    {
+     "lang": "deu",
+     "text": " steht? Ich\nglaube, daß das "
+    },
+    {
+     "lang": "heb",
+     "text": "ו"
+    },
+    {
+     "lang": "deu",
+     "text": " zu "
+    },
+    {
+     "lang": "arc",
+     "text": "סיעתא"
+    },
+    {
+     "lang": "deu",
+     "text": " gehört, ist aber aus "
+    },
+    {
+     "lang": "heb",
+     "text": "ך"
+    },
+    {
+     "lang": "deu",
+     "text": "-finale corrumpirt und zum\nfolgenden Wort gezogen worden. Ich möchte lesen "
+    },
+    {
+     "lang": "arc",
+     "text": "בגו סיעתאן באור דך"
+    },
+    {
+     "lang": "deu",
+     "text": ". Das\nzweite Wort ist das gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Σείσων"
+    },
+    {
+     "lang": "deu",
+     "text": ", ein Gefäß, das über das Feuer gestellt wird,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2178
+   ],
+   [
+    3308,
+    2858
+   ]
+  ],
+  "input_tokens": 11350,
+  "output_tokens": 2486,
+  "cost_usd": 0.0476,
+  "seconds": 16.5
+ }
+}

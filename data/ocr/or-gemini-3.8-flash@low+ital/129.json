@@ -1,0 +1,545 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Das Rind.\t129",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Rind.\t129"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "שור הבר (Mos. Iserels zu Jore Dea §. 28, 4), was aber mit Recht von\nAlexander Schor (תבואות שור ib. §. 28, 6) zurückgewiesen wird, da\nשור הבר nur der Auerochs ist; der Zusatz בר paßt um so weniger auf\nden Büffel, da er nicht, wie der Auerochs, auswärts lebt, sondern\nin Stallungen wie anderes Vieh gehalten wird. — Andere benennen\nden Büffel sogar mit dem bibl. מריא (Karo zu Tur Jore Dea §. 28*),\nnoch Andere nennen ihn תור (Taurus) und דובייא (Lorje bei Alexander\nSchor ibid.). Man sieht hieraus, daß der Büffel ursprünglich keinen\nunterscheidenden Namen hatte, und wir möchten fast behaupten, daß\ner den Talmudisten völlig unbekannt war, denn Bechoroth 8, a wird\nbei der speciellen Angabe der Tragzeit vieler Thiere die allgemeine\nBehauptung aufgestellt, daß das große Viehgeschlecht (בהמה גסה)\nneun Monate trächtig gehe, während gerade die Kuh des Büffels\neilf Monate trägt (Voigt l. c. 1. S. 429), was der Talmud gewiß\nnicht verschwiegen hätte, wenn ihm der Büffel bekannt gewesen wäre.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "שור הבר"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Mos. Iserels zu Jore Dea §. 28, 4"
+    },
+    {
+     "lang": "deu",
+     "text": "), was aber mit Recht von\nAlexander Schor ("
+    },
+    {
+     "lang": "heb",
+     "text": "תבואות שור"
+    },
+    {
+     "lang": "lat",
+     "text": " ib. §. 28, 6"
+    },
+    {
+     "lang": "deu",
+     "text": ") zurückgewiesen wird, da\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שור הבר"
+    },
+    {
+     "lang": "deu",
+     "text": " nur der Auerochs ist; der Zusatz "
+    },
+    {
+     "lang": "heb",
+     "text": "בר"
+    },
+    {
+     "lang": "deu",
+     "text": " paßt um so weniger auf\nden Büffel, da er nicht, wie der Auerochs, auswärts lebt, sondern\nin Stallungen wie anderes Vieh gehalten wird. — Andere benennen\nden Büffel sogar mit dem bibl. "
+    },
+    {
+     "lang": "heb",
+     "text": "מריא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Karo zu Tur Jore Dea §. 28*"
+    },
+    {
+     "lang": "deu",
+     "text": "),\nnoch Andere nennen ihn "
+    },
+    {
+     "lang": "heb",
+     "text": "תור"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Taurus"
+    },
+    {
+     "lang": "deu",
+     "text": ") und "
+    },
+    {
+     "lang": "heb",
+     "text": "דובייא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Lorje bei Alexander\nSchor ibid."
+    },
+    {
+     "lang": "deu",
+     "text": "). Man sieht hieraus, daß der Büffel ursprünglich keinen\nunterscheidenden Namen hatte, und wir möchten fast behaupten, daß\ner den Talmudisten völlig unbekannt war, denn "
+    },
+    {
+     "lang": "lat",
+     "text": "Bechoroth 8, a"
+    },
+    {
+     "lang": "deu",
+     "text": " wird\nbei der speciellen Angabe der Tragzeit vieler Thiere die allgemeine\nBehauptung aufgestellt, daß das große Viehgeschlecht ("
+    },
+    {
+     "lang": "heb",
+     "text": "בהמה גסה"
+    },
+    {
+     "lang": "deu",
+     "text": ")\nneun Monate trächtig gehe, während gerade die Kuh des Büffels\neilf Monate trägt ("
+    },
+    {
+     "lang": "lat",
+     "text": "Voigt l. c. 1. S. 429"
+    },
+    {
+     "lang": "deu",
+     "text": "), was der Talmud gewiß\nnicht verschwiegen hätte, wenn ihm der Büffel bekannt gewesen wäre."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 160.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 160."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Das Rind.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Rind."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Masc. שור und תור (Taurus, Sanhedrin 18, b), pl. שוורים (B.\nKama 14, a), und תורים (ibid. 37, a). — Fem. פרה, pl. פרות (Para\n1, 1). — Das saugende Kalb: עגל הרך (Chulin 122, a), alsdann\nim ersten Jahr: עגלה und עגל (Para ib.) im zweiten Jahr: עגלת בקר\n(ibid.). — Das drittgeborene Kalb heißt: עגלא תילתא (Sabbat 11, a**).\n— Der Fechtstier heißt: שור האיצטדין (B. Kama 39, a) und der von\nseinem Herrn als Freigut (הפקר) erklärte Ochs: שיר המדבר (ibid.\n44, b), was übrigens nur in polizeilicher Strafbestimmung von Gel-\ntung ist.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Masc."
+    },
+    {
+     "lang": "heb",
+     "text": " שור"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "תור"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Taurus, Sanhedrin 18, b"
+    },
+    {
+     "lang": "deu",
+     "text": "), "
+    },
+    {
+     "lang": "lat",
+     "text": "pl."
+    },
+    {
+     "lang": "heb",
+     "text": " שוורים"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "B.\nKama 14, a"
+    },
+    {
+     "lang": "deu",
+     "text": "), und "
+    },
+    {
+     "lang": "heb",
+     "text": "תורים"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid. 37, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). — "
+    },
+    {
+     "lang": "lat",
+     "text": "Fem."
+    },
+    {
+     "lang": "heb",
+     "text": " פרה"
+    },
+    {
+     "lang": "lat",
+     "text": ", pl."
+    },
+    {
+     "lang": "heb",
+     "text": " פרות"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Para\n1, 1"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Das saugende Kalb: "
+    },
+    {
+     "lang": "heb",
+     "text": "עגל הרך"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin 122, a"
+    },
+    {
+     "lang": "deu",
+     "text": "), alsdann\nim ersten Jahr: "
+    },
+    {
+     "lang": "heb",
+     "text": "עגלה"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "עגל"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Para ib."
+    },
+    {
+     "lang": "deu",
+     "text": ") im zweiten Jahr: "
+    },
+    {
+     "lang": "heb",
+     "text": "עגלת בקר"
+    },
+    {
+     "lang": "deu",
+     "text": "\n("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid."
+    },
+    {
+     "lang": "deu",
+     "text": "). — Das drittgeborene Kalb heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "עגלא תילתא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat 11, a**"
+    },
+    {
+     "lang": "deu",
+     "text": ").\n— Der Fechtstier heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "שור האיצטדין"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "B. Kama 39, a"
+    },
+    {
+     "lang": "deu",
+     "text": ") und der von\nseinem Herrn als Freigut ("
+    },
+    {
+     "lang": "heb",
+     "text": "הפקר"
+    },
+    {
+     "lang": "deu",
+     "text": ") erklärte Ochs: "
+    },
+    {
+     "lang": "heb",
+     "text": "שיר המדבר"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid.\n44, b"
+    },
+    {
+     "lang": "deu",
+     "text": "), was übrigens nur in polizeilicher Strafbestimmung von Gel-\ntung ist."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Das Kalb bringt die Klauen mit zur Welt (Chulin 60, a), und\nsein Schwanz reicht sogleich bis an das Fußgelenk (Bechoroth 40, b),\nder aber sich später verlängert und weiter abwärts sich ausdehnt\n(ibid.). Der lange Schwanz dient alsdann dem Thiere, die Stech-\nfliegen, von welchen es namentlich auf der Weide belästigt wird, ab-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Kalb bringt die Klauen mit zur Welt ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin 60, a"
+    },
+    {
+     "lang": "deu",
+     "text": "), und\nsein Schwanz reicht sogleich bis an das Fußgelenk ("
+    },
+    {
+     "lang": "lat",
+     "text": "Bechoroth 40, b"
+    },
+    {
+     "lang": "deu",
+     "text": "),\nder aber sich später verlängert und weiter abwärts sich ausdehnt\n("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid."
+    },
+    {
+     "lang": "deu",
+     "text": "). Der lange Schwanz dient alsdann dem Thiere, die Stech-\nfliegen, von welchen es namentlich auf der Weide belästigt wird, ab-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "מריא soll aus ראים transponirt sein (Jeiteles: Kerem Chemed\n3. Bd. S. 115).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "מריא"
+    },
+    {
+     "lang": "deu",
+     "text": " soll aus "
+    },
+    {
+     "lang": "heb",
+     "text": "ראים"
+    },
+    {
+     "lang": "deu",
+     "text": " transponirt sein ("
+    },
+    {
+     "lang": "lat",
+     "text": "Jeiteles: Kerem Chemed\n"
+    },
+    {
+     "lang": "deu",
+     "text": "3. Bd. S. 115)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Jonathan übersetzt עגלה משולשת (Gen. 15, 9) durch: עגלא ברת\nתלת שנין; dahingegen Num. 19, 2 das Viehstück schon mit dem zweiten\nJahre durch: חורתא, d. i., פרה. S. hierüber meinen Beitrag im L. Bl. d.\nOrients 1849. Nr. 24.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Jonathan"
+    },
+    {
+     "lang": "deu",
+     "text": " übersetzt "
+    },
+    {
+     "lang": "heb",
+     "text": "עגלה משולשת"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Gen. 15, 9"
+    },
+    {
+     "lang": "deu",
+     "text": ") durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "עגלא ברת\nתלת שנין"
+    },
+    {
+     "lang": "deu",
+     "text": "; dahingegen "
+    },
+    {
+     "lang": "lat",
+     "text": "Num. 19, 2"
+    },
+    {
+     "lang": "deu",
+     "text": " das Viehstück schon mit dem zweiten\nJahre durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "חורתא"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i., "
+    },
+    {
+     "lang": "heb",
+     "text": "פרה"
+    },
+    {
+     "lang": "deu",
+     "text": ". S. hierüber meinen Beitrag im L. Bl. d.\nOrients 1849. Nr. 24."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Zoologie des Talmuds.\t9",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zoologie des Talmuds."
+    },
+    {
+     "lang": "other",
+     "text": "\t9"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2350
+   ],
+   [
+    3308,
+    2878
+   ]
+  ],
+  "input_tokens": 3342,
+  "output_tokens": 1760,
+  "cost_usd": 0.0091,
+  "seconds": 13.6
+ }
+}

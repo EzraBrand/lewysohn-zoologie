@@ -1,0 +1,273 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Insecten. — Die Würmer. — Zoophyten.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Insecten. — Die Würmer. — Zoophyten."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "5",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "5"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "(Nidda 25, b). Das biblische דגה bezeichnet Wasserthiere über-\nhaupt (s. Ibn Esra zu Exod. 7, 18), das talmudische gleiche Wort\nbezeichnet jedoch nur das Fischgeschlecht, und zwar sowohl große wie\nkleine Fische (s. Nedarim 51, b*). Einige Fischarten hatten Orts-\nnamen, vgl. §. 310.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "(Nidda 25, b). Das biblische "
+    },
+    {
+     "lang": "heb",
+     "text": "דגה"
+    },
+    {
+     "lang": "deu",
+     "text": " bezeichnet Wasserthiere über-\nhaupt (s. Ibn Esra zu Exod. 7, 18), das talmudische gleiche Wort\nbezeichnet jedoch nur das Fischgeschlecht, und zwar sowohl große wie\nkleine Fische (s. Nedarim 51, b*). Einige Fischarten hatten Orts-\nnamen, vgl. §. 310."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 8.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 8."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Insecten. Genereller Name für Insecten ist שרץ „Wim-\nmelndes“ und man unterschied שרץ ארץ „Landinsect“, שרץ מים „Wasser-\ninsect“ und שרץ עוף „geflügeltes Insect“ (Pesachim 24, a). Mai-\nmuni (Maachaloth Asuroth Cap. 2, §. 12 ff.) macht folgenden Unter-\nschied: שרץ המים sind alle nicht zum Fischgeschlecht gehörende, aber\nim Wasser lebende Geschöpfe, z. B. Blutigel, Seehunde u. s. w.\nרמש על הארץ sind Helminthen und die aus Verwesung fremder Sub-\nstanzen entstehenden Würmer, z. B. Eingeweidewürmer, Mistkäfer u. s. w.,\nwährend שורץ על הארץ die durch Generatio propagativa, d. i. durch\nBegattung entstehende Geschöpfe bezeichnet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Insecten. Genereller Name für Insecten ist "
+    },
+    {
+     "lang": "heb",
+     "text": "שרץ"
+    },
+    {
+     "lang": "deu",
+     "text": " „Wim-\nmelndes“ und man unterschied "
+    },
+    {
+     "lang": "heb",
+     "text": "שרץ ארץ"
+    },
+    {
+     "lang": "deu",
+     "text": " „Landinsect“, "
+    },
+    {
+     "lang": "heb",
+     "text": "שרץ מים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Wasser-\ninsect“ und "
+    },
+    {
+     "lang": "heb",
+     "text": "שרץ עוף"
+    },
+    {
+     "lang": "deu",
+     "text": " „geflügeltes Insect“ (Pesachim 24, a). Mai-\nmuni (Maachaloth Asuroth Cap. 2, §. 12 ff.) macht folgenden Unter-\nschied: "
+    },
+    {
+     "lang": "heb",
+     "text": "שרץ המים"
+    },
+    {
+     "lang": "deu",
+     "text": " sind alle nicht zum Fischgeschlecht gehörende, aber\nim Wasser lebende Geschöpfe, z. B. Blutigel, Seehunde u. s. w.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "רמש על הארץ"
+    },
+    {
+     "lang": "deu",
+     "text": " sind Helminthen und die aus Verwesung fremder Sub-\nstanzen entstehenden Würmer, z. B. Eingeweidewürmer, Mistkäfer u. s. w.,\nwährend "
+    },
+    {
+     "lang": "heb",
+     "text": "שורץ על הארץ"
+    },
+    {
+     "lang": "deu",
+     "text": " die durch "
+    },
+    {
+     "lang": "lat",
+     "text": "Generatio propagativa"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i. durch\nBegattung entstehende Geschöpfe bezeichnet."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 9.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 9."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Würmer. Der Talmud kennt nicht bloß eine Anzahl der\näußerlich vorhandenen Würmer, sondern auch eine ziemliche Anzahl\nvon Helminthen, sowohl im Innern des menschlichen, als auch in dem\neines andern thierischen Körpers, worüber §. 471 — 488 dieses Werkes\ngehandelt werden wird. — Generelle Namen sind: רמש „Wimmeln-\ndes“ (Nidda 21, a), הולע (Aboth 3, 1) und רמה (ibid.); über ריחשא\ns. §. 475.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Würmer. Der Talmud kennt nicht bloß eine Anzahl der\näußerlich vorhandenen Würmer, sondern auch eine ziemliche Anzahl\nvon Helminthen, sowohl im Innern des menschlichen, als auch in dem\neines andern thierischen Körpers, worüber §. 471 — 488 dieses Werkes\ngehandelt werden wird. — Generelle Namen sind: "
+    },
+    {
+     "lang": "heb",
+     "text": "רמש"
+    },
+    {
+     "lang": "deu",
+     "text": " „Wimmeln-\ndes“ (Nidda 21, a), "
+    },
+    {
+     "lang": "heb",
+     "text": "הולע"
+    },
+    {
+     "lang": "deu",
+     "text": " (Aboth 3, 1) und "
+    },
+    {
+     "lang": "heb",
+     "text": "רמה"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid.); über "
+    },
+    {
+     "lang": "arc",
+     "text": "ריחשא"
+    },
+    {
+     "lang": "deu",
+     "text": "\ns. §. 475."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 10.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 10."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Zoophyten. Der Talmud kennt allerdings die drei Schwamm-\narten (§. 488 ff.), sowie das Korall (§. 493), doch nicht als leben-\ndige Wesen; er betrachtet sie als Pflanzen; doch gedenkt er der Erd-\nmaus (§. 494) und eines andern, aber fabelhaften Zoophyten (§. 506).\nVon den Polypen kommt im Talmud nichts vor. — Gelegentlich\nsei hier bemerkt, daß einige Thierspecies dem Talmud zwar bekannt,\ndoch in ihm als Thiere nicht erwähnt sind, so wird vom Bisamthier\n(§. 150) bloß der Moschus, von dem Seenagel (§. 513) bloß die Mu-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zoophyten. Der Talmud kennt allerdings die drei Schwamm-\narten (§. 488 ff.), sowie das Korall (§. 493), doch nicht als leben-\ndige Wesen; er betrachtet sie als Pflanzen; doch gedenkt er der Erd-\nmaus (§. 494) und eines andern, aber fabelhaften Zoophyten (§. 506).\nVon den Polypen kommt im Talmud nichts vor. — Gelegentlich\nsei hier bemerkt, daß einige Thierspecies dem Talmud zwar bekannt,\ndoch in ihm als Thiere nicht erwähnt sind, so wird vom Bisamthier\n(§. 150) bloß der Moschus, von dem Seenagel (§. 513) bloß die Mu-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Im jerusalem. Talm. bezeichnet דגה jedoch nur die kleine Fischart כולכיד,\nvgl. den Anhang; und im Midr. (Rabba Bereschit fol. 39, b) bezeichnet דגה\nden weiblichen Fisch.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Im jerusalem. Talm. bezeichnet "
+    },
+    {
+     "lang": "heb",
+     "text": "דגה"
+    },
+    {
+     "lang": "deu",
+     "text": " jedoch nur die kleine Fischart "
+    },
+    {
+     "lang": "heb",
+     "text": "כולכיד"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nvgl. den Anhang; und im Midr. (Rabba Bereschit fol. 39, b) bezeichnet "
+    },
+    {
+     "lang": "heb",
+     "text": "דגה"
+    },
+    {
+     "lang": "deu",
+     "text": "\nden weiblichen Fisch."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3272,
+    2292
+   ],
+   [
+    3272,
+    2940
+   ]
+  ],
+  "input_tokens": 11355,
+  "output_tokens": 1942,
+  "cost_usd": 0.0843,
+  "seconds": 26.0
+ }
+}

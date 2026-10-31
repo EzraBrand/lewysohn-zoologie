@@ -1,0 +1,129 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "96\tDas Frettchen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "96\tDas Frettchen."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "klärung ist sehr ungenügend, er sagt bloß, daß das חלא אילן ein unrei-\nnes, d. h., zu essen unerlaubtes und mit Farben geflecktes Thier ist.\nAusführlicher lautet die Erklärung des Aruch, die wir wörtlich her-\nsetzen: חיה קטנה כדמות חתול ומרוקם הוא ויש בו גוונין הרבה וטמא הוא\nושמענו שמצויין הן במקומות שצדין בהם שפנים ובלשון ארמי שפקא ובלשון\nערבי זבזיב ובלשון יון חלא אילן, d. h., „ein kleines, geflecktes, der Katze\nähnliches, vielfarbiges, unreines Thier. Wir hörten, daß es an Or-\nten, in denen man Kaninchen fängt, häufig ist. Aramäisch heißt es\nשפקא, im Arabischen זבזיב (زَبْزَبٌ), im Griechischen חלא אילן.” —\nWas zuvörderst die fremden Namen betrifft, so bezeichnet der arabische\nallerdings ein Thier, das katzenähnlich und menschengefährlich ist;\nausführlich handelt hierüber Bochart (Hieroz. P. 1, cap. 30, col.\n987), dahingegen sei nach Bochart das aram. Wort nicht שפקא, son-\ndern פשקא zu lesen, da das syrische ܦܫܩܐ von einem buntgefleckten\nFelle gebraucht wird, was aber das Wort חלא אילן betrifft, so hält\nes Bochart gar nicht für griechisch, sondern hebräisch, woran er manche\nsehr gewagte und unwahrscheinliche Conjecturen knüpft. Wir werden\njedoch weiter unten den griechischen Ursprung jenes Namens nachzu-\nweisen versuchen. — Fassen wir für jetzt die nach der Erklärung des\nAruch gemachten naturhistorischen Angaben zusammen, so sind es\n1) die Kleinheit, 2) die Katzenähnlichkeit, 3) die Unreinheit, 4) die\nAbrichtung zum Kaninchenfang und 5) die Buntfarbigkeit des Thie-\nres. — So einleuchtend nun die vier ersten Eigenschaften des Thieres\ndas Frettchen, oder das wilde Wiesel erkennen lassen, so schwie-\nrig ist das Zurechtkommen mit der letzten Eigenschaft, denn gerade\nauf die Buntfarbigkeit, worin das Tachasch und das Tala Jlen sich\nähnlich sind, legt der Talmud das meiste Gewicht, und doch ist das\naus Afrika stammende wilde Wiesel gelblich, oder nach Andern hell-\ngelb, und nur der Schwanz ist schwarz, während seine Augen rosen-\nroth sind; das Fell hat also höchstens zwei verschiedene Farben; in-\ndessen sind die andern Eigenschaften so überwiegend für die Annahme\nvon Frettchen, daß man zu der Vermuthung sich berechtigt glauben\nmöchte, daß der Talmud entweder irrthümlich dasselbe als vielfarbig\nhielt, oder daß vielleicht wirklich eine derartige Abart des Frettchens\nvorhanden war, oder endlich, daß die Hauptfarben gelb und schwarz\nzu jenem Vergleiche mit dem Frettchen Veranlassung gaben. In der\nThat ist das Frettchen kleiner als der Iltis, wird von den Alten als",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "klärung ist sehr ungenügend, er sagt bloß, daß das "
+    },
+    {
+     "lang": "heb",
+     "text": "חלא אילן"
+    },
+    {
+     "lang": "deu",
+     "text": " ein unrei-\nnes, d. h., zu essen unerlaubtes und mit Farben geflecktes Thier ist.\nAusführlicher lautet die Erklärung des Aruch, die wir wörtlich her-\nsetzen: "
+    },
+    {
+     "lang": "heb",
+     "text": "חיה קטנה כדמות חתול ומרוקם הוא ויש בו גוונין הרבה וטמא הוא\nושמענו שמצויין הן במקומות שצדין בהם שפנים ובלשון ארמי שפקא ובלשון\nערבי זבזיב ובלשון יון חלא אילן"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. h., „ein kleines, geflecktes, der Katze\nähnliches, vielfarbiges, unreines Thier. Wir hörten, daß es an Or-\nten, in denen man Kaninchen fängt, häufig ist. Aramäisch heißt es\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שפקא"
+    },
+    {
+     "lang": "deu",
+     "text": ", im Arabischen "
+    },
+    {
+     "lang": "heb",
+     "text": "זבזיב"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "ara",
+     "text": "زَبْزَبٌ"
+    },
+    {
+     "lang": "deu",
+     "text": "), im Griechischen "
+    },
+    {
+     "lang": "heb",
+     "text": "חלא אילן"
+    },
+    {
+     "lang": "deu",
+     "text": ".” —\nWas zuvörderst die fremden Namen betrifft, so bezeichnet der arabische\nallerdings ein Thier, das katzenähnlich und menschengefährlich ist;\nausführlich handelt hierüber Bochart (Hieroz. P. 1, cap. 30, col.\n987), dahingegen sei nach Bochart das aram. Wort nicht "
+    },
+    {
+     "lang": "arc",
+     "text": "שפקא"
+    },
+    {
+     "lang": "deu",
+     "text": ", son-\ndern "
+    },
+    {
+     "lang": "arc",
+     "text": "פשקא"
+    },
+    {
+     "lang": "deu",
+     "text": " zu lesen, da das syrische "
+    },
+    {
+     "lang": "syc",
+     "text": "ܦܫܩܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " von einem buntgefleckten\nFelle gebraucht wird, was aber das Wort "
+    },
+    {
+     "lang": "heb",
+     "text": "חלא אילן"
+    },
+    {
+     "lang": "deu",
+     "text": " betrifft, so hält\nes Bochart gar nicht für griechisch, sondern hebräisch, woran er manche\nsehr gewagte und unwahrscheinliche Conjecturen knüpft. Wir werden\njedoch weiter unten den griechischen Ursprung jenes Namens nachzu-\nweisen versuchen. — Fassen wir für jetzt die nach der Erklärung des\nAruch gemachten naturhistorischen Angaben zusammen, so sind es\n1) die Kleinheit, 2) die Katzenähnlichkeit, 3) die Unreinheit, 4) die\nAbrichtung zum Kaninchenfang und 5) die Buntfarbigkeit des Thie-\nres. — So einleuchtend nun die vier ersten Eigenschaften des Thieres\ndas Frettchen, oder das wilde Wiesel erkennen lassen, so schwie-\nrig ist das Zurechtkommen mit der letzten Eigenschaft, denn gerade\nauf die Buntfarbigkeit, worin das Tachasch und das Tala Jlen sich\nähnlich sind, legt der Talmud das meiste Gewicht, und doch ist das\naus Afrika stammende wilde Wiesel gelblich, oder nach Andern hell-\ngelb, und nur der Schwanz ist schwarz, während seine Augen rosen-\nroth sind; das Fell hat also höchstens zwei verschiedene Farben; in-\ndessen sind die andern Eigenschaften so überwiegend für die Annahme\nvon Frettchen, daß man zu der Vermuthung sich berechtigt glauben\nmöchte, daß der Talmud entweder irrthümlich dasselbe als vielfarbig\nhielt, oder daß vielleicht wirklich eine derartige Abart des Frettchens\nvorhanden war, oder endlich, daß die Hauptfarben gelb und schwarz\nzu jenem Vergleiche mit dem Frettchen Veranlassung gaben. In der\nThat ist das Frettchen kleiner als der Iltis, wird von den Alten als"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3300,
+    2109
+   ],
+   [
+    3300,
+    2883
+   ]
+  ],
+  "input_tokens": 3316,
+  "output_tokens": 1330,
+  "cost_usd": 0.0075,
+  "seconds": 11.5
+ }
+}

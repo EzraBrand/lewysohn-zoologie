@@ -1,0 +1,293 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "126",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "126"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Waldziege. — Die Gazelle.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Waldziege. — Die Gazelle."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "sehr groß ist, ist entweder der Ziegenurin, oder wohl richtiger der\nbekannte Bockgestank gemeint. — Schließlich sei bemerkt, daß das\nBlut des Ziegenbockes an Farbe dem Menschenblut am ähnlichsten ist\n(Rabba Bereschit fol. 94, d).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "sehr groß ist, ist entweder der Ziegenurin, oder wohl richtiger der\nbekannte Bockgestank gemeint. — Schließlich sei bemerkt, daß das\nBlut des Ziegenbockes an Farbe dem Menschenblut am ähnlichsten ist\n(Rabba Bereschit fol. 94, d)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 156.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 156."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Waldziege.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Waldziege."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die vom Talmud erwähnte עוא דבאלא (Chulin 80, a) ist die\nWaldziege, bei Plinius: Capra silvestris genannt (h. n. 20, 13,\n51). Das Wort באלא, welches in unsrer Stelle auch mit חור (Ochs)\nverbunden ist, erklärt Raschi durch לבנון, d. i., der auf dem Liba-\nnongebirge befindliche Wald; Burdorf (Lex. p. 251) nimmt es\nfür einen Wald, der in Babylon sich befinden und באלא heißen soll,\noder als Wald schlechtweg. — Münster u. A. nehmen באלא, oder\nבלא ברא für ברא (auswärts; so hält Bochart [Hieroz. P. I, lib. 3, cap. 1,\ncol. 717] חורברא für „Waldochs“); nach allen diesen Erklä-\nrungen ist in unsrer Talmudstelle die Waldziege gemeint, welche\nneuere Zoologen die wilde Ziege nennen. Sie ist grau oder roth-\ngrau von Farbe, längs der Rückenlinie und am Schwanze schwarz.\nDas Weibchen hat keine Hörner. Sie lebt heerdenweise auf dem\nKaukasus, vielleicht auch auf den Alpen (Voigt l. c. 1. S. 414). —\nIm Talmud sind die Meinungen verschieden, ob sie zum Viehge-\nschlecht gehört und daher auch opferfähig sei, oder ob sie zum Thier-\ngeschlecht gezählt wird, und ihr Unschlitt daher zu genießen gestattet\nsei, vergl. §. 22 und S. 123, Anmerkung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die vom Talmud erwähnte "
+    },
+    {
+     "lang": "arc",
+     "text": "עוא דבאלא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 80, a) ist die\nWaldziege, bei Plinius: Capra silvestris genannt (h. n. 20, 13,\n51). Das Wort "
+    },
+    {
+     "lang": "arc",
+     "text": "באלא"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches in unsrer Stelle auch mit "
+    },
+    {
+     "lang": "heb",
+     "text": "חור"
+    },
+    {
+     "lang": "deu",
+     "text": " (Ochs)\nverbunden ist, erklärt Raschi durch "
+    },
+    {
+     "lang": "heb",
+     "text": "לבנון"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i., der auf dem Liba-\nnongebirge befindliche Wald; Burdorf (Lex. p. 251) nimmt es\nfür einen Wald, der in Babylon sich befinden und "
+    },
+    {
+     "lang": "arc",
+     "text": "באלא"
+    },
+    {
+     "lang": "deu",
+     "text": " heißen soll,\noder als Wald schlechtweg. — Münster u. A. nehmen "
+    },
+    {
+     "lang": "arc",
+     "text": "באלא"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בלא ברא"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "arc",
+     "text": "ברא"
+    },
+    {
+     "lang": "deu",
+     "text": " (auswärts; so hält Bochart [Hieroz. P. I, lib. 3, cap. 1,\ncol. 717] "
+    },
+    {
+     "lang": "arc",
+     "text": "חורברא"
+    },
+    {
+     "lang": "deu",
+     "text": " für „Waldochs“); nach allen diesen Erklä-\nrungen ist in unsrer Talmudstelle die Waldziege gemeint, welche\nneuere Zoologen die wilde Ziege nennen. Sie ist grau oder roth-\ngrau von Farbe, längs der Rückenlinie und am Schwanze schwarz.\nDas Weibchen hat keine Hörner. Sie lebt heerdenweise auf dem\nKaukasus, vielleicht auch auf den Alpen (Voigt l. c. 1. S. 414). —\nIm Talmud sind die Meinungen verschieden, ob sie zum Viehge-\nschlecht gehört und daher auch opferfähig sei, oder ob sie zum Thier-\ngeschlecht gezählt wird, und ihr Unschlitt daher zu genießen gestattet\nsei, vergl. §. 22 und S. 123, Anmerkung."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 157.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 157."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Gazelle.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Gazelle."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "In der Talmudstelle (Chulin 59, b) wird einer עיוא כרכם „Ziege\nKerkus“ gedacht. Raschi liest: כרכות und Karo (zu Tur Jore Dea\n§. 80) durchgehends: כרכין. Am wahrscheinlichsten ist hier eine locale\nBeziehung angedeutet, nur wird כרכם wohl schwerlich mit Gewißheit\nzu bestimmen sein, es kann Kerkusia, Cercusium (bibl. כרכמיש*),\nJes. 10, 9), Circassien, Kirgisien, Χερχίς (Sachs: Beiträge u. s. w.\n2. Heft S. 100) bedeuten; s. auch Luzzatto zu Jes. ibid.; wir wer-\nden daher an den angegebenen naturhistorischen Momenten des Thie-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In der Talmudstelle (Chulin 59, b) wird einer "
+    },
+    {
+     "lang": "arc",
+     "text": "עיוא כרכם"
+    },
+    {
+     "lang": "deu",
+     "text": " „Ziege\nKerkus“ gedacht. Raschi liest: "
+    },
+    {
+     "lang": "heb",
+     "text": "כרכות"
+    },
+    {
+     "lang": "deu",
+     "text": " und Karo (zu Tur Jore Dea\n§. 80) durchgehends: "
+    },
+    {
+     "lang": "heb",
+     "text": "כרכין"
+    },
+    {
+     "lang": "deu",
+     "text": ". Am wahrscheinlichsten ist hier eine locale\nBeziehung angedeutet, nur wird "
+    },
+    {
+     "lang": "heb",
+     "text": "כרכם"
+    },
+    {
+     "lang": "deu",
+     "text": " wohl schwerlich mit Gewißheit\nzu bestimmen sein, es kann Kerkusia, Cercusium (bibl. "
+    },
+    {
+     "lang": "heb",
+     "text": "כרכמיש"
+    },
+    {
+     "lang": "deu",
+     "text": "*),\nJes. 10, 9), Circassien, Kirgisien, "
+    },
+    {
+     "lang": "grc",
+     "text": "Χερχίς"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sachs: Beiträge u. s. w.\n2. Heft S. 100) bedeuten; s. auch Luzzatto zu Jes. ibid.; wir wer-\nden daher an den angegebenen naturhistorischen Momenten des Thie-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "כרכמיש soll aus כרך „Stadt“ und dem Nom. pr. כמיש zusammengesetzt\nsein; s. jedoch über die Einschiebung des ם §. 394, Anm.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "כרכמיש"
+    },
+    {
+     "lang": "deu",
+     "text": " soll aus "
+    },
+    {
+     "lang": "heb",
+     "text": "כרך"
+    },
+    {
+     "lang": "deu",
+     "text": " „Stadt“ und dem Nom. pr. "
+    },
+    {
+     "lang": "heb",
+     "text": "כמיש"
+    },
+    {
+     "lang": "deu",
+     "text": " zusammengesetzt\nsein; s. jedoch über die Einschiebung des "
+    },
+    {
+     "lang": "heb",
+     "text": "ם"
+    },
+    {
+     "lang": "deu",
+     "text": " §. 394, Anm."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2159
+   ],
+   [
+    3308,
+    2945
+   ]
+  ],
+  "input_tokens": 11359,
+  "output_tokens": 2023,
+  "cost_usd": 0.0429,
+  "seconds": 15.6
+ }
+}

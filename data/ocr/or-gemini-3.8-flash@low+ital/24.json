@@ -1,0 +1,393 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "24\nSprachfähigkeit der Thiere.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "24\nSprachfähigkeit der Thiere."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "schieden sind im Talmud die Bezeichnungen der Thierstimmen, so\nheißt das Blöken der Schafe und das Brüllen der Rinder, wenn der\nLöwe in ihre Mitte eingedrungen: קרקר (Chulin ibid.), das Löwen-\ngebrüll: עוא (ibid.), sonst auch: שאג (Berachoth 3, a) und נהם\n(ibid. 32, a), wodurch die Modulationen der Löwenstimme ausgedrückt\nwerden, s. §. 114. — Das Eselsgeschrei: נער (Kiduschin 24, b),\ndas Pferdewiehern: צנף (ibid.), das Hundegeheul: צעק (Be-\nrachoth 3, a), das Bellen: נבח (B. Kama 83, a)*). — Das Brül-\nlen des Tigers: נהם (Chulin 59, b). — Das Stöhnen eines kran-\nken Ochsen: גנח (ibid. 51, b). — Das Pfeifen der Mäuse: צפצוף\n(jerus. Talm. Demai Cap. 1, fol. 22, a). — Das Gackern der Henne:\nעקעק oder קרקר (Kiduschin 31, a). — Das Geschrei der Kraniche:\nצווח (ibid. 44, a). — Das Zwitschern des Sperlings: פטפש (Era-\nchin 16, b). — Das Krähen des Hahnes: קרא (Sabbat 67, b;\nman merke den Gleichlaut des hebräischen und deutschen Wortes),\nebenso heißt das Geschrei des Raben (Sanhedrin 65, b), das aber\nauch durch צרח (Sabbat 67, b) ausgedrückt wird. Das Gekrächz\nder Raben heißt: קורקיר (B. batra 23, a) und die Stimme des weib-\nlichen Raben: שריקי (Sabbat 67, b). — Die Stimme des Erdgeiers:\nשרקרק (Chulin 63, a). — Das Zischen der Natter: לחש (Aboth\n2, 16), das der Schlange: נשף (Sabbat 121, b). Endlich heißt das\nQuaken der Frösche: שרק (Sanhedrin 67, b**). — Bemerkt wird,\ndaß der tolle Hund heiser ist und so leise bellt, daß man das Bellen\nnicht hört (Joma 83, b). Ueber das Girren (קירי) der Taube s.\n§. 39 Anm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "schieden sind im Talmud die Bezeichnungen der Thierstimmen, so\nheißt das Blöken der Schafe und das Brüllen der Rinder, wenn der\nLöwe in ihre Mitte eingedrungen: "
+    },
+    {
+     "lang": "heb",
+     "text": "קרקר"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin ibid.), das Löwen-\ngebrüll: "
+    },
+    {
+     "lang": "heb",
+     "text": "עוא"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid.), sonst auch: "
+    },
+    {
+     "lang": "heb",
+     "text": "שאג"
+    },
+    {
+     "lang": "deu",
+     "text": " (Berachoth 3, a) und "
+    },
+    {
+     "lang": "heb",
+     "text": "נהם"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(ibid. 32, a), wodurch die Modulationen der Löwenstimme ausgedrückt\nwerden, s. §. 114. — Das Eselsgeschrei: "
+    },
+    {
+     "lang": "heb",
+     "text": "נער"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kiduschin 24, b),\ndas Pferdewiehern: "
+    },
+    {
+     "lang": "heb",
+     "text": "צנף"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid.), das Hundegeheul: "
+    },
+    {
+     "lang": "heb",
+     "text": "צעק"
+    },
+    {
+     "lang": "deu",
+     "text": " (Be-\nrachoth 3, a), das Bellen: "
+    },
+    {
+     "lang": "heb",
+     "text": "נבח"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. Kama 83, a)*). — Das Brül-\nlen des Tigers: "
+    },
+    {
+     "lang": "heb",
+     "text": "נהם"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 59, b). — Das Stöhnen eines kran-\nken Ochsen: "
+    },
+    {
+     "lang": "heb",
+     "text": "גנח"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 51, b). — Das Pfeifen der Mäuse: "
+    },
+    {
+     "lang": "heb",
+     "text": "צפצוף"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(jerus. Talm. Demai Cap. 1, fol. 22, a). — Das Gackern der Henne:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עקעק"
+    },
+    {
+     "lang": "deu",
+     "text": " oder "
+    },
+    {
+     "lang": "heb",
+     "text": "קרקר"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kiduschin 31, a). — Das Geschrei der Kraniche:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "צווח"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 44, a). — Das Zwitschern des Sperlings: "
+    },
+    {
+     "lang": "heb",
+     "text": "פטפש"
+    },
+    {
+     "lang": "deu",
+     "text": " (Era-\nchin 16, b). — Das Krähen des Hahnes: "
+    },
+    {
+     "lang": "heb",
+     "text": "קרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 67, b;\nman merke den Gleichlaut des hebräischen und deutschen Wortes),\nebenso heißt das Geschrei des Raben (Sanhedrin 65, b), das aber\nauch durch "
+    },
+    {
+     "lang": "heb",
+     "text": "צרח"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 67, b) ausgedrückt wird. Das Gekrächz\nder Raben heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "קורקיר"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. batra 23, a) und die Stimme des weib-\nlichen Raben: "
+    },
+    {
+     "lang": "heb",
+     "text": "שריקי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 67, b). — Die Stimme des Erdgeiers:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שרקרק"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 63, a). — Das Zischen der Natter: "
+    },
+    {
+     "lang": "heb",
+     "text": "לחש"
+    },
+    {
+     "lang": "deu",
+     "text": " (Aboth\n2, 16), das der Schlange: "
+    },
+    {
+     "lang": "heb",
+     "text": "נשף"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 121, b). Endlich heißt das\nQuaken der Frösche: "
+    },
+    {
+     "lang": "heb",
+     "text": "שרק"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sanhedrin 67, b**). — Bemerkt wird,\ndaß der tolle Hund heiser ist und so leise bellt, daß man das Bellen\nnicht hört (Joma 83, b). Ueber das Girren ("
+    },
+    {
+     "lang": "heb",
+     "text": "קירי"
+    },
+    {
+     "lang": "deu",
+     "text": ") der Taube s.\n§. 39 Anm."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 39.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 39."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Sprachfähigkeit der Thiere. Während der Talmud in der\nFabel die Thiere reichlich sprechen läßt, s. Art. Hund, Fuchs,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Sprachfähigkeit der Thiere. Während der Talmud in der\nFabel die Thiere reichlich sprechen läßt, s. Art. Hund, Fuchs,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Metaphorisch heißt das Bellen שחוק „Gelächter“ und das Heulen בכה\n„Weinen“ (B. Kama 60, b).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Metaphorisch heißt das Bellen "
+    },
+    {
+     "lang": "heb",
+     "text": "שחוק"
+    },
+    {
+     "lang": "deu",
+     "text": " „Gelächter“ und das Heulen "
+    },
+    {
+     "lang": "heb",
+     "text": "בכה"
+    },
+    {
+     "lang": "deu",
+     "text": "\n„Weinen“ (B. Kama 60, b)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Die Thiernamen werden zuweilen ὀνοματοποιητικὸν, d. i. nach dem\nNaturlaut der Thiere gebildet, z. B. שרקרק (§. 198, Erdgeier), קוקא (§. 242,\nGans), קורקור (§. 205, Rabe), נעגועא (§. 284, Frosch), دَجَاجَةٌ (Henne, deren\nStimme دَجْ دَجْ lautet), קוקיאה (§. 265, Coucou, Kuckuk) u. a. m. — An-\ndere Namen bezeichnen bloß die Stimmart des Thieres, so heißt der Hund (§. 122)\nנבחן, das Rebhuhn (§. 264) קורא, die Schwirrheuschrecke (§. 387) צורצור, die",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Thiernamen werden zuweilen "
+    },
+    {
+     "lang": "grc",
+     "text": "ὀνοματοποιητικὸν"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i. nach dem\nNaturlaut der Thiere gebildet, z. B. "
+    },
+    {
+     "lang": "heb",
+     "text": "שרקרק"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 198, Erdgeier), "
+    },
+    {
+     "lang": "heb",
+     "text": "קוקא"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 242,\nGans), "
+    },
+    {
+     "lang": "heb",
+     "text": "קורקור"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 205, Rabe), "
+    },
+    {
+     "lang": "heb",
+     "text": "נעגועא"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 284, Frosch), "
+    },
+    {
+     "lang": "ara",
+     "text": "دَجَاجَةٌ"
+    },
+    {
+     "lang": "deu",
+     "text": " (Henne, deren\nStimme "
+    },
+    {
+     "lang": "ara",
+     "text": "دَجْ دَجْ"
+    },
+    {
+     "lang": "deu",
+     "text": " lautet), "
+    },
+    {
+     "lang": "heb",
+     "text": "קוקיאה"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 265, Coucou, Kuckuk) u. a. m. — An-\ndere Namen bezeichnen bloß die Stimmart des Thieres, so heißt der Hund (§. 122)\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נבחן"
+    },
+    {
+     "lang": "deu",
+     "text": ", das Rebhuhn (§. 264) "
+    },
+    {
+     "lang": "heb",
+     "text": "קורא"
+    },
+    {
+     "lang": "deu",
+     "text": ", die Schwirrheuschrecke (§. 387) "
+    },
+    {
+     "lang": "heb",
+     "text": "צורצור"
+    },
+    {
+     "lang": "deu",
+     "text": ", die"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3240,
+    2080
+   ],
+   [
+    3240,
+    2944
+   ]
+  ],
+  "input_tokens": 3316,
+  "output_tokens": 1614,
+  "cost_usd": 0.0085,
+  "seconds": 12.2
+ }
+}

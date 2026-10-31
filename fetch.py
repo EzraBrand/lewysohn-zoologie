@@ -30,6 +30,8 @@ SAMPLE = [
     *[(s, "front") for s in (1, 3, 5, 6)],  # half-title, title page, dedication, motto (2 blank, 4 stamps)
     *[(s, "preface") for s in range(7, 13)],  # Vorrede, pp. VII-XII
     (13, "toc"),  # Inhalt: one page, unnumbered
+    *[(s, "part1") for s in range(15, 78)],  # pp. 1-63: first part, Allgemeine Zoologie (p. 1 = scan 15)
+    *[(s, "mammals") for s in range(78, 173) if not 82 <= s <= 85],  # pp. 64-158: Säugethiere (68-71 above)
     *[(s, "entry") for s in range(82, 86)],  # pp. 68-71: §§ 114-115, lion and tiger (test entry)
 ]
 

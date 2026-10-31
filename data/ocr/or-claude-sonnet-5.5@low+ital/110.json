@@ -1,0 +1,189 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "110",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "110"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Das Kaninchen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Kaninchen."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Hasen machen; unter andern, daß der Genuß des Hasenfleisches die\nGeilheit befördere, daß er gegen Epilepsie, Podagra, Krebs u. s. w.\ndiene, und so mag auch in unserer Stelle der erwähnte Genuß von\nHasenfleisch (dessen sich Nebuchadnezar übrigens schämte) erklärt werden.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hasen machen; unter andern, daß der Genuß des Hasenfleisches die\nGeilheit befördere, daß er gegen Epilepsie, Podagra, Krebs u. s. w.\ndiene, und so mag auch in unserer Stelle der erwähnte Genuß von\nHasenfleisch (dessen sich Nebuchadnezar übrigens schämte) erklärt werden."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 142.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 142."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Das Kaninchen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Kaninchen."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Nach den gründlichen Untersuchungen von Bochart (Hieroz. P.I,\nlib. 3, cap. 33, col. 1001 ff.) und Rosenmüller (Bibl. Alterth.\n4. Bd. 2. Abth. S. 213 ff.) ist es nunmehr unbezweifelt, daß das\nbibl. שפן (Lev. 11, 5) nicht Kaninchen bedeutet; vgl. auch Winer\n(R. W. 2. Th. S. 506). Es bedeutet in der Schrift vielmehr eine\nArt Springmaus, oder Springhase, Jarboa genannt, von\nBlumenbach „Klipdachs“ bezeichnet, der unter Felsen sich aufhält,\nZehen an den Füßen hat und wiederkäuend ist, so daß dieses Thier\nalle, von der Schrift dem שפן zuertheilte Eigenschaften besitzt. —\nVon den jüdischen Gelehrten ist es auch Saadias, der שפן durch\nوبر, d. i., Jarboa übersetzt*). Es ist aber ebenso gewiß, daß שפן\nim spätern Hebraismus Kaninchen bedeutet, s. ob. Art. Frett-\nchen und Lindau (im ראשית למודים S. 27, 2), und so dürfen wir\nwohl Mischna Uxin 3, 3 שפן als Kaninchen nehmen. Es wird\nsowohl hier wie Chulin 59, a neben dem Hasen erwähnt, mit dem\nes bekanntlich viele Aehnlichkeit hat. — Der Haupteinwand gegen\ndie Uebersetzung des biblischen Wortes durch: Kaninchen, ist, daß die-\nses Thier (שפן, Hispania) aus Spanien abstammen soll, und daher\nwohl im Orient in jener frühen Zeit unbekannt gewesen war; allein\nabgesehen, daß die späteren Talmudisten das Thier wohl gekannt ha-\nben könnten, so ist es überhaupt fraglich, ob jene Namenableitung\nrichtig ist; warum sollte nicht umgekehrt das Land Spanien seinen\nNamen von dem dort häufig vorhandenen Kaninchen erhalten haben?\nEine ähnliche Art von Hysteron-Proteron eines Ortsnamens finden\nwir bei dem Berge Asasel, vgl. hierüber meinen Beitrag im L. Bl.\nd. Orients 1849, col. 184. — Jedenfalls paßt die talmudische An-\ngabe (Chulin ibid.) auf das Kaninchen, es hat Oberzähne und ist",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nach den gründlichen Untersuchungen von Bochart (Hieroz. P.I,\nlib. 3, cap. 33, col. 1001 ff.) und Rosenmüller (Bibl. Alterth.\n4. Bd. 2. Abth. S. 213 ff.) ist es nunmehr unbezweifelt, daß das\nbibl. "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "deu",
+     "text": " (Lev. 11, 5) nicht Kaninchen bedeutet; vgl. auch Winer\n(R. W. 2. Th. S. 506). Es bedeutet in der Schrift vielmehr eine\nArt Springmaus, oder Springhase, Jarboa genannt, von\nBlumenbach „Klipdachs“ bezeichnet, der unter Felsen sich aufhält,\nZehen an den Füßen hat und wiederkäuend ist, so daß dieses Thier\nalle, von der Schrift dem "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "deu",
+     "text": " zuertheilte Eigenschaften besitzt. —\nVon den jüdischen Gelehrten ist es auch Saadias, der "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "deu",
+     "text": " durch\n"
+    },
+    {
+     "lang": "ara",
+     "text": "وبر"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i., Jarboa übersetzt*). Es ist aber ebenso gewiß, daß "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "deu",
+     "text": "\nim spätern Hebraismus Kaninchen bedeutet, s. ob. Art. Frett-\nchen und Lindau (im "
+    },
+    {
+     "lang": "heb",
+     "text": "ראשית למודים"
+    },
+    {
+     "lang": "deu",
+     "text": " S. 27, 2), und so dürfen wir\nwohl Mischna Uxin 3, 3 "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "deu",
+     "text": " als Kaninchen nehmen. Es wird\nsowohl hier wie Chulin 59, a neben dem Hasen erwähnt, mit dem\nes bekanntlich viele Aehnlichkeit hat. — Der Haupteinwand gegen\ndie Uebersetzung des biblischen Wortes durch: Kaninchen, ist, daß die-\nses Thier ("
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "deu",
+     "text": ", Hispania) aus Spanien abstammen soll, und daher\nwohl im Orient in jener frühen Zeit unbekannt gewesen war; allein\nabgesehen, daß die späteren Talmudisten das Thier wohl gekannt ha-\nben könnten, so ist es überhaupt fraglich, ob jene Namenableitung\nrichtig ist; warum sollte nicht umgekehrt das Land Spanien seinen\nNamen von dem dort häufig vorhandenen Kaninchen erhalten haben?\nEine ähnliche Art von Hysteron-Proteron eines Ortsnamens finden\nwir bei dem Berge Asasel, vgl. hierüber meinen Beitrag im L. Bl.\nd. Orients 1849, col. 184. — Jedenfalls paßt die talmudische An-\ngabe (Chulin ibid.) auf das Kaninchen, es hat Oberzähne und ist"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Und dieses Thier wird sonst noch חגם (Targum zu Prov. 30, 26) und\nטפוא (s. Anhang u. d. W.) genannt.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Und dieses Thier wird sonst noch "
+    },
+    {
+     "lang": "arc",
+     "text": "חגם"
+    },
+    {
+     "lang": "deu",
+     "text": " (Targum zu Prov. 30, 26) und\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טפוא"
+    },
+    {
+     "lang": "deu",
+     "text": " (s. Anhang u. d. W.) genannt."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2203
+   ],
+   [
+    3308,
+    2965
+   ]
+  ],
+  "input_tokens": 11359,
+  "output_tokens": 1700,
+  "cost_usd": 0.0397,
+  "seconds": 13.8
+ }
+}

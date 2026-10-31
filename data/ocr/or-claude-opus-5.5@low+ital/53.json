@@ -1,0 +1,265 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Purpursaft. — Fett, Talg. — Mark.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Purpursaft. — Fett, Talg. — Mark."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "53",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "53"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "43, a) worüber ausführlich im Artikel Bisamthier §. 150. Be-\nkanntlich befindet sich der Bisam oder Moschus in einem Sack,\nwelchen das Bisamthier am Unterleibe vor der Vorhaut des Zeugungs-\ngliedes hat, interessant sind daher die in den Decisoren zu Orach Cha-\njim §. 216, 2 angeführten Ansichten über das Wesen des Moschus; nach\nihnen soll diese Substanz in einem am Halse des Thieres befind-\nlichen Beutel vorhanden sein.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "43, a) worüber ausführlich im Artikel Bisamthier §. 150. Be-\nkanntlich befindet sich der Bisam oder Moschus in einem Sack,\nwelchen das Bisamthier am Unterleibe vor der Vorhaut des Zeugungs-\ngliedes hat, interessant sind daher die in den Decisoren zu Orach Cha-\njim §. 216, 2 angeführten Ansichten über das Wesen des Moschus; nach\nihnen soll diese Substanz in einem am Halse des Thieres befind-\nlichen Beutel vorhanden sein."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 91.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 91."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Purpursaft. Der bekannte zum Färben kostbare Purpursaft der\nPurpurschnecke heißt: דם חלזון (Menachoth 44, a), was von Mai-\nmuni für den Saft des Tintenfisches genommen wird; ausführlich\nhierüber §. 369.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Purpursaft. Der bekannte zum Färben kostbare Purpursaft der\nPurpurschnecke heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "דם חלזון"
+    },
+    {
+     "lang": "deu",
+     "text": " (Menachoth 44, a), was von Mai-\nmuni für den Saft des Tintenfisches genommen wird; ausführlich\nhierüber §. 369."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 92.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 92."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Fett, Talg. Das Fett heißt שומן (Chulin 91, a), חלב (speciell\nחלב טהור ibid. 49, b) und תרבא (B. mez. 83, b*). — Der Talg\nheißt: תרבא (Chulin 98, a) und חלב טמא (ibid. 49, b). — Schweine-\nschmeer: שומן חזיר (A. Sara 35, b). — Schmalz: חומא שחיקא (Beza\n7, b). — Talg ist bei dem Vieh derjenige Fetttheil, der durch eine\näußerlich umgebende Haut in größeren Stücken zusammenhängt;\ndas eigentliche Fett hingegen besteht aus einzelnen Klümpchen, die\nan den inneren Organen des Thieres bald im reichern Maaße neben-\neinander, bald im geringern Maaße vereinzelt sich finden. Von dem\nTalg läßt sich jene äußere Haut leicht ablösen, bei dem Fette hängt\nsie fester an (Chulin 49, b). — Der Talg der Nieren (תרבא דאטמא)\nist dem Fett (כנתא) sehr ähnlich, so daß ein Betrüger eine lange\nZeit den erstren für das letztre verkaufte (Bechoroth 30, a). — Blut-\nund fleischloses Fett kann in der Sonnenwärme eine lange Zeit, ohne\nübelrichend zu werden, stehen bleiben (B. mez. 83, b). — Hühner\nwerden bei guter Fütterung zuweilen so fett, daß sie kaum über ein\nim Wege liegendes Rohr schreiten können (ibid. 86, b). Allzufette\nGänse verlieren in Folge der Fettigkeit die Federn (B. batra 73, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fett, Talg. Das Fett heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "שומן"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 91, a), "
+    },
+    {
+     "lang": "heb",
+     "text": "חלב"
+    },
+    {
+     "lang": "deu",
+     "text": " (speciell\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חלב טהור"
+    },
+    {
+     "lang": "deu",
+     "text": " ibid. 49, b) und "
+    },
+    {
+     "lang": "arc",
+     "text": "תרבא"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. mez. 83, b*). — Der Talg\nheißt: "
+    },
+    {
+     "lang": "arc",
+     "text": "תרבא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 98, a) und "
+    },
+    {
+     "lang": "heb",
+     "text": "חלב טמא"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 49, b). — Schweine-\nschmeer: "
+    },
+    {
+     "lang": "heb",
+     "text": "שומן חזיר"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 35, b). — Schmalz: "
+    },
+    {
+     "lang": "arc",
+     "text": "חומא שחיקא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Beza\n7, b). — Talg ist bei dem Vieh derjenige Fetttheil, der durch eine\näußerlich umgebende Haut in größeren Stücken zusammenhängt;\ndas eigentliche Fett hingegen besteht aus einzelnen Klümpchen, die\nan den inneren Organen des Thieres bald im reichern Maaße neben-\neinander, bald im geringern Maaße vereinzelt sich finden. Von dem\nTalg läßt sich jene äußere Haut leicht ablösen, bei dem Fette hängt\nsie fester an (Chulin 49, b). — Der Talg der Nieren ("
+    },
+    {
+     "lang": "arc",
+     "text": "תרבא דאטמא"
+    },
+    {
+     "lang": "deu",
+     "text": ")\nist dem Fett ("
+    },
+    {
+     "lang": "arc",
+     "text": "כנתא"
+    },
+    {
+     "lang": "deu",
+     "text": ") sehr ähnlich, so daß ein Betrüger eine lange\nZeit den erstren für das letztre verkaufte (Bechoroth 30, a). — Blut-\nund fleischloses Fett kann in der Sonnenwärme eine lange Zeit, ohne\nübelrichend zu werden, stehen bleiben (B. mez. 83, b). — Hühner\nwerden bei guter Fütterung zuweilen so fett, daß sie kaum über ein\nim Wege liegendes Rohr schreiten können (ibid. 86, b). Allzufette\nGänse verlieren in Folge der Fettigkeit die Federn (B. batra 73, b)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 93.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 93."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Mark. Das Mark heißt מוח (Chulin 52, a), der saftvolle\nKopf des Fisches heißt daher wahrscheinlich מוחא דשבוטא (ibid. 109, b).\nBei dem Vieh findet es sich nur in den zwei und zwanzig großen\nRippen, die kurzen Rippen sind marklos (ibid. 52, a **).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Mark. Das Mark heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "מוח"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 52, a), der saftvolle\nKopf des Fisches heißt daher wahrscheinlich "
+    },
+    {
+     "lang": "arc",
+     "text": "מוחא דשבוטא"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 109, b).\nBei dem Vieh findet es sich nur in den zwei und zwanzig großen\nRippen, die kurzen Rippen sind marklos (ibid. 52, a **)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "תרבא heißt zuweilen: Saft, vergl. §. 409 erste Anm.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "תרבא"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt zuweilen: Saft, vergl. §. 409 erste Anm."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Im Ganzen hat das Vieh 13 Rippenpaare, s. §. 28 Anm.* u. §. 158 Anm.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Im Ganzen hat das Vieh 13 Rippenpaare, s. §. 28 Anm.* u. §. 158 Anm."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2301
+   ],
+   [
+    3308,
+    2907
+   ]
+  ],
+  "input_tokens": 11355,
+  "output_tokens": 1954,
+  "cost_usd": 0.0845,
+  "seconds": 26.0
+ }
+}

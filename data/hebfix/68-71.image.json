@@ -1,0 +1,51 @@
+{
+ "main": "or-claude-opus-5.5@low+ital",
+ "model": "anthropic/claude-opus-5.5",
+ "items": [
+  {
+   "page": 69,
+   "line": "und heißt נער (Chulin 53, a), während des Verzehrens knurrt er (Be-",
+   "main": "נער",
+   "check": "עוא",
+   "printed": "עוא",
+   "confident": false,
+   "note": "Read right to left, the print shows ע, then a vertical stroke that reaches the baseline like ו, then א. The middle stroke could possibly be a short י, which is why confidence is low."
+  },
+  {
+   "page": 69,
+   "line": "Sanhedrin 102, a heißt es: אין ארי דורס ונוהם, wo das Wort דורס",
+   "main": "ונוהם",
+   "check": "נוהם",
+   "printed": "ונוהם",
+   "confident": false,
+   "note": "A small broken mark next to the נ looks like a damaged initial ו (ונוהם, 'and roars'), but it could also be a speck or stray punctuation, which would make the reading נוהם."
+  },
+  {
+   "page": 70,
+   "line": "gelbe Feuchtigkeit (Arist. l. c. 9, 31, 3), welche ויהורא (Chulin ibid.",
+   "main": "ויהורא",
+   "check": "זיהורא",
+   "printed": "ויהורא",
+   "confident": false,
+   "note": "The first letter looks like the later ו in the same word, a plain vertical stroke without the side-projecting head of a ז, so I read ויהורא. This conflicts with the expected Talmudic term זיהרא/זיהורא, so it may be a misprint, or I may be misreading a small ז."
+  },
+  {
+   "page": 70,
+   "line": "טגרים (Τίγρις) und umschrieben: אריא דבי עילאי „Löwe des",
+   "main": "טגרים",
+   "check": "טגריס",
+   "printed": "טגרים",
+   "confident": false,
+   "note": "The last letter seems to have squared bottom corners like final mem (ם), not the rounded bottom of samekh (ס), so I read טגרים. ם and ס look very similar in this small, worn type, so this is uncertain. Also, no yod appears after the ט."
+  },
+  {
+   "page": 71,
+   "line": "benennt ihn, wie wir gesehen, auch der Talmud neben טגרים auch",
+   "main": "טגרים",
+   "check": "טגריס",
+   "printed": "טגרים",
+   "confident": false,
+   "note": "The last letter looks like a squared final mem (ם) with a flat base, not a rounded samekh (ס), so I read טגרים. The expected Greek-derived form would be טגריס. The resolution is low, so the ם/ס distinction is not certain."
+  }
+ ]
+}

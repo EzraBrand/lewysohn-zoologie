@@ -12,20 +12,23 @@ progress: small steps, each checked by hand before the next.
 by side, scans linked from each page mark, Arabic and Greek transliterations as tooltips, numbered
 footnotes. Built by `build_site.py` into `docs/` (GitHub Pages serves `main:/docs`).
 
-**A whole entry:** [§§ 114–115, the lion and the tiger, in English](data/entries/lion-tiger/en.md)
-(and the [joined German text](data/entries/lion-tiger/de.md)).
+**In English so far:** the [front matter](data/entries/front/en.md), the [preface](data/entries/preface/en.md),
+the [contents](data/entries/toc/en.md), the [first part, General zoology](data/entries/part1/en.md)
+(pp. 1–63) and the [mammals](data/entries/mammals/en.md) (pp. 64–158): 166 of the 400 text pages.
 
 ## Status (31-Oct-2026)
 
-| Step | Status |
-|---|---|
-| 1. Sources and book structure | done (see [Source](#source) and [Structure](#structure)) |
-| 2. Table of contents: OCR and translation | done: [German](data/entries/toc/de.md), [English](data/entries/toc/en.md); no OCR errors |
-| 2a. Front matter: half-title, title page, dedication, motto | done: [English](data/entries/front/en.md) ([German](data/entries/front/de.md)) |
-| 2b. Preface (Vorrede, pp. VII–XII) | done: [English](data/entries/preface/en.md) ([German](data/entries/preface/de.md)); not checked by hand |
-| 3. Abbreviation table | the book has **no list of abbreviations**; a reviewed table built from §§ 114–115 ([ABBREVIATIONS.md](ABBREVIATIONS.md), 34 rows), expanded by a fixed step after translation (`abbrev.py`) |
-| 4. One whole test entry: §§ 114–115, the lion and the tiger, pp. 68–71 | done: OCR ([68](data/ocr/or-claude-opus-5.5%40low%2Bital/68.md), [69](data/ocr/or-claude-opus-5.5%40low%2Bital/69.md), [70](data/ocr/or-claude-opus-5.5%40low%2Bital/70.md), [71](data/ocr/or-claude-opus-5.5%40low%2Bital/71.md)); **gold pages [68](data/gold/68.txt) and [70](data/gold/70.txt)** checked by hand; page joins checked by eye; translated with rules v4 ([English](data/entries/lion-tiger/en.md), $0.119) |
-| 5. Reading edition (`build_site.py`) | done for the test entry and the contents; the abbreviation page is a placeholder |
+| Part | Pages | OCR | Hebrew check | Translation |
+|---|---|---|---|---|
+| Front matter, preface, contents | 4 + VII–XII + 1 | Opus 5.5 | read by eye | done |
+| First part: General zoology | 1–63 | Opus 5.5 | Flash + vote: 50 changes | done ($2.02) |
+| Second part, class 1: Mammals | 64–158 | Sonnet 5.5 | Flash + vote | see below |
+| §§ 114–115, lion and tiger (test entry) | 68–71 | Opus 5.5; **gold pp. 68, 70** | by hand | done |
+| Birds to Zoophytes, fabulous animals, addenda, registers | 159–400 | — | — | not started |
+
+Abbreviations: the book has **no list of abbreviations**; a reviewed table of 131 rows
+([ABBREVIATIONS.md](ABBREVIATIONS.md)), built from the text, expanded by a fixed step after
+translation (`abbrev.py`).
 
 ## Source
 
@@ -96,6 +99,17 @@ uv run entry.py lion-tiger                             # §§ 114–115: join, t
 uv run entry.py lion-tiger --expand-only               # redo only the abbreviation step (no model call)
 uv run abbrev.py                                       # check all entries, render ABBREVIATIONS.md
 uv run ia_ocr.py 68 70                                 # archive.org's OCR as a baseline engine for eval.py
+
+# a part of the book (here the mammals, OCR by Sonnet with the Flash check of the Hebrew)
+uv run ocr.py openrouter $(seq 64 158) --model anthropic/claude-sonnet-5.5 --effort low --tag ital
+uv run ocr.py openrouter $(seq 64 158) --model google/gemini-3.8-flash --effort low --tag ital
+uv run qa.py 64 158 --main "or-claude-sonnet-5.5@low+ital"       # lengths, notes, page joins
+uv run hebcheck.py 64 158 --main "or-claude-sonnet-5.5@low+ital" # Hebrew words where the two differ
+uv run hebjudge.py 64 158 --main "or-claude-sonnet-5.5@low+ital" # text judge
+uv run hebjudge.py 64 158 --main "or-claude-sonnet-5.5@low+ital" --mode image --only-ties
+uv run hebvote.py 64 158                                         # 2 of 3 -> data/hebfix/*.decisions.json
+uv run abbrev.py --candidates mammals                            # new abbreviations, for review
+uv run entry.py mammals                                          # join, translate, fixed steps
 uv run build_site.py                                   # reading edition in docs/
 ```
 
@@ -129,6 +143,14 @@ abbreviation step).
   translation, as with the Jastrow/BDB mappings in [Bekiut](https://github.com/EzraBrand/bekiut).
   The book has no list of abbreviations; the table is built from the text.
 - `ia_ocr.py`: new. archive.org's OCR per page, from its DjVu XML, as a baseline for `eval.py`.
+- `qa.py`: new. Per page: length against archive.org's (dropped text), footnote marks against
+  notes, footnotes before the body text (body typed as a footnote), and each page break for the
+  join check by eye.
+- `hebcheck.py`, `hebjudge.py`, `hebvote.py`: new. The second reading of the Hebrew (see Notes).
+- `entry.py` also has: per-entry OCR source; `WORD_FIXES` (a systematic word error of one engine,
+  e.g. Sonnet's "Burdorf" for "Buxdorf"); `TYPE_FIXES` (block types); `NOTE_MARK_FIXES` (printer's
+  errors in footnote marks); the voted Hebrew corrections, applied page-wide in the German and
+  copied into an existing English translation (`sync_hebrew`).
 - `build_site.py`: one volume, entries only; the tooltip covers the whole abbreviation ("B. Kama").
 
 ## Translation rules (v5, 31-Oct-2026)
@@ -159,63 +181,92 @@ New in v5: **Talmud folio references in the modern form** in the English: "Sanhe
 `a`/`b` after "number, " changes; Mishnah and Jerusalem Talmud references ("Aboth 5, 20",
 "B. batra 2, 3") stay. The German stays as printed.
 
-## Results: CER on the gold pages (pp. 68 and 70)
+## Results
 
-| Engine | All | Latin script | Hebrew | Arabic | Greek |
-|---|---|---|---|---|---|
-| Opus 5.5 @low +ital | 0.0% | 0.0% | 0.7% (1 letter) | 0.0% | 0.0% |
-| archive.org's OCR (Toronto copy) | 30.7% | 36.8% | 110% | 100% | 100% |
+### OCR engines (pp. 68–71)
 
-Gold characters: 4,620 (Latin script 3,251, Hebrew 152, Arabic 6, Greek 6). The gold pages were made
-from the Opus draft and checked by hand, so the Opus numbers favour Opus; the one Hebrew error
-(טגרים for טגריס) is the only change that the check made. Two pages only: rough signals.
+CER against the two gold pages (pp. 68, 70); the three known Hebrew errors are on pp. 69–71.
+
+| Engine | $/page | s/page | CER all | Latin script | Hebrew | 3 known Hebrew words | Notes |
+|---|---|---|---|---|---|---|---|
+| Opus 5.5 @low +ital | 0.084 | 24 | 0.0% | 0.0% | 0.7% | 0 of 3 | |
+| Sonnet 5.5 @low +ital | 0.042 | 15 | 0.1% | 0.0% | 2.0% | 0 of 3 | reads Fraktur x as r ("Burdorf") |
+| Gemini 3.8 Flash @low +ital | 0.009 | 14 | 0.8% | 0.2% | 16%* | **3 of 3** | tz → ß; reverses right-to-left lists |
+| Gemini 3.1 Pro @low +ital | 0.031 | 21 | 2.0% | 1.7% | 15%* | 2 of 3 | |
+| Haiku 5.5 @low +ital | 0.002 | 14 | 1.2% | 0.2% | 3.9% | 0 of 3 | dropped the Arabic and the Greek |
+| archive.org's OCR (Toronto copy) | — | — | 30.7% | 36.8% | 110% | — | read the Fraktur as roman type |
+
+\* Mostly one reversed list. Gold characters: 4,620 (Latin script 3,251, Hebrew 152, Arabic 6,
+Greek 6). The gold pages were made from the Opus draft and checked by hand, so the numbers favour
+Opus. Two pages only: rough signals. No engine dropped text (all page lengths within 1% of Opus).
+
+**Choice (31-Oct-2026):** Opus for the front matter and part 1 (already done); from the mammals on,
+**Sonnet for the page and Gemini 3.8 Flash as a second reader of the Hebrew** ($0.051 per page).
+
+### The second reading of the Hebrew
+
+1. `hebcheck.py` aligns the Hebrew words of the main OCR and of Flash (vowel points removed, final
+   letters kept) and lists every difference. Part 1: 172 differences in 1,432 Hebrew words (16 only
+   in the order of a list); mammals: 223 in 1,645.
+2. `hebjudge.py` decides each difference twice: the **text judge** (Opus @medium) chooses between
+   the two readings from the sentence (Lewysohn's German gloss, the source he cites); the **image
+   judge** (Opus @medium) reads a strip of the scan around the line.
+3. `hebvote.py`: the main OCR is changed where at least two of Flash, the text judge and the image
+   judge agree against it, and only if the words differ by a letter or two (a pair of different
+   list words is an alignment error, listed for review).
+
+On the known cases each check alone was wrong at least once: the image judge kept טגרים (the same
+ם/ס bias as the OCR), the text judge "corrected" the printed עוא to נער, a better-known word for a
+lion's roar. The vote of the three was right in all three cases.
+
+Part 1: 150 flags → **50 changes**, 80 kept, 14 without a majority, 6 for review
+(`logs/hebvote_1-63.csv`). The changes are mostly systematic: final ם for ס (סרים → סריס,
+כרם → כרס, מרם → מרס), ו for ז (ויהורא → זיהורא), doubled ו (וושט → ושט), ם for ב (ערקום → ערקוב).
+They are applied to every use of the word on its page, in the German and, by a fixed step, in an
+English translation made before the vote. Cost: about $0.03 per flag.
 
 ## Costs so far
 
 | Step | Pages | Cost | Per page |
 |---|---|---|---|
-| OCR, Opus 5.5 @low +ital, contents page | 1 | $0.040 | $0.040 |
-| OCR, Opus 5.5 @low +ital, pp. 68–71 | 4 | $0.335 | $0.084 (21–28 s) |
-| Translation of the contents, Opus 5.5 @medium | 1 | $0.017 | — |
-| Translation of §§ 114–115, rules v3 (from OCR; replaced) | 4 | $0.109 | $0.027 |
-| Translation of §§ 114–115, rules v4 (3 chunks, 47 s) | 4 | $0.119 | $0.030 |
-| OCR, front matter and preface | 10 | $0.526 | $0.012–0.078 |
-| Translation, front matter | 4 | $0.023 | — |
-| Translation, preface (3 chunks) | 6 | $0.133 | $0.022 |
+| Contents, front matter, preface, §§ 114–115 (OCR and translation, all versions) | 19 | about $1.30 | — |
+| Model test, OCR of pp. 68–71 with 4 other engines | 4 | $0.34 | — |
+| Part 1: OCR, Opus 5.5 | 63 | $5.30 | $0.084 |
+| Part 1: OCR, Flash (Hebrew check) | 63 | $0.55 | $0.009 |
+| Part 1: text and image judges (150 flags; about 100 judged twice by parallel workers) | — | about $3.90 | — |
+| Part 1: translation (25 chunks) | 63 | $2.02 | $0.032 |
+| Mammals: OCR, Sonnet 5.5 and Flash | 91 | $4.43 | $0.049 |
 
-OpenRouter prices. Total so far: about $1.30. Translation is much cheaper per page than in Löw
-(octavo pages, about 1,700 characters each). A full run of about 414 pages would be about $35 for
-OCR and about $15–25 for translation.
+OpenRouter prices. Total for this project so far: about $18 for the finished steps, about $20 with
+the jobs that are running (the key had $13.88 of usage from other projects before this one). The rest of the book (pp. 159–400, about 242
+pages) would be about $12 for OCR (Sonnet + Flash), $8 for translation and $5 for the Hebrew
+judges.
 
 ## Notes
 
-- **Fraktur works well with Opus 5.5.** On the gold pages the German (Latin script) has no errors:
-  long s, ß, letter-spaced words, old spellings (Thier, Heerden, Sprüchwort), and even the
-  printer's error "aehtiopische" are as printed.
-- **Hebrew is the weak point, and the errors are plausible words.** Three errors in 4 pages, each a
-  real word or form:
-  - p. 69: print **עוא** (the roar when the lion sees its prey, Chulin 53a); OCR **נער**, a real
-    word for a lion's roar (Jer. 51:38) that is not on the page.
-  - pp. 70 and 71: print **טגריס**; OCR **טגרים** (final ם for ס, twice).
-
-  This is the same kind of error as the Syriac in Löw: hard to notice. pp. 69 and 71 are corrected
-  in `entry.py` (`FIXES`), checked by me against the scan; p. 70 is corrected in its gold text.
-- Small: p. 71 print ῞Υλη, OCR Ὑλη (accent lost). On p. 70 the gold keeps ויהורא (the Talmud word
-  is זיהרא; the first letter in the print is unclear).
-- **Translation of §§ 114–115 (v4):** accurate, hedges kept, the three `[p. N]` marks in place,
-  all 22 source and bibliography abbreviations kept as printed and expanded once. The model wrote
-  "Varro" for Lewysohn's "Varo".
+- **Fraktur works well.** On the gold pages the German (Latin script) has no errors with Opus or
+  Sonnet: long s, ß, letter-spaced words, old spellings (Thier, Heerden, Sprüchwort), and even the
+  printer's error "aehtiopische" are as printed. One systematic Sonnet error: the Fraktur x in
+  "Buxdorf" read as r ("Burdorf", 14 times in the mammals), corrected by `WORD_FIXES`.
+- **Hebrew is the weak point, and the errors are plausible words** (see the second reading above).
+- **OCR block errors are rare but real:** on p. 16 Opus typed two body paragraphs as footnotes
+  (`TYPE_FIXES`; `qa.py` now flags footnotes before the body text); on p. 52 the book itself has
+  `**)` in the text and `*)` at the note (`NOTE_MARK_FIXES`).
+- **Page joins:** 62 in part 1 and 94 in the mammals, all checked by eye; 7 needed a `continue`
+  (a page ending with a footnote mark, ")", ";", ":" or a verse line mid-sentence).
+- Small: p. 71 print ῞Υλη, OCR Ὑλη (accent lost). On p. 70 the gold keeps ויהורא; the vote on
+  pp. 50–51 chose זיהורא for the same word (the Talmud form, Chulin 53a), so p. 70 may need a look.
+- **Translation:** accurate, hedges kept. The model wrote "Varro" for Lewysohn's "Varo", and
+  "Division" for "Abtheilung" in part 1 (now a term rule, "Part", and a fixed step for headings).
 - **Preface (pp. VII–XII):** read against the scans; no OCR error found. Printer's errors kept as
   printed: "babyl. Taldmud", "bot sich … darin dem Mangel", "Worms., den". The Kusari quotation on
-  p. VIII ends מגאלינום in the print (the Hebrew Kusari has מגאלינוס). The translation is close
-  and keeps the author's modesty formulas. The abbreviation check reports "Kusari: 2 in the
-  German, 3 in the English"; this is correct ("Kusaricommentar" → "Kusari commentary").
-- **Abbreviations:** 61 rows from §§ 114–115 and the front matter. Five expansions are marked
-  **guess** (which work by Gesenius, Fürst, Voigt, Münster is meant; "D. m." as Doctor medicinae);
-  check them when more entries cite them. "Klein's Jahrbuch" (preface, note) is not identified.
-- Block types are not consistent: `§. 115.` and `Der Tiger.` are one heading block on p. 70, two on p. 68.
+  p. VIII ends מגאלינום in the print (the Hebrew Kusari has מגאלינוס). The abbreviation check
+  reports "Kusari: 2 in the German, 3 in the English"; this is correct ("Kusaricommentar" →
+  "Kusari commentary").
+- **Abbreviations:** 131 rows. Rows marked **guess**: Gesenius, Fürst, Münster, "D. m.",
+  Or. Ester, Mytholog. Wörterb. Not identified: "Klein's Jahrbuch" (preface), "i. d. e. S." (part 1,
+  twice). Voigt is now certain (p. 9: "Voigt, Lehrb. d. Zool.").
 - The contents page was OCR'd and translated without an error (13 lines, 13 page numbers).
-  Abtheilung is translated "Part", Klasse "Class".
 - **Existing work:** Natan Slifkin wrote in 2012
   (["A Few Announcements"](https://www.rationalistjudaism.com/p/a-few-announcements)) that he was
   studying this book for his doctorate, was running the PDF through OCR, and proposed a
@@ -223,15 +274,13 @@ OCR and about $15–25 for translation.
 
 ## Next decision points
 
-1. **Hebrew check:** 3 Hebrew errors in 4 pages. Options: a second engine on the Hebrew runs only,
-   with a person reviewing where they differ; or a check of each Hebrew word against a word list
-   (Jastrow headwords in Bekiut), flagging words not found.
-2. **Next part, in book order:** the first part, *Allgemeine Zoologie* (pp. 1–63, §§ 1 to about
-   100): about $7 for OCR and translation. Then the classes. A gold page from each part, to see
-   whether the CER holds.
-3. Abbreviations: grow the table with each entry; resolve the **guess** rows.
-4. Reading edition: links from `§. N` cross-references to their §, and the registers as data.
-5. Full run: about $50–60 in total.
+1. **Mammals:** finish the Hebrew vote (text judge, then the image judge on the ties only) and
+   apply it; check the translation.
+2. **The 6 review cases and 14 without a majority** in part 1 (`logs/hebvote_1-63.csv`): by hand.
+3. **A gold page from part 1 and from the mammals**, to measure the CER after the vote.
+4. **The rest of the book** (birds to registers, pp. 159–400): about $25 with the current setup.
+5. Abbreviations: resolve the **guess** rows. Reading edition: links from `§. N` cross-references
+   to their §, and the registers as data.
 
 ## License
 

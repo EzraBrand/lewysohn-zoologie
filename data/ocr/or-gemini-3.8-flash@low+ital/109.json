@@ -1,0 +1,281 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Hase.\t109",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Hase.\t109"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "schläfer gemeint. Dieser gehört bekanntlich zum Mäusegeschlecht,\nund die alten Römer hatten eigene Behälter, Gliraria genannt (Varro:\nDe re rust. 3, 15), in welchen sie den Siebenschläfer fütterten und\nihn, wenn er fett geworden, verzehrten (s. Harduin zu Plin. h. n.\n36, 2). Auch die jetzigen Italiener stellen dem Siebenschläfer nach\nund rauben ihn während seines Schlafes, worauf sie ihn zum Lieb-\nlieblingsmahle sich bereiten. — Der Talmud nennt ihn im Gegensatze zur\nHausmaus עכבר דברא „die auswärts lebende Maus\", da der Sie-\nbenschläfer auf Bäumen wie das Eichhorn lebt. Vielleicht habe man\nauch in der Stelle Jes. 66, 17 an die Glirem esculentum zu den-\nken; vergl. Winer R. W. II, S. 64.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "schläfer gemeint. Dieser gehört bekanntlich zum Mäusegeschlecht,\nund die alten Römer hatten eigene Behälter, "
+    },
+    {
+     "lang": "lat",
+     "text": "Gliraria"
+    },
+    {
+     "lang": "deu",
+     "text": " genannt ("
+    },
+    {
+     "lang": "lat",
+     "text": "Varro:\nDe re rust."
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 15), in welchen sie den Siebenschläfer fütterten und\nihn, wenn er fett geworden, verzehrten (s. "
+    },
+    {
+     "lang": "lat",
+     "text": "Harduin"
+    },
+    {
+     "lang": "deu",
+     "text": " zu "
+    },
+    {
+     "lang": "lat",
+     "text": "Plin. h. n.\n"
+    },
+    {
+     "lang": "deu",
+     "text": "36, 2). Auch die jetzigen Italiener stellen dem Siebenschläfer nach\nund rauben ihn während seines Schlafes, worauf sie ihn zum Lieb-\nlieblingsmahle sich bereiten. — Der Talmud nennt ihn im Gegensatze zur\nHausmaus "
+    },
+    {
+     "lang": "heb",
+     "text": "עכבר דברא"
+    },
+    {
+     "lang": "deu",
+     "text": " „die auswärts lebende Maus\", da der Sie-\nbenschläfer auf Bäumen wie das Eichhorn lebt. Vielleicht habe man\nauch in der Stelle Jes. 66, 17 an die "
+    },
+    {
+     "lang": "lat",
+     "text": "Glirem esculentum"
+    },
+    {
+     "lang": "deu",
+     "text": " zu den-\nken; vergl. Winer R. W. II, S. 64."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 141.\nDer Hase.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 141.\nDer Hase."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "ארנבה (Uxin 3, 3), ארנבא (Nedarim 65, a) und ארנבתא (im\nAruch), pl. ארנבים (Menachoth 39, b*). — Der Hase hat Oberzähne,\nist aber dennoch wiederkäuend (Chulin 59, a). Er hat oben nämlich\nzwei Schneidezähne und zwei andere kleinere, in der Jugend sogar\nvier Zähne (Voigt l. c. 1, S. 372). Büffon bezweifelt zwar, ob\nder Hase wiederkäue, weil er nicht, wie die eigentlichen Wiederkäuer,\nvier, sondern nur einen Magen hat. Es ist jedoch durch Beobach-\ntung bewiesen worden, daß das Wiederkäuen der Hasen unzweifelhaft\nstattfindet. Ausführlich handelt hierüber Rosenmüller (Bibl.\nAlterth. 4. B., 2. Abth., S. 212). — Die Haare des Balges heißen\nעמר (Menachoth 39, b) und mit Recht, da der Hase einen wolligen\nBalg hat (Voigt l. c. S. 373). Man benutzte die Haare zu Ge-\nweben (Menachoth ibid.). Ueber den Frauennamen ארנבה vergl.\n§. 109; über den Namen Ταχίνα s. §. 176, und über לגאי §. 521.\n— Nedarim 65, a wird erzählt, daß Nebuchadnezar rohes Hasen-\nfleisch gegessen hat; Pseudo-Raschi übersetzt: ארנבא חייא, durch „le-\nbendigen Hasen\"; ebenso Matnat Kehuna zu Rabba Echa fol. 73, c.\nSamuel Edeles bemerkt, daß die rauhen Krieger zwar rohes Fleisch\nzu essen pflegen, Nebuchadnezar aber aß sogar stückweise von dem le-\nbendigen Thiere. Indessen sei bemerkt, daß die alten Naturforscher\nzahlreiche Angaben über den mannigfachen medicinischen Nutzen der",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ארנבה"
+    },
+    {
+     "lang": "lat",
+     "text": " (Uxin"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 3), "
+    },
+    {
+     "lang": "heb",
+     "text": "ארנבא"
+    },
+    {
+     "lang": "lat",
+     "text": " (Nedarim"
+    },
+    {
+     "lang": "deu",
+     "text": " 65, a) und "
+    },
+    {
+     "lang": "heb",
+     "text": "ארנבתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (im\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Aruch"
+    },
+    {
+     "lang": "deu",
+     "text": "), pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "ארנבים"
+    },
+    {
+     "lang": "lat",
+     "text": " (Menachoth"
+    },
+    {
+     "lang": "deu",
+     "text": " 39, b*). — Der Hase hat Oberzähne,\nist aber dennoch wiederkäuend ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin"
+    },
+    {
+     "lang": "deu",
+     "text": " 59, a). Er hat oben nämlich\nzwei Schneidezähne und zwei andere kleinere, in der Jugend sogar\nvier Zähne (Voigt l. c. 1, S. 372). Büffon bezweifelt zwar, ob\nder Hase wiederkäue, weil er nicht, wie die eigentlichen Wiederkäuer,\nvier, sondern nur einen Magen hat. Es ist jedoch durch Beobach-\ntung bewiesen worden, daß das Wiederkäuen der Hasen unzweifelhaft\nstattfindet. Ausführlich handelt hierüber Rosenmüller (Bibl.\nAlterth. 4. B., 2. Abth., S. 212). — Die Haare des Balges heißen\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עמר"
+    },
+    {
+     "lang": "lat",
+     "text": " (Menachoth"
+    },
+    {
+     "lang": "deu",
+     "text": " 39, b) und mit Recht, da der Hase einen wolligen\nBalg hat (Voigt l. c. S. 373). Man benutzte die Haare zu Ge-\nweben ("
+    },
+    {
+     "lang": "lat",
+     "text": "Menachoth"
+    },
+    {
+     "lang": "deu",
+     "text": " ibid.). Ueber den Frauennamen "
+    },
+    {
+     "lang": "heb",
+     "text": "ארנבה"
+    },
+    {
+     "lang": "deu",
+     "text": " vergl.\n§. 109; über den Namen "
+    },
+    {
+     "lang": "grc",
+     "text": "Ταχίνα"
+    },
+    {
+     "lang": "deu",
+     "text": " s. §. 176, und über "
+    },
+    {
+     "lang": "heb",
+     "text": "לגאי"
+    },
+    {
+     "lang": "deu",
+     "text": " §. 521.\n— Nedarim 65, a wird erzählt, daß Nebuchadnezar rohes Hasen-\nfleisch gegessen hat; Pseudo-Raschi übersetzt: "
+    },
+    {
+     "lang": "heb",
+     "text": "ארנבא חייא"
+    },
+    {
+     "lang": "deu",
+     "text": ", durch „le-\nbendigen Hasen\"; ebenso "
+    },
+    {
+     "lang": "lat",
+     "text": "Matnat Kehuna"
+    },
+    {
+     "lang": "deu",
+     "text": " zu Rabba Echa fol. 73, c.\nSamuel Edeles bemerkt, daß die rauhen Krieger zwar rohes Fleisch\nzu essen pflegen, Nebuchadnezar aber aß sogar stückweise von dem le-\nbendigen Thiere. Indessen sei bemerkt, daß die alten Naturforscher\nzahlreiche Angaben über den mannigfachen medicinischen Nutzen der"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Wegen der kürzern Vorderfüße heißt er auch צעירה רגלים (Sulat zum\n2. Chanukasabbat s. v. אין מושיע), wo er neben שפן (§. 142) erwähnt wird.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wegen der kürzern Vorderfüße heißt er auch "
+    },
+    {
+     "lang": "heb",
+     "text": "צעירה רגלים"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sulat"
+    },
+    {
+     "lang": "deu",
+     "text": " zum\n2. Chanukasabbat s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "אין מושיע"
+    },
+    {
+     "lang": "deu",
+     "text": "), wo er neben "
+    },
+    {
+     "lang": "heb",
+     "text": "שפן"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 142) erwähnt wird."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2014
+   ],
+   [
+    3308,
+    3022
+   ]
+  ],
+  "input_tokens": 3342,
+  "output_tokens": 2101,
+  "cost_usd": 0.0104,
+  "seconds": 14.8
+ }
+}

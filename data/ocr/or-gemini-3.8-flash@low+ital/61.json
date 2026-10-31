@@ -1,0 +1,313 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Fangmittel der Thiere. — Thiernamen.\t61",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fangmittel der Thiere. — Thiernamen.\t61"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schlangen (Pesachim 112, b). Thiere und Geflügel pflegt man zu\nmästen (B. mez. 86, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schlangen (Pesachim 112, b). Thiere und Geflügel pflegt man zu\nmästen (B. mez. 86, b)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 106.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 106."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Fangmittel der Thiere. Der Vogelsteller heißt: רישכא (Sab-\nbat 130, a), צד עוף (Kelim 24, 15), אורב (B. mez. 42, a) und צייד\n(Tanit 22, a). — Der Vogelwärter: מרס (Rabba Ester fol. 123, b).\n— Die Fangmittel sind: die Leimruthe (שפשף, Sabbat 78, b), das\nNetz (רשת, Kelim 23, 5 und פרסחק, Chulin 141, b), das Garn (מכמור,\nKelim 23, 5), die Vogelfalle (סרק, ibid.), der geflochtene Netzkorb\n(פלצור, ibid.). — Bei dem Fangen wilder Vögel, wie Habichte und\nSperber (אשטיר ואשפרויר = Astur und Épervier) trug der Jäger\nlederne Handschuh (פרקלינין, ibid. 24, 15). — Die Strohhütte, in\nwelcher der Vogelfänger sich aufhält, heißt: צריף (B. mez. 42, a); die\nGrube, in welcher der Jäger sich verborgen hält: כוף (Tanit 22, a).\n— Auch durch Lockspeise fing man Vögel (Berachoth 9, b). — Das\nFangnetz hieß ferner נשב (B. Kama 83, a). Die Vogelsteig: שרקפא\n(Raschi Chulin 53, b), die Hühnersteig: לול (Sabbat 122, b), der\nTaubenschlag: שובך*). — Das Nest: קן (schon biblisch) und כלוב\n(Raschi Jebamoth 63, b). — Ueber die Fangmittel der Fische handelt\nbesonders §. 312. — Das Sprüchwort: Besser ein Vogel im Netze,\nals Hundert auf dem Dache, findet sich bei Jalk. Schim. 2. Th.\nfol. 184, c.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fangmittel der Thiere. Der Vogelsteller heißt: "
+    },
+    {
+     "lang": "arc",
+     "text": "רישכא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sab-\nbat 130, a), "
+    },
+    {
+     "lang": "heb",
+     "text": "צד עוף"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kelim 24, 15), "
+    },
+    {
+     "lang": "heb",
+     "text": "אורב"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. mez. 42, a) und "
+    },
+    {
+     "lang": "heb",
+     "text": "צייד"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Tanit 22, a). — Der Vogelwärter: "
+    },
+    {
+     "lang": "heb",
+     "text": "מרס"
+    },
+    {
+     "lang": "deu",
+     "text": " (Rabba Ester fol. 123, b).\n— Die Fangmittel sind: die Leimruthe ("
+    },
+    {
+     "lang": "heb",
+     "text": "שפשף"
+    },
+    {
+     "lang": "deu",
+     "text": ", Sabbat 78, b), das\nNetz ("
+    },
+    {
+     "lang": "heb",
+     "text": "רשת"
+    },
+    {
+     "lang": "deu",
+     "text": ", Kelim 23, 5 und "
+    },
+    {
+     "lang": "heb",
+     "text": "פרסחק"
+    },
+    {
+     "lang": "deu",
+     "text": ", Chulin 141, b), das Garn ("
+    },
+    {
+     "lang": "heb",
+     "text": "מכמור"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nKelim 23, 5), die Vogelfalle ("
+    },
+    {
+     "lang": "heb",
+     "text": "סרק"
+    },
+    {
+     "lang": "deu",
+     "text": ", ibid.), der geflochtene Netzkorb\n("
+    },
+    {
+     "lang": "heb",
+     "text": "פלצור"
+    },
+    {
+     "lang": "deu",
+     "text": ", ibid.). — Bei dem Fangen wilder Vögel, wie Habichte und\nSperber ("
+    },
+    {
+     "lang": "heb",
+     "text": "אשטיר ואשפרויר"
+    },
+    {
+     "lang": "deu",
+     "text": " = Astur und "
+    },
+    {
+     "lang": "fra",
+     "text": "Épervier"
+    },
+    {
+     "lang": "deu",
+     "text": ") trug der Jäger\nlederne Handschuh ("
+    },
+    {
+     "lang": "arc",
+     "text": "פרקלינין"
+    },
+    {
+     "lang": "deu",
+     "text": ", ibid. 24, 15). — Die Strohhütte, in\nwelcher der Vogelfänger sich aufhält, heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "צריף"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. mez. 42, a); die\nGrube, in welcher der Jäger sich verborgen hält: "
+    },
+    {
+     "lang": "heb",
+     "text": "כוף"
+    },
+    {
+     "lang": "deu",
+     "text": " (Tanit 22, a).\n— Auch durch Lockspeise fing man Vögel (Berachoth 9, b). — Das\nFangnetz hieß ferner "
+    },
+    {
+     "lang": "heb",
+     "text": "נשב"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. Kama 83, a). Die Vogelsteig: "
+    },
+    {
+     "lang": "arc",
+     "text": "שרקפא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Raschi Chulin 53, b), die Hühnersteig: "
+    },
+    {
+     "lang": "heb",
+     "text": "לול"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 122, b), der\nTaubenschlag: "
+    },
+    {
+     "lang": "heb",
+     "text": "שובך"
+    },
+    {
+     "lang": "deu",
+     "text": "*). — Das Nest: "
+    },
+    {
+     "lang": "heb",
+     "text": "קן"
+    },
+    {
+     "lang": "deu",
+     "text": " (schon biblisch) und "
+    },
+    {
+     "lang": "heb",
+     "text": "כלוב"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Raschi Jebamoth 63, b). — Ueber die Fangmittel der Fische handelt\nbesonders §. 312. — Das Sprüchwort: Besser ein Vogel im Netze,\nals Hundert auf dem Dache, findet sich bei Jalk. Schim. 2. Th.\nfol. 184, c."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 107.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 107."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Thiernamen. Die Thiernamen dienten theils als Ehrentitel,\ntheils als bloße Benennungen für Menschennamen; so pflegte man\neinen bedeutenden Gelehrten den Löwen zu nennen (Jebamoth 122,\nb), ebenso den König einen Adler (Sanhedrin 12, a). Dahingegen\nnannte man den auf seinem Pferde sich umhertummelnden Perser:\nden unruhigen Bären! (Kiduschin 72, a). — Von dem, welcher\nviel versprochen, aber wenig geleistet, sagte man: „Aus einem Löwen\nist ein Fuchs geworden“ (B. Kama 117, a). — Der Esel war\nSymbol der Dummheit (Sabbat 112, b) deshalb nannte man einen\ndummen Menschen den Esel! (B. Kama 92, b). — Den zänkischen\nTheil des Ehepaars nannte man „Schlange!“ und daher das Sprüch-\nwort: „Mit einer Schlange kann kein Mensch beisammen wohnen“\n(Ketuboth 76, a**). — Eigennützige, greise Richter benannte man",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Thiernamen. Die Thiernamen dienten theils als Ehrentitel,\ntheils als bloße Benennungen für Menschennamen; so pflegte man\neinen bedeutenden Gelehrten den Löwen zu nennen (Jebamoth 122,\nb), ebenso den König einen Adler (Sanhedrin 12, a). Dahingegen\nnannte man den auf seinem Pferde sich umhertummelnden Perser:\nden unruhigen Bären! (Kiduschin 72, a). — Von dem, welcher\nviel versprochen, aber wenig geleistet, sagte man: „Aus einem Löwen\nist ein Fuchs geworden“ (B. Kama 117, a). — Der Esel war\nSymbol der Dummheit (Sabbat 112, b) deshalb nannte man einen\ndummen Menschen den Esel! (B. Kama 92, b). — Den zänkischen\nTheil des Ehepaars nannte man „Schlange!“ und daher das Sprüch-\nwort: „Mit einer Schlange kann kein Mensch beisammen wohnen“\n(Ketuboth 76, a**). — Eigennützige, greise Richter benannte man"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Der Pl. ist sowohl שוובכין (Pesachim 55, b) als שובכות (Oholoth 8, 2).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Der Pl. ist sowohl "
+    },
+    {
+     "lang": "heb",
+     "text": "שוובכין"
+    },
+    {
+     "lang": "deu",
+     "text": " (Pesachim 55, b) als "
+    },
+    {
+     "lang": "heb",
+     "text": "שובכות"
+    },
+    {
+     "lang": "deu",
+     "text": " (Oholoth 8, 2)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Vgl. §. 289, Anm.*.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Vgl. §. 289, Anm.*."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2110
+   ],
+   [
+    3308,
+    2962
+   ]
+  ],
+  "input_tokens": 3316,
+  "output_tokens": 2327,
+  "cost_usd": 0.0112,
+  "seconds": 18.9
+ }
+}

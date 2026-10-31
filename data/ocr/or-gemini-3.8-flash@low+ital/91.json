@@ -1,0 +1,133 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Das gemeine Wiesel.\t91",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das gemeine Wiesel.\t91"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Gruben geworfenes Fleisch fortschleppen, und zwar nach der Erklärung\nRaschi's zu Pesachim ibid., durch die Löcher, welche diese kleinen\nRaubthiere graben. Ein solches Loch muß eine Faust breit sein, denn\neinstmals warf eine Sklavin einen Abortus in eine Grube, den man\nnicht wiederfand, weil, wie man vermuthete, eins der gedachten Thiere\ndenselben in sein Loch verschleppt hatte; das Loch kann also nicht zu\neng gewesen sein, wenn der Abortus durch dasselbe geschleppt werden\nkann. Es ist aber auch bekannt, daß der Iltis unterirdische Gänge\nin die Hühnerställe, oder bis an den Teich gräbt. — Deshalb ist die\nUebersetzung Raschi's zu B. mez. 24, a irrthümlich, wenn er ברדלס,\ndas dort neben großen Raubthieren erwähnt wird, mit Iltis wieder=\ngiebt, da das Wort daselbst Pantherthier heißt; seine Angabe ist aber\nrichtig, daß der Iltis Gänse und Hühner zu tödten pflegt. — Da\ndieses Thier pechschwarz, oder braun, an den Seiten gelblich und über=\nhaupt gelbschimmernd ist, so wird es ברדלס nach seiner Buntfar=\nbigkeit benannt, s. §. 117.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Gruben geworfenes Fleisch fortschleppen, und zwar nach der Erklärung\nRaschi's zu Pesachim "
+    },
+    {
+     "lang": "lat",
+     "text": "ibid."
+    },
+    {
+     "lang": "deu",
+     "text": ", durch die Löcher, welche diese kleinen\nRaubthiere graben. Ein solches Loch muß eine Faust breit sein, denn\neinstmals warf eine Sklavin einen Abortus in eine Grube, den man\nnicht wiederfand, weil, wie man vermuthete, eins der gedachten Thiere\ndenselben in sein Loch verschleppt hatte; das Loch kann also nicht zu\neng gewesen sein, wenn der Abortus durch dasselbe geschleppt werden\nkann. Es ist aber auch bekannt, daß der Iltis unterirdische Gänge\nin die Hühnerställe, oder bis an den Teich gräbt. — Deshalb ist die\nUebersetzung Raschi's zu B. mez. 24, a irrthümlich, wenn er "
+    },
+    {
+     "lang": "heb",
+     "text": "ברדלס"
+    },
+    {
+     "lang": "deu",
+     "text": ",\ndas dort neben großen Raubthieren erwähnt wird, mit Iltis wieder=\ngiebt, da das Wort daselbst Pantherthier heißt; seine Angabe ist aber\nrichtig, daß der Iltis Gänse und Hühner zu tödten pflegt. — Da\ndieses Thier pechschwarz, oder braun, an den Seiten gelblich und über=\nhaupt gelbschimmernd ist, so wird es "
+    },
+    {
+     "lang": "heb",
+     "text": "ברדלס"
+    },
+    {
+     "lang": "deu",
+     "text": " nach seiner Buntfar=\nbigkeit benannt, s. §. 117."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 128.\nDas gemeine Wiesel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 128.\nDas gemeine Wiesel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "חולדה (Pesachim 9, a), כרכושחא (Sanhedrin 105, a). Die Jun=\ngen heißen בני כרכושחא (B. mez. 85, a). Ueber גלא (Γαλῆ) s.\n§. 521.\nVon allen Thieren giebt es im Meere ein Aequivalent, nur\nnicht vom Wiesel (Chulin 127, a), worüber bei den Rabbinen folgende\nSage vorhanden ist. Bei der Einrichtung des Weltalls saß auch der\nHerrscher des Meeres zu Rathe und verlangte mehr Bewohner und\nUnterthanen, wofür er sich verpflichtete dieselben gehörig zu ernähren.\nSeine Forderung wurde bewilligt, worauf er sämmtliche Landthiere\nje paarweise, Männchen und Weibchen, ins Meer warf, so daß die=\nselben, nur bei mehr oder weniger veränderter Gestalt, sämmtlich im\nMeere sich wiederfinden. Das Wiesel stand aber zur Zeit dicht am\nUfer, so daß seine Gestalt auf der Wasserfläche sich abspiegelte, und\nes zeigte, als der Meeresfürst es ebenfalls ins Wasser werfen wollte,\nauf sein sich abspiegelndes Bild, vorgebend, es wäre bereits ins\nMeer geworfen worden, durch welche List es dem allgemeinen Schick=\nsal der Landthiere entging. — Bekanntlich giebt es eine außerordent=\nliche Anzahl von Seethieren, die, obgleich zum Fischreiche gehörend,\ndennoch wegen theilweiser Aehnlichkeit mit den Landthieren die Na=",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "חולדה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Pesachim 9, a), "
+    },
+    {
+     "lang": "arc",
+     "text": "כרכושחא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sanhedrin 105, a). Die Jun=\ngen heißen "
+    },
+    {
+     "lang": "arc",
+     "text": "בני כרכושחא"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. mez. 85, a). Ueber "
+    },
+    {
+     "lang": "heb",
+     "text": "גלא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "grc",
+     "text": "Γαλῆ"
+    },
+    {
+     "lang": "deu",
+     "text": ") s.\n§. 521.\nVon allen Thieren giebt es im Meere ein Aequivalent, nur\nnicht vom Wiesel (Chulin 127, a), worüber bei den Rabbinen folgende\nSage vorhanden ist. Bei der Einrichtung des Weltalls saß auch der\nHerrscher des Meeres zu Rathe und verlangte mehr Bewohner und\nUnterthanen, wofür er sich verpflichtete dieselben gehörig zu ernähren.\nSeine Forderung wurde bewilligt, worauf er sämmtliche Landthiere\nje paarweise, Männchen und Weibchen, ins Meer warf, so daß die=\nselben, nur bei mehr oder weniger veränderter Gestalt, sämmtlich im\nMeere sich wiederfinden. Das Wiesel stand aber zur Zeit dicht am\nUfer, so daß seine Gestalt auf der Wasserfläche sich abspiegelte, und\nes zeigte, als der Meeresfürst es ebenfalls ins Wasser werfen wollte,\nauf sein sich abspiegelndes Bild, vorgebend, es wäre bereits ins\nMeer geworfen worden, durch welche List es dem allgemeinen Schick=\nsal der Landthiere entging. — Bekanntlich giebt es eine außerordent=\nliche Anzahl von Seethieren, die, obgleich zum Fischreiche gehörend,\ndennoch wegen theilweiser Aehnlichkeit mit den Landthieren die Na="
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2176
+   ],
+   [
+    3308,
+    3024
+   ]
+  ],
+  "input_tokens": 3360,
+  "output_tokens": 1262,
+  "cost_usd": 0.0073,
+  "seconds": 12.4
+ }
+}

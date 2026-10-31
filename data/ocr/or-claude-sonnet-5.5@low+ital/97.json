@@ -1,0 +1,177 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Seehund.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Seehund."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "97",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "97"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "ein der Katze ähnliches Thier geschildert (s. hierüber die Quellen bei\nBochart l. c.), und seine Abrichtung zum Kaninchenfang ist allbe-\nkannt. Es fragt sich nun, welche Bedeutung die Wörter אילן חלא,\nals griechische bezeichnet, haben sollen. Wir zeigten früher (§. 122),\nwie der Talmud den Hund nach irgend einer seiner Functionen grie-\nchisch benannte, so mögen auch die gedachten Wörter eine Natur-\neigenschaft des Frettchens bezeichnen. Vielleicht möchte folgende Ver-\nmuthung nicht unannehmbar sein. Das Frettchen lebt ursprünglich\nin Wäldern und lebt im wilden Zustand von kleinen Raubthieren,\nbesonders von wilden Kaninchen, Selbst nach der Zähmung bleibt\nes in der Höhle zurück, sobald es ein Kaninchen erhascht und an sei-\nnem Blute sich gesättigt hat. Es muß alsdann mühsam herausge-\nlockt werden, indem der Jäger ein Kaninchen an einer schwanken\nStange befestigt, dasselbe in die Höhle schiebt, in welches das Frett-\nchen sich festbeißt und mit ihm zugleich herausgezogen wird. Dies\nzeigt nun von der Neigung des Frettchens dem Herrn sich zu ent-\nziehen und in den frühern Zustand zurückzukehren; es bekundet das\nStreben nach dem frühern Aufenthalt, dem Walde, und mag des-\nhalb Ζηλοῦν ὕλην (nach dem Wald sich sehnend) genannt worden\nsein. — Landau (im Aruch) leitet es von Θάλλω und ὅλον ab,\nund soll auf die Buntfleckigkeit hingewiesen werden, wobei freilich auch\nnicht mehr als eine bloße Vermuthung gegeben wurde. Der Name\nbedarf noch einer glücklichern Lösung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "ein der Katze ähnliches Thier geschildert (s. hierüber die Quellen bei\nBochart "
+    },
+    {
+     "lang": "lat",
+     "text": "l. c."
+    },
+    {
+     "lang": "deu",
+     "text": "), und seine Abrichtung zum Kaninchenfang ist allbe-\nkannt. Es fragt sich nun, welche Bedeutung die Wörter "
+    },
+    {
+     "lang": "heb",
+     "text": "אילן חלא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nals griechische bezeichnet, haben sollen. Wir zeigten früher (§. 122),\nwie der Talmud den Hund nach irgend einer seiner Functionen grie-\nchisch benannte, so mögen auch die gedachten Wörter eine Natur-\neigenschaft des Frettchens bezeichnen. Vielleicht möchte folgende Ver-\nmuthung nicht unannehmbar sein. Das Frettchen lebt ursprünglich\nin Wäldern und lebt im wilden Zustand von kleinen Raubthieren,\nbesonders von wilden Kaninchen, Selbst nach der Zähmung bleibt\nes in der Höhle zurück, sobald es ein Kaninchen erhascht und an sei-\nnem Blute sich gesättigt hat. Es muß alsdann mühsam herausge-\nlockt werden, indem der Jäger ein Kaninchen an einer schwanken\nStange befestigt, dasselbe in die Höhle schiebt, in welches das Frett-\nchen sich festbeißt und mit ihm zugleich herausgezogen wird. Dies\nzeigt nun von der Neigung des Frettchens dem Herrn sich zu ent-\nziehen und in den frühern Zustand zurückzukehren; es bekundet das\nStreben nach dem frühern Aufenthalt, dem Walde, und mag des-\nhalb "
+    },
+    {
+     "lang": "grc",
+     "text": "Ζηλοῦν ὕλην"
+    },
+    {
+     "lang": "deu",
+     "text": " (nach dem Wald sich sehnend) genannt worden\nsein. — Landau (im Aruch) leitet es von "
+    },
+    {
+     "lang": "grc",
+     "text": "Θάλλω"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "grc",
+     "text": "ὅλον"
+    },
+    {
+     "lang": "deu",
+     "text": " ab,\nund soll auf die Buntfleckigkeit hingewiesen werden, wobei freilich auch\nnicht mehr als eine bloße Vermuthung gegeben wurde. Der Name\nbedarf noch einer glücklichern Lösung."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 131.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 131."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Seehund.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Seehund."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "In der Mischna Kelim 17, 13 heißt es: „Die Geräthe aus der\nHaut aller Seethiere verfertigt, sind nicht verunreinigungsfähig, nur\ndie aus der Haut des Seehundes (כלב המים) besitzen die Fähigkeit\nverunreinigt zu werden“, weil dieses Thier, nach Erklärung der Com-\nmentare, bei Gefahr gefangen zu werden, ans Land kommt, und so\nin ritueller Beziehung als Landthier betrachtet wird. Diese Angabe\nwird von keinem Naturforscher gemacht; der Seehund taucht vielmehr\nbei nahender Gefahr schnell unter. Allein jene Erklärung zur Mischna\nist auch überflüssig, weil der Seehund sehr oft ans Land kommt und\nauf ihm verweilt. Plinius berichtet, daß der Seehund die Jungen\nauf dem Lande zur Welt bringt und sie vor 12 Tagen nicht ins\nWasser führt (h. n. 9, 13, 15); ferner, daß er auf dem Lande athmet",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In der Mischna Kelim 17, 13 heißt es: „Die Geräthe aus der\nHaut aller Seethiere verfertigt, sind nicht verunreinigungsfähig, nur\ndie aus der Haut des Seehundes ("
+    },
+    {
+     "lang": "heb",
+     "text": "כלב המים"
+    },
+    {
+     "lang": "deu",
+     "text": ") besitzen die Fähigkeit\nverunreinigt zu werden“, weil dieses Thier, nach Erklärung der Com-\nmentare, bei Gefahr gefangen zu werden, ans Land kommt, und so\nin ritueller Beziehung als Landthier betrachtet wird. Diese Angabe\nwird von keinem Naturforscher gemacht; der Seehund taucht vielmehr\nbei nahender Gefahr schnell unter. Allein jene Erklärung zur Mischna\nist auch überflüssig, weil der Seehund sehr oft ans Land kommt und\nauf ihm verweilt. Plinius berichtet, daß der Seehund die Jungen\nauf dem Lande zur Welt bringt und sie vor 12 Tagen nicht ins\nWasser führt ("
+    },
+    {
+     "lang": "lat",
+     "text": "h. n."
+    },
+    {
+     "lang": "deu",
+     "text": " 9, 13, 15); ferner, daß er auf dem Lande athmet"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Zoologie des Talmuds.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zoologie des Talmuds."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "7",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "7"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2056
+   ],
+   [
+    3308,
+    3084
+   ]
+  ],
+  "input_tokens": 11309,
+  "output_tokens": 1650,
+  "cost_usd": 0.0391,
+  "seconds": 14.5
+ }
+}

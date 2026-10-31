@@ -1,0 +1,129 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Zweite Abtheilung.\nSpecielle Zoologie.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zweite Abtheilung.\nSpecielle Zoologie."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Erste Klasse.\nSäugethiere.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Erste Klasse.\nSäugethiere."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 111.\nEine Affenart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 111.\nEine Affenart."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Kilajim 8, 5 wird gesagt, daß das Geschöpf ארני שרה (Simson\nliest: אבני שרה) zum Thiergeschlecht (§. 19) gehöre; R. Jose meinte,\ndaß es, wie der Mensch, nach seinem Tode das Zelt verunreinige. —\nDie älteren Erklärer machen ein fabelhaftes Thier daraus, weshalb\nwir im letzten Abschnitt dieses Werkes nochmals darauf zurückkommen\nwerden (§. 506). Hier behandeln wir die Ansicht der neueren Er-\nklärer. Schon Beer Naphtali (im מחנה כהונה zu Rabba Kohelet\nfol. 99, col. 3) schwankt zwischen der naturhistorischen und der fabel-\nhaften Auffassung; er sagt: ארני שרה ist entweder ein Thier, das dem\nMenschen ähnlich ist (d. i., der Affe), oder ein Mensch, der aus der\nErde herauswächst. — Entschieden behauptet Landau (zum Aruch),\ndaß ארני שרה der Schimpanse (Pithecus Troglodytes; auch Jocko,\noder Barris genannt) ist, während Schwarz (הוצאות הארץ Bl.\n4, 2) das Thier als den Orang-Utang (Pithecus Satyrus, auch\nPongo, oder Waldmensch genannt) erklärt*). Zwischen beiden",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Kilajim 8, 5 wird gesagt, daß das Geschöpf "
+    },
+    {
+     "lang": "heb",
+     "text": "ארני שרה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Simson\nliest: "
+    },
+    {
+     "lang": "heb",
+     "text": "אבני שרה"
+    },
+    {
+     "lang": "deu",
+     "text": ") zum Thiergeschlecht (§. 19) gehöre; R. Jose meinte,\ndaß es, wie der Mensch, nach seinem Tode das Zelt verunreinige. —\nDie älteren Erklärer machen ein fabelhaftes Thier daraus, weshalb\nwir im letzten Abschnitt dieses Werkes nochmals darauf zurückkommen\nwerden (§. 506). Hier behandeln wir die Ansicht der neueren Er-\nklärer. Schon Beer Naphtali (im "
+    },
+    {
+     "lang": "heb",
+     "text": "מחנה כהונה"
+    },
+    {
+     "lang": "deu",
+     "text": " zu Rabba Kohelet\nfol. 99, col. 3) schwankt zwischen der naturhistorischen und der fabel-\nhaften Auffassung; er sagt: "
+    },
+    {
+     "lang": "heb",
+     "text": "ארני שרה"
+    },
+    {
+     "lang": "deu",
+     "text": " ist entweder ein Thier, das dem\nMenschen ähnlich ist (d. i., der Affe), oder ein Mensch, der aus der\nErde herauswächst. — Entschieden behauptet Landau (zum Aruch),\ndaß "
+    },
+    {
+     "lang": "heb",
+     "text": "ארני שרה"
+    },
+    {
+     "lang": "deu",
+     "text": " der Schimpanse (Pithecus Troglodytes; auch Jocko,\noder Barris genannt) ist, während Schwarz ("
+    },
+    {
+     "lang": "heb",
+     "text": "הוצאות הארץ"
+    },
+    {
+     "lang": "deu",
+     "text": " Bl.\n4, 2) das Thier als den Orang-Utang (Pithecus Satyrus, auch\nPongo, oder Waldmensch genannt) erklärt*). Zwischen beiden"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Wir müssen jedoch bemerken, daß weder der Schimpanse, noch der Orang-\nUtang den alten Naturforschern bekannt waren; es findet sich von ihnen bei Ari-\nstoteles, Plinius und Aelian keine Erwähnung.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wir müssen jedoch bemerken, daß weder der Schimpanse, noch der Orang-\nUtang den alten Naturforschern bekannt waren; es findet sich von ihnen bei Ari-\nstoteles, Plinius und Aelian keine Erwähnung."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    3812
+   ]
+  ],
+  "input_tokens": 6587,
+  "output_tokens": 1021,
+  "cost_usd": 0.0234,
+  "seconds": 9.7
+ }
+}

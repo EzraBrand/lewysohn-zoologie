@@ -1,0 +1,397 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "54 Schweiß. — Lake. — Excremente.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "54 Schweiß. — Lake. — Excremente."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 94.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 94."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schweiß. Der Schweiß heißt: זיעה (Machschirin 6, 7), der\ntemporäre זיעה עוברות, der perpetuelle: זיעה שאינו עוברות (Ketuboth\n75, a). Ein beständig schweißiges Vieh heißt: מזוהם (Temura 28, b),\nso wie die den Fischen anhängende, klebrige äußere Feuchtigkeit:\nזהומא (A. Sara 38, b). — Den Schweiß kann man durch fleißiges\nWaschen mit Wasser, oder mit sauerm Wein momentan wenigstens\nentfernen (Ketuboth 75, a), nach Aruch (s. §. 150) auch durch Ein-\nreiben mit Moschus. — Mit Ausnahme des Gesichtschweißes ist der\nSchweiß des übrigen Körpers giftartig (Tal. Jerus. A. Sara 41, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schweiß. Der Schweiß heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "זיעה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Machschirin 6, 7), der\ntemporäre "
+    },
+    {
+     "lang": "heb",
+     "text": "זיעה עוברות"
+    },
+    {
+     "lang": "deu",
+     "text": ", der perpetuelle: "
+    },
+    {
+     "lang": "heb",
+     "text": "זיעה שאינו עוברות"
+    },
+    {
+     "lang": "deu",
+     "text": " (Ketuboth\n75, a). Ein beständig schweißiges Vieh heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "מזוהם"
+    },
+    {
+     "lang": "deu",
+     "text": " (Temura 28, b),\nso wie die den Fischen anhängende, klebrige äußere Feuchtigkeit:\n"
+    },
+    {
+     "lang": "arc",
+     "text": "זהומא"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 38, b). — Den Schweiß kann man durch fleißiges\nWaschen mit Wasser, oder mit sauerm Wein momentan wenigstens\nentfernen (Ketuboth 75, a), nach Aruch (s. §. 150) auch durch Ein-\nreiben mit Moschus. — Mit Ausnahme des Gesichtschweißes ist der\nSchweiß des übrigen Körpers giftartig (Tal. Jerus. A. Sara 41, a)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 95.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 95."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Lake. Fischlake heißt: ציר (Nedarim 6, 4), wo Bartenoro er-\nklärt: Es ist das von eingesalzenen Fischen entstandene Wasser, wäh-\nrend מוריים (Muria) das von eingesalzenen Fischen entstehende Fett\n(wahrscheinlich Fischbrühe) bezeichnet. Der Saft unreiner Heuschrecken\nheißt ebenfalls ציר (Terumoth 10, 9), indem er, wie Bartenoro hin-\nzufügt, eine bloße Feuchtigkeit (לחלוחית בעלמא) ist. Es ist an beiden\nStellen zunächst an den von den Thieren ausgepreßten Saft zu\ndenken.*)",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Lake. Fischlake heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "ציר"
+    },
+    {
+     "lang": "deu",
+     "text": " (Nedarim 6, 4), wo Bartenoro er-\nklärt: Es ist das von eingesalzenen Fischen entstandene Wasser, wäh-\nrend "
+    },
+    {
+     "lang": "heb",
+     "text": "מוריים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Muria) das von eingesalzenen Fischen entstehende Fett\n(wahrscheinlich Fischbrühe) bezeichnet. Der Saft unreiner Heuschrecken\nheißt ebenfalls "
+    },
+    {
+     "lang": "heb",
+     "text": "ציר"
+    },
+    {
+     "lang": "deu",
+     "text": " (Terumoth 10, 9), indem er, wie Bartenoro hin-\nzufügt, eine bloße Feuchtigkeit ("
+    },
+    {
+     "lang": "arc",
+     "text": "לחלוחית בעלמא"
+    },
+    {
+     "lang": "deu",
+     "text": ") ist. Es ist an beiden\nStellen zunächst an den von den Thieren ausgepreßten Saft zu\ndenken.*)"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 96.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 96."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Excremente. Die Excremente durch den After haben verschiedene\nBenennungen. Die des Viehes heißen: כבוי דרעיתי (Erubin 29, b),\nגללי בהמה (Menachoth 69, a), רעי (Chulin 38, a), פרש (Temura 30, b),\nזבל und רפש (B. Kama 30, a). Für פרש (aus dem vielleicht רפש\ndurch Transposition gebildet ist) kommt das aram. פרתא (Chulin\n18, a) vor. — Speciell heißt das Excrement des Menschen (Berachoth\n25, a) des Schweines und des Hundes (ibid.) צואה; vom Menschen\naußerdem: רעי (Beza 36, b) und vom Hunde noch: נפקא (Gittin\n69, b**). Vom Esel (Sanhedrin 98, b) und vom Maulthier (Sab-\nbat 110, b): כופיתא. Von der Ziege: הריא (Tanit 9, b); von der\nTaube (unrichtig Henne): שייפא (Gittin 69, b). Nach Aruch soll",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Excremente. Die Excremente durch den After haben verschiedene\nBenennungen. Die des Viehes heißen: "
+    },
+    {
+     "lang": "arc",
+     "text": "כבוי דרעיתי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Erubin 29, b),\n"
+    },
+    {
+     "lang": "heb",
+     "text": "גללי בהמה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Menachoth 69, a), "
+    },
+    {
+     "lang": "heb",
+     "text": "רעי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 38, a), "
+    },
+    {
+     "lang": "heb",
+     "text": "פרש"
+    },
+    {
+     "lang": "deu",
+     "text": " (Temura 30, b),\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זבל"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "רפש"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. Kama 30, a). Für "
+    },
+    {
+     "lang": "heb",
+     "text": "פרש"
+    },
+    {
+     "lang": "deu",
+     "text": " (aus dem vielleicht "
+    },
+    {
+     "lang": "heb",
+     "text": "רפש"
+    },
+    {
+     "lang": "deu",
+     "text": "\ndurch Transposition gebildet ist) kommt das aram. "
+    },
+    {
+     "lang": "arc",
+     "text": "פרתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin\n18, a) vor. — Speciell heißt das Excrement des Menschen (Berachoth\n25, a) des Schweines und des Hundes (ibid.) "
+    },
+    {
+     "lang": "heb",
+     "text": "צואה"
+    },
+    {
+     "lang": "deu",
+     "text": "; vom Menschen\naußerdem: "
+    },
+    {
+     "lang": "heb",
+     "text": "רעי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Beza 36, b) und vom Hunde noch: "
+    },
+    {
+     "lang": "arc",
+     "text": "נפקא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Gittin\n69, b**). Vom Esel (Sanhedrin 98, b) und vom Maulthier (Sab-\nbat 110, b): "
+    },
+    {
+     "lang": "arc",
+     "text": "כופיתא"
+    },
+    {
+     "lang": "deu",
+     "text": ". Von der Ziege: "
+    },
+    {
+     "lang": "arc",
+     "text": "הריא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Tanit 9, b); von der\nTaube (unrichtig Henne): "
+    },
+    {
+     "lang": "arc",
+     "text": "שייפא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Gittin 69, b). Nach Aruch soll"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Die Schleimabsonderung der Fische heißt רירי (Sabbat 107, b) und\nלחלוחי (jerus. Talm. A. Sara C. 2. fol. 42, a).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Schleimabsonderung der Fische heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "רירי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 107, b) und\n"
+    },
+    {
+     "lang": "arc",
+     "text": "לחלוחי"
+    },
+    {
+     "lang": "deu",
+     "text": " (jerus. Talm. A. Sara C. 2. fol. 42, a)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Wie צואה von יצא, so נפקא von נפק, Abgang. Für פרתא steht\nMidr, Jalk. Schim. 2. Th. fol. 114, d: פוריתה, womit dort das bibl. ערוב\nerklärt wird.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wie "
+    },
+    {
+     "lang": "heb",
+     "text": "צואה"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "heb",
+     "text": "יצא"
+    },
+    {
+     "lang": "deu",
+     "text": ", so "
+    },
+    {
+     "lang": "arc",
+     "text": "נפקא"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "arc",
+     "text": "נפק"
+    },
+    {
+     "lang": "deu",
+     "text": ", Abgang. Für "
+    },
+    {
+     "lang": "arc",
+     "text": "פרתא"
+    },
+    {
+     "lang": "deu",
+     "text": " steht\nMidr, Jalk. Schim. 2. Th. fol. 114, d: "
+    },
+    {
+     "lang": "heb",
+     "text": "פוריתה"
+    },
+    {
+     "lang": "deu",
+     "text": ", womit dort das bibl. "
+    },
+    {
+     "lang": "heb",
+     "text": "ערוב"
+    },
+    {
+     "lang": "deu",
+     "text": "\nerklärt wird."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3300,
+    2037
+   ],
+   [
+    3300,
+    2983
+   ]
+  ],
+  "input_tokens": 11358,
+  "output_tokens": 2416,
+  "cost_usd": 0.0938,
+  "seconds": 30.5
+ }
+}

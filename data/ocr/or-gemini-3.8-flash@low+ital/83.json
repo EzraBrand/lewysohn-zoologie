@@ -1,0 +1,353 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Hund.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Hund."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "83",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "83"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "riens S. 56. — Das Wort למס, welches (Job 6, 4) aus מס, von\nמסס, und aus ל-praefixum zusammengesetzt ist, nimmt der Talmud\nals ein Stammwort und erklärt es durch „Hund“, welcher im Grie-\nchischen למס heißen soll. Ohne hier die bereits vorhandenen Con-\njecturen dieses angeblich griechischen Wortes zu wiederholen, sei es\nmir gestattet, folgende Vermuthung hinzuzufügen. Wölfe, Hunde\nund alle diejenigen Thiere, welche durch ihre breite und hohle Zunge\nlappend trinken, heißen bei Homer (Il. 16, 161) Λάψοντες γλώσσῃ-\nσιν ὕδωρ, so heißt auch das Schlappen des Hundes beim Trinken:\nΛάψις. — Für Λάψων mochte ursprünglich Λάμψων geschrieben\nworden sein, worauf noch das lat. Lambo hinweist; ein ähnliches\nBeispiel ist Λαψάνη, welches wie Λαμψάνη eine und dieselbe Kraut-\nart bezeichnet. Während aber in Λάψων das μ verloren ging, so\nwarf למס das π aus, und man sprach Λάμσων für Λάμψων, dachte\naber hierbei an das Schlappen des Hundes, welches (Sanhedrin 68, a)\nausdrücklich als naturhistorisches Moment des Hundes erwähnt wird;\ndaß aber der Hund nach einer seiner Functionen benannt wurde, geht\naus dem vorhin erwähnten Namen נבחן und aus שואבות hervor.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "riens S. 56. — Das Wort "
+    },
+    {
+     "lang": "heb",
+     "text": "למס"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches (Job 6, 4) aus "
+    },
+    {
+     "lang": "heb",
+     "text": "מס"
+    },
+    {
+     "lang": "deu",
+     "text": ", von\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מסס"
+    },
+    {
+     "lang": "deu",
+     "text": ", und aus "
+    },
+    {
+     "lang": "heb",
+     "text": "ל"
+    },
+    {
+     "lang": "deu",
+     "text": "-praefixum zusammengesetzt ist, nimmt der Talmud\nals ein Stammwort und erklärt es durch „Hund“, welcher im Grie-\nchischen "
+    },
+    {
+     "lang": "heb",
+     "text": "למס"
+    },
+    {
+     "lang": "deu",
+     "text": " heißen soll. Ohne hier die bereits vorhandenen Con-\njecturen dieses angeblich griechischen Wortes zu wiederholen, sei es\nmir gestattet, folgende Vermuthung hinzuzufügen. Wölfe, Hunde\nund alle diejenigen Thiere, welche durch ihre breite und hohle Zunge\nlappend trinken, heißen bei Homer (Il. 16, 161) "
+    },
+    {
+     "lang": "grc",
+     "text": "Λάψοντες γλώσσῃ-\nσιν ὕδωρ"
+    },
+    {
+     "lang": "deu",
+     "text": ", so heißt auch das Schlappen des Hundes beim Trinken:\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Λάψις"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Für "
+    },
+    {
+     "lang": "grc",
+     "text": "Λάψων"
+    },
+    {
+     "lang": "deu",
+     "text": " mochte ursprünglich "
+    },
+    {
+     "lang": "grc",
+     "text": "Λάμψων"
+    },
+    {
+     "lang": "deu",
+     "text": " geschrieben\nworden sein, worauf noch das lat. Lambo hinweist; ein ähnliches\nBeispiel ist "
+    },
+    {
+     "lang": "grc",
+     "text": "Λαψάνη"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches wie "
+    },
+    {
+     "lang": "grc",
+     "text": "Λαμψάνη"
+    },
+    {
+     "lang": "deu",
+     "text": " eine und dieselbe Kraut-\nart bezeichnet. Während aber in "
+    },
+    {
+     "lang": "grc",
+     "text": "Λάψων"
+    },
+    {
+     "lang": "deu",
+     "text": " das "
+    },
+    {
+     "lang": "grc",
+     "text": "μ"
+    },
+    {
+     "lang": "deu",
+     "text": " verloren ging, so\nwarf "
+    },
+    {
+     "lang": "heb",
+     "text": "למס"
+    },
+    {
+     "lang": "deu",
+     "text": " das "
+    },
+    {
+     "lang": "grc",
+     "text": "π"
+    },
+    {
+     "lang": "deu",
+     "text": " aus, und man sprach "
+    },
+    {
+     "lang": "grc",
+     "text": "Λάμσων"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "grc",
+     "text": "Λάμψων"
+    },
+    {
+     "lang": "deu",
+     "text": ", dachte\naber hierbei an das Schlappen des Hundes, welches (Sanhedrin 68, a)\nausdrücklich als naturhistorisches Moment des Hundes erwähnt wird;\ndaß aber der Hund nach einer seiner Functionen benannt wurde, geht\naus dem vorhin erwähnten Namen "
+    },
+    {
+     "lang": "heb",
+     "text": "נבחן"
+    },
+    {
+     "lang": "deu",
+     "text": " und aus "
+    },
+    {
+     "lang": "heb",
+     "text": "שואבות"
+    },
+    {
+     "lang": "deu",
+     "text": " hervor."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Hund gehört zum Thiergeschlecht (Kilajim 8, 6; vergleiche\nhierzu §. 19), doch darf er mit dem Wolfe, mit dem er eine\nsolche äußere Aehnlichkeit besitzt, daß er zumal in der Abenddäm-\nmerung von ihm kaum zu unterscheiden ist (Berachoth 9, b), nicht\nzusammengespannt, oder miteinander gekreuzt werden, da er viel schwä-\ncher als der Wolf ist (Kilajim 1, 6). — Er ist gegen Hunger und Quä-\nlerei sehr abgehärtet (Beza 25, b. Raschi: אנדריש, endurci), indem\ner drei Tage lang die eingenommene Speise in den Eingeweiden be-\nwahrt (B. batra 8, a), und im äußersten Hunger sogar den eigenen\nUnrath verzehrt (B. Kama 92, b), wie es überhaupt seine Natur ist\nzu seinem Excrement stets zurückzukehren und dasselbe zu beriechen\n(Joma 53, b). Er pißt in der Regel an die Wand (B. batra 19, b).\n— Er wird das ärmste aller Thiere genannt, da man ihm in den\nStädten gar nicht und nur auf dem Lande kümmerlich etwas Speise hin-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Hund gehört zum Thiergeschlecht (Kilajim 8, 6; vergleiche\nhierzu §. 19), doch darf er mit dem Wolfe, mit dem er eine\nsolche äußere Aehnlichkeit besitzt, daß er zumal in der Abenddäm-\nmerung von ihm kaum zu unterscheiden ist (Berachoth 9, b), nicht\nzusammengespannt, oder miteinander gekreuzt werden, da er viel schwä-\ncher als der Wolf ist (Kilajim 1, 6). — Er ist gegen Hunger und Quä-\nlerei sehr abgehärtet (Beza 25, b. Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "אנדריש"
+    },
+    {
+     "lang": "deu",
+     "text": ", endurci), indem\ner drei Tage lang die eingenommene Speise in den Eingeweiden be-\nwahrt (B. batra 8, a), und im äußersten Hunger sogar den eigenen\nUnrath verzehrt (B. Kama 92, b), wie es überhaupt seine Natur ist\nzu seinem Excrement stets zurückzukehren und dasselbe zu beriechen\n(Joma 53, b). Er pißt in der Regel an die Wand (B. batra 19, b).\n— Er wird das ärmste aller Thiere genannt, da man ihm in den\nStädten gar nicht und nur auf dem Lande kümmerlich etwas Speise hin-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Salomo im Parchon (s. v. עז) das Jes. 23, 11 vorkommende מעוניה für\nמעוזיה. Es ist wahrscheinlich, daß ursprünglich נבחן, die chald. Participialform,\nfür נֹבֵחַ gelesen wurde, und daß das ו aus ן durch Verwechselung entstand; viel-\nleicht läßt sich so ארגז erklären; dieses Wort mag ursprünglich ארגן gelautet ha-\nben, das dem lat. arcanum (von arca) entspreche, dem Sinne nach, daß der ארגן\nzum Verbergen, Aufbewahren, Verheimlichen diente, und aus ן ent-\nstand ז.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Salomo im Parchon (s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "עז"
+    },
+    {
+     "lang": "deu",
+     "text": ") das Jes. 23, 11 vorkommende "
+    },
+    {
+     "lang": "heb",
+     "text": "מעוניה"
+    },
+    {
+     "lang": "deu",
+     "text": " für\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מעוזיה"
+    },
+    {
+     "lang": "deu",
+     "text": ". Es ist wahrscheinlich, daß ursprünglich "
+    },
+    {
+     "lang": "heb",
+     "text": "נבחן"
+    },
+    {
+     "lang": "deu",
+     "text": ", die chald. Participialform,\nfür "
+    },
+    {
+     "lang": "heb",
+     "text": "נֹבֵחַ"
+    },
+    {
+     "lang": "deu",
+     "text": " gelesen wurde, und daß das "
+    },
+    {
+     "lang": "heb",
+     "text": "ו"
+    },
+    {
+     "lang": "deu",
+     "text": " aus "
+    },
+    {
+     "lang": "heb",
+     "text": "ן"
+    },
+    {
+     "lang": "deu",
+     "text": " durch Verwechselung entstand; viel-\nleicht läßt sich so "
+    },
+    {
+     "lang": "heb",
+     "text": "ארגז"
+    },
+    {
+     "lang": "deu",
+     "text": " erklären; dieses Wort mag ursprünglich "
+    },
+    {
+     "lang": "heb",
+     "text": "ארגן"
+    },
+    {
+     "lang": "deu",
+     "text": " gelautet ha-\nben, das dem lat. arcanum (von arca) entspreche, dem Sinne nach, daß der "
+    },
+    {
+     "lang": "heb",
+     "text": "ארגן"
+    },
+    {
+     "lang": "deu",
+     "text": "\nzum Verbergen, Aufbewahren, Verheimlichen diente, und aus "
+    },
+    {
+     "lang": "heb",
+     "text": "ן"
+    },
+    {
+     "lang": "deu",
+     "text": " ent-\nstand "
+    },
+    {
+     "lang": "heb",
+     "text": "ז"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "6*",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "6*"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2572
+   ],
+   [
+    3308,
+    2564
+   ]
+  ],
+  "input_tokens": 3340,
+  "output_tokens": 1926,
+  "cost_usd": 0.0097,
+  "seconds": 13.7
+ }
+}

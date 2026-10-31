@@ -1,0 +1,385 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Altersepochen. — Aufenthalt der Thiere. — Hörner.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Altersepochen. — Aufenthalt der Thiere. — Hörner."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "27",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "27"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 42.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 42."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Altersepochen. Bei einigen lebendigen Geschöpfen sind die Na-\nmen derselben verschieden in den verschiedenen Lebensepochen. So\nheißt der männliche Mensch progressiv: ילד (hierfür auch תינוק, Säug-\nling), קטן, נער, בחור, איש, זקן und שב; der Mensch weiblichen Ge-\nschlechts: ילדה (hierfür auch תינוקת), קטנה, נערה, בוגרת, בתולה (wäh-\nrend der. Dauer des Mädchenstandes; sonst auch für diese Epoche:\nריבה), אשה, זקנה und שבה. — Ebenso entfaltet ist die Namensbezeich-\nnung einiger Species aus dem Kreise der vierfüßigen Säugethiere.\nSo heißt das Schaf im ersten Lebensjahre כבש oder כשב, im ersten\nMonat des zweiten Jahres פלגס, נוקד פרכדיגמא, (richtiger פרכריגמא\ns. §. 151 Anm.*), späterhin רחל; über diese und noch andere Namen\ndes Schafes s. ausführlich §. 151. — Das Rindgeschlecht heißt in\nallerersten Jugend עגל הרך, dann עגל, später עגלת בקר, עגלא תילתא\nund פר, s. das Ausführliche §. 160. — Das junge Kameel heißt\nהונן, oder גמל הרך und בן גמל s. §. 163. — Ebenso führt der Löwe\nverschiedene Namen in den verschiedenen Epochen s. §. 114. — Das-\nselbe ist auch bei einigen Fischen der Fall. S. Art. Pelamis.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Altersepochen. Bei einigen lebendigen Geschöpfen sind die Na-\nmen derselben verschieden in den verschiedenen Lebensepochen. So\nheißt der männliche Mensch progressiv: "
+    },
+    {
+     "lang": "heb",
+     "text": "ילד"
+    },
+    {
+     "lang": "deu",
+     "text": " (hierfür auch "
+    },
+    {
+     "lang": "heb",
+     "text": "תינוק"
+    },
+    {
+     "lang": "deu",
+     "text": ", Säug-\nling), "
+    },
+    {
+     "lang": "heb",
+     "text": "קטן"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "נער"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "בחור"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "איש"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "זקן"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "שב"
+    },
+    {
+     "lang": "deu",
+     "text": "; der Mensch weiblichen Ge-\nschlechts: "
+    },
+    {
+     "lang": "heb",
+     "text": "ילדה"
+    },
+    {
+     "lang": "deu",
+     "text": " (hierfür auch "
+    },
+    {
+     "lang": "heb",
+     "text": "תינוקת"
+    },
+    {
+     "lang": "deu",
+     "text": "), "
+    },
+    {
+     "lang": "heb",
+     "text": "קטנה"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "נערה"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "בוגרת"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "בתולה"
+    },
+    {
+     "lang": "deu",
+     "text": " (wäh-\nrend der. Dauer des Mädchenstandes; sonst auch für diese Epoche:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ריבה"
+    },
+    {
+     "lang": "deu",
+     "text": "), "
+    },
+    {
+     "lang": "heb",
+     "text": "אשה"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "זקנה"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "שבה"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Ebenso entfaltet ist die Namensbezeich-\nnung einiger Species aus dem Kreise der vierfüßigen Säugethiere.\nSo heißt das Schaf im ersten Lebensjahre "
+    },
+    {
+     "lang": "heb",
+     "text": "כבש"
+    },
+    {
+     "lang": "deu",
+     "text": " oder "
+    },
+    {
+     "lang": "heb",
+     "text": "כשב"
+    },
+    {
+     "lang": "deu",
+     "text": ", im ersten\nMonat des zweiten Jahres "
+    },
+    {
+     "lang": "heb",
+     "text": "פלגס"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "נוקד"
+    },
+    {
+     "lang": "deu",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "פרכדיגמא"
+    },
+    {
+     "lang": "deu",
+     "text": ", (richtiger "
+    },
+    {
+     "lang": "heb",
+     "text": "פרכריגמא"
+    },
+    {
+     "lang": "deu",
+     "text": "\ns. §. 151 Anm.*), späterhin "
+    },
+    {
+     "lang": "heb",
+     "text": "רחל"
+    },
+    {
+     "lang": "deu",
+     "text": "; über diese und noch andere Namen\ndes Schafes s. ausführlich §. 151. — Das Rindgeschlecht heißt in\nallerersten Jugend "
+    },
+    {
+     "lang": "heb",
+     "text": "עגל הרך"
+    },
+    {
+     "lang": "deu",
+     "text": ", dann "
+    },
+    {
+     "lang": "heb",
+     "text": "עגל"
+    },
+    {
+     "lang": "deu",
+     "text": ", später "
+    },
+    {
+     "lang": "heb",
+     "text": "עגלת בקר"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "arc",
+     "text": "עגלא תילתא"
+    },
+    {
+     "lang": "deu",
+     "text": "\nund "
+    },
+    {
+     "lang": "heb",
+     "text": "פר"
+    },
+    {
+     "lang": "deu",
+     "text": ", s. das Ausführliche §. 160. — Das junge Kameel heißt\n"
+    },
+    {
+     "lang": "heb",
+     "text": "הונן"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "גמל הרך"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "בן גמל"
+    },
+    {
+     "lang": "deu",
+     "text": " s. §. 163. — Ebenso führt der Löwe\nverschiedene Namen in den verschiedenen Epochen s. §. 114. — Das-\nselbe ist auch bei einigen Fischen der Fall. S. Art. Pelamis."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 43.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 43."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Aufenthalt der Thiere. Ueber den Aufenthalt des Viehes und\nder Thiere inner- und außerhalb des Hauses s. §. 3 und 4; über\nden der Fische §. 308. — Die Helminthen (§. 471 — §. 488) halten\nsich in den innern Organen, oder im Fleische anderer Thiere auf. —\nDie Vögel in Nestern (§. 106). Der Fuchs hält sich in Höhlen auf\n(Nedarim 81, b) und höhlte sich einst einen Kürbis aus, um sich da-\nrin einzunisten (Ketuboth 111, b). — Das Wiesel und der Iltis ver-\nweilen in Löchern und Gruben (Nidda 15, b), auch in Mauerlöchern\nund Ritzen (Pesachim 118, b), oder endlich auch unter Misthaufen\n(ibid. 8, b). — Das Schwein sucht gerne kothige Plätze auf (Be-\nrachoth 43, b), das wilde Schwein hingegen liebt Dickichte und sum-\npfige Gegenden (Pesachim 118, b). — Die Tauben werden nach\nihrem Aufenthalte benannt; s. §. 248; ebenso die Mäuse, s. §. 140\nund 137. — Die Hühner nehmen zuweilen die Nachtruhe in der Höhe\nvon Rauchfängen (Sabbat 77, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Aufenthalt der Thiere. Ueber den Aufenthalt des Viehes und\nder Thiere inner- und außerhalb des Hauses s. §. 3 und 4; über\nden der Fische §. 308. — Die Helminthen (§. 471 — §. 488) halten\nsich in den innern Organen, oder im Fleische anderer Thiere auf. —\nDie Vögel in Nestern (§. 106). Der Fuchs hält sich in Höhlen auf\n(Nedarim 81, b) und höhlte sich einst einen Kürbis aus, um sich da-\nrin einzunisten (Ketuboth 111, b). — Das Wiesel und der Iltis ver-\nweilen in Löchern und Gruben (Nidda 15, b), auch in Mauerlöchern\nund Ritzen (Pesachim 118, b), oder endlich auch unter Misthaufen\n(ibid. 8, b). — Das Schwein sucht gerne kothige Plätze auf (Be-\nrachoth 43, b), das wilde Schwein hingegen liebt Dickichte und sum-\npfige Gegenden (Pesachim 118, b). — Die Tauben werden nach\nihrem Aufenthalte benannt; s. §. 248; ebenso die Mäuse, s. §. 140\nund 137. — Die Hühner nehmen zuweilen die Nachtruhe in der Höhe\nvon Rauchfängen (Sabbat 77, b)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 44.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 44."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Hörner. Wir beginnen jetzt mit der Darstellung sämmtlicher\näußerer und innerer Theile der Thiere und lassen dieser die Beschrei-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hörner. Wir beginnen jetzt mit der Darstellung sämmtlicher\näußerer und innerer Theile der Thiere und lassen dieser die Beschrei-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2540
+   ],
+   [
+    3308,
+    2584
+   ]
+  ],
+  "input_tokens": 11352,
+  "output_tokens": 2412,
+  "cost_usd": 0.0936,
+  "seconds": 31.2
+ }
+}

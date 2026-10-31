@@ -1,0 +1,337 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "2\tDer Mensch. — Das Vieh.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "2\tDer Mensch. — Das Vieh."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "steht häufig das aram. בר *). — Das hinter dem Thiernamen gesetzte\nWort בר „auswärts“ bezeichnet das im wilden Zustand lebende Thier,\nz. B. איל הבר „der wilde Widder“ u. s. w. — In אוז בר „die wilde Gans“, חמור הבר „der wilde Esel“,\nבן נפילים (§. 277) bezeichnet בן\ndie Abstammung, der Skink ist ein Sohn des Krokodils. — Das\njunge Reem heißt ausführlich: אורזילא דבר ראימא (B. batra 74, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "steht häufig das aram. "
+    },
+    {
+     "lang": "arc",
+     "text": "בר"
+    },
+    {
+     "lang": "deu",
+     "text": " *). — Das hinter dem Thiernamen gesetzte\nWort "
+    },
+    {
+     "lang": "arc",
+     "text": "בר"
+    },
+    {
+     "lang": "deu",
+     "text": " „auswärts“ bezeichnet das im wilden Zustand lebende Thier,\nz. B. "
+    },
+    {
+     "lang": "heb",
+     "text": "איל הבר"
+    },
+    {
+     "lang": "deu",
+     "text": " „der wilde Widder“ u. s. w. — In "
+    },
+    {
+     "lang": "heb",
+     "text": "אוז בר"
+    },
+    {
+     "lang": "deu",
+     "text": " „die wilde Gans“, "
+    },
+    {
+     "lang": "heb",
+     "text": "חמור הבר"
+    },
+    {
+     "lang": "deu",
+     "text": " „der wilde Esel“,\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בן נפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 277) bezeichnet "
+    },
+    {
+     "lang": "arc",
+     "text": "בן"
+    },
+    {
+     "lang": "deu",
+     "text": "\ndie Abstammung, der Skink ist ein Sohn des Krokodils. — Das\njunge Reem heißt ausführlich: "
+    },
+    {
+     "lang": "arc",
+     "text": "אורזילא דבר ראימא"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. batra 74, b)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 2.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 2."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Mensch. Die Krone der lebendigen Schöpfung, der Mensch,\nheißt vermöge der vorzugsweise ihm innewohnenden Intelligenz: בעל\nשכל „vernünftiges Wesen“, im Gegensatz zu den vernunftlosen Geschö-\npfen, welche בעלי חיים הבלתי בעלי שכל „lebendige, vernunftlose Wesen“\nheißen. Ferner heißt der Mensch חי המדבר „das redende lebendige\nWesen“, während die übrigen Thiere בעלי חיים בלתי המדברים „nicht-\nredende lebendige Wesen“ heißen. Endlich heißt jener wegen seiner\naufrechten Stellung מהלך שתיים „Zweifüßler“ (Keritot 21, b), wäh-\nrend die vierfüßigen Thiere מהלכי ארבע, oder מהלכי כפים (Chulin\n70, b) heißen **).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Mensch. Die Krone der lebendigen Schöpfung, der Mensch,\nheißt vermöge der vorzugsweise ihm innewohnenden Intelligenz: "
+    },
+    {
+     "lang": "heb",
+     "text": "בעל\nשכל"
+    },
+    {
+     "lang": "deu",
+     "text": " „vernünftiges Wesen“, im Gegensatz zu den vernunftlosen Geschö-\npfen, welche "
+    },
+    {
+     "lang": "heb",
+     "text": "בעלי חיים הבלתי בעלי שכל"
+    },
+    {
+     "lang": "deu",
+     "text": " „lebendige, vernunftlose Wesen“\nheißen. Ferner heißt der Mensch "
+    },
+    {
+     "lang": "heb",
+     "text": "חי המדבר"
+    },
+    {
+     "lang": "deu",
+     "text": " „das redende lebendige\nWesen“, während die übrigen Thiere "
+    },
+    {
+     "lang": "heb",
+     "text": "בעלי חיים בלתי המדברים"
+    },
+    {
+     "lang": "deu",
+     "text": " „nicht-\nredende lebendige Wesen“ heißen. Endlich heißt jener wegen seiner\naufrechten Stellung "
+    },
+    {
+     "lang": "heb",
+     "text": "מהלך שתיים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Zweifüßler“ (Keritot 21, b), wäh-\nrend die vierfüßigen Thiere "
+    },
+    {
+     "lang": "heb",
+     "text": "מהלכי ארבע"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "מהלכי כפים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin\n70, b) heißen **)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 3.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 3."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Das Vieh. Da sämmtliche Geschöpfe ursprünglich im verwil-\nderten Zustande lebten, zum Theil aber domesticirt und gezähmt wur-\nden, so werden diese letzteren Säugethiere Vieh, die ersteren, im\nwilden Zustande noch verharrenden Säugethiere: Thiere genannt.\nDer Talmud macht, da es in religiös-gesetzlicher Beziehung (§. 19)\nhierauf ankommt, streng den Unterschied zwischen Vieh und Thier;\nund hat nur da, wo jene Beziehung nicht in Frage kommt, generelle\nNamen und Bezeichnungen für sämmtliche Säugethiere. Im letzteren\nFalle heißen sämmtliche zu essen gestattete (größeren) Säugethiere חיוהא\n(Meïle 20, b). Das Vieh heißt allgemein חיואי (Jebamoth 121, b)\nund am häufigsten בהמה, nicht bloß für das einzelne Viehstück, son-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Vieh. Da sämmtliche Geschöpfe ursprünglich im verwil-\nderten Zustande lebten, zum Theil aber domesticirt und gezähmt wur-\nden, so werden diese letzteren Säugethiere Vieh, die ersteren, im\nwilden Zustande noch verharrenden Säugethiere: Thiere genannt.\nDer Talmud macht, da es in religiös-gesetzlicher Beziehung (§. 19)\nhierauf ankommt, streng den Unterschied zwischen Vieh und Thier;\nund hat nur da, wo jene Beziehung nicht in Frage kommt, generelle\nNamen und Bezeichnungen für sämmtliche Säugethiere. Im letzteren\nFalle heißen sämmtliche zu essen gestattete (größeren) Säugethiere "
+    },
+    {
+     "lang": "heb",
+     "text": "חיוהא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Meïle 20, b). Das Vieh heißt allgemein "
+    },
+    {
+     "lang": "heb",
+     "text": "חיואי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Jebamoth 121, b)\nund am häufigsten "
+    },
+    {
+     "lang": "heb",
+     "text": "בהמה"
+    },
+    {
+     "lang": "deu",
+     "text": ", nicht bloß für das einzelne Viehstück, son-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Zuweilen hat jedoch das vorgesetzte בר, oder בת nicht diminutive Bedeu-\ntung, z. B. בר יוכני (§. 502), בת יענה (Strauß §. 240), בר אוזא (Ente §. 244),\nבר נפחא (§. 217), בר היריא (§. 192) u. a. m.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zuweilen hat jedoch das vorgesetzte "
+    },
+    {
+     "lang": "arc",
+     "text": "בר"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "בת"
+    },
+    {
+     "lang": "deu",
+     "text": " nicht diminutive Bedeu-\ntung, z. B. "
+    },
+    {
+     "lang": "arc",
+     "text": "בר יוכני"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 502), "
+    },
+    {
+     "lang": "heb",
+     "text": "בת יענה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Strauß §. 240), "
+    },
+    {
+     "lang": "arc",
+     "text": "בר אוזא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Ente §. 244),\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בר נפחא"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 217), "
+    },
+    {
+     "lang": "arc",
+     "text": "בר היריא"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 192) u. a. m."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Die Vögel nennt der Talmud nicht מהלכי שתיים und wohl mit Recht,\nda bei ihnen die Flügel gewissermaßen die Vorderfüße ersetzen. Die Flügel dienen\nihnen nicht, wie die Hände, zum Fassen, sondern zum Sichfortbewegen. Vgl. Voigt\n(Lehrbuch der Zoologie, 2 Thl. S. 17). Vgl. S. Ar. Ch. Mispat §. 390, 1,\nwo der durch den Flug angerichtete Schaden als תולדה דהרגֿל angesehen wird.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Vögel nennt der Talmud nicht "
+    },
+    {
+     "lang": "heb",
+     "text": "מהלכי שתיים"
+    },
+    {
+     "lang": "deu",
+     "text": " und wohl mit Recht,\nda bei ihnen die Flügel gewissermaßen die Vorderfüße ersetzen. Die Flügel dienen\nihnen nicht, wie die Hände, zum Fassen, sondern zum Sichfortbewegen. Vgl. Voigt\n(Lehrbuch der Zoologie, 2 Thl. S. 17). Vgl. S. Ar. Ch. Mispat §. 390, 1,\nwo der durch den Flug angerichtete Schaden als "
+    },
+    {
+     "lang": "heb",
+     "text": "תולדה דהרגֿל"
+    },
+    {
+     "lang": "deu",
+     "text": " angesehen wird."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3292,
+    2466
+   ],
+   [
+    3292,
+    2814
+   ]
+  ],
+  "input_tokens": 3309,
+  "output_tokens": 2390,
+  "cost_usd": 0.0114,
+  "seconds": 13.8
+ }
+}

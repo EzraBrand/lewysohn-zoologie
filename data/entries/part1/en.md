@@ -1,0 +1,1446 @@
+# First part: General zoology (pp. 1–63)
+
+### ‎First Part. General Zoology.
+
+### ‎§. 1.
+
+‎Living creatures. The Talmud designates all living creatures with the general expressions: חי "living thing" (Nidda 17a), נפש "ensouled being" (Berachoth 44b) and בעלי חיים "living beings" (B. mez. [=Bava Metzia] 32b).
+
+‎These are either of the male sex, זכר, or of the female sex, נקבה, or sexless טומטום (Bechoroth 41a), or finally hermaphroditic אנדרוגינוס (Ἀνδρογύνης [Androgynēs] ibid.).
+
+‎The castrated creature (§. 20) is called סריס (ibid. 42b *).
+
+‎In humans and mammals the embryo is called עובר, the offspring: ולד; in birds the chick not yet hatched is called רצוצא (ibid. 8b), the young not yet fledged אפרוח**) (Beza 4a), the young that has already grown somewhat older: גוזל***).
+
+‎Another designation for the young is the prefixing of בן or בת before the actual name of the animal, e.g. בן יונה, the young dove, בן חמור, the young ass, בת חמרא, the young she-ass etc. For בן [p. 2] the Aramaic בר often stands *).
+
+‎The word בר "outside", placed after the name of the animal, designates the animal living in the wild state, e.g. חמור הבר "the wild ass", אווז בר "the wild goose", איל הבר "the wild ram" etc.
+
+‎In בן נפילים (§. 277) בן designates descent: the skink is a son of the crocodile.
+
+‎The young Reem is called, in full: אורזילא דבר ראימא (B. batra [=Bava Batra] 74b).
+
+### ‎§. 2.
+
+‎Man. The crown of living creation, man, is called, by virtue of the intelligence dwelling preeminently in him: בעל שכל "rational being", in contrast to the irrational creatures, which are called בעלי חיים הבלתי בעלי שכל "living, irrational beings". Further, man is called חי המדבר "the speaking living being", while the other animals are called בעלי חיים בלתי המדברים "non-speaking living beings". Finally, on account of his upright posture he is called מהלך שתיים "biped" (Keritot 21b), while the four-footed animals are called מהלכי ארבע, or מהלכי כפים (Chulin 70b)**).
+
+### ‎§. 3.
+
+‎Livestock. Since all creatures originally lived in the wild state, but some were domesticated and tamed, these latter mammals are called livestock, while the former mammals, still persisting in the wild state, are called beasts. Since this matters in religious-legal respects (§. 19), the Talmud strictly distinguishes between livestock and beast, and only where that respect does not come into question does it have general names and designations for all mammals. In the latter case all (larger) mammals permitted for eating are called חיותא (Meïle 20b). Livestock in general is called חיואי (Jebamoth 121b) and most frequently בהמה, not merely for the individual head of livestock, but [p. 3] also collectively for the livestock kind in general (Temura 9a), though the word also has the plural form בהמות.
+
+‎In religious-legal respects one distinguished בהמה טהורה "clean, i.e. permitted for eating, livestock", and בהמה טמאה "unclean, i.e. forbidden for eating, livestock" (Kilajim 8, 2).
+
+‎With respect to size there is בהמה גסה "large livestock", e.g. the cow and her calf, since the latter too is so called on account of its later size (§. 5), and בהמה דקה "small livestock" (Chulin 42a*).
+
+‎Finally, with regard to habitat one distinguished ביתיות "living in the house" and מדבריות "living in the open" livestock (Beza 40a**). The latter livestock was also called חיואי ברייתי (Chulin 43b). The German word "Hausthier" (domestic animal) is more comprehensive and designates every domesticated animal, whereas the Talmud understands by this only the livestock kind.
+
+### ‎§. 4.
+
+‎Beasts. By beast the Talmud understands both all those living in the wild state and also the draught animals which, though domesticated, do not belong to the livestock kind. The general name is חיה "the living thing".
+
+‎With respect to size one distinguished חיה גסה "large beast" (A. Sara [=Avodah Zarah] 16b) and חיה דקה "small beast" (B. Kama [=Bava Kamma] 80a). To the latter belong the deer, the fox etc.
+
+‎In ritual respects there is חיה טמאה "unclean" and חיה טהורה "clean" beast (Kilajim 8, 2), the former being forbidden for eating, the latter permitted.
+
+‎Aquatic animals are called חיה שבים "beast of the sea" (Kelim 10, 1).
+
+‎The beast of prey is called חיה רעה "the evil beast" (Sanhedrin 38b). In contrast to the domestic animals, the animals living outside (like the livestock living outside, §. 3) are called חיואי ברייתי***) [p. 4] (Chulin 43b).
+
+‎Small beasts of prey, such as martens, polecats etc., are also called ריחשא (Sabbat 146b). Field animals are called, in an improper sense, ערודי (B. batra 36a; see §. 167).
+
+### ‎§. 5.
+
+‎Birds. The general name for fowl is עוף, pl. עופות "flying".
+
+‎In religious-legal respects (§. 23) one distinguished עוף טהור "clean" and עוף טמא "unclean bird" (Chulin 138b).
+
+‎In consideration of size there is עוף הגס "large" and עוף הדק "small bird" (ibid. 42a). To the former kind belong geese, chickens, to the latter doves, sparrows *).
+
+‎Finally one distinguished עוף של יבשה "land bird" and עוף של מים "water bird" (Chulin 56a).
+
+‎It may further be noted that birds, because of their pecking into edible objects, are generally called נקורי (Sabbat 110b **), and that young fowl was named בן עוף (Tos. [=Tosafot] Ketuboth 5a, s.v. שמא).
+
+‎צפור is said to be everywhere only the name for clean birds (see §. 237); specifically, however, the sparrow is called צפור.
+
+‎A species of locust is called צפורת כרמים "bird of the vineyards" (see §. 375).
+
+### ‎§. 6.
+
+‎The amphibians. For this class of animals the Talmud has only general designations, such as רחש "that which moves" (Chulin 10a), שרץ "that which creeps" (ibid. 126b) and שקץ "that which arouses disgust" (Nidda 21a). Only the snake is called: חיה הרומשה "creeping beast" (Tos. ibid. 23, s.v. ליתני). An opinion, cited by Aruch (s.v. סר), that amphibians are supposed to be called כרוי דבי כרבי (Chulin 62b), is incorrect; cf. §. 394.
+
+‎According to Reggio (Pentateuch edition, Lev. [=Leviticus] 11, 10) the amphibians are supposedly meant by נפש החיה אשר במים.
+
+### ‎§. 7.
+
+‎The Fish. General names for fish are דג, כוורא (M. Katan [=Moed Katan] 11a) and נון (Nedarim 54b). Sea fish are called דגים של ים [p. 5] (Nidda 25b). The biblical דגה denotes aquatic animals in general (see Ibn Esra on Exod. [=Exodus] 7, 18); the same word in the Talmud, however, denotes only the fish kind, and indeed both large and small fish (see Nedarim 51b*). Some species of fish had place-names; cf. §. 310.
+
+### ‎§. 8.
+
+‎The Insects. The general name for insects is שרץ "swarming thing", and one distinguished שרץ ארץ "land insect", שרץ מים "water insect" and שרץ עוף "winged insect" (Pesachim 24a). Maimuni (Maachaloth Asuroth ch. 2, §. 12 ff.) makes the following distinction: שרץ המים are all creatures not belonging to the fish kind but living in the water, e.g. leeches, seals etc. רומש על הארץ are helminths and the worms arising from the putrefaction of foreign substances, e.g. intestinal worms, dung beetles etc., whereas שורץ על הארץ denotes the creatures arising through Generatio propagativa, i.e. through copulation.
+
+### ‎§. 9.
+
+‎The Worms. The Talmud knows not only a number of the worms that exist externally, but also a considerable number of helminths, both in the interior of the human body and in that of another animal body, which will be dealt with in §. 471 — 488 of this work.
+
+‎General names are: רומש "swarming thing" (Nidda 21a), תולע (Aboth 3, 1) and רמה (ibid.); on ריחשא see §. 475.
+
+### ‎§. 10.
+
+‎Zoophytes. The Talmud does indeed know the three kinds of sponge (§. 488 ff.), as well as coral (§. 493), but not as living beings; it regards them as plants; it does, however, mention the earth-mouse (§. 494) and another, but fabulous, zoophyte (§. 506). Nothing concerning polyps occurs in the Talmud.
+
+‎Let it be remarked here in passing that some animal species, though known to the Talmud, are not mentioned in it as animals; thus of the musk deer (§. 150) only the musk is mentioned, of the sea-nail (§. 513) only the shell, [p. 6] of the pearl oyster (§. 495) and the pen shell (§. 496) only the pearl, of the sperm whale (§. 181) only the ambergris.
+
+### ‎§. 11.
+
+‎Fabulous Animals. Talmudic fable both attributes supernatural qualities to real animals and invents animals. We have made use of the former aspect of fable in the presentation of the individual animals insofar as some natural-historical element underlies it; the latter aspect insofar as we give, in the last section of this work, a concise compilation of all the fabulous animals of the Talmud. Thus, while the fables about the salamander, whale, chameleon etc. are mentioned incidentally in the preceding sections, the last section deals with the phoenix, the fire-worm, the half-man etc.
+
+### ‎§. 12.
+
+‎Number of the Animals. Although living creatures are innumerable (Ps. [=Psalms] 104, 25), the Talmud nevertheless gives numerical proportions, partly in round numbers, partly in indefinite quantitative degrees. Thus it is said: Of the cattle kind there are more unclean than clean kinds (species), of birds more clean than unclean, of which the former are altogether innumerable. Of birds of prey there are in the Orient a hundred kinds, of unclean*) fish seven hundred, and of locusts eight hundred kinds (Chulin 63b). Here belongs the statement that of all land animals, with the exception of the weasel, an equivalent is found in the water (ibid. 127a**). On the number of animal names expressly mentioned in the Talmud see §. 522.
+
+### ‎§. 13.
+
+‎Origin of the Animals. The creatures originally called into existence through primitive origination either propagate themselves through copulation (Generatio propagativa), or they continually arise [p. 7] from animal or other substances that have passed into putrefaction (Generatio originaria). Concerning primitive origination the Talmud says: The mammals*) were created from earth, the fish from water, and the birds scaled on their feet from water mixed with sand (רקק, R. גרבילא, graveleux, gravelly) (Chulin 27b).
+
+‎New species no longer arise, and even the mule, which still comes forth through crossbreeding today, was originally created (Pesachim 54a). On the other hand, some species vanished from existence, such as the Schamir worm (§. 500) and the Tachasch animal (§. 176).
+
+### ‎§. 14.
+
+‎Generatio originaria. By this name one understands the origination of living things from organic substances without preceding copulation and hence without development from the egg.
+
+‎The doctrine of some physiologists, Omne vivum ex ovo, according to which only a Generatio propagativa (§. 15) is assumed, does not agree with the view of the Talmud. It mentions several creatures that arise only from other organic substances; to these belong lice (§. 451), phthiriasis (§. 473), the helminths under the skin of fish (§. 486), the earth-mouse (§. 494), the worms in the flesh of fruit (§. 468), the little fish in fish brine (§. 359), the maggot from spoiled bran (or fruits) (§. 469), as well as finally the salamanders (§. 278) and fire-worms (§. 499) arising (fabulously) from fire. Indeed, the biblical account of the origin of the first woman already gives occasion for assuming Generatio originaria, which is why, from the Talmudic standpoint, one can only find the Talmudic view natural as against that doctrine. Moreover, this view is shared by the most recent naturalists. "If," says Voigt [=F. S. Voigt, Lehrbuch der Zoologie (Stuttgart 1835–40); the text names it (p. 9: "Voigt, Lehrb. d. Zool.")] (loc. cit. 1. p. 30), "at any season and under any circumstances one puts, e.g., hay, and best of all old hay, into a vessel of water and leaves it standing open in the light for a few days, there forms on the surface every time a turbid, fat-like skin, a small portion of which, placed under the microscope, shows many thousands of swarming infusoria that have arisen in the meantime."
+
+### ‎[p. 8] §. 15.
+
+‎Generatio propagativa. The generation of by far most living creatures takes place through copulation. The act itself occurs in various ways. "All creatures," says the Talmud (Bechoroth 8a), "copulate by mounting, so that the male comes to stand on the back of the female during coitus; only man, the fish and the serpents copulate face to face, so that the female comes to lie on her back during that act.
+
+‎This statement contains several inaccuracies; for by far most fish accomplish copulation by rubbing their bellies against one another, and some species, such as the thornback ray and the stingray, even formally mount one another (Aristotle, History of Animals 5, 4, 1). Only the crocodile (belonging, to be sure, to the lizard family, but living for the most part in the water) copulates in the manner stated by the Talmud.
+
+‎The Talmud was probably thinking of the whale-like aquatic animals, which according to Oppian (cited in Harduin on Plin. h. n. [=Pliny the Elder, Natural History (Naturalis historia)] 9, 50, 74) perform coitus in the human manner.
+
+‎Among the fish, however, the moray (§. 336) does copulate in the stated manner. Aristotle (Thierg. [=Aelian, On the Nature of Animals (De natura animalium; German title Thiergeschichte)] 5, 3, 2) says: The footless and elongated animals, e.g. the serpents and the moray, entwine with their bellies turned toward each other, and the serpents in particular coil around each other so closely that their coupling looks like a serpent with two heads.
+
+‎Of the camel it is said in our Talmud passage that it copulates back to back (אחור כנגד אחור), which agrees with Aristotle (ib. 5, 12, 13); he says: The camel urinates and copulates, as was said above, backwards. Here he is probably referring to History of Animals 5, 2, 4; but in that passage Aristotle says explicitly: Copulation does not take place backwards, rather the female lies down and the male encloses her. One of the two passages must therefore be emended here.
+
+‎The serpent, our passage further states, receives the male even when pregnant, whereas cattle no longer admit the male once they are pregnant.
+
+‎Finally, it is also remarked of the camel that it is very wild during copulation (Sanhedrin 37b; but see Rashi). On the term for coitus cf. §. 43.
+
+### ‎[p. 9] §. 16.
+
+‎Mating season. The Animalia nocturna copulate at night, the A. diuturna in the daytime, man alone at any time. The time of birth, or respectively the time of egg-laying, also follows this determination of time (Beza 7a).
+
+‎Cattle, beasts (and birds*) copulate preferably in springtime (R. ha-Schana [=Rosh Hashanah] 11a).
+
+‎We mention here a Talmudic statement that requires various corrections. It reads: כל המוליד מניק וכל המטיל בצים מלקט חוץ מעטלף שאף על פי שמטיל בֵּצים מניק "every animal that bears live young suckles it; every egg-laying one picks up food for it with its beak; only the bat is egg-laying and nevertheless suckling."
+
+‎We deal with this incorrect statement concerning the bat in §. 136; but the first part of the Talmudic statement too must be restricted to the quadrupeds, the mammals proper, for among the insects as well many bring forth live young, e.g. the scorpion (Aelian Thierg. 6, 20), the flesh-fly (Sarcophaga carnaria; Voigt l. c. [=loco citato: in the work cited above] 5, p. 285); the female drops the maggots onto meat, and there they immediately begin to feed. Likewise among the serpents the common viper (Vipera Berus; Voigt l. c. 3, p. 72) brings forth live young, and yet neither the serpent nor the insect suckles.
+
+### ‎§. 17.
+
+‎Gestation period. The greatest difficulty is presented by the Talmud passage (Bechoroth 8a) on the determination of the gestation period. It contains partly inexact, partly entirely incorrect statements, which, as we shall later show in the case of other naturalists as well, is due to a lack of observation. In this the Talmud for the most part merely followed the errors of the ancient naturalists. We list here the animals in the order of the said Talmud passage. Of the hen it says: הרנגולת לכ״א יום "the hen at 21 days". Rashi explains: "After the fertilizing treading of the cock, the egg remains inside the hen for 21 days until completion."**)
+
+‎But that is certainly not what [p. 10] the Talmud means by that expression, for the egg of the domestic hen begins to form immediately after the treading of the cock and is for the most part fully formed within 10 days (Arist. [=Aristotle] loc. cit. 6, 2, 9); the chicks, on the other hand, hatch only on the 20th or 21st day (Voigt, Lehrb. d. Zool. [=F. S. Voigt, Lehrbuch der Zoologie (Stuttgart 1835–40)] 2. p. 41), and this is what the Talmud had in mind *). The dog carries 50 days; according to Aristotle (ib. 5, 12, 6) 60 to 63 days.
+
+‎The cat 52 days; according to Aristot. (l. c. 6, 29, 3) the cat is supposed to be equal to the dog in this respect; both statements are inexact, for the cat carries 55 days (Voigt l. c. 1. p. 277).
+
+‎The pig 60 days.
+
+‎The fox and all kinds of שרצים (here probably meaning the small beasts of prey, such as weasel, marten **) etc., since these are also called ריחשא, see §. 4) 6 months.
+
+‎The wolf, lion, bear, leopard, panther, elephant, ape and the long-tailed monkey 3 years.
+
+‎The serpent 7 years and the flat-headed adder 70 years.
+
+‎All these determinations, especially the latter false ones, find their explanation in the words of Aristotle. He says (l. c. 5, 12, 14): "The female of the elephant carries for two years, and, as a uniparous animal, bears one young of the size of a calf 2 to 3 months old." Pliny refers to this passage (h. n. [=Pliny the Elder, Natural History (Naturalis historia)] 8. 10, 10) when he says: "The common people believe that the elephant goes pregnant for 10 years, according to Aristotle, however, only two years ***)." But if we compare this passage with another (l. c. 6, 25, 2), where Aristotle says: "The impregnated female of the elephant carries, according to some, 18 months, according to others three years. This disagreement arises from the fact that one does not easily get to see their copulation" †), then it can be explained that the Talmud adopted as its own the belief current among the people, [p. 11] whereas with those domestic animals whose copulation can easily be observed and customarily is observed, it does in fact give correct data. Thus it states that clean small cattle go pregnant 5 months, large cattle 9 months, and large unclean cattle 12 months*). Compare with this Aristotle (l. c. 6, 19, 1): The sheep and the goat carry 5 months; further (ibid. 6, 22, 1): The mare carries 11 months, and with the twelfth she foals. On the other hand, the general talmudic determination again cannot apply to the camel, since according to Aristot. (ibid. 5, 12, 13) it carries five months.
+
+‎The human female carries 9 months (Nidda 31a) or 271 days (ibid. 38b, according to the numerical value of the word הריון); in some regions she as a rule carries only 7 months (Jebamoth 37a).
+
+### ‎§. 18.
+
+‎Eggs. The eggs of clean birds (§. 23) differ from those of unclean ones, and the eggs of both kinds from those of amphibians, in the following way. The eggs of clean birds are blunt at one end (כד, Rashi: פלטא, flat), and taper more to a point at the other. Furthermore, in them the egg white (חלבון, R. אלבון, album) surrounds the yolk (חלמון**), R.: מויל, moyeu); in unclean birds, on the other hand, the eggs are either blunt (round) at both ends, or pointed, and in them (sometimes) the first liquid layer in the egg is yellow and the inside of the egg white (Chulin 64a). The former factor of external shape, however, does not decide conclusively about the cleanness or uncleanness of the bird (ibid.). The said distinction was also made with regard to fish. The roe of clean fish is blunt and pointed at the ends, that of unclean fish blunt or pointed at both ends (ibid.).
+
+‎The eggs of amphibians have no separate yolk and white, but have them mixed together (ibid.). The latter statement appears not to be entirely [p. 12] correct, for the eggs of amphibians do indeed have yolk and egg white, and even among insects only the spider has so abundant a yolk that the egg consists almost entirely of it. Cf. the detailed discussion of this in Voigt l. c. 1. p. 34.
+
+‎On the brooding of birds' eggs see §. 183; on the development of the brood of fish eggs §. 304.
+
+‎The ovary of birds with the small eggs in the process of formation is called שלל של ביצים, that with the larger, almost fully formed eggs: אשכול של ביצים (Beza 7a*).
+
+### ‎§. 19.
+
+‎Crossbreeding. All those animals that copulate in the same way (§. 15) and have the same gestation period (§. 17) can mate with one another and bear hybrids (כלאים), thus the goat with the sheep, the horse with the ass, etc. (Bechoroth 8a), and this mixing can be brought about not only among the different species that belong together either to the class of domestic cattle or to that of wild animals, but also between individuals of which one belongs to the cattle class and the other to the wild-animal class, thus the goat with the deer (Chulin 8a), the peacock with the cock, the domestic hen with the partridge (B. Kama 55a), etc. But since crossbreeding not only of cattle and wild animals, but also of different species within the cattle class or within the wild-animal class, is forbidden by the Law (Lev. 19, 19), the Talmud considered it necessary to fix the class of various species. Thus the aurochs and the pig are expressly counted among cattle, the dog, the wild ass, the elephant and the ape among wild animals (Kilajim 8b). That the Talmud considered this determination necessary may be sought in the conceptual definition of cattle and wild animal. By the former one as a rule understands the animals most easily and most frequently domesticated (§. 3), and it was therefore necessary to note that the aurochs, although it is not domesticated, nevertheless belongs to the cattle class in religious-legal respect (see §. 158). Such a determination was also necessary in the case of the pig, since on the one hand it does not, like clean cattle, live solely on vegetable food (§. 170), and also easily relapses into the wild state; the pig is therefore reckoned among cattle despite the qualities mentioned.
+
+‎[p. 13] The prohibition of crossbreeding was further considered necessary for the wolf with the dog, the fox with the Spitz dog, the goat with the deer, the ibex with the sheep, the horse with the mule, the mule with the ass, and finally the ass with the wild ass (Kilajim 1b). That necessity arose because the pairs mentioned in each case have a certain external resemblance to each other, for which reason the two individuals of different natural kind could easily be regarded as one and the same species.
+
+‎Another reason for the necessity of the prohibition of crossbreeding the peacock with the cock and the hen with the partridge emerged from the fact that these kinds of birds are raised together, for which reason one might erroneously consider their crossbreeding permitted (B. Kama 55a).
+
+‎Mules of different natural descent, of which it is not known whether they were foaled by a she-ass or by a mare (§. 169), may not be crossed even with one another (Kilajim 8, 5).
+
+‎The raven and the starling frequently mate with each other (B. Kama 92b).
+
+‎The hybrid of the he-goat and the doe is called כוי (Chulin 80a). Incidentally, not all statements of the Talmud about hybrids are correct. Thus it regards the water snake (§. 300) as a hybrid of the snake and the toad (Chulin 127a), and the leopard as a hybrid of the boar and the lioness (see Bartenoro Aboth 5, 20).
+
+### ‎§. 20.
+
+‎Castration. Like crossbreeding, castration (Lev. 22, 24) is also forbidden. Forcible castration is performed on male animals by cutting out their testicles (B. mez. 90b). Cf. Tos. ibid. 90a. s.v. דגנבין.
+
+‎In female animals castration is performed by cutting away something of the womb (Sanhedrin 93a; §. 171). The cock is made infertile simply by cutting off his comb, since he thereby loses not the capacity but indeed the desire for mating (Sabbat 110b).
+
+‎Castrated oxen are especially suited to the plough, and bulls are kept only for breeding (B. mez. 90b*).
+
+### ‎[p. 14] §. 21.
+
+‎Clean and unclean cattle. The distinguishing signs between clean (edible) and unclean (inedible) cattle are already given by the biblical law (Lev. 11, 3). The former chews the cud and has cloven hooves; the latter either lacks both characteristics or possesses only one of them. The Talmud (Chulin 59a) adds that an animal which has no upper teeth must undoubtedly chew the cud and have cloven hooves; only the hare and the rabbit have upper teeth and chew the cud as well, and likewise the camel chews the cud, although instead of the grinding teeth (molars), which it lacks, it has biting teeth. Cf. §. 163. The young camel, however, does not have the latter teeth either (Chulin ibid.).
+
+‎A further difference is that in clean cattle the flesh under the hip bone (§. 167) can be torn both lengthwise and crosswise, which among unclean cattle is otherwise the case only with the wild ass (ibid.).
+
+### ‎§. 22.
+
+‎Clean and unclean beasts. The distinguishing signs between clean and unclean cattle given in the preceding article do indeed also apply to determining the cleanness of beasts, since the law (Lev. 11, 2) groups together חיה „beast“ and בהמה „cattle“ with respect to the commandment concerning the permission or non-permission to eat them; yet it was necessary to distinguish the clean beast from clean cattle by further characteristics, because each of these two kinds is subject to a regulation belonging exclusively to it. Of cattle only the fat, but not the suet (§. 92), may be eaten, whereas in the case of the beast both are permitted to be eaten (Chulin 59b); on the other hand, the blood of the beast, and not of cattle, must be poured out and covered (כיסוי דם) according to the regulation concerning the blood of birds (ibid. 83b). Thus in the case of clean beasts a twofold distinguishing characteristic was needed, in order to distinguish it both from the unclean beast and from clean cattle.
+
+‎The one characteristic, chewing the cud and cloven hooves, distinguishes it from unclean beasts; the second characteristic consists in [p. 15] the nature of the horns. The clean beast must not only chew the cud and have cloven hooves, but must also possess forked horns. If these are not forked (מפוצלות, Raschi: פורקיירש, furcosa, fourcher), then they must be splintered, scale-like (כרוכות), notched (חרוקות, Raschi: קרנייר, cran, creneler) and הדורות. This last word is explained in various ways. Aruch (and so the later decisors rule; see Jore Dea §. 80, 1) reads הדורות and explains it as: round (in distinction from the flat goat's horn); Raschi reads: חדורות and explains it as: pointed.
+
+‎We may, however, well adhere to the final result of the aforementioned decisors. On the unicorn cf. §. 174; on the antelope (קרש) §. 146; on the gazelle species (עיזא כרכוז) §. 157.
+
+### ‎§. 23.
+
+‎Clean and unclean birds. The law (Lev. 11, 13—19) does enumerate the birds forbidden to be eaten, but gives no characteristic sign for determining the cleanness or uncleanness of birds, which, however, seemed all the more necessary since many a bird mentioned in the law has the addition: למינו or למינהו „after its kind“; it was therefore necessary to make the related species of the forbidden birds recognizable by general characteristics. The Talmud (Chulin 65a) therefore sets out the following conditions for establishing a clean bird. First, it is not a bird of prey, i.e. it does not kill and devour other birds; second, besides the front toes it has an אצבע יתירה. According to most opinions this is the hind toe, and although most birds of prey also possess it, the clean bird, on a stretched cord, will divide its toes in such a way that three (the front toes) are on one side of it and the hind toe on the other side; the unclean bird, by contrast, will divide its toes two and two, or two and three.
+
+‎R. Nissim (on Alfasi) explains that expression differently, namely that the elongation of the middle front toe is meant. We shall return to this in §. 193.
+
+‎Third, clean birds have a crop; fourth, a stomach which has a double skin that can easily be peeled apart; finally, fifth*), the clean bird too catches in the air [p. 16] food thrown to it, but then lays it down on the ground and breaks it into pieces with its beak; the unclean bird, by contrast, swallows the thrown food in the air, or it presses it firmly to the ground with one foot and then tears off pieces with its beak. Cf. Raschi on Chulin 62a and Tos. ibid. s.v. הדורס.
+
+‎The incorrect statement made by Rashi (Chulin 59a), namely that the unclean bird lifts its food with its foot and puts it into its beak, is partly refuted by the cited Tosephot and partly abandoned by Rashi himself (Nidda 50b).
+
+‎Moreover, the explanation of the said Tosephot, that by דריסה of the unclean bird is to be understood the tearing apart and devouring of another bird not yet completely killed, can likewise refer only to the true birds of prey, for the same expression is also used of the moorhen (תרנגולתא דאגמא) (Chulin 62b), and yet this is not a bird of prey (see Voigt l. c. 2, p. 379); it is, however, certainly דורס, i.e., it presses its food firmly against the ground with one foot and tears pieces off it (Nidda 50b). On the distinguishing marks of the eggs of clean and unclean birds see §. 18 and below §. 183.
+
+### ‎§. 24.
+
+‎Clean and unclean fish. The Law itself (Lev. 11, 9) designates as clean fish those which have scales and fins*). The Talmud (Nidda 51b) extends these rules to the effect that scaled fish undoubtedly possess fins; one may therefore eat a piece of fish on which the scales are still visible, since the fish, while it was whole, certainly also possessed fins; indeed, one may even eat the whole scaled but finless fish, since it is to be assumed that the fins are, or have become, invisible either through their extraordinary smallness or through being lost. [p. 17] On the other hand, a finned fish can be scaleless, in which case the fish is unclean.
+
+‎The Talmud (A. Sara 40a), however, adds still other distinguishing marks. The clean fish have a complete spinal column (שדרה), whereas the unclean have none. Accordingly, the cartilaginous fishes, such as the ray, the shark, the chimaera and others, are to be regarded as unclean, for their spinal column consists only of separate vertebral bodies, which are strung together by a gelatinous substance forming a cord (Voigt l. c. 3. p. 133 and 284). Only the bony fishes have a closed spinal column.
+
+‎Another distinguishing mark is the shape of the head. The clean fish have a head that ends more or less broadly, whereas the unclean have a head that tapers more or less to a point. One may think here of the eel, the globefish, the sawfish and others.
+
+‎Yet another mark of distinction is the shape of the bladder (שילפוחא, Rashi: ווישיאה, vessie); in the clean fish it is blunt at one end and pointed at the other, in the unclean either blunt or pointed at both ends alike (A. Sara 40b). Finally, the shape of the roe is also accepted as a distinguishing mark, which was discussed above §. 18. On the alleged difference in the mode of breeding of clean and unclean fish cf. in detail §. 303.
+
+### ‎§. 25.
+
+‎Clean and unclean insects. Of this class of animals it is only a number of locusts that are permitted to be eaten. The Law (Lev. 11, 21—22) gives as the sign of cleanness merely that the four locusts mentioned by name have, besides the four forelegs, two leaping legs as well. The Talmud (Chulin 59a), however, extends the above rule as follows: the clean locust has four forelegs, four wings, two leaping legs, and the wings are so long and so broad that they cover the greater part of the hind body. We shall return to this in detail in §. 372.
+
+### ‎§. 26.
+
+‎Clean and unclean worms. The Law has no clear rule on this; the Talmud (Chulin 67a), however, derives from the biblical expression שרץ השרץ על הארץ “creeping thing that creepeth upon the earth” (Lev. 11, 41) the permission to eat such worms as do not move about in the open but are found inside other bodies, [p. 18] e.g. the maggots in the flesh of fruits, in the flesh of fish, in drinkable liquids. We shall return to this in connection with the helminths and water worms.
+
+### ‎§. 27.
+
+‎We now come to the nervous system and its parts, both the visible ones and the invisible sensory nerves; first we give the physiology of animals and follow it with the description of all the parts of the body, or the anatomy of animals.
+
+### ‎§. 28.
+
+‎Brain. The brain and its extension into the spinal cord is in all living creatures the highest and noblest organ. It is called מוקר (Chulin 93a) and most frequently מוח (ibid. 54a). It is enclosed in the skull (ארעיתא Ketuboth 77b or גלגלת: Chulin 42b). From here it continues into the spinal cord, where it is encased by the spinal column. This is called שדרה; the medullary cord: חוט השדרה (ibid. 42a). Near the tail the medullary thread leaves the spinal column and divides on both sides of the hindquarters into separate threads (הפרשות ibid. 45b*).
+
+‎The brain is surrounded by two membranes, of which the lower one is especially thin. They form a sac (חייתא ib. 45a), in which the [p. 19] brain substance is located. The cranial cavity in which that sac with the brain is located is called קרירה (ibid.), whose inner lateral surfaces are called כפא דמוחא (ibid. 54a).
+
+‎Where the skull ends in two acorn-shaped projections (פולין, R.: גלְנץ, glandes, acorns), the spinal column begins, and thus also the medullary cord (ibid. 45b).
+
+‎The water birds (§. 5) have a very thin cerebral membrane, whereas in the land birds (fowls) it is somewhat thicker (ibid. 56a).
+
+‎The brain is the seat of intelligence (Jebamoth 9a) and also pre-eminently the seat of life (Berachoth 27a*). But a fracture of the spinal column is also of fatal consequence, because then the spinal cord is injured as well (Chulin 42a). Of equal consequence is such a softening of the spinal cord that, once it has been taken out of the spinal column, one could not hold it freely upright; if, therefore, such softened marrow is found in slaughtered cattle, it may not be eaten, being diseased (ibid. 45b); on the other hand, a partial lack of the brain has no fatal consequence (ibid.)**).
+
+### ‎§. 29.
+
+‎Sensory nerves. Next to the brain, the sensory nerves are the noblest instruments; they are really only the extensions of the central nervous system, which reach out to the peripheral ends of the organism, the skin. Cf. Voigt l. c. 1. p. 55.
+
+‎We set out in sequence the following Talmudic passages that deal with the sensory faculties of animals, and begin with the sense of touch.
+
+### ‎§. 30.
+
+‎Sense of touch. The hedgehog rolls itself up and becomes round as a ball if one merely touches it (Kilajim 8, 5).
+
+‎In bees, smoke acts painfully on the eyes and the organs of respiration, which is why at the time of taking out the honey they are driven off by fumigating with burnt cattle dung (Kelim 16, 7).
+
+‎A seemingly dead lizard revived after cold water had been poured [p. 20] over it (Pesachim 88b).
+
+‎Cattle drive off with their tail the flies that settle on them, which the cattle feel immediately upon their alighting (Sabbat 77b).
+
+‎Locusts and ants feel with their feelers (ibid.).
+
+‎Cattle rub themselves against trees on hot days (Sanhedrin 18b), and finally the ox rolls in ashes to relieve the pain of a wound it has on its back (B. Kama 35a). All this testifies to the irritability of the skin and the extremities, from the most delicate skin formation of the organ of sight to the pachyderms.
+
+### ‎§. 31.
+
+‎Sense of taste. The tongue and the oral cavity are the organs of the sense of taste. The Talmud has the following statements on this. The snake does not like every wine and utterly disdains wine mixed with water (A. Sara 30a).
+
+‎Bees love mustard, but it irritates their palate too much, so that as a result of eating it they consume much honey (B. batra 18a).
+
+‎The dog no longer eats some food that has already begun to stink (see Heller on Teharoth 8, 6, and in general §. 105 on the food of animals).
+
+‎Even cattle do not eat raw arum (Sabbat 126b); likewise they do not eat rotten straw (B. batra 19b).
+
+### ‎§. 32.
+
+‎Sense of smell. The nasal passages, which lead mostly to folded bony laminae covered with mucous membrane, are the essential organ over which the olfactory nerves are distributed. In some animals the sense of smell is very highly developed; thus the dog smells bread buried in the ground, provided it is not buried three handbreadths deep (Pesachim 31b). Cf. §. 31, where it was reported that the dog leaves some stinking food untouched.
+
+‎Bees are lured by the scent of flowers up to the summits of the highest mountains (Sota 48b).
+
+‎On driving bees out of the hive by means of kindled cattle dung, which points to the sense of touch as much as to the sense of smell, cf. §. 30.
+
+‎The sheep sneezes when juniper is held before its nose (Sabbat 54b).
+
+‎Fish smell the vinegar that is poured into the water (B. batra 74a).
+
+‎Ravens are lured by blood (ibid. 23a), snakes by the smell of melted fat (Beza 7b) and of wine (A. Sara 30a).
+
+‎[p. 21] Goats sneeze at the smell of incense (Tamid 30b).
+
+‎B. Kama 38a relates that an ox that had a toothache broke open a cask filled with beer and relieved its pain by drinking the beer, which points to the animal's sense of smell; finally, cattle do not eat stinking straw (Tos. B. batra 19b. s.v. כהיבנא).
+
+‎Mice smell the excrement of the cat; see §. 137.
+
+### ‎§. 33.
+
+‎Sense of hearing. The ear is the organ of this sense. The snake hears the drop falling from a cask and is driven off even by this faint sound (A. Sara 30b); it therefore touches only still water (Terumoth 8, 4).
+
+‎Frogs attract other frogs by croaking (Sanhedrin 67b).
+
+‎The hen follows the crowing of the cock (Beza 7b).
+
+‎The bull listens to the call of the ploughman (Sota 48a).
+
+‎In general, beasts of burden go according to the shouts of the driver (Sabbat 153b).
+
+‎Superstition called out to the raven so that it would cry (ibid. 67b).
+
+‎The capacity for speech of some birds (§. 39) also points to the sense of hearing.
+
+‎Finally, flies and gnats are driven off by the sound of bells (Nidda 17a); cf., however, §. 285.
+
+### ‎§. 34.
+
+‎Sense of sight. Some animals do not see at all, since they lack the organ of sight, the eye (§. 135).
+
+‎Others see only at night, like the bat (Sanhedrin 98b; §. 136).
+
+‎The sea-raven (§. 207) has extraordinarily keen sight (Chulin 63a); in general this sense is keenly developed in all birds of prey, which is why they are trained for fowling (Sabbat 94a).
+
+### ‎§. 35.
+
+‎Temperament. On this we set out the following statements in sequence. The dove is the gentlest of all living creatures (B. Kama 93a).
+
+‎The snake is vindictive (Joma 23a).
+
+‎Fish have the strongest sexual drive (B. batra 74b).
+
+‎Likewise hens (Berachoth 22a), the ass (Ketuboth 61b) and the stallion (ibid.) are very lustful.
+
+‎Dogs, and likewise cocks, are snappish and quarrelsome among themselves (Pesachim 113b).
+
+‎Ravens, unloving toward their own young (Ketuboth 49b), are [p. 22] very friendly among themselves (Pesachim 113b).
+
+‎The lion is bloodthirsty (ibid. 49b).
+
+‎Mice and rats are destructive (Horajoth 13a). Here belongs the tameability of many beasts of prey, which will be discussed in the special zoology.
+
+### ‎§. 36.
+
+‎Instinct and intelligence of animals. While the fable (Berachoth 61b) calls the fox פקח שבחיות "the cleverest of the animals," the natural-history part of the Talmud nevertheless has a number of statements that point to a heightened degree of animal instinct. Thus the dog, when it finds food and water together, eats first and drinks only later, since it finds water much more easily than food (Teharoth 3. 8).
+
+‎The ox, when it has a wound on its back and so cannot reach it with its tongue, rolls in the dust in order to get ashes onto the wound, or it breaks open a beer cask and seeks to relieve its toothache with the drink, for which reason such an ox acquired the name שור פקח (B. Kama 35a).
+
+‎On the means the weasel employs to rescue its captured young, see §. 128.
+
+‎The snake pours water into the bottle so that the wine, which it likes to drink, rises to the top (A. Sara 30a).
+
+‎In the guise of a fable the Talmud (Erubin 100b) relates how the cock flatters the hen before he mounts her. Compare with this the following, partly poetic, description that Voigt (l. c. 2. p. 312) gives of the cock. "In the morning," says Voigt, "the cock is in the best mood. He is the first to step out of the henhouse, looks over the hens as they come out, and seems positively to count them. When they are assembled, he goes through them, greets one of them with song and beating of wings, and describes a semicircle around her. When he has discovered a grain, he calls all the hens over. The most favored one usually appears first. He takes the grain in his beak, places himself before her, and asks her in the most obliging manner to accept it from him. But scarcely has she accepted and swallowed it when he already has his reward."
+
+‎The Talmud has the cock make a binding promise to the hen.
+
+‎The ape can be trained to perform many tasks (§. 112). Fabulous are the statements about the donkey, that it would not eat untithed grain (Sabbat 112b) and that it refused to go into the stable until the laborer removed a pair of shoes [p. 23] which he had forgotten and left lying on the donkey's back (Tanit 23a). Even the most genuine donkey will hardly be so asinine.
+
+‎In contrast to the fox, the wolf is portrayed as a dolt (Sanhedrin 38b), and two dogs (otherwise snappish toward each other, §. 35) joined together in order to resist the wolf with united strength (ibid. 105a).
+
+‎Mice call one another over when they find much produce (§. 138, at the end).
+
+### ‎§. 37.
+
+‎Hatred and friendship of animals. While the dove, as a gentle, unwarlike creature, is persecuted by all beasts of prey (B. Kama 93a), mice are persecuted on account of their malice and harmfulness (Horajoth 13a).
+
+‎Cocks and dogs hate each other; ravens love one another (Pesachim 113b)
+
+‎An enemy of dogs (Sanhedrin 105a) and of herds of cattle (B. mez. 93b; Sabbat 53b) is especially the wolf; of poultry it is especially the polecat (B. mez. 24a) and the marten (B. batra 22a).
+
+‎Cf. the individual articles Lion (§. 114), Cat (§. 118), Weasel (§. 128), Bear (§. 133) and Leopard (§. 116).
+
+‎Large animals also fear certain smaller ones, or other animals in general; thus the lion fears the Ethiopian gnat, the elephant the mosquito, the whale the spiny-belly, the eagle the flycatcher, the scorpion the lizard (Sabbat 77b, and on this the relevant articles).
+
+‎Different kinds of ants fight one another to the death (M. Katan 6b).
+
+### ‎§. 38.
+
+‎Voice of animals. Animals either have a wild cry, or they are completely mute. Others have a modulated voice, and that either without or with articulated sounds (Aristoteles l. c. 1, 1, 13). For all these differences the Talmud has specific expressions, and precisely in this respect a remarkably rich terminology; a classic passage relating to this, though belonging to the second Targum to Esther ch. 1, v. 2, we present in §. 520.
+
+‎Just as in the Bible, says Rashi (Chulin 53a), animal voices are designated differently, so that the roaring of the lion is called נהם (Spr. Sal. [=Proverbs (German Sprüche Salomo's)] 28, 15), of the ox געה (Job 6, 5), the barking of the dog חרץ (Exod. 11, 7), the chirping of birds צפצף (Jes. [=Isaiah] 10, 14), the neighing of the horse צהל (Jerem. [=Jeremiah] 5, 8), so too [p. 24] the designations of animal voices in the Talmud are different: thus the bleating of sheep and the lowing of cattle, when the lion has penetrated into their midst, is called קרקר (Chulin ibid.), the lion's roar עוא (ibid.), otherwise also שאג (Berachoth 3a) and נהם (ibid. 32a), whereby the modulations of the lion's voice are expressed, see §. 114.
+
+‎The braying of the donkey: נער (Kiduschin 24b), the neighing of the horse: צנף (ibid.), the howling of the dog: צעק (Berachoth 3a), barking: נבח (B. Kama 83a)*).
+
+‎The roaring of the tiger: נהם (Chulin 59b).
+
+‎The groaning of a sick ox: גנח (ibid. 51b).
+
+‎The squeaking of mice: צפצוף (Jerusalem Talmud Demai ch. 1, fol. 22a).
+
+‎The cackling of the hen: קעקע or קרקר (Kiduschin 31a).
+
+‎The cry of cranes: צווח (ibid. 44a).
+
+‎The chirping of the sparrow: פטפט (Erachin 16b).
+
+‎The crowing of the cock: קרא (Sabbat 67b; note the similar sound of the Hebrew and the German word), and likewise the cry of the raven is so called (Sanhedrin 65b), which however is also expressed by צרח (Sabbat 67b). The cawing of ravens is called קורקיר (B. batra 23a) and the voice of the female raven שריקי (Sabbat 67b).
+
+‎The voice of the earth-vulture: שרקרק (Chulin 63a).
+
+‎The hissing of the adder: לחש (Aboth 2, 16), that of the snake: נשף (Sabbat 121b). Finally, the croaking of frogs is called שרק (Sanhedrin 67b**).
+
+‎It is noted that the rabid dog is hoarse and barks so softly that one does not hear the barking (Joma 83b). On the cooing (קירי) of the dove see §. 39 note.
+
+### ‎§. 39.
+
+‎Animals' capacity for speech. While the Talmud, in fable, lets the animals speak abundantly, see article Dog, Fox, [p. 25] Wolf, etc., it contains only in a few places statements about the actual capacity of birds for speech. This capacity of the parrot was known early, as is already evident from its name אנדרפטא, i.e. ἀνδρο-φατος [andro-phatos], "speaking like a human"; on this in detail §. 185.
+
+‎Further, the Talmud mentions the following about the Herodian doves (§. 248): "I saw," someone related, "16 rows of these doves, each a mile long, and they cried: קירי קירי! (κύριε, κύριε [kyrie, kyrie]! Lord, Lord!). There was a single dove among them which cried קירי בירי (my lord a servant! see Rashi there), whereupon Herod's servants seized it and killed it (Chulin 139b). This, it says there, is supposed to have been brought about by sorcery; but a natural-historical kernel can nonetheless be extracted from this fable. As regards first the kind of bird, Wilsen relates that the North American passenger pigeon forms flocks one English mile wide and four hours long (see Voigt l. c. 2. p. 324), so in our passage no numerical exaggeration need be assumed. As regards the capacity of some birds for speech, Voigt (l. c. 2, p. 222) relates that a sparrow learned to pronounce a word, and also (ibid. p. 206) that the blackcap, also called Schwarzkopf (Sylvia atricapilla), quite distinctly called out the words Judith and Brief; accordingly Herod, who occupied himself with the breeding of doves, may well have had them taught, by artificial training, to pronounce those two similar-sounding words; only a single one was able to produce the wording distinctly the first time, but indistinctly the second time.*)
+
+‎In Sanhedrin 95b, songs of praise of the animals are spoken of figuratively, and someone heard first a raven, then a dove, call out the words: עילוש ברח! "Flee, Ilush!" (Gittin 45a), a passage which, admittedly, bears a fabulous character.
+
+‎About the starling's capacity for speech there is no information in the Talmud, but there is some a few times in Jehuda ha-Lewi (Kusari [=Judah ha-Levi, Sefer ha-Kuzari] 2, 24: צפצף הזרזיר; especially 3, 5, where the starling is mentioned alongside the parrot); cf. also §. 211 at the end.
+
+‎The language of birds is called: חכמת טייארין, see Midrasch R. Wajikra fol. 202, col. b.
+
+### ‎[p. 26] §. 40.
+
+‎Monogamy and polygamy. On this only scanty information is found in the Babylonian Talmud. It is merely mentioned that the dove lives in monogamy (Erubin 100b) and the leopard in polygamy (Kiduschin 70a); the Jerusalem Talmud, on the other hand (cited in Midr. Rabba [=Midrash Rabbah] Bereschit ch. 76, fol. 86a, and in detail in Rashi's commentary on Gen. [=Genesis] 32, 15), gives the following relevant determinations. A he-goat covers ten females, a ram likewise the same number of females; a bull four, an ass two females, and the camel lives in monogamy.
+
+‎It should be noted, however, that the ram's potency is much greater than in the stated proportion; thus one is known to have fruitfully covered seventy ewes in one night (Voigt l. c. 1. p. 411); only the determination concerning mono- or polygamy is correct, since the camel lives in monogamy. On its chastity, which the said Talmudic passage emphasizes, cf. Aristotle (l. c. 9, 34). Cf. on this §. 19 on the crossbreeding of animals.
+
+### ‎§. 41.
+
+‎Age of animals. From the Musca ephemera, which does not live a whole day (Chulin 58a), upward, animal life advances to beyond the height of seventy years, since the flat-headed adder (§. 297) is said to be pregnant for just as long a time (Bechoroth 8a), indeed up to the thousand-year life of the phoenix (§. 501). Of interest, however, are the general determinations concerning the lifespan of animals. Every boneless animal, says the Talmud (Chulin 58a), does not live a year *), which is why the fly does not reach one year of age, which is also confirmed by all zoologists (Voigt l. c. 5, p. 223).
+
+‎Further, the Talmud (Sabbat 77b) gives the rule that every living creature gradually loses its bodily strength with age, with the exception of fish, snakes and the pig **); yet the venom of old snakes is less intense than that of young snakes (A. Sara 30b).
+
+‎On the age of the ant see §. 454, note **.
+
+### ‎[p. 27] §. 42.
+
+‎Stages of life. With some living creatures their names differ in the different stages of life. Thus the male human is called progressively: ילד (for this also תינוק, infant), קטן, נער, בחור, איש, זקן and שב; the human of the female sex: ילדה (for this also תינוקת), קטנה, נערה, בוגרת, בתולה (during the period of maidenhood; otherwise also for this stage: ריבה), אשה, זקנה and שבה.
+
+‎Equally developed is the naming of some species from the circle of four-footed mammals. Thus the sheep is called כבש or כשב in its first year of life, in the first month of the second year פלגס, נוקד פרכדיגמא, (more correctly פרכריגמא see §. 151 note *), later רחל; on these and still other names of the sheep see in detail §. 151.
+
+‎The bovine kind is called in its very earliest youth עגל הרך, then עגל, later עגלת בקר, עגלא הילתא and פר, see the details §. 160.
+
+‎The young camel is called הונן, or גמל הרך and בן גמל see §. 163.
+
+‎Likewise the lion bears different names in the different stages, see §. 114.
+
+‎The same is also the case with some fish. See article Pelamis.
+
+### ‎§. 43.
+
+‎Habitat of animals. On the habitat of livestock and of animals inside and outside the house see §. 3 and 4; on that of fish §. 308.
+
+‎The helminths (§. 471
+
+‎§. 488) dwell in the internal organs, or in the flesh of other animals.
+
+‎Birds in nests (§. 106). The fox dwells in holes (Nedarim 81b) and once hollowed out a gourd in order to nest in it (Ketuboth 111b).
+
+‎The weasel and the polecat dwell in holes and pits (Nidda 15b), also in holes and crevices in walls (Pesachim 118b), or finally also under dung heaps (ibid. 8b).
+
+‎The pig likes to seek out filthy places (Berachoth 43b), the wild boar, on the other hand, loves thickets and marshy regions (Pesachim 118b).
+
+‎The doves are named after their habitat; see §. 248; likewise the mice, see §. 140 and 137.
+
+‎The hens sometimes take their night's rest up high on chimneys (Sabbat 77b).
+
+### ‎§. 44.
+
+‎Horns. We now begin with the account of all the external and internal parts of animals, and follow it with the description [p. 28] of animal fluids and excretions. There are horned and hornless animals. The ass belongs to the latter kind, which is why it is said ironically: A field planted with scythes is mown with the horn of the ass (Bechoroth 8b; see my article: „Humor der Alten“ in the Jüdisches Volksblatt 1854, p. 115), i.e. neither the one nor the other actually exists. Likewise it is said of the camel: It wanted horns and lost its ears over it (Sanhedrin 106b). On the other hand, both the clean domestic animal and the clean wild animal are horned. The horns are either flat, like those of the goat, or round, like those of cattle, or forked, as in the stag, or finally pointed, flat and notched at the same time, which was discussed in §. 22.
+
+‎The horn of cattle has inside it a core (זכרות), which ends two or three fingerbreadths before the tip of the horn (Bechoroth 44a).
+
+‎The antelope (Ὄρυξ [Oryx], §. 146) has only one horn (Chulin 59b), which dyes black (B. batra 16b).
+
+‎Of the sea animals, the sea goat (§. 350) has horns (ibid 74a).
+
+‎The ibex does not have forked horns (Chulin 59b).
+
+‎The roe deer is hornless (Joma 29a); the stag grows a new tine on its antlers every year (ibid.).
+
+‎The most dangerous weapon of cattle is the horn (B. Kama 2b); even the goat is said once to have gored a bear (B. mez. 106a), another goat killed a wolf (B. batra 15b).
+
+‎The rams butt one another with their horns in order to shake out the nasal bot-flies (§. 436) (Sabbat 54b).
+
+‎The goat's horns were filed with notches in order better to fasten the rope to them (ibid. 52a). Both straight and curved blowing horns were made from horns (Kelim 11, 7). Travellers used the horns of domestic and wild animals as drinking vessels (Para 12, 9); heralds, market criers and others likewise used them (Berachoth 62b).
+
+‎All horns are called קרן, or שופר; only the horn of the cow, of the unicorn and of the stag is called exclusively קרן (R. ha-Schana 3, 2). Among the insects it is locusts and ants that have palps, which are called קרנים (Sabbat 77b); among the crustaceans the crab has feelers, they are called קרני סילו, likewise the feelers of the tortoise are called קרני כיילי (see Appendix).
+
+### ‎§. 45.
+
+‎Face. The front parts of the head, in horned animals from the line between the horns to the edge of the jaws, [p. 29] in birds from the skull to the tip of the beak, are called the face. On it are the forehead, the temples, eyes, nose and mouth.
+
+‎The forehead is called: מצח, sometimes also: אפותא (Berachoth 44a) and פדחת (Jebamoth 120a).
+
+‎The temples are called: כלכול, which the Talmud explains more closely by צידעא (Sabbat 80b), and this latter in turn Raschi explains by טינפלא (tempe). The area around the temple is called: אנדיפי, or בת צידעא (ibid.).
+
+‎The face in general is called אפא (Chulin 52b) and פרצוף פנים (πρόςωπον [prosōpon], Jebamoth 120a).
+
+### ‎§. 46.
+
+‎Eyes. Usually עינים, but the eye-points of the fly are called: טיפין (Nidda 25a).
+
+‎The eyelashes: תימורא (Sabbat 77b) and ריס של עין, which is explained more closely by: תורא ברא דעינא (Bechoroth 38b).
+
+‎The eyebrows: גבינים (ibid. 43b).
+
+‎The eyeball: גלגל עין (ibid. 40a)*).
+
+‎The white of the eye: לבן שבעין, the black: שחור שבעין (ibid. 38a).
+
+‎The eyeball is neither in the wild animal nor in the domestic animal quite as round as in man, but the pupil is, which in turn is not quite round in fish (Nidda 23a). Indeed, in fish it tapers somewhat to a point toward the mouth, which is sometimes easily noticeable.
+
+‎Abnormities frequently occur in that, in domestic animals, one eye is larger than the other (Bechoroth 40b). On the abnormities of the eye of domestic animals in general compare the Mishna (ibid. 6, 2—3).
+
+‎In the hen (in general in all heavy land birds, see §. 246 note †) the lower eyelid covers the upper. (Sabbat 77b).
+
+‎The Syrian mole is entirely blind (§. 135).
+
+‎On the eye fluid see below §. 84.
+
+‎In man the white of the eye is larger than the black; in the animal it is the opposite (Jerusalem Talmud Nidda 50, c).
+
+### ‎§. 47.
+
+‎Nose. The nose is called אף, or חוטם (Joma 19b), also אוסיא (Sabbat 67a).
+
+‎The nostrils: נחירים (also biblical).
+
+‎The septum and the two outer walls of the nose: חוטמין (Bechoroth 39a).
+
+‎The nose ring which the female camel wears on [p. 30] the inner perforated wall of the nose is called חטם (Sabbat 5, 1). From חוטם, by insertion of the R-sound, arose חרטום, on which see the following article.
+
+### ‎§. 48.
+
+‎Mouth. The opening of the mouth is bounded in quadrupeds by the lips and enclosed by the jaws, in birds by the two parts of the beak. Of the jaws, the upper is called: לחי העליון, the lower: לחי התחתון (Bechoroth 40a). As a rule the upper jaw, which is longer, covers the lower; but it happens that the lower lip is longer than the upper.
+
+‎The latter is called: שפה עליונה, the lower lip: שפה תחתונה (ibid. 40a), and both consist of a boneless, elastic mass of flesh (ibid. 40b).
+
+‎The inner part of the jaw, on which the teeth are located, is called: עצם שבפה (ibid.).
+
+‎In birds the beak is called: חרטום (Raschi: ביק, bec, Chulin 121a *), its upper part: חרטום עליון, the lower: חרטום תחתון (ibid.).
+
+‎If the upper jaw is missing in cattle, the animal can still be kept alive by pouring fodder into it (ibid. 55b).
+
+‎On the absence of the upper part of the mouth in cattle and birds, see the decisors on Sch. Aruch [=Shulchan Aruch] Jore Dea §. 33, 1.
+
+‎On the beak of the wild and the domestic goose, see §. 243. Finally, it should be noted that the rabid dog keeps its mouth constantly open (Joma 83b); for the reason for this, see §. 122.
+
+### ‎§. 49.
+
+‎Ears. Usually אזנים, but also Aramaic אודני (Sanhedrin 106a); they are either protruding, as in cattle, or consist only of an ear opening, as in birds and in part in fish. The ass has long ears (Kiduschin 33a **).
+
+‎The hinny has longer ears than the mule (Chulin 70a, and on this §. 168). The camel has scarcely protruding ears (Sanhedrin 106a).
+
+‎At the birth of the goat the ears appear first (Bechoroth 35a). Occasionally [p. 31] the abnormality is found in the goat that its ears reach down to the ground (חוורות, ibid. 44a*).
+
+‎The ears of the rabid dog hang down (Joma 83b).
+
+‎The spider is said to crawl into the ear opening of the scorpion (Sabbat 77b), and likewise the fish louse into the ear openings of the whale (ibid., and on this §. 357).
+
+‎On a remedy for earache, see §. 409.
+
+### ‎§. 50.
+
+‎Neck. The section of the trunk which connects it with the head is called צואר (Chulin 19b), אונקא (Sabbat 140b; cf. §. 355), likewise עונקא (Berachoth 44b), and קוע (ibid. 28a): neck. Its length is taken up by the column of the cervical vertebrae**), which is called מפרקת; it extends from the back of the head (שיפוי ראש) to the point (עורף) where the spinal column begins (ibid. 20a).
+
+‎Among the insects, only the locusts, namely the species Gryllus coronatus (§. 384), have a neck similar to that of cattle, i.e., in which the head is connected to the trunk not by a thread but by the neck section (A. Sara 51a).
+
+‎The domestic goose differs from the wild one by a longer neck (B. Kama 55a). According to Rashi, however, the קוע occurring here is supposed to mean "beak", and for the closer discussion of this point of controversy we must refer to §. 243.
+
+‎The Persian camel has a thicker neck than the Arabian (ibid.).
+
+### ‎§. 51.
+
+‎Back. The back is called: גב (already biblical). The camel has on its back a fatty hump (חטרת, Rashi: חלדרובא, a foreign word which I do not know how to explain; perhaps one should think here of dor for dos "back" and bosse, Greek ὕβος [hybos] "hump", from which components the foreign word, most probably written in corrupt form, arose Chulin 122a)***).
+
+‎Parasites grow on the backs of crocodiles (§. 271).
+
+‎On the backs of oxen [p. 32] broad doors were laid, on which children sat, which was done for ritual purposes (Para 3, 2).
+
+‎An ox wounded on the back rolled in ashes in order to heal the wound (B. Kama 35a).
+
+‎On the dorsal vertebrae, see §. 28 note.
+
+### ‎§. 52.
+
+‎Tail. The tail is called: זנב (Joma 83b), גנובתא (Sabbat 77b) and ציציתא (Beza 36b).
+
+‎It forms the extreme opposite to the head, which is used figuratively, as it is said: "Be the tail among lions and not the head among foxes!" (Aboth 4, 15).
+
+‎The camel has a short tail (which at its birth already reaches to the middle of the haunch, Bechoroth 30b), so that it may not hinder it in the shrubs that serve as the camel's food; the tail of cattle, on the other hand, is long, so that it can drive away the stinging flies (Sabbat 77b).
+
+‎At the birth of the calf the tail reaches to the upper joint of the leg, but as it grows it lengthens beyond that joint (Bechoroth 40b).
+
+‎In the rabid dog the tail hangs downward, resting on the thighs (Joma 83b).
+
+‎The tail of a lizard continues to twitch for a long time after it has been cut off (Erachin 7a).
+
+‎There are sheep with long fat tails (Sabbat 5, 4).
+
+‎The superstitious hung a fox's tail between the eyes of a horse (ibid. 53a).
+
+‎On tailed and tailless locusts, see Chulin 65b.
+
+‎On the movement of the tail in the lion and the fox, see §. 120.
+
+‎The hindquarters are called: אחור (Bechoroth 8a). See Levita in the Tischbi s.v. The buttocks are called: עגבות (Berachoth 24a).
+
+### ‎§. 53.
+
+‎Genitalia. We here assemble all the designations, many of which, however, also serve for the human genitalia.
+
+‎In the male sex the member is called: אבר התשמיש (Nidda 21b), for which in later Hebrew: אבר המשגל; further אצבע (Pesachim 112b), גויה (Jerusalem Talmud Nidda C. 3, H. 3), שמש (Nidda 11b), אמה (ibid. 13a), גיד (Kiduschin 25a). The flaccid member is called: גיד מת (Sanhedrin 55a), further קיק (Bechoroth 49b), פרמשתק (M. Katan 18a), זנוב (Bechoroth 39b) and זכרותא (ibid. 8a*).
+
+‎[p. 33] The opening is called: פי האמה (Nidda 22a).
+
+‎The glans: ראש הגויה (Negaim 6, 7) and עטרה (Sabbat 137a).
+
+‎The pubic hairs are called: זקן התחתון (Nidda 52a).
+
+‎The vagina is called: ערוה (Berochoth 39b), בית התורפה (turpis; but cf. Brecher: Das Transcendentale etc. p. 140; Nidda 57a), בית הבושת (Chulin 122a), בית הרחם (Nidda 3a), euphemistically: אותו מקום (ibid. 52b), in Jehuda ha-Levi (Kusari 3, 53): הכעור שבאברי האשה and קבר (surely the uterus, though, Nidda 21b).
+
+‎The lips of the vagina: כותלי בית הרחם (ibid. 3a).
+
+‎The testicles are called: אשכיו (Bechoroth 44a) and ביצים (ibid. 8a). The spermatic cord: חוט של ביצים (Nidda 16a).
+
+‎Coitus is called: ביאה (Kiduschin 2a), בעולה (Ketuboth 4a), תשמיש (Nidda 16a), משגל (post-Talmudic) and euphemistically: דבר אחר (Berachoth 8b*).
+
+‎Before the loss of virginity the woman is called: בתולה**), after it בעולה, and the removal of the hymen is designated by the expression פתח פתוח (Ketuboth 9a).
+
+### ‎§. 54.
+
+‎Feet. Only man is called: מהלך שתיים (§. 2); the four-footed animals are called: הולך על כפיו "walking on the paws" (Lev. 11, 27), the four-footed insects: הולך על ארבע "walking on four" (ibid. 11, 21).
+
+‎The forefeet of animals are called ידים, the hind feet רגלים (Berachoth 40a). The thigh above the hind feet: ירך (Chulin 96b) and אטמא (ibid. 54a); the shoulder above the forefeet: שוק (already biblical) and כפא (ibid.).
+
+‎The upper joint, which connects shoulder and thigh with the feet, is called קפץ העליונה; the joint which connects the feet with the hooves: קפץ התחתון, and the general name for both is ערקוב (Bechoroth 40b and 41a).
+
+‎The hooves are always cloven in clean cattle, and sometimes in unclean cattle, as in unclean animals.
+
+‎The hooves are called פרסות (Chulin 60a), ציפורניים (M. Katan 10a) and טופרי (ibid. 10b).
+
+‎The talons of the vulture [p. 34] are called ציפורניים (Chulin 25b).
+
+‎Since the shoeing of horses with iron was not yet known to the Talmudists (§. 164), the hooves of horses and asses were trimmed whenever they were damaged, so that the animals would not be hindered in walking (M. Katan 10a).
+
+‎Beasts of prey, such as the lion, the cat and others, strike their prey with the claws of the paw (Chulin 52b).
+
+‎On the use of the hooves and thigh bones see §. 101*).
+
+### ‎§. 55.
+
+‎The udder. The udder is called כחל (Chulin 109a) and כחלא (ibid. 111a). The teats or nipples: דדים (Sabbat 53b). A bag was tied around the teats of goats, either so as not to let the milk be lost, or to promote the fatness of the goats (ibid.).
+
+‎Around the udders of cows a hedgehog skin was tied, to protect them in the field from creeping predators that suck out their milk (ibid. 54b**).
+
+‎The many cavities of the udder, in which the milk collects, are called גומות (Tos. Chulin 97b. s.v. וכחל).
+
+### ‎§. 56.
+
+‎Belly. The belly is called בטן (already biblical), כרס (Succa 21 b) and כליא (Κοιλια [koilia], Tos. B. batra 17a. s.v. כליא).
+
+‎The outer side of the belly, i.e., its enclosing layer of flesh, [p. 35] is called כרס החיצון, or מפרעתה (Chulin 50b); the latter designation refers in particular to the rear part of the belly, through which, when it is cut open, the rumen (כרס הפנימי, §. 64) immediately protrudes (ibid.).
+
+‎The navel is called פי הכרס and טיבור (Nidda 13b).
+
+‎Egyptian oxen are particularly broad-bellied (Succa 21b).
+
+‎An animal with a slit-open belly may not be eaten (Chulin 42a). Swindlers knew how to produce an artificial bloating of cattle, cf. §. 161 note †.
+
+‎Snakes and worms are called הולך על גחון "crawling on the belly" (Lev. 11, 42).
+
+‎The bird name בטני (Chulin 63a) may, perhaps from בטן, designate the big-bellied booby, see §. 228.
+
+### ‎§. 57.
+
+‎Breast. The Talmud (Chulin 45a) designates as the breast proper, חזה, the piece that extends from the neck to the first two front ribs; it is the piece turned toward the ground, and inside, in the somewhat narrow space (במיצר החזה), it encloses the two upper lobes of the lung*).
+
+### ‎§. 58.
+
+‎Teeth. We now come to the internal body parts of animals. In general the teeth are called שינים (already biblical) and חינכין (B. Kama 35a). The front teeth are called חיטין החיצונות, the molars חיטין הפנימיות, or תיומות (Rashi: מיינשלירס, Bartenoro: משילאש, machelières, Berochoth 39a) and טוחנין (Sabbat 152a).
+
+‎The milk tooth: שן דחלב (Kiduschin 24b).
+
+‎Every animal that has no upper teeth is a ruminant; on the other hand, there are ruminant animals that nevertheless possess upper teeth, such as the hare and the rabbit. The camel too is a ruminant, but instead of upper teeth it has mere dental papillae (ניבי, Rashi: יינציבש, gencives), which stand next to one another like teeth (Chulin 59a).
+
+‎The dog has four biting teeth (Sabbat 63b), which are likewise called ניבי, and its other teeth are not set close together, but unevenly and apart from one another (M. Katan 10a).
+
+‎The teeth of the fox are thin and curved, and the wound it inflicts is scarcely curable (Aboth 2, 10). The tooth of a living fox [p. 36] is said to deprive the one who wears it of sleep, whereas that of a dead one promotes sleep (Sabbat 67a).
+
+‎An ox relieved its toothache by drinking beer (B. Kama 35a).
+
+‎Snake venom is located not in the teeth but in the salivary glands (Voigt l. c. 3. p. 54), from where it flows after into the bitten wound (Sanhedrin 76b).
+
+‎The gums are called בשר השנים (S. Ar. Ch. Mispat [=Shulchan Aruch, Choshen Mishpat] §. 420, 13).
+
+### ‎§. 59.
+
+‎Tongue. The tongue is called לשון (already biblical). Its movable part is called מדבר של לשון (Bechoroth 40a).
+
+‎Animals that have a broad tongue drink by lapping (Maimuni Para 9, 3). The tongue of cattle was prepared as a delicacy (B. mez. 86b*).
+
+‎Those parts that have no smooth surface, such as the tongue, stomach etc., are called מוריגי בהמה (Berachoth 55a).
+
+### ‎§. 60.
+
+‎The windpipe. The windpipe is called קנה, קניא (Chulin 111a) and גרגרת; it conducts the inhaled air into the many different air passages of the lung.
+
+‎The epiglottis, which serves to keep the cold inhaled air from entering the opening of the windpipe until it has been tempered, is called שיפוי כובע (Chulin 19a), according to Rashi (ibid. 134b) also פיקה של גרגרת, by which, however, Bartenoro (ibid. 10, 4) believes the uppermost, fully closed ring to be meant. This is usually called טבעת הגדולה, in contrast to the other rings, which are simply called טבעות. The former, consisting of a cartilaginous mass, is round and completely closed, whereas the other rings are connected at both ends by a membranous strand running along the tube. All the rings are strung together by a soft membrane and lie with their broader side outward, i.e., toward the ground, and with their tapering side inward, i.e., toward the neck (Chulin 18a).
+
+‎On entering the lung the main tube divides into many smaller ones (סמפונות, Chulin 42a**).
+
+‎The windpipe lies below the gullet.
+
+### ‎[p. 37] §. 61.
+
+‎The lung. The lung (ריאה, Chulin 49a) has five lung parts on the right and three on the left, which are named variously. The first lung, or the first lung lobe on the right side, is called אונה העליונה; it lies around the windpipe and is enclosed in the narrow chest cavity (§. 57). The one immediately following it is called אונה האמצעי "the middle lung"; this is followed by אונה ארוכה ועבה, "the elongated-thick lung". The fourth large lung part is called אומה "mother", in relation to which the first-mentioned are regarded, as it were, as children. Finally there is on the right side, situated inward toward the heart, ורדא, called "the rose" on account of its flat, rose-like form, which is enclosed by a skin sac (כיס של ורדא); because of its smallness this part is also called עינוניתא דוורדא (Chulin 47a, equivalent to אינוניתא, the small אונה).
+
+‎On the left side the uppermost lung part is called אונה עליונה של שמאל, the one following it: אונה יורה כהץ "arrow-like elongated lung", and the third part is likewise called אומה "mother", which is smaller than the one on the right side.
+
+‎On the manifold abnormalities of the lung, as regards the number as well as the shape and position of the individual lung parts, cf. the Decisors on Jore Deah §. 35.
+
+‎On the sheep worm that is found in the lung, see §. 482; on other diseases of the lung §. 104.
+
+### ‎§. 62.
+
+‎The esophagus and entrails. Concerning these internal parts of cattle, the following Midrash passage (Rabba Wajikra fol. 168, col. 2) may be described as classic on account of its thoroughness. It reads: "See how much toil the animal has before it excretes the food it has taken in! The food passes through the mouth (פומא) into the ושט, from this into the אוסטומכא, from here into the המסס, from here into the בית כסיא, from here into the כרם, from here into the בי מעיא, from here into the כרוכת קטנא, from here into the כרוכת עוביא, from here into the סניא דיבי, from here into the פטרכא, and from here the evacuation takes place".
+
+‎According to this passage the above names must be translated: ושט, esophagus; איסטומכא (Στόμαχος [stomachos]) first stomach or forestomach; המסס (Omasum) second stomach; בית כסיא, leaf stomach; כרם, fat stomach; בי מעיא, intestines; כרוכת קטינא, thin intestine; כרוכת עוביא, thick intestine; סניא דיבי, excrement intestine, and פטרכא, rectum. This passage, however, requires [p. 38] a different order, since it agrees neither with the statements of the Talmud nor with the names of the individual parts of the stomachs and entrails according to modern anatomy. According to the Talmud (Raschi Chulin 42a) the food passes from the בית הכוסות into the המסס (thus contrary to the statement of the Midrash), from here into the קבה and from this into the thin intestines. Here, however, the mention of כרס before קבה is undoubtedly missing.
+
+‎We shall, however, arrive at the correct determination if we compare it with the accurate account of Blumenbach (in his Handbuch der vergleichenden Anatomie). According to him the ruminant animals have four stomachs; the first is called: rumen (Talmudic בית הכוסות, Raschi פנצא, panse).
+
+‎The second is called: reticulum ("cap"), or stomach tip (Talmudic המסס, Raschi צינפויל, most probably "Zipfel").
+
+‎The third stomach is called: fold stomach. It has the form of a hedgehog rolled up into a ball and is the smallest of the four stomachs (Talmudic: כרס הפנימי, which, however, bears various names in Chulin 50b; see below, and is described as מקום צר יש בכרס "a narrow place in the Keres", probably with reference to its form).
+
+‎The fourth stomach, finally, is called: leaf or fat stomach (Talmudic: כרס החיצון, or קבה; the former name, however, is also explained differently; see Tos. ibid. p. v. ואיזהו; on the other hand קבה is indisputably the fat stomach). —
+
+‎Let us now follow the further course of the parts mentioned. After the fat stomach follow the intestines proper, called בי מעיא by the Midrash, דקין or בני מעים by the Talmud, namely first כרוכא קטינא, the thin intestine, then כרוכא עוביא the duodenum, then סניא דיבי, the excrement intestine *), finally the rectum, called פטטרכא **) by the Midrash, כרכשא by the Talmud (Chulin 49b; Raschi טבחיא).
+
+### ‎§. 63.
+
+‎Continuation. The parts of the entrails mentioned in the preceding article, however, bear still other names. Some [p. 39] also call the המסס, the stomach tip, הובלילא, and the rumen, besides בית הכוסות, also בי כסי; others, however, apply those names the other way round, namely they call the stomach tip בית הכוסות and the rumen הובלילא (Sabbat 36a). The rectum is called, as mentioned (§. 62), פטטרכא and כרכשא, but also פטרוכא (§. 64) and חלחולת (Chulin 50a).
+
+‎It happens that an animal has two rectums, or two excrement intestines (ibid. 58b).
+
+‎The thin intestines are also called הדורא (ibid. 113a); but one should see the twofold explanation of the Aruch on הדרא דכנתא.
+
+‎In birds caeca are sometimes found (Raschi ibid. 58b).
+
+### ‎§. 64.
+
+‎Conclusion. How difficult it is to determine the terminology of the parts of the entrails mentioned in the two preceding articles is evident from the very divergent account of another Midrash passage (Rabba Kohelet fol. 103, col. 4). It reads: The food passes from the פומא into the ושט*), from here into the המסס (in the first passage איכטומכא), from here into the קבה (in the first passage בית כסיא), from here into the איכטומכא, from here into the כרוכא קטינא (in the first passage המסס), from here into the בית כסא (in the first passage כרוכת עוביא), from here into the בנת מעיא (in the first passage כרס), from here into the כרוכא עביא (in the first passage כרוכת קטינא), from here into the סני דיבי, from here into the פטרוכא, from here into the עיזקתא, from here, finally, the evacuation takes place.
+
+‎As regards עיזקתא, the anal opening is so called because of its ring-like roundness, for which reason it is called פי טבעת in the Talmud (Sabbat 108b).**)
+
+‎Finally, it should be noted that the Talmud calls the third stomach by various names, namely כרס, סניא דיבי, הפנימי and איכטומכא דכרסא (Chulin 50b***); Raschi's explanation of סניא דיבי mentioned in [p. 40] §. 62, note* therefore presents new difficulties.
+
+### ‎§. 65.
+
+‎Entrails of birds. The gullet or oesophagus (ושט) has at its beginning, i.e., at its start immediately at the back of the head, an opening called תורבץ הושט; it consists of a cartilaginous, hard (מתקשה, Raschi: דורייש, durcit) skin; it is so hard that, even when cut into, it remains open; by contrast, the skin of the remaining part of the oesophagus collapses (כוויץ, Raschi: רטייש, rétrécir) when one cuts through it*).
+
+‎It leads into the crop, or fore-stomach, זפק; from here a tube leads into the stomach proper, קורקבן (Raschi identifies it with המסס and translates the word by: צינפיל, Zipfel, Sabbat 152a), from which the food passes into the intestines, בני מעיין (Chulin 56b).
+
+‎The gullet, as in cattle, has two skins. The outer skin is blood-red, the inner white (ibid. 43a). Sometimes the reverse is the case, in which event the beast or the bird may not be eaten (ibid.).
+
+‎The elastic skin of the crop, in which food collects before it passes into the stomach, is called גג של זפק, and, when one pulls on the gullet, forms its natural extension and continuation (ibid. 56b).
+
+‎The stomach has a strongly muscular inner skin by which the food is ground up (Raschi Chulin 43a and Sabbat 36a). In the ostrich (§. 240) this muscular skin is of such extraordinary strength that it can break down even hard objects, such as iron.
+
+‎One often finds small stones in the bird's stomach, which the bird swallows for better digestion of its food.
+
+‎The outer skin forms a thick mass of flesh.
+
+### ‎§. 66.
+
+‎Heart. לב, or ליבא (Chulin 45b). The heart has three cavities (Jore Deah §. 40). The right one is the largest (Aristot. l. c. 1, 14, 2) and is called: חלל גדול (Chulin ibid.), the left one is the smallest and is called חלל קטן (ibid.); the middle one likewise stands, in respect of size, midway between those two (Aristotle).
+
+‎The windpipe at its end sends out three branches (channels): into the lung [p. 41] (§.60), into the liver (§.67) and into the heart (Chulin ib.).
+
+‎The fat surrounding the base of the heart is called טרפשא דליבא (ibid. 49b), and the cord of fat which, issuing from the cavity of the heart, is connected with the fat between the rows of the lung (ערגות הריאה), is called קנה הלב (ibid. 45b).
+
+‎The main channel of the heart, which leads into the lung (and branches there, Aristotle 1, 14, 3), is called: מזרק הגדול (Jore Dea §. 40, 4).
+
+### ‎§. 67.
+
+‎Liver. כבד, or כבדא (Chulin 111a). The windpipe divides, as already mentioned (§. 60 and 66), into the lung, the heart and the liver (ibid. 45b). The channel leading into the liver is called: סימפונא רבה דכבדא (ibid. 49a).
+
+‎The red flesh behind which the liver lies is called חצר הכבד (Joma 83a), יותרת הכבד (Berachoth 44b) and טרפשא דכבדא (Chulin 46a). Raschi as a rule translates that name by אברש, or איבריש (Lev. 3, 4), which is explained by the French fibres, or the Spanish hebras.
+
+‎The Aramaic טרפשא is evidently the Greek Τράπεζα [trapeza].
+
+‎The liver is the part fullest of blood (Terumoth 10, 11) and one of those parts without which the animal could not live (Erachin 20a), for which reason a beast is forbidden to be eaten if its liver has shrunk through disease to less than two olives' bulk (Chulin 46a).
+
+‎The liver is the seat of anger, which, however, is soothed by a drop from the gall (Berachot 61b*).
+
+‎The liver diminishes and in time wastes away entirely through frequent haemorrhage (Gittin 69a).
+
+### ‎§. 68.
+
+‎Spleen. טחול (Chulin 54a) טחלא (ibid. 111a) and סומקא (Gittin 69a). A beast lacking the spleen is nonetheless permitted to be eaten; on the other hand, it is forbidden to be eaten if the spleen is perforated at the thick end (Chulin 55b).
+
+‎The spleen weighs down the body, for which reason the spleen was artificially removed from runners (A. Sara 44a). The spleen causes laughter, but this, when it occurs in excess, absorbs the humours, so that the Talmudic expression טחול שוחק (Berachoth 61b) has a double [p. 42] meaning (laughing and wearing away, in which case it is read once שׂוחק, the other time שׁוחק).
+
+‎By means of the new invention of chloroform, attempts were made to remove the spleen from animals, especially dogs, whereupon the animals went on living unimpeded, which confirms that the spleen is not an organ necessary for life, and hence the first-mentioned statement of the Talmud concerning the permissibility for eating of an animal lacking the spleen appears all the more correct; it is likewise certain that disease of the spleen can have fatal consequences.
+
+‎The teleological purpose of the spleen is described by some (see e.g. Schoedler: Buch der Natur 3rd ed. p. 530) as not yet understood, and given by others as the preparer of lymph into blood; indeed, in blood poisoning, as in nervous and typhoid diseases, the spleen appears to be especially affected.
+
+‎Eating spleen is said to preserve the teeth, but to be harmful to the digestive organs (Berachoth 44b).
+
+### ‎§. 69.
+
+‎Gall. The excretion of gall is treated in §. 87; here we consider it as a component of the internal organism. It is called: מרה (Chulin 42a) and מרירתא (Pesachim 39a). The gall-bladder lies on the liver. If it is perforated at a spot in such a way that the liver cannot keep the opening closed, the animal so affected is forbidden to be eaten, because then the bile cannot collect (Chulin 43a). One sometimes finds in the gall-bladder seed-kernels, such as those of dates (ibid. 49a).
+
+‎The bonito (§. 322) has a large gall of considerable weight.
+
+‎The gall of the stork serves as medicine (Ketuboth 50a). On the position of the gall in the deer see §. 143; on the same in doves cf. §. 250; finally, on the teleological purpose of the gall cf. §. 79.
+
+### ‎§. 70.
+
+‎Kidneys. כליות (Chulin 54a). Cattle have two kidneys, yet they can also live without them; however, the animal may not be eaten if through disease the kidneys have either shrunk or wasted away entirely (ibid. 55b).
+
+‎In human beings the kidneys are the seat of counsel, or of the forming of thoughts (Berachoth 61b).
+
+### ‎[p. 43] §. 71.
+
+‎Womb. The womb, or uterus, is called טרפחה, אם, שלפוחית (Chulin 55b) and הרת (Berachoth 57b). Raschi (Chulin 54a): מדריץ, or (Sanhedrin 33a): מטריצה, matrice.
+
+‎The Egyptian swine and cows were castrated by injuring the womb (ibid.).
+
+‎Cattle can live without a womb (Chulin 54a).
+
+‎If an embryo has already begun to form in the womb, it is called שליה (ibid. 77a); the embryo itself is called: שליל (ibid. 89b).
+
+### ‎§. 72.
+
+‎The skeleton and its parts. The skeleton in general is called שלד (Nidda 56a), which Raschi explains by: דפוס צירתו, "type of the form."
+
+‎It consists of the bones (עצמות *) of the head, of the neck, of the nape (מפרקת), of the back, of the ribs (צלעות), of the flanks (כסלים, Sabbat 152a. Raschi: ליפלאנקש, les flancs), of the thighs (שוקים ibid.), of the hip (מותנים, Chulin 51a, the hip bone being called עוקץ, Raschi: הנקא, hanche, ibid. 93a), of the upper hip bone (קליבוסת, ibid.), of the bones of the feet (רגלים), of the forefeet (ידים §. 54), of the hooves (טלפים), the nails (ציפרנים) and the little ankle bones (ערקוב **).
+
+‎In birds, the wings (כנפים) are to be mentioned as corresponding to the forefeet.
+
+‎Cattle have 22 ribs, 11 on each side, which are large and contain marrow; they are called צלעות גדולות; then there are also four small ribs without marrow (Chulin 52a).
+
+### ‎§. 73.
+
+‎Muscles, nerves, arteries. A classic passage on this is in the More Nebuchim of Maimuni (Lib. 2, cap. 1 ***), where the first moving force is discussed. There it says: the stick hurls the stone, the hand moves the stick, the nerves (מיתרים) move the hand, the arteries or veins (עורקים, otherwise גידין) move these, the muscles (עצבים) move these [p. 44] etc. The אלל mentioned in Chulin 121a, which is also called מרטקא (Aruch: ארטקא), is explained in various ways; according to Aruch it is the so-called paxwax, the sinewy end of the muscles and tendons, which resembles a whitish or yellowish leather; Raschi and Bartenoro (ibid. 9, 1) also explain it thus, except that the former calls it: ייבול (perhaps chevelu) and the latter: קפילר (perhaps capillaire); others, by contrast, explain it as the flesh remaining on the hide, see Bartenoro there.
+
+‎The head muscles also seem to be called המתן (Raschi Chulin 93a). The pulsating vessels are called: גידים הרופקים, the pulse artery דפק, the sciatic sinew גיד הנשה, the two great neck veins: ורידין, the blood vessels חיטין, the nodal point of the nerves: צומת הגידין.
+
+‎The segments of the scorpion's tail are called: חומרי (§. 398.).
+
+### ‎§. 74.
+
+‎Skin. The skin (עור); the flayed skin is called: שלח (Bechoroth 57a). The skin of the snake: משך (Jerusalem Talmud Nedarim ch. 4, halakhah 3) and משכא (Joma 84a).
+
+‎Implements made of leather are called כלי קוריים (Rabba Bereschit fol. 54a), the same as corium. The skin is not always equally thick; thus in the calf the skin on the head is thinner than on the rest of the body; likewise the skin on the camel's hump*) is much thinner than on the other parts of the animal's body (Chulin 122a).
+
+‎The domestic pig has a thinner skin than the wild one (ibid.; see, however, §. 172), and the skin on the genitals of cattle, as well as under the tail and at the hooves, is softer than on the rest of the body (ibid.).
+
+‎Worms and scorpions have no detachable skin (Bartenoro Sabbat 14, 1).
+
+‎The skin of the fish served for making implements (Kelim 10, 1) and writing materials (Sabbat 108a).
+
+‎On the other uses of animal hides see §. 101. We mention here only the fact that the calf was wrapped in the hide of its mother, which had died from the difficult birth, since the animal warmth of the hide was beneficial to it (Bechoroth 57b; cf. §. 246 at the beginning).
+
+‎Sleeping on untanned animal hides is said to promote leprosy (Pesachim 112b).
+
+### ‎[p. 45] §. 75.
+
+‎Integument of the mammals. The mammals have either wool, or hair, or spines.
+
+‎Only the wool of sheep is called simply צמר; the hair of other animals, by contrast, has the name of the animal added to that designation, e.g. צמר גמלים, camel hair, צמר ארנבת, hare's hair, צמר עיזים, goat hair (Bartenoro Kilajim 9, 1); the latter, however, is also called שער (Jebamoth 102b) and נוצות של עיזים (Menachoth 39b).
+
+‎The bristles of the pig: מקשה של חזיר (Sabbat 90b).
+
+‎The spines of the hedgehog: שער (Raschi B. batra 4a) and נימין (Raschi Sabbat 54b). Human hair also has both names (שער already biblical, and נימין; B. batra 16a), as well as בינתא and מזיא (Nasir 39a). On the use of wool and hair cf. §. 101.
+
+‎(Appendix). The hairy beard is called דקן (Sanhedrin 100b), Hebrew זקן and זקן העליון (Nidda 52a; see §. 53). One with a thin beard is called: זלדקן, one with a thick beard: עבדקן (Sanhedrin l. c.).
+
+‎The hair root: סוף השער (Sch. Aruch Choschen Mispat §. 420, 12), the part of the hair standing immediately above it: עיקבא דבינתא (Nasir 39a). The hair of the head קומי (κόμη [komē], Sota 49b). The Greek word θρίξ [thrix] is found again in פוליטריכון (Jerusalem Talmud Sabbat ch. 14, 3), the name of a plant that promotes the growth of hair.
+
+‎Goats of both sexes have a beard (Sabbat 52a).
+
+‎The beard hairs of the dog served in medicine (ibid. 67a).
+
+‎The buck-deer also has a beard (§. 149), as does the dragon-serpent (§. 298), in the latter of which it is called ציצין.
+
+### ‎§. 76.
+
+‎Integument of birds. The body of birds is covered with feathers; these are called גדפי (Rashi Chulin 46b: פלומא, Plume) and כנפים (Kelim 17, 14). The first feathers are called: כנפים ראשונים; those growing afterwards: כנפים אחרונים (Chulin 57b). In contrast to the outer feathers, the down feathers are called: נוצה (Rashi ibid. 56b: מלש, Mollasse). Post-Talmudic is קולמוס*), properly a writing quill, see §. 184. On the moulting of birds see §. 246, note ***.
+
+### ‎[p. 46] §. 77.
+
+‎Integument of fish. Fish have fins (סנפירים) and scales (קשקשים, or חספניתא דנונא, Rabba Bamidbar fol. 273, col. 3). Rashi (Nidda 51b) explains the latter by אייקרריץ, probably for אייקלליץ, i.e. Écailles.
+
+‎Only the fins, but not the scales, can the fish move at will (Rashi, Chulin 66a). Sometimes the scales are so small that they are perceived only when the fish is held up against the sun (A. Sara 39a). These very fine scales are called צימחי (ibid.). Some fish are scaleless, cf. §. 306 in detail.
+
+### ‎§. 78.
+
+‎Colour. While the Law already speaks of a red cow, which according to the Talmud (Para 2, 5) was not permitted to have even two black hairs, the Talmud already mentions red horses (chestnuts), yellow ones (duns) and white ones (greys, Sanhedrin 93a); yet the first kind was the most common (see Rashi, Bechoroth 6a).
+
+‎Sheep are either white, black, or variegated (Chulin 135a).
+
+‎The pig (Sabbat 110b) and the snake (§. 288) are spotted, the former sometimes, the latter always.
+
+‎The wolf is fallow, cf. §. 121, note.
+
+‎Many birds are named after their colour; thus the flamingo is called מורזמא, see §. 202; the stork דיה לבנה (§. 204), the raven עורב אוכמא (§. 206), the magpie עורב חיורי (210), etc. Among the insects, the flea is called כנה שחורה (§. 452); the house fly (§. 426) is of blackish, the bedbug (§. 453) of brown colour. There are black and white fish (§. 307). Finally, one bird is called simply "the coloured one" כרום (§. 226), so named from its shimmering wealth of colours, just as the leopard is called נמר from its spotted pelt and the hyena צבוע for the same reason. In the special zoology we shall mention, for each individual species, this essential natural feature as stated by the Talmud.
+
+‎On its correct view regarding the determination of the colours of animals see §. 160 at the end.
+
+### ‎§. 79.
+
+‎Teleological purpose of the parts of the body. Berachoth 61a states: The kidneys form the resolution, or counsel, the heart examines, the tongue determines the expression, the mouth brings forth [p. 47] the words, the gullet lets the food in, the windpipe lets the voice out, the lung absorbs all liquids through the sides of the stomach, the liver produces anger, the gall soothes it, the spleen produces laughter (שחוק; for another explanation of this word see §. 68), the bird's gizzard grinds the food, the animal's stomach (and that of humans) induces sleep, the nose induces alertness. That all these statements must be partly restricted, partly extended, is natural*).
+
+‎Somewhat different from this is the Midrash passage (Rabba Kohelet fol. 103, col. 3), according to which the gall arouses envy and the tongue causes the words to be uttered. Mouth and nose are passed over in this passage.
+
+‎In another passage (Sabbat 152a) the Talmud says: The flanks and ribs protect the entrails, the thighs are the seat of strength, the teeth grind the food, the eyes are the windows.
+
+‎A third, but not so complete, enumeration of the teleological purposes of the human body parts is found in Berachoth 31b.
+
+‎In the chicken (but also in all heavy land birds, see §. 246 note †) the lower eyelid is longer than the upper, so that the smoke should not get into its eyes when it is at night up at the height of a chimney flue (Sabbat 77b).
+
+‎The tail of cattle serves to drive off the stinging flies (ibid.).
+
+‎Fish use their fins for swimming (Chulin 59a).
+
+### ‎§. 80.
+
+‎Animal fluids and excretions. We begin with the blood. All animals, says Aristotle (l. c. 1, 3. 2), possess a moisture whose loss kills them; it is the blood, or blood-fluid. Now although the Hebrew דם (or דמא, Chulin 43b) indicates the red colour of blood, cf. the paronomasia אדומים כדם (2. Kön. [=Kings (German Könige)] 3, 22, and on this my contribution in the L. Bl. des Orients [=Literaturblatt des Orients (Leipzig 1840–51), the literary supplement of Der Orient] 1849, col. 373), the Talmud nevertheless designates by that word not only the blood of man, of cattle, of animals, birds, amphibians, but also the blood-fluid of worms and insects, and among the latter especially of locusts (Keritot 21b). On the other hand, the blood of an animal is not always equally red. Thus the blood of the chicken [p. 48] in the neck veins is red, that in its limbs blackish, and the blood in the entrails, which is in any case only slight in quantity, saffron-coloured (Jore Dea §. 190, 24).
+
+‎The menstrual blood of the human female varies in five colours (Nidda 19a*).
+
+‎The purple fluid of the snail is also called דם (§. 369). On the quantity of blood of the swallow see §. 256. This quantity (one רביעית ibid.) shrinks in a dead animal, in the coagulated state, to the size of an olive (Menachoth 104b).
+
+‎Drops of blood are called קורטי דמא (Chulin 43b) and טיפת דם (Jore Dea §. 183); yet the former expression also means: bloodstains.
+
+### ‎§. 81.
+
+‎Milk. The milk that is sometimes found in the breasts of a man is called: חלב הזכר, that in those of a woman: חלב האשה, and the milk of cattle: חלב הבהמה (Machschirin 6, 7). The first kind is regarded not as a beverage but as a mere exudation, which is what matters in that passage in religious-legal respect.
+
+‎The milk of cattle is moreover called simply חלב (Chulin 109a) and כותח (ibid. 111b).
+
+‎The milk in the stomach of the calf, an addition of which promotes the curdling of cheese milk, is called קבה (ibid. 116b).
+
+‎The milk of clean cattle is white, whereas that of unclean cattle is dark (ירוק, A. Sara 35b); the former curdles into cheese, the latter does not (ibid.).
+
+‎The whey that remains behind after the cheese has formed is called מי החלב (Machschirin 6, 5), קום (Nedarim 51b), נסיובי (B. mez. 68b) and נסיובי דחלבא (Pesachim 42a).
+
+‎Milk arises from the blood becoming watery (Nidda 9a).
+
+‎The pressure of the milk pains the cow, which is why she gladly lets the calf suck, and this urge is greater in her than the urge to suck in the calf (Pesachim 112a**); one must therefore milk the cow regularly, so that the milk does not harm her (Machschirin 6, 8).
+
+‎If the outflow of milk is prevented in sheep, they become fat more quickly (Sabbat 54a). Goat's milk is a remedy for disease of the chest (Temura 15b).
+
+‎Finally, let it be noted [p. 49] that the snake, besides wine and water, is also very fond of milk (Terumoth 8, 4), and that the consumption of milk produces a white complexion (Ketuboth 59b; cf. §. 161, note).
+
+### ‎§. 82.
+
+‎Sperm, oil. Just as several kinds of animals were known to the Talmud of which it mentions only their juices (see §. 10), so several animal juices were known to it although it does not mention them by name; thus it knows the sperm of certain mussels (see article Mussel), the slime emitted by the snail, the ant oil, or the fluid of these insects prepared into formic spirit (see article Ant), further the spider's juice that forms into thread; certainly the synovial fluid of the bones was also known to it, as well as the various insect poisons, since it often speaks of the harmfulness of stinging insects; yet all these juices, as mentioned, are not expressly mentioned in the Talmud, which is why we could only touch on them briefly here.
+
+### ‎§. 83.
+
+‎Saliva, slaver, mucus. In general, saliva is called רוק (Nidda 55b), היוצא מן הפה (Machschirin 6, 5) and צינורא (Sabbat 127b).
+
+‎Slaver is called ריר (ibid. 140b), and nasal mucus מי האף (Nidda 55b) and היוצא מן החוטם (Machschirin 6, 5).
+
+‎On the other hand, the explanations of the following words differ greatly from one another. According to Rashi (Kiduschin 81b), כיח is supposed to be expectoration from the lungs; by contrast, the same author (B. Kama 3b) makes the following distinction: כיח is the saliva of the mouth, ניע the discharge of the nose; the Tosephot (ibid. s.v. כיחו) differ, according to whom כיח is the saliva forcibly brought up from the throat, ניע that brought forth from the mouth.
+
+‎The Tosephot (Nidda 55b s.v. כיחו) treat the etymology. Jacob Tam explains כיח as the expectoration forcibly brought up from the chest (from כח, strength) and ניע as the expectoration produced by slight agitation (from נוע, movement). Opposed to this there is another explanation there, according to which ניע denotes the violent movement of the body and כיח the slight movement in coughing. (Cf. Choschen ha-Mispat §. 384).
+
+‎The ox slavers while eating, the donkey does not (Sabbat 140b).
+
+‎Slaver runs from the mouth of the rabid dog (Joma 83b).
+
+‎The raven, in fertilization, lets saliva flow into the female's [p. 50] beak (Sanhedrin 108b).
+
+‎On slaver cf. also §. 270.
+
+### ‎§. 84.
+
+‎Eye fluid. Tears are called דמעת עין (Nidda 55b) and היוצא מן העין (Machschirin 6, 5). Sometimes an animal constantly has water in the eye socket, which indicates a diseased condition. As a remedy for this it is recommended to give the animal first green and then dry hay from moist ground to eat (Bechoroth 38b *).
+
+### ‎§. 85.
+
+‎Ear fluid. The fluid that collects in the ear is called היוצא מן האוזן (Machschirin 6, 5). This fluid too, the so-called earwax, is designated by the Mishna there as תולדת למים, although there can hardly be watery parts in this fatty substance.
+
+### ‎§. 86.
+
+‎Poison. Poison is called ארס (Sabbat 62b), and since the snake releases it only in a state of agitation, it is also called עכס (transposed from כעס, ibid.), further זוהורא (A. Sara 30b) and מרה (Terumot 8, 5). Most dangerous is snake venom, which does not have its seat in the teeth themselves, but in the salivary gland, from where the venom flows after into the bitten wound (Sanhedrin 76b). Cf., however, §. 118. Snake venom spreads through the whole body of the bitten creature, which is why cattle wounded in this way may not be eaten (Terumoth 8b); on the other hand, some predatory animals, such as the cat, can eat snakes without harm (Sabbat 128b). The older the snake becomes, the weaker the efficacy of its venom (A. Sara 30b), although the snake itself increases in strength with age (ibid.). Even after the snake's death its venom acts lethally (§. 309).
+
+‎But also from the wound which other predatory animals, such as the lion, the cat and others, inflict with their claws, a yellow fluid flows (Aristotle l. c. 9, 31, 3), which in the Talmud (Chulin 52b) is called זוהורא**). The wound becomes inflamed, [p. 51] which happens through the influid, regarded as poison-like (ibid.). This influid, however, enters the flesh of the wounded animal only when the claws are withdrawn, so that it does not occur if one could cut off the predator's paw before it has withdrawn it of its own accord (ibid., and on this Kusari ch. 4. §. 31, toward the end).
+
+### ‎§. 87.
+
+‎Bile. Bile, as is well known, is yellowish-green and bitter-tasting; for the latter reason it is called מרה. The fluid is a secretion of the blood, which passes from the liver through the bile duct into the gall bladder, but from here penetrates into the intestines and promotes digestion. According to the Talmud, however, the gall casts a drop upon the liver and thereby mitigates the anger aroused by the latter, see §. 79.
+
+‎Among post-Talmudic writers there is talk of a מרה שחורה „black“ and a מרה אדומה „red bile“. The former designates the melancholic, the latter the sanguine temperament.
+
+‎On the size of the gall bladder in the bonito cf. §. 322; on the gall of the mackerel see §. 319, of the dove §. 250, and on the position of the gall bladder in the deer §. 143*)
+
+### ‎[p. 52] §. 88.
+
+‎Train oil. Fish oil is called: שומן דגים (Sabbat 24b) and whale oil משחא (B. Batra 73b). It serves for lighting (Sabbat l. c.). According to Rashi it is supposed to be obtained from the melted entrails of fish; but the Tosaphot (ibid. 21a, s.v. חלב) rightly distinguish between melted fish fat, which is called קרבי דגים, and train oil proper, the well-known thin, fluid fatty substance of fish; see §. 306, note.
+
+### ‎§. 89.
+
+‎Honey, wax. Bees' honey is called simply דבש, hornets' honey, on the other hand, דבש צירעין, and wasps' honey דבש גזין (Bechoroth 7b), though דבש דבורים is likewise found (Machschirin 6, 4). Although the bee, as an insect, may not be eaten**), the honey, which is regarded as a mere reproduction of the flower juices taken in, may nevertheless be consumed (Bechoroth l. c.); yet the honey of the hornet is said not to be permitted for eating (ibid.).
+
+‎Even spoiled honey was used for various purposes, on which see below §. 403.
+
+‎As long as the honey is still in the hive it can be regarded neither as a drink nor as a food, since it is not yet fluid enough there (B. Batra 80a). The Talmud (Chagiga 14b) applies the biblical saying about moderate consumption of honey (Proverb. [=Proverbs] 25, 16 and 27) in an ethical sense to going too far in all things, particularly in the esoteric science. On the dietetic consumption of honey see Joma 86a. Wax is called שעוה, also קירותא (Sabbat 20b) and קורה (Jebamoth 102a). The second word corresponds to the Greek Κηρός [kēros], the third to the Latin Cera.
+
+### ‎§. 90.
+
+‎Ambergris, musk. Ambergris is found in the intestines of the sperm whale and is called in the Talmud (Keritot 61a) כפת הירדן, on which in detail §. 181.
+
+‎Musk is called מושק (Berachoth [p. 53] 43a), on which in detail in the article Musk deer §. 150. As is well known, the musk is located in a sac which the musk deer has on its lower abdomen in front of the prepuce of the genital member; of interest, therefore, are the views on the nature of musk cited in the Decisors on Orach Chajim §. 216, 2; according to them this substance is supposed to be present in a pouch located on the neck of the animal.
+
+### ‎§. 91.
+
+‎Purple dye. The well-known purple juice of the purple snail, precious for dyeing, is called: דם חלזון (Menachoth 44a), which Maimonides takes to be the juice of the cuttlefish; in detail on this §. 369.
+
+### ‎§. 92.
+
+‎Fat, tallow. Fat is called שומן (Chulin 91a), חלב (specifically חלב טהור ibid. 49b) and תרבא (B. mez. 83b*).
+
+‎Tallow is called: תרבא (Chulin 98a) and חלב טמא (ibid. 49b).
+
+‎Pig's lard: שומן חזיר (A. Sara 35b).
+
+‎Rendered fat: חומא שחיקא (Beza 7b).
+
+‎Tallow in cattle is that part of the fat which holds together in larger pieces by means of a membrane enclosing it externally; fat proper, on the other hand, consists of individual small lumps found on the internal organs of the animal, sometimes in greater quantity side by side, sometimes in lesser quantity singly. From tallow that outer membrane can easily be peeled off; in the case of fat it adheres more firmly (Chulin 49b).
+
+‎The tallow of the kidneys (תרבא דאטמא) is very similar to fat (כנתא), so that a swindler for a long time sold the former as the latter (Bechoroth 30a).
+
+‎Fat free of blood and flesh can stand for a long time in the warmth of the sun without becoming foul-smelling (B. mez. 83b).
+
+‎Hens with good feeding sometimes become so fat that they can barely step over a reed lying in the way (ibid. 86b). Overly fat geese lose their feathers as a result of the fatness (B. batra 73b).
+
+### ‎§. 93.
+
+‎Marrow. Marrow is called מוח (Chulin 52a); the juicy head of the fish is therefore probably called מוחא דשבוטא (ibid. 109b). In cattle it is found only in the twenty-two large ribs; the short ribs are without marrow (ibid. 52a **).
+
+### ‎[p. 54] §. 94.
+
+‎Sweat. Sweat is called: זיעה (Machschirin 6, 7), temporary sweat זיעה עוברת, perpetual sweat: זיעה שאינו עוברת (Ketuboth 75a). A constantly sweaty animal is called: מזוהם (Temura 28b), just as the sticky external moisture clinging to fish is called: זהומא (A. Sara 38b).
+
+‎Sweat can be removed, at least momentarily, by diligent washing with water or with sour wine (Ketuboth 75a), according to the Aruch (see §. 150) also by rubbing in musk.
+
+‎With the exception of the sweat of the face, the sweat of the rest of the body is poisonous (Jerusalem Talmud A. Sara 41a).
+
+### ‎§. 95.
+
+‎Brine. Fish brine is called: ציר (Nedarim 6, 4), where Bartenoro explains: It is the water produced from salted fish, while מורייס (Muria) denotes the fat arising from salted fish (probably fish broth). The juice of unclean locusts is likewise called ציר (Terumoth 10, 9), since, as Bartenoro adds, it is mere moisture (לחלוחית בעלמא). In both passages one should think first of the juice pressed out of the animals.*)
+
+### ‎§. 96.
+
+‎Excrement. Excrement passed through the anus has various designations. That of cattle is called: כבוי דרעיתי (Erubin 29b), גללי בהמה (Menachoth 69a), רעי (Chulin 38a), פרש (Temura 30b), זבל and רפש (B. Kama 30a). For פרש (from which רפש is perhaps formed by transposition) the Aramaic פרתא (Chulin 18a) occurs.
+
+‎Specifically, the excrement of man (Berachoth 25a), of the pig and of the dog (ibid.) is called צואה; that of man in addition: רעי (Beza 36b), and that of the dog also: נפקא (Gittin 69b**). That of the ass (Sanhedrin 98b) and of the mule (Sabbat 110b): כופיתא. That of the goat: הריא (Tanit 9b); that of the dove (incorrectly hen): שייפא (Gittin 69b). According to the Aruch, [p. 55] the לשלשת occurring in Sabbat 142b is also supposed to be hens' droppings *).
+
+‎Urine is called: שתן (Bechoroth 44b), השתנה (Nidda 13a), abbreviated: ש״נא (Berachoth 62b; so according to the Aruch, whereas according to Rashi it is anal excrement), מים (ibid. 22b) and מי רגלים (Nidda 57b); metaphorically, human excrements are moreover called: נקבים, namely the anal excrements: נקבים גדולים, urine: נקבים קטנים (Levita: Tischbi s.v. נקב). Bartenoro on Machschirin 6, 5 makes the following distinction: loose, thin excrement is called: מי רגלים, while urine is called: מי רגלים קטנים.
+
+‎The internal moisture of the intestines of cattle is called: שירקי דמעי (Chulin 50a).
+
+‎The horse has little evacuation in proportion to what it eats (Pesachim 113b).
+
+‎The excrements of birds can be life-threatening to cattle if they eat them (Chulin 58b).
+
+‎In the goat the excrements come first thick, then thin (Tanit 9b). On the usefulness of excrements see §. 102.
+
+### ‎§. 97.
+
+‎Semen and emission of semen. The semen muliebre is called אודם, the semen virile: לובן, each named after its color (Sabim 2, 1); common names for both are: שכבת זרע (Machschirin 6, 6) and טפה סרוחה (Aboth 3, 1). Semen discharged through pollution is called: קרי (Sabim 2, 3), or by circumlocution: שכבת זרע לבטלה (Nidda 13a**). The female of the fallow deer, which is covered by the stag, expels the semen again in the form of eggs, which discharge is called חלי דיחמורתא (Bechoroth 7b). The statements of the Talmud as to the cases in which the semen results in a male or a female birth belong to the science of anthropology.
+
+### ‎§. 98.
+
+‎Menstruation. Aristotle (l. c. 6, 17, 9) says: “Monthly purgations are found in animals too, but by no means as in the human female. In sheep and goats, too, the time before and after impregnation can be perceived by certain [p. 56] signs; but then they show nothing further until they are about to give birth; for the herdsmen recognize this approach of their delivery by certain indications.” In the Talmud (Nidda 29a) the menstruation of animals is called: טנוף, and it is said in general: כל היולדות מטנפות, i.e., every animal that gives birth menstruates. According to Rashi this happens on the day before *); on the other hand, in Bechoroth 21b the expression טנוף is explained differently, either as abortion, in that the embryo dissolves and passes from the animal, or as little clots of blood (בעבועי דדמא), i.e. as menstruation. Maimuni on the Mishnah (Bechoroth 3, 1) and Shulchan Aruch Jore Dea §. 315, 7 adopt the first explanation; nevertheless, here too the capacity of animals to menstruate is presupposed, for it is stated there that one should show the discharge to an expert herdsman, so that he may recognize whether it arose as a result of pregnancy or not, which means nothing other than whether the discharge was an abortion or menstruation.
+
+‎In the human female the blood of menstruation is called דם נדה, the blood of virginity דם בתולים, the blood of purification דם טהרה (Nidda 7, 1 and frequently).
+
+### ‎§. 99.
+
+‎Miscarrying. The untimely fruit is called נפל (Nidda 15b), the malformed fruit, or mole: שפיר (ibid. 24b). Discharged pieces of blood: חררת דם (Bechoroth 21b). The afterbirth: שליה (Nidda 26a). The third chapter of tractate Nidda deals with the monstrous miscarriages of the human female, and the investigation of this belongs to the field of anthropology.
+
+### ‎§. 100.
+
+‎Malformed birth. The Talmud (Nidda 24a) calls שסועה that malformed birth of humans and animals which has two spines and two backs. Jonathan [=Targum (Pseudo-)Jonathan] (5. B. M. [=Buch Mose: book of Moses (5. B. M. = Deuteronomy)] 14, 7) mentions a malformed birth of cattle with two heads and two spines, which he calls שלולא, but which is identical with the שסועה, since the Talmud also refers to that biblical passage in which the latter word occurs.
+
+‎The Talmud leaves it undecided whether such a malformed birth can live; on the other hand it concedes that a human being with a curved spine that appears double can live (ibid.).
+
+‎Other malformed births [p. 57] are animals with five or with three feet, further animals with a double rectum (Chulin 58b). Double intestines are to be regarded as a monstrosity in mammals, but not in birds (ibid.). The sixth and seventh chapters of tractate Bechoroth deal in detail with the monstrosities in humans and animals, of which the necessary use has been made in the special zoology under the individual articles.
+
+### ‎§. 101.
+
+‎Usefulness of animals. Man, ruler of the rest of living creation (Gen. 2, 26), knew how to make it serviceable and useful to himself. Cattle serve him for food (B. mez. 86b*), for the plough (Chagiga 3b), for threshing (Meïla 13a), for carrying burdens (A. Sara 5b), for manuring the fields (B. Kama 30a) etc.
+
+‎From the hide (Nasir 31b**), the hair (Menachoth 39b), the wool (ibid.), the horns (Kinim 25a), the hooves (Chulin 25b), the thigh bones (Kinim 25a), and the intestines (ibid.) he makes various implements***).
+
+‎Birds and fish (§. 313) serve chiefly as food; of the latter he also uses the fish oil (Sabbat 24b).
+
+‎The animals serve partly for work, partly for food, concerning which we shall cite what is necessary in the special zoology [p. 58] under the individual articles.
+
+‎Even snakes and other venomous animals served to prepare from their flesh a remedy against poison and the bites of venomous animals. This remedy was called תירייקי (Latin Theriace, Sabbat 109, 2, on which Bondi: Or. Ester [=Jonah Bondi, Or Esther, a dictionary of the foreign words in the Talmud] s.v. is to be compared). In general, the extensive use of the animal world for medicinal purposes in the Talmud is extraordinarily great, of which use has been made in the special zoology; here we wish only to cite a few pregnant passages on the curative method of the ancients. One bitten by a rabid dog should not be given red meat (§. 67) to eat, on which Rashi (Joma 83a) remarks that this remedy is indeed applied by the physicians, but in fact is neither radical nor proven.
+
+‎The Tosafot (M. Katan 11a. s.v. כוורא) say expressly that the remedies of the Talmud are no longer to be recommended for our times. David Samuel (in the Ture Sahab Jore Dea §. 217, 7) remarks that in the talmudic age too much blood was let in bloodletting. (Who does not think here of the curative method of bloodletting still customary in Italy today?) Finally, compare Lipmann Heller on Sabbat 14, 3. s.v. וכוס*).
+
+‎One must not forget, moreover, that the Talmud in this respect for the most part merely followed the statements of Aristotle, Galen, Pliny and others.
+
+### ‎§. 102.
+
+‎Use of animal excrement. The excrement of cattle serves as field manure (B. Kama 30a); that of the dog and of the pig serves for tanning leather (Berachoth 25a); that of the dog especially for tanning morocco (Chagiga 4a); in addition, the excrement of the dog (Gittin 69b), of the mule (Sabbat 110b) and of the wild dove (Gittin 69b) is used in medicine.
+
+‎The excrement of the cat serves to drive away mice (§. 137). Ambergris, which is held to be the excrement of the sperm whale (§. 89), served for incense (Keritot 6a). Animal blood served for לכא (Chulin 28a). Rashi explains: the blood served for dyeing red leather (פרקא, i.e. Pargia, see Or. Ester p. 101). Bondi here gives the sources on [p. 59] the use of cattle blood for dyeing cloth and for producing Prussian blue. Finally, let it be mentioned that the urine of a 40-day-old child was used for testing the colour of genuine purple (Menachoth 43a and §. 367).
+
+### ‎§. 103.
+
+‎Harmfulness of animals. Many creatures are so harmful to man, or to the growth of cereals, that public prayers and fasts were ordained for their extermination. To these belong the migratory locust, the stick locust (Tanit 19a), further the locust Gryllus coronatus, flies, wasps, gnats, snakes and scorpions (ibid. 14a). The Ninevite hornets and the Adiabenian scorpions may be killed even on the Sabbath (Sabbat 121b). Field mice and moles may be caught and killed on the intermediate days of festivals, likewise ants (M. Katan 6b). Dangerous to man, moreover, are the rabid dog (Joma 83a), the wild cat (§. 118), the wolf, the lion (Berachoth 13a) and in general many wild beasts of prey. Man also calls the louse his enemy (Sabbat 12a). Beautiful on this is the Midrash passage (Rabba Wajikra fol. 189, col. 3): “You consider flies, fleas and gnats superfluous, and yet they have their purpose in creation: they are means for carrying out the plans of Providence”; whereupon the Midrash cites examples in which evildoers were plagued and otherwise afflicted by those creatures.
+
+### ‎§. 104.
+
+‎Diseases of animals. Pigs suffer especially from leprosy (Ketuboth 61b) and from measles [cysticerci] (§. 484).
+
+‎The dog (Joma 83a) and the camel (Berachoth 54a) from rabies.
+
+‎Numerous are the diseases of cattle in the internal organs; those of the brain are treated in Jore Dea §. 31, of the lung §. 36*), of the heart §. 40, of the liver §. 41, of the gall bladder §. 42, of the spleen §. 43, of the kidneys §. 44, of the intestines §. 46, etc.
+
+‎Individual diseases are: diarrhoea (B. mez. 90a), cramp of the foot (Chulin 51a), toothache (B. Kama 35a), congestion of blood (Chulin 58b), effusion of bile [p. 60] (? see Maimuni and Rashi ibid.), chill (ibid.) and worm damage on the feet (B. mez. 78b).
+
+‎Cattle become more or less dangerously ill through eating chicken droppings, laurel leaves and bad water (Chulin 58b); likewise harmful to their health is eating citron leaves, laser-wort and pepper, or the bite of a snake*) and of the rabid dog (ibid.); eating אפרוחא (B. Batra 20a, perhaps fresh clover) is also harmful to them.
+
+‎Sheep often suffer from nasal botflies (Sabbat 54b). The diseases of fish are treated especially in §. 309.
+
+‎As a remedy, bloodletting was frequently applied (Bechoroth 33b and often); eating vetch also has a healing effect on cattle (B. mez. 90a).
+
+### ‎§. 105.
+
+‎Food of animals. Cattle most like to eat vetch (B. mez. 90a), otherwise also grass (עשבין B. batra 20a), from which fodder (שחת, Peah 2, 1) is prepared, and barley (חושלא, B. batra 36a). Cattle were preferably given wheat, whereas the ass and the camel were given barley (Menachoth 69a).
+
+‎Cattle eat straw that is already partly spoiled (see Tos. on B. Batra 19b. s.v. כתיבנא).
+
+‎Diurnal animals eat by day, nocturnal animals at night (Sanhedrin 108b). Out of hunger animals eat things they otherwise do not consume: thus the cow eats barley, the ass vetch, the dog oil, the pig meat, the cat dates, the ass even fish (B. Kama 19b). The snake especially loves water, wine and milk (Terumoth 8, 4), yet it also eats earth (Sabbat 85a).
+
+‎The ostrich eats glass (ibid. 128a; see however §. 240).
+
+‎The chameleon eats maggots (Sanhedrin 108b).
+
+‎The cat preferably mice (Horajoth 13a), but also [p. 61] snakes (Pesachim 112b). Animals and poultry are customarily fattened (B. mez. 86b).
+
+### ‎§. 106.
+
+‎Means of catching animals. The fowler is called: רישכא (Sabbat 130a), צד עוף (Kelim 24, 15), אורב (B. mez. 42a) and צייד (Tanit 22a).
+
+‎The bird-keeper: מרס (Rabba Ester fol. 123b).
+
+‎The means of catching are: the lime-twig (שפשף, Sabbat 78b), the net (רשת, Kelim 23, 5 and פרסחק, Chulin 141b), the snare (מכמור, Kelim 23, 5), the bird trap (מרף, ibid.), the woven net-basket (פלצור, ibid.).
+
+‎When catching wild birds, such as hawks and sparrowhawks (אשטור ואשפרויר = Astur and Épervier), the hunter wore leather gloves (פרקלינין, ibid. 24, 15).
+
+‎The straw hut in which the fowler stays is called: צריף (B. mez. 42a); the pit in which the hunter keeps himself hidden: כוך (Tanit 22a).
+
+‎Birds were also caught by means of bait (Berachoth 9b).
+
+‎The catching net was further called נשב (B. Kama 83a). The bird coop: שרקפא (Raschi Chulin 53b), the hen coop: לול (Sabbat 122b), the dovecote: שובך*).
+
+‎The nest: קן (already biblical) and כלוב (Raschi Jebamoth 63b).
+
+‎The means of catching fish are treated especially in §. 312.
+
+‎The proverb: Better one bird in the net than a hundred on the roof, is found in Jalk. Schim. [=Yalkut Shimoni] part 2, fol. 184, c.
+
+### ‎§. 107.
+
+‎Animal names. Animal names served partly as titles of honor, partly as mere designations for personal names; thus it was customary to call an eminent scholar the lion (Jebamoth 122b), likewise the king an eagle (Sanhedrin 12a). By contrast, the Persian prancing about on his horse was called: the restless bear! (Kiduschin 72a).
+
+‎Of one who had promised much but accomplished little, it was said: “A lion has become a fox” (B. Kama 117a).
+
+‎The donkey was the symbol of stupidity (Sabbat 112b); therefore a stupid person was called the donkey! (B. Kama 92b).
+
+‎The quarrelsome partner of a married couple was called “serpent!”, and hence the proverb: “No man can live together with a serpent” (Ketuboth 76a**).
+
+‎Self-seeking, aged judges were mockingly called [p. 62] “white geese!” (Gittin 73a). A respected family was called: בי יונה (house of the dove), a despised one bore the name: בי עורבתי (house of the raven, Kiduschin 70b*).
+
+‎To the dog, however, people sometimes also gave the names of hated persons (A. Sara 54b).
+
+### ‎§. 108.
+
+‎Continuation. Animals are often named, just as after their color (§. 78), so also after some function they perform. Thus hens are called נקורי because of their pecking at edible things (Sabbat 110b); snakes too are so called because of their biting off of things (Terumoth 8, 6). The dog, because of its lapping drinking: לםם (§. 122) and שואבות (ibid.), because of its barking: נבחן (ibid.); in general, named after their voice are the cock: קורא (crowing), the ground-vulture: שרקרק (§. 198), the goose: קוקא (quacking, §. 242), the raven: קורקור (§. 205), the partridge: קורא (§. 264, see p. 24, second note**).
+
+### ‎§. 109.
+
+‎Continuation. Personal names from the animal world are: men's names such as: יונה (Schekalim 8a), קוף (Para 3, 5), קיפוף (Jebamoth 103a), חכינאי (Ketuboth 62b), ברדלא (see Ide Mosche on Rabba Bereschit fol. 86, 2), כלבא שבוע (Nedarim 50a) etc. Women's names such as: חולדה (Megilla 14a), זיבורתא (ibid. 14b), כרכושתא (ibid.), ארנבת (ibid. 9b); thus the wife (according to Midrasch Rabba Wajikra fol. 180, 1, the mother) of Ptolemy is said to have been called a Lagid Λαγώς [Lagōs], hare). Lupina, the mother of Romulus, was called: זאבה (see Jalkut part 2, fol. 95, d). On the formation of animal names from personal names see §. 378. On the first bestowal of animal names by Adam (Gen. 2, 19) see in detail Jalkut Schimoni part 2, fol. 92b.
+
+### ‎[p. 63] §. 110.
+
+‎Conclusion. We wish here to mention only a few animals for which the most divergent explanations are given. יאלי (Sabbat 54b) is explained by Raschi as leech, by Tosephot as hedgehog, by Maimuni as snake and by Sachs as myriapod (see §. 446*).
+
+‎בינותא (Maccoth 16b) is designated by the Tosephot as a fish, by Raschi as a caterpillar.
+
+‎כרוי (Chulin 62b) by the Tosephot as birds, by Raschi as insects, by Landau as amphibians.
+
+‎יארוד (Sanhedrin 59b) by Raschi as a bird, by others as dragons.
+
+‎תוא is explained by Kimchi as aurochs, by Ibn Esra as a bird (§. 158); on ברבורים see §. 246, note**.
+
+‎Finally, Raschi explains קמצא (§. 392) as locust or ant, Buxdorf [=Johannes Buxtorf, Lexicon Chaldaicum, Talmudicum et Rabbinicum (Basel 1640)] as snail.
+
+---
+
+**Notes**
+
+*unnumbered page (scan 15)*
+
+‎*) The Talmud (Jebamoth 79b) distinguishes the man castrated by operation, סריס אדם, from the man born infertile, סריס חמה. — The infertile woman is called אילונית (ibid. 80 b) and עקרה (Sabbat 111a). Cf. §. 20, note.  
+‎**) On the etymology of this word cf. below §. 330.  
+‎***) Midr. Rabba (Echa fol. 53, col. 2) uses גוזל of any bird, and in Pesachim 49a it is even used of minor, helplessly abandoned children; thus the Pajtan (in the Jozar for Sabbath-Chanuca s.v. אודך כי אנפת) uses the designation גורים for nursing children.  
+
+*p. 2*
+
+‎*) Sometimes, however, the prefixed בר or בת does not have a diminutive meaning, e.g. בר אווא (duck §. 244), בת יענה (ostrich §. 240), בר יוכני (§. 502), בר נפחא (§. 217), בר חיריא (§. 192) etc.  
+‎**) The Talmud does not call birds מהלכי שתיים, and probably rightly so, since in them the wings in a certain sense take the place of the forefeet. The wings serve them not, like hands, for grasping, but for moving about. Cf. Voigt (Lehrbuch der Zoologie, 2 part p. 17). Cf. S. Ar. Ch. Mispat §. 390, 1, where damage caused by flight is regarded as תולדה דרגל.  
+
+*p. 3*
+
+‎*) The creature stunted in growth, dwarfish, is called in the masculine ננס (Νάννος [Nannos]), in the feminine ננסת (Bechoroth 45b). Small cattle are otherwise also called גודרות (B. mez. 69a and often); cf. עדר הגדר §. 151, note** — בהמות דקות is called by the Jerusalem Talmud (B. mez. 8, c): בעיר דקיק.  
+‎**) The Talmud (Pesachim 52b) lays down the principle: אין חיה שביהודה גדילה על פירות שבגליל ואין חיה שבגליל גדילה על פירות שביהודה, which Rashi understands to mean that the animal does not move from Judea to Galilee, or vice versa, for the sake of food; L. Heller (Schebiith 9, 3) seems to take it literally, namely of the sustenance of the animal; cf. Tosephoth Chadaschim there.  
+‎***) On the double meaning of the word ברייתי, from ברא "outside" or from בריא "to be fat", see Rashi on Chulin 47a. — The dog belongs to the class of wild animals (Kilajim 8, 6), although (B. batra 8a) it is remarked that the word כלב is equal in numerical value to the word בהמה.  
+
+*p. 4*
+
+‎*) The Tosephot (Sebachim 70b, s.v. אבל) do not accept this distinction; one may well, they say, count the calf among large cattle and the goat among small cattle, but not the young goose and the chick among large fowl.  
+‎**) See, however, §. 287, where snakes too are so called; on the other hand, earthworms and other worms scratched up (נקר) on dunghills are called ניקרי (§. 465).  
+
+*p. 5*
+
+‎*) In the Jerusalem Talmud, however, דגה designates only the small kind of fish כולכית, cf. the appendix; and in the Midr. [=Midrash] (Rabba Bereschit fol. 39b) דגה designates the female fish.  
+
+*p. 6*
+
+‎*) So Rashi and the Tosephot; the Pajtan (Jozar for Sabbath Rosch-Chodesch, s.v. אלהינו אלהים), on the other hand, has seven hundred clean kinds of fish exist. The said Piut belongs to the German rite (מנהג אשכנז) and in this follows the statement of the Midrash (Rabba Echa fol. 58. b).  
+‎**) Thus Josef Kara says in his commentary on Job 26, 6: וכן הבריות השוכנים מתחת המים כשם שיש בריות על הארץ כך יש בריות למטה מן הארץ וכלם יראים מפני (Frankel's Monatsschrift 6, vol. p. 271).  
+
+*p. 7*
+
+‎*) Here בהמה designates mammals in general.  
+
+*p. 9*
+
+‎*) Already Rashi indicates that birds must be struck out here; he mentions only בהמה as a collective designation for mammals, cf. §. 13 note*), cf. also Keritot 6a, where Rashi strikes חיה from the Talmud text.  
+‎**) As consequences of the adopted error, the artificial contortions in which David Schiff loses himself in his collection of responsa לשון זהב (Offenbach 5576) p. 28, col. 4 are interesting.  
+
+*p. 10*
+
+‎*) Thus Jehuda ha-Levi also says (Kusari 3, 53): וישלימנה [צורת האפרוח] חמום התרנגולת אותה שלשה שבועות  
+‎**) Midr. Rabba (Bereschit fol. 23. col. 1) reproduces our Talmud passage in extenso and has the addition that the marten is pregnant for 70 days.  
+‎***) Decem annos gestare in utero vulgus existimat, Aristoteles biennio. — Compare with this Plautus (Stich. [=Plautus, Stichus] act. 1. Sc. 3): Solere elephantum gravidam perpetuos decem Esse annos: Ejus ex semine haec certo est Fames: Nam jam complures annos utero haeret meo.  
+‎†) Thus Aristotle (l. c. 8, 17, 1) also says of the bear: "A pregnant she-bear has been caught either by no one, or at any rate by only a few." There was thus a lack of opportunity for observation. — Incidentally, attention may be drawn here to another contradiction. Aristotle (l. c. 6, 4, 3) says of the partridge that it can live over 60 (!) years; on the other hand (ibid. 9, 8, 4), that it lives about 15 years; an emendation of the text is therefore necessary here.  
+
+*p. 11*
+
+‎*) According to the Jerusalem Talmud (Nidda C. 1, fol. 49b), reported in more detail in the Tosephot (Bechoroth 21a, s.v. חנא), the following distinction is made: clean cattle can sometimes give birth already at the beginning of the fifth month (למקוטעין); unclean cattle and clean wild animals carry to full term.  
+‎**) Or הלמון; see Kerem Chemed vol. 6, p. 14 ff.  
+
+*p. 12*
+
+‎*) The singular form ביצה is only Talmudic.  
+
+*p. 13*
+
+‎*) In a woman an operative castration in the proper sense cannot be effected, see Tosephot Sabbat 110b. s.v. והתניא and ibid. 111a. s.v. בוקנה; there was, however, a potion causing infertility in a woman, which was called סמא דעקרתא (Jebamoth 65b) or כוס עיקרין (Sabbat 109b); cf. also Sota 22a.  
+
+*p. 15*
+
+‎*) These five signs are admittedly not arranged in the Talmud as we give them here; in this we have followed the arrangement of the Schulchan Aruch (Jore Dea §. 82); in any case the words of the Pajtan (Jozar for the 4th Sabbath after Pessach s.v. אשיחה), which read: צפרים הכשיר בשלשה זפק וקרקבן ואצבע יתרה, are inexact and incomplete.  
+
+*p. 16*
+
+‎*) Nachmanides gives (in his Bible commentary) as the reason for this that only the scaled fish come up more to the surface of the water in order to warm themselves in the air and sunshine, whereas the other fish come to the surface more rarely and are thus also cold, moist and less wholesome.  
+
+*p. 18*
+
+‎*) Cattle have 13 pairs of ribs (צלעות, §. 72), of which, however, only the 11 pairs counted from the breast onward contain marrow (§. 93). Each rib is attached to a vertebra (חוליא); cattle, however, have several more such vertebrae, namely 7 cervical vertebrae (as many as in man), then the aforementioned 13 dorsal vertebrae, and behind the ribs, as far as the tail, a further number of lumbar, sacral and caudal vertebrae (see Jore Dea §. 54). — In the Keduscha of the Mussaph of the New Year festival the Pajtan (s.v. ואתה אוזן קול) gives an anatomical scheme of the human skeleton, though with many inaccuracies; thus he has it with 11 pairs of ribs, whereas it has 12; he further mentions 18 vertebrae (no doubt 7 cervical and 11 dorsal vertebrae), but man, in accordance with the number of his pairs of ribs, has just as many dorsal vertebrae, namely 12 of them, thus 19 together with the cervical vertebrae; moreover, the same author explicitly mentions 8 cervical vertebrae (or neck bones?), which, as is evident, is in itself wrong, since man has 33 vertebrae in all, namely 7 cervical, 12 dorsal, 5 lumbar, 5 sacral and 4 caudal vertebrae. — On the various readings שִׁדְרָא, שְׁדְרָא and שְׁזְרָא see Elia Levita (Tischbi s.v. שדרא). — The spinal column of the fish is called, besides שדרא, also שיורתא, or more fully: שיורתא דנונא (Jerusalem Talmud Sabbat, ch. 1, fol. 3b; see §. 446).  
+
+*p. 19*
+
+‎*) A cock, namely, killed a child by pecking at its skull and thereby injuring the brain itself.  
+‎**) On these and several other of the Talmudic statements on the diseases of cattle mentioned in the following articles, cf. the compilation of them by Jehuda ha-Levi (Kusari ch. 3, §. 31).  
+
+*p. 24*
+
+‎*) Metaphorically, barking is called שחק "laughter" and howling בכה "weeping" (B. Kama 60b).  
+‎**) Animal names are sometimes formed ὀνοματοποιητικόν [onomatopoiētikon], i.e. after the natural sound of the animals, e.g. שרקרק (§. 198, Egyptian vulture), קוקא (§. 242, goose), קורקור (§. 205, raven), נעגועא (§. 284, frog), دَجَاجَةْ [dajājah] (hen, whose call sounds دَجْ دَجْ [daj daj]), קוקיאה (§. 265, coucou, cuckoo) etc. — Other names merely denote the kind of voice of the animal; thus the dog (§. 122) is called נבחן, the partridge (§. 264) קורא, the whirring locust (§. 387) צירצור, the frogs (§. 284) קולנון; thus the jackal is called in Arabic ابن اوى [ibn āwā] "son of howling", to which the Hebrew name אי, or איים (Jes. 13, 22) corresponds.  
+
+*p. 25*
+
+‎*) The simplest explanation seems to be that our Talmudic legend is based on the cooing of doves, which, sharply articulated, sounds like κύριε, κύριε [kyrie, kyrie].  
+
+*p. 26*
+
+‎*) In the Jerusalem Talmud Sabbat 3b, on the other hand, it is said: Every creature that is without veins and bones does not live beyond six months.  
+‎**) But this is said to be the case with the eagle too, Lindau (ראשית לימודים p. 35b).  
+
+*p. 29*
+
+‎*) The expression "to love someone like the apple of one's eye" is found in Rabba Echa fol. 72, col 4.  
+
+*p. 30*
+
+‎*) According to Raschi (B. Kama 55a) the beak is also called קיע. — The pecking up of individual grains: פיד של תרנגולת (A. Sara 4a).  
+‎**) "If they tell you that you have one ass's ear, be calm; if they say you have two, put a bridle on yourself" (R. Bereschit fol. 50, col. 4). "If they call you 'ass!', put a saddle on yourself" (B. Kama 92b).  
+
+*p. 31*
+
+‎*) With this compare Aristotle (l. c. 8, 27, 3); he says: "In Syria the goats have ears a span and four fingers long. In some, the ears can be gathered together down toward the ground." — This is the so-called Mamber goat, Ovis aurita, which Büffon has illustrated.  
+‎**) On the number of cervical and other vertebrae see §. 28 note.  
+‎***) Perhaps the word is corrupted from the Spanish Corcova.  
+
+*p. 32*
+
+‎*) A common designation for the male genitals is מילה (Jerusalem Talmud Megilla 74a).  
+
+*p. 33*
+
+‎*) Levita (in the Tischbi s.v. בעל) says: ביאה is the first intercourse, בעולה the subsequent and repeated coitus, which is why only the latter word, not the former, has a plural form. — Coitus is also called דרך ארץ (in the Pessach-Hagada s.v. ונצעק).  
+‎**) Thus ground not yet brought under cultivation is called קרקע בתולה (Nidda 8b); the woman who has been raped, or who for her part has been passive in coitus, is called קרקע עולם (Sanhedrin 74b).  
+
+*p. 34*
+
+‎*) The fingers of the human hand are called in general: אצבעות יד (2. Sam, 21, 20). The individual fingers are called: the thumb: בהן יד (Lev. 8, 23), גודל (Menachoth 11: a), and אליונא (Gittin 69a); the index finger: אצבע (Menachoth ibid.); the middle finger: אמה (ibid.); the ring finger: קמיצה (ibid.) and אצבע (Berachoth 41a), and the little finger: זרת (ibid.) and אצבע הקטנה (Piut for Sabbat Schekalim s.v. אז ראית). — בטרא (Chulin 50b) Raschi explains as the index finger; Aruch, however, reads: בטרא, which probably corresponds to the Arabic بنصر [binṣir], since the ن [n] frequently drops out in Aramaic words, cf. §. 408, note; the Arabic word, however, denotes the ring finger. — אצבע צרדה (Joma 19b) Levita (in the Tischbi s.v. גדל) wrongly explains as the thumb, and Raschi just as erroneously as the index finger; it is rather the middle finger (see in detail L. Heller Joma 1, 7). — The fingertips: ראשי אצבעות (Menachoth l. c.). — The toes in general: אצבעות רגל (2. Sam. [=Samuel] 21, 20). — The big toe: בהן רגל (Lev. 8, 23). — The palm of the hand: כף יד (1. Sam. 5, 4); the sole of the foot: כף רגל (Deut. [=Deuteronomy] 2, 5). — The arm: זרוע, אזרוע and אדרע (biblical),  
+‎**) We give another explanation of this Talmudic passage in §. 134.  
+
+*p. 35*
+
+‎*) Someone remarked jokingly that the cantor is called חזן because he should have a broad, healthy chest (חזה).  
+
+*p. 36*
+
+‎*) Quite delightful is the allegory on the nature and purpose of the tongue which the Talmud (Erachin 15b) gives.  
+‎**) From Σίφων [Siphōn] with insertion of the מ; cf. on this §. 394.  
+
+*p. 38*
+
+‎*) Raschi explains the expression סניא דיבי in two ways. First, as "contempt of the wolves", i.e. the lean and disgusting intestine that even the wolf leaves untouched; it is the intestine that the butcher opens in order to remove the filth through it; it is called קרשטיא בודיל, Crasse budello, or בודל שאגליר Budello (Italian) Cagalar (Spanish). — Second, as "outflow of the filth", since, as mentioned, it is opened for the removal of the filth.  
+‎**) Mussaphia explains the Aramaic word by Ἀπόπατος [apopatos], excrement.  
+
+*p. 39*
+
+‎*) It may be remarked in passing that the word is written ושט as well as ושט, just like וורד and ורד. (In my נפשות צדיקים p. 108, line 6 from the bottom, the words ורד פרח are to be supplied, and in line 5 from the bottom: יקרה). — A narrow opening is figuratively called פי ושט (M. Katan 29a). Geiger (Zur Sprache d. Mischnah p. 30) considers the derivation from ישט "to extend" probable.  
+‎**) Elsewhere also פה של מטה (Sanhedrin 100a).  
+‎***) Jellinek (Frank's Kabbala p. 205; see also Joël: מדרש הזהר p. 345) seeks a proof that Raschi did not understand Greek; the clearest proof is supplied by Raschi in his own words, when he says: איכטומכא אני שמעתי איסטומכא בלע"ז ואינו יודע מהו; he therefore did not know the meaning of Στόμαχος [stomachos]; cf. Kerem Chemed vol. 5, p. 242, and ibid. vol. 6, p. 195.  
+
+*p. 40*
+
+‎*) In a dove that opening of the gullet is called מבלעתה (Chulin 43b), which Raschi explains as בית הבליעה.  
+
+*p. 41*
+
+‎*) This statement probably needs correction, for the liver receives no bile; rather, it is precisely the organ that secretes the bile, which then collects in the gall bladder (§. 69).  
+
+*p. 43*
+
+‎*) Maimuni (Mischna Chulin 9, 5) explains קולית as the marrow bone closed at both ends; Aruch, by contrast, as the thigh bone, and one might perhaps call the bone of the frog's leg: קולית השרץ (ibid. 126b).  
+‎**) On the little bone ערקוב see Chulin 76a.  
+‎***) Likewise in the Mishnah commentary on Chulin 9, 1, where he speaks in particular about the comprehensive meaning of גידים.  
+
+*p. 44*
+
+‎*) The French government had experiments conducted to spin from the hair of the hump a thread that can be used for the finest shawls.  
+
+*p. 45*
+
+‎*) In Sch. Aruch Eben ha-Eser §. 125, 22, קולמוס של כנף and קולמוס של קנה form a contrast in ritual respect. Ibid. 125, 4 mention is made of קולמוס של ברזל. In Sch. Ar. Jore Dea §. 271, 7, קולמים של קנה is contrasted with נוצה. — Midr. R. Debarim fol. 293, col. 2 mentions the habit of wiping the pen on the hair of the head.  
+
+*p. 47*
+
+‎*) A classic passage on this is found in Bechai (Chobat ha-Lebaboth ed. Fürstenthal) p. 62b ff.  
+
+*p. 48*
+
+‎*) Indeed, there is even mention of white blood of the same colour as the pearl (דם לבן) (Nidda 41b and on this §. 495, note).  
+‎**) This may perhaps have been, among other things, one of the reasons for the biblical commandment (Lev. 22, 27).  
+
+*p. 50*
+
+‎*) Midr. Jalkut Schim. part 2, fol. 101, c.: Tears are salty, earwax fatty, nasal mucus foul-smelling, saliva sweetish.  
+‎**) The words of Aristotle are: "Ὅσα δ᾽ ἂν δάκῃ, ἢ τοῖς ὄνυξιν ἑλκώσῃ, ἐκ τῶν ἑλκῶν ἰχῶρες ῥέουσιν ὠχροὶ σφόδρα [hosa d’ an dakē, ē tois onyxin helkōsē, ek tōn helkōn ichōres rheousin ōchroi sphodra]"; ἰχώρ [ichōr] is the pus oozing from wounds, and ὠχρος [ōchros] will here mean greenish or yellowish. Pliny calls this pus "aler sanguis"; he says: "Ex omni vulnere, sive ungue impresso, sive dente, ater profluit sanguis" (h. n. 8, 16, 9). If we add what Aristotle says of the falcon species Κίρκος [Kirkos], that as an enemy it attacks the fox and through the wounds it inflicts causes it ulcers (Thierg. 9, 2. 4), then we shall have to understand by the Talmudic זיהורא that purulent fluid which renders the wounded animal unfit for eating because the wound that the beast of prey has inflicted on it can cause further inflammation. Concerning such seemingly harmless injuries to animals intended for food, sanitary-police regulations apply even today, in that such animals suffering from inflammation are not permitted for consumption. The Talmud is, to be sure, still more rigorous in this; but it does not regard זיהורא as an immediately lethal poison, but only as a matter that arises by means of the wound, festers and causes inflammation. Raschi (Chulin 52b) and later decisors (see Jore Dea §. 55) do indeed call that matter ארם; but already the Jerusalem Talmud (Terumoth ch. 8, fol. 45, c) expresses itself thus: כל ארסין מעלין חטטין וארס נחש ממית "all poisons cause ulcers, only snake venom kills"; therefore in our passage in the Babylonian Talmud immediate death is certainly not intended, and Krochmal's attacks (in vol. 3 of Ha-Chalutz) against this statement of the Talmud are therefore unfounded, at least as far as the זיהורא is concerned.  
+
+*p. 51*
+
+‎*) The gall is also called מרירתא (Pesachim 39a), and is also said to be called מחלה "sickness", because it is supposedly susceptible to 83 kinds of diseases (that being the numerical value of the letters of מחלה) (B. Kama 92b); but here the Greek χολή [cholē], which means gall, is probably in mind; one is reminded here of the playful rendering of cholera by חולי רע, and the latter in turn recalls מרעין בישין through Morbus (!).  
+
+*p. 52*
+
+‎**) For this reason, according to Philo (2, 255), honey is said to have been excluded from the sacrificial material. Cf. my work "Die Opfer des alten Testaments" §. 16.  
+
+*p. 53*
+
+‎*) תרבא sometimes means: juice, cf. §. 409, first note.  
+‎**) In all, cattle have 13 pairs of ribs, see §. 28 note* and §. 158 note.  
+
+*p. 54*
+
+‎*) The mucus secretion of fish is called רירי (Sabbat 107b) and לחלוחי (Jerusalem Talmud A. Sara C. 2. fol. 42a).  
+‎**) As צואה from יצא, so נפקא from נפק, discharge. Instead of פרתא, Midr, Jalk. Schim. part 2, fol. 114, d has: פוריתה, by which the biblical ערוב is explained there.  
+
+*p. 55*
+
+‎*) The excrements of red hens smell worse than those of hens of other colours (Jerusalem Talmud Berachoth C. 3, fol. 6, d).  
+‎**) The discharge issuing from the flaccid member is called זוב (Barlenoro on Sabim 1, 1), in distinction from שכבת זרע, which flows from the erect member (Nidda 31b), where further details are also given about the colour of both kinds of discharge.  
+
+*p. 56*
+
+‎*) For mucus (גלייא, Glaire) passes from the animal.  
+
+*p. 57*
+
+‎*) In the Jerusalem Talmud (Peah ch. 8, fol. 21a) the Babylonians are reproached for eating raw meat, and it is added: מפני שדעתן מקולקלת, "because they are half-knowing", i.e. crude; but in Menachoth 99b the Mishnah reports outright that Babylonian priests consumed raw sacrificial meat, מפני שדעתן יפה, "because they are strong-minded", and are not disgusted by raw meat (Bartenoro). Maimuni (on the Mishnah) explains it simply as meaning that those priests had sturdier stomachs; the Gemara, by contrast (ibid. 100a), attributes that sturdiness not to Babylonian but to Alexandrian priests.  
+‎**) That of slaughtered cattle is better than that of cattle that have died (cf. p. 60, note). Here also belongs the use of animal hide for drums (Sota 49b; טנבורא, Italian Tamburo).  
+‎***) Here belongs the preparation of glue, which, as is well known, is a product of boiled animal gelatine. The best is made from the scraps of cowhides, but in the time of the Talmud ingredients of flour were also mixed into the glue. This is called: קולן של סופרים (Κόλλα [kolla], glue for scribes, which glues the materials together), or פרורא דאושכפי (Rashi: גלו"ד, Gluten, glue of the shoemakers; Pesachim 42b). The scraps of hides are called: קיצועין (Rashi: רוניו"ש, Rognures; B. Kama 119b). — On the gluing together of individual sheets of paper see Rashi on Sota 17a at the end.  
+
+*p. 58*
+
+‎*) Most noteworthy in this connection are the words of Isserles on Eben ha-Eser §. 156, 4; see §. 160, second note.  
+
+*p. 59*
+
+‎*) The disease in consequence of which the lung of cattle becomes completely putrid, and which has no special name in the Talmud but is designated by the words ריאה שנשפכה כקיתון, is called by Aristotle (l. c. 8, 22, 2): Καυρός [Kauros].  
+
+*p. 60*
+
+‎*) One should not make sandals for oneself from the hide of cattle that have fallen dead, because the animal may perhaps have died from a snakebite, in which case the venom may have remained in the hide (Chulin 94a); compare with this Festus (De verb. sign. s.v. Mortuae), who says: Mortuae pecudis corio calceos aut soleas fieri flaminicis nefas habetur, sed aut occisae alioquin aut immolatae, quoniam sua morte exstincta omnia funesta sunt; what the Talmud, in its rigorous nature, considers dangerous was at least regarded as defiled and uncanny; see in detail Bernays: "Ueber das Phokylideische Gedicht" p. 29. — In our Talmud passage it is further stated that the hide of cattle that have died is less durable than that of slaughtered cattle.  
+
+*p. 61*
+
+‎*) The pl. is both שובכין (Pesachim 55b) and שובכות (Oholoth 8, 2).  
+‎**) Cf. §. 289, note *.  
+
+*p. 62*
+
+‎*) Another contrast is בת כרכבי and בת עורבתי (see B. Batra 91a).  
+‎**) In several languages animals are named after their homeland; thus the canary takes its name from the Canary Islands, the tarantula from the city of Taranta, the pheasant from the river Phasis, etc.; in the Talmud there is no such animal name (since פסיון too does not denote the pheasant, see §. 263); on the other hand, a geographical epithet is often added to the actual animal name, e.g. גמלא פרסא (§. 163), עורב מיצראי (§. 211), נחש שבארץ ישראל (§. 293), קולוס האספנין (§. 315), עקרב שבחדייב (§. 399), and many others.  
+
+*p. 63*
+
+‎*) Where we seek to substantiate an opinion differing from all the views mentioned.  

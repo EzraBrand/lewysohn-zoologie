@@ -1,0 +1,269 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "40\tEingeweide der Vögel. — Herz.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "40\tEingeweide der Vögel. — Herz."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "§. 62, Anm. * erwähnte Erklärung Raschi's von סניא דיבי neue\nSchwierigkeiten.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 62, Anm. * erwähnte Erklärung Raschi's von "
+    },
+    {
+     "lang": "heb",
+     "text": "סניא דיבי"
+    },
+    {
+     "lang": "deu",
+     "text": " neue\nSchwierigkeiten."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 65.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 65."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Eingeweide der Vögel. Der Schlund oder die Speiseröhre\n(ושט) hat bei seinem Beginn, d. i., bei seinem Anfang unmittelbar\nan dem Hinterkopf, eine Mündung, die תורבץ הוושט heißt, sie besteht\naus einer knorpeligen, harten (מחקשה, Raschi: דריוש, durcit) Haut;\nsie ist derart hart, daß sie, selbst eingeschnitten, geöffnet bleibt; da-\nhingegen fällt die Haut des übrigen Theiles der Speiseröhre in ein-\nander (כויץ, Raschi: רטייש, rétrécir), wann man sie durchschneidet *).\n— Er führt in den Kropf, oder Vormagen, זפק, von hier führt\neine Röhre in den eigentlichen Magen, קורקבן (Raschi identificirt ihn\nmit המסס und übersetzt das Wort durch: צינפיל, Zipfel, Sabbat 152, a),\nvon welchem die Speise in die Därme, בני מעיין (Chulin 56, b) geht.\n— Der Schlund hat, wie bei dem Vieh, zwei Häute. Die äußere\nHaut ist blutroth, die innern weiß (ibid. 43, a). Zuweilen findet\ndas entgegengesetzte Verhältniß statt, in welchem Falle das Vieh,\noder der Vogel nicht gegessen werden darf (ibid.). — Die elastische\nHaut des Kropfes, in welchem sich Speise ansammelt ehe sie in den\nMagen geht, heißt גג של זפק, und bildet, wenn man den Schlund\nanzieht die natürliche Verlängerung und Fortsetzung desselben (ibid.\n56, b). — Der Magen hat eine stark muskelöse innere Haut, wo-\ndurch die Speise zermalmt wird (Raschi Chulin 43, a und Sabbat\n36, a). Beim Strauß (§. 240) ist diese muskelöse Haut von außer-\nordentlicher Stärke, daß sie selbst harte Gegenstände, wie Eisen, zer-\nsetzen kann. — Man findet im Vogelmagen öfters Steinchen, die\nder Vogel zur bessern Verdauung der Speise verschlingt. — Die\näußere Haut bildet eine dicke Fleischmasse.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eingeweide der Vögel. Der Schlund oder die Speiseröhre\n("
+    },
+    {
+     "lang": "heb",
+     "text": "ושט"
+    },
+    {
+     "lang": "deu",
+     "text": ") hat bei seinem Beginn, d. i., bei seinem Anfang unmittelbar\nan dem Hinterkopf, eine Mündung, die "
+    },
+    {
+     "lang": "heb",
+     "text": "תורבץ הוושט"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt, sie besteht\naus einer knorpeligen, harten ("
+    },
+    {
+     "lang": "heb",
+     "text": "מחקשה"
+    },
+    {
+     "lang": "deu",
+     "text": ", Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "דריוש"
+    },
+    {
+     "lang": "fra",
+     "text": ", durcit"
+    },
+    {
+     "lang": "deu",
+     "text": ") Haut;\nsie ist derart hart, daß sie, selbst eingeschnitten, geöffnet bleibt; da-\nhingegen fällt die Haut des übrigen Theiles der Speiseröhre in ein-\nander ("
+    },
+    {
+     "lang": "heb",
+     "text": "כויץ"
+    },
+    {
+     "lang": "deu",
+     "text": ", Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "רטייש"
+    },
+    {
+     "lang": "fra",
+     "text": ", rétrécir"
+    },
+    {
+     "lang": "deu",
+     "text": "), wann man sie durchschneidet *).\n— Er führt in den Kropf, oder Vormagen, "
+    },
+    {
+     "lang": "heb",
+     "text": "זפק"
+    },
+    {
+     "lang": "deu",
+     "text": ", von hier führt\neine Röhre in den eigentlichen Magen, "
+    },
+    {
+     "lang": "heb",
+     "text": "קורקבן"
+    },
+    {
+     "lang": "deu",
+     "text": " (Raschi identificirt ihn\nmit "
+    },
+    {
+     "lang": "heb",
+     "text": "המסס"
+    },
+    {
+     "lang": "deu",
+     "text": " und übersetzt das Wort durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "צינפיל"
+    },
+    {
+     "lang": "deu",
+     "text": ", Zipfel, Sabbat 152, a),\nvon welchem die Speise in die Därme, "
+    },
+    {
+     "lang": "heb",
+     "text": "בני מעיין"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 56, b) geht.\n— Der Schlund hat, wie bei dem Vieh, zwei Häute. Die äußere\nHaut ist blutroth, die innern weiß (ibid. 43, a). Zuweilen findet\ndas entgegengesetzte Verhältniß statt, in welchem Falle das Vieh,\noder der Vogel nicht gegessen werden darf (ibid.). — Die elastische\nHaut des Kropfes, in welchem sich Speise ansammelt ehe sie in den\nMagen geht, heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "גג של זפק"
+    },
+    {
+     "lang": "deu",
+     "text": ", und bildet, wenn man den Schlund\nanzieht die natürliche Verlängerung und Fortsetzung desselben (ibid.\n56, b). — Der Magen hat eine stark muskelöse innere Haut, wo-\ndurch die Speise zermalmt wird (Raschi Chulin 43, a und Sabbat\n36, a). Beim Strauß (§. 240) ist diese muskelöse Haut von außer-\nordentlicher Stärke, daß sie selbst harte Gegenstände, wie Eisen, zer-\nsetzen kann. — Man findet im Vogelmagen öfters Steinchen, die\nder Vogel zur bessern Verdauung der Speise verschlingt. — Die\näußere Haut bildet eine dicke Fleischmasse."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 66.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 66."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Herz. לב, oder ליבא (Chulin 45, b). Das Herz hat drei Höh-\nlungen (Jore Deah §. 40). Die rechte ist die größte (Aristot. l. c.\n1, 14, 2) und heißt: חלל גדול (Chulin ibid.), die linke ist die kleinste\nund heißt חלל קטן (ibid.) die mittlere steht ebenso im Betreff der\nGröße in der Mitte zwischen jenen Beiden (Aristoteles). — Die\nLuftröhre nimmt am Ende drei Ausläufe (Kanäle) in die Lunge",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Herz. "
+    },
+    {
+     "lang": "heb",
+     "text": "לב"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "ליבא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 45, b). Das Herz hat drei Höh-\nlungen (Jore Deah §. 40). Die rechte ist die größte (Aristot. l. c.\n1, 14, 2) und heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "חלל גדול"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin ibid.), die linke ist die kleinste\nund heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "חלל קטן"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid.) die mittlere steht ebenso im Betreff der\nGröße in der Mitte zwischen jenen Beiden (Aristoteles). — Die\nLuftröhre nimmt am Ende drei Ausläufe (Kanäle) in die Lunge"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Bei einer Taube heißt jene Schlundmündung מבלעתה (Chulin 43, b),\nwas von Raschi durch בית הבליעה erklärt wird.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bei einer Taube heißt jene Schlundmündung "
+    },
+    {
+     "lang": "heb",
+     "text": "מבלעתה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 43, b),\nwas von Raschi durch "
+    },
+    {
+     "lang": "heb",
+     "text": "בית הבליעה"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt wird."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    3057
+   ],
+   [
+    3308,
+    2163
+   ]
+  ],
+  "input_tokens": 3360,
+  "output_tokens": 1198,
+  "cost_usd": 0.007,
+  "seconds": 13.8
+ }
+}

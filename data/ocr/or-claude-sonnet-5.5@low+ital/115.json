@@ -1,0 +1,277 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Steinbock. — Der Bockhirsch.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Steinbock. — Der Bockhirsch."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "115",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "115"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "kannt, wird das 5. B. M. 14, 5 vorkommende Wort entweder durch\nElent, oder Giraffe, am wahrscheinlichsten aber durch Antilope\nübersetzt, deren Art freilich nicht genau bestimmt werden kann.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "kannt, wird das 5. B. M. 14, 5 vorkommende Wort entweder durch\nElent, oder Giraffe, am wahrscheinlichsten aber durch Antilope\nübersetzt, deren Art freilich nicht genau bestimmt werden kann."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 148.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 148."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Steinbock.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Steinbock."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Von dem bibl. אקו (5. B. M. 14, 5) ist das fem. יעלה (Pro-\nverb. 5, 19) und im Plur. יעלי סלע (Job 39, 1), dem der deutsche\nName des Thieres und mehr noch der lat. Rupi-caprae (Plin. h. n.\n8, 53, 79) entspricht. Talmudisch heißt das fem. ebenfalls יעלה (B.\nbatra 16, b), pl. יעלים (Kilajim 1, 6). Maimuni (zur letztern Stelle)\nsagt: בערבי אלמעול „im Arabischen: الوعل. — Raschi erklärt (R.\nha-Schana 26, b) יעל durch שטיין בוק, Steinbock, wie es derselbe\nauch zu 5. B. M. 14, 5 für אקו gebraucht; diesem Nom. masc. ent-\nspricht das talmud. יעל (R. ha-Schana ibid.) und יעלא (Onkelos zu\nDeut. ibid.).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Von dem bibl. "
+    },
+    {
+     "lang": "heb",
+     "text": "אקו"
+    },
+    {
+     "lang": "deu",
+     "text": " (5. B. M. 14, 5) ist das fem. "
+    },
+    {
+     "lang": "heb",
+     "text": "יעלה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Pro-\nverb. 5, 19) und im Plur. "
+    },
+    {
+     "lang": "heb",
+     "text": "יעלי סלע"
+    },
+    {
+     "lang": "deu",
+     "text": " (Job 39, 1), dem der deutsche\nName des Thieres und mehr noch der lat. Rupi-caprae (Plin. h. n.\n8, 53, 79) entspricht. Talmudisch heißt das fem. ebenfalls "
+    },
+    {
+     "lang": "heb",
+     "text": "יעלה"
+    },
+    {
+     "lang": "deu",
+     "text": " (B.\nbatra 16, b), pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "יעלים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kilajim 1, 6). Maimuni (zur letztern Stelle)\nsagt: "
+    },
+    {
+     "lang": "heb",
+     "text": "בערבי אלמעול"
+    },
+    {
+     "lang": "deu",
+     "text": " „im Arabischen: "
+    },
+    {
+     "lang": "ara",
+     "text": "الوعل"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Raschi erklärt (R.\nha-Schana 26, b) "
+    },
+    {
+     "lang": "heb",
+     "text": "יעל"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "heb",
+     "text": "שטיין בוק"
+    },
+    {
+     "lang": "deu",
+     "text": ", Steinbock, wie es derselbe\nauch zu 5. B. M. 14, 5 für "
+    },
+    {
+     "lang": "heb",
+     "text": "אקו"
+    },
+    {
+     "lang": "deu",
+     "text": " gebraucht; diesem Nom. masc. ent-\nspricht das talmud. "
+    },
+    {
+     "lang": "heb",
+     "text": "יעל"
+    },
+    {
+     "lang": "deu",
+     "text": " (R. ha-Schana ibid.) und "
+    },
+    {
+     "lang": "heb",
+     "text": "יעלא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Onkelos zu\nDeut. ibid.)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "In der Mischna (Kilajim 1, 6) wird der Steinbock als ein dem\nHirsche ähnliches Thier bezeichnet, denn er hat bekanntlich einen hirsch-\nartigen Kopf und ebenso dünne Beine wie der Hirsch. Aus seinen\ngroßen, schweren Hörnern verfertigte man Blasinstrumente, mit wel-\nchen man das Jobaljahr verkündete (R. ha-Schana ibid.), s. jedoch\nBartenoro (zu ibid. 3, 5). — Chulin 59, b übersetzt Raschi zwar\nfälschlich צבי durch Steinbock, doch ist seine Angabe richtig, daß die\nHörner des Steinbocks nicht gegabelt sind, sie sind mondförmig, schräg\nnach hinten gekrümmt und mit knorrigen Querringen versehen. —\nDas Weibchen soll lieblos gegen seine Jungen sein; es besteigt bei\nder Geburt die höchsten Felsen, unbekümmert, ob die Jungen hinab-\nstürzen könnten; doch der Adler fängt dieselben, wenn sie fallen, auf\nund bringt sie zur Mutter zurück (B. batra 16, a und b). Ueber\nden letzten fabelhaften Theil dieser Stelle vergl. die ähnliche Angabe\nüber die Geburt der Hirschkuh (§. 143). Der Erklärung bedarf\nnoch die Angabe יעלה וו חשה (Jalkut Schim. 2. Th. fol. 122, c)\nund dazu der dortige Glossator.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In der Mischna (Kilajim 1, 6) wird der Steinbock als ein dem\nHirsche ähnliches Thier bezeichnet, denn er hat bekanntlich einen hirsch-\nartigen Kopf und ebenso dünne Beine wie der Hirsch. Aus seinen\ngroßen, schweren Hörnern verfertigte man Blasinstrumente, mit wel-\nchen man das Jobaljahr verkündete (R. ha-Schana ibid.), s. jedoch\nBartenoro (zu ibid. 3, 5). — Chulin 59, b übersetzt Raschi zwar\nfälschlich "
+    },
+    {
+     "lang": "heb",
+     "text": "צבי"
+    },
+    {
+     "lang": "deu",
+     "text": " durch Steinbock, doch ist seine Angabe richtig, daß die\nHörner des Steinbocks nicht gegabelt sind, sie sind mondförmig, schräg\nnach hinten gekrümmt und mit knorrigen Querringen versehen. —\nDas Weibchen soll lieblos gegen seine Jungen sein; es besteigt bei\nder Geburt die höchsten Felsen, unbekümmert, ob die Jungen hinab-\nstürzen könnten; doch der Adler fängt dieselben, wenn sie fallen, auf\nund bringt sie zur Mutter zurück (B. batra 16, a und b). Ueber\nden letzten fabelhaften Theil dieser Stelle vergl. die ähnliche Angabe\nüber die Geburt der Hirschkuh (§. 143). Der Erklärung bedarf\nnoch die Angabe "
+    },
+    {
+     "lang": "heb",
+     "text": "יעלה וו חשה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Jalkut Schim. 2. Th. fol. 122, c)\nund dazu der dortige Glossator."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 149.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 149."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Bockhirsch.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Bockhirsch."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Es dürfte wohl schwerlich gelingen, den so oft im Talmud vorkom-\nmenden כוי mit Gewißheit zu bestimmen, es giebt kein anderes Thier,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Es dürfte wohl schwerlich gelingen, den so oft im Talmud vorkom-\nmenden "
+    },
+    {
+     "lang": "heb",
+     "text": "כוי"
+    },
+    {
+     "lang": "deu",
+     "text": " mit Gewißheit zu bestimmen, es giebt kein anderes Thier,"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "8*",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "8*"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3296,
+    2136
+   ],
+   [
+    3296,
+    2940
+   ]
+  ],
+  "input_tokens": 11359,
+  "output_tokens": 1954,
+  "cost_usd": 0.0423,
+  "seconds": 18.3
+ }
+}

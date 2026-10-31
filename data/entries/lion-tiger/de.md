@@ -160,28 +160,14 @@ grausamste und fürchterlichste Raubthier (Voigt l. c. 1. S. 269*).
 *p. 68*
 
 ‎*) Ueber die Doppelbedeutung des אריותא s. §. 132, Anhang.  
-‎**) Wohl selten findet sich eine gleichgroße Anhäufung von Tropen zur Be-
-zeichnung des göttlichen Wesens wie in dem bekannten 4. Schir ha-Jichud; da
-wird Gott mit נשר, שחל, לביא, ארי, דוב, נמר, עש und כפיר verglichen.  
+‎**) Wohl selten findet sich eine gleichgroße Anhäufung von Tropen zur Bezeichnung des göttlichen Wesens wie in dem bekannten 4. Schir ha-Jichud; da wird Gott mit נשר, שחל, לביא, ארי, דוב, נמר, עש und כפיר verglichen.  
 
 *p. 69*
 
-‎*) Ein Großprahler, der nichts Gutes im Sinne hat, heißt; אריא ארבא
-„lauernder Löwe“ (B. Kama 85, a; vgl. Ps. 10, 9).  
-‎**) Sanhedrin 102, a heißt es: אין ארי דורס ונוהם, wo das Wort דורס
-wohl zu streichen ist. — Ibid. 108, b wird der Fall erwähnt, in welchem der
-Löwe nicht würgen, vielmehr von den Sonnenstrahlen sich nähren soll; vgl. jedoch
-§. 514.  
-‎***) In den entgegengesetzten Irrthum verfiel Aelian, der (Thierg. 4, 34)
-die Tragzeit der Löwin auf 2 Monate angiebt; s. jedoch die Scholien von Fr. Ja-
-cobs, der nach Gillius die betreffenden Worte streicht und bemerkt, daß auch Phi-
-les jene Dauer von zwei Monaten annimmt.  
+‎*) Ein Großprahler, der nichts Gutes im Sinne hat, heißt; אריא ארבא „lauernder Löwe“ (B. Kama 85, a; vgl. Ps. 10, 9).  
+‎**) Sanhedrin 102, a heißt es: אין ארי דורס ונוהם, wo das Wort דורס wohl zu streichen ist. — Ibid. 108, b wird der Fall erwähnt, in welchem der Löwe nicht würgen, vielmehr von den Sonnenstrahlen sich nähren soll; vgl. jedoch §. 514.  
+‎***) In den entgegengesetzten Irrthum verfiel Aelian, der (Thierg. 4, 34) die Tragzeit der Löwin auf 2 Monate angiebt; s. jedoch die Scholien von Fr. Jacobs, der nach Gillius die betreffenden Worte streicht und bemerkt, daß auch Philes jene Dauer von zwei Monaten annimmt.  
 
 *p. 71*
 
-‎*) In unserer Talmudstelle wird hyperbolisch erzählt, daß von dem Geschrei
-des אריא דבי עילאי aus der Entfernung von 400 Parasas die Mauer von Rom
-einstürzte; ähnlich wird im jerusalem. Talmud B. batra 2, 3 erzählt, daß von
-dem Geschrei der persischen Löwen (גורי פרסייא) die Mauer der Stadt חמץ ein-
-stürzte. — Vielleicht ist der Eigenname mit חמת (Gen. 10, 18) identisch, s. Jo-
-nathan z. d. St.  
+‎*) In unserer Talmudstelle wird hyperbolisch erzählt, daß von dem Geschrei des אריא דבי עילאי aus der Entfernung von 400 Parasas die Mauer von Rom einstürzte; ähnlich wird im jerusalem. Talmud B. batra 2, 3 erzählt, daß von dem Geschrei der persischen Löwen (גורי פרסייא) die Mauer der Stadt חמץ einstürzte. — Vielleicht ist der Eigenname mit חמת (Gen. 10, 18) identisch, s. Jonathan z. d. St.  

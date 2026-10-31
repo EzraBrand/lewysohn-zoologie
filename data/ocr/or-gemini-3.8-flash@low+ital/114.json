@@ -1,0 +1,245 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "114\nEine Antilope. — Eine Antilopenart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "114\nEine Antilope. — Eine Antilopenart."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 146.\nDie Antilope.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 146.\nDie Antilope."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 59, b heißt es: Der קרש ist, obgleich er nur ein Horn\nhat, doch zu essen erlaubt; Rabbi Jehuda fügte hinzu: קרש wird\nטביא דבי עילאי „Hirsch des Waldes Ilai“ (s. §. 115) genannt. Das\nFell desselben ist 16 Spannen lang. Raschi erklärt das Wort durch\nDaim (דיי\"ם) Damhirsch; allein dieser hat stets zwei Hörner. Man\nvgl. aber Aristoteles (l. c. 2, 2, 9), er sagt: Der Oryx (Ὄρυξ) hat\nein Horn und zwei Hufen. — Es ist dies die Antilope Oryx, welche\nin Aegypten und Libyen vorhanden ist und zweifellos in unserer Tal-\nmudstelle gemeint wird. Sie ist hier als ein zum Essen gestattetes\nThier bezeichnet, d. h., als ein solches, welches gehörnt und an den\nKlauen gespalten ist; es wird ferner zum Hirschgeschlecht gezählt, was\nvöllig der Antilope entspricht, da diese überhaupt hirschähnlich ist. —\nEs ist daher unnöthig mit Burdorf, Bochart u. A. קרש als Ein-\nhorn (apocopirt von Μονόκερως) zu nehmen, da das Einhorn ohne-\ndieß im Talmud anders benannt wird (§. 174). Der Talmud sagt\nferner, daß das Horn des קרש schwarz färbe (B. batra 16, b), wozu\nman Oppian (bei Rosenmüller a. a. O. S. 202) vergleiche; er sagt:\n„Die Hörner des Oryx sind schwarz von Farbe, härter als Erz,\nEichen und Steine“. — Hier hat man die Worte „Hörner des Oryx“\nnicht in dem Sinne zu nehmen, daß der Oryx mehr als ein Horn\nhabe, sondern in dem von: „Oryxhörnern“, gerade so wie das bibl.\nקרני ראם (5. B. M. 33, 17), wofür schon der Talmud genauer קרני\nראמים (A. Sara 3, b) hat. — Man möchte geneigt sein, קרש für\nרקש verwandt mit Oryx zu halten, wie אנקה vielleicht mit Ἐχῖνος\nverwandt sein mag, eine ähnliche Transposition der Buchstaben ist\nחפשוחא גמליוניהא aus Μεγάλην (s. Artikel Maikäfer); doch kommt\nes hier auf die Etymologie wenig an, da קרש zweifellos in seinen\nNatureigenschaften an den Oryx denken läßt. Vgl. §. 175 u. §. 355.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 59, b heißt es: Der "
+    },
+    {
+     "lang": "heb",
+     "text": "קרש"
+    },
+    {
+     "lang": "deu",
+     "text": " ist, obgleich er nur ein Horn\nhat, doch zu essen erlaubt; Rabbi Jehuda fügte hinzu: "
+    },
+    {
+     "lang": "heb",
+     "text": "קרש"
+    },
+    {
+     "lang": "deu",
+     "text": " wird\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טביא דבי עילאי"
+    },
+    {
+     "lang": "deu",
+     "text": " „Hirsch des Waldes Ilai“ (s. §. 115) genannt. Das\nFell desselben ist 16 Spannen lang. Raschi erklärt das Wort durch\n"
+    },
+    {
+     "lang": "fra",
+     "text": "Daim"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "heb",
+     "text": "דיי\"ם"
+    },
+    {
+     "lang": "deu",
+     "text": ") Damhirsch; allein dieser hat stets zwei Hörner. Man\nvgl. aber Aristoteles (l. c. 2, 2, 9), er sagt: Der Oryx ("
+    },
+    {
+     "lang": "grc",
+     "text": "Ὄρυξ"
+    },
+    {
+     "lang": "deu",
+     "text": ") hat\nein Horn und zwei Hufen. — Es ist dies die "
+    },
+    {
+     "lang": "lat",
+     "text": "Antilope Oryx"
+    },
+    {
+     "lang": "deu",
+     "text": ", welche\nin Aegypten und Libyen vorhanden ist und zweifellos in unserer Tal-\nmudstelle gemeint wird. Sie ist hier als ein zum Essen gestattetes\nThier bezeichnet, d. h., als ein solches, welches gehörnt und an den\nKlauen gespalten ist; es wird ferner zum Hirschgeschlecht gezählt, was\nvöllig der Antilope entspricht, da diese überhaupt hirschähnlich ist. —\nEs ist daher unnöthig mit Burdorf, Bochart u. A. "
+    },
+    {
+     "lang": "heb",
+     "text": "קרש"
+    },
+    {
+     "lang": "deu",
+     "text": " als Ein-\nhorn (apocopirt von "
+    },
+    {
+     "lang": "grc",
+     "text": "Μονόκερως"
+    },
+    {
+     "lang": "deu",
+     "text": ") zu nehmen, da das Einhorn ohne-\ndieß im Talmud anders benannt wird (§. 174). Der Talmud sagt\nferner, daß das Horn des "
+    },
+    {
+     "lang": "heb",
+     "text": "קרש"
+    },
+    {
+     "lang": "deu",
+     "text": " schwarz färbe (B. batra 16, b), wozu\nman Oppian (bei Rosenmüller a. a. O. S. 202) vergleiche; er sagt:\n„Die Hörner des Oryx sind schwarz von Farbe, härter als Erz,\nEichen und Steine“. — Hier hat man die Worte „Hörner des Oryx“\nnicht in dem Sinne zu nehmen, daß der Oryx mehr als ein Horn\nhabe, sondern in dem von: „Oryxhörnern“, gerade so wie das bibl.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קרני ראם"
+    },
+    {
+     "lang": "deu",
+     "text": " (5. B. M. 33, 17), wofür schon der Talmud genauer "
+    },
+    {
+     "lang": "heb",
+     "text": "קרני\nראמים"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 3, b) hat. — Man möchte geneigt sein, "
+    },
+    {
+     "lang": "heb",
+     "text": "קרש"
+    },
+    {
+     "lang": "deu",
+     "text": " für\n"
+    },
+    {
+     "lang": "heb",
+     "text": "רקש"
+    },
+    {
+     "lang": "deu",
+     "text": " verwandt mit Oryx zu halten, wie "
+    },
+    {
+     "lang": "heb",
+     "text": "אנקה"
+    },
+    {
+     "lang": "deu",
+     "text": " vielleicht mit "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἐχῖνος"
+    },
+    {
+     "lang": "deu",
+     "text": "\nverwandt sein mag, eine ähnliche Transposition der Buchstaben ist\n"
+    },
+    {
+     "lang": "arc",
+     "text": "חפשוחא גמליוניהא"
+    },
+    {
+     "lang": "deu",
+     "text": " aus "
+    },
+    {
+     "lang": "grc",
+     "text": "Μεγάλην"
+    },
+    {
+     "lang": "deu",
+     "text": " (s. Artikel Maikäfer); doch kommt\nes hier auf die Etymologie wenig an, da "
+    },
+    {
+     "lang": "heb",
+     "text": "קרש"
+    },
+    {
+     "lang": "deu",
+     "text": " zweifellos in seinen\nNatureigenschaften an den Oryx denken läßt. Vgl. §. 175 u. §. 355."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 147.\nEine Antilopenart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 147.\nEine Antilopenart."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Vollständigkeit wegen sei hier das Thier זמר erwähnt, wel-\nches ohne irgend eine naturhistorische Angabe gelegentlich und nur\nein einziges Mal (Chulin 80, a) gedacht wird. Seine Untersuchung\ngehört lediglich in das Gebiet der biblischen Zoologie, und wie be-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Vollständigkeit wegen sei hier das Thier "
+    },
+    {
+     "lang": "heb",
+     "text": "זמר"
+    },
+    {
+     "lang": "deu",
+     "text": " erwähnt, wel-\nches ohne irgend eine naturhistorische Angabe gelegentlich und nur\nein einziges Mal (Chulin 80, a) gedacht wird. Seine Untersuchung\ngehört lediglich in das Gebiet der biblischen Zoologie, und wie be-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2366
+   ],
+   [
+    3308,
+    2834
+   ]
+  ],
+  "input_tokens": 3337,
+  "output_tokens": 1871,
+  "cost_usd": 0.0095,
+  "seconds": 15.4
+ }
+}

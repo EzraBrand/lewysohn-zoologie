@@ -1,0 +1,241 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "100",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "100"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Igel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Igel."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 134.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 134."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Igel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Igel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "אנקה (schon bibl., verwandt durch Transposition mit Ἐχῖνος;\nRaschi: הריצון, Hérisson, Chulin 122, a), קפור, oder קפור ((Bartenoro:\nארצו, span. Erizo, Kilajim 8, 5) und יילי (B. batra 4, a, was Sachs\nirrthümlich für Ἴουλος nimmt, s. hierüber ausführlich §. 446). Bar-\ntenoro zur angeführten Stelle sagt: „קפור ist ein Thier, dessen Kör-\nper ganz mit Stacheln bedeckt ist und welches bei der Berührung die\nFüße einzieht und kugelähnlich sich zusammenrollt.“ — Dieses ge-\nschieht, weil die Rückenhaut innerlich in einem gewaltigen Muskel\nentwickelt ist, mit welchem das Thier Kopf, Bauch und Pfoten ein-\nschließen und so sich unangreifbar machen kann. — Raschi (B. batra\nibid.) sagt: שערו קשה כמחטין „Sein Haar hart wie Nadeln“, genauer\nderselbe zu Sabbat 54, b: נימין חדים כמחט „Seine Stacheln scharf\n(d. i., spitzig) wie Nadeln“; denn der Igel hat keine Grannenhaare,\nsondern Stacheln. — Man pflegt die Igelhaut (die an sich weich ist,\nChulin 122, a) um die Eiter der Kühe zu binden, damit die יאלי\nihnen nicht die Milch absaugen (Sabbat 54, b). Das talmudische\nWort יאלי wird verschieden erklärt. Raschi übersetzt es durch Blut-\nigel, wogegen die Tosephot schon mit Recht bemerken, daß die\nBlutigel niemals יאלי heißen und überhaupt nur Blut, nicht aber\nMilch saugen; sie nehmen es daher im Sinne von יילי, womit, wie\nAnfangs erwähnt, der Igel benannt wird. Diese Erklärung ist aber\nnicht glücklicher, denn erstens ist es unbekannt, daß der Igel Milch\nabsaugen soll, dann hätte eher קפור als יאלי gebraucht werden sollen,\nda das erstere Wort unmittelbar vorher erwähnt wird. — Mai-\nmuni (Sabbat 5, 4) nimmt das Wort für Schlangen, welche\nden schlafenden Kühen die Milch auszusaugen pflegen, die aber durch\ndas Gerassel der Igelstachel verscheucht werden. Allerdings lieben die\nSchlangen die Milch (§. 105) und haben ein scharfes Gehör, so daß\nsie durch das leiseste Geräusch verscheucht werden (§. 33); allein auch\ndie Schlangen heißen ebenso wenig wie die Blutigel יאלי, weshalb\nes mir gestattet sei, eine Conjectur hinzuzufügen. Die hebr. Radix\nיאל hat die Bedeutung „anfangen, beginnen“ und könnte so zur Be-\nzeichnung für „Junges“ dienen, das sein Dasein kurz vorher begann.\nMan band, um die Kälber am Saugen zu hindern, deshalb eine\nIgelhaut um die Eiter der Kühe, und das Wort wäre יְאֳלִי zu lesen;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "אנקה"
+    },
+    {
+     "lang": "deu",
+     "text": " (schon bibl., verwandt durch Transposition mit "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἐχῖνος"
+    },
+    {
+     "lang": "deu",
+     "text": ";\nRaschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "הריצון"
+    },
+    {
+     "lang": "deu",
+     "text": ", Hérisson, Chulin 122, a), "
+    },
+    {
+     "lang": "heb",
+     "text": "קפור"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "קפור"
+    },
+    {
+     "lang": "deu",
+     "text": " ((Bartenoro:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ארצו"
+    },
+    {
+     "lang": "deu",
+     "text": ", span. Erizo, Kilajim 8, 5) und "
+    },
+    {
+     "lang": "heb",
+     "text": "יילי"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. batra 4, a, was Sachs\nirrthümlich für "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἴουλος"
+    },
+    {
+     "lang": "deu",
+     "text": " nimmt, s. hierüber ausführlich §. 446). Bar-\ntenoro zur angeführten Stelle sagt: „"
+    },
+    {
+     "lang": "heb",
+     "text": "קפור"
+    },
+    {
+     "lang": "deu",
+     "text": " ist ein Thier, dessen Kör-\nper ganz mit Stacheln bedeckt ist und welches bei der Berührung die\nFüße einzieht und kugelähnlich sich zusammenrollt.“ — Dieses ge-\nschieht, weil die Rückenhaut innerlich in einem gewaltigen Muskel\nentwickelt ist, mit welchem das Thier Kopf, Bauch und Pfoten ein-\nschließen und so sich unangreifbar machen kann. — Raschi (B. batra\nibid.) sagt: "
+    },
+    {
+     "lang": "heb",
+     "text": "שערו קשה כמחטין"
+    },
+    {
+     "lang": "deu",
+     "text": " „Sein Haar hart wie Nadeln“, genauer\nderselbe zu Sabbat 54, b: "
+    },
+    {
+     "lang": "heb",
+     "text": "נימין חדים כמחט"
+    },
+    {
+     "lang": "deu",
+     "text": " „Seine Stacheln scharf\n(d. i., spitzig) wie Nadeln“; denn der Igel hat keine Grannenhaare,\nsondern Stacheln. — Man pflegt die Igelhaut (die an sich weich ist,\nChulin 122, a) um die Eiter der Kühe zu binden, damit die "
+    },
+    {
+     "lang": "heb",
+     "text": "יאלי"
+    },
+    {
+     "lang": "deu",
+     "text": "\nihnen nicht die Milch absaugen (Sabbat 54, b). Das talmudische\nWort "
+    },
+    {
+     "lang": "heb",
+     "text": "יאלי"
+    },
+    {
+     "lang": "deu",
+     "text": " wird verschieden erklärt. Raschi übersetzt es durch Blut-\nigel, wogegen die Tosephot schon mit Recht bemerken, daß die\nBlutigel niemals "
+    },
+    {
+     "lang": "heb",
+     "text": "יאלי"
+    },
+    {
+     "lang": "deu",
+     "text": " heißen und überhaupt nur Blut, nicht aber\nMilch saugen; sie nehmen es daher im Sinne von "
+    },
+    {
+     "lang": "heb",
+     "text": "יילי"
+    },
+    {
+     "lang": "deu",
+     "text": ", womit, wie\nAnfangs erwähnt, der Igel benannt wird. Diese Erklärung ist aber\nnicht glücklicher, denn erstens ist es unbekannt, daß der Igel Milch\nabsaugen soll, dann hätte eher "
+    },
+    {
+     "lang": "heb",
+     "text": "קפור"
+    },
+    {
+     "lang": "deu",
+     "text": " als "
+    },
+    {
+     "lang": "heb",
+     "text": "יאלי"
+    },
+    {
+     "lang": "deu",
+     "text": " gebraucht werden sollen,\nda das erstere Wort unmittelbar vorher erwähnt wird. — Mai-\nmuni (Sabbat 5, 4) nimmt das Wort für Schlangen, welche\nden schlafenden Kühen die Milch auszusaugen pflegen, die aber durch\ndas Gerassel der Igelstachel verscheucht werden. Allerdings lieben die\nSchlangen die Milch (§. 105) und haben ein scharfes Gehör, so daß\nsie durch das leiseste Geräusch verscheucht werden (§. 33); allein auch\ndie Schlangen heißen ebenso wenig wie die Blutigel "
+    },
+    {
+     "lang": "heb",
+     "text": "יאלי"
+    },
+    {
+     "lang": "deu",
+     "text": ", weshalb\nes mir gestattet sei, eine Conjectur hinzuzufügen. Die hebr. Radix\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יאל"
+    },
+    {
+     "lang": "deu",
+     "text": " hat die Bedeutung „anfangen, beginnen“ und könnte so zur Be-\nzeichnung für „Junges“ dienen, das sein Dasein kurz vorher begann.\nMan band, um die Kälber am Saugen zu hindern, deshalb eine\nIgelhaut um die Eiter der Kühe, und das Wort wäre "
+    },
+    {
+     "lang": "heb",
+     "text": "יְאֳלִי"
+    },
+    {
+     "lang": "deu",
+     "text": " zu lesen;"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2555
+   ],
+   [
+    3308,
+    2601
+   ]
+  ],
+  "input_tokens": 11370,
+  "output_tokens": 1973,
+  "cost_usd": 0.0425,
+  "seconds": 15.0
+ }
+}

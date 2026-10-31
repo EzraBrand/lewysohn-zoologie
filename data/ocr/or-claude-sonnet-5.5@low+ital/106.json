@@ -1,0 +1,109 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "106",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "106"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Maus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Maus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "36, b). Im Gegensatz zur Wassermaus (eine Fischart, §. 347) heißt\ndie Haus- oder Feldmaus: עכבר דיבשה (Chulin 127, a). Die Haus-\nmaus heißt auch עכברא דמתא (A. Sara 68, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "36, b). Im Gegensatz zur Wassermaus (eine Fischart, §. 347) heißt\ndie Haus- oder Feldmaus: "
+    },
+    {
+     "lang": "arc",
+     "text": "עכבר דיבשה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 127, a). Die Haus-\nmaus heißt auch "
+    },
+    {
+     "lang": "arc",
+     "text": "עכברא דמתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 68, b)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Grundfarbe des Thieres ist bekannt, nur giebt es Spiel-\narten, gelbe, gescheckte, gefleckte und ganz weiße Mäuse (Voigt l. c.\n1, S. 450). Der Talmud kennt die schwarzen, d. i., die grauen\nund die weißen (Pesachim 10, b). Die Maus ist verunreinigend\nund gehört zu den acht von der Schrift (3. B. M. 11, 29—30) aus-\ndrücklich als verunreinigend bezeichneten Thieren (Chulin 127, a). Man\nempfindet Ekel vor ihr (Succa 36, b), doch kam es wohl vor, daß\nJemand eine todte Maus, die er im Gewürze fand, an dem Schwanze\nfaßte und hinauswarf, alsdann aber das Gewürz benutzte (Beza 36,\nb; s. §. 272, Anm.). Sie hat viele Feinde, die Katze, den Fuchs-\nspitz, den Igel, das Wiesel (B. Kama 80, a) und den Menschen, der\nihr Fallen stellt (Kelim 15, b). „Warum“, wird gefragt, „werden\ndie Mäuse so angefeindet?“ „Weil“, wird geantwortet, „ein böser\nTrieb ihnen innewohnt, sie zerbeißen Kleidungsstücke, von denen sie\ngar keinen Genuß haben“ (Horajoth 13, a*). Ein Anderer fügt\nhinzu, daß sie sogar am Holze nagen (ibid.). Fleisch muß man in\ndie Luft hängen, damit die Mäuse nicht dazu kommen (Beza 28, a).\nBrod höhlen sie aus, zerbröckeln es aber nicht (Pesachim 10, b), auch\nKürbisse höhlen (קרוט, Creuser) sie aus (Chulin 9, a), und selbst\nmenschliche Leichname muß man vor ihrem Anfressen bewahren\n(Sabbat 151, b), was selbst auf Schiffen zur Beachtung anempfohlen\nwird (Berachoth 18, a). Von Viehhäuten fressen sie Stücke aus\n(Bechoroth 29, b), weshalb man die Gebetriemen vor ihnen zu ver-\nwahren sucht (Raschi zu Berachoth 24, a). Dabei beraubt keine\nMaus die andere (Pesachim 10, b). Ihr Trinken ist lappend (Para\n9, 3), was auch Aristoteles angiebt (Thierg. 8, 8, 1). Ißt man\nvon dem, was eine Maus angefressen hat, so soll dies dem Gedächt-\nnisse nachtheilig sein (Horajoth 13, b). — Durch den Geruch von den\nExcrementen der Katze werden sie verscheucht (Plinius h. n. 10, 73,\n94), weshalb dieselbe die Excremente zu verscharren sucht (Erubin\n100, b; §. 118). — Die Mäuse pflegen glänzende Gegenstände, wie\nRinge, Münzen u. dergl. zu verschleppen, weshalb ein Geiziger, wel-\ncher das Geld verscharrt, eine Maus, die auf den Denarien liegt,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Grundfarbe des Thieres ist bekannt, nur giebt es Spiel-\narten, gelbe, gescheckte, gefleckte und ganz weiße Mäuse (Voigt l. c.\n1, S. 450). Der Talmud kennt die schwarzen, d. i., die grauen\nund die weißen (Pesachim 10, b). Die Maus ist verunreinigend\nund gehört zu den acht von der Schrift (3. B. M. 11, 29—30) aus-\ndrücklich als verunreinigend bezeichneten Thieren (Chulin 127, a). Man\nempfindet Ekel vor ihr (Succa 36, b), doch kam es wohl vor, daß\nJemand eine todte Maus, die er im Gewürze fand, an dem Schwanze\nfaßte und hinauswarf, alsdann aber das Gewürz benutzte (Beza 36,\nb; s. §. 272, Anm.). Sie hat viele Feinde, die Katze, den Fuchs-\nspitz, den Igel, das Wiesel (B. Kama 80, a) und den Menschen, der\nihr Fallen stellt (Kelim 15, b). „Warum“, wird gefragt, „werden\ndie Mäuse so angefeindet?“ „Weil“, wird geantwortet, „ein böser\nTrieb ihnen innewohnt, sie zerbeißen Kleidungsstücke, von denen sie\ngar keinen Genuß haben“ (Horajoth 13, a*). Ein Anderer fügt\nhinzu, daß sie sogar am Holze nagen (ibid.). Fleisch muß man in\ndie Luft hängen, damit die Mäuse nicht dazu kommen (Beza 28, a).\nBrod höhlen sie aus, zerbröckeln es aber nicht (Pesachim 10, b), auch\nKürbisse höhlen ("
+    },
+    {
+     "lang": "heb",
+     "text": "קרוט"
+    },
+    {
+     "lang": "deu",
+     "text": ", Creuser) sie aus (Chulin 9, a), und selbst\nmenschliche Leichname muß man vor ihrem Anfressen bewahren\n(Sabbat 151, b), was selbst auf Schiffen zur Beachtung anempfohlen\nwird (Berachoth 18, a). Von Viehhäuten fressen sie Stücke aus\n(Bechoroth 29, b), weshalb man die Gebetriemen vor ihnen zu ver-\nwahren sucht (Raschi zu Berachoth 24, a). Dabei beraubt keine\nMaus die andere (Pesachim 10, b). Ihr Trinken ist lappend (Para\n9, 3), was auch Aristoteles angiebt (Thierg. 8, 8, 1). Ißt man\nvon dem, was eine Maus angefressen hat, so soll dies dem Gedächt-\nnisse nachtheilig sein (Horajoth 13, b). — Durch den Geruch von den\nExcrementen der Katze werden sie verscheucht (Plinius h. n. 10, 73,\n94), weshalb dieselbe die Excremente zu verscharren sucht (Erubin\n100, b; §. 118). — Die Mäuse pflegen glänzende Gegenstände, wie\nRinge, Münzen u. dergl. zu verschleppen, weshalb ein Geiziger, wel-\ncher das Geld verscharrt, eine Maus, die auf den Denarien liegt,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Aruch hat vielfache Varianten zu dieser Talmudstelle, wodurch die natur-\nhistorischen Angaben wesentlich verschieden lauten.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Aruch hat vielfache Varianten zu dieser Talmudstelle, wodurch die natur-\nhistorischen Angaben wesentlich verschieden lauten."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    3047
+   ],
+   [
+    3308,
+    2181
+   ]
+  ],
+  "input_tokens": 11366,
+  "output_tokens": 1617,
+  "cost_usd": 0.0389,
+  "seconds": 15.3
+ }
+}

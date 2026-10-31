@@ -1,0 +1,281 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Leber. — Milz.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Leber. — Milz."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "41",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "41"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "(§.60), in die Leber (§.67) und in das Herz (Chulin ib.). — Das Fett,\nwelches die Grundseite des Herzens umgiebt, heißt טרפשא דליבא\n(ibid. 49, b), und der Fettstrang, der aus der Herzhöhle ausgehend,\nmit dem Fett zwischen den Lungenreihen (ערגות הריאה) in Verbindung\nsteht, heißt קנה הלב (ibid. 45, b). — Der Hauptkanal des Herzens,\nder in die Lunge führt (und sich dort verästet, Aristoteles 1, 14, 3),\nheißt: מזרק הגדול (Jore Dea §. 40, 4).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "(§.60), in die Leber (§.67) und in das Herz (Chulin ib.). — Das Fett,\nwelches die Grundseite des Herzens umgiebt, heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "טרפשא דליבא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(ibid. 49, b), und der Fettstrang, der aus der Herzhöhle ausgehend,\nmit dem Fett zwischen den Lungenreihen ("
+    },
+    {
+     "lang": "heb",
+     "text": "ערגות הריאה"
+    },
+    {
+     "lang": "deu",
+     "text": ") in Verbindung\nsteht, heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "קנה הלב"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 45, b). — Der Hauptkanal des Herzens,\nder in die Lunge führt (und sich dort verästet, Aristoteles 1, 14, 3),\nheißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "מזרק הגדול"
+    },
+    {
+     "lang": "deu",
+     "text": " (Jore Dea §. 40, 4)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 67.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 67."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Leber. כבד, oder כבדא (Chulin 111, a). Die Luftröhre theilt\nsich, wie bereits (§. 60 und 66) erwähnt, in die Lunge, in das Herz\nund in die Leber (ibid. 45, b). Der in die Leber führende Kanal\nheißt: סימפונא רבה דכבדא (ibid. 49, a). — Das Rothfleisch, hinter\nwelchem die Leber liegt, heißt חצר הכבד (Joma 83, a), יותרת הכבד\n(Berachoth 44, b) und טרפשא דכבדא (Chulin 46, a). Raschi über-\nsetzt in der Regel jenen Namen mit אברש, oder איבריש (Lev. 3, 4),\nwas durch das franz. fibres, oder das span. hebras erklärt wird. —\nDas aram. טרפשא ist offenbar das gr. Τράπεζα. — Die Leber ist\nder blutvollste Theil (Terumoth 10, 11) und einer derjenigen Theile,\nohne welche das Thier nicht leben könnte (Erachin 20, a), weshalb\nein Vieh zu essen verboten ist, wenn seine Leber durch Krankheit auf\nweniger als zwei Oliven zusammengeschrumpft ist (Chulin 46, a). —\nDie Leber ist der Sitz des Zornes, der aber durch einen Tropfen aus\nder Galle gelindert wird (Berachot 61, b*). — Die Leber nimmt\nab und schwindet mit der Zeit gänzlich durch häufigen Blutsturz\n(Gittin 69, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Leber. "
+    },
+    {
+     "lang": "heb",
+     "text": "כבד"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "arc",
+     "text": "כבדא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 111, a). Die Luftröhre theilt\nsich, wie bereits (§. 60 und 66) erwähnt, in die Lunge, in das Herz\nund in die Leber (ibid. 45, b). Der in die Leber führende Kanal\nheißt: "
+    },
+    {
+     "lang": "arc",
+     "text": "סימפונא רבה דכבדא"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 49, a). — Das Rothfleisch, hinter\nwelchem die Leber liegt, heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "חצר הכבד"
+    },
+    {
+     "lang": "deu",
+     "text": " (Joma 83, a), "
+    },
+    {
+     "lang": "heb",
+     "text": "יותרת הכבד"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Berachoth 44, b) und "
+    },
+    {
+     "lang": "arc",
+     "text": "טרפשא דכבדא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 46, a). Raschi über-\nsetzt in der Regel jenen Namen mit "
+    },
+    {
+     "lang": "other",
+     "text": "אברש"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "other",
+     "text": "איבריש"
+    },
+    {
+     "lang": "deu",
+     "text": " (Lev. 3, 4),\nwas durch das franz. "
+    },
+    {
+     "lang": "fra",
+     "text": "fibres"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder das span. "
+    },
+    {
+     "lang": "other",
+     "text": "hebras"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt wird. —\nDas aram. "
+    },
+    {
+     "lang": "arc",
+     "text": "טרפשא"
+    },
+    {
+     "lang": "deu",
+     "text": " ist offenbar das gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Τράπεζα"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Die Leber ist\nder blutvollste Theil (Terumoth 10, 11) und einer derjenigen Theile,\nohne welche das Thier nicht leben könnte (Erachin 20, a), weshalb\nein Vieh zu essen verboten ist, wenn seine Leber durch Krankheit auf\nweniger als zwei Oliven zusammengeschrumpft ist (Chulin 46, a). —\nDie Leber ist der Sitz des Zornes, der aber durch einen Tropfen aus\nder Galle gelindert wird (Berachot 61, b*). — Die Leber nimmt\nab und schwindet mit der Zeit gänzlich durch häufigen Blutsturz\n(Gittin 69, a)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 68.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 68."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Milz. טחול (Chulin 54, a) טחלא (ibid. 111, a) und סומקא (Git-\ntin 69, a). Ein Vieh, dem die Milz fehlt, ist nichts desto weniger\nzu essen gestattet, dahingegen ist es zu essen verboten, wenn die Milz\nan dem dicken Ende durchlöchert ist (Chulin 55, b). — Die Milz er-\nschwert den Körper, weshalb man den Schnellläufern künstlich die\nMilz ausnahm (A. Sara 44, a). Die Milz bewirkt das Lachen, dieses\naber absorbirt, wann es im Uebermaße geschieht, die Säfte, so daß\nder talmudische Ausdruck טחול שוחק (Berachoth 61, b) eine doppelte",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Milz. "
+    },
+    {
+     "lang": "heb",
+     "text": "טחול"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 54, a) "
+    },
+    {
+     "lang": "arc",
+     "text": "טחלא"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 111, a) und "
+    },
+    {
+     "lang": "arc",
+     "text": "סומקא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Git-\ntin 69, a). Ein Vieh, dem die Milz fehlt, ist nichts desto weniger\nzu essen gestattet, dahingegen ist es zu essen verboten, wenn die Milz\nan dem dicken Ende durchlöchert ist (Chulin 55, b). — Die Milz er-\nschwert den Körper, weshalb man den Schnellläufern künstlich die\nMilz ausnahm (A. Sara 44, a). Die Milz bewirkt das Lachen, dieses\naber absorbirt, wann es im Uebermaße geschieht, die Säfte, so daß\nder talmudische Ausdruck "
+    },
+    {
+     "lang": "heb",
+     "text": "טחול שוחק"
+    },
+    {
+     "lang": "deu",
+     "text": " (Berachoth 61, b) eine doppelte"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Diese Angabe bedarf wohl der Berichtigung, denn die Leber empfängt\nkeine Galle, sondern ist gerade das Organ, welches die Galle absondert und diese\ndann in der Gallenblase (§. 69) sich ansammelt.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Diese Angabe bedarf wohl der Berichtigung, denn die Leber empfängt\nkeine Galle, sondern ist gerade das Organ, welches die Galle absondert und diese\ndann in der Gallenblase (§. 69) sich ansammelt."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3248,
+    2347
+   ],
+   [
+    3248,
+    2921
+   ]
+  ],
+  "input_tokens": 11378,
+  "output_tokens": 2060,
+  "cost_usd": 0.0867,
+  "seconds": 27.8
+ }
+}

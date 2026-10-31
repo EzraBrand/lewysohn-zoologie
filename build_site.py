@@ -28,8 +28,14 @@ IIIF = "https://sammlungen.ub.uni-frankfurt.de/i3f/v20"
 VIEWER = "https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview"
 
 DOCS = [
+    {"slug": "part1", "kind": "entry", "entry": "part1", "pages": ["scan0015", *range(2, 64)],
+     "title": "First part: General zoology",
+     "sub": "pp. 1–63 · living beings, reproduction, the senses, anatomy, illness and death of animals"},
+    {"slug": "mammals", "kind": "entry", "entry": "mammals", "pages": list(range(64, 159)),
+     "title": "Second part, first class: Mammals", "sub": "pp. 64–158 · from the ape to the whale"},
     {"slug": "lion-tiger", "kind": "entry", "entry": "lion-tiger", "pages": [68, 69, 70, 71],
-     "title": "The lion, the tiger", "sub": "§§ 114–115 · pp. 68–71 · Hebrew, Aramaic, Greek, Arabic, footnotes"},
+     "title": "The lion, the tiger (test entry)",
+     "sub": "§§ 114–115 · pp. 68–71 · the first entry done, with the two hand-checked pages; also in Mammals"},
 ]
 # table of contents: page keys as in data/raw (scanNNNN for an unnumbered page)
 # front matter, in book order; "contents" = printed lines kept
@@ -287,8 +293,9 @@ collection</a>, Public Domain Mark 1.0 · Transcription, translation and code: <
 
 
 def index_html() -> str:
+    done = lambda d: (DATA / "entries" / d["entry"] / "en.json").exists()  # list only translated documents
     li = lambda ds: "".join(f'<li><a href="{d["slug"]}.html"><strong>{html.escape(d["title"])}</strong></a>'
-                            f'<span>{html.escape(d["sub"])}</span></li>' for d in ds)
+                            f'<span>{html.escape(d["sub"])}</span></li>' for d in ds if done(d))
     items = li(CONTENTS) + "</ul><h2>Entries</h2><ul class=\"docs\">" + li(DOCS)
     body = f"""{header("index.html")}
 <main class="index">

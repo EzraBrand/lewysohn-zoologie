@@ -1,0 +1,257 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "76 Die Hyäne.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "76"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "deu",
+     "text": "Die Hyäne."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "dieselbe 55 Tage dauert. — Die Bärmutter einer schwarzen Katze\ndiente zu mystischen Zwecken (Berachoth 6, a). Im Kampfe mit der\nRatte (s. diesen Art.) muß sie zuweilen unterliegen (B. mez. 97, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "dieselbe 55 Tage dauert. — Die Bärmutter einer schwarzen Katze\ndiente zu mystischen Zwecken (Berachoth 6, a). Im Kampfe mit der\nRatte (s. diesen Art.) muß sie zuweilen unterliegen (B. mez. 97, a)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 119.\nDie Hyäne.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 119.\nDie Hyäne."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "In der Mischna (B. Kama 1, 4) heißt es: Der Wolf, Löwe,\nBär, Leopard, die Schlange und die ברדלס werden als gefährliche\nThiere betrachtet, und der Eigenthümer muß, wenn sie einen Schaden\nangerichtet haben, den vollen Schadenersatz leisten. Bartenoro erklärt\ndas Wort: חיה שקורין לה בערבי אלצבע „Ein Thier, das im Arabischen\nاَلضَّبُعُ heißt.“ Es ist dies so viel wie das Hebr. צבוע, welches Rosen-\nmüller (Bibl. Alterth. IV. S. 147) nach Vorgang Bochart’s (l. c.\nP. I. lib. 3. cap. 11, col. 829 ff.) durch Hyäne übersetzt. — Der\nTalmud giebt ihr die verschiedenen Namen: אפא, נפרוא, ברדלס und\nצבוע (B. Kama 16, b). Zu Joma 84, a erklärt Raschi das dort er-\nwähnte אפא דיכרא (männliche Hyäne) durch: הוא הצבוע ובלע\"ז פוטייש\n„Die אפא ist die צבוע, im Franz. Putois“ (Iltis); allein die Unrich-\ntigkeit dieser Erklärung geht schon daraus hervor, daß Raschi selbst\nzu B. mez. 24, a צבוע und פוטיאש als verschiedene Thiere be-\nzeichnet (s. Art. Iltis*).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In der Mischna (B. Kama 1, 4) heißt es: Der Wolf, Löwe,\nBär, Leopard, die Schlange und die "
+    },
+    {
+     "lang": "heb",
+     "text": "ברדלס"
+    },
+    {
+     "lang": "deu",
+     "text": " werden als gefährliche\nThiere betrachtet, und der Eigenthümer muß, wenn sie einen Schaden\nangerichtet haben, den vollen Schadenersatz leisten. Bartenoro erklärt\ndas Wort: "
+    },
+    {
+     "lang": "heb",
+     "text": "חיה שקורין לה בערבי אלצבע"
+    },
+    {
+     "lang": "deu",
+     "text": " „Ein Thier, das im Arabischen\n"
+    },
+    {
+     "lang": "ara",
+     "text": "اَلضَّبُعُ"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt.“ Es ist dies so viel wie das Hebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "צבוע"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches Rosen-\nmüller (Bibl. Alterth. IV. S. 147) nach Vorgang Bochart’s (l. c.\nP. I. lib. 3. cap. 11, col. 829 ff.) durch Hyäne übersetzt. — Der\nTalmud giebt ihr die verschiedenen Namen: "
+    },
+    {
+     "lang": "heb",
+     "text": "אפא"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "נפרוא"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "ברדלס"
+    },
+    {
+     "lang": "deu",
+     "text": " und\n"
+    },
+    {
+     "lang": "heb",
+     "text": "צבוע"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. Kama 16, b). Zu Joma 84, a erklärt Raschi das dort er-\nwähnte "
+    },
+    {
+     "lang": "heb",
+     "text": "אפא דיכרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (männliche Hyäne) durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "הוא הצבוע ובלע\"ז פוטייש"
+    },
+    {
+     "lang": "deu",
+     "text": "\n„Die "
+    },
+    {
+     "lang": "heb",
+     "text": "אפא"
+    },
+    {
+     "lang": "deu",
+     "text": " ist die "
+    },
+    {
+     "lang": "heb",
+     "text": "צבוע"
+    },
+    {
+     "lang": "deu",
+     "text": ", im Franz. "
+    },
+    {
+     "lang": "fra",
+     "text": "Putois"
+    },
+    {
+     "lang": "deu",
+     "text": "“ (Iltis); allein die Unrich-\ntigkeit dieser Erklärung geht schon daraus hervor, daß Raschi selbst\nzu B. mez. 24, a "
+    },
+    {
+     "lang": "heb",
+     "text": "צבוע"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "פוטיאש"
+    },
+    {
+     "lang": "deu",
+     "text": " als verschiedene Thiere be-\nzeichnet (s. Art. Iltis*)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Verschiedenheit jener vier Namen erklärt Raschi als Bezeich-\nnungen der verschiedenen Zustände, in welchen die Hyäne in ihrer\nMetamorphose nach einander sich befindet. Bekanntlich herrschte im\nAlterthume der Glaube, daß die Hyäne das Geschlecht wechsele. Pli-\nnius sagt hierüber: „Das gemeine Volk glaubt, die Hyänen hätten\nbeide Naturen, indem sie jährlich abwechseln und bald Männchen,\nbald Weibchen sind, daß sie daher ohne Männchen gebären, was aber\nAristoteles in Abrede stellt“ (h. n. 8, 30, 44). Diesen Glauben hegten\naber auch Aelian (Thierg. 1, 25), Oppian (Κυνηγετικὰ 3, v. 289)\nu. A. — Aristoteles bezeichnet diesen Glauben als fabelhaft und er-\nklärt seinen Ursprung dadurch, daß die Hyäne unmittelbar unter dem\nSchwanze ein Blindloch hat, welches die Gestalt des weiblichen Ge-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Verschiedenheit jener vier Namen erklärt Raschi als Bezeich-\nnungen der verschiedenen Zustände, in welchen die Hyäne in ihrer\nMetamorphose nach einander sich befindet. Bekanntlich herrschte im\nAlterthume der Glaube, daß die Hyäne das Geschlecht wechsele. Pli-\nnius sagt hierüber: „Das gemeine Volk glaubt, die Hyänen hätten\nbeide Naturen, indem sie jährlich abwechseln und bald Männchen,\nbald Weibchen sind, daß sie daher ohne Männchen gebären, was aber\nAristoteles in Abrede stellt“ (h. n. 8, 30, 44). Diesen Glauben hegten\naber auch Aelian (Thierg. 1, 25), Oppian ("
+    },
+    {
+     "lang": "grc",
+     "text": "Κυνηγετικὰ"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, v. 289)\nu. A. — Aristoteles bezeichnet diesen Glauben als fabelhaft und er-\nklärt seinen Ursprung dadurch, daß die Hyäne unmittelbar unter dem\nSchwanze ein Blindloch hat, welches die Gestalt des weiblichen Ge-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Bemerkt sei, daß Buxtorf Lex. p. 2063 אפא דיכרא durch Basilisk\nübersetzt. — Im jerus. Talm. B. Kama 2, b heißt es: Die männliche Hyäne\n(צבוע זכר) ist zuweilen so gefährlich wie der Löwe (קשה כארי).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bemerkt sei, daß Buxtorf Lex. p. 2063 "
+    },
+    {
+     "lang": "heb",
+     "text": "אפא דיכרא"
+    },
+    {
+     "lang": "deu",
+     "text": " durch Basilisk\nübersetzt. — Im jerus. Talm. B. Kama 2, b heißt es: Die männliche Hyäne\n("
+    },
+    {
+     "lang": "heb",
+     "text": "צבוע זכר"
+    },
+    {
+     "lang": "deu",
+     "text": ") ist zuweilen so gefährlich wie der Löwe ("
+    },
+    {
+     "lang": "heb",
+     "text": "קשה כארי"
+    },
+    {
+     "lang": "deu",
+     "text": ")."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3268,
+    2747
+   ],
+   [
+    3268,
+    2377
+   ]
+  ],
+  "input_tokens": 3337,
+  "output_tokens": 1192,
+  "cost_usd": 0.007,
+  "seconds": 19.6
+ }
+}

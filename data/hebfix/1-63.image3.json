@@ -1,0 +1,231 @@
+{
+ "main": "or-claude-opus-5.5@low+ital",
+ "model": "anthropic/claude-opus-5.5",
+ "items": [
+  {
+   "page": 43,
+   "line": "Bärmutter. Die Bär-, oder Gebärmutter heißt טרפחה, אם,",
+   "main": "טרפחה",
+   "check": "",
+   "printed": "טרפחה",
+   "confident": false,
+   "note": "The print appears to read טרפחה. The final letter looks like ה with a detached left leg, not ת, but at this resolution it could still be ת."
+  },
+  {
+   "page": 43,
+   "line": "שלפוחית, (Chulin 55, b) und הרת (Berachoth 57, b). Raschi (Chulin",
+   "main": "הרת",
+   "check": "הרח",
+   "printed": "הרת",
+   "confident": true,
+   "note": "The last letter has the foot on its left leg, like the final ת of שלפוחית on the same line, not the plain-legged ח. The word reads הרת ('womb'), matching the Berachoth reference."
+  },
+  {
+   "page": 43,
+   "line": "Ueber das Knöchelchen ערקום s. Chulin 76, a.",
+   "main": "ערקום",
+   "check": "ערקוב",
+   "printed": "ערקום",
+   "confident": true,
+   "note": "The leftmost letter is a closed square with a flat, fully closed base, which is final mem (ם). A bet (ב) would show an open left side with a base stroke extending past it. The remaining letters read clearly as ע, ר, ק, ו."
+  },
+  {
+   "page": 44,
+   "line": "ייבול (etwa chevelu) und Letztrer: קפילר (etwa capillaire); Andere",
+   "main": "ייבול",
+   "check": "יבול",
+   "printed": "ייבול",
+   "confident": false,
+   "note": "Two small yods appear before ב at the right edge of the word, followed by ו and ל. The two yods are close together and easy to merge, which is the source of the uncertainty."
+  },
+  {
+   "page": 44,
+   "line": "s. Bartenoro daselbst. — Die Kopfmuskeln scheinen auch המתן (Raschi",
+   "main": "המתן",
+   "check": "המזן",
+   "printed": "המחן",
+   "confident": false,
+   "note": "The third letter appears to have a plain left leg with no foot, which fits ח rather than ת, and it is not ז. This is a close call at this resolution; the other letters ה, מ and final ן are clear."
+  },
+  {
+   "page": 44,
+   "line": "צומת הגידין. — Die Glieder des Skorpionschwanzes heißen: חומרי",
+   "main": "חומרי",
+   "check": "חוליי",
+   "printed": "חומרי",
+   "confident": false,
+   "note": "The final word of the line reads as ח-ו-מ-ר-י. The third letter has a closed, mem-like shape, not the ל-ו-י sequence that חוליי would need. Some uncertainty remains because מ and ט look alike in this type. חומרי ('beads, segments') also fits the sense of the scorpion-tail joints."
+  },
+  {
+   "page": 45,
+   "line": "צמר עיזים, Ziegenhaare, (Bartenoro Kilajim 9, 1); doch heißen letztere",
+   "main": "עיזים",
+   "check": "עזים",
+   "printed": "עיזים",
+   "confident": false,
+   "note": "The word at the start of the line looks like five letters: ע, י, ז, י, final ם. Its width matches the five-letter גמלים on the line above. That supports the plene spelling עיזים over the four-letter עזים, but the ז and second י are small, so I'm not certain."
+  },
+  {
+   "page": 45,
+   "line": "Die Stacheln des Igels: שער (Raschi B. batra 4, a) und נימין (Ra-",
+   "main": "נימין",
+   "check": "ניסין",
+   "printed": "נימין",
+   "confident": true,
+   "note": "The third letter has the open lower-left gap of medial מ, matching the מ in מקשה on the line above, not a closed ס. This gives נימין ('hairs'), a known Talmudic term."
+  },
+  {
+   "page": 45,
+   "line": "(שער schon biblisch und נימין; B. batra 16, a), sowie בינתא und מזיא",
+   "main": "נימין",
+   "check": "ניסין",
+   "printed": "נימין",
+   "confident": true,
+   "note": "The third letter has the open lower-left stroke of medial מ, not the closed round shape of ס. It matches the same word נימין printed in the Raschi line above."
+  },
+  {
+   "page": 45,
+   "line": "heißt: זלדקן, der Dickbärtige: עבדקן (Sanhedrin l. c.). — Die Haar-",
+   "main": "זלדקן",
+   "check": "זלרדקן",
+   "printed": "זלדקן",
+   "confident": false,
+   "note": "The word has five letters: an initial letter, then ל, ד, ק and final ן. There is no extra ר, so the reading זלדקן is supported over זלרדקן. The first letter is small and could be ו rather than ז. I chose ז partly because זלדקן is the known word in Sanhedrin 100b, not purely from the glyph."
+  },
+  {
+   "page": 45,
+   "line": "Federn bedeckt, diese heißen גידפי (Raschi Chulin 46, b: פלומא, Plume)",
+   "main": "גידפי",
+   "check": "גדפי",
+   "printed": "גידפי",
+   "confident": false,
+   "note": "The print appears to show a small yod between the gimel and the dalet, followed by dalet, pe and yod: ג-י-ד-פ-י. I can't rule out that the mark is a speck rather than a yod, so this is not certain."
+  },
+  {
+   "page": 46,
+   "line": "und Schuppen (קשקשים, oder חספניתא דנונא, Rabba Bamidbar fol.",
+   "main": "חספניתא",
+   "check": "כספניתא",
+   "printed": "חספניתא",
+   "confident": false,
+   "note": "The first letter appears to have two legs, so I read ח rather than כ. The second letter looks like a closed ס, but it is small and could be misread. חספניתא also matches the known Midrash term for fish scales."
+  },
+  {
+   "page": 46,
+   "line": "אייקרריץ, wahrscheinlich für אייקלליץ, d. i. Écailles. — Nur die Flossen,",
+   "main": "אייקרריץ אייקלליץ",
+   "check": "אייקריץ אייקליץ",
+   "printed": "אייקרריץ אייקלליץ",
+   "confident": false,
+   "note": "The first word appears to show two ר after ק, and the second word two ל after ק, which matches the first OCR reading. Doubled letters are hard to resolve at this resolution, so this is not certain."
+  },
+  {
+   "page": 46,
+   "line": "den viele nach ihrer Farbe benannt, so heißt der Flamingo מורומא",
+   "main": "מורומא",
+   "check": "מורזמא",
+   "printed": "מורזמא",
+   "confident": false,
+   "note": "The fourth letter, between ר and מ, seems to have a small head stroke more like ז than ו, but at this resolution it is hard to tell apart."
+  },
+  {
+   "page": 46,
+   "line": "bloß: „der Farbige“ כרום (§. 226), so genannt von seinem schillern-",
+   "main": "כרום",
+   "check": "כרוס",
+   "printed": "כרום",
+   "confident": false,
+   "note": "The first letter reads as כ, followed by ר and ו. The final letter has the squarer shape of final ם rather than the rounded closed ס, though the scan is small, so this is uncertain. כרום (kerum) is also the known Talmudic name of this bird."
+  },
+  {
+   "page": 48,
+   "line": "schlechtweg (Chulin 109, a) und כותח (ibid. 111, b). — Die Milch",
+   "main": "כותח",
+   "check": "כוחא",
+   "printed": "כותח",
+   "confident": true,
+   "note": "Reading right to left: כ, ו, ת (its left leg ends in a small foot), then a final ח with a closed top. There is no final א. This also matches the Talmudic word kutach at Chulin 111b."
+  },
+  {
+   "page": 50,
+   "line": "nannte Ohrenschmalz, bezeichnet die Mischna daselbst als תולדת למים,",
+   "main": "תולדת למים",
+   "check": "חולדה לטים",
+   "printed": "תולדת למים",
+   "confident": false,
+   "note": "The second word reads clearly as למים, matching the Mishnah's תולדות למים. The first letter of the first word is poorly printed and could be ח or ת. The vav after it is short and faint. I chose תולדת, but a broken or misprinted ח cannot be ruled out."
+  },
+  {
+   "page": 50,
+   "line": "עכס (transponirt von כעס, ibid.), ferner ויהורא (A. Sara 30, b) und",
+   "main": "ויהורא",
+   "check": "זוהורא",
+   "printed": "זיהורא",
+   "confident": false,
+   "note": "Second letter looks short, like י. First letter is tall; it is read as ז on the strength of the Talmudic word זיהרא (venom, A.Z. 30b), but in this type it could also be ו."
+  },
+  {
+   "page": 50,
+   "line": "mud (Chulin 52, b) ויהורא heißt**). Die Wunde entzündet sich,",
+   "main": "ויהורא",
+   "check": "זיהורא",
+   "printed": "זיהורא",
+   "confident": false,
+   "note": "The first (rightmost) letter seems to have a head stroke extending to both sides, which suggests ז rather than ו. This matches the Talmudic term (cf. Chulin 52b). The print is small, so the ז/ו distinction is uncertain."
+  },
+  {
+   "page": 51,
+   "line": "9, 2. 4), so werden wir unter dem talm. ויהורא jene eiterige Flüssigkeit zu ver-",
+   "main": "ויהורא ויהורא ארס",
+   "check": "זיהורא זיהורא ארם",
+   "printed": "זיהורא",
+   "confident": false,
+   "note": "This line of the image shows only one Hebrew word, so I cannot verify the repeated word or the following ארס/ארם in either reading. The first letter's head looks wider than a plain ו, which suggests ז. That would give the Talmudic זיהורא ('discharge, pus'), matching the context 'eiterige Flüssigkeit'. The print is small, so ו cannot be fully ruled out."
+  },
+  {
+   "page": 51,
+   "line": "des Talmuds sind daher, wenigstens was die ויהורא betrifft, ungegründet.",
+   "main": "ויהורא",
+   "check": "זיהורא",
+   "printed": "זיהורא",
+   "confident": false,
+   "note": "The first letter seems to have a head stroke extending to both sides, which suggests ז rather than ו. That would also fit the Aramaic word for venom (זיהורא) in this context. The other letters, י־ה־ו־ר־א, read clearly. Not fully certain, because ו and ז are very similar in this type."
+  },
+  {
+   "page": 52,
+   "line": "s. Joma 86, a. Das Wachs heißt שעוה auch קירותא (Sabbat 20, b)",
+   "main": "קירותא",
+   "check": "קירוחא",
+   "printed": "קירותא",
+   "confident": false,
+   "note": "The fifth letter looks like ת, with a foot at the lower left rather than the plain legs of ח. The other letters read clearly as ק י ר ו … א. Because ח and ת look alike at this print quality, the reading is uncertain."
+  },
+  {
+   "page": 54,
+   "line": "temporäre זיעה עוברות, der perpetuelle: זיעה שאינו עוברות (Ketuboth",
+   "main": "עוברות",
+   "check": "עוברת",
+   "printed": "עוברות",
+   "confident": false,
+   "note": "The word right after the first זיעה (the 'temporäre' one) appears to have six letters, ע־ו־ב־ר־ו־ת, with a ו before the final ת. The scan is low-resolution, so I am not certain of the second ו."
+  },
+  {
+   "page": 54,
+   "line": "temporäre זיעה עוברות, der perpetuelle: זיעה שאינו עוברות (Ketuboth",
+   "main": "עוברות מזוהם זהומא",
+   "check": "עוברת מוהם זוהמא",
+   "printed": "עוברות",
+   "confident": false,
+   "note": "On the 'temporäre' line the word after זיעה is clearly printed עוברות, with ו after ע and ו before ת. The other words in the two readings (מזוהם/מוהם, זהומא/זוהמא) belong to the next line, which is cut off at the bottom of the image and cannot be read reliably, so I have not transcribed them."
+  },
+  {
+   "page": 54,
+   "line": "rend מוריים (Muria) das von eingesalzenen Fischen entstehende Fett",
+   "main": "מוריים",
+   "check": "מורייס",
+   "printed": "מוריים",
+   "confident": false,
+   "note": "The last letter appears to have a flat, square bottom like final mem (ם) rather than the rounded base of samekh (ס). The usual spelling of this word is מורייס, so this may be a misprint, but the scan is low-resolution and the letter is hard to tell apart."
+  }
+ ]
+}

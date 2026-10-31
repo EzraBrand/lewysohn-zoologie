@@ -1,0 +1,309 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "134\nSchluß. — Das Kameel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "134\nSchluß. — Das Kameel."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 162.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 162."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Der Rindstall heißt רפת בקר (B. mez. 32, a) und\nאוריא (M. Katan 10, b). Das Leder, welches (unerlaubt) dem\ndreschenden Rinde vor das Maul gebunden wurde: חסום (Kelim\n16, 7), das Leder, das man ihm vor die Augen band, damit es\neifriger dresche מלקוט (nach Meier Rothenburg: מקלוט), nach Mai=\nmuni war es jedoch dasjenige Leder, welches man unter den After\nband, damit die Excremente nicht auf das Getreide fallen (ibid.). —\nMan pflegte drei bis vier Rinder während des Dreschens nebenein=\nander zu kuppeln (רבקה, Raschi: קופלאCouple, Pesachim 26, a).\n— Der während des Gehens dem Rinde vorgebundene Futterkorb:\nקלוסטור (Kelim 20, 1); die Krippe im Stalle: אבוס (Kelim 20, 4),\nund אקורפיטא (Raschi: מנייטורה s. §. 164). — Zum Stachel hatte\nman einen langen, runden Stab (מרדע), an dessen einem Ende ein\nbreites, geschärftes Eisen (חרחור) war, womit das Unkraut ausge=\njätet wurde, und an dessen andrem Ende ein spitziges Eisen (דרבן) war,\nwodurch man das Vieh in den Furchen halten konnte (Kelim 9, 6).\nDie Peitsche hieß מטרקא, פקיע und מדרא (Joma 23, a); der Strick,\nan dem das Vieh geführt wurde: מוסרה (Para 2, 3). Man machte\nden Kühen Schuhe, damit sie nicht ausgleiten (ibid.); gegen Fliegen\nlegte man eine Decke über sie (ibid.).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Der Rindstall heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "רפת בקר"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. mez. 32, a) und\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אוריא"
+    },
+    {
+     "lang": "deu",
+     "text": " (M. Katan 10, b). Das Leder, welches (unerlaubt) dem\ndreschenden Rinde vor das Maul gebunden wurde: "
+    },
+    {
+     "lang": "heb",
+     "text": "חסום"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kelim\n16, 7), das Leder, das man ihm vor die Augen band, damit es\neifriger dresche "
+    },
+    {
+     "lang": "heb",
+     "text": "מלקוט"
+    },
+    {
+     "lang": "deu",
+     "text": " (nach Meier Rothenburg: "
+    },
+    {
+     "lang": "heb",
+     "text": "מקלוט"
+    },
+    {
+     "lang": "deu",
+     "text": "), nach Mai=\nmuni war es jedoch dasjenige Leder, welches man unter den After\nband, damit die Excremente nicht auf das Getreide fallen (ibid.). —\nMan pflegte drei bis vier Rinder während des Dreschens nebenein=\nander zu kuppeln ("
+    },
+    {
+     "lang": "heb",
+     "text": "רבקה"
+    },
+    {
+     "lang": "deu",
+     "text": ", Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "קופלא"
+    },
+    {
+     "lang": "fra",
+     "text": "Couple"
+    },
+    {
+     "lang": "deu",
+     "text": ", Pesachim 26, a).\n— Der während des Gehens dem Rinde vorgebundene Futterkorb:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קלוסטור"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kelim 20, 1); die Krippe im Stalle: "
+    },
+    {
+     "lang": "heb",
+     "text": "אבוס"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kelim 20, 4),\nund "
+    },
+    {
+     "lang": "heb",
+     "text": "אקורפיטא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "מנייטורה"
+    },
+    {
+     "lang": "deu",
+     "text": " s. §. 164). — Zum Stachel hatte\nman einen langen, runden Stab ("
+    },
+    {
+     "lang": "heb",
+     "text": "מרדע"
+    },
+    {
+     "lang": "deu",
+     "text": "), an dessen einem Ende ein\nbreites, geschärftes Eisen ("
+    },
+    {
+     "lang": "heb",
+     "text": "חרחור"
+    },
+    {
+     "lang": "deu",
+     "text": ") war, womit das Unkraut ausge=\njätet wurde, und an dessen andrem Ende ein spitziges Eisen ("
+    },
+    {
+     "lang": "heb",
+     "text": "דרבן"
+    },
+    {
+     "lang": "deu",
+     "text": ") war,\nwodurch man das Vieh in den Furchen halten konnte (Kelim 9, 6).\nDie Peitsche hieß "
+    },
+    {
+     "lang": "heb",
+     "text": "מטרקא"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "פקיע"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "מדרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Joma 23, a); der Strick,\nan dem das Vieh geführt wurde: "
+    },
+    {
+     "lang": "heb",
+     "text": "מוסרה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Para 2, 3). Man machte\nden Kühen Schuhe, damit sie nicht ausgleiten (ibid.); gegen Fliegen\nlegte man eine Decke über sie (ibid.)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 163.\nDas Kameel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 163.\nDas Kameel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Für das einbuckelige Kameel oder den Dromedar und für\ndas zweibuckelige ist der generelle Name גמל, auch גמלא (Rabba\nBereschit fol. 84, c), pl. גמלים (Kilajim 8, 4) und גמליא (Rabba Be-\nreschit fol. 41, d); doch hat man bei den Namen גמלא טייעא „ara=\nbisches Kameel“ und גמלא פרסא „persisches Kameel“ wohl zunächst\nan den Dromedar zu denken, da er in Arabien und Persien vorzugs=\nweise vorhanden ist (B. Kama 55, a*); sicherlich aber ist mit גמלא\nפרחא „fliegendes Kameel“ (Jebamoth 116, a) nur der Dromedar\ngemeint, da er viel schneller als das zweibuckelige Kameel läuft.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Für das einbuckelige Kameel oder den Dromedar und für\ndas zweibuckelige ist der generelle Name "
+    },
+    {
+     "lang": "heb",
+     "text": "גמל"
+    },
+    {
+     "lang": "deu",
+     "text": ", auch "
+    },
+    {
+     "lang": "heb",
+     "text": "גמלא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Rabba\nBereschit fol. 84, c), pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "גמלים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kilajim 8, 4) und "
+    },
+    {
+     "lang": "heb",
+     "text": "גמליא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Rabba Be-\nreschit fol. 41, d); doch hat man bei den Namen "
+    },
+    {
+     "lang": "heb",
+     "text": "גמלא טייעא"
+    },
+    {
+     "lang": "deu",
+     "text": " „ara=\nbisches Kameel“ und "
+    },
+    {
+     "lang": "heb",
+     "text": "גמלא פרסא"
+    },
+    {
+     "lang": "deu",
+     "text": " „persisches Kameel“ wohl zunächst\nan den Dromedar zu denken, da er in Arabien und Persien vorzugs=\nweise vorhanden ist (B. Kama 55, a*); sicherlich aber ist mit "
+    },
+    {
+     "lang": "heb",
+     "text": "גמלא\nפרחא"
+    },
+    {
+     "lang": "deu",
+     "text": " „fliegendes Kameel“ (Jebamoth 116, a) nur der Dromedar\ngemeint, da er viel schneller als das zweibuckelige Kameel läuft."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Indessen durfte unter גמלא פרסא vielleicht dennoch das zweibuckelige\nKameel (Trampelt hier) zu verstehen sein. Aristoteles (Thierg. 2, 2, 5)\nnennt das einbuckelige Kameel das arabische K., das zweibuckelige das bak=",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Indessen durfte unter "
+    },
+    {
+     "lang": "heb",
+     "text": "גמלא פרסא"
+    },
+    {
+     "lang": "deu",
+     "text": " vielleicht dennoch das zweibuckelige\nKameel (Trampelt hier) zu verstehen sein. Aristoteles (Thierg. 2, 2, 5)\nnennt das einbuckelige Kameel das arabische K., das zweibuckelige das bak="
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    3074
+   ],
+   [
+    3308,
+    2238
+   ]
+  ],
+  "input_tokens": 3333,
+  "output_tokens": 1759,
+  "cost_usd": 0.0091,
+  "seconds": 16.5
+ }
+}

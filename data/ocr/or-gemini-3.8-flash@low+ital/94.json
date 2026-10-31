@@ -1,0 +1,237 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "94\nDas große Wiesel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "94\nDas große Wiesel."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 129.\nDas große Wiesel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 129.\nDas große Wiesel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Wir müssen bei diesem Artikel zur bessern Orientirung die be-\ntreffende Talmudstelle vollständig hersetzen. Sie lautet B. Kama\n80, a: מגדלין כלבים כופרין וחתולים, וקופין וחולדות סנאים מפני שעשויין\nלנקר את הבית. מאי חולדות סנאים? אמר ר\"י שרצא חרצא ואיכא דאמרו\n. חחא דקטיני שקי ורעיא ביני וורדיני ומאי שרצא דמחחאי שקירה\nMan merke vor Allem, daß für קופין eine richtigere Leseart קופדים (Igel)\nist, s. §. 112, da wohl der Igel, nicht aber der Affe zum Mäusefange\ndient. Ferner liest die Glosse חרצא für חרוא und wohl mit Recht,\nda die zweite Meinung (איכא דאמרי) bloß darin von der ersten ab=\nweicht, daß sie שרצא חרצא als Bezeichnungen zweier verschiedener\nThiere erklärt, und zwar חרצא als ein Thier mit langen und dün=\nnen Schenkeln und שרצא als ein Thier mit kurzen Schenkeln, wäh=\nrend Rabbi Jehuda beide Namen für ein und dasselbe Thier und\nzwar in dem Sinne von „Bohrendem Kriechthier\" nimmt. חרצא ist\ndas Nomen von חרץ „Ritze machen\", da das Thier in Ritzen, oder\ngebohrten Löchern lebt. Es ist hier zweifellos das große Wiesel oder\nHermelin, welches in der That hohe Hinterbeine hat, die durch ihre\nDünnheit einen leeren Zwischenraum zwischen sich bilden (vgl. auch\ndie Tos. ibid. s. v. דקטיני). Bevor wir aber unsere Ansicht weiter\nbegründen, wollen wir zuvor einige andere Ansichten prüfen. Sachs,\nder nicht selten von dem bloßen Gleichlaut aram. und griech. Wör=\nter sich leiten läßt und so die auffallendsten Conjecturen macht (s. ins=\nbesonders Art. Vielfuß), erklärt (Beiträge zur Sprach- und Alter=\nthumsforschung 2. Heft, S. 94) חולדות סנאים als den Landigel\n(<i>Ἐχῖνος χερσαῖος</i>), das letztere gr. Wort soll das aram. חרצא oder\nחרוא sein. Allein abgesehen, daß dieses Thier unmittelbar vorher in\nder richtigern Leseart קופרים bereits erwähnt ist, so hat gerade der\nLandigel kurze und ziemlich starke Füße; überhaupt kann der Igel\nschwerlich חולדה genannt werden; das hebr. אנקה scheint eher eine\ntransponirte Form von Ἐχῖνος zu sein, und außer diesem Namen\nhat der Talmud noch andere Benennungen für Igel, vergl. diesen\nArtikel. — Weniger verfehlt, doch ungenau erklärt Maimuni (zu\nKilajim 8, 5, wo סניים für סנאים geschrieben wird) das Thier, indem\ner sagt: „Es ist dem Wiesel ähnlich und zum Fuchsgeschlecht gehö=\nrend.\" — Mit dem Fuchse hat aber das Hermelin nur gewisse Eigen=",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wir müssen bei diesem Artikel zur bessern Orientirung die be-\ntreffende Talmudstelle vollständig hersetzen. Sie lautet B. Kama\n80, a: "
+    },
+    {
+     "lang": "heb",
+     "text": "מגדלין כלבים כופרין וחתולים, וקופין וחולדות סנאים מפני שעשויין\nלנקר את הבית. מאי חולדות סנאים? אמר ר\"י שרצא חרצא ואיכא דאמרו\n. חחא דקטיני שקי ורעיא ביני וורדיני ומאי שרצא דמחחאי שקירה"
+    },
+    {
+     "lang": "deu",
+     "text": "\nMan merke vor Allem, daß für "
+    },
+    {
+     "lang": "heb",
+     "text": "קופין"
+    },
+    {
+     "lang": "deu",
+     "text": " eine richtigere Leseart "
+    },
+    {
+     "lang": "heb",
+     "text": "קופדים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Igel)\nist, s. §. 112, da wohl der Igel, nicht aber der Affe zum Mäusefange\ndient. Ferner liest die Glosse "
+    },
+    {
+     "lang": "heb",
+     "text": "חרצא"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "heb",
+     "text": "חרוא"
+    },
+    {
+     "lang": "deu",
+     "text": " und wohl mit Recht,\nda die zweite Meinung ("
+    },
+    {
+     "lang": "heb",
+     "text": "איכא דאמרי"
+    },
+    {
+     "lang": "deu",
+     "text": ") bloß darin von der ersten ab=\nweicht, daß sie "
+    },
+    {
+     "lang": "heb",
+     "text": "שרצא חרצא"
+    },
+    {
+     "lang": "deu",
+     "text": " als Bezeichnungen zweier verschiedener\nThiere erklärt, und zwar "
+    },
+    {
+     "lang": "heb",
+     "text": "חרצא"
+    },
+    {
+     "lang": "deu",
+     "text": " als ein Thier mit langen und dün=\nnen Schenkeln und "
+    },
+    {
+     "lang": "heb",
+     "text": "שרצא"
+    },
+    {
+     "lang": "deu",
+     "text": " als ein Thier mit kurzen Schenkeln, wäh=\nrend Rabbi Jehuda beide Namen für ein und dasselbe Thier und\nzwar in dem Sinne von „Bohrendem Kriechthier\" nimmt. "
+    },
+    {
+     "lang": "heb",
+     "text": "חרצא"
+    },
+    {
+     "lang": "deu",
+     "text": " ist\ndas Nomen von "
+    },
+    {
+     "lang": "heb",
+     "text": "חרץ"
+    },
+    {
+     "lang": "deu",
+     "text": " „Ritze machen\", da das Thier in Ritzen, oder\ngebohrten Löchern lebt. Es ist hier zweifellos das große Wiesel oder\nHermelin, welches in der That hohe Hinterbeine hat, die durch ihre\nDünnheit einen leeren Zwischenraum zwischen sich bilden (vgl. auch\ndie Tos. ibid. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "דקטיני"
+    },
+    {
+     "lang": "deu",
+     "text": "). Bevor wir aber unsere Ansicht weiter\nbegründen, wollen wir zuvor einige andere Ansichten prüfen. Sachs,\nder nicht selten von dem bloßen Gleichlaut aram. und griech. Wör=\nter sich leiten läßt und so die auffallendsten Conjecturen macht (s. ins=\nbesonders Art. Vielfuß), erklärt (Beiträge zur Sprach- und Alter=\nthumsforschung 2. Heft, S. 94) "
+    },
+    {
+     "lang": "heb",
+     "text": "חולדות סנאים"
+    },
+    {
+     "lang": "deu",
+     "text": " als den Landigel\n(<i>"
+    },
+    {
+     "lang": "grc",
+     "text": "Ἐχῖνος χερσαῖος"
+    },
+    {
+     "lang": "deu",
+     "text": "</i>), das letztere gr. Wort soll das aram. "
+    },
+    {
+     "lang": "heb",
+     "text": "חרצא"
+    },
+    {
+     "lang": "deu",
+     "text": " oder\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חרוא"
+    },
+    {
+     "lang": "deu",
+     "text": " sein. Allein abgesehen, daß dieses Thier unmittelbar vorher in\nder richtigern Leseart "
+    },
+    {
+     "lang": "heb",
+     "text": "קופרים"
+    },
+    {
+     "lang": "deu",
+     "text": " bereits erwähnt ist, so hat gerade der\nLandigel kurze und ziemlich starke Füße; überhaupt kann der Igel\nschwerlich "
+    },
+    {
+     "lang": "heb",
+     "text": "חולדה"
+    },
+    {
+     "lang": "deu",
+     "text": " genannt werden; das hebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "אנקה"
+    },
+    {
+     "lang": "deu",
+     "text": " scheint eher eine\ntransponirte Form von "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἐχῖνος"
+    },
+    {
+     "lang": "deu",
+     "text": " zu sein, und außer diesem Namen\nhat der Talmud noch andere Benennungen für Igel, vergl. diesen\nArtikel. — Weniger verfehlt, doch ungenau erklärt Maimuni (zu\nKilajim 8, 5, wo "
+    },
+    {
+     "lang": "heb",
+     "text": "סניים"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "heb",
+     "text": "סנאים"
+    },
+    {
+     "lang": "deu",
+     "text": " geschrieben wird) das Thier, indem\ner sagt: „Es ist dem Wiesel ähnlich und zum Fuchsgeschlecht gehö=\nrend.\" — Mit dem Fuchse hat aber das Hermelin nur gewisse Eigen="
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3304,
+    2514
+   ],
+   [
+    3304,
+    2582
+   ]
+  ],
+  "input_tokens": 3340,
+  "output_tokens": 1879,
+  "cost_usd": 0.0096,
+  "seconds": 17.1
+ }
+}

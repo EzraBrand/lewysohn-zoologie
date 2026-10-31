@@ -1,0 +1,177 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Katze.\t75",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Katze.\t75"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "vielleicht an die bekannte Tollheit der Katze zu denken habe, in wel-\nchem Zustand sie allerdings gefährlich ist. Die Katzen haben nämlich\nvor einigen kampferartigen, ätherischen Pflanzen, wie Teucrium offi-\ncinalis, eine solche Idiosynkrasie, daß sie in ihrer Nähe in eine Art\nTollheit verfallen (Voigt, l. c. 1. S. 277 ff.).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "vielleicht an die bekannte Tollheit der Katze zu denken habe, in wel-\nchem Zustand sie allerdings gefährlich ist. Die Katzen haben nämlich\nvor einigen kampferartigen, ätherischen Pflanzen, wie "
+    },
+    {
+     "lang": "lat",
+     "text": "Teucrium offi-\ncinalis"
+    },
+    {
+     "lang": "deu",
+     "text": ", eine solche Idiosynkrasie, daß sie in ihrer Nähe in eine Art\nTollheit verfallen (Voigt, l. c. 1. S. 277 ff.)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Ihre Nahrung besteht, wie erwähnt, aus kleinen Raubthieren,\nwie Mäuse, Ratten und Wieseln *). Ihre Feindschaft zu den Letzteren\ngab zur Bezeichnung der falschen Freundschaft zweier Feinde Gelegen-\nheit zu dem Sprüchwort: „Katze und Wiesel feiern Hochzeit mitein-\nander“ (Sanhedrin 105, a). Zuweilen überfrißt sich die Katze an Mäu-\nsen und geht dadurch zu Grunde (B. mez. 97, a). — Sie verscharrt\nihre Excremente, weshalb sie als Bild der Sittsamkeit dargestellt wird\n(Erubin 100, b), was aber Plinius (h. n. 10, 73, 94) damit erklärt,\nweil die Katze befürchtet, es möchten die Mäuse durch den Geruch\nihrer Excremente vertrieben werden. — Man bediente sich auch zu\ndemselben Zwecke der Katzenexcremente (s. Art. Maus). — Die Katze\nhat für Alles, im Gegensatz zum Hunde, ein schlechtes Gedächtniß,\nwas von dem Genuß von Mäusen erklärt wird (Horajoth 13, a).\nDiese Stelle lautet: מפני מה כלב מכיר את קונו וחתול אין מכיר את קונו\nאמר להם ומה האוכל ממה שהעכבר אוכל משכח תלמידו האוכל עכבר עצמו\nלא כל שכן; allein abgesehen, daß hier nur der zweite Theil der Frage\nbeantwortet wird, so ist selbst in dieser Antwort die Behauptung, daß\ndas Essen eines Gegenstandes, der früher von einer Maus berührt\nwurde, das Vergessen bewirkt, sicherlich noch etwas, quod est demon-\nstrandum; und dennoch liegt unserer Stelle, so wir nur nicht am\nstrengen Wortlaut uns halten, eine Wahrheit zu Grunde; denn aller-\ndings ist das Mäusefressen, zwar nicht an sich, sondern wegen des\nVerpichtseins der Katze auf dasselbe, die Ursache ihrer Vergeßlichkeit,\ndenn ihr Sinnen und Trachten ist nur auf Näscherei und auf Mäuse-\nfang gerichtet, während alles Andere keine dauernden Eindrücke in\nihrem Gedächtniß zurückläßt. — Indessen verläßt sie die einmal ge-\nwählte bequeme Wohnung nicht, weshalb man sie wenig zu bewachen\nnöthig hat (Sabbat 51, b). — Sie gehört zum Thiergeschlecht (Heller zu Kilajim 8, 6). Ihre Tragzeit beträgt 52 Tage (Bechoroth\n8, a), was so ziemlich genau ist, da auch nach Voigt (l. c. 1. S. 277)",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ihre Nahrung besteht, wie erwähnt, aus kleinen Raubthieren,\nwie Mäuse, Ratten und Wieseln *). Ihre Feindschaft zu den Letzteren\ngab zur Bezeichnung der falschen Freundschaft zweier Feinde Gelegen-\nheit zu dem Sprüchwort: „Katze und Wiesel feiern Hochzeit mitein-\nander“ ("
+    },
+    {
+     "lang": "heb",
+     "text": "Sanhedrin"
+    },
+    {
+     "lang": "deu",
+     "text": " 105, a). Zuweilen überfrißt sich die Katze an Mäu-\nsen und geht dadurch zu Grunde ("
+    },
+    {
+     "lang": "heb",
+     "text": "B. mez."
+    },
+    {
+     "lang": "deu",
+     "text": " 97, a). — Sie verscharrt\nihre Excremente, weshalb sie als Bild der Sittsamkeit dargestellt wird\n("
+    },
+    {
+     "lang": "heb",
+     "text": "Erubin"
+    },
+    {
+     "lang": "deu",
+     "text": " 100, b), was aber Plinius ("
+    },
+    {
+     "lang": "lat",
+     "text": "h. n."
+    },
+    {
+     "lang": "deu",
+     "text": " 10, 73, 94) damit erklärt,\nweil die Katze befürchtet, es möchten die Mäuse durch den Geruch\nihrer Excremente vertrieben werden. — Man bediente sich auch zu\ndemselben Zwecke der Katzenexcremente (s. Art. Maus). — Die Katze\nhat für Alles, im Gegensatz zum Hunde, ein schlechtes Gedächtniß,\nwas von dem Genuß von Mäusen erklärt wird ("
+    },
+    {
+     "lang": "heb",
+     "text": "Horajoth"
+    },
+    {
+     "lang": "deu",
+     "text": " 13, a).\nDiese Stelle lautet: "
+    },
+    {
+     "lang": "heb",
+     "text": "מפני מה כלב מכיר את קונו וחתול אין מכיר את קונו\nאמר להם ומה האוכל ממה שהעכבר אוכל משכח תלמידו האוכל עכבר עצמו\nלא כל שכן"
+    },
+    {
+     "lang": "deu",
+     "text": "; allein abgesehen, daß hier nur der zweite Theil der Frage\nbeantwortet wird, so ist selbst in dieser Antwort die Behauptung, daß\ndas Essen eines Gegenstandes, der früher von einer Maus berührt\nwurde, das Vergessen bewirkt, sicherlich noch etwas, "
+    },
+    {
+     "lang": "lat",
+     "text": "quod est demon-\nstrandum"
+    },
+    {
+     "lang": "deu",
+     "text": "; und dennoch liegt unserer Stelle, so wir nur nicht am\nstrengen Wortlaut uns halten, eine Wahrheit zu Grunde; denn aller-\ndings ist das Mäusefressen, zwar nicht an sich, sondern wegen des\nVerpichtseins der Katze auf dasselbe, die Ursache ihrer Vergeßlichkeit,\ndenn ihr Sinnen und Trachten ist nur auf Näscherei und auf Mäuse-\nfang gerichtet, während alles Andere keine dauernden Eindrücke in\nihrem Gedächtniß zurückläßt. — Indessen verläßt sie die einmal ge-\nwählte bequeme Wohnung nicht, weshalb man sie wenig zu bewachen\nnöthig hat ("
+    },
+    {
+     "lang": "heb",
+     "text": "Sabbat"
+    },
+    {
+     "lang": "deu",
+     "text": " 51, b). — Sie gehört zum Thiergeschlecht ("
+    },
+    {
+     "lang": "heb",
+     "text": "Heller"
+    },
+    {
+     "lang": "deu",
+     "text": " zu "
+    },
+    {
+     "lang": "heb",
+     "text": "Kilajim"
+    },
+    {
+     "lang": "deu",
+     "text": " 8, 6). Ihre Tragzeit beträgt 52 Tage ("
+    },
+    {
+     "lang": "heb",
+     "text": "Bechoroth"
+    },
+    {
+     "lang": "deu",
+     "text": "\n8, a), was so ziemlich genau ist, da auch nach Voigt (l. c. 1. S. 277)"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Man pflegte ihr das Blut des weiblichen Abflusses aufzubewahren; doch\nsoll in Folge ihres Genusses davon (in magischer Hinsicht) der Mensch entkräftet\nwerden (Sabbat 75, b).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Man pflegte ihr das Blut des weiblichen Abflusses aufzubewahren; doch\nsoll in Folge ihres Genusses davon (in magischer Hinsicht) der Mensch entkräftet\nwerden ("
+    },
+    {
+     "lang": "heb",
+     "text": "Sabbat"
+    },
+    {
+     "lang": "deu",
+     "text": " 75, b)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3300,
+    2032
+   ],
+   [
+    3300,
+    3048
+   ]
+  ],
+  "input_tokens": 3345,
+  "output_tokens": 1555,
+  "cost_usd": 0.0083,
+  "seconds": 15.7
+ }
+}

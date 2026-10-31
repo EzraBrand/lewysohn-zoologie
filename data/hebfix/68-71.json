@@ -1,0 +1,51 @@
+{
+ "main": "or-claude-opus-5.5@low+ital",
+ "model": "anthropic/claude-opus-5.5",
+ "items": [
+  {
+   "page": 69,
+   "line": "und heißt נער (Chulin 53, a), während des Verzehrens knurrt er (Be-",
+   "main": "נער",
+   "check": "עוא",
+   "confident": true,
+   "note": "Chulin 53a distinguishes שאג from נער (the roar on seeing the prey), so נער is the term cited. Reading B, עוא, is not a Hebrew word.",
+   "printed": "נער"
+  },
+  {
+   "page": 69,
+   "line": "Sanhedrin 102, a heißt es: אין ארי דורס ונוהם, wo das Wort דורס",
+   "main": "ונוהם",
+   "check": "נוהם",
+   "confident": false,
+   "note": "Two verbs in a row, 'דורס ונוהם', most naturally take the conjunction ו. Lewysohn's remark that דורס should be struck points back to the familiar phrase 'אין ארי נוהם'. Reading B is grammatically possible, so this is not certain.",
+   "printed": "ונוהם"
+  },
+  {
+   "page": 70,
+   "line": "gelbe Feuchtigkeit (Arist. l. c. 9, 31, 3), welche ויהורא (Chulin ibid.",
+   "main": "ויהורא",
+   "check": "זיהורא",
+   "confident": true,
+   "note": "Chulin 53a speaks of the lion's 'zihara' (זיהורא), a yellowish poisonous fluid; ויהורא is not a word.",
+   "printed": "זיהורא"
+  },
+  {
+   "page": 70,
+   "line": "טגרים (Τίγρις) und umschrieben: אריא דבי עילאי „Löwe des",
+   "main": "טגרים",
+   "check": "טגריס",
+   "confident": true,
+   "note": "The heading transliterates Greek Τίγρις, so the expected form is טגריס (Talmudic טיגריס). The plural-looking טגרים is a final ם/ס OCR confusion.",
+   "printed": "טגריס"
+  },
+  {
+   "page": 71,
+   "line": "benennt ihn, wie wir gesehen, auch der Talmud neben טגרים auch",
+   "main": "טגרים",
+   "check": "טגריס",
+   "confident": true,
+   "note": "The tiger's name transliterates Greek/Latin tigris, so the final letter is samekh: טגריס (cf. Talmud טיגריס). טגרים would be a plural form that does not fit as the animal's name.",
+   "printed": "טגריס"
+  }
+ ]
+}

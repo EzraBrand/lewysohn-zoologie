@@ -63,6 +63,8 @@ they are.
 - The author's own romanized Hebrew titles and terms keep his spelling (e.g. "Schir ha-Jichud", \
 "Mekore Minhagim"); do not modernize it.
 - Roman numerals used as numbers become Arabic numerals: "p. XXXIX" -> "p. 39". A Roman volume, book or chapter number before a page or folio number becomes "number, page" as the author writes elsewhere: "Robinson I 346. III 221" -> "Robinson 1, 346. 3, 221", "Gal. VI 644" -> "Gal. 6, 644", "jKil. I 27^{{a}}" -> "jKil. 1, 27^{{a}}", "E. Wiedem. XLIX 19" -> "E. Wiedem. 49, 19". Keep Roman numerals that are part of a name or title (e.g. Pius XII).
+- Terms of the book's structure: "Abtheilung" -> "Part", "Klasse" -> "Class", "Art." / "Artikel" \
+(a § of this book) -> "article".
 - "Palästina" / "Palestine" in the author's text: write "Eretz Yisrael"; the adjective \
 ("palästinisch", "Palestinian"): "of Eretz Yisrael" or "Eretz-Yisrael" before a noun (e.g. \
 "Eretz-Yisrael Hebrew" for "Palästinahebräisch" and for the abbreviation Ph.). This applies to \
@@ -119,7 +121,7 @@ def add_hebrew_letters(text: str) -> str:
 # Talmud folio and side as printed ("Sanhedrin 106, a", "ibid. 64, a") -> the modern form
 # ("Sanhedrin 106a"). Only a side a or b that stands alone after "number, "; Mishnah and
 # Jerusalem Talmud references ("Aboth 5, 20", "B. batra 2, 3") have no side letter and stay.
-FOLIO = re.compile(r"\b(\d+),\s*([ab])(?![\w.])")
+FOLIO = re.compile(r"\b(\d+),\s*([ab])(?!\w)(?!\.\w)")  # "65, b." at a sentence end too, not "b.c"
 
 
 def modern_citations(text: str) -> str:

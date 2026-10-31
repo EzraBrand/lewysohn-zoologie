@@ -1,0 +1,441 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Bärmutter. — Gerippe u. seine Theile. — Muskeln, Nerven, Arterien. 43",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bärmutter. — Gerippe u. seine Theile. — Muskeln, Nerven, Arterien. 43"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 71.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 71."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Bärmutter. Die Bär-, oder Gebärmutter heißt אם, טרפחא,\nשלפוחית, (Chulin 55, b) und הרח (Berachoth 57, b). Raschi (Chulin\n54, a): מדריץ, oder (Sanhedrin 33, a): מטריצה, matrice. — Die\nägyptischen Schweine und Kühe wurden durch Verletzung der Bär-\nmutter castrirt (ibid.). — Das Vieh kann ohne Bärmutter leben\n(Chulin 54, a). — Hat sich in der Bärmutter ein Embryon zu bil-\nden schon begonnen, so heißt sie שליה (ibid. 77, a); der Embryon\nselbst heißt: שליל (ibid. 89, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bärmutter. Die Bär-, oder Gebärmutter heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "אם, טרפחא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שלפוחית"
+    },
+    {
+     "lang": "deu",
+     "text": ", (Chulin 55, b) und "
+    },
+    {
+     "lang": "heb",
+     "text": "הרח"
+    },
+    {
+     "lang": "deu",
+     "text": " (Berachoth 57, b). Raschi (Chulin\n54, a): "
+    },
+    {
+     "lang": "heb",
+     "text": "מדריץ"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder (Sanhedrin 33, a): "
+    },
+    {
+     "lang": "heb",
+     "text": "מטריצה"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "matrice"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Die\nägyptischen Schweine und Kühe wurden durch Verletzung der Bär-\nmutter castrirt (ibid.). — Das Vieh kann ohne Bärmutter leben\n(Chulin 54, a). — Hat sich in der Bärmutter ein Embryon zu bil-\nden schon begonnen, so heißt sie "
+    },
+    {
+     "lang": "heb",
+     "text": "שליה"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 77, a); der Embryon\nselbst heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "שליל"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 89, b)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 72.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 72."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Gerippe und seine Theile. Das Gerippe heißt allgemein שלד\n(Nidda 56, a), was Raschi durch: דפוס צירתו, „Typus der Gestalt“,\nerklärt. — Es besteht aus den Knochen (עצמות *) des Kopfes, des\nHalses, des Genickes (מפרקת), des Rückens, der Rippen (צלעות), der\nFlanken (כסלים, Sabbat 152, a. Raschi: ליפלאנקש, les flancs), der\nSchenkeln (שוקים ibid.), der Hüfte (מותנים, Chulin 51, a, wobei der\nHüftknochen, עוקץ, Raschi: הנקא, hanche heißt, ibid. 93, a), aus dem\nobern Hüftbein (קליבוסת, ibid.), aus den Knochen der Füße (רגלים),\nder Vorderfüße (ידים §. 54), aus den Klauen (טלפים), den Nägeln\n(ציפרנים) und den Fußknöchelchen (ערקוב **). — Bei den Vögeln sind\nbeziehungsweise für Vorderfüße die Flügel (כנפים) zu erwähnen. —\nDas Vieh hat 22 Rippen, 11 auf jeder Seite, welche groß und\nmarkig sind, sie heißen צלעות גדולות, dann noch vier kleine und mark-\nlose Rippen (Chulin 52, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Gerippe und seine Theile. Das Gerippe heißt allgemein "
+    },
+    {
+     "lang": "heb",
+     "text": "שלד"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Nidda 56, a), was Raschi durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "דפוס צירתו"
+    },
+    {
+     "lang": "deu",
+     "text": ", „Typus der Gestalt“,\nerklärt. — Es besteht aus den Knochen ("
+    },
+    {
+     "lang": "heb",
+     "text": "עצמות"
+    },
+    {
+     "lang": "deu",
+     "text": " *) des Kopfes, des\nHalses, des Genickes ("
+    },
+    {
+     "lang": "heb",
+     "text": "מפרקת"
+    },
+    {
+     "lang": "deu",
+     "text": "), des Rückens, der Rippen ("
+    },
+    {
+     "lang": "heb",
+     "text": "צלעות"
+    },
+    {
+     "lang": "deu",
+     "text": "), der\nFlanken ("
+    },
+    {
+     "lang": "heb",
+     "text": "כסלים"
+    },
+    {
+     "lang": "deu",
+     "text": ", Sabbat 152, a. Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "ליפלאנקש"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "les flancs"
+    },
+    {
+     "lang": "deu",
+     "text": "), der\nSchenkeln ("
+    },
+    {
+     "lang": "heb",
+     "text": "שוקים"
+    },
+    {
+     "lang": "deu",
+     "text": " ibid.), der Hüfte ("
+    },
+    {
+     "lang": "heb",
+     "text": "מותנים"
+    },
+    {
+     "lang": "deu",
+     "text": ", Chulin 51, a, wobei der\nHüftknochen, "
+    },
+    {
+     "lang": "heb",
+     "text": "עוקץ"
+    },
+    {
+     "lang": "deu",
+     "text": ", Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "הנקא"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "hanche"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt, ibid. 93, a), aus dem\nobern Hüftbein ("
+    },
+    {
+     "lang": "heb",
+     "text": "קליבוסת"
+    },
+    {
+     "lang": "deu",
+     "text": ", ibid.), aus den Knochen der Füße ("
+    },
+    {
+     "lang": "heb",
+     "text": "רגלים"
+    },
+    {
+     "lang": "deu",
+     "text": "),\nder Vorderfüße ("
+    },
+    {
+     "lang": "heb",
+     "text": "ידים"
+    },
+    {
+     "lang": "deu",
+     "text": " §. 54), aus den Klauen ("
+    },
+    {
+     "lang": "heb",
+     "text": "טלפים"
+    },
+    {
+     "lang": "deu",
+     "text": "), den Nägeln\n("
+    },
+    {
+     "lang": "heb",
+     "text": "ציפרנים"
+    },
+    {
+     "lang": "deu",
+     "text": ") und den Fußknöchelchen ("
+    },
+    {
+     "lang": "heb",
+     "text": "ערקוב"
+    },
+    {
+     "lang": "deu",
+     "text": " **). — Bei den Vögeln sind\nbeziehungsweise für Vorderfüße die Flügel ("
+    },
+    {
+     "lang": "heb",
+     "text": "כנפים"
+    },
+    {
+     "lang": "deu",
+     "text": ") zu erwähnen. —\nDas Vieh hat 22 Rippen, 11 auf jeder Seite, welche groß und\nmarkig sind, sie heißen "
+    },
+    {
+     "lang": "heb",
+     "text": "צלעות גדולות"
+    },
+    {
+     "lang": "deu",
+     "text": ", dann noch vier kleine und mark-\nlose Rippen (Chulin 52, a)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 73.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 73."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Muskeln, Nerven, Arterien. Klassisch ist hierfür eine Stelle\nMore Nebuchim des Maimuni (Lib. 2, cap. 1 ***), wo über die erste\nBewegkraft gesprochen wird. Da heißt es: Den Stein schleudert\nder Stock, diesen bewegt die Hand, diese die Nerven (מיתרים), diese\ndie Arterien, oder Adern (עורקים, sonst גידין), diese die Muskeln (עצבים)",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Muskeln, Nerven, Arterien. Klassisch ist hierfür eine Stelle\nMore Nebuchim des Maimuni (Lib. 2, cap. 1 ***), wo über die erste\nBewegkraft gesprochen wird. Da heißt es: Den Stein schleudert\nder Stock, diesen bewegt die Hand, diese die Nerven ("
+    },
+    {
+     "lang": "heb",
+     "text": "מיתרים"
+    },
+    {
+     "lang": "deu",
+     "text": "), diese\ndie Arterien, oder Adern ("
+    },
+    {
+     "lang": "heb",
+     "text": "עורקים"
+    },
+    {
+     "lang": "deu",
+     "text": ", sonst "
+    },
+    {
+     "lang": "heb",
+     "text": "גידין"
+    },
+    {
+     "lang": "deu",
+     "text": "), diese die Muskeln ("
+    },
+    {
+     "lang": "heb",
+     "text": "עצבים"
+    },
+    {
+     "lang": "deu",
+     "text": ")"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Maimuni (Mischna Chulin 9, 5) erklärt קולית als den an beiden\nEnden geschlossenen markigen Knochen; Aruch hingegen als den Schenkelknochen,\nund dürfte man vielleicht den Knochen der Froschkeule: קולית השרץ (ibid. 126,\nb) nennen.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Maimuni (Mischna Chulin 9, 5) erklärt "
+    },
+    {
+     "lang": "heb",
+     "text": "קולית"
+    },
+    {
+     "lang": "deu",
+     "text": " als den an beiden\nEnden geschlossenen markigen Knochen; Aruch hingegen als den Schenkelknochen,\nund dürfte man vielleicht den Knochen der Froschkeule: "
+    },
+    {
+     "lang": "heb",
+     "text": "קולית השרץ"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 126,\nb) nennen."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Ueber das Knöchelchen ערקוב s. Chulin 76, a.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Ueber das Knöchelchen "
+    },
+    {
+     "lang": "heb",
+     "text": "ערקוב"
+    },
+    {
+     "lang": "deu",
+     "text": " s. Chulin 76, a."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Ebenso im Mischnah = Commentar zu Chulin 9, 1, wo er besonders\nüber die umfassende Bedeutung von גידים spricht.",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Ebenso im Mischnah = Commentar zu Chulin 9, 1, wo er besonders\nüber die umfassende Bedeutung von "
+    },
+    {
+     "lang": "heb",
+     "text": "גידים"
+    },
+    {
+     "lang": "deu",
+     "text": " spricht."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3192,
+    2642
+   ],
+   [
+    3192,
+    2598
+   ]
+  ],
+  "input_tokens": 3355,
+  "output_tokens": 1569,
+  "cost_usd": 0.0084,
+  "seconds": 16.8
+ }
+}

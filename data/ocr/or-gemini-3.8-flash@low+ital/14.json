@@ -1,0 +1,225 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "14 Reines und unreines Vieh. — Reine und unreine Thiere.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "14 Reines und unreines Vieh. — Reine und unreine Thiere."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 21.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 21."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Reines und unreines Vieh. Die Unterscheidungszeichen zwi-\nschen reinem (eßbarem) und unreinem (ungenießbarem) Vieh giebt\nschon das biblische Gesetz (Lev. 11, 3) an. Das erstere ist wieder-\nkäuend und hat gespaltene Klauen, das letztere ermangelt entweder\nbeider Merkmale, oder besitzt nur eins derselben. Der Talmud (Chu-\nlin 59, a) fügt hinzu, daß ein Thier, das keine Oberzähne hat, zwei-\nfellos wiederkäuend sein und gespaltene Klauen haben muß; nur der\nHase und das Kaninchen haben Oberzähne und sind wiederkäuend da-\nbei, und ebenso ist das Kameel wiederkäuend, obwohl es statt der\nKauzähne (Backenzähne), die ihm fehlen, Beißzähne hat. Vgl. §. 163.\nDas junge Kameel hat aber auch letztere Zähne nicht (Chulin ibid.).\n— Ein Unterschied ist ferner, daß bei dem reinen Vieh das Fleisch\nunter dem Hüftknochen (§. 167) sowohl der Länge als der Breite\nnach sich zerreißen läßt, was sonst von dem unreinen Vieh nur noch\nbei dem wilden Esel der Fall ist (ibid.).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Reines und unreines Vieh. Die Unterscheidungszeichen zwi-\nschen reinem (eßbarem) und unreinem (ungenießbarem) Vieh giebt\nschon das biblische Gesetz ("
+    },
+    {
+     "lang": "lat",
+     "text": "Lev."
+    },
+    {
+     "lang": "deu",
+     "text": " 11, 3) an. Das erstere ist wieder-\nkäuend und hat gespaltene Klauen, das letztere ermangelt entweder\nbeider Merkmale, oder besitzt nur eins derselben. Der Talmud ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chu-\nlin"
+    },
+    {
+     "lang": "deu",
+     "text": " 59, a) fügt hinzu, daß ein Thier, das keine Oberzähne hat, zwei-\nfellos wiederkäuend sein und gespaltene Klauen haben muß; nur der\nHase und das Kaninchen haben Oberzähne und sind wiederkäuend da-\nbei, und ebenso ist das Kameel wiederkäuend, obwohl es statt der\nKauzähne (Backenzähne), die ihm fehlen, Beißzähne hat. Vgl. §. 163.\nDas junge Kameel hat aber auch letztere Zähne nicht ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin ibid."
+    },
+    {
+     "lang": "deu",
+     "text": ").\n— Ein Unterschied ist ferner, daß bei dem reinen Vieh das Fleisch\nunter dem Hüftknochen (§. 167) sowohl der Länge als der Breite\nnach sich zerreißen läßt, was sonst von dem unreinen Vieh nur noch\nbei dem wilden Esel der Fall ist ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid."
+    },
+    {
+     "lang": "deu",
+     "text": ")."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 22.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 22."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Reine und unreine Thiere. Die im vorhergehenden Artikel\nangegebenen Unterscheidungszeichen zwischen reinem und unreinem Vieh\ngelten zwar auch von der Reinheitsbestimmung der Thiere, da das\nGesetz (Lev. 11, 2) חיה „Thier“ und בהמה „Vieh“ im Betreff des\nGebotes über Gestattung, oder Nichtgestattung ihres Genusses zusam-\nmenfaßt; doch war es nothwendig, noch durch andere Merkmale das\nreine Thier vom reinen Vieh zu unterscheiden, weil jede dieser bei-\nden Gattungen einer ausschließlich ihr angehörenden Vorschrift unter-\nworfen ist. Vom Vieh ist nur das Fett, nicht aber das Unschlitt\n(§. 92) zu essen gestattet, während bei dem Thier beides zu genießen\nerlaubt ist (Chulin 59, b); andererseits muß das Blut des Thieres\nund nicht des Viehes nach Vorschrift über das Vögelblut verschüttet\nund bedeckt (כיסוי דם) werden (ibid. 83, b). Es bedurfte also bei den rei-\nnen Thieren eines doppelten Unterscheidungsmerkmals, um es sowohl vom\nunreinen Thiere, als auch vom reinen Vieh zu unterscheiden.\nDas eine Merkmal, Wiederkäuen und gespaltene Klauen, unter-\nscheidet es von den unreinen Thieren; das zweite Merkmal besteht in",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Reine und unreine Thiere. Die im vorhergehenden Artikel\nangegebenen Unterscheidungszeichen zwischen reinem und unreinem Vieh\ngelten zwar auch von der Reinheitsbestimmung der Thiere, da das\nGesetz ("
+    },
+    {
+     "lang": "lat",
+     "text": "Lev."
+    },
+    {
+     "lang": "deu",
+     "text": " 11, 2) "
+    },
+    {
+     "lang": "heb",
+     "text": "חיה"
+    },
+    {
+     "lang": "deu",
+     "text": " „Thier“ und "
+    },
+    {
+     "lang": "heb",
+     "text": "בהמה"
+    },
+    {
+     "lang": "deu",
+     "text": " „Vieh“ im Betreff des\nGebotes über Gestattung, oder Nichtgestattung ihres Genusses zusam-\nmenfaßt; doch war es nothwendig, noch durch andere Merkmale das\nreine Thier vom reinen Vieh zu unterscheiden, weil jede dieser bei-\nden Gattungen einer ausschließlich ihr angehörenden Vorschrift unter-\nworfen ist. Vom Vieh ist nur das Fett, nicht aber das Unschlitt\n(§. 92) zu essen gestattet, während bei dem Thier beides zu genießen\nerlaubt ist ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin"
+    },
+    {
+     "lang": "deu",
+     "text": " 59, b); andererseits muß das Blut des Thieres\nund nicht des Viehes nach Vorschrift über das Vögelblut verschüttet\nund bedeckt ("
+    },
+    {
+     "lang": "heb",
+     "text": "כיסוי דם"
+    },
+    {
+     "lang": "deu",
+     "text": ") werden ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid."
+    },
+    {
+     "lang": "deu",
+     "text": " 83, b). Es bedurfte also bei den rei-\nnen Thieren eines doppelten Unterscheidungsmerkmals, um es sowohl vom\nunreinen Thiere, als auch vom reinen Vieh zu unterscheiden.\nDas eine Merkmal, Wiederkäuen und gespaltene Klauen, unter-\nscheidet es von den unreinen Thieren; das zweite Merkmal besteht in"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "s. v. בוקנה; doch gab es eine die Unfruchtbarkeit des Weibes bewirkende Mix-\ntur, die סמא דעקרתא (Jebamoth 65, b), oder כוס עיקרין (Sabbat 109, b) hieß;\nvgl. auch Sota 22, a.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "s. v."
+    },
+    {
+     "lang": "heb",
+     "text": " בוקנה"
+    },
+    {
+     "lang": "deu",
+     "text": "; doch gab es eine die Unfruchtbarkeit des Weibes bewirkende Mix-\ntur, die "
+    },
+    {
+     "lang": "arc",
+     "text": "סמא דעקרתא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Jebamoth"
+    },
+    {
+     "lang": "deu",
+     "text": " 65, b), oder "
+    },
+    {
+     "lang": "heb",
+     "text": "כוס עיקרין"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat"
+    },
+    {
+     "lang": "deu",
+     "text": " 109, b) hieß;\nvgl. auch "
+    },
+    {
+     "lang": "lat",
+     "text": "Sota"
+    },
+    {
+     "lang": "deu",
+     "text": " 22, a."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2235
+   ],
+   [
+    3308,
+    2949
+   ]
+  ],
+  "input_tokens": 3330,
+  "output_tokens": 1739,
+  "cost_usd": 0.009,
+  "seconds": 14.0
+ }
+}

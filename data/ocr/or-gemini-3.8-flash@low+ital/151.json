@@ -1,0 +1,229 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der einhörnige Ochse.\t151",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der einhörnige Ochse.\t151"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "ſixt*). — Auch Raschi (A. Sara 3, b) weiß ראם nur durch „ein\ngroßes Thier\" zu überſetzen; man darf daher wohl annehmen, daß\nder Talmud unter ראם nur das Einhorn verſtand. — Onkelos\nüberſetzt damit das bibliſche דישן (Deut. 14, 5), welches zu den rei-\nnen Thieren gehört; hiernach mußte es geſpaltene Klauen haben, was\nin der That bei dem Einhorn der Fall ſein ſoll (Roſenmüller ibid.\nS. 194). Es wird deshalb auch ſein Unſchlitt (§. 92) gegeſſen (To-\nſephot Sebachim ibid.). Vgl. §. 22. — Wir haben nur noch den\nNamen zu urgiren. Gewöhnlich heißt das Thier ראם, oder רימא (Se-\nbachim ibid.), dahingegen heißt es Sabbat 107, b und in der Pa-\nrallelſtelle A. Sara 3, b קרני ראמים, was aber ſchon bibliſch und eine\npoetiſche Phraſe iſt (Deut. 33, 17; Pſ. 22, 22), ebenſo benennt Op-\npian (in ſeinem Gedicht von der Hundejagd: Κυνηγετικὰ 2, v. 474)\ndas ſchwarze Horn des Oryx: Κερόεντα μέτωπα, offenbar bezeichnet\nder Talmud mit קרני nicht die Mehrheit der Hörner, ſondern der\nThiere, wie im Deutſchen Einhörner nur mehrere Thiere vom Ein-\nhorn bedeutet. Der Talmud gebraucht vom Einhorn den Plural wie\nvon den Niſſen: ביצי כינים, wofür ſonſt אינבא gebraucht wird; die\nאינבא entſteht aus dem ביצה כינים (Lausei, §. 451), ſo daß auch je-\nner Ausdruck von der Maſſe, oder Mehrheit der Niſſe gebraucht wird;\nwir dürfen jedoch nicht verſchweigen, daß im Midr. Jalk. Schim.\n2. Th. §. 845 קרנוהי vom Reem vorkommt, doch iſt unſere Aufgabe\nnur die Anſicht des Talmuds feſtzuſtellen, und die Leſeart des Midraſch\niſt ſicher zu emendiren.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "ſixt*). — Auch Raschi (A. Sara 3, b) weiß "
+    },
+    {
+     "lang": "heb",
+     "text": "ראם"
+    },
+    {
+     "lang": "deu",
+     "text": " nur durch „ein\ngroßes Thier\" zu überſetzen; man darf daher wohl annehmen, daß\nder Talmud unter "
+    },
+    {
+     "lang": "heb",
+     "text": "ראם"
+    },
+    {
+     "lang": "deu",
+     "text": " nur das Einhorn verſtand. — Onkelos\nüberſetzt damit das bibliſche "
+    },
+    {
+     "lang": "heb",
+     "text": "דישן"
+    },
+    {
+     "lang": "deu",
+     "text": " (Deut. 14, 5), welches zu den rei-\nnen Thieren gehört; hiernach mußte es geſpaltene Klauen haben, was\nin der That bei dem Einhorn der Fall ſein ſoll (Roſenmüller ibid.\nS. 194). Es wird deshalb auch ſein Unſchlitt (§. 92) gegeſſen (To-\nſephot Sebachim ibid.). Vgl. §. 22. — Wir haben nur noch den\nNamen zu urgiren. Gewöhnlich heißt das Thier "
+    },
+    {
+     "lang": "heb",
+     "text": "ראם"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "רימא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Se-\nbachim ibid.), dahingegen heißt es Sabbat 107, b und in der Pa-\nrallelſtelle A. Sara 3, b "
+    },
+    {
+     "lang": "heb",
+     "text": "קרני ראמים"
+    },
+    {
+     "lang": "deu",
+     "text": ", was aber ſchon bibliſch und eine\npoetiſche Phraſe iſt (Deut. 33, 17; Pſ. 22, 22), ebenſo benennt Op-\npian (in ſeinem Gedicht von der Hundejagd: "
+    },
+    {
+     "lang": "grc",
+     "text": "Κυνηγετικὰ"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, v. 474)\ndas ſchwarze Horn des Oryx: "
+    },
+    {
+     "lang": "grc",
+     "text": "Κερόεντα μέτωπα"
+    },
+    {
+     "lang": "deu",
+     "text": ", offenbar bezeichnet\nder Talmud mit "
+    },
+    {
+     "lang": "heb",
+     "text": "קרני"
+    },
+    {
+     "lang": "deu",
+     "text": " nicht die Mehrheit der Hörner, ſondern der\nThiere, wie im Deutſchen Einhörner nur mehrere Thiere vom Ein-\nhorn bedeutet. Der Talmud gebraucht vom Einhorn den Plural wie\nvon den Niſſen: "
+    },
+    {
+     "lang": "heb",
+     "text": "ביצי כינים"
+    },
+    {
+     "lang": "deu",
+     "text": ", wofür ſonſt "
+    },
+    {
+     "lang": "heb",
+     "text": "אינבא"
+    },
+    {
+     "lang": "deu",
+     "text": " gebraucht wird; die\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אינבא"
+    },
+    {
+     "lang": "deu",
+     "text": " entſteht aus dem "
+    },
+    {
+     "lang": "heb",
+     "text": "ביצה כינים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Lausei, §. 451), ſo daß auch je-\nner Ausdruck von der Maſſe, oder Mehrheit der Niſſe gebraucht wird;\nwir dürfen jedoch nicht verſchweigen, daß im Midr. Jalk. Schim.\n2. Th. §. 845 "
+    },
+    {
+     "lang": "heb",
+     "text": "קרנוהי"
+    },
+    {
+     "lang": "deu",
+     "text": " vom Reem vorkommt, doch iſt unſere Aufgabe\nnur die Anſicht des Talmuds feſtzuſtellen, und die Leſeart des Midraſch\niſt ſicher zu emendiren."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 175.\nDer einhörnige Ochſe.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 175.\nDer einhörnige Ochſe."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "An drei Stellen (Chulin 60, a Sabbat 28, b und A. Sara 8, a)\nwird geſagt: „Der Ochs, den Adam, der erſte Menſch, geopfert hatte,\nbeſaß nur ein Horn an der Stirn.\" — Es kann dieſes Thier ſchon\naus dem Grunde mit dem im vorhergehenden Artikel behandelten\nEinhorn nicht identiſch ſein, da letzteres zum Thiergeſchlecht ge-\nhört und ſo als eine zur Opferung unfähige Species, vom Talmud\ngewiß nicht als jenes erſte Opfer ſubſtituirt worden wäre. In jener",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "An drei Stellen (Chulin 60, a Sabbat 28, b und A. Sara 8, a)\nwird geſagt: „Der Ochs, den Adam, der erſte Menſch, geopfert hatte,\nbeſaß nur ein Horn an der Stirn.\" — Es kann dieſes Thier ſchon\naus dem Grunde mit dem im vorhergehenden Artikel behandelten\nEinhorn nicht identiſch ſein, da letzteres zum Thiergeſchlecht ge-\nhört und ſo als eine zur Opferung unfähige Species, vom Talmud\ngewiß nicht als jenes erſte Opfer ſubſtituirt worden wäre. In jener"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Der Sinn jener Benennung iſt nur: Der Büffel darf wegen ſeiner\nGröße ראם genannt werden; ähnlich bilden die Griechen durch Zuſammenſetzung\nmit βοῦς die Bezeichnung für die Größe eines Gegenſtandes, z. B. βούπαις,\ngroßer Junge, βούνεβρος, großes Hirſchkalb, u. a. m. ſ. §. 409 zu Ende.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Sinn jener Benennung iſt nur: Der Büffel darf wegen ſeiner\nGröße "
+    },
+    {
+     "lang": "heb",
+     "text": "ראם"
+    },
+    {
+     "lang": "deu",
+     "text": " genannt werden; ähnlich bilden die Griechen durch Zuſammenſetzung\nmit "
+    },
+    {
+     "lang": "grc",
+     "text": "βοῦς"
+    },
+    {
+     "lang": "deu",
+     "text": " die Bezeichnung für die Größe eines Gegenſtandes, z. B. "
+    },
+    {
+     "lang": "grc",
+     "text": "βούπαις"
+    },
+    {
+     "lang": "deu",
+     "text": ",\ngroßer Junge, "
+    },
+    {
+     "lang": "grc",
+     "text": "βούνεβρος"
+    },
+    {
+     "lang": "deu",
+     "text": ", großes Hirſchkalb, u. a. m. ſ. §. 409 zu Ende."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2165
+   ],
+   [
+    3308,
+    2887
+   ]
+  ],
+  "input_tokens": 3357,
+  "output_tokens": 1245,
+  "cost_usd": 0.0072,
+  "seconds": 12.7
+ }
+}

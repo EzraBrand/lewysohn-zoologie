@@ -1,0 +1,555 @@
+{
+ "rule": "change where at least 2 of flash, image, text agree against the main OCR",
+ "items": [
+  {
+   "page": 1,
+   "line": "δρογύνης ibid.). — Das castrirte Geschöpf (§. 20) heißt סרים (ibid.",
+   "old": "סרים",
+   "new": "סריס",
+   "votes": {
+    "flash": "סריס",
+    "image": "סרים",
+    "text": "סריס"
+   }
+  },
+  {
+   "page": 1,
+   "line": "ten סרים אדם, von dem unfruchtbar geborenen Menschen סרים חמה. — Das",
+   "old": "סרים",
+   "new": "סריס",
+   "votes": {
+    "flash": "סריס",
+    "image": "סרים",
+    "text": "סריס"
+   }
+  },
+  {
+   "page": 1,
+   "line": "ten סרים אדם, von dem unfruchtbar geborenen Menschen סרים חמה. — Das",
+   "old": "סרים",
+   "new": "סריס",
+   "votes": {
+    "flash": "סריס",
+    "image": "סרים",
+    "text": "סריס"
+   }
+  },
+  {
+   "page": 1,
+   "line": "אנפת) die Bezeichnung גוזרים für saugende Kinder.",
+   "old": "גוזרים",
+   "new": "גורים",
+   "votes": {
+    "flash": "גורים",
+    "image": "גורים",
+    "text": "גוזרים"
+   }
+  },
+  {
+   "page": 2,
+   "line": "Die Vögel nennt der Talmud nicht מהלכי שתים und wohl mit Recht,",
+   "old": "שתים",
+   "new": "שתיים",
+   "votes": {
+    "flash": "שתיים",
+    "image": "שתיים",
+    "text": "שתים"
+   }
+  },
+  {
+   "page": 5,
+   "line": "רמש על הארץ sind Helminthen und die aus Verwesung fremder Sub-",
+   "old": "רמש",
+   "new": "רומש",
+   "votes": {
+    "flash": "רומש",
+    "image": "רומש",
+    "text": "רומש"
+   }
+  },
+  {
+   "page": 5,
+   "line": "des“ (Nidda 21, a), הולע (Aboth 3, 1) und רמה (ibid.); über ריחשא",
+   "old": "הולע",
+   "new": "תולע",
+   "votes": {
+    "flash": "תולע",
+    "image": "הולע",
+    "text": "תולע"
+   }
+  },
+  {
+   "page": 5,
+   "line": "Im jerusalem. Talm. bezeichnet דגה jedoch nur die kleine Fischart כולכיד,",
+   "old": "כולכיד",
+   "new": "כולכית",
+   "votes": {
+    "flash": "כולכית",
+    "image": "כולכיד",
+    "text": "כולכית"
+   }
+  },
+  {
+   "page": 6,
+   "line": "existiren. Gedachter Piut gehört dem deutschen Ritus (מנהג אשכנזי) an, und folgt",
+   "old": "אשכנזי",
+   "new": "אשכנז",
+   "votes": {
+    "flash": "אשכנז",
+    "image": "אשכנזי",
+    "text": "אשכנז"
+   }
+  },
+  {
+   "page": 9,
+   "line": "richtigungen bedarf. Sie lautet: כל המוליד מניק וכל חמטיל בצים",
+   "old": "חמטיל",
+   "new": "המטיל",
+   "votes": {
+    "flash": "המטיל",
+    "image": "חמטיל",
+    "text": "המטיל"
+   }
+  },
+  {
+   "page": 18,
+   "line": "zu Mussaph des Neujahrsfestes giebt der Pajtan (s. v. ואתה אוין קול) ein ana-",
+   "old": "אוין",
+   "new": "אוזן",
+   "votes": {
+    "flash": "אוזן",
+    "image": "ואתה אוזן",
+    "text": "אוזן"
+   }
+  },
+  {
+   "page": 18,
+   "line": "s. v. שדרא). — Die Wirbelsäule des Fisches heißt neben שדרא auch שיזרתא,",
+   "old": "שיזרתא שיזרתא",
+   "new": "שיורתא שיורתא",
+   "votes": {
+    "flash": "שיורתא שיורתא",
+    "image": "שיורתא שיורתא",
+    "text": "שיזרתא שיזרתא"
+   }
+  },
+  {
+   "page": 21,
+   "line": "(Tos. B. batra 19, b. s. v. כחיבנא). — Die Mäuse riechen die Ex-",
+   "old": "כחיבנא",
+   "new": "כהיבנא",
+   "votes": {
+    "flash": "כהיבנא",
+    "image": "כהיבנא",
+    "text": "כחיבנא"
+   }
+  },
+  {
+   "page": 23,
+   "line": "(Exod. 11, 7), das Zwitschern der Vögel: צפצוף (Jes. 10, 14),",
+   "old": "צפצוף",
+   "new": "צפצף",
+   "votes": {
+    "flash": "צפצף",
+    "image": "צפצוף",
+    "text": "צפצף"
+   }
+  },
+  {
+   "page": 24,
+   "line": "Gans), קורקור (§. 205, Rabe), גועא (§. 284, Frosch), دَجَاجَةْ (Henne, deren",
+   "old": "גועא",
+   "new": "נעגועא",
+   "votes": {
+    "flash": "נעגועא",
+    "image": "געגעא",
+    "text": "נעגועא"
+   }
+  },
+  {
+   "page": 27,
+   "line": "allerersten Jugend עגל הרך, dann עגל, später עגלת בקר, עגלא תילתא",
+   "old": "תילתא",
+   "new": "הילתא",
+   "votes": {
+    "flash": "הילתא",
+    "image": "הילתא",
+    "text": "תילתא"
+   }
+  },
+  {
+   "page": 30,
+   "line": "Ohren. Gewöhnlich אונים, aber auch aram. אודני (Sanhedrin",
+   "old": "אונים",
+   "new": "אזנים",
+   "votes": {
+    "flash": "אזנים",
+    "image": "אונים",
+    "text": "אזנים"
+   }
+  },
+  {
+   "page": 32,
+   "line": "(M. Katan 18, a), זובן (Bechoroth 39, b) und זכרות (ibid. 8, a*). —",
+   "old": "זובן זכרות",
+   "new": "זנוב זכרותא",
+   "votes": {
+    "flash": "זנוב זכרותא",
+    "image": "זובן זכרות",
+    "text": "זנוב זכרותא"
+   }
+  },
+  {
+   "page": 33,
+   "line": "ginität heißt das Weib: בתולה**), nach demselben בעילה, und die",
+   "old": "בעילה",
+   "new": "בעולה",
+   "votes": {
+    "flash": "בעולה",
+    "image": "בעילה",
+    "text": "בעולה"
+   }
+  },
+  {
+   "page": 33,
+   "line": "Füße. Nur der Mensch heißt: מהלך שתים (§. 2), die vier-",
+   "old": "שתים",
+   "new": "שתיים",
+   "votes": {
+    "flash": "שתיים",
+    "image": "שתיים",
+    "text": "שתים"
+   }
+  },
+  {
+   "page": 35,
+   "line": "heißt: כרם החיצון, oder מפרעתה (Chulin 50, b); letztere Benennung",
+   "old": "כרם",
+   "new": "כרס",
+   "votes": {
+    "flash": "כרס",
+    "image": "כרם",
+    "text": "כרס"
+   }
+  },
+  {
+   "page": 35,
+   "line": "er aufgeschnitten wird, der Pansen (כרם הפנימי, §. 64) sogleich hinaus-",
+   "old": "כרם",
+   "new": "כרס",
+   "votes": {
+    "flash": "כרס",
+    "image": "כרם",
+    "text": "כרס"
+   }
+  },
+  {
+   "page": 35,
+   "line": "dringt (ibid.). — Der Nabel heißt: פי הכרם und טיבור (Nidda 13, b).",
+   "old": "הכרם",
+   "new": "הכרס",
+   "votes": {
+    "flash": "הכרס",
+    "image": "הכרם",
+    "text": "הכרס"
+   }
+  },
+  {
+   "page": 37,
+   "line": "innerhalb nach dem Herzen zu gelegen, וורדא, wegen ihrer platten",
+   "old": "וורדא כים",
+   "new": "ורדא כיס",
+   "votes": {
+    "flash": "ורדא כיס",
+    "image": "ורדא",
+    "text": "ורדא כיס"
+   }
+  },
+  {
+   "page": 37,
+   "line": "(כים של וורדא) eingeschlossen wird; wegen seiner Kleinheit heißt dieser",
+   "old": "וורדא",
+   "new": "ורדא",
+   "votes": {
+    "flash": "ורדא",
+    "image": "ורדא",
+    "text": "וורדא"
+   }
+  },
+  {
+   "page": 37,
+   "line": "עליונה של שמאל, die ihr folgende: אונה יורה כחץ „pfeilähnlich ge-",
+   "old": "כחץ",
+   "new": "כהץ",
+   "votes": {
+    "flash": "כהץ",
+    "image": "כהץ",
+    "text": "כחץ"
+   }
+  },
+  {
+   "page": 37,
+   "line": "den וושט, von diesem in den אוסטומכא, von hier aus in den המסס,",
+   "old": "וושט",
+   "new": "ושט",
+   "votes": {
+    "flash": "ושט",
+    "image": "ושט",
+    "text": "ושט"
+   }
+  },
+  {
+   "page": 37,
+   "line": "setzt werden: וושט, Speiseröhre; איסטומכא (Στόμαχος) erster",
+   "old": "וושט",
+   "new": "ושט",
+   "votes": {
+    "flash": "ושט",
+    "image": "וושט",
+    "text": "ושט"
+   }
+  },
+  {
+   "page": 38,
+   "line": "כרוכת קטינא, der dünne Darm, alsdann כרוכת עוביא der Zwölffinger-",
+   "old": "כרוכת",
+   "new": "כרוכא",
+   "votes": {
+    "flash": "כרוכא",
+    "image": "כרוכת",
+    "text": "כרוכא"
+   }
+  },
+  {
+   "page": 38,
+   "line": "כרוכת קטינא, der dünne Darm, alsdann כרוכת עוביא der Zwölffinger-",
+   "old": "כרוכת",
+   "new": "כרוכא",
+   "votes": {
+    "flash": "כרוכא",
+    "image": "כרוכת",
+    "text": "כרוכא"
+   }
+  },
+  {
+   "page": 39,
+   "line": "Die Speise geht aus dem פומא in den וושט*) von hier in den המסס",
+   "old": "וושט",
+   "new": "ושט",
+   "votes": {
+    "flash": "ושט",
+    "image": "וושט",
+    "text": "ושט"
+   }
+  },
+  {
+   "page": 39,
+   "line": "(in der ersten Stelle איסטומכא), von hier in den קכה (i. d. e. S.",
+   "old": "קכה",
+   "new": "קבה",
+   "votes": {
+    "flash": "קבה",
+    "image": "קבה",
+    "text": "קבה"
+   }
+  },
+  {
+   "page": 39,
+   "line": "von hier in die בנת מעיא (i. d. e. S. כרם), von hier in den כרוכא עביא",
+   "old": "כרם",
+   "new": "כרס",
+   "votes": {
+    "flash": "כרס",
+    "image": "כרס",
+    "text": "כרס"
+   }
+  },
+  {
+   "page": 39,
+   "line": "dritten Magen verschiedentlich benannt, und zwar כרם, סניא דיבי,",
+   "old": "כרם",
+   "new": "כרס",
+   "votes": {
+    "flash": "כרס",
+    "image": "כרם",
+    "text": "כרס"
+   }
+  },
+  {
+   "page": 39,
+   "line": "Beweis liefert Raschi mit seinen eigenen Worten, indem er sagt: איסטומכא אני",
+   "old": "איסטומכא",
+   "new": "איכטומכא",
+   "votes": {
+    "flash": "איכטומכא",
+    "image": "איכטומכא",
+    "text": "איסטומכא"
+   }
+  },
+  {
+   "page": 39,
+   "line": "שמעתי איסתומכא בלע\"ז ואינו יודע מהו; er kannte daher nicht die Bedeutung",
+   "old": "איסתומכא",
+   "new": "איסטומכא",
+   "votes": {
+    "flash": "איסטומכא",
+    "image": "איסתומכא",
+    "text": "איסטומכא"
+   }
+  },
+  {
+   "page": 40,
+   "line": "(וושט) hat bei seinem Beginn, d. i., bei seinem Anfang unmittelbar",
+   "old": "וושט",
+   "new": "ושט",
+   "votes": {
+    "flash": "ושט",
+    "image": "ושט",
+    "text": "ושט"
+   }
+  },
+  {
+   "page": 43,
+   "line": "Ueber das Knöchelchen ערקום s. Chulin 76, a.",
+   "old": "ערקום",
+   "new": "ערקוב",
+   "votes": {
+    "flash": "ערקוב",
+    "image": "ערקום",
+    "text": "ערקוב"
+   }
+  },
+  {
+   "page": 45,
+   "line": "Federn bedeckt, diese heißen גידפי (Raschi Chulin 46, b: פלומא, Plume)",
+   "old": "גידפי",
+   "new": "גדפי",
+   "votes": {
+    "flash": "גדפי",
+    "image": "גידפי",
+    "text": "גדפי"
+   }
+  },
+  {
+   "page": 46,
+   "line": "den viele nach ihrer Farbe benannt, so heißt der Flamingo מורומא",
+   "old": "מורומא",
+   "new": "מורזמא",
+   "votes": {
+    "flash": "מורזמא",
+    "image": "מורזמא",
+    "text": "מורומא"
+   }
+  },
+  {
+   "page": 50,
+   "line": "עכס (transponirt von כעס, ibid.), ferner ויהורא (A. Sara 30, b) und",
+   "old": "ויהורא",
+   "new": "זוהורא",
+   "votes": {
+    "flash": "זוהורא",
+    "image": "זיהורא",
+    "text": "זוהורא"
+   }
+  },
+  {
+   "page": 50,
+   "line": "mud (Chulin 52, b) ויהורא heißt**). Die Wunde entzündet sich,",
+   "old": "ויהורא",
+   "new": "זיהורא",
+   "votes": {
+    "flash": "זיהורא",
+    "image": "זיהורא",
+    "text": "זיהורא"
+   }
+  },
+  {
+   "page": 51,
+   "line": "9, 2. 4), so werden wir unter dem talm. ויהורא jene eiterige Flüssigkeit zu ver-",
+   "old": "ויהורא ויהורא ארס",
+   "new": "זיהורא זיהורא ארם",
+   "votes": {
+    "flash": "זיהורא זיהורא ארם",
+    "image": "זיהורא",
+    "text": "זיהורא זיהורא ארם"
+   }
+  },
+  {
+   "page": 51,
+   "line": "des Talmuds sind daher, wenigstens was die ויהורא betrifft, ungegründet.",
+   "old": "ויהורא",
+   "new": "זיהורא",
+   "votes": {
+    "flash": "זיהורא",
+    "image": "זיהורא",
+    "text": "זיהורא"
+   }
+  },
+  {
+   "page": 54,
+   "line": "temporäre זיעה עוברות, der perpetuelle: זיעה שאינו עוברות (Ketuboth",
+   "old": "עוברות",
+   "new": "עוברת",
+   "votes": {
+    "flash": "עוברת",
+    "image": "עוברות",
+    "text": "עוברת"
+   }
+  },
+  {
+   "page": 54,
+   "line": "rend מוריים (Muria) das von eingesalzenen Fischen entstehende Fett",
+   "old": "מוריים",
+   "new": "מורייס",
+   "votes": {
+    "flash": "מורייס",
+    "image": "מוריים",
+    "text": "מורייס"
+   }
+  },
+  {
+   "page": 55,
+   "line": "Feuchtigkeit der Viehdärme heißt: שירקי רמעי (Chulin 50, a). — Das",
+   "old": "רמעי",
+   "new": "דמעי",
+   "votes": {
+    "flash": "דמעי",
+    "image": "דמעי",
+    "text": "דמעי"
+   }
+  },
+  {
+   "page": 61,
+   "line": "Fangmittel der Thiere. Der Vogelsteller heißt: רישבא (Sab-",
+   "old": "רישבא צר",
+   "new": "רישכא צד",
+   "votes": {
+    "flash": "רישכא צד",
+    "image": "רישבא",
+    "text": "רישכא צד"
+   }
+  },
+  {
+   "page": 61,
+   "line": "(Tanit 22, a). — Der Vogelwärter: מרם (Rabba Ester fol. 123, b).",
+   "old": "מרם",
+   "new": "מרס",
+   "votes": {
+    "flash": "מרס",
+    "image": "מרס",
+    "text": "מרס"
+   }
+  },
+  {
+   "page": 61,
+   "line": "Netz (רשת, Kelim 23, 5 und פרסתק, Chulin 141, b), das Garn (מכמור,",
+   "old": "פרסתק",
+   "new": "פרסחק",
+   "votes": {
+    "flash": "פרסחק",
+    "image": "פרסחק",
+    "text": "פרסתק"
+   }
+  }
+ ]
+}

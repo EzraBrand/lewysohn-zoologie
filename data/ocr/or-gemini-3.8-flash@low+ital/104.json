@@ -1,0 +1,201 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "104 Die Fledermaus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "104"
+    },
+    {
+     "lang": "lat",
+     "text": " "
+    },
+    {
+     "lang": "deu",
+     "text": "Die Fledermaus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "sie in der Nähe des Kopfes noch ein anderes das Auge ersetzendes\nOrgan haben müsse. Voigt (l. c. 1, S. 336) erklärt dies durch die\nerhöhte Entwickelung des Gefühlssinns, wie manche empfindliche Men-\nschen bei geschlossenen Augen die Annäherung metallischer Körper wahr-\nnehmen. — Jedenfalls werden sie vom Tageslicht afficirt und leben\ndaher während des Tages an dunkeln, versteckten Stellen. — Chulin\n134, b wird gesagt, daß der Eigenthümer eines Feldes an Orten,\nin welchen keine Armen vorhanden sind, nicht verpflichtet ist, die\nEcken seines Feldes unabgemäht zu lassen, da er wohl den Armen,\nnicht aber den Raben und den עטלפים gegenüber dies zu thun ver-\npflichtet ist. Hier werden Raben und Fledermäuse als die generellen\nBezeichnungen für Nacht- und Tagvögel genommen, obgleich Beide\nnicht von Cerealien leben. — Auffallend ist die falsche Angabe des\nTalmuds, daß die Fledermäuse Eier legen und dennoch die Jungen\nan den Brüsten säugen (Bechoroth 7, b). Ausdrücklich sagt Plinius\n(h. n. 10, 61, 91): „Unter den Geflügelten gebärt die Fledermaus\nallein ein lebendiges Junge“ *), und an einer andern Stelle (ibid.\n11, 39, 95): „Von den Eierlegenden hat keine weder Brüste noch\nMilch, sondern nur die Lebendiggebärenden, von den Geflügelten allein\ndie Fledermaus“ **). Plinius nennt an beiden Stellen und öfter die\nFledermaus bloß ein Animal volucre (fliegendes Thier), während der\nTalmud, durch den Umstand, daß עטלף in der Schrift auch unter\nden Vögeln gezählt wird, geleitet, die Fledermaus geradezu als Vo-\ngel und demnach auch als eierlegend ansieht. — Sinnig sagt Luzzatto\n(zu Jes. 2, 20): „Die Fledermaus ist lebendiggebärend und\ngehört nicht zu den Vögeln; das Volk irrt sich jedoch hierin und\nzählt sie zu den Vögeln, weshalb es die Thora für nöthig hielt,\nעטלף am Ende der aufgezählten Vögel zu erwähnen.“ — Es fragt\nsich nur, wie הנשמת, das ebenfalls eine Fledermausart bedeutet und\ndennoch die 14. Stelle unter den Vögeln einnimmt, zu erklären ist?\nUeber dieses הנשמת sagt der Talmud (Chulin 63, a): באות שבעופות\nקיפוף „Das באות (d. i., הנשמה) unter den Vögeln ist קיפוף.“ —\nDieses letztere Wort erklärt Raschi durch: ציאיט, Chouette, Kauz,\noder durch Fledermaus; allein die erstere Erklärung ist falsch, da\ndie Eule anders heißt (s. Art. Eule und Ohreneule) und Raschi",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "sie in der Nähe des Kopfes noch ein anderes das Auge ersetzendes\nOrgan haben müsse. Voigt ("
+    },
+    {
+     "lang": "lat",
+     "text": "l. c. 1, S. 336"
+    },
+    {
+     "lang": "deu",
+     "text": ") erklärt dies durch die\nerhöhte Entwickelung des Gefühlssinns, wie manche empfindliche Men-\nschen bei geschlossenen Augen die Annäherung metallischer Körper wahr-\nnehmen. — Jedenfalls werden sie vom Tageslicht afficirt und leben\ndaher während des Tages an dunkeln, versteckten Stellen. — Chulin\n134, b wird gesagt, daß der Eigenthümer eines Feldes an Orten,\nin welchen keine Armen vorhanden sind, nicht verpflichtet ist, die\nEcken seines Feldes unabgemäht zu lassen, da er wohl den Armen,\nnicht aber den Raben und den "
+    },
+    {
+     "lang": "heb",
+     "text": "עטלפים"
+    },
+    {
+     "lang": "deu",
+     "text": " gegenüber dies zu thun ver-\npflichtet ist. Hier werden Raben und Fledermäuse als die generellen\nBezeichnungen für Nacht- und Tagvögel genommen, obgleich Beide\nnicht von Cerealien leben. — Auffallend ist die falsche Angabe des\nTalmuds, daß die Fledermäuse Eier legen und dennoch die Jungen\nan den Brüsten säugen (Bechoroth 7, b). Ausdrücklich sagt Plinius\n("
+    },
+    {
+     "lang": "lat",
+     "text": "h. n. 10, 61, 91"
+    },
+    {
+     "lang": "deu",
+     "text": "): „Unter den Geflügelten gebärt die Fledermaus\nallein ein lebendiges Junge“ *), und an einer andern Stelle ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid.\n11, 39, 95"
+    },
+    {
+     "lang": "deu",
+     "text": "): „Von den Eierlegenden hat keine weder Brüste noch\nMilch, sondern nur die Lebendiggebärenden, von den Geflügelten allein\ndie Fledermaus“ **). Plinius nennt an beiden Stellen und öfter die\nFledermaus bloß ein "
+    },
+    {
+     "lang": "lat",
+     "text": "Animal volucre"
+    },
+    {
+     "lang": "deu",
+     "text": " (fliegendes Thier), während der\nTalmud, durch den Umstand, daß "
+    },
+    {
+     "lang": "heb",
+     "text": "עטלף"
+    },
+    {
+     "lang": "deu",
+     "text": " in der Schrift auch unter\nden Vögeln gezählt wird, geleitet, die Fledermaus geradezu als Vo-\ngel und demnach auch als eierlegend ansieht. — Sinnig sagt Luzzatto\n(zu Jes. 2, 20): „Die Fledermaus ist lebendiggebärend und\ngehört nicht zu den Vögeln; das Volk irrt sich jedoch hierin und\nzählt sie zu den Vögeln, weshalb es die Thora für nöthig hielt,\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עטלף"
+    },
+    {
+     "lang": "deu",
+     "text": " am Ende der aufgezählten Vögel zu erwähnen.“ — Es fragt\nsich nur, wie "
+    },
+    {
+     "lang": "heb",
+     "text": "הנשמת"
+    },
+    {
+     "lang": "deu",
+     "text": ", das ebenfalls eine Fledermausart bedeutet und\ndennoch die 14. Stelle unter den Vögeln einnimmt, zu erklären ist?\nUeber dieses "
+    },
+    {
+     "lang": "heb",
+     "text": "הנשמת"
+    },
+    {
+     "lang": "deu",
+     "text": " sagt der Talmud (Chulin 63, a): "
+    },
+    {
+     "lang": "arc",
+     "text": "באות שבעופות\nקיפוף"
+    },
+    {
+     "lang": "deu",
+     "text": " „Das "
+    },
+    {
+     "lang": "heb",
+     "text": "באות"
+    },
+    {
+     "lang": "deu",
+     "text": " (d. i., "
+    },
+    {
+     "lang": "heb",
+     "text": "הנשמה"
+    },
+    {
+     "lang": "deu",
+     "text": ") unter den Vögeln ist "
+    },
+    {
+     "lang": "arc",
+     "text": "קיפוף"
+    },
+    {
+     "lang": "deu",
+     "text": ".“ —\nDieses letztere Wort erklärt Raschi durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "ציאיט"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Chouette"
+    },
+    {
+     "lang": "deu",
+     "text": ", Kauz,\noder durch Fledermaus; allein die erstere Erklärung ist falsch, da\ndie Eule anders heißt (s. Art. Eule und Ohreneule) und Raschi"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Volucrum animal parit vespertilio tantum.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Volucrum animal parit vespertilio tantum."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Ova gignentium nulli (sunt mammae) nec lac, nisi animal parienti,\nvolucrum vespertilioni tantum.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Ova gignentium nulli (sunt mammae) nec lac, nisi animal parienti,\nvolucrum vespertilioni tantum."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    3090
+   ],
+   [
+    3308,
+    2146
+   ]
+  ],
+  "input_tokens": 3319,
+  "output_tokens": 1365,
+  "cost_usd": 0.0076,
+  "seconds": 13.4
+ }
+}

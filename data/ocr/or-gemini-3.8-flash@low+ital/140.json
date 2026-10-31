@@ -1,0 +1,317 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "140\t\tDer Esel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "140\t\tDer Esel."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 165.\nDer Esel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 165.\nDer Esel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "חמור (Kilajim 1, 6), חמרא (Sabbat 53, a), fem. חמרתא (Be-\nrachoth 58, a). Die Aviten (oder Gaviten) nannten den Esel תרתק\n(Sanhedrin 63, b). — Eine junge Eselin: בת חמרא (B. batra 45, a),\nein junger Esel: עילא בר חמרא (Sabbat 110, b; עיל = עייר*); über\ndie häufige Verwechselung von ל und ר s. meine Aphorismen im L.\nBl. des Orients 1849, S. 302), sonst auch בר חמרא (Berachoth 56,\na), סיח**) (B. batra 78, b) und רמך (Tanit 23, a); endlich sollen\ndie Araber (nach Aruch, angef. bei Simson zu Para 12, 9) den Esel\nקנהל nennen. Maimuni (ibid.) hält das Wort jedoch als Bezeichnung\neiner Art von Korb, den man dem Lastthier auflegt, und wofür das\ngr. Κανθήλιος zu sprechen scheint; indessen sind die Κανθήλια\nPacksättel, die man dem Κανθήλιος, dem großen Lastesel auflegt,\nso daß beide Ansichten ihre Erklärung finden. — Die noch sehr jun-\ngen Esel heißen: עילי וזטרא (Sabbat 155, a). Bemerkt sei hier schließ-\nlich, daß nach der Massora das biblische חמור vier Mal ohne ו ge-\nschrieben wurde (Berachoth 56, a). Für חמור findet sich auch חמורחא\n(Rabba Bereschit fol. 84, c).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "חמור"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kilajim 1, 6), "
+    },
+    {
+     "lang": "heb",
+     "text": "חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 53, a), fem. "
+    },
+    {
+     "lang": "heb",
+     "text": "חמרתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Be-\nrachoth 58, a). Die Aviten (oder Gaviten) nannten den Esel "
+    },
+    {
+     "lang": "heb",
+     "text": "תרתק"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Sanhedrin 63, b). — Eine junge Eselin: "
+    },
+    {
+     "lang": "heb",
+     "text": "בת חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. batra 45, a),\nein junger Esel: "
+    },
+    {
+     "lang": "heb",
+     "text": "עילא בר חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 110, b; "
+    },
+    {
+     "lang": "heb",
+     "text": "עיל = עייר"
+    },
+    {
+     "lang": "deu",
+     "text": "*); über\ndie häufige Verwechselung von "
+    },
+    {
+     "lang": "heb",
+     "text": "ל"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "ר"
+    },
+    {
+     "lang": "deu",
+     "text": " s. meine Aphorismen im L.\nBl. des Orients 1849, S. 302), sonst auch "
+    },
+    {
+     "lang": "heb",
+     "text": "בר חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Berachoth 56,\na), "
+    },
+    {
+     "lang": "heb",
+     "text": "סיח"
+    },
+    {
+     "lang": "deu",
+     "text": "**) (B. batra 78, b) und "
+    },
+    {
+     "lang": "heb",
+     "text": "רמך"
+    },
+    {
+     "lang": "deu",
+     "text": " (Tanit 23, a); endlich sollen\ndie Araber (nach Aruch, angef. bei Simson zu Para 12, 9) den Esel\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קנהל"
+    },
+    {
+     "lang": "deu",
+     "text": " nennen. Maimuni (ibid.) hält das Wort jedoch als Bezeichnung\neiner Art von Korb, den man dem Lastthier auflegt, und wofür das\ngr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Κανθήλιος"
+    },
+    {
+     "lang": "deu",
+     "text": " zu sprechen scheint; indessen sind die "
+    },
+    {
+     "lang": "grc",
+     "text": "Κανθήλια"
+    },
+    {
+     "lang": "deu",
+     "text": "\nPacksättel, die man dem "
+    },
+    {
+     "lang": "grc",
+     "text": "Κανθήλιος"
+    },
+    {
+     "lang": "deu",
+     "text": ", dem großen Lastesel auflegt,\nso daß beide Ansichten ihre Erklärung finden. — Die noch sehr jun-\ngen Esel heißen: "
+    },
+    {
+     "lang": "heb",
+     "text": "עילי וזטרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 155, a). Bemerkt sei hier schließ-\nlich, daß nach der Massora das biblische "
+    },
+    {
+     "lang": "heb",
+     "text": "חמור"
+    },
+    {
+     "lang": "deu",
+     "text": " vier Mal ohne "
+    },
+    {
+     "lang": "heb",
+     "text": "ו"
+    },
+    {
+     "lang": "deu",
+     "text": " ge-\nschrieben wurde (Berachoth 56, a). Für "
+    },
+    {
+     "lang": "heb",
+     "text": "חמור"
+    },
+    {
+     "lang": "deu",
+     "text": " findet sich auch "
+    },
+    {
+     "lang": "heb",
+     "text": "חמורחא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Rabba Bereschit fol. 84, c)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der zahme Esel hat lange Ohren (Kiduschin 33, a); er wird\naußerdem dadurch vom Rinde unterschieden, daß er nicht so breitbäu-\nchig, so breithufig, so großköpfig und so langschwänzig als dieser ist\n(Chulin 60, a). Sein Bauch ist in der Regel weiß (Gittin 45, a).\nMit dem Hufe kann er eine beträchtliche Vertiefung in den Boden\naushöhlen (Mikwaoth 5, 6) und derselbe wird wie bei dem Pferde\nöfter beschnitten, da er bei dem Mahlen, wozu man den Esel benußte,\nleicht verletzt wird. Der Esel ging nämlich im Kreise herum, den\nMühlstein zu drehen (M. Katan 10, b). Er kann auf den Vorder-\nfüßen, nicht aber wie das Pferd auf den Hinterfüßen, einige Zeit\nsich erhalten (Sabim 4, 7; die entgegengesetzte, aber unrichtige Angabe",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der zahme Esel hat lange Ohren (Kiduschin 33, a); er wird\naußerdem dadurch vom Rinde unterschieden, daß er nicht so breitbäu-\nchig, so breithufig, so großköpfig und so langschwänzig als dieser ist\n(Chulin 60, a). Sein Bauch ist in der Regel weiß (Gittin 45, a).\nMit dem Hufe kann er eine beträchtliche Vertiefung in den Boden\naushöhlen (Mikwaoth 5, 6) und derselbe wird wie bei dem Pferde\nöfter beschnitten, da er bei dem Mahlen, wozu man den Esel benußte,\nleicht verletzt wird. Der Esel ging nämlich im Kreise herum, den\nMühlstein zu drehen (M. Katan 10, b). Er kann auf den Vorder-\nfüßen, nicht aber wie das Pferd auf den Hinterfüßen, einige Zeit\nsich erhalten (Sabim 4, 7; die entgegengesetzte, aber unrichtige Angabe"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "עיר ist dem gr. Ὀρεύς und אתון dem lat. Asina entsprechend.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "עיר"
+    },
+    {
+     "lang": "deu",
+     "text": " ist dem gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Ὀρεύς"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "אתון"
+    },
+    {
+     "lang": "deu",
+     "text": " dem lat. Asina entsprechend."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "סייח übersetzt Raschi (Rosch ha-Schana 3, a) durch: עייר בן סוס\n„Pferdefüllen“, richtiger Maimuni in der Mischna (Sabbat 18, 2) durch: עייר\nבן אתונות „Eselsfüllen“, ebenso Bartenoro (B. batra 5, 3) und Heller\n(B. mez. 5, 4). — B. batra 78, b wird סיח durch מהלך אחר שיחה erklärt,\nd. i., wie Samuel b. Meier hinzufügt, der junge Esel geht durch Zurufen des\nTreibers, der alte Esel bedarf der Peitsche.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "סייח"
+    },
+    {
+     "lang": "deu",
+     "text": " übersetzt Raschi (Rosch ha-Schana 3, a) durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "עייר בן סוס"
+    },
+    {
+     "lang": "deu",
+     "text": "\n„Pferdefüllen“, richtiger Maimuni in der Mischna (Sabbat 18, 2) durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "עייר\nבן אתונות"
+    },
+    {
+     "lang": "deu",
+     "text": " „Eselsfüllen“, ebenso Bartenoro (B. batra 5, 3) und Heller\n(B. mez. 5, 4). — B. batra 78, b wird "
+    },
+    {
+     "lang": "heb",
+     "text": "סיח"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "heb",
+     "text": "מהלך אחר שיחה"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt,\nd. i., wie Samuel b. Meier hinzufügt, der junge Esel geht durch Zurufen des\nTreibers, der alte Esel bedarf der Peitsche."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2665
+   ],
+   [
+    3308,
+    2527
+   ]
+  ],
+  "input_tokens": 3377,
+  "output_tokens": 2363,
+  "cost_usd": 0.0114,
+  "seconds": 16.2
+ }
+}
