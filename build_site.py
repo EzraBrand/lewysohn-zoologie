@@ -299,7 +299,7 @@ This is a test reading edition: machine transcription and English translation of
 made to see what current tools can do. The companion project for plants is
 <a href="https://ezrabrand.github.io/low-flora/">Löw, <i>Die Flora der Juden</i></a>.</p>
 <ul class="docs">{items}</ul>
-<h2>What this is, and what it is not</h2>
+<h2>What this is</h2>
 <ul class="plain">
 <li>The transcription and the translation are machine output (Claude Opus 5.5). Two pages
 (pp. 68 and 70) were checked by hand.</li>
