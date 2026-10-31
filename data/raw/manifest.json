@@ -1,0 +1,63 @@
+{
+  "work": "Lewysohn, Die Zoologie des Talmuds (1858)",
+  "record": "https://nbn-resolving.org/urn:nbn:de:hebis:30:1-113735",
+  "licence": "Public Domain Mark 1.0",
+  "record_id": 1043079,
+  "pages": [
+    {
+      "scan_index": 13,
+      "label": "[13]",
+      "printed_page": null,
+      "image_id": "1043095",
+      "width": 3308,
+      "height": 5315,
+      "kind": "toc",
+      "source_url": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/1043095/full/full/0/default.jpg",
+      "file": "raw/scan0013.jpg"
+    },
+    {
+      "scan_index": 82,
+      "label": "68",
+      "printed_page": "68",
+      "image_id": "1043164",
+      "width": 3308,
+      "height": 5315,
+      "kind": "entry",
+      "source_url": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/1043164/full/full/0/default.jpg",
+      "file": "raw/68.jpg"
+    },
+    {
+      "scan_index": 83,
+      "label": "69",
+      "printed_page": "69",
+      "image_id": "1043165",
+      "width": 3308,
+      "height": 5315,
+      "kind": "entry",
+      "source_url": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/1043165/full/full/0/default.jpg",
+      "file": "raw/69.jpg"
+    },
+    {
+      "scan_index": 84,
+      "label": "70",
+      "printed_page": "70",
+      "image_id": "1043166",
+      "width": 3308,
+      "height": 5315,
+      "kind": "entry",
+      "source_url": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/1043166/full/full/0/default.jpg",
+      "file": "raw/70.jpg"
+    },
+    {
+      "scan_index": 85,
+      "label": "71",
+      "printed_page": "71",
+      "image_id": "1043167",
+      "width": 3308,
+      "height": 5315,
+      "kind": "entry",
+      "source_url": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/1043167/full/full/0/default.jpg",
+      "file": "raw/71.jpg"
+    }
+  ]
+}

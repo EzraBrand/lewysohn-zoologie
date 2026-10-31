@@ -1,0 +1,53 @@
+{
+ "main": [
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "Contents.",
+   "page": "scan0013"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "First Part.",
+   "page": "scan0013"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "Page\nGeneral Zoology … 1",
+   "page": "scan0013"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "Second Part.",
+   "page": "scan0013"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "Special Zoology.\nFirst Class. Mammals … 64\nSecond Class. Birds … 159\nThird Class. Amphibians … 218\nFourth Class. Fishes … 243\nFifth Class. Molluscs … 279\nSixth Class. Insects … 285\nSeventh Class. Worms … 334\nEighth Class. Zoophytes … 342",
+   "page": "scan0013"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "Third Part.",
+   "page": "scan0013"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "Fabulous Animals … 350\nSupplement … 358\nAppendix … 368\nAdditions and Corrections … 376",
+   "page": "scan0013"
+  }
+ ],
+ "notes": [],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "rules": "v3",
+  "cost_usd": 0.0173
+ }
+}

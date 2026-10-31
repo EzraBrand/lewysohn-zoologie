@@ -1,0 +1,12 @@
+__pycache__/
+*.py[oc]
+.venv
+logs/
+# scans are not stored here (Frankfurt UB, Public Domain Mark); the manifest is
+data/raw/*.jpg
+data/raw/*.part
+data/preview/
+data/cache/
+data/ocr/_raw/
+data/gold/*.scan.jpg
+*.bak

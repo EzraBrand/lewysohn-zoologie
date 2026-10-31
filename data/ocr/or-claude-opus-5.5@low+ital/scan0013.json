@@ -1,0 +1,105 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Inhalt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Inhalt."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Erste Abtheilung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Erste Abtheilung."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Seite\nAllgemeine Zoologie . . . . . . . . . . . . . . . . . 1",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seite\nAllgemeine Zoologie . . . . . . . . . . . . . . . . . 1"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Zweite Abtheilung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zweite Abtheilung."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Specielle Zoologie.\nErste Klasse. Säugethiere . . . . . . . . . . . . 64\nZweite Klasse. Vögel. . . . . . . . . . . . . . . 159\nDritte Klasse. Amphibien . . . . . . . . . . . . . 218\nVierte Klasse. Fische . . . . . . . . . . . . . . 243\nFünfte Klasse. Weichthiere . . . . . . . . . . . . 279\nSechste Klasse. Insecten . . . . . . . . . . . . . 285\nSiebente Klasse. Würmer . . . . . . . . . . . . . 334\nAchte Klasse. Zoophyten . . . . . . . . . . . . . 342",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Specielle Zoologie.\nErste Klasse. Säugethiere . . . . . . . . . . . . 64\nZweite Klasse. Vögel. . . . . . . . . . . . . . . 159\nDritte Klasse. Amphibien . . . . . . . . . . . . . 218\nVierte Klasse. Fische . . . . . . . . . . . . . . 243\nFünfte Klasse. Weichthiere . . . . . . . . . . . . 279\nSechste Klasse. Insecten . . . . . . . . . . . . . 285\nSiebente Klasse. Würmer . . . . . . . . . . . . . 334\nAchte Klasse. Zoophyten . . . . . . . . . . . . . 342"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Dritte Abtheilung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dritte Abtheilung."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Fabelhafte Thiere . . . . . . . . . . . . . . . . 350\nNachtrag . . . . . . . . . . . . . . . . . . . 358\nAnhang. . . . . . . . . . . . . . . . . . . . 368\nZusätze und Verbesserungen . . . . . . . . . . . . 376",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fabelhafte Thiere . . . . . . . . . . . . . . . . 350\nNachtrag . . . . . . . . . . . . . . . . . . . 358\nAnhang. . . . . . . . . . . . . . . . . . . . 368\nZusätze und Verbesserungen . . . . . . . . . . . . 376"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    3460
+   ]
+  ],
+  "input_tokens": 6608,
+  "output_tokens": 680,
+  "cost_usd": 0.04,
+  "seconds": 13.1
+ }
+}

@@ -1,0 +1,13 @@
+[project]
+name = "lewysohn-zoologie"
+version = "0.1.0"
+license = "MIT"
+description = "OCR and English translation of Ludwig Lewysohn, Die Zoologie des Talmuds (1858)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.5.4",
+    "pillow>=13.0.0",
+    "rapidfuzz>=3.14.6",
+    "requests>=2.34.2",
+]
