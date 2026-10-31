@@ -12,9 +12,11 @@ text. The text is translated in chunks of whole paragraphs with translate.transl
 
 import argparse
 import difflib
+import hashlib
 import json
 import re
 import sys
+import time
 from pathlib import Path
 
 import abbrev as A
@@ -128,6 +130,8 @@ def page_blocks(page, source: str = SOURCE) -> list[dict]:
             blk["text"] = re.sub(rx, new, blk["text"])
     for old, new in FIXES.get(source, {}).get(page, []):
         hits = [b for b in ocr["blocks"] if old in b["text"]]
+        if not hits and any(new in b["text"] for b in ocr["blocks"]):
+            continue  # the voted Hebrew corrections (HEBFIX) made it already
         if len(hits) != 1:
             sys.exit(f"p. {page}: correction {old!r} found {len(hits)} times, not once")
         hits[0]["text"] = hits[0]["text"].replace(old, new)
@@ -196,7 +200,13 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
                     word, _, rest = text.partition(" ")
                     # "keep_hyphen": pages whose first word follows a real hyphen ("Auto-|da-fé's")
                     head = prev["text"] if page in cfg.get("keep_hyphen", []) else prev["text"][:-1]
-                    prev["text"] = f"{head}{word} [p. {page}] {rest}"
+                    # a footnote mark on the joined word belongs to the new page: put the page mark
+                    # before it ("stal-|lend*)" -> "stallend [p. 137]*)"), so the note is found
+                    m = re.match(r"(.*?)((?:\*{1,3}|†{1,2})\).*)$", word)
+                    if m:
+                        prev["text"] = f"{head}{m.group(1)} [p. {page}]{m.group(2)} {rest}"
+                    else:
+                        prev["text"] = f"{head}{word} [p. {page}] {rest}"
                 else:
                     prev["text"] += f" [p. {page}] {text}"
             else:
@@ -349,13 +359,33 @@ def main():
     en_main, en_notes, cost = [], [], 0.0
     for kind, blocks, target in (("text", main_blocks, en_main), ("notes", notes, en_notes)):
         for i, ch in enumerate(chunks(blocks), 1):
-            res = T.translate({"blocks": ch, "meta": {"entry": a.entry, "part": kind}}, a.model, a.effort, keys,
-                              extra=cfg.get("extra", T.CONTENTS if cfg.get("contents") else ""))
+            # each chunk is saved as soon as it is translated, keyed by its source text and the
+            # rules, so a run that stops (network error, credit limit) resumes where it stopped
+            src_key = hashlib.sha1(json.dumps([T.RULES_VERSION, a.model, a.effort, ch], ensure_ascii=False)
+                                   .encode("utf-8")).hexdigest()[:16]
+            cache = out / "chunks" / f"{kind}-{i:03d}-{src_key}.json"
+            if cache.exists():
+                res = json.loads(cache.read_text(encoding="utf-8"))
+                print(f"{kind} chunk {i}: done already", flush=True)
+            else:
+                for attempt in range(3):
+                    try:
+                        res = T.translate({"blocks": ch, "meta": {"entry": a.entry, "part": kind}}, a.model,
+                                          a.effort, keys,
+                                          extra=cfg.get("extra", T.CONTENTS if cfg.get("contents") else ""))
+                        break
+                    except Exception as e:  # network resets happen; the credit limit does not go away
+                        print(f"{kind} chunk {i}: attempt {attempt + 1} FAILED {type(e).__name__}: {e}", flush=True)
+                        if attempt == 2 or "credit" in str(e).lower() or "402" in str(e):
+                            sys.exit(f"stopped at {kind} chunk {i}; the chunks done so far are saved, run again to resume")
+                        time.sleep(20 * (attempt + 1))
+                cache.parent.mkdir(exist_ok=True)
+                cache.write_text(json.dumps(res, ensure_ascii=False), encoding="utf-8")
+                cost += res["meta"]["cost_usd"]
+                print(f"{kind} chunk {i}: {len(ch)} blocks, {res['meta']['seconds']} s, "
+                      f"${res['meta']['cost_usd']:.4f}", flush=True)
             for src, b in zip(ch, res["blocks"]):
                 target.append({**b, "page": src["page"]})
-            cost += res["meta"]["cost_usd"]
-            print(f"{kind} chunk {i}: {len(ch)} blocks, {res['meta']['seconds']} s, "
-                  f"${res['meta']['cost_usd']:.4f}", flush=True)
     meta = {"model": a.model, "effort": a.effort, "rules": T.RULES_VERSION, "cost_usd": round(cost, 4)}
     # the model's output, before the abbreviation step: --expand-only starts again from here
     (out / "en.raw.json").write_text(json.dumps({"main": en_main, "notes": en_notes, "meta": meta},
@@ -379,6 +409,11 @@ def finish(cfg: dict, out: Path) -> None:
     n = restore_page_marks(de["main"], en_main) + restore_page_marks(de["notes"], en_notes)
     if n:
         print(f"page marks restored in {n} block(s)")
+    # where the German has a page mark directly before a footnote mark ("stallend [p. 137]*)", see
+    # build()), put the English pair in the same order, so the note is linked to the right page
+    for d, e in zip(de["main"], en_main):
+        for pg, mark in re.findall(r"\[p\. ([^\]\s]+)\](\*{1,3}|†{1,2})\)", d["text"]):
+            e["text"] = re.sub(rf"{re.escape(mark)}\)\s*\[p\. {re.escape(pg)}\]", f"[p. {pg}]{mark})", e["text"])
     n = sync_hebrew(de["main"], en_main) + sync_hebrew(de["notes"], en_notes)
     if n:
         print(f"{n} Hebrew word(s) corrected in the English from the voted German")

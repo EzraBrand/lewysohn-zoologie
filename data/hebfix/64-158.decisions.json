@@ -1,0 +1,1226 @@
+{
+ "rule": "change where at least 2 of flash, image, text agree against the main OCR",
+ "items": [
+  {
+   "page": 64,
+   "line": "Kilajim 8, 5 wird gesagt, daß das Geschöpf ארני שרה (Simson",
+   "old": "ארני שרה",
+   "new": "אדני שדה",
+   "votes": {
+    "flash": "אדני שדה",
+    "image": null,
+    "text": "אדני שדה"
+   }
+  },
+  {
+   "page": 64,
+   "line": "liest: אבני שרה) zum Thiergeschlecht (§. 19) gehöre; R. Jose meinte,",
+   "old": "שרה",
+   "new": "שדה",
+   "votes": {
+    "flash": "שדה",
+    "image": null,
+    "text": "שדה"
+   }
+  },
+  {
+   "page": 64,
+   "line": "haften Auffassung; er sagt: ארני שרה ist entweder ein Thier, das dem",
+   "old": "ארני שרה ארני שרה הוצאות",
+   "new": "אדני שדה אדני שדה תוצאות",
+   "votes": {
+    "flash": "אדני שדה אדני שדה תוצאות",
+    "image": null,
+    "text": "אדני שדה אדני שדה תוצאות"
+   }
+  },
+  {
+   "page": 65,
+   "line": "die Erklärung des jerusalemitischen Talmuds, der ארני שרה durch",
+   "old": "ארני שרה",
+   "new": "אדני שדה",
+   "votes": {
+    "flash": "אדני שדה",
+    "image": null,
+    "text": "אדני שדה"
+   }
+  },
+  {
+   "page": 65,
+   "line": "des: Das Wort ארני heißt entweder Herr (von ארון, im St. const.",
+   "old": "ארני ארון ארני",
+   "new": "אדני אדון אדני",
+   "votes": {
+    "flash": "אדני אדון אדני",
+    "image": null,
+    "text": "אדני אדון אדני"
+   }
+  },
+  {
+   "page": 65,
+   "line": "אֲרֹנִי zu lesen), oder Mensch (wie Bochart meint, indem er נ mit מ",
+   "old": "ארני",
+   "new": "אדני",
+   "votes": {
+    "flash": "אדני",
+    "image": null,
+    "text": "אדני"
+   }
+  },
+  {
+   "page": 65,
+   "line": "אֲרֹנִי zu lesen), oder Mensch (wie Bochart meint, indem er נ mit מ",
+   "old": "מ מטמאוח",
+   "new": "ם מטמאות",
+   "votes": {
+    "flash": "ם מטמאות",
+    "image": null,
+    "text": "ם מטמאות"
+   }
+  },
+  {
+   "page": 66,
+   "line": "fen. — Was nun die zweite Leseart אבני שרה betrifft, so soll der Dich-",
+   "old": "שרה",
+   "new": "שדה",
+   "votes": {
+    "flash": "שדה",
+    "image": null,
+    "text": "שדה"
+   }
+  },
+  {
+   "page": 66,
+   "line": "den אבני שרה (Steinen des Feldes) wirst Du einen Bund und mit",
+   "old": "שרה",
+   "new": "שדה",
+   "votes": {
+    "flash": "שדה",
+    "image": null,
+    "text": "שדה"
+   }
+  },
+  {
+   "page": 66,
+   "line": "alsdann als Aleph prostheticum, wie in אצערה, אורוע u. a. m. an-",
+   "old": "אצערה אורוע",
+   "new": "אצעדה אזרוע",
+   "votes": {
+    "flash": "אצעדה אזרוע",
+    "image": null,
+    "text": "אצעדה אזרוע"
+   }
+  },
+  {
+   "page": 66,
+   "line": "Kerdon“ und derselbe (Idaim 1, 5): הקוף בערב קדר והוא אשר קוריו",
+   "old": "קוריו",
+   "new": "קורין",
+   "votes": {
+    "flash": "קורין",
+    "image": null,
+    "text": "קורין"
+   }
+  },
+  {
+   "page": 67,
+   "line": "קופרים (s. Art. Igel) für קופין; indessen mag vielleicht in unserer",
+   "old": "קופרים",
+   "new": "קופדים",
+   "votes": {
+    "flash": "קופדים",
+    "image": null,
+    "text": "קופדים"
+   }
+  },
+  {
+   "page": 69,
+   "line": "Sanhedrin 102, a heißt es: אין ארי דורם נוהם, wo das Wort דורם",
+   "old": "דורם",
+   "new": "דורס",
+   "votes": {
+    "flash": "דורס",
+    "image": null,
+    "text": "דורס"
+   }
+  },
+  {
+   "page": 69,
+   "line": "Sanhedrin 102, a heißt es: אין ארי דורם נוהם, wo das Wort דורם",
+   "old": "דורם",
+   "new": "דורס",
+   "votes": {
+    "flash": "דורס",
+    "image": null,
+    "text": "דורס"
+   }
+  },
+  {
+   "page": 70,
+   "line": "טגרים (Τίγρις) und umschrieben: אריא דבי עילאי „Löwe des",
+   "old": "טגרים",
+   "new": "טגריס",
+   "votes": {
+    "flash": "טגריס",
+    "image": null,
+    "text": "טגריס"
+   }
+  },
+  {
+   "page": 71,
+   "line": "benennt ihn, wie wir gesehen, auch der Talmud neben טגרים auch",
+   "old": "טגרים",
+   "new": "טגריס",
+   "votes": {
+    "flash": "טגריס",
+    "image": null,
+    "text": "טגריס"
+   }
+  },
+  {
+   "page": 72,
+   "line": "הבריה S. 68; s. §. 193 Anm.) durch: Tiger; dahingegen Raschi",
+   "old": "הבריה",
+   "new": "הברית",
+   "votes": {
+    "flash": "הברית",
+    "image": null,
+    "text": "הברית"
+   }
+  },
+  {
+   "page": 72,
+   "line": "derselbe für Tiger: טגרים (§. 115) und für Panther: ברדלס (§. 117)",
+   "old": "טגרים",
+   "new": "טגריס",
+   "votes": {
+    "flash": "טגריס",
+    "image": null,
+    "text": "טגריס"
+   }
+  },
+  {
+   "page": 74,
+   "line": "חחול (B. Kama 80, a), pl. חחולים (ibid.), שונרא und שינרא (Be-",
+   "old": "חחול חחולים",
+   "new": "חתול חתולים",
+   "votes": {
+    "flash": "חתול חתולים",
+    "image": null,
+    "text": "חתול חתולים"
+   }
+  },
+  {
+   "page": 76,
+   "line": "wähnte אפא דיכרא (männliche Hyäne) durch: הוא הצבוע ובלע\"ז פוטיש",
+   "old": "פוטיש",
+   "new": "פוטייש",
+   "votes": {
+    "flash": "פוטייש",
+    "image": "פוטייש",
+    "text": "פוטיש"
+   }
+  },
+  {
+   "page": 77,
+   "line": "שועל (Aboth 2, 10), חעלא (Joma 43, b), pl. שועלים (Sanhedrin",
+   "old": "חעלא",
+   "new": "תעלא",
+   "votes": {
+    "flash": "תעלא",
+    "image": null,
+    "text": "תעלא"
+   }
+  },
+  {
+   "page": 78,
+   "line": "das Sprüchwort: חעלא בעידניה סגיד ליה „Ist der Fuchs am Ruder,",
+   "old": "חעלא",
+   "new": "תעלא",
+   "votes": {
+    "flash": "תעלא",
+    "image": null,
+    "text": "תעלא"
+   }
+  },
+  {
+   "page": 81,
+   "line": "זאב (Bechoroth 8, a), דובא (Chulin 75, b) und לוקום (Λύκος,",
+   "old": "לוקום אקניתא",
+   "new": "לוקוס אקנקיחא",
+   "votes": {
+    "flash": "לוקוס אקנקיחא",
+    "image": null,
+    "text": "לוקוס אקנקיחא"
+   }
+  },
+  {
+   "page": 82,
+   "line": "Hunden §. 36. — Die heuchlerische Sanftmuth heißt: ענוה זאביה,",
+   "old": "זאביה",
+   "new": "זאבית",
+   "votes": {
+    "flash": "זאבית",
+    "image": null,
+    "text": "זאבית"
+   }
+  },
+  {
+   "page": 82,
+   "line": "גמוז liest Aruch: גמוין. Sogar das נ-initiale steht zuweilen für ו, so hält",
+   "old": "גמוין",
+   "new": "גמון",
+   "votes": {
+    "flash": "גמון",
+    "image": null,
+    "text": "גמון"
+   }
+  },
+  {
+   "page": 82,
+   "line": "גמוז liest Aruch: גמוין. Sogar das נ-initiale steht zuweilen für ו, so hält",
+   "old": "ו",
+   "new": "ז",
+   "votes": {
+    "flash": "ז",
+    "image": "ז",
+    "text": "ו"
+   }
+  },
+  {
+   "page": 86,
+   "line": "identificirt, was unsere Erklärung von למם unterstützt. Endlich soll",
+   "old": "למם",
+   "new": "למס",
+   "votes": {
+    "flash": "למס",
+    "image": null,
+    "text": "למס"
+   }
+  },
+  {
+   "page": 89,
+   "line": "Verhältniß zum Hund und dem Fuchse, wie der dort erwähnte כרד",
+   "old": "כרד",
+   "new": "פרד",
+   "votes": {
+    "flash": "פרד",
+    "image": null,
+    "text": "פרד"
+   }
+  },
+  {
+   "page": 89,
+   "line": "die Jagd mit Hunden קינוניא genannt wird. — Der Windhund",
+   "old": "קינוניא",
+   "new": "קינוגיא",
+   "votes": {
+    "flash": "קינוגיא",
+    "image": null,
+    "text": "קינוגיא"
+   }
+  },
+  {
+   "page": 89,
+   "line": "4 zu verstehen, wenn es dort heißt: מעשה בכלבא אחת כופריה שעלהה",
+   "old": "שעלהה",
+   "new": "שעלתה",
+   "votes": {
+    "flash": "שעלתה",
+    "image": null,
+    "text": "שעלתה"
+   }
+  },
+  {
+   "page": 90,
+   "line": "steht in unserer Stelle (Schekalim 50, c) דייתא (Geier) für נמיה.",
+   "old": "דייתא",
+   "new": "דייחא",
+   "votes": {
+    "flash": "דייחא",
+    "image": "דייחא",
+    "text": "דייתא"
+   }
+  },
+  {
+   "page": 94,
+   "line": "80, a: מגרלין כלבים כופרין וחתולים, וקיפין וחולדות סנאים מפני שעשויין",
+   "old": "מגרלין",
+   "new": "מגדלין",
+   "votes": {
+    "flash": "מגדלין",
+    "image": null,
+    "text": "מגדלין"
+   }
+  },
+  {
+   "page": 94,
+   "line": "80, a: מגרלין כלבים כופרין וחתולים, וקיפין וחולדות סנאים מפני שעשויין",
+   "old": "וקיפין",
+   "new": "וקופין",
+   "votes": {
+    "flash": "וקופין",
+    "image": "וקופין",
+    "text": "וקיפין"
+   }
+  },
+  {
+   "page": 94,
+   "line": "merke vor Allem, daß für קיפין eine richtigere Leseart קופרים (Igel)",
+   "old": "קיפין קופרים",
+   "new": "קופין קופדים",
+   "votes": {
+    "flash": "קופין קופדים",
+    "image": null,
+    "text": "קופין קופדים"
+   }
+  },
+  {
+   "page": 96,
+   "line": "setzen: חיה קטנה כרמות חתול ומרוקם הוא וייש בו גוונין הרבה וטמא הוא",
+   "old": "כרמות",
+   "new": "כדמות",
+   "votes": {
+    "flash": "כדמות",
+    "image": null,
+    "text": "כדמות"
+   }
+  },
+  {
+   "page": 96,
+   "line": "setzen: חיה קטנה כרמות חתול ומרוקם הוא וייש בו גוונין הרבה וטמא הוא",
+   "old": "וייש",
+   "new": "ויש",
+   "votes": {
+    "flash": "ויש",
+    "image": null,
+    "text": "ויש"
+   }
+  },
+  {
+   "page": 96,
+   "line": "ושמענו שמצויין הן במקומות שצרין בהם שפנים ובלשין ארמי שפקא ובלשון",
+   "old": "שצרין",
+   "new": "שצדין",
+   "votes": {
+    "flash": "שצדין",
+    "image": null,
+    "text": "שצדין"
+   }
+  },
+  {
+   "page": 96,
+   "line": "ושמענו שמצויין הן במקומות שצרין בהם שפנים ובלשין ארמי שפקא ובלשון",
+   "old": "ובלשין",
+   "new": "ובלשון",
+   "votes": {
+    "flash": "ובלשון",
+    "image": null,
+    "text": "ובלשון"
+   }
+  },
+  {
+   "page": 96,
+   "line": "ערבי זכויב ובלשון יון חלא אילן, d. h., „ein kleines, geflecktes, der Katze",
+   "old": "זכויב",
+   "new": "זבזיב",
+   "votes": {
+    "flash": "זבזיב",
+    "image": null,
+    "text": "זבזיב"
+   }
+  },
+  {
+   "page": 96,
+   "line": "dern כשקא zu lesen, da das syrische ܣܡܘܐ von einem buntgefleckten",
+   "old": "כשקא",
+   "new": "פשקא",
+   "votes": {
+    "flash": "פשקא",
+    "image": null,
+    "text": "פשקא"
+   }
+  },
+  {
+   "page": 100,
+   "line": "Raschi: הריצון, Hérisson, Chulin 122, a), קפור, oder קפור ((Bartenoro:",
+   "old": "קפור",
+   "new": "קפוד",
+   "votes": {
+    "flash": "קפוד",
+    "image": null,
+    "text": "קפוד"
+   }
+  },
+  {
+   "page": 101,
+   "line": "tiger קופרים „Igel“ für קיפין, da die Affen keineswegs zum Mäuse-",
+   "old": "קיפין",
+   "new": "קופין",
+   "votes": {
+    "flash": "קופין",
+    "image": null,
+    "text": "קופין"
+   }
+  },
+  {
+   "page": 101,
+   "line": "חנשמת (Chulin 63, a), באוח (ibid. *), קרפראי (Berachoth 57, b),",
+   "old": "חנשמת באוח",
+   "new": "תנשמת באות",
+   "votes": {
+    "flash": "תנשמת באות",
+    "image": null,
+    "text": "תנשמת באות"
+   }
+  },
+  {
+   "page": 101,
+   "line": "קורפראי (Raschi: טלפא, Talpa, Chulin 63, a) und אישות (Kelim 21,",
+   "old": "קורפראי",
+   "new": "קורפדאי",
+   "votes": {
+    "flash": "קורפדאי",
+    "image": null,
+    "text": "קורפדאי"
+   }
+  },
+  {
+   "page": 101,
+   "line": "3). Der jerusalemitische Talmud hält אשה (s. Tos. zu Moed Katan",
+   "old": "אשה צרין",
+   "new": "אשת צדין",
+   "votes": {
+    "flash": "אשת צדין",
+    "image": null,
+    "text": "אשת צדין"
+   }
+  },
+  {
+   "page": 101,
+   "line": "von dem Fang der אישוה „Maulwürfe“ und ibid. 15, 6 von dem",
+   "old": "אישוה",
+   "new": "אישות",
+   "votes": {
+    "flash": "אישות",
+    "image": null,
+    "text": "אישות"
+   }
+  },
+  {
+   "page": 102,
+   "line": "nicht mit unsern Maulwürfen zu verwechseln. Schwarz (חוצאות",
+   "old": "חוצאות",
+   "new": "תוצאות",
+   "votes": {
+    "flash": "תוצאות",
+    "image": null,
+    "text": "תוצאות"
+   }
+  },
+  {
+   "page": 102,
+   "line": "nach Aruch: קרפראי), übersetzt Raschi das Wort durch טלפא, Maulwürfe,",
+   "old": "קרפראי",
+   "new": "קרפדאי",
+   "votes": {
+    "flash": "קרפדאי",
+    "image": null,
+    "text": "קרפדאי"
+   }
+  },
+  {
+   "page": 102,
+   "line": "באות (Chulin 63, a**), חנשמת (ibid.), קיפוף (ibid.), ערפדא (B. Kama",
+   "old": "חנשמת",
+   "new": "תנשמת",
+   "votes": {
+    "flash": "תנשמת",
+    "image": null,
+    "text": "תנשמת"
+   }
+  },
+  {
+   "page": 102,
+   "line": "16, a) und כרושחינא (Sabbat 78, a). Hier sagt Raschi: עטלף שקורין",
+   "old": "כרושחינא",
+   "new": "כרושתינא",
+   "votes": {
+    "flash": "כרושתינא",
+    "image": null,
+    "text": "כרושתינא"
+   }
+  },
+  {
+   "page": 103,
+   "line": "das doppeldeutige Wort in der Bibel, das gemeinsame Wort באוח",
+   "old": "באוח באוח באוח",
+   "new": "באות באות באות",
+   "votes": {
+    "flash": "באות באות באות",
+    "image": null,
+    "text": "באות באות באות"
+   }
+  },
+  {
+   "page": 105,
+   "line": "selbst übersetzt חנשמה zu Lev. 11, 18 und zu Deut. 14, 11 durch",
+   "old": "חנשמה חנשמה",
+   "new": "תנשמת תנשמת",
+   "votes": {
+    "flash": "תנשמת תנשמת",
+    "image": null,
+    "text": "תנשמת תנשמת"
+   }
+  },
+  {
+   "page": 105,
+   "line": "Sabbat 78, a wird gesagt: „Das Blut der ברושהינא diene zu",
+   "old": "ברושהינא יארוד יארוד ברושהינא",
+   "new": "כרושתינא ירוד ירוד כרושתינא",
+   "votes": {
+    "flash": "כרושתינא ירוד ירוד כרושתינא",
+    "image": null,
+    "text": "כרושתינא ירוד ירוד כרושתינא"
+   }
+  },
+  {
+   "page": 108,
+   "line": "Ab. Sara 68, b wird der Unterschied zwischen עכברא דמהא (Stadt-",
+   "old": "דמהא",
+   "new": "דמתא",
+   "votes": {
+    "flash": "דמתא",
+    "image": null,
+    "text": "דמתא"
+   }
+  },
+  {
+   "page": 108,
+   "line": "(עולה על שלחן מלבים). Raschi erklärt das Thier durch das Fremd-",
+   "old": "מלבים",
+   "new": "מלכים",
+   "votes": {
+    "flash": "מלכים",
+    "image": null,
+    "text": "מלכים"
+   }
+  },
+  {
+   "page": 109,
+   "line": "ארנבת (Uxin 3, 3), ארנבא (Nedarim 65, a) und ארנבתא (im",
+   "old": "ארנבת",
+   "new": "ארנבה",
+   "votes": {
+    "flash": "ארנבה",
+    "image": "ארנבה",
+    "text": "ארנבת"
+   }
+  },
+  {
+   "page": 110,
+   "line": "Und dieses Thier wird sonst noch חגם (Targum zu Prov. 30, 26) und",
+   "old": "חגם טפוא",
+   "new": "חגס טפזא",
+   "votes": {
+    "flash": "חגס טפזא",
+    "image": null,
+    "text": "חגס טפזא"
+   }
+  },
+  {
+   "page": 111,
+   "line": "und אילהא (Bechoroth 7, b).",
+   "old": "אילהא",
+   "new": "אילתא",
+   "votes": {
+    "flash": "אילתא",
+    "image": null,
+    "text": "אילתא"
+   }
+  },
+  {
+   "page": 115,
+   "line": "noch die Angabe יעלה וו חשה (Jalkut Schim. 2. Th. fol. 122, c)",
+   "old": "וו",
+   "new": "זו",
+   "votes": {
+    "flash": "זו",
+    "image": null,
+    "text": "זו"
+   }
+  },
+  {
+   "page": 118,
+   "line": "פלגם 1) von פלג „theilend“, d. h., zwischen כבש und איל stehend;",
+   "old": "פלגם",
+   "new": "פלגס",
+   "votes": {
+    "flash": "פלגס",
+    "image": null,
+    "text": "פלגס"
+   }
+  },
+  {
+   "page": 118,
+   "line": "2) פלג גם und פלג, wozu Maimuni: עדר הגדר, soll wohl heißen: עדר הגדול „groß-",
+   "old": "גם",
+   "new": "גס",
+   "votes": {
+    "flash": "גס",
+    "image": null,
+    "text": "גס"
+   }
+  },
+  {
+   "page": 119,
+   "line": "ברחא (Sabbat 18, b) und im Pl. עתודים, womit jedoch zuweilen un=",
+   "old": "עתודים גרמה פטרונא",
+   "new": "עתוזים נדמה פטרוזא",
+   "votes": {
+    "flash": "עתוזים נדמה פטרוזא",
+    "image": null,
+    "text": "עתוזים נדמה פטרוזא"
+   }
+  },
+  {
+   "page": 120,
+   "line": "gegen Wachholder (קיסמא ריחמא), oder Nieswurz (קיסמא דחנון; nach",
+   "old": "ריחמא",
+   "new": "דריחמא",
+   "votes": {
+    "flash": "דריחמא",
+    "image": null,
+    "text": "דריחמא"
+   }
+  },
+  {
+   "page": 120,
+   "line": "gegen Wachholder (קיסמא ריחמא), oder Nieswurz (קיסמא דחנון; nach",
+   "old": "דחנון",
+   "new": "דחנין",
+   "votes": {
+    "flash": "דחנין",
+    "image": "דחנין",
+    "text": "דחנון"
+   }
+  },
+  {
+   "page": 122,
+   "line": "Verständniß. B. mez. 78, b wird erzählt, daß die Pelzmotte אבוקת",
+   "old": "אבוקת",
+   "new": "אבוקתא",
+   "votes": {
+    "flash": "אבוקתא",
+    "image": null,
+    "text": "אבוקתא"
+   }
+  },
+  {
+   "page": 125,
+   "line": "vorkommende מסריבן erklärt; hier aber wird bemerkt, daß dieser Rie-",
+   "old": "מסריבן שנף",
+   "new": "מסריכן שטף",
+   "votes": {
+    "flash": "מסריכן שטף",
+    "image": null,
+    "text": "מסריכן שטף"
+   }
+  },
+  {
+   "page": 125,
+   "line": "b). Unter שנף של עוים (Rabba Bereschit fol. 74, b), dessen Gestank",
+   "old": "עוים",
+   "new": "עזים",
+   "votes": {
+    "flash": "עזים",
+    "image": null,
+    "text": "עזים"
+   }
+  },
+  {
+   "page": 126,
+   "line": "Die vom Talmud erwähnte עוא דבאלא (Chulin 80, a) ist die",
+   "old": "עוא",
+   "new": "עזא",
+   "votes": {
+    "flash": "עזא",
+    "image": null,
+    "text": "עזא"
+   }
+  },
+  {
+   "page": 126,
+   "line": "51). Das Wort באלא, welches in unsrer Stelle auch mit חור (Ochs)",
+   "old": "חור",
+   "new": "תור",
+   "votes": {
+    "flash": "תור",
+    "image": null,
+    "text": "תור"
+   }
+  },
+  {
+   "page": 127,
+   "line": "Sicherheit die gemeinte Species erkennen zu lassen. Die עיוא כרכם,",
+   "old": "עיוא כרכם",
+   "new": "עיזא כרכוז",
+   "votes": {
+    "flash": "עיזא כרכוז",
+    "image": null,
+    "text": "עיזא כרכוז"
+   }
+  },
+  {
+   "page": 127,
+   "line": "wird wohl mit עיוא כרכם indentisch sein; der Talmud zählt sie mit",
+   "old": "עיוא כרכם",
+   "new": "עיזא כרכוז",
+   "votes": {
+    "flash": "עיזא כרכוז",
+    "image": null,
+    "text": "עיזא כרכוז"
+   }
+  },
+  {
+   "page": 128,
+   "line": "letztres Thier niemals שור הבר, womit תאן identisch ist, heißt, vergl.",
+   "old": "תאן אורזילא",
+   "new": "תאו אוריולא",
+   "votes": {
+    "flash": "תאו אוריולא",
+    "image": null,
+    "text": "תאו אוריולא"
+   }
+  },
+  {
+   "page": 129,
+   "line": "Masc. שור und תור (Taurus, Sanhedrin 18, b), pl. שורים (B.",
+   "old": "שורים שורים",
+   "new": "שוורים תורים",
+   "votes": {
+    "flash": "שוורים תורים",
+    "image": null,
+    "text": "שוורים תורים"
+   }
+  },
+  {
+   "page": 129,
+   "line": "seinem Herrn als Freigut (הפקר) erklärte Ochs: שור המדבר (ibid.",
+   "old": "שור",
+   "new": "שיר",
+   "votes": {
+    "flash": "שיר",
+    "image": "שיר",
+    "text": "שור"
+   }
+  },
+  {
+   "page": 130,
+   "line": "sant sind folgende Worte daselbst: אעפ\"י שאמרו יולדת לט' יולדת לשלמים כבר חמהו",
+   "old": "חמהו",
+   "new": "תמהו",
+   "votes": {
+    "flash": "תמהו",
+    "image": null,
+    "text": "תמהו"
+   }
+  },
+  {
+   "page": 130,
+   "line": "על זה רבים שהחוש מכויב זה והתו' כתבו שעתה נשתנו העניגים כמו שאמרו פ\"ג",
+   "old": "מכויב",
+   "new": "מכזיב",
+   "votes": {
+    "flash": "מכזיב",
+    "image": null,
+    "text": "מכזיב"
+   }
+  },
+  {
+   "page": 130,
+   "line": "על זה רבים שהחוש מכויב זה והתו' כתבו שעתה נשתנו העניגים כמו שאמרו פ\"ג",
+   "old": "העניגים",
+   "new": "הענינים",
+   "votes": {
+    "flash": "הענינים",
+    "image": null,
+    "text": "הענינים"
+   }
+  },
+  {
+   "page": 134,
+   "line": "ander zu kuppeln (רבקה, Raschi: קיפלא, Couple, Pesachim 26, a).",
+   "old": "קיפלא",
+   "new": "קופלא",
+   "votes": {
+    "flash": "קופלא",
+    "image": null,
+    "text": "קופלא"
+   }
+  },
+  {
+   "page": 134,
+   "line": "und אקורפיטא (Raschi: מניטורה s. §. 164). — Zum Stachel hatte",
+   "old": "מניטורה",
+   "new": "מנייטורה",
+   "votes": {
+    "flash": "מנייטורה",
+    "image": null,
+    "text": "מנייטורה"
+   }
+  },
+  {
+   "page": 134,
+   "line": "das zweibuckelige ist der generelle Name גמל, auch גמלתא (Rabba",
+   "old": "גמלתא",
+   "new": "גמלא",
+   "votes": {
+    "flash": "גמלא",
+    "image": null,
+    "text": "גמלא"
+   }
+  },
+  {
+   "page": 134,
+   "line": "bisches Kameel“ und גמלא פרסאה „persisches Kameel“ wohl zunächst",
+   "old": "פרסאה",
+   "new": "פרסא",
+   "votes": {
+    "flash": "פרסא",
+    "image": "פרסא",
+    "text": "פרסאה"
+   }
+  },
+  {
+   "page": 134,
+   "line": "Indessen durfte unter גמלא פרסאה vielleicht dennoch das zweibuckelige",
+   "old": "פרסאה",
+   "new": "פרסא",
+   "votes": {
+    "flash": "פרסא",
+    "image": "פרסא",
+    "text": "פרסאה"
+   }
+  },
+  {
+   "page": 136,
+   "line": "b. Meier (רש\"כם, zu Gen. 24, 11), daß unter dem talmudischen",
+   "old": "רש\"כם",
+   "new": "רשב\"ם",
+   "votes": {
+    "flash": "רשב\"ם",
+    "image": null,
+    "text": "רשב\"ם"
+   }
+  },
+  {
+   "page": 136,
+   "line": "Pferd ist סום, סוסא und סוסיא (Megilla 16, a); doch heißt die mit",
+   "old": "סום",
+   "new": "סוס",
+   "votes": {
+    "flash": "סוס",
+    "image": null,
+    "text": "סוס"
+   }
+  },
+  {
+   "page": 137,
+   "line": "בשינה הסוס, והיה מונה נ\"ט נשמי והסוס מתעורר, ועוד נ\"ט נשמי והסוס",
+   "old": "בשינה",
+   "new": "בשינת",
+   "votes": {
+    "flash": "בשינת",
+    "image": null,
+    "text": "בשינת"
+   }
+  },
+  {
+   "page": 140,
+   "line": "rachoth 58, a). Die Aviten (oder Gaviten) nannten den Esel תרחק",
+   "old": "תרחק",
+   "new": "תרתק",
+   "votes": {
+    "flash": "תרתק",
+    "image": null,
+    "text": "תרתק"
+   }
+  },
+  {
+   "page": 140,
+   "line": "gen Esel heißen: עילי וטרא (Sabbat 155, a). Bemerkt sei hier schließ-",
+   "old": "וטרא",
+   "new": "וזטרא",
+   "votes": {
+    "flash": "וזטרא",
+    "image": null,
+    "text": "וזטרא"
+   }
+  },
+  {
+   "page": 140,
+   "line": "schrieben wurde (Berachoth 56, a). Für חמור findet sich auch חמורתא",
+   "old": "חמורתא",
+   "new": "חמורחא",
+   "votes": {
+    "flash": "חמורחא",
+    "image": "חמורחא",
+    "text": "חמורתא"
+   }
+  },
+  {
+   "page": 140,
+   "line": "סיח übersetzt Raschi (Rosch ha-Schana 3, a) durch: עייר בן סום",
+   "old": "סום",
+   "new": "סוס",
+   "votes": {
+    "flash": "סוס",
+    "image": null,
+    "text": "סוס"
+   }
+  },
+  {
+   "page": 140,
+   "line": "(B. mez. 5, 4). — B. batra 78, b wird סיח durch מהלך אחר סיחה erklärt,",
+   "old": "סיחה",
+   "new": "שיחה",
+   "votes": {
+    "flash": "שיחה",
+    "image": null,
+    "text": "שיחה"
+   }
+  },
+  {
+   "page": 141,
+   "line": "Esel ist selbst mitten im Sommer (בתקופת תמוז) kalt“ (Sabbat 53,",
+   "old": "בתקופת",
+   "new": "בתקיפת",
+   "votes": {
+    "flash": "בתקיפת",
+    "image": "בתקיפת",
+    "text": "בתקופת"
+   }
+  },
+  {
+   "page": 142,
+   "line": "ist im Jeruschalmi (s. Simson zu Kilajim 8, 4) eine Leseart ניבדקם;",
+   "old": "ניבדקם",
+   "new": "נובדקם",
+   "votes": {
+    "flash": "נובדקם",
+    "image": null,
+    "text": "נובדקם"
+   }
+  },
+  {
+   "page": 142,
+   "line": "bat 51, b). Im Talmud heißt dieser Zaum פני דפרולא, was Schul.",
+   "old": "פני",
+   "new": "פגי",
+   "votes": {
+    "flash": "פגי",
+    "image": null,
+    "text": "פגי"
+   }
+  },
+  {
+   "page": 143,
+   "line": "gabe der מקראות גדולות fälschlich בגו סיעתא ובאורדך lauten und בגו סיעתא",
+   "old": "ובאורדך",
+   "new": "ובאודרך",
+   "votes": {
+    "flash": "ובאודרך",
+    "image": null,
+    "text": "ובאודרך"
+   }
+  },
+  {
+   "page": 143,
+   "line": "glaube, daß das ו zu סיעתא gehört, ist aber aus ך-finale corrumpirt und zum",
+   "old": "ך",
+   "new": "ן",
+   "votes": {
+    "flash": "ן",
+    "image": null,
+    "text": "ן"
+   }
+  },
+  {
+   "page": 144,
+   "line": "Die Maulstute מולאה, pl. מולאות (Mula, Sabbat 52, a), כורנייתא",
+   "old": "כורנייתא כורנייתא",
+   "new": "כודנייתא כודנייתא",
+   "votes": {
+    "flash": "כודנייתא כודנייתא",
+    "image": null,
+    "text": "כודנייתא כודנייתא"
+   }
+  },
+  {
+   "page": 144,
+   "line": "(ibid. 110, b); die weißen כורנייתא חיוורתא und יימים, letzterer Name",
+   "old": "יימים",
+   "new": "ימים",
+   "votes": {
+    "flash": "ימים",
+    "image": null,
+    "text": "ימים"
+   }
+  },
+  {
+   "page": 144,
+   "line": "כורנייתא der Name für פרד ist. — Von פרד ist der Pl. פרדים (Jo-",
+   "old": "כורנייתא",
+   "new": "כודנייתא",
+   "votes": {
+    "flash": "כודנייתא",
+    "image": null,
+    "text": "כודנייתא"
+   }
+  },
+  {
+   "page": 144,
+   "line": "kinderlosen Ehegatten sprüchwörtlich: כורנא עקרה „unfruchtbare Maul-",
+   "old": "כורנא",
+   "new": "כודנא",
+   "votes": {
+    "flash": "כודנא",
+    "image": null,
+    "text": "כודנא"
+   }
+  },
+  {
+   "page": 146,
+   "line": "חית נכר „das wühlende Thier“; vgl. hierzu B. Kama 17, b.",
+   "old": "נכר פיסחקא גלנ\"ש",
+   "new": "נבר פיסתקא גלו\"נש",
+   "votes": {
+    "flash": "נבר פיסתקא גלו\"נש",
+    "image": null,
+    "text": "נבר פיסתקא גלו\"נש"
+   }
+  },
+  {
+   "page": 147,
+   "line": "Schweines ist mannigfach. Getrockneter Schinken (Raschi: בקנוש,",
+   "old": "בקנוש",
+   "new": "בקונש",
+   "votes": {
+    "flash": "בקונש",
+    "image": null,
+    "text": "בקונש"
+   }
+  },
+  {
+   "page": 150,
+   "line": "in dieser Stelle werden auch die biblischen חנינים הגרולים (Meerunge-",
+   "old": "חנינים הגרולים",
+   "new": "התנינים הגדולים",
+   "votes": {
+    "flash": "התנינים הגדולים",
+    "image": null,
+    "text": "התנינים הגדולים"
+   }
+  },
+  {
+   "page": 150,
+   "line": "heuer) durch ארזילי רימא wiedergegeben, was Samuel wiederum durch",
+   "old": "רימא",
+   "new": "דימא",
+   "votes": {
+    "flash": "דימא",
+    "image": "דימא",
+    "text": null
+   }
+  },
+  {
+   "page": 152,
+   "line": "קרס (§. 146) sich geirrt hat. — Unser Thier wird auch von Aelian",
+   "old": "קרס",
+   "new": "קרש",
+   "votes": {
+    "flash": "קרש",
+    "image": null,
+    "text": "קרש"
+   }
+  },
+  {
+   "page": 156,
+   "line": "sich nähernde Aehnlichkeit mit dem Hunde; כלביה ist vielmehr der",
+   "old": "כלביה כלביה כלביה כלביה",
+   "new": "כלבית כלבית כלכית כלבית",
+   "votes": {
+    "flash": "כלבית כלבית כלכית כלבית",
+    "image": null,
+    "text": "כלבית כלבית כלכית כלבית"
+   }
+  },
+  {
+   "page": 156,
+   "line": "So heißt es auch vom Liviatan im Piut s. v. חשורת שי zum 2. Tag",
+   "old": "חשורת",
+   "new": "תשורת",
+   "votes": {
+    "flash": "תשורת",
+    "image": null,
+    "text": "תשורת"
+   }
+  },
+  {
+   "page": 156,
+   "line": "Succoth: לקשור לוית צלצל דנתי.",
+   "old": "דנתי",
+   "new": "דגתי",
+   "votes": {
+    "flash": "דגתי",
+    "image": null,
+    "text": "דגתי"
+   }
+  },
+  {
+   "page": 158,
+   "line": "die Muränen (מרנס, Muraenae), welche man in dem רג בלי\"נא fin-",
+   "old": "מרנס רג בלי\"נא מרנס",
+   "new": "מרנש דג בליינא מרנש",
+   "votes": {
+    "flash": "מרנש דג בליינא מרנש",
+    "image": null,
+    "text": "מרנש דג בליינא מרנש"
+   }
+  },
+  {
+   "page": 158,
+   "line": "Räucherwerk im Tempel bestand. Zu diesen wurde auch von dem כיפה",
+   "old": "כיפה",
+   "new": "כיפת",
+   "votes": {
+    "flash": "כיפת",
+    "image": null,
+    "text": "כיפת"
+   }
+  },
+  {
+   "page": 158,
+   "line": "רעי של רג הגדל בירדן והוא עמכרא. Sollten diese Worte den Sinn",
+   "old": "רג",
+   "new": "דג",
+   "votes": {
+    "flash": "דג",
+    "image": null,
+    "text": "דג"
+   }
+  },
+  {
+   "page": 158,
+   "line": "רעי של רג הגדל בירדן והוא עמכרא. Sollten diese Worte den Sinn",
+   "old": "עמכרא",
+   "new": "עמברא",
+   "votes": {
+    "flash": "עמברא",
+    "image": null,
+    "text": "עמברא"
+   }
+  }
+ ]
+}

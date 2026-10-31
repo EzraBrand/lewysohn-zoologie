@@ -22,7 +22,7 @@ the [contents](data/entries/toc/en.md), the [first part, General zoology](data/e
 |---|---|---|---|---|
 | Front matter, preface, contents | 4 + VII–XII + 1 | Opus 5.5 | read by eye | done |
 | First part: General zoology | 1–63 | Opus 5.5 | Flash + vote: 50 changes | done ($2.02) |
-| Second part, class 1: Mammals | 64–158 | Sonnet 5.5 | Flash + vote | see below |
+| Second part, class 1: Mammals | 64–158 | Sonnet 5.5 | Flash + vote: 111 changes | done ($2.97) |
 | §§ 114–115, lion and tiger (test entry) | 68–71 | Opus 5.5; **gold pp. 68, 70** | by hand | done |
 | Birds to Zoophytes, fabulous animals, addenda, registers | 159–400 | — | — | not started |
 
@@ -220,7 +220,10 @@ On the known cases each check alone was wrong at least once: the image judge kep
 lion's roar. The vote of the three was right in all three cases.
 
 Part 1: 150 flags → **50 changes**, 80 kept, 14 without a majority, 6 for review
-(`logs/hebvote_1-63.csv`). The changes are mostly systematic: final ם for ס (סרים → סריס,
+(`logs/hebvote_1-63.csv`). Mammals (Sonnet as the main OCR; the image judge only on the 78 flags
+where the text judge and Flash disagree): 189 flags → **111 changes**, 36 kept, 29 without a
+majority, 13 for review (`logs/hebvote_64-158.csv`). Sonnet's typical error is ר for ד
+(ארני שרה → אדני שדה, the Mishnah's "man of the field"; דורם → דורס; חחול → חתול). The changes are mostly systematic: final ם for ס (סרים → סריס,
 כרם → כרס, מרם → מרס), ו for ז (ויהורא → זיהורא), doubled ו (וושט → ושט), ם for ב (ערקום → ערקוב).
 They are applied to every use of the word on its page, in the German and, by a fixed step, in an
 English translation made before the vote. Cost: about $0.03 per flag.
@@ -236,9 +239,11 @@ English translation made before the vote. Cost: about $0.03 per flag.
 | Part 1: text and image judges (150 flags; about 100 judged twice by parallel workers) | — | about $3.90 | — |
 | Part 1: translation (25 chunks) | 63 | $2.02 | $0.032 |
 | Mammals: OCR, Sonnet 5.5 and Flash | 91 | $4.43 | $0.049 |
+| Mammals: text judge (203 flags) and image judge (78 ties, 3 workers) | — | $3.50 | — |
+| Mammals: translation (first run lost at chunk 26 by a network reset: $1.86; second run) | 95 | $4.83 | $0.051 |
 
-OpenRouter prices. Total for this project so far: about $18 for the finished steps, about $20 with
-the jobs that are running (the key had $13.88 of usage from other projects before this one). The rest of the book (pp. 159–400, about 242
+OpenRouter prices. Total for this project: about $28 (the key had $13.88 of usage from other
+projects before this one). Translations are now saved chunk by chunk, so a stopped run resumes. The rest of the book (pp. 159–400, about 242
 pages) would be about $12 for OCR (Sonnet + Flash), $8 for translation and $5 for the Hebrew
 judges.
 
@@ -274,9 +279,10 @@ judges.
 
 ## Next decision points
 
-1. **Mammals:** finish the Hebrew vote (text judge, then the image judge on the ties only) and
-   apply it; check the translation.
-2. **The 6 review cases and 14 without a majority** in part 1 (`logs/hebvote_1-63.csv`): by hand.
+1. **Review by hand:** part 1: 6 review cases and 14 without a majority (`logs/hebvote_1-63.csv`);
+   mammals: 13 and 29 (`logs/hebvote_64-158.csv`).
+2. **p. 69 in the mammals:** the vote and the manual correction agree on עוא; check that p. 70's
+   gold ויהורא should be זיהורא, as the vote chose on pp. 50–51.
 3. **A gold page from part 1 and from the mammals**, to measure the CER after the vote.
 4. **The rest of the book** (birds to registers, pp. 159–400): about $25 with the current setup.
 5. Abbreviations: resolve the **guess** rows. Reading edition: links from `§. N` cross-references

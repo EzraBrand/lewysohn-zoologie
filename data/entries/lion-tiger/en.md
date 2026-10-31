@@ -26,7 +26,7 @@
 
 ‎The Talmud seems to indicate the nature of the lion's voice through the various expressions for its modulation. When the lion is hungry and goes out for prey, his roaring at that time is called שאג, which is why God cries out over the loss of the Temple like the lion (Berachoth 3a); when the lion catches sight of the prey, or is already near it, the voice modulates and is called עוא (Chulin 53a); while devouring he growls (Berachoth 32a), which is called נהם.
 
-‎The front parts of his body are strikingly more developed than the hind parts, so that he appears narrow behind and broad in front (Middoth 4, 7). His gestation period is three years (Bechoroth 8a); but erroneously, which was discussed in §. 17; it is 180 days, see Voigt [=F. S. Voigt, Lehrbuch der Zoologie (Stuttgart 1835–40)], l. c. [=loco citato: in the work cited above] 1. p. 268***).
+‎The front parts of his body are strikingly more developed than the hind parts, so that he appears narrow behind and broad in front (Middoth 4, 7). His gestation period is three years (Bechoroth 8a); but erroneously, which was discussed in §. 17; it is 180 days, see Voigt [=F. S. Voigt, Lehrbuch der Zoologie (Stuttgart 1835–40); the text names it (p. 9: "Voigt, Lehrb. d. Zool.")], l. c. [=loco citato: in the work cited above] 1. p. 268***).
 
 ‎When he seizes [p. 70] prey, he devours it at once without waiting for its death (Pesachim 49b), which agrees completely with the statement of more recent naturalists, for the lion, like all beasts of prey that feed on living animals generally, thrusts his head into the prey and burrows in it in order to enjoy the hot food with relish.
 
