@@ -20,6 +20,15 @@ ul.docs li span{color:var(--muted);font-size:.95rem}
 ul.plain li{margin:.3rem 0}
 details.about{background:var(--panel);padding:.6rem .9rem;border-radius:6px;margin:.8rem 0}
 details.about p{margin:.5rem 0 0;font-size:.95rem}
+details.toc{border:1px solid var(--line);padding:.6rem .9rem;border-radius:6px;margin:.8rem 0}
+details.toc summary{cursor:pointer;font-weight:600}
+details.toc ul{list-style:none;padding:0;margin:.4rem 0 0;max-height:60vh;overflow-y:auto;columns:2 300px;column-gap:2rem}
+details.toc li{break-inside:avoid;padding:.12rem 0;font-size:.93rem}
+details.toc li a{text-decoration:none;color:var(--fg)}
+details.toc li a:hover{color:var(--accent)}
+details.toc li.grp{font-weight:600;margin-top:.5rem;column-span:all}
+.row[id]{scroll-margin-top:.5rem}
+.row:target{background:var(--mark)}
 .toggles{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;margin:.8rem 0;font-size:.95rem}
 .scans{display:flex;gap:.6rem;overflow-x:auto;padding:.4rem 0 .8rem;border-bottom:1px solid var(--line)}
 .scans a{flex:0 0 auto;text-align:center;text-decoration:none;font-size:.8rem;color:var(--muted)}

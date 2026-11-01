@@ -22,6 +22,7 @@ ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 OUT = ROOT / "docs"
 REPO = "https://github.com/EzraBrand/lewysohn-zoologie"
+FACTCHECK = "https://ezrabrand.github.io/talmud-zoology-factcheck/"  # companion project
 OCR_SOURCE = "or-claude-opus-5.5@low+ital"
 TRANSLATION = f"claude-opus-5.5@medium-{T.RULES_VERSION}"
 IIIF = "https://sammlungen.ub.uni-frankfurt.de/i3f/v20"
@@ -205,7 +206,8 @@ def page_html(title: str, body: str, desc: str = "") -> str:
 
 
 def header(active: str) -> str:
-    links = [("index.html", "Entries"), ("abbreviations.html", "Abbreviations"), (REPO, "Code and data")]
+    links = [("index.html", "Entries"), ("abbreviations.html", "Abbreviations"), (FACTCHECK, "Fact-check"),
+             (REPO, "Code and data")]
     nav = " ".join(f'<a href="{h}"{" aria-current=page" if h == active else ""}>{t}</a>' for h, t in links)
     return (f'<header class="site"><a class="brand" href="index.html">Lewysohn, <i>Zoologie des Talmuds</i> '
             f'<span>· reading edition (test)</span></a><nav>{nav}</nav></header>')
@@ -219,8 +221,62 @@ TOGGLES = """<div class="toggles" role="group" aria-label="Display">
 {cn}</div>"""
 
 
+PARA = re.compile(r"^(?:\[p\. [^\]]+\]\s*)?§\.\s*(\d+)\.\s*(.*)$", re.S)
+
+
+def plain(text: str, words: int = 0) -> str:
+    """Heading or paragraph text without page marks, expansions and footnote marks, for the contents."""
+    s = re.sub(r"\[p\. [^\]]+\]|\s*\[=[^\]]*\]|\*+\)|†+\)?", "", text)
+    s = " ".join(s.split())
+    if words and len(s.split()) > words:
+        s = " ".join(s.split()[:words]) + " …"
+    return s
+
+
+def anchors(en: list[dict]) -> tuple[dict[int, str], list[dict]]:
+    """-> ({block index: anchor id}, contents entries). A § heading gets id "sN" (§. 119. -> #s119);
+    its label is the title on the same line, or the title heading after it, or the opening words of
+    its first paragraph. Other headings (parts, classes) get "hI" and are listed as group headings."""
+    ids, toc, used = {}, [], set()
+    for i, b in enumerate(en):
+        m = PARA.match(b["text"])
+        # a few § lines are typed as body text (mammals §§ 114-115); take them when the line is short
+        short_para = b["type"] != "heading" and m and len(b["text"]) < 60
+        if (b["type"] != "heading" and not short_para) or i in used:
+            continue
+        if not m:
+            ids[i] = f"h{i}"
+            toc.append({"id": ids[i], "label": plain(b["text"]), "group": True})
+            continue
+        n, title = m.group(1), plain(m.group(2))
+        nxt = en[i + 1] if i + 1 < len(en) else None
+        if not title and nxt and nxt["type"] == "heading" and not PARA.match(nxt["text"]):
+            title = plain(nxt["text"])
+            used.add(i + 1)
+        elif not title and nxt:  # part 1: §§ open with a topic word ("Gestation period. The greatest ...")
+            first = re.match(r"([^.]{1,40}?\.)\s", plain(nxt["text"]))
+            title = first.group(1) if first and len(first.group(1).split()) <= 4 else plain(nxt["text"], 8)
+        ids[i] = f"s{n}"
+        toc.append({"id": ids[i], "label": f"§ {n}", "title": title, "group": False})
+    return ids, toc
+
+
+def toc_html(toc: list[dict]) -> str:
+    n = sum(not t["group"] for t in toc)
+    if not n:
+        return ""
+    ctx = {"ids": {}, "notes": {}, "lang": "en"}
+    items = "".join(
+        f'<li class="grp"><a href="#{t["id"]}">{inline(t["label"], "", ctx)}</a></li>' if t["group"] else
+        f'<li><a href="#{t["id"]}"><b>{t["label"]}</b> {inline(t["title"], "", ctx)}</a></li>'
+        for t in toc)
+    return (f'<details class="toc"><summary>Contents: {n} §§</summary>'
+            f'<p class="sub">Each § has a fixed link: <code>#s119</code> for § 119.</p><ul>{items}</ul></details>')
+
+
 def doc_html(doc: dict) -> str:
     d = load_doc(doc)
+    row_ids, toc = anchors(d["en"])
     ids = scan_ids()
     # number the footnotes through the document; (page, mark) -> number
     keymap = {}
@@ -232,7 +288,7 @@ def doc_html(doc: dict) -> str:
     lines = doc.get("contents", False)
     names = common_names(doc)
     en_line = 0  # line number in the English contents list, as in plant_names.json
-    for de, en in zip(d["de"], d["en"]):
+    for bi, (de, en) in enumerate(zip(d["de"], d["en"])):
         cells = []
         for lang, b in (("de", de), ("en", en)):
             ctx = {"ids": ids, "notes": keymap, "lang": lang, "lines": lines}
@@ -253,7 +309,8 @@ def doc_html(doc: dict) -> str:
             cur[lang] = paragraph_page(b["text"], cur[lang])
             tag = "h3" if b["type"] == "heading" else "p"
             cells.append(f'<div class="cell {lang}" lang="{"de" if lang == "de" else "en"}"><{tag}>{text}</{tag}></div>')
-        rows.append(f'<div class="row">{"".join(cells)}</div>')
+        rid = f' id="{row_ids[bi]}"' if bi in row_ids else ""
+        rows.append(f'<div class="row"{rid}>{"".join(cells)}</div>')
     notes = []
     for i, (de, en) in enumerate(zip(d["de_notes"], d["en_notes"]), 1):
         cells = []
@@ -271,6 +328,7 @@ def doc_html(doc: dict) -> str:
 <main class="doc">
 <h1>{html.escape(doc["title"])}</h1>
 <p class="sub">{html.escape(doc["sub"])}</p>
+{toc_html(toc)}
 <details class="about"><summary>How to read this page</summary>
 <p>Left: Lewysohn's German text (printed in Fraktur) as transcribed by Claude Opus 5.5; pp. 68 and 70
 are checked by hand, pp. 69 and 71 are not (two Hebrew words on them corrected against the scan).
@@ -305,6 +363,8 @@ Midrashic material on animals, in German (set in Fraktur) with Hebrew, Aramaic, 
 This is a test reading edition: machine transcription and English translation of a few pages,
 made to see what current tools can do. The companion project for plants is
 <a href="https://ezrabrand.github.io/low-flora/">Löw, <i>Die Flora der Juden</i></a>.</p>
+<p class="lede"><b>New:</b> <a href="{FACTCHECK}">Talmud zoology fact-check</a>, the Talmud's statements
+on animals (and Lewysohn's comments on them) checked against modern zoology, with links to the §§ here.</p>
 <ul class="docs">{items}</ul>
 <h2>What this is</h2>
 <ul class="plain">
@@ -372,6 +432,15 @@ ul.docs li span{color:var(--muted);font-size:.95rem}
 ul.plain li{margin:.3rem 0}
 details.about{background:var(--panel);padding:.6rem .9rem;border-radius:6px;margin:.8rem 0}
 details.about p{margin:.5rem 0 0;font-size:.95rem}
+details.toc{border:1px solid var(--line);padding:.6rem .9rem;border-radius:6px;margin:.8rem 0}
+details.toc summary{cursor:pointer;font-weight:600}
+details.toc ul{list-style:none;padding:0;margin:.4rem 0 0;max-height:60vh;overflow-y:auto;columns:2 300px;column-gap:2rem}
+details.toc li{break-inside:avoid;padding:.12rem 0;font-size:.93rem}
+details.toc li a{text-decoration:none;color:var(--fg)}
+details.toc li a:hover{color:var(--accent)}
+details.toc li.grp{font-weight:600;margin-top:.5rem;column-span:all}
+.row[id]{scroll-margin-top:.5rem}
+.row:target{background:var(--mark)}
 .toggles{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;margin:.8rem 0;font-size:.95rem}
 .scans{display:flex;gap:.6rem;overflow-x:auto;padding:.4rem 0 .8rem;border-bottom:1px solid var(--line)}
 .scans a{flex:0 0 auto;text-align:center;text-decoration:none;font-size:.8rem;color:var(--muted)}

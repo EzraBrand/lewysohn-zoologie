@@ -12,6 +12,13 @@ progress: small steps, each checked by hand before the next.
 by side, scans linked from each page mark, Arabic and Greek transliterations as tooltips, numbered
 footnotes. Built by `build_site.py` into `docs/` (GitHub Pages serves `main:/docs`).
 
+**Companion project:** [talmud-zoology-factcheck](https://github.com/EzraBrand/talmud-zoology-factcheck)
+([page](https://ezrabrand.github.io/talmud-zoology-factcheck/)) checks the Talmud's statements on animals, and
+Lewysohn's comments on them, against modern zoology, with links to the §§ of this edition.
+
+**§ links:** each § in the reading edition has a fixed anchor, `#s` + its number
+(`mammals.html#s119` for § 119), and each page opens with a collapsible list of its §§.
+
 **In English so far:** the [front matter](data/entries/front/en.md), the [preface](data/entries/preface/en.md),
 the [contents](data/entries/toc/en.md), the [first part, General zoology](data/entries/part1/en.md)
 (pp. 1–63) and the [mammals](data/entries/mammals/en.md) (pp. 64–158): 166 of the 400 text pages.
