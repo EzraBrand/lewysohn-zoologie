@@ -196,6 +196,7 @@ def page_html(title: str, body: str, desc: str = "") -> str:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
 <link rel="stylesheet" href="style.css">
+<script>try{{var t=localStorage.getItem('lz-theme');if(t)document.documentElement.setAttribute('data-theme',t)}}catch(e){{}}</script>
 </head>
 <body>
 {body}
@@ -209,6 +210,9 @@ def header(active: str) -> str:
     links = [("index.html", "Entries"), ("abbreviations.html", "Abbreviations"), (FACTCHECK, "Fact-check"),
              (REPO, "Code and data")]
     nav = " ".join(f'<a href="{h}"{" aria-current=page" if h == active else ""}>{t}</a>' for h, t in links)
+    nav += ('<label class="theme">Theme <select id="theme" aria-label="Colour theme">'
+            '<option value="">Auto</option><option value="light">Light</option><option value="paper">Paper</option>'
+            '<option value="dark">Dark</option></select></label>')
     return (f'<header class="site"><a class="brand" href="index.html">Lewysohn, <i>Zoologie des Talmuds</i> '
             f'<span>· reading edition (test)</span></a><nav>{nav}</nav></header>')
 
@@ -270,8 +274,17 @@ def toc_html(toc: list[dict]) -> str:
         f'<li class="grp"><a href="#{t["id"]}">{inline(t["label"], "", ctx)}</a></li>' if t["group"] else
         f'<li><a href="#{t["id"]}"><b>{t["label"]}</b> {inline(t["title"], "", ctx)}</a></li>'
         for t in toc)
-    return (f'<details class="toc"><summary>Contents: {n} §§</summary>'
-            f'<p class="sub">Each § has a fixed link: <code>#s119</code> for § 119.</p><ul>{items}</ul></details>')
+    first, last = next(t for t in toc if not t["group"]), [t for t in toc if not t["group"]][-1]
+    return (f'<details class="toc" id="toc"><summary><span class="ti">☰</span> Contents '
+            f'<span class="tn">{first["label"]}–{last["label"].removeprefix("§ ")} · {n} sections</span>'
+            f'<span class="th">open to jump to any §</span></summary>'
+            f'<p class="sub">Each § has a fixed link: <code>#s119</code> for § 119. The bar at the top of '
+            f'the screen shows where you are while you read.</p><ul>{items}</ul></details>\n'
+            f'<nav class="where" aria-label="Position in this page"><div class="prog"><span></span></div>'
+            f'<button type="button" class="open-toc" title="Contents">☰<span> Contents</span></button>'
+            f'<button type="button" class="prev" title="Previous §" aria-label="Previous §">‹</button>'
+            f'<span class="cur" aria-live="polite">Start of page</span>'
+            f'<button type="button" class="next" title="Next §" aria-label="Next §">›</button></nav>')
 
 
 def doc_html(doc: dict) -> str:
@@ -310,6 +323,9 @@ def doc_html(doc: dict) -> str:
             tag = "h3" if b["type"] == "heading" else "p"
             cells.append(f'<div class="cell {lang}" lang="{"de" if lang == "de" else "en"}"><{tag}>{text}</{tag}></div>')
         rid = f' id="{row_ids[bi]}"' if bi in row_ids else ""
+        if bi in row_ids and row_ids[bi].startswith("s"):  # a "#" after the § to copy its link
+            cells[1] = re.sub(r"(</h3>|</p>)</div>$", rf' <a class="anchor" href="#{row_ids[bi]}" '
+                              rf'title="Link to this §" aria-label="Link to this §">#</a>\1</div>', cells[1])
         rows.append(f'<div class="row"{rid}>{"".join(cells)}</div>')
     notes = []
     for i, (de, en) in enumerate(zip(d["de_notes"], d["en_notes"]), 1):
@@ -345,6 +361,7 @@ you cite.</p></details>
 {"".join(rows)}
 {notes_html}
 </main>
+<a class="totop" href="#" aria-label="Back to top">↑ Top</a>
 <footer>Source: <a href="https://nbn-resolving.org/urn:nbn:de:hebis:30:1-113735">Frankfurt UB, Freimann
 collection</a>, Public Domain Mark 1.0 · Transcription, translation and code: <a href="{REPO}/blob/main/LICENSE">MIT License</a> · <a href="{REPO}">{REPO.split("//")[1]}</a></footer>"""
     return page_html(f"{doc['title']} · Lewysohn, Zoologie des Talmuds", body, doc["sub"])
@@ -413,6 +430,9 @@ knowledge</b>; <b>guess</b> = not certain, check.</p>
 CSS = """:root{--bg:#fbfaf7;--fg:#22201c;--muted:#6b665d;--line:#e4e0d6;--accent:#7a4b12;--panel:#f2efe7;--mark:#efe3cf}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#17161a;--fg:#e8e4dc;--muted:#a39d92;--line:#33313a;--accent:#e0a95c;--panel:#201f25;--mark:#3a3022}}
 :root[data-theme="dark"]{--bg:#17161a;--fg:#e8e4dc;--muted:#a39d92;--line:#33313a;--accent:#e0a95c;--panel:#201f25;--mark:#3a3022}
+:root[data-theme="paper"]{--bg:#f3ead6;--fg:#33291b;--muted:#75654c;--line:#d9cbab;--accent:#8a4510;--panel:#ebdfc3;--mark:#e3cfa3}
+header.site label.theme{margin-left:1rem;color:var(--muted);font-size:.9rem}
+header.site select{font:inherit;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:.1rem .3rem}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 "Noto Serif",Georgia,serif}
 a{color:var(--accent)}
@@ -432,14 +452,36 @@ ul.docs li span{color:var(--muted);font-size:.95rem}
 ul.plain li{margin:.3rem 0}
 details.about{background:var(--panel);padding:.6rem .9rem;border-radius:6px;margin:.8rem 0}
 details.about p{margin:.5rem 0 0;font-size:.95rem}
-details.toc{border:1px solid var(--line);padding:.6rem .9rem;border-radius:6px;margin:.8rem 0}
-details.toc summary{cursor:pointer;font-weight:600}
+details.toc{border:2px solid var(--accent);background:var(--panel);padding:.7rem 1rem;border-radius:8px;margin:1rem 0}
+details.toc summary{cursor:pointer;font-weight:600;font-size:1.1rem;color:var(--accent);display:flex;flex-wrap:wrap;align-items:baseline;gap:.2rem .6rem}
+details.toc summary .ti{font-size:1.2rem}
+details.toc summary .tn{color:var(--fg);font-weight:400;font-size:.95rem}
+details.toc summary .th{color:var(--muted);font-weight:400;font-size:.85rem;margin-left:auto}
+details.toc[open] summary .th{display:none}
+details.toc li a.here{color:var(--accent);font-weight:600}
+details.toc li a.here::before{content:"▸ "}
+nav.where{position:sticky;top:0;z-index:5;display:flex;align-items:center;gap:.4rem;background:var(--bg);border-bottom:1px solid var(--line);padding:.35rem 0 .45rem;margin:0 0 .5rem;font-size:.9rem}
+nav.where .prog{position:absolute;left:0;right:0;bottom:-1px;height:3px;background:transparent}
+nav.where .prog span{display:block;height:100%;width:0;background:var(--accent)}
+nav.where button{font:inherit;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:5px;padding:.15rem .55rem;cursor:pointer}
+nav.where button:disabled{opacity:.35;cursor:default}
+nav.where .cur{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--muted)}
+nav.where .cur b{color:var(--fg)}
+a.anchor{color:var(--muted);text-decoration:none;opacity:.35;font-weight:400;padding-left:.2rem}
+.row:hover a.anchor,a.anchor:focus{opacity:1}
+a.totop{position:fixed;right:1rem;bottom:1rem;z-index:6;background:var(--accent);color:var(--bg);text-decoration:none;font:600 .9rem system-ui,sans-serif;padding:.45rem .8rem;border-radius:20px;box-shadow:0 2px 6px rgba(0,0,0,.25);opacity:0;pointer-events:none;transition:opacity .2s}
+a.totop.show{opacity:.92;pointer-events:auto}
+@media (max-width:760px){nav.where button span{display:none}}
 details.toc ul{list-style:none;padding:0;margin:.4rem 0 0;max-height:60vh;overflow-y:auto;columns:2 300px;column-gap:2rem}
 details.toc li{break-inside:avoid;padding:.12rem 0;font-size:.93rem}
 details.toc li a{text-decoration:none;color:var(--fg)}
 details.toc li a:hover{color:var(--accent)}
 details.toc li.grp{font-weight:600;margin-top:.5rem;column-span:all}
-.row[id]{scroll-margin-top:.5rem}
+.row[id],.row.note .cell{scroll-margin-top:3.2rem}
+.fntip{position:absolute;z-index:7;background:var(--bg);color:var(--fg);border:1px solid var(--accent);border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.25);padding:.6rem .8rem;font-size:.92rem;line-height:1.5;max-height:50vh;overflow-y:auto}
+.fntip p{display:inline;margin:0}
+.fntip a.fngo{display:block;margin-top:.4rem;font-size:.85rem}
+.row.note .cell:target{background:var(--mark)}
 .row:target{background:var(--mark)}
 .toggles{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;margin:.8rem 0;font-size:.95rem}
 .scans{display:flex;gap:.6rem;overflow-x:auto;padding:.4rem 0 .8rem;border-bottom:1px solid var(--line)}
@@ -485,10 +527,91 @@ JS = """(function(){
     var apply=function(){document.body.classList.toggle(cls, box.checked); store.set('lz-'+cls, box.checked?'1':'0');};
     box.addEventListener('change', apply); apply();
   });
+  var th=document.getElementById('theme');
+  if(th){th.value=document.documentElement.getAttribute('data-theme')||'';
+    th.addEventListener('change',function(){
+      if(th.value) document.documentElement.setAttribute('data-theme',th.value);
+      else document.documentElement.removeAttribute('data-theme');
+      store.set('lz-theme',th.value);});}
   var f=document.getElementById('filter');
   if(f){f.addEventListener('input',function(){var q=f.value.toLowerCase();
     document.querySelectorAll('table.abbr tbody tr').forEach(function(tr){
       tr.style.display = tr.textContent.toLowerCase().indexOf(q)>=0 ? '' : 'none';});});}
+  // reading position: current § and page in the sticky bar, progress, contents highlight, back to top
+  var bar=document.querySelector('nav.where'), top=document.querySelector('a.totop');
+  var secs=[].slice.call(document.querySelectorAll('.row[id^="s"]'));
+  var pgs=[].slice.call(document.querySelectorAll('.cell.en a.pg'));
+  var toc=document.getElementById('toc'), links={};
+  if(toc) toc.querySelectorAll('li a').forEach(function(a){links[a.getAttribute('href').slice(1)]=a;});
+  var idx=-2, ticking=false;
+  function lastAbove(els,y){var i=-1;for(var k=0;k<els.length;k++){if(els[k].getBoundingClientRect().top<=y)i=k;else break;}return i;}
+  function go(i){if(i>=0&&i<secs.length) location.hash='#'+secs[i].id;}
+  function update(){
+    ticking=false;
+    if(top) top.classList.toggle('show', window.scrollY>600);
+    if(!bar) return;
+    var y=bar.getBoundingClientRect().bottom+12, i=lastAbove(secs,y), p=lastAbove(pgs,y);
+    var h=document.documentElement;
+    bar.querySelector('.prog span').style.width=(100*h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight))+'%';
+    if(i!==idx){
+      if(idx>=0&&links[secs[idx].id]) links[secs[idx].id].classList.remove('here');
+      if(i>=0&&links[secs[i].id]) links[secs[i].id].classList.add('here');
+      idx=i;
+      bar.querySelector('.prev').disabled=i<=0;
+      bar.querySelector('.next').disabled=i>=secs.length-1;
+    }
+    var a=i>=0?links[secs[i].id]:null, cur=bar.querySelector('.cur');
+    cur.innerHTML='';
+    if(a){var b=document.createElement('b');b.textContent=a.querySelector('b').textContent;cur.appendChild(b);
+      cur.appendChild(document.createTextNode(' '+a.textContent.replace(a.querySelector('b').textContent,'').trim()));}
+    else cur.textContent='Start of page';
+    if(p>=0) cur.appendChild(document.createTextNode(' · '+pgs[p].textContent));
+  }
+  window.addEventListener('scroll',function(){if(!ticking){ticking=true;requestAnimationFrame(update);}},{passive:true});
+  if(bar){
+    bar.querySelector('.prev').addEventListener('click',function(){go(idx-1);});
+    bar.querySelector('.next').addEventListener('click',function(){go(idx+1);});
+    bar.querySelector('.open-toc').addEventListener('click',function(){toc.open=true;toc.scrollIntoView({block:'start'});});
+    toc.addEventListener('toggle',function(){var h=toc.querySelector('a.here'),ul=toc.querySelector('ul');
+      if(toc.open&&h) ul.scrollTop=h.parentNode.offsetTop-ul.offsetTop-ul.clientHeight/3;});
+  }
+  update();
+  // footnote preview: hover or focus a note number to read the note in place; on touch screens
+  // the first tap shows it and a second tap (or "Go to note") jumps to the notes
+  var tip=document.createElement('div'); tip.className='fntip'; tip.setAttribute('role','tooltip'); tip.hidden=true;
+  document.body.appendChild(tip);
+  var shownFor=null, hideT=null;
+  function show(a){
+    var cell=document.getElementById(a.getAttribute('href').slice(1)); if(!cell) return;
+    var p=cell.querySelector('p').cloneNode(true), back=p.querySelector('a.fnback');
+    if(back) back.remove();
+    tip.innerHTML='<b>Note '+a.textContent+'</b> ';
+    tip.appendChild(p);
+    var go=document.createElement('a'); go.href=a.getAttribute('href'); go.className='fngo'; go.textContent='Go to note ↓';
+    tip.appendChild(go);
+    tip.hidden=false;
+    var r=a.getBoundingClientRect(), w=Math.min(420, window.innerWidth-24);
+    tip.style.width=w+'px';
+    tip.style.left=Math.max(12, Math.min(r.left+window.scrollX-w/2, window.scrollX+window.innerWidth-w-12))+'px';
+    var below=r.bottom+window.scrollY+8;
+    tip.style.top=below+'px';
+    if(r.bottom+tip.offsetHeight+16>window.innerHeight&&r.top>tip.offsetHeight+16) tip.style.top=(r.top+window.scrollY-tip.offsetHeight-8)+'px';
+    shownFor=a;
+  }
+  function hide(){tip.hidden=true; shownFor=null;}
+  function later(){clearTimeout(hideT); hideT=setTimeout(hide,250);}
+  document.querySelectorAll('a.fn').forEach(function(a){
+    a.addEventListener('mouseenter',function(){clearTimeout(hideT); show(a);});
+    a.addEventListener('mouseleave',later);
+    a.addEventListener('focus',function(){show(a);});
+    a.addEventListener('blur',later);
+    a.addEventListener('click',function(ev){
+      if(matchMedia('(hover: none)').matches&&shownFor!==a){ev.preventDefault(); show(a);}});
+  });
+  tip.addEventListener('mouseenter',function(){clearTimeout(hideT);});
+  tip.addEventListener('mouseleave',later);
+  document.addEventListener('click',function(ev){if(!tip.hidden&&!tip.contains(ev.target)&&!ev.target.closest('a.fn')) hide();});
+  document.addEventListener('keydown',function(ev){if(ev.key==='Escape') hide();});
 })();
 """
 
