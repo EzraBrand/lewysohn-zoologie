@@ -1,0 +1,693 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hebräisches und aramäisches Register. 391",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hebräisches und aramäisches Register."
+    },
+    {
+     "lang": "deu",
+     "text": " 391"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "רחלה 118.\nרחם 168.\nרחמה 168.\nרחש 218.\nרחשא 4. 218.\nריחשא 5. 339.\nרכש 139.\nרמה 5. 338. 339.\nרמך 136. 140.\nרמש 5. 218.\nרצוצא 1. 194.\nרצינתא 311.\nרשון 289. 291.\nרשונא 291.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "רחלה"
+    },
+    {
+     "lang": "deu",
+     "text": " 118.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רחם"
+    },
+    {
+     "lang": "deu",
+     "text": " 168.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רחמה"
+    },
+    {
+     "lang": "deu",
+     "text": " 168.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רחש"
+    },
+    {
+     "lang": "deu",
+     "text": " 218.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רחשא"
+    },
+    {
+     "lang": "deu",
+     "text": " 4. 218.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ריחשא"
+    },
+    {
+     "lang": "deu",
+     "text": " 5. 339.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רכש"
+    },
+    {
+     "lang": "deu",
+     "text": " 139.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רמה"
+    },
+    {
+     "lang": "deu",
+     "text": " 5. 338. 339.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רמך"
+    },
+    {
+     "lang": "deu",
+     "text": " 136. 140.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רמש"
+    },
+    {
+     "lang": "deu",
+     "text": " 5. 218.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רצוצא"
+    },
+    {
+     "lang": "deu",
+     "text": " 1. 194.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רצינתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 311.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רשון"
+    },
+    {
+     "lang": "deu",
+     "text": " 289. 291.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רשונא"
+    },
+    {
+     "lang": "deu",
+     "text": " 291."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ש.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ש."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "שבוטא 251. 252. 265. 266. 271.\nשבור אנדרפטא 161.\nשבלול 279.\nשבלון 375.\nשגל 82. 87.\nשואבות 86.\nשומשמנא 328. 330.\nשומשנא 330.\nשומשנא גמלא 331.\nשונרא 74.\nשועל 77.\nשור 129.\nשור הבר 127. 129. 355.\nשור המדבר 127.\nשושיבא 294.\nשושמנא 331.\nשחל 68.\nשחלנים 291.\nשחלת 361.\nשתף 182.\nשיבאי 309.\nשילשול 242. 335.\nשילשול קטן 335.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "שבוטא"
+    },
+    {
+     "lang": "deu",
+     "text": " 251. 252. 265. 266. 271.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שבור אנדרפטא"
+    },
+    {
+     "lang": "deu",
+     "text": " 161.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שבלול"
+    },
+    {
+     "lang": "deu",
+     "text": " 279.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שבלון"
+    },
+    {
+     "lang": "deu",
+     "text": " 375.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שגל"
+    },
+    {
+     "lang": "deu",
+     "text": " 82. 87.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שואבות"
+    },
+    {
+     "lang": "deu",
+     "text": " 86.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שומשמנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 328. 330.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שומשנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 330.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שומשנא גמלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 331.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שונרא"
+    },
+    {
+     "lang": "deu",
+     "text": " 74.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שועל"
+    },
+    {
+     "lang": "deu",
+     "text": " 77.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שור"
+    },
+    {
+     "lang": "deu",
+     "text": " 129.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שור הבר"
+    },
+    {
+     "lang": "deu",
+     "text": " 127. 129. 355.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שור המדבר"
+    },
+    {
+     "lang": "deu",
+     "text": " 127.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שושיבא"
+    },
+    {
+     "lang": "deu",
+     "text": " 294.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שושמנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 331.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שחל"
+    },
+    {
+     "lang": "deu",
+     "text": " 68.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שחלנים"
+    },
+    {
+     "lang": "deu",
+     "text": " 291.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שחלת"
+    },
+    {
+     "lang": "deu",
+     "text": " 361.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שתף"
+    },
+    {
+     "lang": "deu",
+     "text": " 182.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שיבאי"
+    },
+    {
+     "lang": "deu",
+     "text": " 309.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שילשול"
+    },
+    {
+     "lang": "deu",
+     "text": " 242. 335.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שילשול קטן"
+    },
+    {
+     "lang": "deu",
+     "text": " 335."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "שונרא ן. שינרא.\nשלינונא 174.\nשלך 174.\nשמיר 351.\nשממית 223. 299.\nשממיתא 223, 300.\nשנהבים 149.\nשפיפון 243.\nשפן 110. 290.\nשפנונא 169.\nשפנינא 206.\nשפקא 96.\nשפר נונא 267.\nשקיטנא 170.\nשקנאי 185.\nשקץ 4. 218.\nשרץ 4. 218.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "שונרא ן. שינרא"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שלינונא"
+    },
+    {
+     "lang": "deu",
+     "text": " 174.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שלך"
+    },
+    {
+     "lang": "deu",
+     "text": " 174.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שמיר"
+    },
+    {
+     "lang": "deu",
+     "text": " 351.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שממית"
+    },
+    {
+     "lang": "deu",
+     "text": " 223. 299.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שממיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 223, 300.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שנהבים"
+    },
+    {
+     "lang": "deu",
+     "text": " 149.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שפיפון"
+    },
+    {
+     "lang": "deu",
+     "text": " 243.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שפן"
+    },
+    {
+     "lang": "deu",
+     "text": " 110. 290.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שפנונא"
+    },
+    {
+     "lang": "deu",
+     "text": " 169.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שפנינא"
+    },
+    {
+     "lang": "deu",
+     "text": " 206.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שפקא"
+    },
+    {
+     "lang": "deu",
+     "text": " 96.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שפר נונא"
+    },
+    {
+     "lang": "deu",
+     "text": " 267.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שקיטנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 170.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שקנאי"
+    },
+    {
+     "lang": "deu",
+     "text": " 185.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שקץ"
+    },
+    {
+     "lang": "deu",
+     "text": " 4. 218.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שרץ"
+    },
+    {
+     "lang": "deu",
+     "text": " 4. 218."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ש.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ש."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "שה 118.\nשורינקא 165.\nשיכלי 211.\nשכוי 194.\nשליו 210.\nשעיר 123.\nשעירה 123.\nשרף 238.\nשרף מעופף 105.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "שה"
+    },
+    {
+     "lang": "deu",
+     "text": " 118.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שורינקא"
+    },
+    {
+     "lang": "deu",
+     "text": " 165.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שיכלי"
+    },
+    {
+     "lang": "deu",
+     "text": " 211.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שכוי"
+    },
+    {
+     "lang": "deu",
+     "text": " 194.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שליו"
+    },
+    {
+     "lang": "deu",
+     "text": " 210.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שעיר"
+    },
+    {
+     "lang": "deu",
+     "text": " 123.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שעירה"
+    },
+    {
+     "lang": "deu",
+     "text": " 123.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שרף"
+    },
+    {
+     "lang": "deu",
+     "text": " 238.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שרף מעופף"
+    },
+    {
+     "lang": "deu",
+     "text": " 105."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ת.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ת."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "תאו 127.\nתוא 127.\nתולע 5. 335. 336. 338. 339.\nתולעת 297. 307. 308.\nתולעת שבגרוגרות 310.\nתולעת שבעיקרי גפנים 309.\nתולעת שבעיקרי זתים 310.\nתולעת שבתמרים 310.\nתולעת שני 348.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "תאו"
+    },
+    {
+     "lang": "deu",
+     "text": " 127.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תוא"
+    },
+    {
+     "lang": "deu",
+     "text": " 127.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תולע"
+    },
+    {
+     "lang": "deu",
+     "text": " 5. 335. 336. 338. 339.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תולעת"
+    },
+    {
+     "lang": "deu",
+     "text": " 297. 307. 308.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תולעת שבגרוגרות"
+    },
+    {
+     "lang": "deu",
+     "text": " 310.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תולעת שבעיקרי גפנים"
+    },
+    {
+     "lang": "deu",
+     "text": " 309.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תולעת שבעיקרי זתים"
+    },
+    {
+     "lang": "deu",
+     "text": " 310.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תולעת שבתמרים"
+    },
+    {
+     "lang": "deu",
+     "text": " 310.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תולעת שני"
+    },
+    {
+     "lang": "deu",
+     "text": " 348."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2333
+   ],
+   [
+    3308,
+    2711
+   ]
+  ],
+  "input_tokens": 11322,
+  "output_tokens": 3080,
+  "cost_usd": 0.0534,
+  "seconds": 16.5
+ }
+}

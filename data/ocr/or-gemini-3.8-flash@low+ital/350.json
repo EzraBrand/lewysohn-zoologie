@@ -1,0 +1,89 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Dritte Abtheilung.\nFabelhafte Thiere.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dritte Abtheilung.\nFabelhafte Thiere."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 498.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 498."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Fabeln, welche der Talmud den wirklichen Thieren andich-\ntet, ließen wir theils gänzlich unberücksichtigt, theils haben wir sie,\ninsoweit sie ein naturhistorisches Moment zur Grundlage haben, her-\nvorgehoben und zur Urgirung jenes Momentes benutzt. Hier aber wol-\nlen wir sämmtliche fabelhafte Thiere zusammenstellen, deren Existenz\nvon der Wissenschaft geleugnet wird, und welche nur die Erdichtung\nzu ihrer Schöpferin hat. Die ältesten Naturforscher, wie Aristoteles,\nAelian, Plinius u. A. nahmen die Dichtung für baare Wahrheit, und\nder Talmud übertrifft sie nur darin, daß er weit fruchtbarer in der\nErdichtung theils vergangener, theils zukünftiger Thiere ist, und nur\nda, wo er gegen naturhistorische Gesetze verstößt und so zu sagen in\nVerlegenheit geräth, hilft er sich mit dem Ausspruch: Das Thier ist\nnicht mehr vorhanden (נגנז). Die Thiere, welche vorhanden sind,\nund denen der Talmud bloß auch sonst gangbare Fabeln andichtet,\nsind der Salamander (§. 278), die Meerjungfer (§. 177), das Ein-\nhorn (§. 174), das Tachaschthier (§. 176), der Auerhahn (§. 267),\nder Strauß (§. 240), der Walfisch (§. 178), der Hornhecht (§. 350)\nund einige Andere.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Fabeln, welche der Talmud den wirklichen Thieren andich-\ntet, ließen wir theils gänzlich unberücksichtigt, theils haben wir sie,\ninsoweit sie ein naturhistorisches Moment zur Grundlage haben, her-\nvorgehoben und zur Urgirung jenes Momentes benutzt. Hier aber wol-\nlen wir sämmtliche fabelhafte Thiere zusammenstellen, deren Existenz\nvon der Wissenschaft geleugnet wird, und welche nur die Erdichtung\nzu ihrer Schöpferin hat. Die ältesten Naturforscher, wie Aristoteles,\nAelian, Plinius u. A. nahmen die Dichtung für baare Wahrheit, und\nder Talmud übertrifft sie nur darin, daß er weit fruchtbarer in der\nErdichtung theils vergangener, theils zukünftiger Thiere ist, und nur\nda, wo er gegen naturhistorische Gesetze verstößt und so zu sagen in\nVerlegenheit geräth, hilft er sich mit dem Ausspruch: Das Thier ist\nnicht mehr vorhanden ("
+    },
+    {
+     "lang": "arc",
+     "text": "נגנז"
+    },
+    {
+     "lang": "deu",
+     "text": "). Die Thiere, welche vorhanden sind,\nund denen der Talmud bloß auch sonst gangbare Fabeln andichtet,\nsind der Salamander (§. 278), die Meerjungfer (§. 177), das Ein-\nhorn (§. 174), das Tachaschthier (§. 176), der Auerhahn (§. 267),\nder Strauß (§. 240), der Walfisch (§. 178), der Hornhecht (§. 350)\nund einige Andere."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 499.\nDer Feuerwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 499.\nDer Feuerwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Plinius (h. n. 11, 36, 42) sagt: Das Feuer, das sonst der\nNatur feindliche Element, bringt Wesen hervor; so fliegt in den ge-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Plinius (h. n. 11, 36, 42) sagt: Das Feuer, das sonst der\nNatur feindliche Element, bringt Wesen hervor; so fliegt in den ge-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3280,
+    3928
+   ]
+  ],
+  "input_tokens": 2245,
+  "output_tokens": 540,
+  "cost_usd": 0.0037,
+  "seconds": 6.1
+ }
+}

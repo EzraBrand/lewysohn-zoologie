@@ -1,0 +1,381 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "388",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "388"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hebräisches und aram",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hebräisches und aram"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "נכחן 82.\nנגרא 121.\nנגר טורא 216.\nנדיין 292.\nנדל 322.\nנדמה 119.\nנוקד 118.\nנחש 234.\nנחש ברוח 355.\nנחש עקלחון 355.\nנחש שבארץ ישראל 237.\nניכדקם 142.\nנימא של מים 336.\nניפול 199. 289. 291.\nניקרי מקילקתא 336.\nנמיה 89.\nנמלה 328.\nנמר 72.\nנעמית 188.\nנעמיתה 188.\nנפילים 220.\nנפרזא 76.\nנץ 164.\nנרגול 194.\nנשר 165.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "נכחן"
+    },
+    {
+     "lang": "deu",
+     "text": " 82.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נגרא"
+    },
+    {
+     "lang": "deu",
+     "text": " 121.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נגר טורא"
+    },
+    {
+     "lang": "deu",
+     "text": " 216.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נדיין"
+    },
+    {
+     "lang": "deu",
+     "text": " 292.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נדל"
+    },
+    {
+     "lang": "deu",
+     "text": " 322.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נדמה"
+    },
+    {
+     "lang": "deu",
+     "text": " 119.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נוקד"
+    },
+    {
+     "lang": "deu",
+     "text": " 118.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נחש"
+    },
+    {
+     "lang": "deu",
+     "text": " 234.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נחש ברוח"
+    },
+    {
+     "lang": "deu",
+     "text": " 355.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נחש עקלחון"
+    },
+    {
+     "lang": "deu",
+     "text": " 355.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נחש שבארץ ישראל"
+    },
+    {
+     "lang": "deu",
+     "text": " 237.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ניכדקם"
+    },
+    {
+     "lang": "deu",
+     "text": " 142.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נימא של מים"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ניפול"
+    },
+    {
+     "lang": "deu",
+     "text": " 199. 289. 291.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ניקרי מקילקתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נמיה"
+    },
+    {
+     "lang": "deu",
+     "text": " 89.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נמלה"
+    },
+    {
+     "lang": "deu",
+     "text": " 328.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נמר"
+    },
+    {
+     "lang": "deu",
+     "text": " 72.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נעמית"
+    },
+    {
+     "lang": "deu",
+     "text": " 188.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נעמיתה"
+    },
+    {
+     "lang": "deu",
+     "text": " 188.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " 220.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נפרזא"
+    },
+    {
+     "lang": "deu",
+     "text": " 76.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נץ"
+    },
+    {
+     "lang": "deu",
+     "text": " 164.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נרגול"
+    },
+    {
+     "lang": "deu",
+     "text": " 194.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נשר"
+    },
+    {
+     "lang": "deu",
+     "text": " 165."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ס.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ס."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "סגיד ואכיל 186.\nסונא 178.\nסולתנית 259.\nסום 136.\nפוסא 136.\nסוסביל 294.\nסום j. סוסיא.\nסיח 140.\nסיח 140.\nסיליי 233. 373.\nסכות 194.\nסלופיתא 232. 374",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "סגיד ואכיל"
+    },
+    {
+     "lang": "deu",
+     "text": " 186.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סונא"
+    },
+    {
+     "lang": "deu",
+     "text": " 178.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סולתנית"
+    },
+    {
+     "lang": "deu",
+     "text": " 259.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סום"
+    },
+    {
+     "lang": "deu",
+     "text": " 136.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פוסא"
+    },
+    {
+     "lang": "deu",
+     "text": " 136.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סוסביל"
+    },
+    {
+     "lang": "deu",
+     "text": " 294.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סום"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "heb",
+     "text": "סוסיא"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סיח"
+    },
+    {
+     "lang": "deu",
+     "text": " 140.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סיח"
+    },
+    {
+     "lang": "deu",
+     "text": " 140.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סיליי"
+    },
+    {
+     "lang": "deu",
+     "text": " 233. 373.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סכות"
+    },
+    {
+     "lang": "deu",
+     "text": " 194.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סלופיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 232. 374"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1748,
+    2153
+   ],
+   [
+    1748,
+    3019
+   ]
+  ],
+  "input_tokens": 11398,
+  "output_tokens": 1600,
+  "cost_usd": 0.0388,
+  "seconds": 10.1
+ }
+}

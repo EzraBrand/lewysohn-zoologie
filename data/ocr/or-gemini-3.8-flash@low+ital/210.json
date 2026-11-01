@@ -1,0 +1,269 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "210\nDie Wachtel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "210\nDie Wachtel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "vor welcher der Adler sich fürchtet. — Raschi erklärt das Wort (wie\n§. 257) durch ארונדיילא, Hirondelle, Schwalbe, welche dem Adler\nunter die Fittiche fliegen und ihn so im Fluge hindern soll. — Mit\nRecht bemerkt jedoch Bochart (Hieroz. 5, 18, p. 793): Es ist\nfreilich höchst dunkel, daß die סנונית, wie der Talmud berichtet, dem\nAdler ein Schrecken sein soll; daß die Schwalbe von dem Adler ge-\nfürchtet werde, bemerkt kein Naturforscher*). — Nach Aristoteles\n(Thierg. 9, 2, 6) sind Feinde des Adlers der Reiher (Ερωδιὸς), der\nSpecht (Σίττη) und die Spechtart Τροχίλος; keiner dieser Vögel\nhat etwas mit der Schwalbe gemein. — Nach Plinius (h. n. 10,\n74, 95) ist es der Schwan (Olor) und ebenfalls der Trochilus. —\nIch vermuthe daher unter סנונית den Fliegenschnäpper und zwar\ndie Species Tyrannus intrepidus, der sich dem Adler auf den Rücken\nsetzt und ihn zur ängstlichen Gegenwehr nöthigt (Voigt l. c. 2. S.\n177). Der Fliegenschnäpper hat kurze Füße und lange Flügel wie\ndie Schwalbe; auch sein Rachen ist breit wie bei der Schwalbe, was\nihn zum Fang der Fliegen, die er leicht wegfängt, sehr geschickt\nmacht. Er steht, wie Linné den Rang ihm anweist, zwischen der\nSchwalbe und den Würgern, weshalb Raschi סנונית durch das, auch\nim Wesen ihm verwandte Hirondelle übersetzt. Jedenfalls ist es\neine müßige Spielerei, wenn Bochart (ibid.) in סנונית eine Conso-\nnantähnlichkeit mit Σίττη sehen will. — Ueber einige verschiedene\nArten unseres Vogels s. S. unt. 212.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "vor welcher der Adler sich fürchtet. — Raschi erklärt das Wort (wie\n§. 257) durch "
+    },
+    {
+     "lang": "heb",
+     "text": "ארונדיילא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Hirondelle, Schwalbe, welche dem Adler\nunter die Fittiche fliegen und ihn so im Fluge hindern soll. — Mit\nRecht bemerkt jedoch Bochart ("
+    },
+    {
+     "lang": "lat",
+     "text": "Hieroz. 5, 18, p. 793"
+    },
+    {
+     "lang": "deu",
+     "text": "): Es ist\nfreilich höchst dunkel, daß die "
+    },
+    {
+     "lang": "heb",
+     "text": "סנונית"
+    },
+    {
+     "lang": "deu",
+     "text": ", wie der Talmud berichtet, dem\nAdler ein Schrecken sein soll; daß die Schwalbe von dem Adler ge-\nfürchtet werde, bemerkt kein Naturforscher*). — Nach Aristoteles\n("
+    },
+    {
+     "lang": "lat",
+     "text": "Thierg."
+    },
+    {
+     "lang": "deu",
+     "text": " 9, 2, 6) sind Feinde des Adlers der Reiher ("
+    },
+    {
+     "lang": "grc",
+     "text": "Ερωδιὸς"
+    },
+    {
+     "lang": "deu",
+     "text": "), der\nSpecht ("
+    },
+    {
+     "lang": "grc",
+     "text": "Σίττη"
+    },
+    {
+     "lang": "deu",
+     "text": ") und die Spechtart "
+    },
+    {
+     "lang": "grc",
+     "text": "Τροχίλος"
+    },
+    {
+     "lang": "deu",
+     "text": "; keiner dieser Vögel\nhat etwas mit der Schwalbe gemein. — Nach Plinius ("
+    },
+    {
+     "lang": "lat",
+     "text": "h. n. 10,\n74, 95"
+    },
+    {
+     "lang": "deu",
+     "text": ") ist es der Schwan ("
+    },
+    {
+     "lang": "lat",
+     "text": "Olor"
+    },
+    {
+     "lang": "deu",
+     "text": ") und ebenfalls der "
+    },
+    {
+     "lang": "lat",
+     "text": "Trochilus"
+    },
+    {
+     "lang": "deu",
+     "text": ". —\nIch vermuthe daher unter "
+    },
+    {
+     "lang": "heb",
+     "text": "סנונית"
+    },
+    {
+     "lang": "deu",
+     "text": " den Fliegenschnäpper und zwar\ndie Species "
+    },
+    {
+     "lang": "lat",
+     "text": "Tyrannus intrepidus"
+    },
+    {
+     "lang": "deu",
+     "text": ", der sich dem Adler auf den Rücken\nsetzt und ihn zur ängstlichen Gegenwehr nöthigt (Voigt l. c. 2. S.\n177). Der Fliegenschnäpper hat kurze Füße und lange Flügel wie\ndie Schwalbe; auch sein Rachen ist breit wie bei der Schwalbe, was\nihn zum Fang der Fliegen, die er leicht wegfängt, sehr geschickt\nmacht. Er steht, wie Linné den Rang ihm anweist, zwischen der\nSchwalbe und den Würgern, weshalb Raschi "
+    },
+    {
+     "lang": "heb",
+     "text": "סנונית"
+    },
+    {
+     "lang": "deu",
+     "text": " durch das, auch\nim Wesen ihm verwandte Hirondelle übersetzt. Jedenfalls ist es\neine müßige Spielerei, wenn Bochart ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid."
+    },
+    {
+     "lang": "deu",
+     "text": ") in "
+    },
+    {
+     "lang": "heb",
+     "text": "סנונית"
+    },
+    {
+     "lang": "deu",
+     "text": " eine Conso-\nnantähnlichkeit mit "
+    },
+    {
+     "lang": "grc",
+     "text": "Σίττη"
+    },
+    {
+     "lang": "deu",
+     "text": " sehen will. — Ueber einige verschiedene\nArten unseres Vogels s. S. unt. 212."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 260.\nDie Wachtel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 260.\nDie Wachtel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Joma 75, b heißt es: ארבעה מיני סליו הן ואלו הן שיכלי וקיכלי\nופסיוני ושליו „Es giebt vier Arten von סליו, den Krammetsvogel\n(§. 261), die Drossel (§. 262), das Rebhuhn (§. 263) und die\nWachtel. Wir haben סליו von שליו wohl zu unterscheiden, nur\nletztres heißt Wachtel, erstres dagegen hat die Bedeutung des\ngleichlautenden arab. سَلْوَى fettsein, und hat hier die besondere\nBedeutung des Geschmackvollen, Delicaten; denn sollte סליו\nebenfalls Wachtel heißen, so schien es erstens, als wenn der Tal-\nmud 4 Wachtelarten annehme, was weder von einem alten, noch",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Joma 75, b heißt es: "
+    },
+    {
+     "lang": "heb",
+     "text": "ארבעה מיני סליו הן ואלו הן שיכלי וקיכלי\nופסיוני ושליו"
+    },
+    {
+     "lang": "deu",
+     "text": " „Es giebt vier Arten von "
+    },
+    {
+     "lang": "heb",
+     "text": "סליו"
+    },
+    {
+     "lang": "deu",
+     "text": ", den Krammetsvogel\n(§. 261), die Drossel (§. 262), das Rebhuhn (§. 263) und die\nWachtel. Wir haben "
+    },
+    {
+     "lang": "heb",
+     "text": "סליו"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "heb",
+     "text": "שליו"
+    },
+    {
+     "lang": "deu",
+     "text": " wohl zu unterscheiden, nur\nletztres heißt Wachtel, erstres dagegen hat die Bedeutung des\ngleichlautenden arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "سَلْوَى"
+    },
+    {
+     "lang": "deu",
+     "text": " fettsein, und hat hier die besondere\nBedeutung des Geschmackvollen, Delicaten; denn sollte "
+    },
+    {
+     "lang": "heb",
+     "text": "סליו"
+    },
+    {
+     "lang": "deu",
+     "text": "\nebenfalls Wachtel heißen, so schien es erstens, als wenn der Tal-\nmud 4 Wachtelarten annehme, was weder von einem alten, noch"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Nempe avem סנונית aquilae esse terrori, quorsum Talmudici scrip-\nserint, valde obscurum est. Hirundinem ab aquila timeri naturae scru-\ntatorum nullus observat.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nempe avem "
+    },
+    {
+     "lang": "heb",
+     "text": "סנונית"
+    },
+    {
+     "lang": "lat",
+     "text": " aquilae esse terrori, quorsum Talmudici scrip-\nserint, valde obscurum est. Hirundinem ab aquila timeri naturae scru-\ntatorum nullus observat."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2412
+   ],
+   [
+    3308,
+    2680
+   ]
+  ],
+  "input_tokens": 3367,
+  "output_tokens": 1456,
+  "cost_usd": 0.008,
+  "seconds": 14.2
+ }
+}

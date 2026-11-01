@@ -1,0 +1,293 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Flußadler. — Der Beinbrecher. — Der Geier.\t167",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Flußadler. — Der Beinbrecher. — Der Geier.\t167"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 194.\nDer Flußadler.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 194.\nDer Flußadler."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "עוניה (Chulin 62, a), und עז (Kelim 17, 14). Die Schwingen,\nwelche bis zur Schwanzspitze reichen (Voigt l. c. 2. S. 278), wur-\nden zu Geräthschaften benutzt (Kelim ibid.). Er hält sich nie an\nden von Menschen bewohnten Oertern (בישוב) auf (Chulin ibid.).\nLandau übersetzt עז durch Meeradler, אוז hingegen durch\nschwarzen Adler (A. Valera); da aber das jerusalemische Tar-\ngum עוניה durch עזא, oder אוז wiedergiebt, so kann das letztre Wort\nnicht der schwarze Adler sein, da dieser gerade der kleinsten Adlerart\nangehört, während jener gedachte Gebrauch der Adlerschwingen nur\nan eine große Adlerart denken läßt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "עוניה"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin"
+    },
+    {
+     "lang": "deu",
+     "text": " 62, a), und "
+    },
+    {
+     "lang": "heb",
+     "text": "עז"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Kelim"
+    },
+    {
+     "lang": "deu",
+     "text": " 17, 14). Die Schwingen,\nwelche bis zur Schwanzspitze reichen (Voigt l. c. 2. S. 278), wur-\nden zu Geräthschaften benutzt ("
+    },
+    {
+     "lang": "lat",
+     "text": "Kelim ibid."
+    },
+    {
+     "lang": "deu",
+     "text": "). Er hält sich nie an\nden von Menschen bewohnten Oertern ("
+    },
+    {
+     "lang": "heb",
+     "text": "בישוב"
+    },
+    {
+     "lang": "deu",
+     "text": ") auf ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin ibid."
+    },
+    {
+     "lang": "deu",
+     "text": ").\nLandau übersetzt "
+    },
+    {
+     "lang": "heb",
+     "text": "עז"
+    },
+    {
+     "lang": "deu",
+     "text": " durch Meeradler, "
+    },
+    {
+     "lang": "heb",
+     "text": "אוז"
+    },
+    {
+     "lang": "deu",
+     "text": " hingegen durch\nschwarzen Adler ("
+    },
+    {
+     "lang": "lat",
+     "text": "A. Valera"
+    },
+    {
+     "lang": "deu",
+     "text": "); da aber das jerusalemische Tar-\ngum "
+    },
+    {
+     "lang": "heb",
+     "text": "עוניה"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "heb",
+     "text": "עזא"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "אוז"
+    },
+    {
+     "lang": "deu",
+     "text": " wiedergiebt, so kann das letztre Wort\nnicht der schwarze Adler sein, da dieser gerade der kleinsten Adlerart\nangehört, während jener gedachte Gebrauch der Adlerschwingen nur\nan eine große Adlerart denken läßt."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 195.\nDer Beinbrecher.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 195.\nDer Beinbrecher."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "פרס, der neben dem Flußadler (§. 194) Chulin 62, a erwähnt\nwird. Auch er hält sich an bewohnten Oertern nicht auf, der Bein-\nbrecher gehört zum Adlergeschlecht und ist der weißschwänzige See-\nadler (Haliaëtos ossifragus), s. Voigt l. c. 2. S. 277. Seinen\nNamen erhielt er wegen seiner Unbändigkeit und Wildheit, er hält\nsich zumal am Seestrande auf und raubt große Säugethiere und\nVögel, wie Füchse, Trappen, Gänse u. s. w. — Ueber die Adlerart\nPerknopterus s. Anhang s. v. ירודות.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "פרס"
+    },
+    {
+     "lang": "deu",
+     "text": ", der neben dem Flußadler (§. 194) "
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin"
+    },
+    {
+     "lang": "deu",
+     "text": " 62, a erwähnt\nwird. Auch er hält sich an bewohnten Oertern nicht auf, der Bein-\nbrecher gehört zum Adlergeschlecht und ist der weißschwänzige See-\nadler ("
+    },
+    {
+     "lang": "lat",
+     "text": "Haliaëtos ossifragus"
+    },
+    {
+     "lang": "deu",
+     "text": "), s. Voigt l. c. 2. S. 277. Seinen\nNamen erhielt er wegen seiner Unbändigkeit und Wildheit, er hält\nsich zumal am Seestrande auf und raubt große Säugethiere und\nVögel, wie Füchse, Trappen, Gänse u. s. w. — Ueber die Adlerart\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Perknopterus"
+    },
+    {
+     "lang": "deu",
+     "text": " s. Anhang s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "ירודות"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 196.\nDer Geier.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 196.\nDer Geier."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Nach längerer Discussion kommt der Talmud zum Schlusse, daß\nראה ,דאה ,איה und דיה einen und denselben Vogel bedeuten, erklärt aber\nnur das Wort ראה (sehen), welches das scharfe Gesicht des Vogels\nanzeigt: „Er kann,“ heißt es dort, „in Babel sich befinden und\ndennoch ein Aas in Palästina erblicken.“ — Die Glosse hält diese\nAngabe für eine Metapher, giebt aber das außerordentlich scharfe\nGesicht des Vogels zu. Obwohl nun alle Raubvögel einen scharfen\nBlick haben, so ersieht man doch aus Raschi (B. mez. 24, b), wel-\ncher Vogel namentlich gemeint ist. Hier wird erzählt, wie der Vo-\ngel דיי ein Stück Fleisch vom Markt nahm und es in einen Garten\nherabfallen ließ. Dazu Raschi: עוף שקורין אוולטור והוא לשון דיה „der",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nach längerer Discussion kommt der Talmud zum Schlusse, daß\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ראה ,דאה ,איה"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "דיה"
+    },
+    {
+     "lang": "deu",
+     "text": " einen und denselben Vogel bedeuten, erklärt aber\nnur das Wort "
+    },
+    {
+     "lang": "heb",
+     "text": "ראה"
+    },
+    {
+     "lang": "deu",
+     "text": " (sehen), welches das scharfe Gesicht des Vogels\nanzeigt: „Er kann,“ heißt es dort, „in Babel sich befinden und\ndennoch ein Aas in Palästina erblicken.“ — Die Glosse hält diese\nAngabe für eine Metapher, giebt aber das außerordentlich scharfe\nGesicht des Vogels zu. Obwohl nun alle Raubvögel einen scharfen\nBlick haben, so ersieht man doch aus Raschi ("
+    },
+    {
+     "lang": "lat",
+     "text": "B. mez."
+    },
+    {
+     "lang": "deu",
+     "text": " 24, b), wel-\ncher Vogel namentlich gemeint ist. Hier wird erzählt, wie der Vo-\ngel "
+    },
+    {
+     "lang": "heb",
+     "text": "דיי"
+    },
+    {
+     "lang": "deu",
+     "text": " ein Stück Fleisch vom Markt nahm und es in einen Garten\nherabfallen ließ. Dazu Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "עוף שקורין אוולטור והוא לשון דיה"
+    },
+    {
+     "lang": "deu",
+     "text": " „der"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2084
+   ],
+   [
+    3308,
+    2988
+   ]
+  ],
+  "input_tokens": 3342,
+  "output_tokens": 1999,
+  "cost_usd": 0.01,
+  "seconds": 11.1
+ }
+}

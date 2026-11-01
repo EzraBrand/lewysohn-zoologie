@@ -3537,8 +3537,20 @@
   {
    "type": "body",
    "marker": "",
-   "text": "This cetacean, which is also called the sperm whale, is not, it is true, expressly named in the Talmud; yet, just as of the musk deer only the musk is mentioned (§. 150), so too of the cachalot only ambergris is mentioned, provided that the explanation of the Aruch were the more correct one among the divergent explanations, which, however, is highly questionable. Keritot 6a enumerates the species of which the incense in the Temple consisted. Among these a little of the כיפה הירדן was also taken, a species that is explained in various ways. Raschi considers it a kind of herb growing on the bank of the Jordan*); Aruch has two explanations, according to which that species is either a fragrant plant or ambergris. The explanation reads: רעי של רג הגדל בירדן והוא עמכרא. Should these words have the meaning: “Excrement of the great fish in the Jordan, namely the",
+   "text": "This whale, which is also called the sperm whale, is admittedly not expressly named in the Talmud; yet, just as only the musk of the musk deer is mentioned (§. 150), so too only the ambergris of the cachalot is mentioned, provided that the explanation of the Aruch, among the divergent explanations, is the more correct one, which, however, is highly questionable. Keritot 6a enumerates the species of which the incense in the Temple consisted. Of these, a little was also taken from the כיפת הירדן, a species that is explained in various ways. Rashi takes it to be a kind of herb growing on the bank of the Jordan*); the Aruch has two explanations, according to which that species is either a fragrant plant or ambergris. The explanation reads: רעי של דג הגדל בירדן והוא עמברא. Should these words mean \"excrement of the great fish in the Jordan, namely [p. 159] ambergris\", the explanation would be improbable for this reason alone, since the cachalot grows 70—80 feet long and therefore cannot be present in the Jordan; it is found in almost all seas and is occasionally driven onto coasts. If, however, the words דג הגדל בירדן mean \"the fish growing in the Jordan\", then it cannot be true ambergris, and the explanation would be all the less satisfactory.",
    "page": 158
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "As for ambergris itself, it has until now, as Voigt (l. c, 1, p. 467) says, been considered a morbid accumulation of excrement*); Blainville (in the Journal de Pharmacie, May 1832, p. 246), however, has voiced the conjecture that it is a secretion in special sacs, like that of the beaver or of the musk deer, in the region of the anus. The error of regarding ambergris as excrement arose from the fact that cuttlefish beaks are found in it; yet it could have been voided by the animal together with the excrement.",
+   "page": 159
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "On the operculum (ציפורן), which likewise belonged to the incense in the Temple, compare the appendix §. 513.",
+   "page": 159
   }
  ],
  "notes": [
@@ -3997,12 +4009,18 @@
    "marker": "*)",
    "text": "On the etymology of the name ירדן see my Aphorisms in the L. Bl. d. Orients 1849 col. 391.",
    "page": 158
+  },
+  {
+   "type": "footnote",
+   "marker": "*)",
+   "text": "And so כיפת may be related to כופיתא (§. 96).",
+   "page": 159
   }
  ],
  "meta": {
   "model": "anthropic/claude-opus-5.5",
   "effort": "medium",
   "rules": "v5",
-  "cost_usd": 2.971
+  "cost_usd": 3.0062
  }
 }

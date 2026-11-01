@@ -1,0 +1,253 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Gurkenraupe.\t333",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Gurkenraupe.\t333"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "gedachten Falle als unreines Thier betrachtet wird. — Der einzige\nGrund, weshalb die Tosephot von der Erklärung Raschi's, welcher\nביניחא als Raupe erklärt, abgehen, ist der, daß bei einer Raupe das\nVerbot des Genusses ja von selbst sich versteht, und daher keiner aus-\ndrücklichen Erwähnung bedurfte, und Aruch stimmt dem bei. — Allein\n1) muß es wohl sicherlich als höchst befremdend erscheinen, daß ein\nFisch im Wasser rein und zugleich auf dem Lande unrein sein sollte;\n2) kann ביניחא als Fischname nur im Sinne von בינוהא, oder בנותא\nder Bonetfisch (§. 322) sein, dieser wird aber etwa eine Elle lang,\nund begiebt sich auch nicht nach Art einiger Fische von selbst aufs\nLand. Auch ist er ein Meerfisch, und woher soll er auf gepflügte\nAecker, wie Tosephot כרכא erklären, kommen? Gerade in der Nähe\ndes Meeres, an den der Ueberfluthung ausgesetzten Ufern, findet man\nsolche Aecker gewiß selten, oder gar nicht; endlich 3) und dies ist der\nHaupteinwand, bedurfte es allerdings der Erwähnung jenes Verbo-\ntes, da die Raupe allerdings nicht immer zu essen verboten ist, so\nist die Gurkenraupe (§. 459), solange sie auf der Frucht sich befindet\nzu essen gestattet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "gedachten Falle als unreines Thier betrachtet wird. — Der einzige\nGrund, weshalb die Tosephot von der Erklärung Raschi's, welcher\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ביניחא"
+    },
+    {
+     "lang": "deu",
+     "text": " als Raupe erklärt, abgehen, ist der, daß bei einer Raupe das\nVerbot des Genusses ja von selbst sich versteht, und daher keiner aus-\ndrücklichen Erwähnung bedurfte, und Aruch stimmt dem bei. — Allein\n1) muß es wohl sicherlich als höchst befremdend erscheinen, daß ein\nFisch im Wasser rein und zugleich auf dem Lande unrein sein sollte;\n2) kann "
+    },
+    {
+     "lang": "heb",
+     "text": "ביניחא"
+    },
+    {
+     "lang": "deu",
+     "text": " als Fischname nur im Sinne von "
+    },
+    {
+     "lang": "heb",
+     "text": "בינוהא"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "בנותא"
+    },
+    {
+     "lang": "deu",
+     "text": "\nder Bonetfisch (§. 322) sein, dieser wird aber etwa eine Elle lang,\nund begiebt sich auch nicht nach Art einiger Fische von selbst aufs\nLand. Auch ist er ein Meerfisch, und woher soll er auf gepflügte\nAecker, wie Tosephot "
+    },
+    {
+     "lang": "heb",
+     "text": "כרכא"
+    },
+    {
+     "lang": "deu",
+     "text": " erklären, kommen? Gerade in der Nähe\ndes Meeres, an den der Ueberfluthung ausgesetzten Ufern, findet man\nsolche Aecker gewiß selten, oder gar nicht; endlich 3) und dies ist der\nHaupteinwand, bedurfte es allerdings der Erwähnung jenes Verbo-\ntes, da die Raupe allerdings nicht immer zu essen verboten ist, so\nist die Gurkenraupe (§. 459), solange sie auf der Frucht sich befindet\nzu essen gestattet."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Es empfiehlt sich daher die Erklärung Raschi's. כרכא ist das\ngr. Κράμβη, worüber ausführlich §. 394, und ist der Kohl, an\nwelchen viele Arten von Raupen sich befinden*). ביניחא erklärt Raschi\ndurch: תולעה הנמצאת בכרוב שקורין ציילא „der Wurm, welcher im\nKohl gefunden und ציילא genannt wird\"; das Fremdwort scheint\ncorrumpirt aus צנילא**), Chenille und ist in unserer Stelle speciell\ndie Kohleule, Mamestra brassicae (Voigt l. c. 5. S. 164) ge-\nmeint. — Bemerkt sei, daß auch der Blutigel (§. 467) ביני heißt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Es empfiehlt sich daher die Erklärung Raschi's. "
+    },
+    {
+     "lang": "heb",
+     "text": "כרכא"
+    },
+    {
+     "lang": "deu",
+     "text": " ist das\ngr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Κράμβη"
+    },
+    {
+     "lang": "deu",
+     "text": ", worüber ausführlich §. 394, und ist der Kohl, an\nwelchen viele Arten von Raupen sich befinden*). "
+    },
+    {
+     "lang": "heb",
+     "text": "ביניחא"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt Raschi\ndurch: "
+    },
+    {
+     "lang": "heb",
+     "text": "תולעה הנמצאת בכרוב שקורין ציילא"
+    },
+    {
+     "lang": "deu",
+     "text": " „der Wurm, welcher im\nKohl gefunden und "
+    },
+    {
+     "lang": "heb",
+     "text": "ציילא"
+    },
+    {
+     "lang": "deu",
+     "text": " genannt wird\"; das Fremdwort scheint\ncorrumpirt aus "
+    },
+    {
+     "lang": "heb",
+     "text": "צנילא"
+    },
+    {
+     "lang": "deu",
+     "text": "**), "
+    },
+    {
+     "lang": "fra",
+     "text": "Chenille"
+    },
+    {
+     "lang": "deu",
+     "text": " und ist in unserer Stelle speciell\ndie Kohleule, "
+    },
+    {
+     "lang": "lat",
+     "text": "Mamestra brassicae"
+    },
+    {
+     "lang": "deu",
+     "text": " (Voigt l. c. 5. S. 164) ge-\nmeint. — Bemerkt sei, daß auch der Blutigel (§. 467) "
+    },
+    {
+     "lang": "heb",
+     "text": "ביני"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 459.\nDie Gurkenraupe.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 459.\nDie Gurkenraupe."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 67, b wird gesagt, daß der Wurm, welcher an der noch\nam Boden haftenden Gurke sich befindet, zu essen verboten ist, da sie\nin diesem Falle שרץ הארץ „Landinsect\" heißt. Ist die Gurke abge-\nschnitten, so ist der Wurm nur dann verboten, wann er aus der\nFrucht gekrochen ist, solange er jedoch in der Gurke bleibt, wird er als\nein aus ihrem Stoffe selbst entstandenes Geschöpf angesehen, und dem-\nnach als rein betrachtet. Man hat somit in ritueller Beziehung ge-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 67, b wird gesagt, daß der Wurm, welcher an der noch\nam Boden haftenden Gurke sich befindet, zu essen verboten ist, da sie\nin diesem Falle "
+    },
+    {
+     "lang": "heb",
+     "text": "שרץ הארץ"
+    },
+    {
+     "lang": "deu",
+     "text": " „Landinsect\" heißt. Ist die Gurke abge-\nschnitten, so ist der Wurm nur dann verboten, wann er aus der\nFrucht gekrochen ist, solange er jedoch in der Gurke bleibt, wird er als\nein aus ihrem Stoffe selbst entstandenes Geschöpf angesehen, und dem-\nnach als rein betrachtet. Man hat somit in ritueller Beziehung ge-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Die Kohlraupe heißt im Griechischen: Κραμβίς,",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Kohlraupe heißt im Griechischen: "
+    },
+    {
+     "lang": "grc",
+     "text": "Κραμβίς"
+    },
+    {
+     "lang": "deu",
+     "text": ","
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "So hat Raschi טיישא für טיינשא, vergl. §. 443.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "So hat Raschi "
+    },
+    {
+     "lang": "heb",
+     "text": "טיישא"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "heb",
+     "text": "טיינשא"
+    },
+    {
+     "lang": "deu",
+     "text": ", vergl. §. 443."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3288,
+    2438
+   ],
+   [
+    3288,
+    2582
+   ]
+  ],
+  "input_tokens": 3302,
+  "output_tokens": 1861,
+  "cost_usd": 0.0095,
+  "seconds": 15.1
+ }
+}

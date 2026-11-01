@@ -1,0 +1,325 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Kranich. — Der Fischreiher. 169",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Kranich. — Der Fischreiher. 169"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "dessen nicht unerwähnt bleiben, daß im Arabischen der Bienen-\nfresser (Merops Apiaster) شِرِقْراق (Schirikrakon) heißt, und es\nkann hier allerdings zwischen den beiden arabischen Namen, die den\nbeiden Namen רחם und שרקרק entsprechen, die aber der Talmud\neinem und demselben Vogel zuertheilt, die Wahl bleiben. — Bei\nCuvier heißt dieser Vogel (Erdgeier) Perknopterus, doch ist dieser\nkeineswegs mit dem Περκνόπτερος der Alten identisch, über welchen\nim Anhang s. v. ירודוח gehandelt wird.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "dessen nicht unerwähnt bleiben, daß im Arabischen der Bienen-\nfresser (Merops Apiaster) "
+    },
+    {
+     "lang": "ara",
+     "text": "شِرِقْراق"
+    },
+    {
+     "lang": "deu",
+     "text": " (Schirikrakon) heißt, und es\nkann hier allerdings zwischen den beiden arabischen Namen, die den\nbeiden Namen "
+    },
+    {
+     "lang": "heb",
+     "text": "רחם"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "שרקרק"
+    },
+    {
+     "lang": "deu",
+     "text": " entsprechen, die aber der Talmud\neinem und demselben Vogel zuertheilt, die Wahl bleiben. — Bei\nCuvier heißt dieser Vogel (Erdgeier) Perknopterus, doch ist dieser\nkeineswegs mit dem "
+    },
+    {
+     "lang": "grc",
+     "text": "Περκνόπτερος"
+    },
+    {
+     "lang": "deu",
+     "text": " der Alten identisch, über welchen\nim Anhang s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "ירודוח"
+    },
+    {
+     "lang": "deu",
+     "text": " gehandelt wird."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 199.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 199."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Kranich.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Kranich."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Kiduschin 44, a wird gesagt: Resch Lakesch schrie wie ein כרוכיא,\nwozu Raschi: Es ist die Uebersetzung von עגור (Jerem. 8, 7) und heißt\nגרואה Grue. — Vergl. man aber hierzu Raschi zu jener Bibelstelle,\nso muß entweder in unserer Raschistelle zum Talmud סום für עגור\nemendirt, oder in jener Raschistelle zur Bibel שפנונא וסנונית וכורכיא\ngeordnet werden, jedenfalls ist כרוכיא der Kranich und nicht wie\nLandau (Aruch s. v. קליאם) will, der Rabe. Landau läßt sich\nvom Gleichlaut mit dem gr. Κόραξ verleiten*); allein weit eher ver-\ndient das Wort mit dem arab. كُرْكِيْ verglichen zu werden, womit\nSaadias zu Jerem. l. c. עגור übersetzt, und welches in jener\nSprache den Kranich bezeichnet. — Der merkwürdige Bau der\nLuftröhre dieses Vogels hilft ihm zu einem durchdringenden, starken\nGeschrei, worauf in unserer Talmudstelle hingewiesen wird. S. Voigt\nl. c. 2. S. 355.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Kiduschin 44, a wird gesagt: Resch Lakesch schrie wie ein "
+    },
+    {
+     "lang": "heb",
+     "text": "כרוכיא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nwozu Raschi: Es ist die Uebersetzung von "
+    },
+    {
+     "lang": "heb",
+     "text": "עגור"
+    },
+    {
+     "lang": "deu",
+     "text": " (Jerem. 8, 7) und heißt\n"
+    },
+    {
+     "lang": "heb",
+     "text": "גרואה"
+    },
+    {
+     "lang": "deu",
+     "text": " Grue. — Vergl. man aber hierzu Raschi zu jener Bibelstelle,\nso muß entweder in unserer Raschistelle zum Talmud "
+    },
+    {
+     "lang": "heb",
+     "text": "סום"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "heb",
+     "text": "עגור"
+    },
+    {
+     "lang": "deu",
+     "text": "\nemendirt, oder in jener Raschistelle zur Bibel "
+    },
+    {
+     "lang": "heb",
+     "text": "שפנונא וסנונית וכורכיא"
+    },
+    {
+     "lang": "deu",
+     "text": "\ngeordnet werden, jedenfalls ist "
+    },
+    {
+     "lang": "heb",
+     "text": "כרוכיא"
+    },
+    {
+     "lang": "deu",
+     "text": " der Kranich und nicht wie\nLandau (Aruch s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "קליאם"
+    },
+    {
+     "lang": "deu",
+     "text": ") will, der Rabe. Landau läßt sich\nvom Gleichlaut mit dem gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Κόραξ"
+    },
+    {
+     "lang": "deu",
+     "text": " verleiten*); allein weit eher ver-\ndient das Wort mit dem arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "كُرْكِيْ"
+    },
+    {
+     "lang": "deu",
+     "text": " verglichen zu werden, womit\nSaadias zu Jerem. l. c. "
+    },
+    {
+     "lang": "heb",
+     "text": "עגור"
+    },
+    {
+     "lang": "deu",
+     "text": " übersetzt, und welches in jener\nSprache den Kranich bezeichnet. — Der merkwürdige Bau der\nLuftröhre dieses Vogels hilft ihm zu einem durchdringenden, starken\nGeschrei, worauf in unserer Talmudstelle hingewiesen wird. S. Voigt\nl. c. 2. S. 355."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 200.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 200."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Fischreiher.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Fischreiher."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 63, a heißt es: אנפה ist ein grausamer, hochfliegender\nVogel, die eigentliche דיה רגונית (grausame דיה, s. Art. Storch),\nheißt aber deshalb אנפה, weil er mit seinen Genossen zürnt (אנף,\ndavon das Nomen אף, Zorn), d. h., sich herumbeißt und wild ist.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 63, a heißt es: "
+    },
+    {
+     "lang": "heb",
+     "text": "אנפה"
+    },
+    {
+     "lang": "deu",
+     "text": " ist ein grausamer, hochfliegender\nVogel, die eigentliche "
+    },
+    {
+     "lang": "heb",
+     "text": "דיה רגונית"
+    },
+    {
+     "lang": "deu",
+     "text": " (grausame "
+    },
+    {
+     "lang": "heb",
+     "text": "דיה"
+    },
+    {
+     "lang": "deu",
+     "text": ", s. Art. Storch),\nheißt aber deshalb "
+    },
+    {
+     "lang": "heb",
+     "text": "אנפה"
+    },
+    {
+     "lang": "deu",
+     "text": ", weil er mit seinen Genossen zürnt ("
+    },
+    {
+     "lang": "heb",
+     "text": "אנף"
+    },
+    {
+     "lang": "deu",
+     "text": ",\ndavon das Nomen "
+    },
+    {
+     "lang": "heb",
+     "text": "אף"
+    },
+    {
+     "lang": "deu",
+     "text": ", Zorn), d. h., sich herumbeißt und wild ist."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Spätere Schriftsteller, wie Salomon Algasi in seinem Werke אהבת עולם\n(Dyrhenf. 5453) S. 113, b, lesen כורביא, was allerdings an corvus erinnert.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Spätere Schriftsteller, wie Salomon Algasi in seinem Werke "
+    },
+    {
+     "lang": "heb",
+     "text": "אהבת עולם"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Dyrhenf. 5453) S. 113, b, lesen "
+    },
+    {
+     "lang": "heb",
+     "text": "כורביא"
+    },
+    {
+     "lang": "deu",
+     "text": ", was allerdings an corvus erinnert."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2774
+   ],
+   [
+    3308,
+    2198
+   ]
+  ],
+  "input_tokens": 11339,
+  "output_tokens": 1970,
+  "cost_usd": 0.0424,
+  "seconds": 11.5
+ }
+}

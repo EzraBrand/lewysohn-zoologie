@@ -1,0 +1,273 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "262\nEine kleine Fischart. — Die Umbrine.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "262\nEine kleine Fischart. — Die Umbrine."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Phoxinus, engl. the Minow, Voigt (l. c. 3, S. 229) sagt von ihr:\nEin kleiner, nur einige Zoll erreichender, wohlschmeckender Fisch. —\nNur Gittin 69, b übersetzt Raschi das Wort durch: ציר דגים קטנים.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Phoxinus"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "eng",
+     "text": "engl. the Minow"
+    },
+    {
+     "lang": "deu",
+     "text": ", Voigt (l. c. 3, S. 229) sagt von ihr:\nEin kleiner, nur einige Zoll erreichender, wohlschmeckender Fisch. —\nNur Gittin 69, b übersetzt Raschi das Wort durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "ציר דגים קטנים"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 332.\nEine kleine Fischart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 332.\nEine kleine Fischart."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "גולדנא (Tamid 32, b) und גילדנא (Keritot 6, a). Landau\nvergleicht das Wort mit Γαλεώτης, Schwertfisch; allein dieser Fisch\nwird im Talmud anders benannt (§. 327), richtiger dürfte die Ver-\ngleichung mit Γαλεούδη sein, womit ein haiartiger Fisch benannt\nwird. Dieser Fisch, über dessen Größe gefabelt wird, heißt גילדנא\nדימא (B. batra 73, b; s. §. 352), diejenige Fischart aber, die vielleicht einige\nAehnlichkeit mit jenem Meerfisch hat, heißt גולדנא דבי גילי „die Gil-\ndane des Schilfes“, weil sie klein ist und unter Schilf sich aufhält.\nRaschi sagt zur leztern Stelle: Die Gildanen sind sehr kleine Fische.\nAus den Angaben des Talmuds läßt sich aber die Natur des Fisches\nschwerlich bestimmen. Er wird eingesalzen und kann, wenn man ihn\nabgewaschen, schon gegessen werden (Tamid 32, b); er muß wohlschmeckend\nsein, da man mit ihm Alexander d. Gr. aufwartete (ib.), und ein Mann,\nwelcher seinen Proceß gewinnen wollte, brachte einen Korb voll die-\nser Fische dem Richter zum Geschenke (Jalkut Schim. Exodus fol.\n96, col. 3). Er wird aber auch gebraten, wobei empfohlen wird,\ndem Fische die Haut nicht abzuziehen, weil sonst der Fisch zerfällt\n(Sanhedrin 100, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "גולדנא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Tamid 32, b) und "
+    },
+    {
+     "lang": "arc",
+     "text": "גילדנא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Keritot 6, a). Landau\nvergleicht das Wort mit "
+    },
+    {
+     "lang": "grc",
+     "text": "Γαλεώτης"
+    },
+    {
+     "lang": "deu",
+     "text": ", Schwertfisch; allein dieser Fisch\nwird im Talmud anders benannt (§. 327), richtiger dürfte die Ver-\ngleichung mit "
+    },
+    {
+     "lang": "grc",
+     "text": "Γαλεούδη"
+    },
+    {
+     "lang": "deu",
+     "text": " sein, womit ein haiartiger Fisch benannt\nwird. Dieser Fisch, über dessen Größe gefabelt wird, heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "גילדנא\nדימא"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. batra 73, b; s. §. 352), diejenige Fischart aber, die vielleicht einige\nAehnlichkeit mit jenem Meerfisch hat, heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "גולדנא דבי גילי"
+    },
+    {
+     "lang": "deu",
+     "text": " „die Gil-\ndane des Schilfes“, weil sie klein ist und unter Schilf sich aufhält.\nRaschi sagt zur leztern Stelle: Die Gildanen sind sehr kleine Fische.\nAus den Angaben des Talmuds läßt sich aber die Natur des Fisches\nschwerlich bestimmen. Er wird eingesalzen und kann, wenn man ihn\nabgewaschen, schon gegessen werden (Tamid 32, b); er muß wohlschmeckend\nsein, da man mit ihm Alexander d. Gr. aufwartete (ib.), und ein Mann,\nwelcher seinen Proceß gewinnen wollte, brachte einen Korb voll die-\nser Fische dem Richter zum Geschenke (Jalkut Schim. Exodus fol.\n96, col. 3). Er wird aber auch gebraten, wobei empfohlen wird,\ndem Fische die Haut nicht abzuziehen, weil sonst der Fisch zerfällt\n(Sanhedrin 100, b)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 333.\nDie Umbrine.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 333.\nDie Umbrine."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Während die Commentare über צחנה und ציחין (Nedarim 51, b)\nuneinig sind, ob jene Namen eine bestimmte kleine Fischart, oder eine\naus Fischfleisch bereitete, zerhackte, teigartige Masse ist, ist צחנתא eine\nbestimmte Fischart. A. Sara 39, a heißt es: Die צחנתא des Flusses\nBab (בב in Persien; s. Rappoport im ערך מליןs. v.איחן *) ist zu\nessen erlaubt, da der Boden dieses Flusses keine unreine Fischart\nhervorbringt; seitdem aber die Flüsse Gamda und Etan (גמדא und\nאיחן so in der Parallelstelle Succa 18, a; in unserer Stelle steht גזא",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Während die Commentare über "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנה"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "arc",
+     "text": "ציחין"
+    },
+    {
+     "lang": "deu",
+     "text": " (Nedarim 51, b)\nuneinig sind, ob jene Namen eine bestimmte kleine Fischart, oder eine\naus Fischfleisch bereitete, zerhackte, teigartige Masse ist, ist "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנתא"
+    },
+    {
+     "lang": "deu",
+     "text": " eine\nbestimmte Fischart. A. Sara 39, a heißt es: Die "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנתא"
+    },
+    {
+     "lang": "deu",
+     "text": " des Flusses\nBab ("
+    },
+    {
+     "lang": "arc",
+     "text": "בב"
+    },
+    {
+     "lang": "deu",
+     "text": " in Persien; s. Rappoport im "
+    },
+    {
+     "lang": "heb",
+     "text": "ערך מלין"
+    },
+    {
+     "lang": "lat",
+     "text": "s. v."
+    },
+    {
+     "lang": "arc",
+     "text": "איחן"
+    },
+    {
+     "lang": "deu",
+     "text": " *) ist zu\nessen erlaubt, da der Boden dieses Flusses keine unreine Fischart\nhervorbringt; seitdem aber die Flüsse Gamda und Etan ("
+    },
+    {
+     "lang": "arc",
+     "text": "גמדא"
+    },
+    {
+     "lang": "deu",
+     "text": " und\n"
+    },
+    {
+     "lang": "arc",
+     "text": "איחן"
+    },
+    {
+     "lang": "deu",
+     "text": " so in der Parallelstelle Succa 18, a; in unserer Stelle steht "
+    },
+    {
+     "lang": "arc",
+     "text": "גזא"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Buxdorf (Lex. p. 1906) liest irrthümlich דכב, während ד nur die Par-\ntikel zur Bezeichnung des Genetivs ist; die Phrase lautet: צחנתא דכב נהרא;\nder Fluß heißt also nicht Debhabh, sondern Bab.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Buxdorf (Lex. p. 1906) liest irrthümlich "
+    },
+    {
+     "lang": "arc",
+     "text": "דכב"
+    },
+    {
+     "lang": "deu",
+     "text": ", während "
+    },
+    {
+     "lang": "arc",
+     "text": "ד"
+    },
+    {
+     "lang": "deu",
+     "text": " nur die Par-\ntikel zur Bezeichnung des Genetivs ist; die Phrase lautet: "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנתא דכב נהרא"
+    },
+    {
+     "lang": "deu",
+     "text": ";\nder Fluß heißt also nicht Debhabh, sondern Bab."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2109
+   ],
+   [
+    3308,
+    3103
+   ]
+  ],
+  "input_tokens": 3319,
+  "output_tokens": 1991,
+  "cost_usd": 0.01,
+  "seconds": 12.4
+ }
+}

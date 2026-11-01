@@ -1,0 +1,337 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Eintagsfliege.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Eintagsfliege."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "319",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "319"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "erheben“ genommen; in diesem Falle aber wird רום mit folgendem ב\nconstruirt, es müßte alsdann אימרא כבקא heißen. Raschi nimmt\nחמריא im Sinne von מרה „widerspenstig sein“, dann müßte es ent-\nweder mit einfachem Accusativ אימרא בקתא בקא (nach Deut. 1, 26;\n1 B. Kön. 11, 27), oder mit עם, d. i. עם בקא construirt sein; nie-\nmals aber wird מרה mit ם construirt; Aruch hat in der That לבקא, was\naber ebenfalls mit den beiden gedachten Bedeutungen des חמריא sprach-\nlich sich nicht verträgt. — Was jedoch die Unrichtigkeit der Erklärung\nRaschi’s vollends darthut, ist die Form אימרא, wofür אימרת, oder\nאימרית (als 3. Person fem. Itpaal) stehen müßte. — Ich glaube da-\nher nicht zu irren, vor dem durch Klammern angezeigten Zwischensatz\ndas Wort נפקת (sie ging fort), oder סליקת (sie entfernte sich) zu sup-\npliren, und אימרא בקתא für Ἡμέρα Bacta, d. i. Musca ephe-\nmera zu nehmen. Das gr. Wort findet sich auch noch im jerusal.\nTalmud (A. Sara c. 1) in מילני אימירא „schwarzer Tag.“ —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "erheben“ genommen; in diesem Falle aber wird "
+    },
+    {
+     "lang": "heb",
+     "text": "רום"
+    },
+    {
+     "lang": "deu",
+     "text": " mit folgendem "
+    },
+    {
+     "lang": "heb",
+     "text": "ב"
+    },
+    {
+     "lang": "deu",
+     "text": "\nconstruirt, es müßte alsdann "
+    },
+    {
+     "lang": "arc",
+     "text": "אימרא כבקא"
+    },
+    {
+     "lang": "deu",
+     "text": " heißen. Raschi nimmt\n"
+    },
+    {
+     "lang": "arc",
+     "text": "חמריא"
+    },
+    {
+     "lang": "deu",
+     "text": " im Sinne von "
+    },
+    {
+     "lang": "heb",
+     "text": "מרה"
+    },
+    {
+     "lang": "deu",
+     "text": " „widerspenstig sein“, dann müßte es ent-\nweder mit einfachem Accusativ "
+    },
+    {
+     "lang": "arc",
+     "text": "אימרא בקתא בקא"
+    },
+    {
+     "lang": "deu",
+     "text": " (nach Deut. 1, 26;\n1 B. Kön. 11, 27), oder mit "
+    },
+    {
+     "lang": "heb",
+     "text": "עם"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i. "
+    },
+    {
+     "lang": "arc",
+     "text": "עם בקא"
+    },
+    {
+     "lang": "deu",
+     "text": " construirt sein; nie-\nmals aber wird "
+    },
+    {
+     "lang": "heb",
+     "text": "מרה"
+    },
+    {
+     "lang": "deu",
+     "text": " mit "
+    },
+    {
+     "lang": "heb",
+     "text": "ם"
+    },
+    {
+     "lang": "deu",
+     "text": " construirt; Aruch hat in der That "
+    },
+    {
+     "lang": "arc",
+     "text": "לבקא"
+    },
+    {
+     "lang": "deu",
+     "text": ", was\naber ebenfalls mit den beiden gedachten Bedeutungen des "
+    },
+    {
+     "lang": "arc",
+     "text": "חמריא"
+    },
+    {
+     "lang": "deu",
+     "text": " sprach-\nlich sich nicht verträgt. — Was jedoch die Unrichtigkeit der Erklärung\nRaschi’s vollends darthut, ist die Form "
+    },
+    {
+     "lang": "arc",
+     "text": "אימרא"
+    },
+    {
+     "lang": "deu",
+     "text": ", wofür "
+    },
+    {
+     "lang": "arc",
+     "text": "אימרת"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אימרית"
+    },
+    {
+     "lang": "deu",
+     "text": " (als 3. Person fem. Itpaal) stehen müßte. — Ich glaube da-\nher nicht zu irren, vor dem durch Klammern angezeigten Zwischensatz\ndas Wort "
+    },
+    {
+     "lang": "arc",
+     "text": "נפקת"
+    },
+    {
+     "lang": "deu",
+     "text": " (sie ging fort), oder "
+    },
+    {
+     "lang": "arc",
+     "text": "סליקת"
+    },
+    {
+     "lang": "deu",
+     "text": " (sie entfernte sich) zu sup-\npliren, und "
+    },
+    {
+     "lang": "arc",
+     "text": "אימרא בקתא"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἡμέρα"
+    },
+    {
+     "lang": "lat",
+     "text": " Bacta"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i. "
+    },
+    {
+     "lang": "lat",
+     "text": "Musca ephe-\nmera"
+    },
+    {
+     "lang": "deu",
+     "text": " zu nehmen. Das gr. Wort findet sich auch noch im jerusal.\nTalmud (A. Sara c. 1) in "
+    },
+    {
+     "lang": "arc",
+     "text": "מילני אימירא"
+    },
+    {
+     "lang": "deu",
+     "text": " „schwarzer Tag.“ —"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Was בקתא betrifft, so erklärt Raschi dasselbe durch מין זבוב צינצא\n„eine Fliegenart צינצא“; ähnlich übersetzt er zu Succa 26, a בקי durch\nצינצלש. — Burdorf (Lex. p. 342) nimmt das Fremdwort für das\nfranz. Chenille und verweist auf Plinius (h. n. 30, 16, 53), wo es\nheißt: In culicum genere muliones non amplius, quam uno die\nvivere „unter dem Mückengeschlecht leben die Muliones nur einen Tag“;\nallein abgesehen, daß Chenille Raupe und niemals Mücke bedeutet,\nso ist auch Mulio bei Plinius diejenige Stechfliege, welche vorzugs-\nweise die Maulesel (Mulus, davon mulio; s. Harduin zu Plin. h. n.\n11, 18, 19) belästigt. Es ist aber jenes Fremdwort das ital. Zen-\nzara, oder Zanzara (§. 432), der generelle Name für Fliegen, so ist\nבקא, arab. البق, genereller Name für viele blutsaugende Insecten,\nweshalb die Mücke (§. 432), die Viehbremse (§. 435) und selbst die\nWanze (§. 453) so heißen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Was "
+    },
+    {
+     "lang": "arc",
+     "text": "בקתא"
+    },
+    {
+     "lang": "deu",
+     "text": " betrifft, so erklärt Raschi dasselbe durch "
+    },
+    {
+     "lang": "arc",
+     "text": "מין זבוב צינצא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n„eine Fliegenart "
+    },
+    {
+     "lang": "arc",
+     "text": "צינצא"
+    },
+    {
+     "lang": "deu",
+     "text": "“; ähnlich übersetzt er zu Succa 26, a "
+    },
+    {
+     "lang": "arc",
+     "text": "בקי"
+    },
+    {
+     "lang": "deu",
+     "text": " durch\n"
+    },
+    {
+     "lang": "arc",
+     "text": "צינצלש"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Burdorf (Lex. p. 342) nimmt das Fremdwort für das\nfranz. Chenille und verweist auf Plinius (h. n. 30, 16, 53), wo es\nheißt: In culicum genere muliones non amplius, quam uno die\nvivere „unter dem Mückengeschlecht leben die Muliones nur einen Tag“;\nallein abgesehen, daß Chenille Raupe und niemals Mücke bedeutet,\nso ist auch Mulio bei Plinius diejenige Stechfliege, welche vorzugs-\nweise die Maulesel (Mulus, davon mulio; s. Harduin zu Plin. h. n.\n11, 18, 19) belästigt. Es ist aber jenes Fremdwort das ital. Zen-\nzara, oder Zanzara (§. 432), der generelle Name für Fliegen, so ist\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בקא"
+    },
+    {
+     "lang": "deu",
+     "text": ", arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "البق"
+    },
+    {
+     "lang": "deu",
+     "text": ", genereller Name für viele blutsaugende Insecten,\nweshalb die Mücke (§. 432), die Viehbremse (§. 435) und selbst die\nWanze (§. 453) so heißen."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Lassen wir nun den in Klammern geschlossenen Satz, als den\nwesentlichen Theil der Fabel einstweilen unbeachtet*), so haben die\nübrigen Theile unserer Stelle folgenden Sinn: Rab sagte: „Die Fliege\nBaka lebt keinen Tag und jede andere Fliege kein Jahr lang“**).\nDem stellt Papa das Geschichtchen von der siebenjährigen Trennung",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Lassen wir nun den in Klammern geschlossenen Satz, als den\nwesentlichen Theil der Fabel einstweilen unbeachtet*), so haben die\nübrigen Theile unserer Stelle folgenden Sinn: Rab sagte: „Die Fliege\nBaka lebt keinen Tag und jede andere Fliege kein Jahr lang“**).\nDem stellt Papa das Geschichtchen von der siebenjährigen Trennung"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Vergleiche meinen Beitrag „Fabeln aus der Thierwelt“ im „Jüdischen\nVolksblatt“ 3. Jahrg. S. 116.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Vergleiche meinen Beitrag „Fabeln aus der Thierwelt“ im „Jüdischen\nVolksblatt“ 3. Jahrg. S. 116."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Diese letztre Angabe wird von allen neuern Zoologen wiederholt; vergl.\nz. B. Voigt l. c. 5. S. 223.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Diese letztre Angabe wird von allen neuern Zoologen wiederholt; vergl.\nz. B. Voigt l. c. 5. S. 223."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3276,
+    2061
+   ],
+   [
+    3276,
+    2963
+   ]
+  ],
+  "input_tokens": 11336,
+  "output_tokens": 2344,
+  "cost_usd": 0.0461,
+  "seconds": 13.3
+ }
+}

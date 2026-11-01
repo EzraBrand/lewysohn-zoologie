@@ -1,0 +1,321 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Nachtrag. 359",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nachtrag. "
+    },
+    {
+     "lang": "other",
+     "text": "359"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "welche die Raupe Noctua serici spinnt. Diese Seide ist nicht so\nbrauchbar wie die der Bombyx mori. — Die dritte heißt כלך, die\nauch כילכא, und גושקרא heißt. Zu Sabbat erklärt Raschi: פסולת של\nמשי העשוי ככובעים והוא בית התולעת וקורין לו פוליי\"ל ונופצין אותו וטווהו\nועושה ממנו בגד „Der Abfall der Seide, in der Gestalt von Hütchen,\nes ist das Gehäuse der Raupe und heißt פוליי\"ל; man theilt und\nspinnt ihn und verfertigt Kleider daraus.“ — Das Fremdwort ist\nhier falsch geschrieben, es heißt in der ersten Raschistelle (Menachoth\n1. c.): פלוציל, d. i., Filoselle, Flock- oder Floretseide. Die Raupe\nwebt nämlich beim Einspinnen erst ein rohes Gespinnst gröberer Fä-\nden, woraus man die Floretseide verfertigt, sodann die eigentliche\nSeide, welche einen Faden von mehr als 900 Fuß Länge bildet, und\nzuletzt den Cocon, ein dichtes Gefüge, welches zur Seidenwatte, einer\nmehr flockigen Substanz, benutzt wird. — Nach Raschi zur zweiten\nStelle scheinen die drei genannten Seidenarten von jenen drei ge-\ndachten Bestandtheilen des Gespinnstes verfertigt zu sein. שיראים ist\ndie eigentliche Seide, כלך die Floretseide und סיריקון, die aus dem\nCocon gesponnene Seide; Raschi sagt: סיריקון ist die weiche, theil-\nbare in der Seide sich befindliche Seidenart, die in unserm Orte\nיי\"רש heißt. Das Fremdwort wird wohl וירש heißen, d. i. Vers, die\nSeidenraupen. Doch möchte ich diese Auffassung in Raschi nicht als\ngewiß behaupten.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "welche die Raupe "
+    },
+    {
+     "lang": "lat",
+     "text": "Noctua serici "
+    },
+    {
+     "lang": "deu",
+     "text": "spinnt. Diese Seide ist nicht so\nbrauchbar wie die der "
+    },
+    {
+     "lang": "lat",
+     "text": "Bombyx mori. — "
+    },
+    {
+     "lang": "deu",
+     "text": "Die dritte heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "כלך"
+    },
+    {
+     "lang": "deu",
+     "text": ", die\nauch "
+    },
+    {
+     "lang": "heb",
+     "text": "כילכא"
+    },
+    {
+     "lang": "deu",
+     "text": ", und "
+    },
+    {
+     "lang": "heb",
+     "text": "גושקרא "
+    },
+    {
+     "lang": "deu",
+     "text": "heißt. Zu Sabbat erklärt Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "פסולת של\nמשי העשוי ככובעים והוא בית התולעת וקורין לו פוליי\"ל ונופצין אותו וטווהו\nועושה ממנו בגד "
+    },
+    {
+     "lang": "deu",
+     "text": "„Der Abfall der Seide, in der Gestalt von Hütchen,\nes ist das Gehäuse der Raupe und heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "פוליי\"ל"
+    },
+    {
+     "lang": "deu",
+     "text": "; man theilt und\nspinnt ihn und verfertigt Kleider daraus.“ — Das Fremdwort ist\nhier falsch geschrieben, es heißt in der ersten Raschistelle (Menachoth\n1. c.): "
+    },
+    {
+     "lang": "heb",
+     "text": "פלוציל"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i., Filoselle, Flock- oder Floretseide. Die Raupe\nwebt nämlich beim Einspinnen erst ein rohes Gespinnst gröberer Fä-\nden, woraus man die Floretseide verfertigt, sodann die eigentliche\nSeide, welche einen Faden von mehr als 900 Fuß Länge bildet, und\nzuletzt den Cocon, ein dichtes Gefüge, welches zur Seidenwatte, einer\nmehr flockigen Substanz, benutzt wird. — Nach Raschi zur zweiten\nStelle scheinen die drei genannten Seidenarten von jenen drei ge-\ndachten Bestandtheilen des Gespinnstes verfertigt zu sein. "
+    },
+    {
+     "lang": "heb",
+     "text": "שיראים "
+    },
+    {
+     "lang": "deu",
+     "text": "ist\ndie eigentliche Seide, "
+    },
+    {
+     "lang": "heb",
+     "text": "כלך "
+    },
+    {
+     "lang": "deu",
+     "text": "die Floretseide und "
+    },
+    {
+     "lang": "heb",
+     "text": "סיריקון"
+    },
+    {
+     "lang": "deu",
+     "text": ", die aus dem\nCocon gesponnene Seide; Raschi sagt: "
+    },
+    {
+     "lang": "heb",
+     "text": "סיריקון "
+    },
+    {
+     "lang": "deu",
+     "text": "ist die weiche, theil-\nbare in der Seide sich befindliche Seidenart, die in unserm Orte\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יי\"רש "
+    },
+    {
+     "lang": "deu",
+     "text": "heißt. Das Fremdwort wird wohl "
+    },
+    {
+     "lang": "heb",
+     "text": "וירש "
+    },
+    {
+     "lang": "deu",
+     "text": "heißen, d. i. Vers, die\nSeidenraupen. Doch möchte ich diese Auffassung in Raschi nicht als\ngewiß behaupten."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schwierig und jedenfalls corrumpirt ist die Raschistelle zu Mena-\nchoth l. c. Sie lautet: כלך ,מעיל שעושין מאותן דגים [הוא בית התולעת]\nשמצויין כמיניי שקורין פלוצ\"יל — Schon eine Glosse liest במינין für\n.כמיניי — Für דגים ist zweifellos דקים zu lesen, denn auch für das\nTos. ibid. s. v. בגד vorkommende הרג lesen schon die Tos. Sabbat\n27, a. s. v. ונוצה richtig: הדק. — Für כמיניי wäre במשי zu lesen,\nwie auch Raschi Sabbat 20, b המצוי במשי hat, oder auch בנימין „in\nden Fäden“, und lassen wir den später eingeklammerten Zusatz ganz\nfort, so will Raschi sagen, daß כלך aus den dünnen, d. i., wenig\nsoliden und flockigen Fäden bereitete Seide ist. Freilich ist gerade die\nFloretseide gröber] allein es ist nicht auffallend, daß Raschi hier כלך\nanders als zu Sabbat l. c. erklärt, da ähnliche Abweichungen in den\nErklärungen bei Raschi nicht selten sind.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schwierig und jedenfalls corrumpirt ist die Raschistelle zu Mena-\nchoth l. c. Sie lautet: "
+    },
+    {
+     "lang": "heb",
+     "text": "כלך ,מעיל שעושין מאותן דגים [הוא בית התולעת]\nשמצויין כמיניי שקורין פלוצ\"יל "
+    },
+    {
+     "lang": "deu",
+     "text": "— Schon eine Glosse liest "
+    },
+    {
+     "lang": "heb",
+     "text": "במינין "
+    },
+    {
+     "lang": "deu",
+     "text": "für\n"
+    },
+    {
+     "lang": "heb",
+     "text": ".כמיניי "
+    },
+    {
+     "lang": "deu",
+     "text": "— Für "
+    },
+    {
+     "lang": "heb",
+     "text": "דגים "
+    },
+    {
+     "lang": "deu",
+     "text": "ist zweifellos "
+    },
+    {
+     "lang": "heb",
+     "text": "דקים "
+    },
+    {
+     "lang": "deu",
+     "text": "zu lesen, denn auch für das\nTos. ibid. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "בגד "
+    },
+    {
+     "lang": "deu",
+     "text": "vorkommende "
+    },
+    {
+     "lang": "heb",
+     "text": "הרג "
+    },
+    {
+     "lang": "deu",
+     "text": "lesen schon die Tos. Sabbat\n27, a. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "ונוצה "
+    },
+    {
+     "lang": "deu",
+     "text": "richtig: "
+    },
+    {
+     "lang": "heb",
+     "text": "הדק. "
+    },
+    {
+     "lang": "deu",
+     "text": "— Für "
+    },
+    {
+     "lang": "heb",
+     "text": "כמיניי "
+    },
+    {
+     "lang": "deu",
+     "text": "wäre "
+    },
+    {
+     "lang": "heb",
+     "text": "במשי "
+    },
+    {
+     "lang": "deu",
+     "text": "zu lesen,\nwie auch Raschi Sabbat 20, b "
+    },
+    {
+     "lang": "heb",
+     "text": "המצוי במשי "
+    },
+    {
+     "lang": "deu",
+     "text": "hat, oder auch "
+    },
+    {
+     "lang": "heb",
+     "text": "בנימין "
+    },
+    {
+     "lang": "deu",
+     "text": "„in\nden Fäden“, und lassen wir den später eingeklammerten Zusatz ganz\nfort, so will Raschi sagen, daß "
+    },
+    {
+     "lang": "heb",
+     "text": "כלך "
+    },
+    {
+     "lang": "deu",
+     "text": "aus den dünnen, d. i., wenig\nsoliden und flockigen Fäden bereitete Seide ist. Freilich ist gerade die\nFloretseide gröber] allein es ist nicht auffallend, daß Raschi hier "
+    },
+    {
+     "lang": "heb",
+     "text": "כלך\n"
+    },
+    {
+     "lang": "deu",
+     "text": "anders als zu Sabbat l. c. erklärt, da ähnliche Abweichungen in den\nErklärungen bei Raschi nicht selten sind."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 510.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 510."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Ich stelle hier die zoologischen Fremdwörter aus den Schulchan\nAruch und zu Theil aus Bet Josef zusammen. Eine Zusammen-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ich stelle hier die zoologischen Fremdwörter aus den Schulchan\nAruch und zu Theil aus Bet Josef zusammen. Eine Zusammen-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2033
+   ],
+   [
+    3308,
+    2967
+   ]
+  ],
+  "input_tokens": 3342,
+  "output_tokens": 1889,
+  "cost_usd": 0.0096,
+  "seconds": 19.2
+ }
+}

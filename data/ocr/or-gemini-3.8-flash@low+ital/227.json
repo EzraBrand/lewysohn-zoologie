@@ -1,0 +1,161 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Salamander.\t227",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Salamander.\t227"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Dagegen sind die Parallelstellen aus arabischen Schriftstellern,\ndie Bochart reichlich beibringt, allzugewichtig, um unberücksichtigt\nbleiben zu können. Aus den vielen, von ihm citirten Stellen geht\nhervor, daß man den Skink (arab. سَقَنْقُورٌ) an den Ufern des\nNils fing; man glaubte, er sei aus Krokodileiern, welche an den\nUfern liegen blieben, entstanden. Die Griechen nannten daher diese\nEidechse: Κροκόδειλον τὸν χερσαῖον (Arist. l. c. 2, 12, 9), und\ndeshalb nannte man den Skink בן נפילים „Sohn der Riesen“, da\ner nach jenem Glauben von dem Krokodil abstammt. — Bochart\ncitirt auch eine Stelle aus dem arab. Schriftsteller Damir, wonach\nder ägyptische Skink im rothen Meere geboren werde, daselbst von\nFischen, auf dem Lande aber von Eidechsen sich ernähre, und dieser\nSkink ist gewiß unter בן נפילים gemeint; er gehört, wie die anderen\ndrei Thiere, zum Geschlecht der Amphibien und heißt: „Sohn der\nRiesen“, weil man ihn aus den Eiern des gewaltigen Krokodils\nentstanden glaubte. Ueber נפילים s. noch §. 516.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dagegen sind die Parallelstellen aus arabischen Schriftstellern,\ndie Bochart reichlich beibringt, allzugewichtig, um unberücksichtigt\nbleiben zu können. Aus den vielen, von ihm citirten Stellen geht\nhervor, daß man den Skink (arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "سَقَنْقُورٌ"
+    },
+    {
+     "lang": "deu",
+     "text": ") an den Ufern des\nNils fing; man glaubte, er sei aus Krokodileiern, welche an den\nUfern liegen blieben, entstanden. Die Griechen nannten daher diese\nEidechse: "
+    },
+    {
+     "lang": "grc",
+     "text": "Κροκόδειλον τὸν χερσαῖον"
+    },
+    {
+     "lang": "deu",
+     "text": " (Arist. l. c. 2, 12, 9), und\ndeshalb nannte man den Skink "
+    },
+    {
+     "lang": "heb",
+     "text": "בן נפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Sohn der Riesen“, da\ner nach jenem Glauben von dem Krokodil abstammt. — Bochart\ncitirt auch eine Stelle aus dem arab. Schriftsteller Damir, wonach\nder ägyptische Skink im rothen Meere geboren werde, daselbst von\nFischen, auf dem Lande aber von Eidechsen sich ernähre, und dieser\nSkink ist gewiß unter "
+    },
+    {
+     "lang": "heb",
+     "text": "בן נפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " gemeint; er gehört, wie die anderen\ndrei Thiere, zum Geschlecht der Amphibien und heißt: „Sohn der\nRiesen“, weil man ihn aus den Eiern des gewaltigen Krokodils\nentstanden glaubte. Ueber "
+    },
+    {
+     "lang": "heb",
+     "text": "נפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " s. noch §. 516."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 278\nDer Salamander.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 278\nDer Salamander."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der gemeine Molch, der auch Erdsalamander heißt, lebt auf\ndem Lande, geht aber zur Begattungszeit ins Wasser und wird da-\nher im Talmud (s. vorigen §.) mit Recht neben der Kröte, dem\nSkink und der Wasserschlange als Amphibium bezeichnet. Er heißt\nסלמנדרא, gr. Σαλαμάνδρα. — Wir wollen hier die über den Sala-\nmander im Talmud zerstreuten Sagen zusammenstellen, worin der-\nselbe den irrigen, aber alten Angaben früherer Naturforscher folgte.\n— Chagiga 26, a heißt es: Der Salamander entsteht aus dem\nFeuer, und der, welcher mit seinem Blute sich schmiert, ist gegen\nFeuer geschützt. Hierzu bemerkt Raschi: Der Salamander ist ein\nThier, welches aus einem sieben Jahre hindurch ununterbrochenen\nFeuer entsteht *). — Sanhedrin 63, b wird erzählt: Der König\nHiskias sollte von seinem Vater durch das Molochfeuer geführt wer-\nden, da beschmierte ihn die Mutter mit dem Blute des Salaman-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der gemeine Molch, der auch Erdsalamander heißt, lebt auf\ndem Lande, geht aber zur Begattungszeit ins Wasser und wird da-\nher im Talmud (s. vorigen §.) mit Recht neben der Kröte, dem\nSkink und der Wasserschlange als Amphibium bezeichnet. Er heißt\n"
+    },
+    {
+     "lang": "arc",
+     "text": "סלמנדרא"
+    },
+    {
+     "lang": "deu",
+     "text": ", gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Σαλαμάνδρα"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Wir wollen hier die über den Sala-\nmander im Talmud zerstreuten Sagen zusammenstellen, worin der-\nselbe den irrigen, aber alten Angaben früherer Naturforscher folgte.\n— Chagiga 26, a heißt es: Der Salamander entsteht aus dem\nFeuer, und der, welcher mit seinem Blute sich schmiert, ist gegen\nFeuer geschützt. Hierzu bemerkt Raschi: Der Salamander ist ein\nThier, welches aus einem sieben Jahre hindurch ununterbrochenen\nFeuer entsteht *). — Sanhedrin 63, b wird erzählt: Der König\nHiskias sollte von seinem Vater durch das Molochfeuer geführt wer-\nden, da beschmierte ihn die Mutter mit dem Blute des Salaman-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Die Tosephot l. c. s. v. סלמנדרא bringen eine Uebersetzung aus dem Tar-\ngum Jonatan, die sich in unseren Ausgaben nicht findet, s. hierüber Rappo-\nport Kerem Chemed 6. Bd. S. 195.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Die Tosephot l. c. s. v. "
+    },
+    {
+     "lang": "arc",
+     "text": "סלמנדרא"
+    },
+    {
+     "lang": "deu",
+     "text": " bringen eine Uebersetzung aus dem Tar-\ngum Jonatan, die sich in unseren Ausgaben nicht findet, s. hierüber Rappo-\nport Kerem Chemed 6. Bd. S. 195."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "15*",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "15*"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3208,
+    2299
+   ],
+   [
+    3208,
+    2965
+   ]
+  ],
+  "input_tokens": 3345,
+  "output_tokens": 1339,
+  "cost_usd": 0.0075,
+  "seconds": 12.5
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "400",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "400"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Deutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Deutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Weinvogel 287.\nWespe 303.\nWickelraupe 296.\nWidder, wilder 122.\nWiedehopf 216.\nWiesel, gemeines 91.\nWiesel, großes 94.\nWiesel, wildes 96.\nWindhund 89.\nWindspiel 89.\nWolf 81.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Weinvogel 287.\nWespe 303.\nWickelraupe 296.\nWidder, wilder 122.\nWiedehopf 216.\nWiesel, gemeines 91.\nWiesel, großes 94.\nWiesel, wildes 96.\nWindhund 89.\nWindspiel 89.\nWolf 81."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Z.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Z."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Zaunkönig 178.\nZebra 153.\nZeitvogel 353.\nZiege 123.\nZiege, wilde 123. 126.\nZobel 367, 370.\nZugheuschrecke 286. 287.\nZunge 275.\nZwergkauz 163.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zaunkönig 178.\nZebra 153.\nZeitvogel 353.\nZiege 123.\nZiege, wilde 123. 126.\nZobel 367, 370.\nZugheuschrecke 286. 287.\nZunge 275.\nZwergkauz 163."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Nies'sche Buchdruckerei (Carl B. Lorck) in Leipzig.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nies'sche Buchdruckerei (Carl B. Lorck) in Leipzig."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2896,
+    2028
+   ],
+   [
+    2896,
+    3024
+   ]
+  ],
+  "input_tokens": 11370,
+  "output_tokens": 470,
+  "cost_usd": 0.0274,
+  "seconds": 5.0
+ }
+}

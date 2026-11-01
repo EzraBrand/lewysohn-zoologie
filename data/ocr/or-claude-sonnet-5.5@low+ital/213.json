@@ -1,0 +1,149 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Das Rebhuhn.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Rebhuhn."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "213",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "213"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 263.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 263."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Das Rebhuhn.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Rebhuhn."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Dieser Vogel wird im Talmud verschiedentlich benannt. Er heißt\nerstens פסיון (B. Kama 55, a; Joma 75, b), pl. כסיוני (Kiduschin\n31, a) und כסיואני (Midr. Jalkut Schimoni, Ps. fol. 98, col. 1). In\nder ersten Stelle wird gesagt: Der Hahn, der Pfau und der פסיון\ndürfen nicht mit einander gekreuzt werden, obgleich dieselben mit\neinander groß gezogen werden. — In der zweiten Stelle heißt es:\nEs giebt vier Arten wohlschmeckender Vögel, den Krammetsvogel,\ndie Wachtel, die Drossel und den פסיון. — In der dritten Stelle\nendlich wird gesagt: Mancher Sohn ernährt seinen Vater mit כסיוני\nund bringt ihn durch Mißgunst von der Welt, und Mancher läßt\nihn Mühlarbeit verrichten und bringt ihn dennoch zum ewigen Leben.\n— In allen diesen Stellen übersetzen Aruch, Burdorf u. A. das\nWort mit Fasan, können aber die Schwierigkeiten nicht beseitigen,\ndie nothwendig durch diese Uebersetzung entstehen. Erstens kann\nder Talmud unmöglich den Fasan in eine Kategorie mit Drossel,\nKrammetsvogel und Wachtel stellen, da er mit ihnen nicht die ge-\nringste Verwandtschaft hat. Zweitens kann in der ersten Stelle\nder Fasan nicht gemeint sein, da er freiwillig weder mit dem Pfau,\nnoch mit dem Huhn sich vermischt. — Raschi ließ daher von dem\nGleichlaut des Wortes sich nicht verleiten und übersetzt es durch:\nפירדיץ, Perdrix, Rebhuhn. Was nun vorerst die Gattungsbestim-\nmung betrifft, so kann das Rebhuhn seiner innern Natur nach frei-\nlich nicht zum Wachtelgeschlecht gezählt werden, denn die Wachtel ist\nein Zugvogel, das Rebhuhn hingegen ein Standvogel; dahingegen\nsind sie sich äußerlich so ähnlich, daß Theophrast (s. Bondi im\nOr Ester S. 296) die Wachtel Perdix nana (Zwergrebhuhn) nennt;\nauch sonst haben beide Vögel gleiche Sitten: sie legen ihre Eier\nnicht in Nester, sondern verbergen sie auf der Erde im Grase (Arist.\na. a. O. 6, 1, 2), beide schreien bei der Begattung (l. c. 4, 9, 7),\nbeide versammeln die Jungen unter sich und haben überhaupt keine\nNester (l. c. 9, 9, 1), endlich ist die große Geilheit beider Vögel\nbekannt. Insofern kann es nicht befremden, daß der Talmud das\nRebhuhn eine Wachtelart nennt, was übrigens nach unserer Erklä-\nrung von סלין (§. 260), wonach jene vier Vögel wegen ihrer Schmack-\nhaftigkeit nebeneinander gestellt sind, nicht einmal nöthig ist. —\nWas die erste Stelle Betreffs der Vermischung der Vögel anbelangt,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dieser Vogel wird im Talmud verschiedentlich benannt. Er heißt\nerstens "
+    },
+    {
+     "lang": "heb",
+     "text": "פסיון"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. Kama 55, a; Joma 75, b), pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "כסיוני"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kiduschin\n31, a) und "
+    },
+    {
+     "lang": "heb",
+     "text": "כסיואני"
+    },
+    {
+     "lang": "deu",
+     "text": " (Midr. Jalkut Schimoni, Ps. fol. 98, col. 1). In\nder ersten Stelle wird gesagt: Der Hahn, der Pfau und der "
+    },
+    {
+     "lang": "heb",
+     "text": "פסיון"
+    },
+    {
+     "lang": "deu",
+     "text": "\ndürfen nicht mit einander gekreuzt werden, obgleich dieselben mit\neinander groß gezogen werden. — In der zweiten Stelle heißt es:\nEs giebt vier Arten wohlschmeckender Vögel, den Krammetsvogel,\ndie Wachtel, die Drossel und den "
+    },
+    {
+     "lang": "heb",
+     "text": "פסיון"
+    },
+    {
+     "lang": "deu",
+     "text": ". — In der dritten Stelle\nendlich wird gesagt: Mancher Sohn ernährt seinen Vater mit "
+    },
+    {
+     "lang": "heb",
+     "text": "כסיוני"
+    },
+    {
+     "lang": "deu",
+     "text": "\nund bringt ihn durch Mißgunst von der Welt, und Mancher läßt\nihn Mühlarbeit verrichten und bringt ihn dennoch zum ewigen Leben.\n— In allen diesen Stellen übersetzen Aruch, Burdorf u. A. das\nWort mit Fasan, können aber die Schwierigkeiten nicht beseitigen,\ndie nothwendig durch diese Uebersetzung entstehen. Erstens kann\nder Talmud unmöglich den Fasan in eine Kategorie mit Drossel,\nKrammetsvogel und Wachtel stellen, da er mit ihnen nicht die ge-\nringste Verwandtschaft hat. Zweitens kann in der ersten Stelle\nder Fasan nicht gemeint sein, da er freiwillig weder mit dem Pfau,\nnoch mit dem Huhn sich vermischt. — Raschi ließ daher von dem\nGleichlaut des Wortes sich nicht verleiten und übersetzt es durch:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פירדיץ"
+    },
+    {
+     "lang": "deu",
+     "text": ", Perdrix, Rebhuhn. Was nun vorerst die Gattungsbestim-\nmung betrifft, so kann das Rebhuhn seiner innern Natur nach frei-\nlich nicht zum Wachtelgeschlecht gezählt werden, denn die Wachtel ist\nein Zugvogel, das Rebhuhn hingegen ein Standvogel; dahingegen\nsind sie sich äußerlich so ähnlich, daß Theophrast (s. Bondi im\nOr Ester S. 296) die Wachtel Perdix nana (Zwergrebhuhn) nennt;\nauch sonst haben beide Vögel gleiche Sitten: sie legen ihre Eier\nnicht in Nester, sondern verbergen sie auf der Erde im Grase (Arist.\na. a. O. 6, 1, 2), beide schreien bei der Begattung (l. c. 4, 9, 7),\nbeide versammeln die Jungen unter sich und haben überhaupt keine\nNester (l. c. 9, 9, 1), endlich ist die große Geilheit beider Vögel\nbekannt. Insofern kann es nicht befremden, daß der Talmud das\nRebhuhn eine Wachtelart nennt, was übrigens nach unserer Erklä-\nrung von "
+    },
+    {
+     "lang": "heb",
+     "text": "סלין"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 260), wonach jene vier Vögel wegen ihrer Schmack-\nhaftigkeit nebeneinander gestellt sind, nicht einmal nöthig ist. —\nWas die erste Stelle Betreffs der Vermischung der Vögel anbelangt,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3260,
+    2299
+   ],
+   [
+    3260,
+    2725
+   ]
+  ],
+  "input_tokens": 11335,
+  "output_tokens": 1668,
+  "cost_usd": 0.0394,
+  "seconds": 10.4
+ }
+}

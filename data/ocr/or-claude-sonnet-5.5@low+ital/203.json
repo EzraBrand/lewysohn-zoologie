@@ -1,0 +1,225 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Turteltaube. — Eine Turteltaubenart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Turteltaube. — Eine Turteltaubenart."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "203",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "203"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "die Wenigkeit von 4 Maß junger Tauben (Keritot 28, a.*). —\nBei all diesem bringt die Taube auch vielen Schaden. Man durfte inner-\nhalb der Stadt keine Taubenschläge halten, da die Tauben den um-\nliegenden Gärten Schaden zufügten, und nur demjenigen wurde\nes gestattet, dessen Haus nach allen Seiten hin 50 Ellen freien\nRaum hatte (B. batra 23, a). Sie fressen insbesonders das auf den\nDächern zum Trockenwerden ausgelegte Getreide (Tos. ibid. s. v.\nמרחיקין). — Die Taube fliegt zwar vom Hause fort, doch ist sie\nnur im Raume der ersten 50 Ellen schädlich, da sie alsdann den\nKropf voll hat und nichts weiter frißt (ibid.). Eine besondere Lieb-\nlingsspeise der Taube ist der Senf (Sabbat 128, a). — Man stellte\nWetten an, wessen Taube zuerst, oder wie lange sie fliegen wird (R.\nha-Schana 22, a). Unrecht war, die Tauben anzulocken, und der\ndies that hieß ארא (Raschi אשחלין, Stellionat, Sanhedrin 25, a).\nAuch durfte man keine Fangnetze innerhalb 30 Riß (= 4 Mil\noder 8000 Ellen) von der Stadt aufstellen (B. Kama 79, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "die Wenigkeit von 4 Maß junger Tauben (Keritot 28, a.*). —\nBei all diesem bringt die Taube auch vielen Schaden. Man durfte inner-\nhalb der Stadt keine Taubenschläge halten, da die Tauben den um-\nliegenden Gärten Schaden zufügten, und nur demjenigen wurde\nes gestattet, dessen Haus nach allen Seiten hin 50 Ellen freien\nRaum hatte (B. batra 23, a). Sie fressen insbesonders das auf den\nDächern zum Trockenwerden ausgelegte Getreide (Tos. ibid. s. v.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מרחיקין"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Die Taube fliegt zwar vom Hause fort, doch ist sie\nnur im Raume der ersten 50 Ellen schädlich, da sie alsdann den\nKropf voll hat und nichts weiter frißt (ibid.). Eine besondere Lieb-\nlingsspeise der Taube ist der Senf (Sabbat 128, a). — Man stellte\nWetten an, wessen Taube zuerst, oder wie lange sie fliegen wird (R.\nha-Schana 22, a). Unrecht war, die Tauben anzulocken, und der\ndies that hieß "
+    },
+    {
+     "lang": "heb",
+     "text": "ארא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Raschi "
+    },
+    {
+     "lang": "heb",
+     "text": "אשחלין"
+    },
+    {
+     "lang": "deu",
+     "text": ", Stellionat, Sanhedrin 25, a).\nAuch durfte man keine Fangnetze innerhalb 30 Riß (= 4 Mil\noder 8000 Ellen) von der Stadt aufstellen (B. Kama 79, b)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 251.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 251."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Turteltaube.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Turteltaube."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Von der Turteltaube, diesem niedlichen und zierlichen Vogel,\ngiebt es viele Varietäten und Spielarten, von welchen einige im\nTalmud gedacht werden. Genereller Name für alle Arten ist תור,\npl. תורין (Chulin 22, a), und giebt es große und kleine Turteltauben,\nd. i. verschiedene Spielarten derselben (ibid.); aber auch die wirk-\nliche Turteltaube führt erst dann den Namen תור, wenn die Federn\ndie gelbe Farbe erhalten, d. i., wenn der Rücken, der Bürzel und\ndie oberen Schwanzfedern braungefleckt und isabellgelb werden (ibid.\n22, b). — Ueber den Namen קן s. §. 252, zu Ende.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Von der Turteltaube, diesem niedlichen und zierlichen Vogel,\ngiebt es viele Varietäten und Spielarten, von welchen einige im\nTalmud gedacht werden. Genereller Name für alle Arten ist "
+    },
+    {
+     "lang": "heb",
+     "text": "תור"
+    },
+    {
+     "lang": "deu",
+     "text": ",\npl. "
+    },
+    {
+     "lang": "heb",
+     "text": "תורין"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 22, a), und giebt es große und kleine Turteltauben,\nd. i. verschiedene Spielarten derselben (ibid.); aber auch die wirk-\nliche Turteltaube führt erst dann den Namen "
+    },
+    {
+     "lang": "heb",
+     "text": "תור"
+    },
+    {
+     "lang": "deu",
+     "text": ", wenn die Federn\ndie gelbe Farbe erhalten, d. i., wenn der Rücken, der Bürzel und\ndie oberen Schwanzfedern braungefleckt und isabellgelb werden (ibid.\n22, b). — Ueber den Namen "
+    },
+    {
+     "lang": "heb",
+     "text": "קן"
+    },
+    {
+     "lang": "deu",
+     "text": " s. §. 252, zu Ende."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 252.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 252."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Eine Turteltaubenart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine Turteltaubenart."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Eine Spielart der Turteltaube, die aber schwerlich genau be-\nstimmt werden kann, ist die unter dem Namen ראציפי (Chulin 62, a),\nwofür Aruch דריציפי liest, und womit er ציצלא (Sanhedrin 100, a,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine Spielart der Turteltaube, die aber schwerlich genau be-\nstimmt werden kann, ist die unter dem Namen "
+    },
+    {
+     "lang": "heb",
+     "text": "ראציפי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 62, a),\nwofür Aruch "
+    },
+    {
+     "lang": "heb",
+     "text": "דריציפי"
+    },
+    {
+     "lang": "deu",
+     "text": " liest, und womit er "
+    },
+    {
+     "lang": "heb",
+     "text": "ציצלא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sanhedrin 100, a,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Pekach b. Remaljahu soll (nach Midr. Jalk. Schim. 2. Th. fol. 133,\na) 40, oder gar (ibid. fol. 138, c) 300 Sata junger Tauben zum Dessert ver-\nzehrt haben.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Pekach b. Remaljahu soll (nach Midr. Jalk. Schim. 2. Th. fol. 133,\na) 40, oder gar (ibid. fol. 138, c) 300 Sata junger Tauben zum Dessert ver-\nzehrt haben."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2308
+   ],
+   [
+    3308,
+    2732
+   ]
+  ],
+  "input_tokens": 11322,
+  "output_tokens": 1698,
+  "cost_usd": 0.0396,
+  "seconds": 10.2
+ }
+}

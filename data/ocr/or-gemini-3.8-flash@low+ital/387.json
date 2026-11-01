@@ -1,0 +1,697 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hebräisches und aramäisches Register.\t387",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hebräisches und aramäisches Register.\t387"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "כירצא חיוורא 339.\nכלב 82.\nכלב אגריון 369. 372.\nכלב המים 97.\nכלב כופרי 88.\nכלבא 68. 82.\nכלבית 275.\n.כלב {. כלבתא\nכלכיד 372.\nכלכית 275. 276. 277.\nכלמי 324.\nכניא 182.\nכנימה 311.\nכנף רננים 354.\nכספטיאס 259.\nכספחיאת 259.\nכפיר 68.\nכפשני 204.\nכפת הירדן 158.\nכרוכא 296.\nכרוכיא 169.\nכרום 183.\nכרושתינא 102.\nכרזבא 296.\nכרזי דבי חילפי 296.\nכרזי דבי קרבי 296.\nכרכושחא 91. 258.\nכרנבן 62.\nכרספת 291.\nכרשא 271.\n.כשב {. כבש",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "כירצא חיוורא"
+    },
+    {
+     "lang": "deu",
+     "text": " 339.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כלב"
+    },
+    {
+     "lang": "deu",
+     "text": " 82.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כלב אגריון"
+    },
+    {
+     "lang": "deu",
+     "text": " 369. 372.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כלב המים"
+    },
+    {
+     "lang": "deu",
+     "text": " 97.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כלב כופרי"
+    },
+    {
+     "lang": "deu",
+     "text": " 88.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כלבא"
+    },
+    {
+     "lang": "deu",
+     "text": " 68. 82.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כלבית"
+    },
+    {
+     "lang": "deu",
+     "text": " 275.\n"
+    },
+    {
+     "lang": "heb",
+     "text": ".כלב {. כלבתא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כלכיד"
+    },
+    {
+     "lang": "deu",
+     "text": " 372.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כלכית"
+    },
+    {
+     "lang": "deu",
+     "text": " 275. 276. 277.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כלמי"
+    },
+    {
+     "lang": "deu",
+     "text": " 324.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כניא"
+    },
+    {
+     "lang": "deu",
+     "text": " 182.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כנימה"
+    },
+    {
+     "lang": "deu",
+     "text": " 311.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כנף רננים"
+    },
+    {
+     "lang": "deu",
+     "text": " 354.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כספטיאס"
+    },
+    {
+     "lang": "deu",
+     "text": " 259.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כספחיאת"
+    },
+    {
+     "lang": "deu",
+     "text": " 259.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כפיר"
+    },
+    {
+     "lang": "deu",
+     "text": " 68.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כפשני"
+    },
+    {
+     "lang": "deu",
+     "text": " 204.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כפת הירדן"
+    },
+    {
+     "lang": "deu",
+     "text": " 158.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרוכא"
+    },
+    {
+     "lang": "deu",
+     "text": " 296.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרוכיא"
+    },
+    {
+     "lang": "deu",
+     "text": " 169.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרום"
+    },
+    {
+     "lang": "deu",
+     "text": " 183.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרושתינא"
+    },
+    {
+     "lang": "deu",
+     "text": " 102.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרזבא"
+    },
+    {
+     "lang": "deu",
+     "text": " 296.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרזי דבי חילפי"
+    },
+    {
+     "lang": "deu",
+     "text": " 296.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרזי דבי קרבי"
+    },
+    {
+     "lang": "deu",
+     "text": " 296.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרכושחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 91. 258.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרנבן"
+    },
+    {
+     "lang": "deu",
+     "text": " 62.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרספת"
+    },
+    {
+     "lang": "deu",
+     "text": " 291.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כרשא"
+    },
+    {
+     "lang": "deu",
+     "text": " 271.\n"
+    },
+    {
+     "lang": "heb",
+     "text": ".כשב {. כבש"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": ".ל",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": ".ל"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "לביא 68.\nלביה 68.\nלובדקים 142. 373.\nלויתן 155. 355.\nלוקוס 81.\nלטאה 221.\nלילית 163.\nלכיסא 369.\nלמס 82.\nלקני 184.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "לביא"
+    },
+    {
+     "lang": "deu",
+     "text": " 68.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "לביה"
+    },
+    {
+     "lang": "deu",
+     "text": " 68.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "לובדקים"
+    },
+    {
+     "lang": "deu",
+     "text": " 142. 373.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "לויתן"
+    },
+    {
+     "lang": "deu",
+     "text": " 155. 355.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "לוקוס"
+    },
+    {
+     "lang": "deu",
+     "text": " 81.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "לטאה"
+    },
+    {
+     "lang": "deu",
+     "text": " 221.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "לילית"
+    },
+    {
+     "lang": "deu",
+     "text": " 163.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "לכיסא"
+    },
+    {
+     "lang": "deu",
+     "text": " 369.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "למס"
+    },
+    {
+     "lang": "deu",
+     "text": " 82.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "לקני"
+    },
+    {
+     "lang": "deu",
+     "text": " 184."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": ".מ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": ".מ"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "מאה רגלים 322.\nמאכולת 307. 324.\nמאכולת של גוף 325.\nמאכולת של ראש 324.\nמולאה 144.\nמולוון 373.\nמוניני 261.\nמורזמא 170.\nמורנא 338. 340. 341.\nמוראנת 341.\nמוגא חמרא 186.\nמויקי ביח 316.\nמיירן 369.\nמילח 122.\nמילחא 122.\nמכרסם מיער 148.\nמלקוש 297.\nמפגיע 316.\nמקק דסיפרי 320.\nמקק מטפחות 320.\nמרבה רגלים 323.\nמרגליות 347.\nמרגניתא 348.\nמרדא 179.\nמרדו זגיר ואכיל 186.\nמרטיסא 373.\nמריא 129.\nמשכוכית 121. 123.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "מאה רגלים"
+    },
+    {
+     "lang": "deu",
+     "text": " 322.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מאכולת"
+    },
+    {
+     "lang": "deu",
+     "text": " 307. 324.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מאכולת של גוף"
+    },
+    {
+     "lang": "deu",
+     "text": " 325.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מאכולת של ראש"
+    },
+    {
+     "lang": "deu",
+     "text": " 324.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מולאה"
+    },
+    {
+     "lang": "deu",
+     "text": " 144.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מולוון"
+    },
+    {
+     "lang": "deu",
+     "text": " 373.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מוניני"
+    },
+    {
+     "lang": "deu",
+     "text": " 261.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מורזמא"
+    },
+    {
+     "lang": "deu",
+     "text": " 170.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מורנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 338. 340. 341.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מוראנת"
+    },
+    {
+     "lang": "deu",
+     "text": " 341.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מוגא חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " 186.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מויקי ביח"
+    },
+    {
+     "lang": "deu",
+     "text": " 316.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מיירן"
+    },
+    {
+     "lang": "deu",
+     "text": " 369.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מילח"
+    },
+    {
+     "lang": "deu",
+     "text": " 122.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מילחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 122.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מכרסם מיער"
+    },
+    {
+     "lang": "deu",
+     "text": " 148.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מלקוש"
+    },
+    {
+     "lang": "deu",
+     "text": " 297.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מפגיע"
+    },
+    {
+     "lang": "deu",
+     "text": " 316.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מקק דסיפרי"
+    },
+    {
+     "lang": "deu",
+     "text": " 320.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מקק מטפחות"
+    },
+    {
+     "lang": "deu",
+     "text": " 320.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מרבה רגלים"
+    },
+    {
+     "lang": "deu",
+     "text": " 323.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מרגליות"
+    },
+    {
+     "lang": "deu",
+     "text": " 347.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מרגניתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 348.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מרדא"
+    },
+    {
+     "lang": "deu",
+     "text": " 179.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מרדו זגיר ואכיל"
+    },
+    {
+     "lang": "deu",
+     "text": " 186.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מרטיסא"
+    },
+    {
+     "lang": "deu",
+     "text": " 373.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מריא"
+    },
+    {
+     "lang": "deu",
+     "text": " 129.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "משכוכית"
+    },
+    {
+     "lang": "deu",
+     "text": " 121. 123."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": ".נ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": ".נ"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "נאנאי 82. 360.\nנאקה 135\nנאקתה 135.\nנבחן 82.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "נאנאי"
+    },
+    {
+     "lang": "deu",
+     "text": " 82. 360.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נאקה"
+    },
+    {
+     "lang": "deu",
+     "text": " 135\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נאקתה"
+    },
+    {
+     "lang": "deu",
+     "text": " 135.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נבחן"
+    },
+    {
+     "lang": "deu",
+     "text": " 82."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "25*",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "25*"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1591,
+    5060
+   ],
+   [
+    1685,
+    5060
+   ]
+  ],
+  "input_tokens": 3357,
+  "output_tokens": 4275,
+  "cost_usd": 0.0185,
+  "seconds": 24.0
+ }
+}

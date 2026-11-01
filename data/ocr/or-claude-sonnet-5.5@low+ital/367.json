@@ -1,0 +1,117 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Nachtrag.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nachtrag."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "367",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "367"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "vergl. §. 123, soviel wie גלאקטין*). Die beiden letzteren Ansichten\nwollen nicht Häute, sondern Wolle, oder Haare als Stoff jener Klei-\nder gelten lassen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "vergl. §. 123, soviel wie "
+    },
+    {
+     "lang": "heb",
+     "text": "גלאקטין"
+    },
+    {
+     "lang": "deu",
+     "text": "*). Die beiden letzteren Ansichten\nwollen nicht Häute, sondern Wolle, oder Haare als Stoff jener Klei-\nder gelten lassen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 522.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 522."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Wir geben hier noch einmal einen Ueberblick sämmtlicher in bei-\nden Talmuden und im Midrasch (Rabba) erwähnten Thiere, wobei\ndie verschiedenen Spielarten einiger Species besonders gezählt wur-\nden. Es sind im Ganzen 365 Thierarten, die sich in folgende Spe-\ncies theilen, in 75 Säugethiere, 88 Vögel, 24 Amphibien,\n46 Fische, 8 Weichthiere, 81 Insecten, 25 Würmer, 7 Zoo-\nphyten und 11 fabelhafte Thiere. — Allgemeine Zahlverhältnisse\nüber die Menge der Thiere sind §. 12 gegeben worden.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wir geben hier noch einmal einen Ueberblick sämmtlicher in bei-\nden Talmuden und im Midrasch (Rabba) erwähnten Thiere, wobei\ndie verschiedenen Spielarten einiger Species besonders gezählt wur-\nden. Es sind im Ganzen 365 Thierarten, die sich in folgende Spe-\ncies theilen, in 75 Säugethiere, 88 Vögel, 24 Amphibien,\n46 Fische, 8 Weichthiere, 81 Insecten, 25 Würmer, 7 Zoo-\nphyten und 11 fabelhafte Thiere. — Allgemeine Zahlverhältnisse\nüber die Menge der Thiere sind §. 12 gegeben worden."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Mussaphia hält das Wort für ξένος „fremdes Wiesel“, worunter der\nZobel gemeint sein soll; s. Anhang s. v. גלאקטין.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Mussaphia hält das Wort für "
+    },
+    {
+     "lang": "grc",
+     "text": "ξένος"
+    },
+    {
+     "lang": "deu",
+     "text": " „fremdes Wiesel“, worunter der\nZobel gemeint sein soll; s. Anhang s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "גלאקטין"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3284,
+    2784
+   ]
+  ],
+  "input_tokens": 6576,
+  "output_tokens": 721,
+  "cost_usd": 0.0204,
+  "seconds": 5.8
+ }
+}

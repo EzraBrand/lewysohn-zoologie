@@ -1,0 +1,121 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Deutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Deutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Heiligenbutt 268.\nHermelin 95.\nHeupferd 290.\nHeuschrecke 285. 370.\nHeuschrecke, wandernde 286.\nHirsch 111.\nHochschauer 244.\nHörnerroche 271.\nHolzameise 331.\nHolztaube 186.\nHorneule 163.\nHornfisch 271.\nHornhecht 271.\nHornisse 303.\nHornisse, niniveische 304.\nHuhn 194.\nHund 82.\nHund, angorischer 86.\nHund, lakonischer 88.\nHundertfuß 322.\nHundsfloh 327.\nHundshai 272. 276.\nHyäne 76.\nHydatide 341.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Heiligenbutt 268.\nHermelin 95.\nHeupferd 290.\nHeuschrecke 285. 370.\nHeuschrecke, wandernde 286.\nHirsch 111.\nHochschauer 244.\nHörnerroche 271.\nHolzameise 331.\nHolztaube 186.\nHorneule 163.\nHornfisch 271.\nHornhecht 271.\nHornisse 303.\nHornisse, niniveische 304.\nHuhn 194.\nHund 82.\nHund, angorischer 86.\nHund, lakonischer 88.\nHundertfuß 322.\nHundsfloh 327.\nHundshai 272. 276.\nHyäne 76.\nHydatide 341."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "I.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "I."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Ichneumon 155.\nIgel 100.\nIltis 90.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ichneumon 155.\nIgel 100.\nIltis 90."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Jod.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Jod."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Jagdfalk 165.\nJagdhund 89.\nJaguar 317.\nJarboa 110.\nJocko 64.\nJohanniswürmchen 290.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Jagdfalk 165.\nJagdhund 89.\nJaguar 317.\nJarboa 110.\nJocko 64.\nJohanniswürmchen 290."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "K.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "K."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Kabeljau 270.\nKachelot 158.\nKäfer 292. 305.\nKameel 134.\nKameel, arabisches 134.\nKameel, baktrianisches 134.\nKammheuschrecke 293.\nKanarienvogel 62.\nKaninchen 110.\nKaninchen, wilde 97.\nKarpfen 247.\nKatze 74.\nKauz 162.\nKellerfliege 314.\nKescher 273.\nKiebitz 186.\nKlapperschlange 239.\nKleiderlaus 325.\nKleidermotte 322.\nKlipdachs 110.\nKlippenschwalbe 209.\nKlosterwenzel 212.\nKohleule 333.\nKohlrabe 174.\nKohlraupe 332.\nKolibri 188.\nKopflaus 324.\nKorall 344.\nKornschabe 311.\nKornwurm, schwarzer 308.\nKornwurm, weißer 311.\nKothmade 337.\nKrähe 168. 175.\nKrätzmilbe 325.\nKragenente 193.\nKrammetsvogel 211.\nKranich 169.\nKrebs 233.\nKreiselwurm 242. 335.\nKreuzkröte 231.\nKröte 230.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Kabeljau 270.\nKachelot 158.\nKäfer 292. 305.\nKameel 134.\nKameel, arabisches 134.\nKameel, baktrianisches 134.\nKammheuschrecke 293.\nKanarienvogel 62.\nKaninchen 110.\nKaninchen, wilde 97.\nKarpfen 247.\nKatze 74.\nKauz 162.\nKellerfliege 314.\nKescher 273.\nKiebitz 186.\nKlapperschlange 239.\nKleiderlaus 325.\nKleidermotte 322.\nKlipdachs 110.\nKlippenschwalbe 209.\nKlosterwenzel 212.\nKohleule 333.\nKohlrabe 174.\nKohlraupe 332.\nKolibri 188.\nKopflaus 324.\nKorall 344.\nKornschabe 311.\nKornwurm, schwarzer 308.\nKornwurm, weißer 311.\nKothmade 337.\nKrähe 168. 175.\nKrätzmilbe 325.\nKragenente 193.\nKrammetsvogel 211.\nKranich 169.\nKrebs 233.\nKreiselwurm 242. 335.\nKreuzkröte 231.\nKröte 230."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2980,
+    2102
+   ],
+   [
+    2980,
+    3090
+   ]
+  ],
+  "input_tokens": 3345,
+  "output_tokens": 987,
+  "cost_usd": 0.0062,
+  "seconds": 7.8
+ }
+}

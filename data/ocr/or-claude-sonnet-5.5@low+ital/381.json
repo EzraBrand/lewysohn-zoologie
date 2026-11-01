@@ -1,0 +1,217 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Lateinisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Lateinisches Register."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "3",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "3"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Motacilla atricapilla 212.\nMula 144.\nMulio 319.\nMullus barbatus 266. 360.\nMulus 145. 319.\nMuraena 158.\nMus domesticus 108.\nMus marinus 269.\nMus marmota 374.\nMusca 314.\nMusca cellaris 314.\nMusca ephemera 319.\nMuscicapa albicollis 212.\nMustela 272.\nMustela marina 92.\nMustela silvestris 95.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Motacilla atricapilla 212.\nMula 144.\nMulio 319.\nMullus barbatus 266. 360.\nMulus 145. 319.\nMuraena 158.\nMus domesticus 108.\nMus marinus 269.\nMus marmota 374.\nMusca 314.\nMusca cellaris 314.\nMusca ephemera 319.\nMuscicapa albicollis 212.\nMustela 272.\nMustela marina 92.\nMustela silvestris 95."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Pelicanus bassanus 184.\nPerdix nana 213.\nPercnopterus 169. 372.\nPhalacrocorax 174.\nPhoenicopterus minor 171.\nPhoenicopterus ruber 171.\nPhryganea grandis 315.\nPiscis 306.\nPithecus satyrus 64.\nPithecus troglodytes 64.\nPleuronectes solea 275.\nPorculus marinus 265.\nPorcus marinus 265.\nPristis antiquorum 276\nPsocus pulsatorius 320.\nPurpura 282.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Pelicanus bassanus 184.\nPerdix nana 213.\nPercnopterus 169. 372.\nPhalacrocorax 174.\nPhoenicopterus minor 171.\nPhoenicopterus ruber 171.\nPhryganea grandis 315.\nPiscis 306.\nPithecus satyrus 64.\nPithecus troglodytes 64.\nPleuronectes solea 275.\nPorculus marinus 265.\nPorcus marinus 265.\nPristis antiquorum 276\nPsocus pulsatorius 320.\nPurpura 282."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Myrmeleo formicarius 315.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Myrmeleo formicarius 315."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "N.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "N."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Nais tubifex 335.\nNauplium 226.\nNautilus 226.\nNepa cinerea 328.\nNoctua 163.\nNoctua serici 359.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Nais tubifex 335.\nNauplium 226.\nNautilus 226.\nNepa cinerea 328.\nNoctua 163.\nNoctua serici 359."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "O.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "O."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Oestrus bovis 317.\nOlor 210.\nOrcynus 258.\nOvis aurita 31.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Oestrus bovis 317.\nOlor 210.\nOrcynus 258.\nOvis aurita 31."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "P.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "P."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Pantera 71.\nPapilio 374.\nPardus 71.\nParus ater 212.\nPasser 187.\nPelagia 282.\nPelamys 253.\nPelamys sarda 257.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Pantera 71.\nPapilio 374.\nPardus 71.\nParus ater 212.\nPasser 187.\nPelagia 282.\nPelamys 253.\nPelamys sarda 257."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Purpura patula 282.\nPyralis 351.\nPyralis tapezana 322.\nPyrausta 351.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Purpura patula 282.\nPyralis 351.\nPyralis tapezana 322.\nPyrausta 351."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "R.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "R."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Raja rubus 263. 268.\nRallus crex 211.\nRhynchites Bacchus 309.\nRupi-capra 115.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Raja rubus 263. 268.\nRallus crex 211.\nRhynchites Bacchus 309.\nRupi-capra 115."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "S.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "S."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Sarcophaga carnaria 9.\nScarabeus lucanicus 294.\nSciaena 263.\nScilla 233.\nScolopendra gigantea 323.\nSepia officinalis 284.\nSimia 360.\nSolea 275.\nSparus maena 278.\nSpheniscus demersus 182.\nSphinx celeris 287.\nSphyrna tudes 267.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sarcophaga carnaria 9.\nScarabeus lucanicus 294.\nSciaena 263.\nScilla 233.\nScolopendra gigantea 323.\nSepia officinalis 284.\nSimia 360.\nSolea 275.\nSparus maena 278.\nSpheniscus demersus 182.\nSphinx celeris 287.\nSphyrna tudes 267."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3068,
+    2178
+   ],
+   [
+    3068,
+    3034
+   ]
+  ],
+  "input_tokens": 11371,
+  "output_tokens": 1350,
+  "cost_usd": 0.0362,
+  "seconds": 8.5
+ }
+}

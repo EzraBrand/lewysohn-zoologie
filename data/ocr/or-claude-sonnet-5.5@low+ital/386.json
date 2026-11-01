@@ -1,0 +1,717 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "386",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "386"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hebräisches und aramäisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hebräisches und aramäisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "חפיתא 371.\nחרגול 290.\nחרדון 242. 371.\nחרוא 94.\nחרצא 94.\nתחול 74.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "חפיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 371.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "חרגול"
+    },
+    {
+     "lang": "deu",
+     "text": " 290.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "חרדון"
+    },
+    {
+     "lang": "deu",
+     "text": " 242. 371.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "חרוא"
+    },
+    {
+     "lang": "deu",
+     "text": " 94.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "חרצא"
+    },
+    {
+     "lang": "deu",
+     "text": " 94.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תחול"
+    },
+    {
+     "lang": "deu",
+     "text": " 74."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ט.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ט."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "טביא 111. 114.\nטגרים 70.\nטווס 189.\nטוות 189.\nטויות 299.\nטונוס 253.\nטור 129.\nטיפויי 326.\nטלא 119.\nטליה 119.\nטפוא 110. 371.\nטרית 255.\nטריתא 255.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "טביא"
+    },
+    {
+     "lang": "deu",
+     "text": " 111. 114.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טגרים"
+    },
+    {
+     "lang": "deu",
+     "text": " 70.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טווס"
+    },
+    {
+     "lang": "deu",
+     "text": " 189.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טוות"
+    },
+    {
+     "lang": "deu",
+     "text": " 189.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טויות"
+    },
+    {
+     "lang": "deu",
+     "text": " 299.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טונוס"
+    },
+    {
+     "lang": "deu",
+     "text": " 253.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טור"
+    },
+    {
+     "lang": "deu",
+     "text": " 129.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טיפויי"
+    },
+    {
+     "lang": "deu",
+     "text": " 326.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 119.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טליה"
+    },
+    {
+     "lang": "deu",
+     "text": " 119.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טפוא"
+    },
+    {
+     "lang": "deu",
+     "text": " 110. 371.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טרית"
+    },
+    {
+     "lang": "deu",
+     "text": " 255.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טריתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 255."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "יניכא 322.\nינשוף 163.\nיעל 115.\nיעלא 115.\nיעלה 115.\nיעלי סלע 115.\nיענה 188.\nירודאתא 371.\nירודות 372.\nיריקא 369.\nיתוש 315. 365.\nיתוש שבכליסים 308.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "יניכא"
+    },
+    {
+     "lang": "deu",
+     "text": " 322.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ינשוף"
+    },
+    {
+     "lang": "deu",
+     "text": " 163.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יעל"
+    },
+    {
+     "lang": "deu",
+     "text": " 115.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יעלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 115.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יעלה"
+    },
+    {
+     "lang": "deu",
+     "text": " 115.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יעלי סלע"
+    },
+    {
+     "lang": "deu",
+     "text": " 115.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יענה"
+    },
+    {
+     "lang": "deu",
+     "text": " 188.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ירודאתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 371.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ירודות"
+    },
+    {
+     "lang": "deu",
+     "text": " 372.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יריקא"
+    },
+    {
+     "lang": "deu",
+     "text": " 369.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יתוש"
+    },
+    {
+     "lang": "deu",
+     "text": " 315. 365.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יתוש שבכליסים"
+    },
+    {
+     "lang": "deu",
+     "text": " 308."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "כ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "כ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "כבש 118.\nכבשי מצרים 122.\nכבשני 204.\nכובאי 309.\nכוביא 299.\nכורנא 144.\nכודנייתא 144.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "כבש"
+    },
+    {
+     "lang": "deu",
+     "text": " 118.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כבשי מצרים"
+    },
+    {
+     "lang": "deu",
+     "text": " 122.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כבשני"
+    },
+    {
+     "lang": "deu",
+     "text": " 204.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כובאי"
+    },
+    {
+     "lang": "deu",
+     "text": " 309.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כוביא"
+    },
+    {
+     "lang": "deu",
+     "text": " 299.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כורנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 144.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כודנייתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 144."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "י.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "י."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "יאלי 100. 336.\nיאנובא 322.\nיאנוכא 322.\nיארוד 241.\nיארוד נאלה 241.\nיבחושין 314. 334.\nידוע 356. 358.\nיובלא 118.\nיוחנא ירושלמית 290.\nיון 205.\nיונה 199.\nיחמור 113.\nיחמורתא 113.\nיילי 100. 218.\nיימים 144.\nילק 291. 297.\nיניבא 322.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "יאלי"
+    },
+    {
+     "lang": "deu",
+     "text": " 100. 336.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יאנובא"
+    },
+    {
+     "lang": "deu",
+     "text": " 322.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יאנוכא"
+    },
+    {
+     "lang": "deu",
+     "text": " 322.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יארוד"
+    },
+    {
+     "lang": "deu",
+     "text": " 241.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יארוד נאלה"
+    },
+    {
+     "lang": "deu",
+     "text": " 241.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יבחושין"
+    },
+    {
+     "lang": "deu",
+     "text": " 314. 334.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ידוע"
+    },
+    {
+     "lang": "deu",
+     "text": " 356. 358.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יובלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 118.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יוחנא ירושלמית"
+    },
+    {
+     "lang": "deu",
+     "text": " 290.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יון"
+    },
+    {
+     "lang": "deu",
+     "text": " 205.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יונה"
+    },
+    {
+     "lang": "deu",
+     "text": " 199.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יחמור"
+    },
+    {
+     "lang": "deu",
+     "text": " 113.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יחמורתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 113.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יילי"
+    },
+    {
+     "lang": "deu",
+     "text": " 100. 218.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יימים"
+    },
+    {
+     "lang": "deu",
+     "text": " 144.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ילק"
+    },
+    {
+     "lang": "deu",
+     "text": " 291. 297.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יניבא"
+    },
+    {
+     "lang": "deu",
+     "text": " 322."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "כוחילנא 179.\nכוי 115.\nכוס 163.\nכופיא 251.\nכורביא 169.\nכורכיא 169.\nכח 223.\nכטספטיים 258.\nכידנא 144.\nכילבית 277.\nכיליי 232. 233. 373.\nכילכית 276.\nכילתא 232.\nכינה 308. 324. 339.\nכינה קופצות 327.\nכינה רוחשת 324.\nכינה שחורה 327.\nכירצא 339.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "כוחילנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 179.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כוי"
+    },
+    {
+     "lang": "deu",
+     "text": " 115.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כוס"
+    },
+    {
+     "lang": "deu",
+     "text": " 163.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כופיא"
+    },
+    {
+     "lang": "deu",
+     "text": " 251.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כורביא"
+    },
+    {
+     "lang": "deu",
+     "text": " 169.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כורכיא"
+    },
+    {
+     "lang": "deu",
+     "text": " 169.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כח"
+    },
+    {
+     "lang": "deu",
+     "text": " 223.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כטספטיים"
+    },
+    {
+     "lang": "deu",
+     "text": " 258.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כידנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 144.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כילבית"
+    },
+    {
+     "lang": "deu",
+     "text": " 277.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כיליי"
+    },
+    {
+     "lang": "deu",
+     "text": " 232. 233. 373.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כילכית"
+    },
+    {
+     "lang": "deu",
+     "text": " 276.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כילתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 232.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כינה"
+    },
+    {
+     "lang": "deu",
+     "text": " 308. 324. 339.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כינה קופצות"
+    },
+    {
+     "lang": "deu",
+     "text": " 327.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כינה רוחשת"
+    },
+    {
+     "lang": "deu",
+     "text": " 324.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כינה שחורה"
+    },
+    {
+     "lang": "deu",
+     "text": " 327.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כירצא"
+    },
+    {
+     "lang": "deu",
+     "text": " 339."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3000,
+    2746
+   ],
+   [
+    3000,
+    2198
+   ]
+  ],
+  "input_tokens": 11385,
+  "output_tokens": 3074,
+  "cost_usd": 0.0535,
+  "seconds": 16.4
+ }
+}

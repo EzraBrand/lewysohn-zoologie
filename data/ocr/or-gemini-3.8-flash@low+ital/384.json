@@ -1,0 +1,1313 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "384\t\tHebräisches und aramäisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "384\t\tHebräisches und aramäisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "ברדא 187.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ברדא"
+    },
+    {
+     "lang": "deu",
+     "text": " 187."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גלאקטינון 370.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גלאקטינון"
+    },
+    {
+     "lang": "deu",
+     "text": " 370."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "ברדלא 62.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ברדלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 62."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גלאקסינון 366.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גלאקסינון"
+    },
+    {
+     "lang": "deu",
+     "text": " 366."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "ברדלס 72. 76. 90.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ברדלס"
+    },
+    {
+     "lang": "deu",
+     "text": " 72. 76. 90."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "גמל 134.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גמל"
+    },
+    {
+     "lang": "deu",
+     "text": " 134."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "ברחא 119. 123.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ברחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 119. 123."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גמל s. גמלא טייעא",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גמל"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "גמלא טייעא"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "ברחא s. ברחה.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ברחא"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "ברחה."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גמל s. גמלא פרחא",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גמל"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "גמלא פרחא"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "בת יענה 188.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "בת יענה"
+    },
+    {
+     "lang": "deu",
+     "text": " 188."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גמל s. גמלא פרסא",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גמל"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "גמלא פרסא"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "בת מונא חמרא 186.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "בת מונא חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " 186."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גנונים 336.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גנונים"
+    },
+    {
+     "lang": "deu",
+     "text": " 336."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "בת נעמיתא 188.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "בת נעמיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 188."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גנז s. גם",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גנז"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "גם"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "בת קברייא 175.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "בת קברייא"
+    },
+    {
+     "lang": "deu",
+     "text": " 175."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "געגעא 232.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "געגעא"
+    },
+    {
+     "lang": "deu",
+     "text": " 232."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": ".ג",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": ".ג"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": ".ד",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": ".ד"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "גדי 123.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גדי"
+    },
+    {
+     "lang": "deu",
+     "text": " 123."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "דאה 167.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דאה"
+    },
+    {
+     "lang": "deu",
+     "text": " 167."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גדי s. גדיא",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גדי"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "גדיא"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דאציפי 203.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דאציפי"
+    },
+    {
+     "lang": "deu",
+     "text": " 203."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גדיא חויוא 123.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גדיא חויוא"
+    },
+    {
+     "lang": "deu",
+     "text": " 123."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "דבורה 301. 361.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דבורה"
+    },
+    {
+     "lang": "deu",
+     "text": " 301. 361."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גדיאן 292.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גדיאן"
+    },
+    {
+     "lang": "deu",
+     "text": " 292."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דבר אחר 146.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דבר אחר"
+    },
+    {
+     "lang": "deu",
+     "text": " 146."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דברי 375.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דברי"
+    },
+    {
+     "lang": "deu",
+     "text": " 375."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "גוב 287.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גוב"
+    },
+    {
+     "lang": "deu",
+     "text": " 287."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דבורה s. דבריאותי.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דבורה"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "דבריאותי."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גוב s. גובאי",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גוב"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "גובאי"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דג המצרי 273.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דג המצרי"
+    },
+    {
+     "lang": "deu",
+     "text": " 273."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גובי 297.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גובי"
+    },
+    {
+     "lang": "deu",
+     "text": " 297."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "דגה 5. 372.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דגה"
+    },
+    {
+     "lang": "deu",
+     "text": " 5. 372."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גוב s. גוביי",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גוב"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "גוביי"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דגי רקק 363.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דגי רקק"
+    },
+    {
+     "lang": "deu",
+     "text": " 363."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גולדנא 262.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גולדנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 262."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דואר 370.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דואר"
+    },
+    {
+     "lang": "deu",
+     "text": " 370."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גוצי וסומקי 171.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גוצי וסומקי"
+    },
+    {
+     "lang": "deu",
+     "text": " 171."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דוב 99.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דוב"
+    },
+    {
+     "lang": "deu",
+     "text": " 99."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "גור 1. 68. 308.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גור"
+    },
+    {
+     "lang": "deu",
+     "text": " 1. 68. 308."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "דובא 81. 99. 366.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דובא"
+    },
+    {
+     "lang": "deu",
+     "text": " 81. 99. 366."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גוריא 68.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גוריא"
+    },
+    {
+     "lang": "deu",
+     "text": " 68."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דוביא 129.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דוביא"
+    },
+    {
+     "lang": "deu",
+     "text": " 129."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גורי פרסייא 71. 370.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גורי פרסייא"
+    },
+    {
+     "lang": "deu",
+     "text": " 71. 370."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "דודבא 312. 318.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דודבא"
+    },
+    {
+     "lang": "deu",
+     "text": " 312. 318."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גורייתא 68, 82.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גורייתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 68, 82."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דודבא s. דודבתא.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דודבא"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "דודבתא."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גורייתא קיסנייתא 87.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גורייתא קיסנייתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 87."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דוכיפת 216.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דוכיפת"
+    },
+    {
+     "lang": "deu",
+     "text": " 216."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "גז 164.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גז"
+    },
+    {
+     "lang": "deu",
+     "text": " 164."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דולפנין 153.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דולפנין"
+    },
+    {
+     "lang": "deu",
+     "text": " 153."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "גזי 232. 303.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גזי"
+    },
+    {
+     "lang": "deu",
+     "text": " 232. 303."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דידבתא ביני כיפי 315.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דידבתא ביני כיפי"
+    },
+    {
+     "lang": "deu",
+     "text": " 315."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "גזין 297. 303. 311.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גזין"
+    },
+    {
+     "lang": "deu",
+     "text": " 297. 303. 311."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "דיה 167.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דיה"
+    },
+    {
+     "lang": "deu",
+     "text": " 167."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "גזם 297.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גזם"
+    },
+    {
+     "lang": "deu",
+     "text": " 297."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דיה חיורתא 172.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דיה חיורתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 172."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גידרונא 144.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גידרונא"
+    },
+    {
+     "lang": "deu",
+     "text": " 144."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דיה לבנה 171.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דיה לבנה"
+    },
+    {
+     "lang": "deu",
+     "text": " 171."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גידרונא s. גיידור",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גידרונא"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "גיידור"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דיה רגזנית 169.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דיה רגזנית"
+    },
+    {
+     "lang": "deu",
+     "text": " 169."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "גילדנא 262. 272.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גילדנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 262. 272."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "דיו 167.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דיו"
+    },
+    {
+     "lang": "deu",
+     "text": " 167."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גילדנא דבי גילי 262.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גילדנא דבי גילי"
+    },
+    {
+     "lang": "deu",
+     "text": " 262."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דאציפי s. דייציפי.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דאציפי"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "דייציפי."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גילדנא דימא 272.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גילדנא דימא"
+    },
+    {
+     "lang": "deu",
+     "text": " 272."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דייתא 90.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דייתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 90."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גידרונא s. גירדונא",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גידרונא"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "גירדונא"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דיכרי 118.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דיכרי"
+    },
+    {
+     "lang": "deu",
+     "text": " 118."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "גירוחא 179. 274.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גירוחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 179. 274."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "דירה 308. 311.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דירה"
+    },
+    {
+     "lang": "deu",
+     "text": " 308. 311."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גלא 91.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 91."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "דישן 151.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דישן"
+    },
+    {
+     "lang": "deu",
+     "text": " 151."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "גלא דנהרא 233.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גלא דנהרא"
+    },
+    {
+     "lang": "deu",
+     "text": " 233."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "דר 347.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "דר"
+    },
+    {
+     "lang": "deu",
+     "text": " 347."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2948,
+    2101
+   ],
+   [
+    2948,
+    3099
+   ]
+  ],
+  "input_tokens": 3053,
+  "output_tokens": 6663,
+  "cost_usd": 0.0273,
+  "seconds": 49.4
+ }
+}

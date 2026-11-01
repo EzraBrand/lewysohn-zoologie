@@ -1,0 +1,229 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "I. Griechisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "I. Griechisches Register."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Α.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Α."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἀβραμίς 264.\nἈκρίς 295.\nἈμία 257.\nἈνδρό-φατος 161.\nἈνήνιον 360.\nἈνθίας 268.\nἈνθρωπόγλωττον 162.\nἈσκαρής 297.\nΑὐλωπίας 268.\nἈφρός 261.\nἈφύη 261.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀβραμίς 264.\nἈκρίς 295.\nἈμία 257.\nἈνδρό-φατος 161.\nἈνήνιον 360.\nἈνθίας 268.\nἈνθρωπόγλωττον 162.\nἈσκαρής 297.\nΑὐλωπίας 268.\nἈφρός 261.\nἈφύη 261."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Β.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Β."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Βάτος 263. 268.\nΒουγενές 375.\nΒούγλωσσος 275.\nΒούνεβρος 151.\nΒούπαις 375.\nΒουποίητος 375.\nΒοῦς 151. 270. 307.\nΒοῦς θαλάσσιος 270.\nΒροῦχος 287. 296.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Βάτος 263. 268.\nΒουγενές 375.\nΒούγλωσσος 275.\nΒούνεβρος 151.\nΒούπαις 375.\nΒουποίητος 375.\nΒοῦς 151. 270. 307.\nΒοῦς θαλάσσιος 270.\nΒροῦχος 287. 296."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Γ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Γ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Γαίδαρο 144.\nΓαλεούδη 262. 272.\nΓαλεώτης 262. 272.\nΓαλῆ 272. 366.\nΓαῦλος 233.\nΓυπαίετος 372.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Γαίδαρο 144.\nΓαλεούδη 262. 272.\nΓαλεώτης 262. 272.\nΓαλῆ 272. 366.\nΓαῦλος 233.\nΓυπαίετος 372."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Δ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Δ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Δράκων 240.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Δράκων 240."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Ε.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ε."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἕλμινς 311.\nἘρωδιός 210.\nΕὐλή 310.\nἜχιδνα 238.\nἘχῖνος 100.\nἘχῖνος χερσαῖος 94.\nἜχις 238.\nἙψητός 269.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἕλμινς 311.\nἘρωδιός 210.\nΕὐλή 310.\nἜχιδνα 238.\nἘχῖνος 100.\nἘχῖνος χερσαῖος 94.\nἜχις 238.\nἙψητός 269."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Η.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Η."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἡμέρα 319.\nἩμίονος 144. 370.\nἭμισυ 370.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἡμέρα 319.\nἩμίονος 144. 370.\nἭμισυ 370."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Θ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Θ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Θύννος 253.\nΘρίσσα 256.\nΘώς 316.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Θύννος 253.\nΘρίσσα 256.\nΘώς 316."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Ι.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ι."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἱέραξ 164.\nἼουλος 323.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἱέραξ 164.\nἼουλος 323."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2780,
+    2168
+   ],
+   [
+    2780,
+    1752
+   ]
+  ],
+  "input_tokens": 11342,
+  "output_tokens": 1140,
+  "cost_usd": 0.0682,
+  "seconds": 16.5
+ }
+}

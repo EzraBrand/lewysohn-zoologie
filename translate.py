@@ -143,6 +143,16 @@ here Roman page numbers (VII, IX: the front matter) stay Roman. Translate the Ge
 (e.g. "Abtheilung", "Klasse", "Nachtrag", "Anhang", "Zusätze und Verbesserungen")."""
 
 
+REGISTERS = """\
+This input is the book's registers (indexes): I Greek, II Latin, III Hebrew and Aramaic, IV German. \
+Here the rule on joining lines does NOT apply: keep every printed line (one entry: a word and its \
+page numbers) as its own line, separated by "\\n", in the same order. Keep the page numbers \
+exactly as printed. Translate the headings and the German entries of register IV, and the German \
+words in the other registers; keep the Greek, Latin, Hebrew and Aramaic entry words exactly as \
+printed, with no transliteration or translation added. Do not reorder entries: the order is that \
+of the German alphabet."""
+
+
 def translate(page: dict, model: str, effort: str, page_key: str | list[str], extra: str = "") -> dict:
     src = [{"type": b["type"], "marker": b.get("marker", ""), "text": b["text"]} for b in page["blocks"]]
     prompt = PROMPT.format(blocks=json.dumps({"blocks": src}, ensure_ascii=False, indent=1),

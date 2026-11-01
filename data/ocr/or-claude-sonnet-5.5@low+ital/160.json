@@ -1,0 +1,169 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "160",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "160"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Vögel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Vögel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "daß in beiden Büchern nur 20 unreine Vögel speciell erwähnt sind. Da\nnun jener Zusatz, allgemein gehalten, keine besondere Species benennt,\nso subsumirt der Talmud viele Vögel unter jenem Zusatz, oder er\nbezeichnet viele Vögel deshalb als unrein, weil ihnen die zur Bestim-\nmung der Reinheit (§. 23) nöthigen Eigenschaften fehlen. — Viele\nandere Vögel werden in Beziehung der Reinheit, oder Unreinheit als\nzweifelhaft bestimmt (s. §. 211—219).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "daß in beiden Büchern nur 20 unreine Vögel speciell erwähnt sind. Da\nnun jener Zusatz, allgemein gehalten, keine besondere Species benennt,\nso subsumirt der Talmud viele Vögel unter jenem Zusatz, oder er\nbezeichnet viele Vögel deshalb als unrein, weil ihnen die zur Bestim-\nmung der Reinheit (§. 23) nöthigen Eigenschaften fehlen. — Viele\nandere Vögel werden in Beziehung der Reinheit, oder Unreinheit als\nzweifelhaft bestimmt (s. §. 211—219)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 183.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 183."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Zuweilen brüten unreine Vögel die Eier reiner Vögel und auch\numgekehrt (Chulin 138, b). — Bei dem Rebhuhn brütet auch das\nMännchen (ibid. u. unt. §. 264). — Nicht alle Eier sind brütfähig.\nMan unterscheidet 1) ביעי דרכרא (Beza 7, a), Eier durch Hahnen-\ntritt, 2) ביעי דספנא מארעא (ibid.), Windeier, die die Henne durch\ndas Liegen im warmen Sande empfängt; diese Eier heißen auch ביעי\nמורוח (Chulin 64, b); nur jene erstgedachten Eier sind brütfähig. —\nDie gelegten Eier heißen ביעי דפחיא (Beza 7, b), die im geschlach-\nteten Vogel gefundenen Eier: ביעי דשחוטה (ibid.). Der Saamen des\nMännchens befindet sich in dem Weiß des Eies, und zwar an dem\nplatten, oder stumpfen Ende, von wo aus die Bildung des Embryon\nbeginnt (Chulin 64, b*). Zuweilen ist ein Blutstropfen im Ei, der,\nwenn er im Dotter sich befindet, das ganze Ei verdirbt; befindet er\nsich im Weiß, so ist der übrige Theil des Eies zu essen gestattet (ibid.).\nWerden Eier von reinen und unreinen Vögeln miteinander gekocht,\nso dürfen die reinen Eier gegessen werden, da Eier, in den Schalen\ngekocht, keinen Geschmack sich mittheilen (ibid.). — Man kannte schon\nfrüh die Stärke der Eierschale, wenn man das Ei auf die Spitze\nstellt; so stellte man zuweilen ein Ei unter den Fuß einer Bettlade,\num sie in gerader Richtung zu erhalten (Beza 3, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zuweilen brüten unreine Vögel die Eier reiner Vögel und auch\numgekehrt (Chulin 138, b). — Bei dem Rebhuhn brütet auch das\nMännchen (ibid. u. unt. §. 264). — Nicht alle Eier sind brütfähig.\nMan unterscheidet 1) "
+    },
+    {
+     "lang": "arc",
+     "text": "ביעי דרכרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Beza 7, a), Eier durch Hahnen-\ntritt, 2) "
+    },
+    {
+     "lang": "arc",
+     "text": "ביעי דספנא מארעא"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid.), Windeier, die die Henne durch\ndas Liegen im warmen Sande empfängt; diese Eier heißen auch "
+    },
+    {
+     "lang": "arc",
+     "text": "ביעי"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "arc",
+     "text": "מורוח"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 64, b); nur jene erstgedachten Eier sind brütfähig. —\nDie gelegten Eier heißen "
+    },
+    {
+     "lang": "arc",
+     "text": "ביעי דפחיא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Beza 7, b), die im geschlach-\nteten Vogel gefundenen Eier: "
+    },
+    {
+     "lang": "arc",
+     "text": "ביעי דשחוטה"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid.). Der Saamen des\nMännchens befindet sich in dem Weiß des Eies, und zwar an dem\nplatten, oder stumpfen Ende, von wo aus die Bildung des Embryon\nbeginnt (Chulin 64, b*). Zuweilen ist ein Blutstropfen im Ei, der,\nwenn er im Dotter sich befindet, das ganze Ei verdirbt; befindet er\nsich im Weiß, so ist der übrige Theil des Eies zu essen gestattet (ibid.).\nWerden Eier von reinen und unreinen Vögeln miteinander gekocht,\nso dürfen die reinen Eier gegessen werden, da Eier, in den Schalen\ngekocht, keinen Geschmack sich mittheilen (ibid.). — Man kannte schon\nfrüh die Stärke der Eierschale, wenn man das Ei auf die Spitze\nstellt; so stellte man zuweilen ein Ei unter den Fuß einer Bettlade,\num sie in gerader Richtung zu erhalten (Beza 3, b)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 184.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 184."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Nächst dem am Ende des vorhergehenden Artikels erwähnten\nGebrauch des Eies, bieten die Vögel noch andern und größern Nutzen.\nZuerst den des Fleischgenusses, obwohl dieser allerdings dem Genusse",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nächst dem am Ende des vorhergehenden Artikels erwähnten\nGebrauch des Eies, bieten die Vögel noch andern und größern Nutzen.\nZuerst den des Fleischgenusses, obwohl dieser allerdings dem Genusse"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Diese Angabe ist aber ebenso unrichtig, wie die des Aristoteles (l. c. 6,\n3, 1), daß die Bildung an den spitzen Enden beginnt; der junge Vogel entwickelt\nsich vielmehr von der Mitte aus.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Diese Angabe ist aber ebenso unrichtig, wie die des Aristoteles (l. c. 6,\n3, 1), daß die Bildung an den spitzen Enden beginnt; der junge Vogel entwickelt\nsich vielmehr von der Mitte aus."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2495
+   ],
+   [
+    3308,
+    2693
+   ]
+  ],
+  "input_tokens": 11368,
+  "output_tokens": 1587,
+  "cost_usd": 0.0386,
+  "seconds": 10.9
+ }
+}

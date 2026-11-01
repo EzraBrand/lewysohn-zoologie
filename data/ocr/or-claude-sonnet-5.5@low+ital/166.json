@@ -1,0 +1,185 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "166",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "166"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Adler.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Adler."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "doch fürchtet er den Fliegenschnäpper (§. 259). Fabelhaft ist die\nSage, daß er die jungen Gemsen, die auf hohen Bergen geboren\nwerden und durch das Herabstürzen leicht den Tod finden könnten,\nauffängt und sie der Mutter zurückbringt (B. batra 16, b*). — Er\nist der unreine Vogel κατ' ἐξοχήν, denn er ist ein Raubvogel (דורס,\nsieh die verschiedenen Erklärungen dieses Begriffes §. 23), er hat\nkeinen Kropf, hat einen einhäutigen Magen und hat keinen אצבע\nיתירה (Chulin 61, a). Der Verfasser des ספר הבריה**) schreibt ohne\nnähere Erklärung die talmudische Angabe nach (ibid. Bl. 70, S. 2),\nobgleich der letzte Theil der Angabe viele Schwierigkeit bietet. Die\nMeisten halten den אצבע יתירה für den Hinterfinger, der aber bei\nkeiner der uns bekannten Adlerarten fehlt; sie unterscheiden sich nur\nin der Anzahl der Vorderzehe, so hat der Goldadler (Aquila im-\nperialis) nicht drei, sondern vier Vorderzehen, doch hat jede der 10\nin Europa lebenden Adlerarten eine Hinterzehe; auch die Tosephot\nbemerken, daß der gemeine Adler, איגלא, Aigle, eine Hinterzehe hat\n(Tos. Chulin 63, a. s. v. נץ); man darf daher wohl der Erklärung\nNissim's beipflichten, der unter אצבע יתירה die Verlängerung der vor=\ndern Mittelzehe versteht, was wohl bei mancher Adlerart nicht der\nFall zu sein braucht. Die späteren Decisoren (s. Peri Megadim zu\nTure Sahab Jore Dea §. 82, lit. 3) entscheiden sich jedoch weder für\ndie eine, noch für die andere Erklärung***). — Der Adler würgt\nseine Beute, die er, ohne ihren Tod abzuwarten, sogleich verzehrt (Tos.\nChulin 61, a. s. v. הדורס). — Ueber den Titel: „Adler!“ vergl. §. 107;\nüber seine Liebe zu den Jungen S. 172, Anm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "doch fürchtet er den Fliegenschnäpper (§. 259). Fabelhaft ist die\nSage, daß er die jungen Gemsen, die auf hohen Bergen geboren\nwerden und durch das Herabstürzen leicht den Tod finden könnten,\nauffängt und sie der Mutter zurückbringt (B. batra 16, b*). — Er\nist der unreine Vogel "
+    },
+    {
+     "lang": "grc",
+     "text": "κατ' ἐξοχήν"
+    },
+    {
+     "lang": "deu",
+     "text": ", denn er ist ein Raubvogel ("
+    },
+    {
+     "lang": "heb",
+     "text": "דורס"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nsieh die verschiedenen Erklärungen dieses Begriffes §. 23), er hat\nkeinen Kropf, hat einen einhäutigen Magen und hat keinen "
+    },
+    {
+     "lang": "heb",
+     "text": "אצבע\nיתירה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 61, a). Der Verfasser des "
+    },
+    {
+     "lang": "heb",
+     "text": "ספר הבריה"
+    },
+    {
+     "lang": "deu",
+     "text": "**) schreibt ohne\nnähere Erklärung die talmudische Angabe nach (ibid. Bl. 70, S. 2),\nobgleich der letzte Theil der Angabe viele Schwierigkeit bietet. Die\nMeisten halten den "
+    },
+    {
+     "lang": "heb",
+     "text": "אצבע יתירה"
+    },
+    {
+     "lang": "deu",
+     "text": " für den Hinterfinger, der aber bei\nkeiner der uns bekannten Adlerarten fehlt; sie unterscheiden sich nur\nin der Anzahl der Vorderzehe, so hat der Goldadler (Aquila im-\nperialis) nicht drei, sondern vier Vorderzehen, doch hat jede der 10\nin Europa lebenden Adlerarten eine Hinterzehe; auch die Tosephot\nbemerken, daß der gemeine Adler, "
+    },
+    {
+     "lang": "heb",
+     "text": "איגלא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Aigle, eine Hinterzehe hat\n(Tos. Chulin 63, a. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "נץ"
+    },
+    {
+     "lang": "deu",
+     "text": "); man darf daher wohl der Erklärung\nNissim's beipflichten, der unter "
+    },
+    {
+     "lang": "heb",
+     "text": "אצבע יתירה"
+    },
+    {
+     "lang": "deu",
+     "text": " die Verlängerung der vor=\ndern Mittelzehe versteht, was wohl bei mancher Adlerart nicht der\nFall zu sein braucht. Die späteren Decisoren (s. Peri Megadim zu\nTure Sahab Jore Dea §. 82, lit. 3) entscheiden sich jedoch weder für\ndie eine, noch für die andere Erklärung***). — Der Adler würgt\nseine Beute, die er, ohne ihren Tod abzuwarten, sogleich verzehrt (Tos.\nChulin 61, a. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "הדורס"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Ueber den Titel: „Adler!“ vergl. §. 107;\nüber seine Liebe zu den Jungen S. 172, Anm."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Raschi (Deut. 32, 11) sagt vom Adler, daß er, um seine Jungen\nnicht zu erschrecken, durch Klopfen mit den Flügeln seine Ankunft ankündigt; daß\ner ferner beim Ausflug mit den Jungen dieselben auf seinen Flügeln über sich trägt.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Raschi (Deut. 32, 11) sagt vom Adler, daß er, um seine Jungen\nnicht zu erschrecken, durch Klopfen mit den Flügeln seine Ankunft ankündigt; daß\ner ferner beim Ausflug mit den Jungen dieselben auf seinen Flügeln über sich trägt."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Das Werk erschien (Brünn 1797) anonym, doch ergeben die Anfangs=\nbuchstaben der Ueberschrift zur Einleitung des Werkes die Namen: אליהו בן\nמאיר ווילנא.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Werk erschien (Brünn 1797) anonym, doch ergeben die Anfangs=\nbuchstaben der Ueberschrift zur Einleitung des Werkes die Namen: "
+    },
+    {
+     "lang": "heb",
+     "text": "אליהו בן\nמאיר ווילנא"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Lasch spricht in seinem trefflichen Buche פקודי ה' (S. 167) über die\nreinen und unreinen Vögel; Erstere dürfen keine Raubvögel und müssen von der\nNatur auf die Nahrung von Pflanzen angewiesen sein. „Die Merkzeichen der=\nselben,“ sagt er, „sind: 1, eine verlängerte Mittelzehe an den Füßen, um die Kör=\nner herauszuscharren, 2, ein Kropf, sie zu sammeln, und 3, ein harthäutiger Ma=\ngen sie zu zerreiben, von dem die harte Haut leicht abgeschält werden kann.“",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Lasch spricht in seinem trefflichen Buche "
+    },
+    {
+     "lang": "heb",
+     "text": "פקודי ה'"
+    },
+    {
+     "lang": "deu",
+     "text": " (S. 167) über die\nreinen und unreinen Vögel; Erstere dürfen keine Raubvögel und müssen von der\nNatur auf die Nahrung von Pflanzen angewiesen sein. „Die Merkzeichen der=\nselben,“ sagt er, „sind: 1, eine verlängerte Mittelzehe an den Füßen, um die Kör=\nner herauszuscharren, 2, ein Kropf, sie zu sammeln, und 3, ein harthäutiger Ma=\ngen sie zu zerreiben, von dem die harte Haut leicht abgeschält werden kann.“"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2773
+   ],
+   [
+    3308,
+    2239
+   ]
+  ],
+  "input_tokens": 11310,
+  "output_tokens": 1850,
+  "cost_usd": 0.0411,
+  "seconds": 13.3
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Rebenstecher. — Verwandte Gattung.\t309",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Rebenstecher. — Verwandte Gattung.\t309"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "l. c. 4. S. 393), die im Mehle leben. דירה (Wohnung des Käfers)\nist die Larve, welche im Mehl, Kleie und altem Brod lebt, aus ihr\nentsteht die כינה, ein genereller Name für kleine Insecten. — Sim-\nson identificirt דירה mit סלמונטין, jedoch unrichtig; s. §. 422. — Ueber\nדראון, was nach Kimchi mit דירה identisch sein soll s. §. 517.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "l. c. 4. S. 393), die im Mehle leben. "
+    },
+    {
+     "lang": "heb",
+     "text": "דירה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Wohnung des Käfers)\nist die Larve, welche im Mehl, Kleie und altem Brod lebt, aus ihr\nentsteht die "
+    },
+    {
+     "lang": "heb",
+     "text": "כינה"
+    },
+    {
+     "lang": "deu",
+     "text": ", ein genereller Name für kleine Insecten. — Sim-\nson identificirt "
+    },
+    {
+     "lang": "heb",
+     "text": "דירה"
+    },
+    {
+     "lang": "deu",
+     "text": " mit "
+    },
+    {
+     "lang": "heb",
+     "text": "סלמונטין"
+    },
+    {
+     "lang": "deu",
+     "text": ", jedoch unrichtig; s. §. 422. — Ueber\n"
+    },
+    {
+     "lang": "heb",
+     "text": "דראון"
+    },
+    {
+     "lang": "deu",
+     "text": ", was nach Kimchi mit "
+    },
+    {
+     "lang": "heb",
+     "text": "דירה"
+    },
+    {
+     "lang": "deu",
+     "text": " identisch sein soll s. §. 517."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 414.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 414."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. In der im vorhergehenden Art. citirten Mischna erwähnt\nSimson nach Angabe der Tosiphta einiger Namen von Thieren, und\nhandelt es sich dort um die rituelle Bestimmung für den Fall, wenn\ndie עכשוב, die כובאי und die שיבאי in das mit Asche der rothen Kuh\nvermischte Wasser gefallen sind. Daß hier nur Insecten gemeint\nsind, darf wohl aus der Zusammenstellung mit den anderen im vori-\ngen Artikel erwähnten Insecten geschlossen werden, und so wird wohl\nעכשוב nach der Erklärung Raschi's zu Ps. 140, 4 eine Spinnenart,\nund zwar die Tarantel sein (vergl. Kerem Chemed IX. Th. S. 124);\nכובאי sind Spinnen (s. §. 400) und שיבאי mag entweder dem deut-\nschen Schabe entsprechen, oder, was wahrscheinlicher ist, dem Schmet-\nterlingsnamen Asopia und zwar Asopia farinalis, deren Raupe vor-\nzüglich im Mehl, Haarpuder u. dgl. lebt (Voigt l. c. 5. S. 200).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. In der im vorhergehenden Art. citirten Mischna erwähnt\nSimson nach Angabe der Tosiphta einiger Namen von Thieren, und\nhandelt es sich dort um die rituelle Bestimmung für den Fall, wenn\ndie "
+    },
+    {
+     "lang": "heb",
+     "text": "עכשוב"
+    },
+    {
+     "lang": "deu",
+     "text": ", die "
+    },
+    {
+     "lang": "heb",
+     "text": "כובאי"
+    },
+    {
+     "lang": "deu",
+     "text": " und die "
+    },
+    {
+     "lang": "heb",
+     "text": "שיבאי"
+    },
+    {
+     "lang": "deu",
+     "text": " in das mit Asche der rothen Kuh\nvermischte Wasser gefallen sind. Daß hier nur Insecten gemeint\nsind, darf wohl aus der Zusammenstellung mit den anderen im vori-\ngen Artikel erwähnten Insecten geschlossen werden, und so wird wohl\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עכשוב"
+    },
+    {
+     "lang": "deu",
+     "text": " nach der Erklärung Raschi's zu Ps. 140, 4 eine Spinnenart,\nund zwar die Tarantel sein (vergl. Kerem Chemed IX. Th. S. 124);\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כובאי"
+    },
+    {
+     "lang": "deu",
+     "text": " sind Spinnen (s. §. 400) und "
+    },
+    {
+     "lang": "heb",
+     "text": "שיבאי"
+    },
+    {
+     "lang": "deu",
+     "text": " mag entweder dem deut-\nschen Schabe entsprechen, oder, was wahrscheinlicher ist, dem Schmet-\nterlingsnamen Asopia und zwar Asopia farinalis, deren Raupe vor-\nzüglich im Mehl, Haarpuder u. dgl. lebt (Voigt l. c. 5. S. 200)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 415.\nDer Rebenstecher.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 415.\nDer Rebenstecher."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 67, b wird gesagt, daß die Würmer am Stamme der\nWeinstöcke als verbotene Insecten zu halten sind; der Wurm heißt:\nתולעת שבעיקרי גפנים „Wurm am Stamme des Weinstocks;“ es ist\ndies der Rhynchites Bacchus (Voigt ibid. 4. S. 358). Er legt in\ndie Augen und Blüthenknospen des Weinstocks sein Ei. Die Larve\nhält sich dann in den zusammengerollten Blättern desselben auf, und\nbringt sie sämmtlich zum Abfallen. Dieses Insect berührt also nicht\ndie Traube selbst, und hält sich daher בעיקרי גפנים, nur an dem\nStamme des Weinstocks auf.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 67, b wird gesagt, daß die Würmer am Stamme der\nWeinstöcke als verbotene Insecten zu halten sind; der Wurm heißt:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תולעת שבעיקרי גפנים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Wurm am Stamme des Weinstocks;“ es ist\ndies der "
+    },
+    {
+     "lang": "lat",
+     "text": "Rhynchites Bacchus"
+    },
+    {
+     "lang": "deu",
+     "text": " (Voigt ibid. 4. S. 358). Er legt in\ndie Augen und Blüthenknospen des Weinstocks sein Ei. Die Larve\nhält sich dann in den zusammengerollten Blättern desselben auf, und\nbringt sie sämmtlich zum Abfallen. Dieses Insect berührt also nicht\ndie Traube selbst, und hält sich daher "
+    },
+    {
+     "lang": "heb",
+     "text": "בעיקרי גפנים"
+    },
+    {
+     "lang": "deu",
+     "text": ", nur an dem\nStamme des Weinstocks auf."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 416.\nVerwandte Gattung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 416.\nVerwandte Gattung."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 67, b wird gesagt, daß der Wurm am Stamme des\nOelbeerbaumes als verbotenes Insect betrachtet wird, er heißt: תולעת",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 67, b wird gesagt, daß der Wurm am Stamme des\nOelbeerbaumes als verbotenes Insect betrachtet wird, er heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "תולעת"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2027
+   ],
+   [
+    3308,
+    3041
+   ]
+  ],
+  "input_tokens": 3345,
+  "output_tokens": 1061,
+  "cost_usd": 0.0065,
+  "seconds": 7.6
+ }
+}

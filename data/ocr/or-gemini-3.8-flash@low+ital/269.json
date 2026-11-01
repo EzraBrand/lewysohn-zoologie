@@ -1,0 +1,253 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Soclet. — Der Nonnat. — Die Seemaus.\t269",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Soclet. — Der Nonnat. — Die Seemaus.\t269"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "seiner Stacheln oder Dornen wurde er in der Volkssprache mit der\nUmbrine gleichbenannt, vergl. §. 333.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "seiner Stacheln oder Dornen wurde er in der Volkssprache mit der\nUmbrine gleichbenannt, vergl. §. 333."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 345.\nDer Soclet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 345.\nDer Soclet."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "A Sara 39, a wird erzählt: Rabbi Akiba kam einst nach Ginsak,\nda brachte man ihm einen Fisch, der dem חיפושא ähnlich war, er\nbedeckte ihn aber mit einem Korbe, in welchem (durch das Springen\ndes Fisches) Schuppen wahrgenommen wurden, worauf der Fisch als\nrein erklärt wurde. Hieraus geht hervor, daß der חיפושא selbst un-\nrein ist. Dieses Wort, wofür Aruch חפושית schreibt, scheint das\ngr. Ἑψητός zu sein. Dieser Fisch, dessen Aristoteles (a. a. O. 6,\n14, 1) erwähnt, ist wahrscheinlich der Atherina Hepsetus, oder der\nSoclet, franz. Cabassou. Er hat einen etwas zugespitzten Kopf und\nmag daher als unrein gehalten worden sein (§. 24). Dieser dem\nחיפושא ähnliche Fisch ist wahrscheinlich der חפיחא, vergl. Anhang s.\nv. חפיחא und folgenden Artikel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "A Sara 39, a wird erzählt: Rabbi Akiba kam einst nach Ginsak,\nda brachte man ihm einen Fisch, der dem "
+    },
+    {
+     "lang": "heb",
+     "text": "חיפושא"
+    },
+    {
+     "lang": "deu",
+     "text": " ähnlich war, er\nbedeckte ihn aber mit einem Korbe, in welchem (durch das Springen\ndes Fisches) Schuppen wahrgenommen wurden, worauf der Fisch als\nrein erklärt wurde. Hieraus geht hervor, daß der "
+    },
+    {
+     "lang": "heb",
+     "text": "חיפושא"
+    },
+    {
+     "lang": "deu",
+     "text": " selbst un-\nrein ist. Dieses Wort, wofür Aruch "
+    },
+    {
+     "lang": "heb",
+     "text": "חפושית"
+    },
+    {
+     "lang": "deu",
+     "text": " schreibt, scheint das\ngr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἑψητός"
+    },
+    {
+     "lang": "deu",
+     "text": " zu sein. Dieser Fisch, dessen Aristoteles (a. a. O. 6,\n14, 1) erwähnt, ist wahrscheinlich der "
+    },
+    {
+     "lang": "lat",
+     "text": "Atherina Hepsetus"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder der\nSoclet, franz. "
+    },
+    {
+     "lang": "fra",
+     "text": "Cabassou"
+    },
+    {
+     "lang": "deu",
+     "text": ". Er hat einen etwas zugespitzten Kopf und\nmag daher als unrein gehalten worden sein (§. 24). Dieser dem\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חיפושא"
+    },
+    {
+     "lang": "deu",
+     "text": " ähnliche Fisch ist wahrscheinlich der "
+    },
+    {
+     "lang": "heb",
+     "text": "חפיחא"
+    },
+    {
+     "lang": "deu",
+     "text": ", vergl. Anhang s.\nv. "
+    },
+    {
+     "lang": "heb",
+     "text": "חפיחא"
+    },
+    {
+     "lang": "deu",
+     "text": " und folgenden Artikel."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 346.\nDer Nonnat.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 346.\nDer Nonnat."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "In der im vorhergehenden Artikel citirten Talmudstelle wird ge-\nsagt, daß der dem Soclet ähnliche Fisch als rein erklärt wurde; es\nmag dies die verwandte Gattung, Atherina Presbyter sein; sie wird\nin den Seestädten in Menge verkauft; dieser Fisch mag wohl der\nחפיחא sein, vergl. Anhang s. v. חפיחא, und den vorhergehenden\nArtikel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In der im vorhergehenden Artikel citirten Talmudstelle wird ge-\nsagt, daß der dem Soclet ähnliche Fisch als rein erklärt wurde; es\nmag dies die verwandte Gattung, Atherina Presbyter sein; sie wird\nin den Seestädten in Menge verkauft; dieser Fisch mag wohl der\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חפיחא"
+    },
+    {
+     "lang": "deu",
+     "text": " sein, vergl. Anhang s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "חפיחא"
+    },
+    {
+     "lang": "deu",
+     "text": ", und den vorhergehenden\nArtikel."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 347.\nDie Seemaus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 347.\nDie Seemaus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "עכבר שבים (Chulin 126, b) ist, im Gegensatz zur Landmaus, nicht\nverunreinigend. Raschi sagt: Es ist ein Fisch, welcher der Maus\nähnlich und auch so benannt ist. Bei Plinius (h. n. 8, 19, 35) ist\ndie Mus marinus eine Art Schalthier; da aber Raschi in עכבר שבים\neinen Fisch sieht, so hat man vielleicht an den Μῦς τὸ κῆτος zu den-\nken, welcher Fisch, nach Aristoteles (Thierg. 3, 10, 13) dem Walfisch\nvorangeht; es ist hier aber auch die Leseart Μυστικῆτος, was durch\neine Walfischart (vielleicht Balaena mysticetus, Voigt l. c. 1, S. 470)\nerklärt wird.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "עכבר שבים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 126, b) ist, im Gegensatz zur Landmaus, nicht\nverunreinigend. Raschi sagt: Es ist ein Fisch, welcher der Maus\nähnlich und auch so benannt ist. Bei Plinius (h. n. 8, 19, 35) ist\ndie "
+    },
+    {
+     "lang": "lat",
+     "text": "Mus marinus"
+    },
+    {
+     "lang": "deu",
+     "text": " eine Art Schalthier; da aber Raschi in "
+    },
+    {
+     "lang": "heb",
+     "text": "עכבר שבים"
+    },
+    {
+     "lang": "deu",
+     "text": "\neinen Fisch sieht, so hat man vielleicht an den "
+    },
+    {
+     "lang": "grc",
+     "text": "Μῦς τὸ κῆτος"
+    },
+    {
+     "lang": "deu",
+     "text": " zu den-\nken, welcher Fisch, nach Aristoteles (Thierg. 3, 10, 13) dem Walfisch\nvorangeht; es ist hier aber auch die Leseart "
+    },
+    {
+     "lang": "grc",
+     "text": "Μυστικῆτος"
+    },
+    {
+     "lang": "deu",
+     "text": ", was durch\neine Walfischart (vielleicht "
+    },
+    {
+     "lang": "lat",
+     "text": "Balaena mysticetus"
+    },
+    {
+     "lang": "deu",
+     "text": ", Voigt l. c. 1, S. 470)\nerklärt wird."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3264,
+    2402
+   ],
+   [
+    3264,
+    2682
+   ]
+  ],
+  "input_tokens": 3337,
+  "output_tokens": 1035,
+  "cost_usd": 0.0064,
+  "seconds": 9.5
+ }
+}

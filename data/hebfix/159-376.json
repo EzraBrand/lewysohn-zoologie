@@ -1,0 +1,1185 @@
+{
+ "main": "or-claude-sonnet-5.5@low+ital",
+ "model": "anthropic/claude-opus-5.5",
+ "items": [
+  {
+   "page": 159,
+   "line": "vorkommende דיה wird (Chulin 63, b) mit איה identisch genommen, so",
+   "main": "דיה",
+   "check": "דאה",
+   "confident": true,
+   "note": "Deut 14:13 has the extra bird דיה, which is absent from Leviticus; Chulin 63b identifies it with איה. דאה appears in Lev 11:14, so it cannot be the word found only in Deuteronomy.",
+   "printed": "דיה"
+  },
+  {
+   "page": 160,
+   "line": "Man unterscheidet 1) ביעי דרכרא (Beza 7, a), Eier durch Hahnen-",
+   "main": "דרכרא",
+   "check": "דדכרא",
+   "confident": true,
+   "note": "Beza 7a has ביעי דדכרא, 'eggs of the male', i.e. fertilized by the cock, matching 'Eier durch Hahnentritt'. דכרא means 'male'; דרכרא is not a word.",
+   "printed": "דדכרא"
+  },
+  {
+   "page": 160,
+   "line": "מורוח (Chulin 64, b); nur jene erstgedachten Eier sind brütfähig. —",
+   "main": "מורוח",
+   "check": "מוזרות",
+   "confident": true,
+   "note": "Chulin 64b uses the known term ביצים/ביעי מוזרות for wind-eggs (unfertilised eggs). מורוח is not a word and comes from the common ז/ר and ת/ח confusions.",
+   "printed": "מוזרות"
+  },
+  {
+   "page": 161,
+   "line": "בבגיא, oder כפאגי (so liest Muskato für das corrupte גובא) genannt;",
+   "main": "כפאגי",
+   "check": "כפאני",
+   "confident": false,
+   "note": "The bird is the parrot, Arabic babbāghā' (cf. 'Papagei'). The g sound favours כפאגי over כפאני, but Muskato's exact emendation is uncertain, so this is a likely rather than certain reading.",
+   "printed": "כפאגי"
+  },
+  {
+   "page": 161,
+   "line": "geien andere Namen. Dort heißt es: Der Vogel שבור אנדרפטא ist",
+   "main": "שבור",
+   "check": "אנדרפטא שכור",
+   "confident": false,
+   "note": "The Chulin 62b bird name seems to be read שבור (with ב) before אנדרפטא; I recall this but am not certain. Reading B swaps ב for כ and its span also takes in the following word.",
+   "printed": "שבור"
+  },
+  {
+   "page": 161,
+   "line": "zu essen erlaubt, der Vogel פירוז אנדרפטא ist zu essen verboten. Aruch",
+   "main": "אנדרפטא אנדרפטא",
+   "check": "אנדרפחא",
+   "confident": false,
+   "note": "'Aruch liest beide Male: אנדרפטא' implies the Talmud's second occurrence differs, so the 'verboten' bird likely reads אנדרפחא. The ט form matches the Greek -φατος etymology and the Aruch reading. This is an inference, not certain.",
+   "printed": "אנדרפחא"
+  },
+  {
+   "page": 162,
+   "line": "In Babylon erlaubt man den Vogel קקותא zu essen; in Me-",
+   "main": "קקותא תחוותא",
+   "check": "קקיוא תהוותא",
+   "confident": true,
+   "note": "Chulin 63a reads קקותא (Babylon) and תחוותא (Eretz Israel). קקותא also fits the comparison with κικκάβη. Reading B's קקיוא is not a word.",
+   "printed": "קקותא תחוותא"
+  },
+  {
+   "page": 162,
+   "line": "Unter dem im vorhergehenden Artikel erwähnten קקותא werden",
+   "main": "קקותא",
+   "check": "קקיוא",
+   "confident": false,
+   "note": "קקותא has a normal Aramaic -תא noun ending and fits a bird named in Chulin 63a. קקיוא does not look like an attested form, though I can't confirm the exact spelling from memory.",
+   "printed": "קקותא"
+  },
+  {
+   "page": 163,
+   "line": "große Kautz, und קואי nach Abwurf der Reduplication der kleine",
+   "main": "קואי",
+   "check": "קיאי",
+   "confident": false,
+   "note": "Removing the reduplication from the main form קקואי gives קואי. The form קיאי would instead come from Aruch's variant קיקאי, so A is likelier but not certain.",
+   "printed": "קואי"
+  },
+  {
+   "page": 163,
+   "line": "(oder קריא) im Traume, ist wegen seiner Häßlichkeit von böser Vor-",
+   "main": "קריא כום",
+   "check": "קדיא כוס",
+   "confident": true,
+   "note": "Lev. 11:17 has כוס (with samekh), and the Targum renders it קדיא. The ם in reading A is an OCR confusion of final mem for samekh.",
+   "printed": "קדיא כוס"
+  },
+  {
+   "page": 163,
+   "line": "mudstelle derselbe durch ייבנ\"ץ, Hibou erklärt. Mit dem franz. Worte",
+   "main": "ייבנ\"ץ",
+   "check": "ייב\"ץ",
+   "confident": false,
+   "note": "ייב\"ץ fits Rashi's Old French gloss for 'hibou' (nominative ibouz), parallel to the ייב\"ן form cited for Lev. 11:17. The extra נ in ייבנ\"ץ looks like an OCR insertion rather than a printed form, but I cannot confirm this from Rashi's text.",
+   "printed": "ייב\"ץ"
+  },
+  {
+   "page": 164,
+   "line": "wie auch zu Lev. 11, 16 durch אישפריויר, Épervier, Sperber. In-",
+   "main": "אישפריויר אושטוור",
+   "check": "אישפרויר אושטור",
+   "confident": false,
+   "note": "Old French 'espervier' fits אישפריויר (es-pr-e-v-ie-r) as in the passage text. B's אישפרויר is also a plausible spelling, and both forms of the 'ostour' word are possible, so this is not certain.",
+   "printed": "אישפריויר אושטוור"
+  },
+  {
+   "page": 164,
+   "line": "Chulin 42, a heißt es: Der נץ würgt kleines, der גם großes",
+   "main": "גם גם",
+   "check": "נם נם",
+   "confident": true,
+   "note": "The Talmudic bird here is גס (OCR renders final ס as ם). Aruch's variant גז keeps the initial ג, so the first letter is ג, not נ; נם is not a word.",
+   "printed": "גם גם"
+  },
+  {
+   "page": 164,
+   "line": "hingegen würgt Hühner und Gänse. — Aruch liest jedoch גז für גם",
+   "main": "גז גם",
+   "check": "נז נם",
+   "confident": true,
+   "note": "Chulin 42a contrasts נץ with גס (read here as גם), and Aruch's variant is גז. Both words begin with gimel, as in the surrounding lines, so B's נז נם is not a word.",
+   "printed": "גז גם"
+  },
+  {
+   "page": 164,
+   "line": "Jonathan, der Lev. 11, 13 עזניה durch בר גוא*) übersetzt; allein",
+   "main": "גוא",
+   "check": "נזא",
+   "confident": false,
+   "note": "Mussaphia cites Jonathan to support Aruch's reading גז, so the printed word was probably בר גזא. Reading B keeps the ז, reading A keeps the ג. Each is one look-alike error away from גזא, so this choice is a guess.",
+   "printed": "נזא"
+  },
+  {
+   "page": 164,
+   "line": "ten der 10 Bußtage (angef. in den Tos. Chulin ibid. s. v. דריפת)",
+   "main": "דריפת מדרם גז",
+   "check": "דריסה מדרס נז",
+   "confident": false,
+   "note": "The selicha phrase should be מדרס (trampling), and B has the correct final ס where A's מדרם is a likely ם/ס confusion. B's נז is probably a misreading of גז, and the lemma ending (דריסה vs דריסת) is uncertain, so both readings have errors.",
+   "printed": "דריסה מדרס נז"
+  },
+  {
+   "page": 164,
+   "line": "liest: מדרם גז ונץ; Jesaias Pick liest aber in letzterer Stelle: מדרם גם",
+   "main": "מדרם גם והגז גז גם",
+   "check": "מדרס נם והנז נז נם",
+   "confident": false,
+   "note": "Reading A's ג in גז/גם matches the preceding line's 'גז ונץ' and Pick's two bird names (גז = falcon, גם = vulture), whereas B's נז/נם are not known words. However, מדרם is probably a misread of מדרס ('trampling'), which B has right, so neither reading is fully correct.",
+   "printed": "מדרם גם והגז גז גם"
+  },
+  {
+   "page": 164,
+   "line": "In Midr. Jalk. Schim. 2. Th. fol. 114, d ist wohl בר גזין für בר זגין",
+   "main": "גזין",
+   "check": "נזין",
+   "confident": true,
+   "note": "The passage is about גז as a bird of prey (falcon), so the emendation בר גזין derives from גז. Reading B, נזין, has no link to the discussion.",
+   "printed": "גזין"
+  },
+  {
+   "page": 164,
+   "line": "In Midr. Jalk. Schim. 2. Th. fol. 114, d ist wohl בר גזין für בר זגין",
+   "main": "זגין",
+   "check": "וגין",
+   "confident": true,
+   "note": "Lewysohn proposes reading בר גזין in place of the corrupt בר זגין, an emendation by transposing the first two letters. זגין is the letter-swapped form of גזין; וגין gives no such sense.",
+   "printed": "זגין"
+  },
+  {
+   "page": 165,
+   "line": "ber gegenüber mit Recht גם (Groß), da er noch einmal so groß wie",
+   "main": "גם גם גם",
+   "check": "גס גס גס",
+   "confident": true,
+   "note": "The gloss (Groß) means 'large', which is Hebrew גס, as in נץ גס for the larger hawk in Hullin and the poskim. גם means 'also' and does not fit; a final mem misread for samekh is a common OCR error.",
+   "printed": "גס גס גס"
+  },
+  {
+   "page": 165,
+   "line": "בר חיריא? Es ist, wird geantwortet, der שורינקא (Würger). Hier",
+   "main": "שורינקא",
+   "check": "שרינקא",
+   "confident": false,
+   "note": "Chulin 63a explains בר חיריא as שרינקא, the usual Talmud spelling, so B is likely. The plene variant שורינקא is also attested, so this is not certain.",
+   "printed": "שרינקא"
+  },
+  {
+   "page": 165,
+   "line": "er auch בואי, von dem erzählt wird, daß David einst ging den בואי",
+   "main": "בואי בואי",
+   "check": "בזאי בזאי",
+   "confident": true,
+   "note": "Sanhedrin 95a reads 'לשכר בזאי', which Rashi takes as a place name and others as 'Beute' (from בזה, spoil). בזאי is also linked to Persian/Arabic baz 'falcon', matching the falcon section. בואי makes no sense here.",
+   "printed": "בזאי בזאי"
+  },
+  {
+   "page": 165,
+   "line": "und so dürfte die Erklärung des Aruch: בואי als Vogelname zu halten annehm-",
+   "main": "בואי",
+   "check": "בזאי",
+   "confident": true,
+   "note": "The passage ties the bird to Arabic/Persian baz and Syriac bz' (falcon), so the Aruch's word must share the root b-z: בזאי. The reading בואי has ו in place of ז, a common look-alike error, and breaks that connection.",
+   "printed": "בזאי"
+  },
+  {
+   "page": 166,
+   "line": "יתירה (Chulin 61, a). Der Verfasser des ספר הבריה**) schreibt ohne",
+   "main": "הבריה",
+   "check": "הברית",
+   "confident": true,
+   "note": "The book is Sefer ha-Berit (ספר הברית) by Pinchas Eliyahu Horowitz, an encyclopedic work that covers natural history. \"הבריה\" is not the title of any known book, so reading B is what Lewysohn printed.",
+   "printed": "הברית"
+  },
+  {
+   "page": 166,
+   "line": "bemerken, daß der gemeine Adler, איגלא, Aigle, eine Hinterzehe hat",
+   "main": "איגלא",
+   "check": "אייגלא",
+   "confident": false,
+   "note": "Tosafot usually spell Old French 'aigle' with a double yod for the 'ai' sound, which would give אייגלא. I can't verify the printed text, so this is a guess.",
+   "printed": "אייגלא"
+  },
+  {
+   "page": 167,
+   "line": "gum עוניה durch עוז, oder אוז wiedergiebt, so kann das letztre Wort",
+   "main": "עוז",
+   "check": "עזא",
+   "confident": false,
+   "note": "עוז matches the paired variant אוז ('oder אוז') as a Targumic rendering of עזניה. עזא is also plausible as an Aramaic form, so this is not certain.",
+   "printed": "עוז"
+  },
+  {
+   "page": 167,
+   "line": "gel דיו ein Stück Fleisch vom Markt nahm und es in einen Garten",
+   "main": "דיו",
+   "check": "דיי",
+   "confident": false,
+   "note": "Raschi's gloss 'והוא לשון דיה' implies the Talmud's word is an Aramaic form related to דיה, so דיי fits. דיו normally means 'ink'. I could not verify the exact Talmud text and am partly guessing.",
+   "printed": "דיי"
+  },
+  {
+   "page": 168,
+   "line": "Vogel, den man Vulture (Geier) nennt, gleichbedeutend mit ריה.\" —",
+   "main": "ריה",
+   "check": "דיה",
+   "confident": true,
+   "note": "The biblical bird is דיה (Deut 14:13, the dayyah, a kite or vulture), and rabbinic sources identify it with the ra'ah. Lewysohn is glossing a vulture name as equivalent to this bird. ריה is not a bird name and looks like a ד/ר OCR confusion.",
+   "printed": "דיה"
+  },
+  {
+   "page": 169,
+   "line": "im Anhang s. v. ירודוח gehandelt wird.",
+   "main": "ירודוח",
+   "check": "ירודות",
+   "confident": false,
+   "note": "ירודות has a normal Hebrew plural ending (-ות). ירודוח is not a recognizable word, so it is likely an OCR confusion of ת with ח. I could not verify the exact headword in Lewysohn's appendix.",
+   "printed": "ירודות"
+  },
+  {
+   "page": 169,
+   "line": "so muß entweder in unserer Raschistelle zum Talmud סום für עגור",
+   "main": "סום",
+   "check": "סוס",
+   "confident": true,
+   "note": "Jer 8:7 lists סוס ועגור (swift and crane). The emendation therefore puts סוס in place of עגור, and סום is not a word.",
+   "printed": "סוס"
+  },
+  {
+   "page": 169,
+   "line": "Vogel, die eigentliche דיה רגונית (grausame דיה, s. Art. Storch),",
+   "main": "רגונית",
+   "check": "רגזנית",
+   "confident": true,
+   "note": "Chulin 63a calls the anafah a 'dayah ragzanit' (irritable/angry bird). רגזנית, from רגז 'to be angry', fits the gloss 'grausame' and the following explanation of anger. רגונית is not a word.",
+   "printed": "רגזנית"
+  },
+  {
+   "page": 170,
+   "line": "Chulin 63, a heißt es: Der Vogel אריכי שקי וירוקי, welcher",
+   "main": "וירוקי",
+   "check": "וירוק",
+   "confident": true,
+   "note": "Chulin 63a reads the Aramaic plural phrase אריכי שקי וירוקי, and the parallel plural אריכי requires the plural form וירוקי.",
+   "printed": "וירוקי"
+  },
+  {
+   "page": 170,
+   "line": "מורומא. Hierzu Raschi: Es giebt von dem Vogel שקיטנא zwei Ar-",
+   "main": "מורומא",
+   "check": "מורימא",
+   "confident": false,
+   "note": "The same passage later prints the bird name as מורומא, which supports reading A for Chulin 63a. However, ו/י confusion is common in OCR and both spellings are plausible variants.",
+   "printed": "מורומא"
+  },
+  {
+   "page": 170,
+   "line": "tete und als rein allgemein bekannte Vogel מורומא. Dieses letztre",
+   "main": "מורומא",
+   "check": "מרומא",
+   "confident": false,
+   "note": "The same word appears as מורומא elsewhere in the passage (lines 2 and 8), which favours that spelling here; this matches the Chullin 62b tradition (מורוומא/מורומא). Talmud spellings vary, so this is not certain.",
+   "printed": "מורומא"
+  },
+  {
+   "page": 170,
+   "line": "und מורומא als identisch und nur als Provincialismen zu nehmen;",
+   "main": "מורומא",
+   "check": "מרומא האנקה",
+   "confident": true,
+   "note": "The marked line pairs שקיטנא with מורומא, the same word the passage uses twice above. Reading B is a merger of a variant spelling with האנקה, which comes from the next line.",
+   "printed": "מורומא"
+  },
+  {
+   "page": 171,
+   "line": "Chulin 63, a wird gesagt, daß der gemeine Flamingo (שקימנא,",
+   "main": "שקימנא נוצי",
+   "check": "שקיטנא גוצי",
+   "confident": true,
+   "note": "Lewysohn glosses it 'kurz und roth', so the word is Aramaic גוצי ('short'); נוצי does not fit. The bird name in Chulin 63a is, as I recall, שקיטנא (Jastrow lists it under that spelling).",
+   "printed": "שקיטנא גוצי"
+  },
+  {
+   "page": 171,
+   "line": "durch צינניה, Cigogne. Es fragt sich nur, wie der Talmud den",
+   "main": "צינניה",
+   "check": "ציגוניא",
+   "confident": true,
+   "note": "Rashi's Old French gloss for חסידה is ציגוניא (cigonia, 'cigogne'). צינניה is not a known form and looks like a misreading of ג as נ and of the final letters.",
+   "printed": "ציגוניא"
+  },
+  {
+   "page": 171,
+   "line": "dessen, daß דיה, oder דיו (B. mez. 24, b, vergl. ob. §. 196) nur",
+   "main": "דיו",
+   "check": "דיי",
+   "confident": false,
+   "note": "B. mez. 24b has the Aramaic דייתא (kite), so a form with double yod (דיי…) fits better than דיו.",
+   "printed": "דיי"
+  },
+  {
+   "page": 172,
+   "line": "Schwingen schwarz ist, kann mit Recht ריה לבנה „der weiße hoch-",
+   "main": "ריה",
+   "check": "דיה",
+   "confident": true,
+   "note": "Chullin 63a identifies the stork (חסידה) as דיה לבנה and the heron (אנפה) as דיה רגזנית. The bird name is דיה, from דאה 'to soar'; ריה is not a bird name.",
+   "printed": "דיה"
+  },
+  {
+   "page": 172,
+   "line": "seiner Wildheit ריה רגונית „der grausame hochschwebende Vogel“ heißt.",
+   "main": "ריה רגונית ריה ריה",
+   "check": "דיה רגזנית דיה דיה",
+   "confident": true,
+   "note": "The Talmud (Chullin 63a) names the heron דיה רגזנית, the 'angry kite', which matches 'grausame'. The kite דיה is also the bird called hochfliegend; ריה is not a word, and רגונית is a misreading of רגזנית (ז read as ו).",
+   "printed": "דיה רגזנית דיה דיה"
+  },
+  {
+   "page": 172,
+   "line": "Dem Namen ריה לבנה entspricht vollkommen ריה חיורתא, dessen",
+   "main": "ריה חיורתא וושטול",
+   "check": "דיה חיוורתא ושטור",
+   "confident": false,
+   "note": "Reading A matches the spelling ריה used in the surrounding lines and the standard Talmudic spelling חיורתא. The Rashi gloss (corrupt for ולטור) is uncertain in both readings.",
+   "printed": "ריה חיורתא וושטול"
+  },
+  {
+   "page": 172,
+   "line": "bar corrupt für ולטור, wie ריו zu B. mez. 24, b; aber auch wesent-",
+   "main": "ריו חסר",
+   "check": "דיו חסד",
+   "confident": false,
+   "note": "Neither reading fits the sentence clearly. ר/ד and ס/ד are common OCR confusions; חסר ('lacking', i.e. a defective spelling of the gloss) is marginally more plausible than דיו חסד ('ink, kindness'), so this is a guess.",
+   "printed": "ריו חסר"
+  },
+  {
+   "page": 172,
+   "line": "zens (§. 38) heißt er auch: קורקיר (Baba batra 23, a), wegen seiner",
+   "main": "קורקיר",
+   "check": "קורקור",
+   "confident": true,
+   "note": "Baba Batra 23a names the raven קורקור, an onomatopoeic word for its croaking that fits 'wegen seines Krächzens'. קורקיר is not an attested word and comes from a ו/י confusion.",
+   "printed": "קורקור"
+  },
+  {
+   "page": 173,
+   "line": "Andere übersetzen לוך durch λοπός, Zwiebelschalen.",
+   "main": "לוך",
+   "check": "לוף",
+   "confident": true,
+   "note": "The Greek λοπός means husk or peel, and לוף is its direct transliteration, matching 'Zwiebelschalen'. לוך does not correspond to the Greek, so it is a ף/ך misreading.",
+   "printed": "לוף"
+  },
+  {
+   "page": 175,
+   "line": "ticum. — Hiermit vergl. man den Verf. des מחנת כהונה (zu Midr.",
+   "main": "מחנת",
+   "check": "מתנות",
+   "confident": true,
+   "note": "The commentary on Midrash Rabbah (here on Esther) is מתנות כהונה, 'Mattenot Kehunah', by Issachar Ber Ashkenazi. מחנת is not a word in this title, with ח misread for ת.",
+   "printed": "מתנות"
+  },
+  {
+   "page": 177,
+   "line": "אין שני זרזורים ישינים על דף אחד „Zwei Staare schlafen nicht auf",
+   "main": "זרזורים",
+   "check": "זרזירים",
+   "confident": false,
+   "note": "The standard rabbinic word for starling is זרזיר (e.g. 'לא לחנם הלך זרזיר אצל עורב'), whose plural is זרזירים. However, a variant spelling זרזור exists, so A cannot be ruled out.",
+   "printed": "זרזירים"
+  },
+  {
+   "page": 177,
+   "line": "Der erste jener acht Vögel ist der חוכא, in welchem ich die",
+   "main": "חוכא",
+   "check": "חובא",
+   "confident": false,
+   "note": "The passage contrasts this bird with חוגא in the next article, which fits a similar-sounding חוכא. I cannot confirm the exact spelling in the Chullin bird list, so this is a guess.",
+   "printed": "חוכא"
+  },
+  {
+   "page": 177,
+   "line": "art bezeichnet. חוכא, von חכא „verbergen“, mag entweder das Ver-",
+   "main": "חוכא חכא",
+   "check": "חובא חבא",
+   "confident": true,
+   "note": "The Hebrew/Aramaic root for „verbergen“ is חבא (to hide), so the bird name derived from it is חובא. חכא carries no meaning of hiding.",
+   "printed": "חובא חבא"
+  },
+  {
+   "page": 178,
+   "line": "רק\"ק פ\"פ „Der Vogel, der im Deutschen Lerche heißt, ist, wie ich",
+   "main": "רק\"ק",
+   "check": "דק\"ק",
+   "confident": true,
+   "note": "The phrase is \"אב\"ד דק\"ק פ\"פ\", i.e. av beit din of the holy community (ק\"ק) of Frankfurt, with the prefix ד. That matches the German \"Rabbiner zu Frankfurt\"; \"רק\"ק\" is not a word here.",
+   "printed": "דק\"ק"
+  },
+  {
+   "page": 178,
+   "line": "Wort סיג heißt Zaun, und davon סוגה Umzäunung; möglich also,",
+   "main": "סיג",
+   "check": "סייג",
+   "confident": false,
+   "note": "The familiar rabbinic word for 'fence' is סייג (Avot 1:1, 'עשו סייג לתורה'). The defective spelling סיג is also possible in print, so this is a guess.",
+   "printed": "סייג"
+  },
+  {
+   "page": 178,
+   "line": "Der vierte jener acht Vögel ist der הרנוגא (Chulin 62, b).",
+   "main": "הרנוגא",
+   "check": "הרנתא",
+   "confident": true,
+   "note": "The next line breaks the word down as הר + נוגא, which requires the form הרנוגא. This matches the Chulin 62b bird name. הרנתא does not fit that etymology.",
+   "printed": "הרנוגא"
+  },
+  {
+   "page": 178,
+   "line": "Das Wort mag aus הר „Berg“ und נוגא (im Sinne von נגה,",
+   "main": "נוגא נגה",
+   "check": "נתא נתה",
+   "confident": true,
+   "note": "The bird is הרנוגא (Chulin 62b), so the component after הר is נוגא, matching the preceding line. Reading B's נתא does not fit this word.",
+   "printed": "נוגא נגה"
+  },
+  {
+   "page": 179,
+   "line": "Der fünfte jener acht Vögel ist der כוחילנא (Chulin 62, b),",
+   "main": "כוחילנא",
+   "check": "כוחילינא",
+   "confident": false,
+   "note": "Lewysohn takes this Chulin 62b bird name from כחל, 'black paint'. כוחילנא fits the usual Aramaic -נא form of these bird names; the extra yod in B is a common OCR slip. Talmud texts may differ, so this is uncertain.",
+   "printed": "כוחילנא"
+  },
+  {
+   "page": 180,
+   "line": "2. S. 380), wovon die größere wohl הרנגולא „Hahn“ und die klei-",
+   "main": "הרנגולא הרנגולתא הרנגולא",
+   "check": "תרנגולא תרנגולתא תרנגולא",
+   "confident": true,
+   "note": "The Aramaic for 'Hahn' is תרנגולא and for 'Henne' is תרנגולתא. The forms with ה are an OCR confusion of ת and ה and are not words.",
+   "printed": "תרנגולא תרנגולתא תרנגולא"
+  },
+  {
+   "page": 180,
+   "line": "מררא „widerspenstig“, „wild“ genannt wurde, mag der wilde",
+   "main": "מררא הרנגולא גירוחא",
+   "check": "מרדא תרנגולא גירותא",
+   "confident": true,
+   "note": "'Widerspenstig' (rebellious) is Aramaic מרדא, from מרד, and the cock is spelled תרנגולא. Reading A's מררא and הרנגולא are ד/ר and ת/ה misreadings.",
+   "printed": "מרדא תרנגולא גירותא"
+  },
+  {
+   "page": 180,
+   "line": "Angabe. Als Aequivalent für den verbotenen Vogel גירוחא ist die",
+   "main": "גירוחא כורא גירוחא גירוחא גירוחא",
+   "check": "גירותא כוורא גירותא גירותא גירותא",
+   "confident": true,
+   "note": "Chulin 109b reads 'asar lan girutha, shara lan lishna de-kavra', i.e. גירותא and כוורא (Aramaic 'fish'). Reading A's ח for ת and its כורא are OCR look-alike errors.",
+   "printed": "גירותא כוורא גירותא גירותא גירותא"
+  },
+  {
+   "page": 180,
+   "line": "aufzählt, gerade גירוחא und כורא unerwähnt läßt; ein Gleiches ge-",
+   "main": "גירוחא כורא",
+   "check": "גירותא כוורא",
+   "confident": false,
+   "note": "גירותא with ת is the more plausible Aramaic form, and כוורא is an attested spelling; גירוחא is not a known word. This rests on form alone, not a verified source reading.",
+   "printed": "גירותא כוורא"
+  },
+  {
+   "page": 181,
+   "line": "Der letzte jener acht Vögel ist endlich der הושלמי (Chulin 62, b),",
+   "main": "הושלמי הלשמי",
+   "check": "הושלם הלשם",
+   "confident": true,
+   "note": "Lewysohn splits the alternative spelling into הל and שמי ('Öde, Steppe'), so the final yod is required. That makes הושלמי / הלשמי the printed forms; B drops the yod and loses this etymology.",
+   "printed": "הושלמי הלשמי"
+  },
+  {
+   "page": 181,
+   "line": "„Schutthaufen“, und שמי „Öde, Steppe“, und ich möchte hier die",
+   "main": "שמי חימה חמאה חימה חמאה",
+   "check": "שם חיסה חסא חיסה חסא",
+   "confident": true,
+   "note": "Lewysohn splits הלשמי into הל + שמי, glossing the second part as „Öde, Steppe“. So שמי, as in reading A, is required, and B's שם is a truncation.",
+   "printed": "שמי חימה חמאה חימה חמאה"
+  },
+  {
+   "page": 182,
+   "line": "brauchte תמתי einmal (fol. 12, col. d) mit schön und das zweite",
+   "main": "תמתי תמתי",
+   "check": "תמה תמה",
+   "confident": true,
+   "note": "Song of Songs 5:2 and 6:9 apply 'יונתי תמתי' to the dove, and Midrash Shir ha-Shirim Rabba glosses that word as both 'schön' and 'vollkommen'. The word Lewysohn prints is therefore תמתי; תמה is not the biblical form.",
+   "printed": "תמתי תמתי"
+  },
+  {
+   "page": 182,
+   "line": "Das Fettgekröse des Rindes heißt כנחא, was Münster (im Lex.)",
+   "main": "כנחא בוניא",
+   "check": "כנתא כניא",
+   "confident": false,
+   "note": "The second word is most likely בוניא, the Talmudic bird name Lewysohn uses in the next line, which supports A. The first word, כנחא vs כנתא, is genuinely uncertain.",
+   "printed": "כנחא בוניא"
+  },
+  {
+   "page": 183,
+   "line": "Chulin 102, b heißt ein unreiner Vogel קלניתא, was Raschi",
+   "main": "קלניתא",
+   "check": "קלניחא",
+   "confident": true,
+   "note": "The bird in Chulin is קלניתא, and the passage repeats that same spelling two lines later. The ending -ita is a normal Aramaic form, while -יחא is the typical ת/ח OCR confusion.",
+   "printed": "קלניתא"
+  },
+  {
+   "page": 183,
+   "line": "Κηλὸν heißt mager, trocken, und so mag קלניתא, wie פרוא",
+   "main": "קלניתא",
+   "check": "קלניחא",
+   "confident": true,
+   "note": "Chulin 102b names the bird קלניתא (qalanita); the same spelling appears earlier in the passage, and קלניחא is a ת/ח misread.",
+   "printed": "קלניתא"
+  },
+  {
+   "page": 183,
+   "line": "20, a sagt Raschi: die קלניתא ist so mager, daß sie kein Mensch ißt.",
+   "main": "קלניתא קלניתא",
+   "check": "קלניחא קלניחא",
+   "confident": true,
+   "note": "The bird in B. Batra 20a is spelled קלניתא, as in Jastrow's entry for a small bird. קלניחא, with ח for ת, is not an attested word.",
+   "printed": "קלניתא קלניתא"
+  },
+  {
+   "page": 183,
+   "line": "wird eines Vogels gedacht, der כעין קלניתא „wie die קלניתא“, d. i.,",
+   "main": "קלניתא קלניתא",
+   "check": "קלניחא קלניחא",
+   "confident": true,
+   "note": "The Bava Batra 20a bird name is קלניתא, with the normal Aramaic feminine ending ־יתא. קלניחא is not a known word and reflects a ת/ח misread.",
+   "printed": "קלניתא קלניתא"
+  },
+  {
+   "page": 184,
+   "line": "chem er die Speise bewahrt. — Vergl. Anhang s. v. אם הים",
+   "main": "אם",
+   "check": "את",
+   "confident": false,
+   "note": "'אם הים' ('mother of the sea') reads as a plausible bird-name entry in the Anhang. 'את הים' (accusative particle plus 'the sea') is not a lemma. I could not confirm the actual entry.",
+   "printed": "אם"
+  },
+  {
+   "page": 184,
+   "line": "Nach Jalk. Schim. 2. Th. fol. 13, d soll dies der טוס, Pfau, sein.",
+   "main": "טוס",
+   "check": "טווס",
+   "confident": false,
+   "note": "'Pfau' (peacock) is rabbinic טווס, the usual spelling and Lewysohn's likely heading form. The defective spelling טוס also occurs, so A remains possible.",
+   "printed": "טווס"
+  },
+  {
+   "page": 185,
+   "line": "ren nicht. Wir haben schon früher (§. 201) שקי als Benennung",
+   "main": "שקי",
+   "check": "שק",
+   "confident": false,
+   "note": "The plural 'Füße der Vögel' fits the Talmudic plural form שקי (legs) better than the singular. The singular שק appears in the next sentence as the root 'Schenkel', but here both readings remain possible.",
+   "printed": "שקי"
+  },
+  {
+   "page": 186,
+   "line": "Chulin 62, b wird der Vogel מונא חמרא (Gemischter Wein) zu",
+   "main": "מונא",
+   "check": "מוגא",
+   "confident": false,
+   "note": "The gloss 'Gemischter Wein' points to Aramaic מזגא חמרא ('mixed wine'), the Chulin 62b form. מוגא matches it except for ו/ז, a common OCR confusion. מונא would need a second error, ג read as נ. Neither reading is exactly מזגא, so this is not certain.",
+   "printed": "מוגא"
+  },
+  {
+   "page": 186,
+   "line": "Chulin 62, b wird gesagt, daß der Vogel בת מונא חמרא (Toch-",
+   "main": "מונא",
+   "check": "מוגא",
+   "confident": false,
+   "note": "I faintly recall the Chulin 62b bird name as בת מוגא חמרא, but my memory is unsure. ג/נ look alike in print, so this is a guess.",
+   "printed": "מוגא"
+  },
+  {
+   "page": 186,
+   "line": "ter des מונא חמרא, s. §. 232) zu essen gestattet ist. Bei Aristoteles",
+   "main": "מונא",
+   "check": "מוגא",
+   "confident": false,
+   "note": "Chulin 62b reads בת מוניא חמרא, which Lewysohn spells מונא, as in the previous line's citation. The ג/נ confusion makes B a likely OCR slip.",
+   "printed": "מונא"
+  },
+  {
+   "page": 186,
+   "line": "Chulin 62, a heißt es: Der Vogel מרדו זגיד ואכיל ist zu essen",
+   "main": "זגיד",
+   "check": "וגיד",
+   "confident": true,
+   "note": "Chulin 62a sets זגיד ואכיל (permitted) against סגיד ואכיל (forbidden), a parallel pair of verbs. וגיד has no sense here.",
+   "printed": "זגיד"
+  },
+  {
+   "page": 187,
+   "line": "Chulin 62, b wird der Vogel צרדא als reiner Vogel erklärt.",
+   "main": "צרדא צרדא",
+   "check": "ערדא ערדא",
+   "confident": true,
+   "note": "Chulin 62b names the clean bird צרדא, which Jastrow glosses as 'linnet' (Hänfling). ערדא is not this bird name.",
+   "printed": "צרדא צרדא"
+  },
+  {
+   "page": 187,
+   "line": "Chulin 62, b wird der Vogel ברדא (Aruch liest: בר ארא) als",
+   "main": "ארא",
+   "check": "אדא",
+   "confident": false,
+   "note": "Aruch's variant likely just splits the text's ברדא and keeps its ד (בר אדא); ר and ד are often confused in OCR, so this is a guess.",
+   "printed": "אדא"
+  },
+  {
+   "page": 188,
+   "line": "502) der צפרתא gegenüber gestellt, ähnlich der Entgegenstellung bei-",
+   "main": "צפרתא צפורתא",
+   "check": "ציפרתא ציפורתא",
+   "confident": false,
+   "note": "The OCR text of the passage itself shows צפרתא and then צפורתא, with no yod. That matches reading A. Both spellings are possible in Aramaic, though, so B cannot be ruled out.",
+   "printed": "צפרתא צפורתא"
+  },
+  {
+   "page": 188,
+   "line": "zu sticken pflegte. Jedenfalls bezeichnet צפורתא alle Arten von klei-",
+   "main": "צפורתא",
+   "check": "ציפורתא",
+   "confident": false,
+   "note": "The first line of the passage prints צפורתא, the defective spelling usual in Lewysohn's 1858 typesetting, so the same form is most likely repeated here. ציפורתא is an equally valid plene spelling of the same word, and the two differ by an added yod rather than a look-alike letter, so this is not certain.",
+   "printed": "צפורתא"
+  },
+  {
+   "page": 188,
+   "line": "wird verschieden erklärt, von Raschi zu B. mez. 24, b durch גוזלות,",
+   "main": "גוזלות פרדריש",
+   "check": "גזלות פרדי\"ר",
+   "confident": true,
+   "note": "Both words occur in the passage, and A matches the printed spellings: plene גוזלות (Rashi, B. mez. 24b) and פרדריש (Perdrix, Rashi to Berachoth 39a). Reading B's defective spelling and abbreviation-style פרדי\"ר don't fit this text.",
+   "printed": "גוזלות פרדריש"
+  },
+  {
+   "page": 188,
+   "line": "פריגין (vergl. auch Tos. Chulin 62, b. s. v. כרזי). — Ein anderer",
+   "main": "כרזי",
+   "check": "כרוי",
+   "confident": false,
+   "note": "Chulin 62b discusses young birds, and I recall a bird name כרוי in that sugya, which Tosafot would gloss with פריגין. I can't recall כרזי as a bird name.",
+   "printed": "כרוי"
+  },
+  {
+   "page": 188,
+   "line": "Vergl. Burdorf (Lex. p. 1846), und צלצלא, vergl. §. 252.",
+   "main": "צלצלא",
+   "check": "צילצלא",
+   "confident": false,
+   "note": "Both spellings are attested for this Aramaic bird name (cf. §. 252), and the readings differ only by a plene yod. I lean to the defective spelling צלצלא as the likelier printed form, but this is a guess.",
+   "printed": "צלצלא"
+  },
+  {
+   "page": 189,
+   "line": "טוס (B. Kama 55, a) טוס (Sabbat 130, a), und in der Parallel-",
+   "main": "טוס טוס טוסא",
+   "check": "טווס ט ות טיוסא",
+   "confident": false,
+   "note": "Reading A gives valid spellings of the peacock word (טוס/טוסא). Reading B's middle token ט ות is broken, though its טווס may be the actual first form; the printed text may mix spellings.",
+   "printed": "טוס טוס טוסא"
+  },
+  {
+   "page": 190,
+   "line": "zur ersten und letzten Stelle das Wort durch פוואן, Paon übersetzt;",
+   "main": "פוואן טוסמ נגר",
+   "check": "פ אן ט סת נער",
+   "confident": true,
+   "note": "פוואן renders Greek pavo/Paon (peacock), as the passage states, and טוסמ belongs to the feminine form (Greek taôs). Reading B is fragmentary and has letters missing.",
+   "printed": "פוואן טוסמ נגר"
+  },
+  {
+   "page": 190,
+   "line": "אוז (B. mez. 91, b), אווזא (Joma 84, a*), pl. אוזין (Sebachim 70,",
+   "main": "אווזא אוזין קוקא",
+   "check": "אוזא א זין קיקא",
+   "confident": true,
+   "note": "Reading A is printed: אווזא matches the later citation \"von אווזא\", and אוזין is the plural Lewysohn gives. קוקא fits the \"Quacken\" etymology and the plural קאקי. Reading B has a broken word (א זין) and קיקא, which is not the goose word.",
+   "printed": "אווזא אוזין קוקא"
+  },
+  {
+   "page": 190,
+   "line": "(im Tischbi) sagt: „Von אוז ist der Pl. אוזים, von אווזא ist der Pl.",
+   "main": "אוז",
+   "check": "אז",
+   "confident": true,
+   "note": "Levita derives the plural אוזים from the singular אוז ('goose', the headword of this section); אז ('then') is not the goose word.",
+   "printed": "אוז"
+  },
+  {
+   "page": 190,
+   "line": "(im Tischbi) sagt: „Von אוז ist der Pl. אוזים, von אווזא ist der Pl.",
+   "main": "אווזא אווזות אווזאות",
+   "check": "אוזא אוזות אוזאות",
+   "confident": false,
+   "note": "The passage's own headword line, 'אווזא (Joma 84, a*)', uses the double-vav spelling, and Levita's quote refers back to that same form. So אווזא / אווזות / אווזאות is the consistent reading. The single-vav forms are also valid spellings, so this is likely rather than certain.",
+   "printed": "אווזא אווזות אווזאות"
+  },
+  {
+   "page": 190,
+   "line": "Arab. وز und إوز, und so ist אווזא wohl richtiger als אווזא.",
+   "main": "אווזא אווזא",
+   "check": "א זא אוזא",
+   "confident": false,
+   "note": "The sentence contrasts two spellings, so reading A's identical pair cannot be what was printed. Reading B at least shows two different forms, the single-vav אוזא matching Arabic وز / إوز. But B's first token is garbled, so neither reading fully matches the print.",
+   "printed": "א זא אוזא"
+  },
+  {
+   "page": 191,
+   "line": "C. 8. H. 7) findet sich die Redensart: כרון אחון קקו פריפט „Ihr",
+   "main": "כרון אחון",
+   "check": "כדון אכון",
+   "confident": false,
+   "note": "כדון ('now') is the common Yerushalmi Aramaic word, so reading A's כרון looks like a ד/ר OCR error. The second word was probably printed as אתון ('you'), which neither reading gives exactly, so this is a guess.",
+   "printed": "כדון אכון"
+  },
+  {
+   "page": 191,
+   "line": "C. 8. H. 7) findet sich die Redensart: כרון אחון קקו פריפט „Ihr",
+   "main": "פריפט",
+   "check": "פריפס",
+   "confident": false,
+   "note": "This is likely Greek περίπατος, 'walking', as in strutting or gabbling geese walking in a line, which fits פריפט. פריפס gives no clear word, but I am working from memory of the Yerushalmi passage, so this is not certain.",
+   "printed": "פריפט"
+  },
+  {
+   "page": 192,
+   "line": "gedacht. Die Flaumfeder (כלומא, Pluma, die aber richtiger מלס,",
+   "main": "כלומא מלס אוז",
+   "check": "פלומא מלט אזז",
+   "confident": false,
+   "note": "The gloss 'Pluma' supports פלומא, the Aramaic loan from Latin pluma, over כלומא. But B's אזז is not a word, while A's אוז (goose) is plausible. מלס versus מלט for 'Molasse' is also unclear, so the evidence is mixed.",
+   "printed": "פלומא מלט אזז"
+  },
+  {
+   "page": 192,
+   "line": "Gans einen kürzern Schnabel als die zahme. Obwohl קויה, sowohl",
+   "main": "קויה",
+   "check": "קועיה",
+   "confident": false,
+   "note": "The Talmudic passage (B. Kama 55a) on the wild vs. tame goose uses Aramaic קועיה, 'its neck', which Raschi glosses as 'bec'. I recall it as spelled with ע, but קויה could be a variant spelling, so this is not certain.",
+   "printed": "קועיה"
+  },
+  {
+   "page": 192,
+   "line": "In dieser Stelle heißt es משחא דגרפא דאווא; dahingegen in der",
+   "main": "דגרפא דאווא",
+   "check": "דנגרפא דאווזא",
+   "confident": false,
+   "note": "B's דנגרפא is not a word, so A's דגרפא is right. However, דאווזא in B is the usual Talmudic spelling. A's spelling דאווא matches the parallel quotation in the next line, so the print may have used it, but this is uncertain.",
+   "printed": "דגרפא דאווא"
+  },
+  {
+   "page": 192,
+   "line": "Parallelstelle A. Sara 28, a: משחא דאווא בגרפא דאווא, was Raschi erklärt:",
+   "main": "דאווא בגרפא דאווא",
+   "check": "דאווזא כנגרפא דאווזא",
+   "confident": true,
+   "note": "Reading B's כנגרפא is not a word. Reading A, משחא דאווא בגרפא דאווא, is a well-formed phrase with ב- 'with' (matching Raschi's gloss 'smeared on with a goose feather'). Its spelling דאווא also matches the preceding line.",
+   "printed": "דאווא בגרפא דאווא"
+  },
+  {
+   "page": 193,
+   "line": "das Sprüchwort: שפיל ואזיל בר אוזא ועיניה מטייפי „Es bückt sich",
+   "main": "ועיניה",
+   "check": "ועיניהו",
+   "confident": false,
+   "note": "Megilla 14b has the proverb 'ועיניה מטייפי', and Lewysohn translates 'ihre Augen', which fits ועיניה. The form ועיניהו is less natural, but some printings vary, so this is not certain.",
+   "printed": "ועיניה"
+  },
+  {
+   "page": 193,
+   "line": "dünnen Teig zu einer Speise bereitet (Tos. ibid. s. v. טפל), sonst",
+   "main": "טפל את",
+   "check": "שפל חזא",
+   "confident": true,
+   "note": "טפל ('to coat', here with thin dough) matches the Tosafot heading at Pesachim 74b and fits the German sense. שפל חזא is not a plausible lemma here.",
+   "printed": "טפל את"
+  },
+  {
+   "page": 193,
+   "line": "sammenlaufen (צומח הגידין, §. 73), und gestattete hierauf die Vögel",
+   "main": "צומח",
+   "check": "צומת",
+   "confident": true,
+   "note": "The Talmudic term is צומת הגידין, 'the junction of the sinews', which fits Lewysohn's 'where the thigh veins run together'. צומח means 'growing' and makes no sense here.",
+   "printed": "צומת"
+  },
+  {
+   "page": 194,
+   "line": "17, a), ferner שכוי (R. ha-Schana 26, a), נרגול (Sanhedrin 63, b)",
+   "main": "נרגול",
+   "check": "נרנול",
+   "confident": true,
+   "note": "Sanhedrin 63b cites Nergal (2 Kings 17:30) as the god of the Cuthites, explained as the rooster (תרנגולא). The printed form is נרגול/נרגל; נרנול is not a word, just a ג/נ OCR confusion.",
+   "printed": "נרגול"
+  },
+  {
+   "page": 194,
+   "line": "und גבר (Joma 20, b). — Die Henne heißt תרנגולה (Beza 2, a),",
+   "main": "תרנגולה",
+   "check": "תרנגולת",
+   "confident": true,
+   "note": "Beza 2a speaks of 'תרנגולת העומדת לאכילה'. The standard rabbinic form for the hen is תרנגולת, with ת and ה being a common OCR confusion.",
+   "printed": "תרנגולת"
+  },
+  {
+   "page": 194,
+   "line": "גברית (Sabbat 67, b*) und wird von Einigen סכוה genannt (San-",
+   "main": "סכוה",
+   "check": "סכות",
+   "confident": true,
+   "note": "Sanhedrin 63b explains סכות בנות (2 Kings 17:30) as a hen (תרנגולתא), so the word is סכות. סכוה is an OCR confusion of ת and ה.",
+   "printed": "סכות"
+  },
+  {
+   "page": 194,
+   "line": "heißt וגתא (Bechoroth 8, b). Sie heißt ferner ihres Schreiens",
+   "main": "וגתא",
+   "check": "וגזא",
+   "confident": true,
+   "note": "In Bechoroth 8b (R. Joshua and the Athenian elders) the brooding hen is called גזא, which Rashi glosses as a hen. גתא is not attested with this meaning.",
+   "printed": "וגזא"
+  },
+  {
+   "page": 195,
+   "line": "Taches; dahingegen erklärt Raschi (Sanhedrin 105, b) סורייקא durch שורות",
+   "main": "סורייקא",
+   "check": "פורייקא",
+   "confident": true,
+   "note": "Raschi glosses the word as שורות שורות (lines), a variant of שורייקא, and it is linked to Arabic סוריאק. That fits סורייקא; פורייקא is not a known word.",
+   "printed": "סורייקא"
+  },
+  {
+   "page": 195,
+   "line": "נוקיש und erklärt es durch Fadenweise; er fügt hinzu, daß im Arab. סוריאק,",
+   "main": "נוקיש סוריאק",
+   "check": "נוקייש פוריאק",
+   "confident": true,
+   "note": "סוריאק matches the Aramaic סורייקא and renders the Arabic شراك (shirāk) given right after it. פוריאק is not a plausible form; פ is a misreading of ס.",
+   "printed": "נוקיש סוריאק"
+  },
+  {
+   "page": 199,
+   "line": "— גוזל (s. §. 1, Anm. ***) heißt sowohl die junge, als auch die",
+   "main": "גוזל גוזל",
+   "check": "גזל גזל",
+   "confident": true,
+   "note": "Lewysohn spells the word plene throughout the passage (בר גוזלא, גוזל בן שנה), matching the biblical spelling for 'young dove'. The defective form גזל would instead read as 'robbery'.",
+   "printed": "גוזל גוזל"
+  },
+  {
+   "page": 200,
+   "line": "Schwarz: חוצאות הארץ pag. 6), oder als Personenname nach dem",
+   "main": "חוצאות",
+   "check": "תוצאות",
+   "confident": true,
+   "note": "Joseph Schwarz's geography of Palestine is titled תבואות הארץ, and 'Totzaot' is a known variant rendering of it. תוצאות is a real word ('outcomes, borders'); חוצאות is not a word.",
+   "printed": "תוצאות"
+  },
+  {
+   "page": 202,
+   "line": "(קוביש, Couvées) herabnahm (Berachoth 44, a); doch ist hier",
+   "main": "קוביש",
+   "check": "קובייש",
+   "confident": false,
+   "note": "Both spellings are plausible, so this is a guess. The form with a single yod, קוביש, seems the more likely printed form. The Bavli text of Berachoth 44a that I can recall reads בריכות ('broods'), which does not settle the spelling here.",
+   "printed": "קוביש"
+  },
+  {
+   "page": 203,
+   "line": "dies that hieß ארא (Raschi אשחלין, Stellionat, Sanhedrin 25, a).",
+   "main": "אשחלין",
+   "check": "אשחליז",
+   "confident": true,
+   "note": "Rashi glosses it with the Old French Old French 'eschaillons' (decoys/lures), transliterated אשחלין. A final ז in אשחליז is not a plausible word ending and is a typical ן/ז OCR confusion.",
+   "printed": "אשחלין"
+  },
+  {
+   "page": 203,
+   "line": "stimmt werden kann, ist die unter dem Namen ראציפי (Chulin 62, a),",
+   "main": "ראציפי דריציפי",
+   "check": "דאציפי דייציפי",
+   "confident": false,
+   "note": "Aruch's variant is attested as דריציפי (A); B's דייציפי looks like an OCR corruption. ראציפי for the Chulin 62a form is less certain.",
+   "printed": "ראציפי דריציפי"
+  },
+  {
+   "page": 204,
+   "line": "wird das Ei der צינילתא (fem. von צילצלא) als Bezeichnung eines",
+   "main": "צינילתא צילצלא",
+   "check": "ציצילתא ציצלא",
+   "confident": true,
+   "note": "Jastrow lists ציצילתא as the feminine of ציצלא, a small bird, citing Shabbat 80b (\"ביעתא דצ׳\"). This matches the passage's egg-as-small-object usage, so B is the attested pair. A's forms look like misreadings (צ read as נ, and an inserted ל).",
+   "printed": "ציצילתא ציצלא"
+  },
+  {
+   "page": 204,
+   "line": "Turteltaubenart wird kaum einen Fuß lang, demnach muß צינילתא",
+   "main": "צינילתא צילצלא חאציל",
+   "check": "ציצילתא ציצלא תאציל",
+   "confident": true,
+   "note": "The Talmud (Shabbat 80b) has ביעתא דצינילתא, a small bird that Rashi glosses as עוף קטן. Lewysohn treats it as the feminine of צילצלא, which matches reading A; reading B's ציצילתא is not the attested word.",
+   "printed": "צינילתא צילצלא חאציל"
+  },
+  {
+   "page": 204,
+   "line": "Ibid. 62, b werden die תורין של רחבה mit den כפשני צוציני identi-",
+   "main": "צוציני",
+   "check": "צוצייני",
+   "confident": true,
+   "note": "The Talmud (Chulin 62b) has כפשני צוציני. The same word is spelled צוציני again later in this passage, so the doubled-yod צוצייני looks like an OCR artifact.",
+   "printed": "צוציני"
+  },
+  {
+   "page": 204,
+   "line": "von תורים, während das Wort צוציני verschieden erklärt wird. Ra-",
+   "main": "צוציני",
+   "check": "צוצייני",
+   "confident": true,
+   "note": "The passage spells the word צוציני in its other occurrences, including the earlier citation and Aruch's explanation. The Talmudic form (Chullin 62b, כופשני צוציני) has no double yod, so צוצייני is a spurious variant.",
+   "printed": "צוציני"
+  },
+  {
+   "page": 204,
+   "line": "gen giebt Aruch (s. v. צץ) folgende Erklärung: למה קורין איתן צוציני?",
+   "main": "איתן צוציני",
+   "check": "אותן צוצייני",
+   "confident": false,
+   "note": "Aruch's question 'why do they call them…' needs אותן ('them'), so B's first word is right; איתן ('strong') makes no sense here. But B's צוצייני conflicts with the spelling צוציני used elsewhere in the passage, so neither reading is fully clean.",
+   "printed": "אותן צוצייני"
+  },
+  {
+   "page": 204,
+   "line": "man sie צוציני? Weil sie Locken am Kopfe haben, wie es (Ezech.",
+   "main": "צוציני",
+   "check": "צוצייני",
+   "confident": false,
+   "note": "Reading A matches the Aruch quotation on the line just above, which spells it צוציני, and the German translation most likely repeats that spelling. Reading B is not impossible, since the doubled yod spelling also occurs, so this is not certain.",
+   "printed": "צוציני"
+  },
+  {
+   "page": 205,
+   "line": "Stelle der חורין, wohl aber an der der בני יונה zum Opfer genommen",
+   "main": "חורין",
+   "check": "תורין",
+   "confident": true,
+   "note": "The sacrificial doves are תורים (Aramaic/Mishnaic plural תורין), paired with בני יונה as the two kinds of birds fit for offering. חורין ('free men' or 'holes') makes no sense in this context.",
+   "printed": "תורין"
+  },
+  {
+   "page": 205,
+   "line": "גמל (Gen. 15, 9) durch: חסילא בר יון, ebenso גוזליו (Deut 32, 11)",
+   "main": "גמל",
+   "check": "גזל",
+   "confident": true,
+   "note": "Gen. 15:9 reads \"ve-tor ve-gozal\" (a young bird), so the word is גזל. Targum Jonathan renders it as a young dove (חסילא בר יון), which parallels גוזליו in Deut. 32:11. גמל (camel) does not fit.",
+   "printed": "גזל"
+  },
+  {
+   "page": 205,
+   "line": "גמל (Gen. 15, 9) durch: חסילא בר יון, ebenso גוזליו (Deut 32, 11)",
+   "main": "גוזליו חסילוי",
+   "check": "גזליו חסילי",
+   "confident": true,
+   "note": "Deut 32:11 reads על גוזליו, spelled with vav, and חסילוי is the correct Aramaic plural with the 3rd-person suffix ('his young'). The B forms drop these letters.",
+   "printed": "גוזליו חסילוי"
+  },
+  {
+   "page": 205,
+   "line": "die Erklärung Samuels (Rabba batra 75, a) von ציצלא durch חאציל;",
+   "main": "חאציל",
+   "check": "האציל",
+   "confident": false,
+   "note": "Lewysohn calls the word a corruption of חסיל. חאציל, with its initial ח, fits that remark; האציל would be a less obvious corruption. I could not verify the exact text of Bava Batra 75a.",
+   "printed": "חאציל"
+  },
+  {
+   "page": 206,
+   "line": "wilde Taubenart, der Erstere übersetzt es durch שבנינא, und die",
+   "main": "שבנינא",
+   "check": "שכנינא",
+   "confident": false,
+   "note": "The Targum to Ps 84 renders דרור with שפנינא, the Aramaic word for a wild dove. Neither reading has פ, but שבנינא is closer, since ב and פ alternate. The print may actually read שפנינא.",
+   "printed": "שבנינא"
+  },
+  {
+   "page": 207,
+   "line": "ist die סנינית לבנה (weiße Schwalbe), so sind סנונית*) und צפור דרור",
+   "main": "סנינית",
+   "check": "סנונית",
+   "confident": true,
+   "note": "The word for swallow is סנונית. The passage itself prints סנונית לבנה later, so סנינית is an OCR confusion of ו and י.",
+   "printed": "סנונית"
+  },
+  {
+   "page": 208,
+   "line": "sowohl am Hause (כבית) als auf dem Felde, was allerdings von",
+   "main": "כבית",
+   "check": "בבית",
+   "confident": true,
+   "note": "The German gloss is \"am Hause\", and בבית means \"in the house\". The Talmudic discussion (Beza 24a, Shabbat 106b) says the bird dwells בבית as well as in the field, so בבית is the printed word. כבית (\"like a house\") does not fit the gloss.",
+   "printed": "בבית"
+  },
+  {
+   "page": 211,
+   "line": "unserer Talmudstelle ferner: מעליא דכילהו שיכלי גריעא דכילהו שליו „Der",
+   "main": "דכילהו",
+   "check": "דכולהו",
+   "confident": true,
+   "note": "The Aramaic for \"of all of them\" is דכולהו (\"the best of all of them\"), so B fits the German gloss \"von ihnen\". דכילהו is not a word; the ו was misread as י.",
+   "printed": "דכולהו"
+  },
+  {
+   "page": 211,
+   "line": "Rabba (Schemoth fol. 142, b), wo es mit רשנת בשמן identificirt wird*).",
+   "main": "רשנת",
+   "check": "דשנת",
+   "confident": true,
+   "note": "The phrase is דשנת בשמן, from Psalm 23:5 ('you anoint my head with oil'), which the Midrash uses to gloss שליו as fatness. רשנת is not a word.",
+   "printed": "דשנת"
+  },
+  {
+   "page": 211,
+   "line": "Der Pl. von שליו ist שְׁלָיִים (Jozar zu Sabbat ha-Gadol s. v. אמיר),",
+   "main": "שליים אמיר",
+   "check": "שלוים ואמיר",
+   "confident": true,
+   "note": "The passage itself gives the plural as vocalized שְׁלָיִים, and it cites the piyyut as 's. v. אמיר' without a vav. B's שלוים ואמיר contradicts both.",
+   "printed": "שליים אמיר"
+  },
+  {
+   "page": 213,
+   "line": "erstens פסיון (B. Kama 55, a; Joma 75, b), pl. כסיוני (Kiduschin",
+   "main": "כסיוני כסיואני",
+   "check": "פסיוני פסיאני",
+   "confident": true,
+   "note": "The singular is printed as פסיון (pheasant, Greek phasianos), so the plurals should also begin with פ. כסיוני comes from the common OCR confusion of פ with כ.",
+   "printed": "פסיוני פסיאני"
+  },
+  {
+   "page": 213,
+   "line": "endlich wird gesagt: Mancher Sohn ernährt seinen Vater mit כסיוני",
+   "main": "כסיוני",
+   "check": "פסיוני",
+   "confident": true,
+   "note": "The passage is about the word פסיון (\"pheasant\"). The saying \"מאכיל אביו פסיוני\" (Kiddushin 31a, Yerushalmi) uses the plural/construct form פסיוני. The reading כסיוני confuses כ and פ and is not a word.",
+   "printed": "פסיוני"
+  },
+  {
+   "page": 213,
+   "line": "rung von סלין (§. 260), wonach jene vier Vögel wegen ihrer Schmack-",
+   "main": "סלין",
+   "check": "סליו",
+   "confident": false,
+   "note": "סליו fits as a samekh spelling of שליו (quail), the word of the Yoma 75b passage on the 'four kinds of quail'. סלין gives no fitting sense here.",
+   "printed": "סליו"
+  },
+  {
+   "page": 285,
+   "line": "מכלל הצומח כי הוא חי ומתנועע אינו מחליף מקומו כי הוא נעוץ והקיע בארץ",
+   "main": "והקיע",
+   "check": "ותקוע",
+   "confident": true,
+   "note": "The phrase \"נעוץ ותקוע בארץ\" means \"stuck and fixed in the earth\", a standard paired expression. \"והקיע\" is not a sensible word in this context.",
+   "printed": "ותקוע"
+  },
+  {
+   "page": 286,
+   "line": "das Gesetz gestattet nur 4 Arten zu essen, nämlich סלעם, חרגל, ארבה",
+   "main": "חרגל",
+   "check": "למינו",
+   "confident": true,
+   "note": "The marked line lists the four permitted locust kinds from Lev. 11:22: סלעם, חרגל, ארבה, חגב. חרגל is the second of these. למינו is the qualifier \"nach ihrer Art\" that appears on the following line, not one of the names in the list.",
+   "printed": "חרגל"
+  },
+  {
+   "page": 286,
+   "line": "und חגב, fügt aber zu ארבה den Nachsatz למינו (nach ihrer Art) und",
+   "main": "ארבה למינו",
+   "check": "למינהו",
+   "confident": true,
+   "note": "Lev. 11:22 reads ארבה למינו, and the marked line attaches the Nachsatz 'nach ihrer Art' to ארבה. למינהו ('nach ihren Arten') belongs to the other three kinds on the next line.",
+   "printed": "ארבה למינו"
+  },
+  {
+   "page": 286,
+   "line": "col, 442) nach Vorgang Ibn Esra's von רבו „viel sein“, wobei an",
+   "main": "רבו",
+   "check": "רבי",
+   "confident": false,
+   "note": "Lewysohn derives ארבה from the root 'to be many'. רבו is a real verb form ('they were many') that fits 'viel sein'; רבי ('my master'/'Rabbi') does not fit this meaning.",
+   "printed": "רבו"
+  },
+  {
+   "page": 287,
+   "line": "ungeschwänzt (Tos. Chulin 65, b s v. לא) — Den Namen גוביי er-",
+   "main": "גוביי",
+   "check": "גובי",
+   "confident": false,
+   "note": "גובי matches the biblical locust name (Amos 7:1, Nahum 3:17) behind the talmudic גובאי, and the Yerushalmi's גבו etymology fits it. גוביי is a less usual spelling but could be a variant, so this is not certain.",
+   "printed": "גובי"
+  },
+  {
+   "page": 287,
+   "line": "beim Anblick der גוביי der Segensspruch: ברוך דיין האמת gesprochen werde.",
+   "main": "גוביי",
+   "check": "גובי",
+   "confident": false,
+   "note": "Lewysohn probably kept the Yerushalmi's own spelling for 'locusts', which seems likely to be גוביי, a variant of the Bavli's גובאי. Neither form can be ruled out.",
+   "printed": "גוביי"
+  },
+  {
+   "page": 288,
+   "line": "übrig, daß in beiden Talmudstellen צפורת כרמים eine reine Heu-",
+   "main": "צפורת",
+   "check": "ציפורת",
+   "confident": false,
+   "note": "This is the term צפורת כרמים from Mishnah/Talmud Shabbat (90b), a locust-like insect. The defective spelling צפורת is common in print and likely what Lewysohn used, but the plene ציפורת is a legitimate variant, so this is a guess.",
+   "printed": "צפורת"
+  }
+ ]
+}

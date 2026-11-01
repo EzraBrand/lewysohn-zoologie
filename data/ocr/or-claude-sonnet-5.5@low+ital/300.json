@@ -1,0 +1,181 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "300",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "300"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Spinne.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Spinne."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Leidenschaft gleicht am Anfang dem Faden der Spinne, später\nwird sie stark wie die Seile an einem Wagen; hierfür hat der Mi-\ndrasch (R. Bereschit fol. 25, col. 4): Die Thaue eines Schiffes*). —\nIn der dritten Stelle heißt es: Amon verbrannte das Gesetz, hob\nden Gottesdienst auf, so daß die Spinnen auf dem verwaisten Altar\nruhig ihr Gewebe spinnen konnten. — Aruch hat neben dieser Er-\nklärung auch die, daß Amon eine Eidechse auf den Altar steigen\nließ, so daß er denselben durch ein, vom Gesetz als verunreinigend\nbezeichnetes Thier entweihte. Er verweist auf Jonathan, der zu Lev.\n11, 30 לטאה (§. 272) durch שממיתא übersetzt. Allein jene erstre Er-\nklärung erscheint viel sachgemäßer, und es fragt sich auch, warum\nAmon gerade eine Eidechse, und nicht ein anderes unreines und häu-\nfigeres Thier gewählt habe**). — Der Faden heißt חוט, das Gewebe\nקורי (Raschi, Sanhedrin ibid). Die Spinne ist das von den Men-\nschen am meisten gehaßte Geschöpf (Jalk. Schim. Proverb. fol. 145, c;\nf. folg. Art. zu Ende). — Ueber die Tarantel f. §. 414.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Leidenschaft gleicht am Anfang dem Faden der Spinne, später\nwird sie stark wie die Seile an einem Wagen; hierfür hat der Mi-\ndrasch (R. Bereschit fol. 25, col. 4): Die Thaue eines Schiffes*). —\nIn der dritten Stelle heißt es: Amon verbrannte das Gesetz, hob\nden Gottesdienst auf, so daß die Spinnen auf dem verwaisten Altar\nruhig ihr Gewebe spinnen konnten. — Aruch hat neben dieser Er-\nklärung auch die, daß Amon eine Eidechse auf den Altar steigen\nließ, so daß er denselben durch ein, vom Gesetz als verunreinigend\nbezeichnetes Thier entweihte. Er verweist auf Jonathan, der zu Lev.\n11, 30 "
+    },
+    {
+     "lang": "heb",
+     "text": "לטאה"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 272) durch "
+    },
+    {
+     "lang": "arc",
+     "text": "שממיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " übersetzt. Allein jene erstre Er-\nklärung erscheint viel sachgemäßer, und es fragt sich auch, warum\nAmon gerade eine Eidechse, und nicht ein anderes unreines und häu-\nfigeres Thier gewählt habe**). — Der Faden heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "חוט"
+    },
+    {
+     "lang": "deu",
+     "text": ", das Gewebe\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קורי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Raschi, Sanhedrin ibid). Die Spinne ist das von den Men-\nschen am meisten gehaßte Geschöpf (Jalk. Schim. Proverb. fol. 145, c;\nf. folg. Art. zu Ende). — Ueber die Tarantel f. §. 414."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 401.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 401."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. B. Kama 80, a heißt es: Man darf Fuchsspitze\n(§. 124), Katzen (§. 118), Affen (§. 112) und große Wiesel (§. 129)\naufziehen, damit sie das Haus von Mäusen rein erhalten. — Der\nAffe ist jedoch kein fleischfressendes Thier; Bochart (Hieroz. 1, 3,\n36, col. 1036) hat daher auch die Leseart קופרים (Igel, §. 134) für\nקופין, Affen. Es könnte aber die Leseart קופין beibehalten bleiben,\nwenn im Betreff des Affen an die Reinigung von Spinnen und\nFliegen gedacht wurde. Voigt (l. c. S. 238) sagt von den Affen:\n„Ihre natürliche Nahrung sind Früchte, süße Wurzeln, Insecten und\nvorzüglich gern Eier. Fliegen haschen sie beständig um sie zu ver-\nzehren, und ein Affe, den ich einst in einem unbewohnten Saale los-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. B. Kama 80, a heißt es: Man darf Fuchsspitze\n(§. 124), Katzen (§. 118), Affen (§. 112) und große Wiesel (§. 129)\naufziehen, damit sie das Haus von Mäusen rein erhalten. — Der\nAffe ist jedoch kein fleischfressendes Thier; Bochart (Hieroz. 1, 3,\n36, col. 1036) hat daher auch die Leseart "
+    },
+    {
+     "lang": "heb",
+     "text": "קופרים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Igel, §. 134) für\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קופין"
+    },
+    {
+     "lang": "deu",
+     "text": ", Affen. Es könnte aber die Leseart "
+    },
+    {
+     "lang": "heb",
+     "text": "קופין"
+    },
+    {
+     "lang": "deu",
+     "text": " beibehalten bleiben,\nwenn im Betreff des Affen an die Reinigung von Spinnen und\nFliegen gedacht wurde. Voigt (l. c. S. 238) sagt von den Affen:\n„Ihre natürliche Nahrung sind Früchte, süße Wurzeln, Insecten und\nvorzüglich gern Eier. Fliegen haschen sie beständig um sie zu ver-\nzehren, und ein Affe, den ich einst in einem unbewohnten Saale los-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Bechai (Chobbot ha-Lebaholh ed. Fürstenthal S. 240, 2) nimmt\ndas Bild der Spinne, welche ihr Gewebe so dicht spinnt, daß das Licht der\nSonne durch dasselbe nicht eindringen kann, zur Bezeichnung der Leidenschaft,\nwelche das Licht der Vernunft hindert.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bechai (Chobbot ha-Lebaholh ed. Fürstenthal S. 240, 2) nimmt\ndas Bild der Spinne, welche ihr Gewebe so dicht spinnt, daß das Licht der\nSonne durch dasselbe nicht eindringen kann, zur Bezeichnung der Leidenschaft,\nwelche das Licht der Vernunft hindert."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Geiger übersetzt שממית (nach Borgang Gesenius') durch Stern-\neidechse und drückt sich aus: „Nicht wie Raschi: er machte ihn so öde, daß die\nSpinnen dort ihr Gewebe verfertigten, weshalb eben gesagt werde, er habe sie\nhinaufgebracht“ (Urschrift und Uebersetzungen der Bibel. S. 68); allein der\nHiphil העלה heißt in unserer Stelle „aufsteigen lassen“, s. Raschi zu Num. 8, 2;\nin unserer Talmudstelle ist daher der Sinn: Amon verursachte, daß Spinnen den\nAltar bestiegen, da er denselben veröden ließ.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Geiger übersetzt "
+    },
+    {
+     "lang": "heb",
+     "text": "שממית"
+    },
+    {
+     "lang": "deu",
+     "text": " (nach Borgang Gesenius') durch Stern-\neidechse und drückt sich aus: „Nicht wie Raschi: er machte ihn so öde, daß die\nSpinnen dort ihr Gewebe verfertigten, weshalb eben gesagt werde, er habe sie\nhinaufgebracht“ (Urschrift und Uebersetzungen der Bibel. S. 68); allein der\nHiphil "
+    },
+    {
+     "lang": "heb",
+     "text": "העלה"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt in unserer Stelle „aufsteigen lassen“, s. Raschi zu Num. 8, 2;\nin unserer Talmudstelle ist daher der Sinn: Amon verursachte, daß Spinnen den\nAltar bestiegen, da er denselben veröden ließ."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2332
+   ],
+   [
+    3308,
+    2984
+   ]
+  ],
+  "input_tokens": 11355,
+  "output_tokens": 1849,
+  "cost_usd": 0.0412,
+  "seconds": 11.3
+ }
+}

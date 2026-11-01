@@ -1,0 +1,209 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "328 Die Ameise.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "328 Die Ameise."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "dieses Insect bezeichnet*); indessen erfreut sich dieser Gabe auch noch\nmanch andres Insect, z. B. der Wasserskorpion (Nepa cinerea,\nVoigt l. c. 5. S. 403), der ebenfalls wie die Wanze stinkt **).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "dieses Insect bezeichnet*); indessen erfreut sich dieser Gabe auch noch\nmanch andres Insect, z. B. der Wasserskorpion ("
+    },
+    {
+     "lang": "lat",
+     "text": "Nepa cinerea"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nVoigt l. c. 5. S. 403), der ebenfalls wie die Wanze stinkt **)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 454.\nDie Ameise.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 454.\nDie Ameise."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "נמלה (Chulin 63, a) und שומשמנא (ibid. 57, b); über קמצא,\nwelches Raschi unbestimmt für Ameise und Heuschrecke nimmt, s. §.\n455. — Von den geflügelten Ameisen geschieht im Talmud keine Er-\nwähnung, während er die Ameise der Wespe, als einem geflügelten\nInsecte, geradezu als flügelloses Insect gegenüber stellt (Pesachim\n24, a†). Ueber die gesellige und verfassungsmäßige Lebensart die-\nser Thiere giebt der Talmud unter der Form einer Fabel mehrere\nAufschlüsse. Da die Ameisen, heißt es dort, mehr den Schatten als\ndas Sonnenlicht lieben, so breitete man mitten im Sommer eine\nDecke über einen Ameisenhaufen, so daß der Schatten auf denselben\nfiel; alsobald kam eine einzige Ameise hervor und kehrte, nachdem\nsie sich von der Anwesenheit des Schattens überzeugt hatte und nach-\ndem sie von dem Beobachter auf irgend eine Weise (vielleicht durch\nBesprengen mit einer weißen Farbe) gezeichnet wurde, zurück in den",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "נמלה"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "heb",
+     "text": "Chulin"
+    },
+    {
+     "lang": "deu",
+     "text": " 63, a) und "
+    },
+    {
+     "lang": "arc",
+     "text": "שומשמנא"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 57, b); über "
+    },
+    {
+     "lang": "arc",
+     "text": "קמצא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nwelches Raschi unbestimmt für Ameise und Heuschrecke nimmt, s. §.\n455. — Von den geflügelten Ameisen geschieht im Talmud keine Er-\nwähnung, während er die Ameise der Wespe, als einem geflügelten\nInsecte, geradezu als flügelloses Insect gegenüber stellt (Pesachim\n24, a†). Ueber die gesellige und verfassungsmäßige Lebensart die-\nser Thiere giebt der Talmud unter der Form einer Fabel mehrere\nAufschlüsse. Da die Ameisen, heißt es dort, mehr den Schatten als\ndas Sonnenlicht lieben, so breitete man mitten im Sommer eine\nDecke über einen Ameisenhaufen, so daß der Schatten auf denselben\nfiel; alsobald kam eine einzige Ameise hervor und kehrte, nachdem\nsie sich von der Anwesenheit des Schattens überzeugt hatte und nach-\ndem sie von dem Beobachter auf irgend eine Weise (vielleicht durch\nBesprengen mit einer weißen Farbe) gezeichnet wurde, zurück in den"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Im jerus. Talm. heißt es: Die Wanze dient gegen Blutigel (vergl. An-\nhang s. v. שבלון); hiermit vergl. man Harduin (in den Noten und Emenda-\ntionen zu Plin. h. n. 29, sect. 17), der aus Marcellus Empiricus mittheilt:\nAd eos, qui sanguisugas insciti devorant, cimicum in carbonibus positorum\nfumus remedium est: si ore hianti, et faucibus apertis excipiantur, ejici\nenim et expelli devoratas sanguisugas hac ratione certissimum est. Es\ngeht hieraus zugleich hervor, daß die Blutigel Geruchssinn haben.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Im jerus. Talm. heißt es: Die Wanze dient gegen Blutigel (vergl. An-\nhang s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "שבלון"
+    },
+    {
+     "lang": "deu",
+     "text": "); hiermit vergl. man Harduin (in den Noten und Emenda-\ntionen zu Plin. h. n. 29, sect. 17), der aus Marcellus Empiricus mittheilt:\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Ad eos, qui sanguisugas insciti devorant, cimicum in carbonibus positorum\nfumus remedium est: si ore hianti, et faucibus apertis excipiantur, ejici\nenim et expelli devoratas sanguisugas hac ratione certissimum est."
+    },
+    {
+     "lang": "deu",
+     "text": " Es\ngeht hieraus zugleich hervor, daß die Blutigel Geruchssinn haben."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Es mag wohl כַּפַּשׁ mit שׂ gelesen werden von פשה vermehren, da\nsich dieses Ungeziefer sehr vermehrt; s. jedoch Levita (Tischbi s. v. פשפש), der es\nvon suchen ableitet: der Mensch sucht das Insect auf.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Es mag wohl "
+    },
+    {
+     "lang": "heb",
+     "text": "כַּפַּשׁ"
+    },
+    {
+     "lang": "deu",
+     "text": " mit "
+    },
+    {
+     "lang": "heb",
+     "text": "שׂ"
+    },
+    {
+     "lang": "deu",
+     "text": " gelesen werden von "
+    },
+    {
+     "lang": "heb",
+     "text": "פשה"
+    },
+    {
+     "lang": "deu",
+     "text": " vermehren, da\nsich dieses Ungeziefer sehr vermehrt; s. jedoch Levita (Tischbi s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "פשפש"
+    },
+    {
+     "lang": "deu",
+     "text": "), der es\nvon suchen ableitet: der Mensch sucht das Insect auf."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Daß die Ameisen geflügelt sind, und die Flügel nur nach der in der\nLuft vollzogenen Begattung verlieren, scheint der Talmud nicht gewußt zu haben,\nund nur Aristoteles (l. c. 4, 1, 3) spricht von geflügelten und ungeflügelten\nAmeisen, ebenso Voigt (l. c. 4. S. 292), der Talmud spricht daher nur von den\nLezteren. — Sonderbar sind die Worte Maimuni's (Hil. Maachaloth asuroth\nc. 2. §. 24): נמלה הפרחת הגדלה במים, was schon Abraham b. David als\nfalsch zurückweist, denn die Ameise ist kein Wasserinsect; richtig dagegen drückt\nsich Maimuni in der Einleitung zur Ordnung Seraïm (Ed. Sulzbach fol. 89, d)\naus: קצת הנמלים נכנפים ומהם בלי כנפים, „ein Theil Ameisen sind beflügelt,\nein anderer unbeflügelt.“",
+   "marker": "†)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Daß die Ameisen geflügelt sind, und die Flügel nur nach der in der\nLuft vollzogenen Begattung verlieren, scheint der Talmud nicht gewußt zu haben,\nund nur Aristoteles (l. c. 4, 1, 3) spricht von geflügelten und ungeflügelten\nAmeisen, ebenso Voigt (l. c. 4. S. 292), der Talmud spricht daher nur von den\nLezteren. — Sonderbar sind die Worte Maimuni's (Hil. Maachaloth asuroth\nc. 2. §. 24): "
+    },
+    {
+     "lang": "heb",
+     "text": "נמלה הפרחת הגדלה במים"
+    },
+    {
+     "lang": "deu",
+     "text": ", was schon Abraham b. David als\nfalsch zurückweist, denn die Ameise ist kein Wasserinsect; richtig dagegen drückt\nsich Maimuni in der Einleitung zur Ordnung Seraïm (Ed. Sulzbach fol. 89, d)\naus: "
+    },
+    {
+     "lang": "heb",
+     "text": "קצת הנמלים נכנפים ומהם בלי כנפים"
+    },
+    {
+     "lang": "deu",
+     "text": ", „ein Theil Ameisen sind beflügelt,\nein anderer unbeflügelt.“"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2016
+   ],
+   [
+    3308,
+    3024
+   ]
+  ],
+  "input_tokens": 3345,
+  "output_tokens": 1314,
+  "cost_usd": 0.0074,
+  "seconds": 9.2
+ }
+}

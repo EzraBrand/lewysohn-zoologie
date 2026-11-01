@@ -1,0 +1,125 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Anhang.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Anhang."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Während bisher aus dem jerusalem. Talm. und dem Midrasch\ndasjenige Naturhistorische an den betreffenden Stellen mitgetheilt\nwurde, was zur Ergänzung der vom babyl. Talmud gemachten An-\ngaben nothwendig erschien, so sollen hier diejenigen Thierspecies\nbesonders folgen, die nur in jenen beiden zuerst gedachten Quellen\nerwähnt werden, ebenso die Thiernamen, die nur in ihnen sich\nfinden lassen. Da aber Beide, die Species, wie die Namen, nicht\nsonderlich viel sind, so geben wir sie alphabetisch ohne wissenschaft-\nlich-systematische Eintheilung. Bemerkt sei, daß uns nur die Kra-\nkauer (v. J. 1609) leider sehr incorrecte Ausgabe des jerusalem.\nTalmud's zu Gebote stand, weshalb wir gern von Denjenigen, welchen\ncorrecte und mit Commentarien versehene Ausgaben jenes Talmud's\nzugänglich sind, Berichtigung erwarten und annehmen werden.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Während bisher aus dem jerusalem. Talm. und dem Midrasch\ndasjenige Naturhistorische an den betreffenden Stellen mitgetheilt\nwurde, was zur Ergänzung der vom babyl. Talmud gemachten An-\ngaben nothwendig erschien, so sollen hier diejenigen Thierspecies\nbesonders folgen, die nur in jenen beiden zuerst gedachten Quellen\nerwähnt werden, ebenso die Thiernamen, die nur in ihnen sich\nfinden lassen. Da aber Beide, die Species, wie die Namen, nicht\nsonderlich viel sind, so geben wir sie alphabetisch ohne wissenschaft-\nlich-systematische Eintheilung. Bemerkt sei, daß uns nur die Kra-\nkauer (v. J. 1609) leider sehr incorrecte Ausgabe des jerusalem.\nTalmud's zu Gebote stand, weshalb wir gern von Denjenigen, welchen\ncorrecte und mit Commentarien versehene Ausgaben jenes Talmud's\nzugänglich sind, Berichtigung erwarten und annehmen werden."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "אבחטם, so Kilajim Cap. 8, Hal. 3, wofür aber Sabbat C. 5,\nfol. 7, b: אמכטם; an beiden Stellen erklärt der Talmud das Wort\ndurch חמר סלק, was vielleicht „seleucischer Esel“ bedeutet. Das bibli-\nsche אשור (Gen. 2, 14) erklärt der Talm. (babyl. Ketuboth 10, b)\ndurch סליקא, und mögen die Esel in jener Landschaft an Größe sich\nausgezeichnet haben.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "אבחטם"
+    },
+    {
+     "lang": "deu",
+     "text": ", so Kilajim Cap. 8, Hal. 3, wofür aber Sabbat C. 5,\nfol. 7, b: "
+    },
+    {
+     "lang": "heb",
+     "text": "אמכטם"
+    },
+    {
+     "lang": "deu",
+     "text": "; an beiden Stellen erklärt der Talmud das Wort\ndurch "
+    },
+    {
+     "lang": "heb",
+     "text": "חמר סלק"
+    },
+    {
+     "lang": "deu",
+     "text": ", was vielleicht „seleucischer Esel“ bedeutet. Das bibli-\nsche "
+    },
+    {
+     "lang": "heb",
+     "text": "אשור"
+    },
+    {
+     "lang": "deu",
+     "text": " (Gen. 2, 14) erklärt der Talm. (babyl. Ketuboth 10, b)\ndurch "
+    },
+    {
+     "lang": "heb",
+     "text": "סליקא"
+    },
+    {
+     "lang": "deu",
+     "text": ", und mögen die Esel in jener Landschaft an Größe sich\nausgezeichnet haben."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "אוז הים (Kilajim C. 8. H. 6), oder אוז ים (B. Kama C. 4. H.\n10), die Gans des Meeres. Sie darf mit der Hausgans (אוז\nיישוב l. c.) nicht gepaart werden. Unter jener mag vielleicht der Pe-\nlikan verstanden sein, der auch jetzt von Einigen: Kropfgans, oder\nMeergans genannt wird.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "אוז הים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kilajim C. 8. H. 6), oder "
+    },
+    {
+     "lang": "heb",
+     "text": "אוז ים"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. Kama C. 4. H.\n10), die Gans des Meeres. Sie darf mit der Hausgans ("
+    },
+    {
+     "lang": "heb",
+     "text": "אוז\nיישוב"
+    },
+    {
+     "lang": "deu",
+     "text": " l. c.) nicht gepaart werden. Unter jener mag vielleicht der Pe-\nlikan verstanden sein, der auch jetzt von Einigen: Kropfgans, oder\nMeergans genannt wird."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3292,
+    3816
+   ]
+  ],
+  "input_tokens": 6587,
+  "output_tokens": 1115,
+  "cost_usd": 0.0243,
+  "seconds": 7.8
+ }
+}

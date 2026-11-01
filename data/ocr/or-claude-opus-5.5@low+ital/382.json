@@ -1,0 +1,157 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "382 Hebräisches und aramäisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "382 Hebräisches und aramäisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Sphyrna zygaena 267.\nSqualus catulus 272.\nSquilla 233.\nStrongylus filaria 341.\nSturnus 176.\nSula fusca 185.\nSylvia atricapilla 25.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sphyrna zygaena 267.\nSqualus catulus 272.\nSquilla 233.\nStrongylus filaria 341.\nSturnus 176.\nSula fusca 185.\nSylvia atricapilla 25."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "T.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "T."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Tabanus bovinus 317.\nTalpa 101.\nTaurus 129.\nTenebrio molitor 308.\nTermes destructor 332.\nTestudo orbicularis 233.\nThynnus 253.\nTigris 71.\nTinea granella 311.\nTinea pellionella 321.\nTinea sarcitella 322.\nTragelaphus 117.\nTriton 255.\nTrochilus 210.\nTurdus 259.\nTurdus iliacus 185.\nTurdus pilaris 212.\nTyrannus intrepidus 210.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tabanus bovinus 317.\nTalpa 101.\nTaurus 129.\nTenebrio molitor 308.\nTermes destructor 332.\nTestudo orbicularis 233.\nThynnus 253.\nTigris 71.\nTinea granella 311.\nTinea pellionella 321.\nTinea sarcitella 322.\nTragelaphus 117.\nTriton 255.\nTrochilus 210.\nTurdus 259.\nTurdus iliacus 185.\nTurdus pilaris 212.\nTyrannus intrepidus 210."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "U.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "U."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Uraea cybia 254.\nUranoscopus 245.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Uraea cybia 254.\nUranoscopus 245."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "V.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "V."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Variae 71.\nVespertilio 104.\nVipera berus 9.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Variae 71.\nVespertilio 104.\nVipera berus 9."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "III. Hebräisches und aramäisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "III. Hebräisches und aramäisches Register."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "א.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "א."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "אבזקת 122, 321.\nאבחטם 368.\nאבני שדה 64. 356,\nאברומא 264.\nאדני שדה s. אבני שדה.\nאוח הים 368.\nאווזא 190.\nאוז 190.\nאוז בר 192.\nאווזא s. אוזא.\nאוטנום 253.\nאורדען 369.\nאורזילא 149.\nאורשינא 353.\nאושכף 290.\nאוזא 167.\nאחשתרנים 364.\nאוטנום s. אטונום.\nאי 25.\nאיה 167.\nאיויא 234.\nאיילא דעינבי 310.\nאיילא קמצא 294.\nאיים s. אי.\nאיל 113, 118.\nאיל הבר 122.\nאיל קמצא s. איילא קמצא.\nאילה 111.\nאימרא בקתא 319.\nאימרי 118,\nאינבא 326.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "אבזקת 122, 321.\nאבחטם 368.\nאבני שדה 64. 356,\nאברומא 264.\nאדני שדה s. אבני שדה.\nאוח הים 368.\nאווזא 190.\nאוז 190.\nאוז בר 192.\nאווזא s. אוזא.\nאוטנום 253.\nאורדען 369.\nאורזילא 149.\nאורשינא 353.\nאושכף 290.\nאוזא 167.\nאחשתרנים 364.\nאוטנום s. אטונום.\nאי 25.\nאיה 167.\nאיויא 234.\nאיילא דעינבי 310.\nאיילא קמצא 294.\nאיים s. אי.\nאיל 113, 118.\nאיל הבר 122.\nאיל קמצא s. איילא קמצא.\nאילה 111.\nאימרא בקתא 319.\nאימרי 118,\nאינבא 326."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3016,
+    2043
+   ],
+   [
+    3016,
+    3065
+   ]
+  ],
+  "input_tokens": 11345,
+  "output_tokens": 1077,
+  "cost_usd": 0.0669,
+  "seconds": 16.0
+ }
+}

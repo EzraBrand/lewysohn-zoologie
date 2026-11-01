@@ -1,0 +1,133 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "342\nDer Doppelwurm. — Der Schwamm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "342\nDer Doppelwurm. — Der Schwamm."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 487.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 487."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Chulin ibid. heißt es, daß die קוקאני zu essen ver-\nboten sind. Raschi erklärt: Es sind Würmer, welche dem Vieh durch\ndie Nasenlöcher in die Lunge und in die Leber kriechen. — Dies ist\nschon deshalb unrichtig, weil der Leberegel (§. 481) bei dem Vieh\nentsteht, wenn es in feuchter Gegend leben muß, es erhält aber nie-\nmals jene Würmer von außen. — Richtiger erklären es die Tosephot\nals Fischwürmer, denen auch die Decisoren (Sch. Ar. Jore Deah §. 84,\n16) beistimmen. Die קוקאני sind mit dem Riemenwurm (§. 485)\nidentisch.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Chulin ibid. heißt es, daß die "
+    },
+    {
+     "lang": "heb",
+     "text": "קוקאני"
+    },
+    {
+     "lang": "deu",
+     "text": " zu essen ver-\nboten sind. Raschi erklärt: Es sind Würmer, welche dem Vieh durch\ndie Nasenlöcher in die Lunge und in die Leber kriechen. — Dies ist\nschon deshalb unrichtig, weil der Leberegel (§. 481) bei dem Vieh\nentsteht, wenn es in feuchter Gegend leben muß, es erhält aber nie-\nmals jene Würmer von außen. — Richtiger erklären es die Tosephot\nals Fischwürmer, denen auch die Decisoren (Sch. Ar. Jore Deah §. 84,\n16) beistimmen. Die "
+    },
+    {
+     "lang": "heb",
+     "text": "קוקאני"
+    },
+    {
+     "lang": "deu",
+     "text": " sind mit dem Riemenwurm (§. 485)\nidentisch."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 488.\nDer Doppelwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 488.\nDer Doppelwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Brachsen (§. 334) darf nicht an allen Orten gegessen wer-\nden (Succa 18, a). Raschi giebt den Grund an, weil an dem Fische\n(den Raschi nicht richtig erklärt) zuweilen kleine, kaum bemerkbare\nWürmer haften. — Es ist indessen von sogenannten Fischläusen, wie\nsie beim Barsch, Lachs u. a. m. angetroffen werden, bei dem Brach-\nsen Nichts bekannt; wohl aber findet sich der sogenannte Doppel-\nwurm (Diplozoon paradoxum) an den Kiemen des Brachsen (vergl.\nVoigt l. c. 6. S. 36).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Brachsen (§. 334) darf nicht an allen Orten gegessen wer-\nden (Succa 18, a). Raschi giebt den Grund an, weil an dem Fische\n(den Raschi nicht richtig erklärt) zuweilen kleine, kaum bemerkbare\nWürmer haften. — Es ist indessen von sogenannten Fischläusen, wie\nsie beim Barsch, Lachs u. a. m. angetroffen werden, bei dem Brach-\nsen Nichts bekannt; wohl aber findet sich der sogenannte Doppel-\nwurm ("
+    },
+    {
+     "lang": "lat",
+     "text": "Diplozoon paradoxum"
+    },
+    {
+     "lang": "deu",
+     "text": ") an den Kiemen des Brachsen (vergl.\nVoigt l. c. 6. S. 36)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Achte Klasse.\nZoophyten.\n§. 489.\nDer Schwamm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Achte Klasse.\nZoophyten.\n§. 489.\nDer Schwamm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schon in den ältesten Zeiten hielt man den Schwamm für\neinen Zoophyten. Aristoteles (a. a. O. 1, 1, 8) sagt: Auch der\nSchwamm scheint einige Empfindung zu haben; wenigstens läßt die-\nses der Umstand vermuthen, daß er sich, wie man sagt, schwerer los-\nreißt, wenn man sich ihm nicht leise genug nähert. — Aelian (a.\na. O. 8, 16) schreibt die Bewegungen des Schwammes den Thierchen",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schon in den ältesten Zeiten hielt man den Schwamm für\neinen Zoophyten. Aristoteles (a. a. O. 1, 1, 8) sagt: Auch der\nSchwamm scheint einige Empfindung zu haben; wenigstens läßt die-\nses der Umstand vermuthen, daß er sich, wie man sagt, schwerer los-\nreißt, wenn man sich ihm nicht leise genug nähert. — Aelian (a.\na. O. 8, 16) schreibt die Bewegungen des Schwammes den Thierchen"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3304,
+    2738
+   ],
+   [
+    3304,
+    2450
+   ]
+  ],
+  "input_tokens": 3309,
+  "output_tokens": 1019,
+  "cost_usd": 0.0063,
+  "seconds": 8.3
+ }
+}

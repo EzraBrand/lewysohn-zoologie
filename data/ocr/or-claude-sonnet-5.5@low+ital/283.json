@@ -1,0 +1,297 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Miesmuschel. — Der Tintenfisch.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Miesmuschel. — Der Tintenfisch."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "283",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "283"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 367.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 367."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Betrüger verfälschten, oder ahmten die Farbe nach, weshalb man\nsich verschiedener Probirmittel bediente, die Aechtheit, oder Unächtheit\nder Farbe zu erkennen. Man nahm Alaun (אלום, Alumine), Fönn-\nkraut (פנגריא, Fénugrec) und den Urin eines 40 Tage alten Kin-\ndes (nach Andern: Urin, der 40 Tage aufbewahrt wurde, vergl.\nTos. Nidda 63, a. s. v. חנא), vermischte Alles untereinander und\nlegte von dem gefärbten Gegenstand Etwas über Nacht hinein; wenn\nalsdann die Farbe noch unverdorben blieb, so war sie ächt. — Ein\nAnderer prüfte die Aechtheit der Farbe dadurch, daß er sehr scharfen\nSauerteig aus Gerstenmehl bereitet, auf den gefärbten Gegenstand\nlegte, und wenn die Farbe hierauf nur noch an Schönheit gewann,\nso war sie ächt (Menachoth 43, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Betrüger verfälschten, oder ahmten die Farbe nach, weshalb man\nsich verschiedener Probirmittel bediente, die Aechtheit, oder Unächtheit\nder Farbe zu erkennen. Man nahm Alaun ("
+    },
+    {
+     "lang": "heb",
+     "text": "אלום"
+    },
+    {
+     "lang": "deu",
+     "text": ", Alumine), Fönn-\nkraut ("
+    },
+    {
+     "lang": "heb",
+     "text": "פנגריא"
+    },
+    {
+     "lang": "fra",
+     "text": ", Fénugrec) "
+    },
+    {
+     "lang": "deu",
+     "text": "und den Urin eines 40 Tage alten Kin-\ndes (nach Andern: Urin, der 40 Tage aufbewahrt wurde, vergl.\nTos. Nidda 63, a. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "חנא"
+    },
+    {
+     "lang": "deu",
+     "text": "), vermischte Alles untereinander und\nlegte von dem gefärbten Gegenstand Etwas über Nacht hinein; wenn\nalsdann die Farbe noch unverdorben blieb, so war sie ächt. — Ein\nAnderer prüfte die Aechtheit der Farbe dadurch, daß er sehr scharfen\nSauerteig aus Gerstenmehl bereitet, auf den gefärbten Gegenstand\nlegte, und wenn die Farbe hierauf nur noch an Schönheit gewann,\nso war sie ächt (Menachoth 43, a)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 368.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 368."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Miesmuschel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Miesmuschel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "A. Sara 28, b heißt es: Wenn Jemand Schmerzen am Mast-\ndarm hat, so nehme er משקרי חלוני zum Heilmittel, so liest Aruch;\nin unserer Talmudausgabe steht משקדי, und Aruch erklärt das Thier\nals gespaltene Frösche; allein חלווני heißt nie Frosch, sondern ist eine\nMuschelart, wie auch Raschi in unserer Stelle erklärt: לימיץ בלע\"ז מין\nחלזון „Limace in unserer Sprache, eine Art חלזון.\" — Vielleicht hät-\nten wir hier an die Miesmuschel, gr. Μυίσκα, zu denken; auch\nsie ist zweischalig und mag daher unter משקדי verstanden sein; man\nspaltete die Schalen um sie herauszunehmen und das Sperma zu ge-\nwinnen. Mit Gewißheit läßt sich hier nicht bestimmen. — Ueber den\nSeenagel s. §. 513.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "A. Sara 28, b heißt es: Wenn Jemand Schmerzen am Mast-\ndarm hat, so nehme er "
+    },
+    {
+     "lang": "heb",
+     "text": "משקרי חלוני"
+    },
+    {
+     "lang": "deu",
+     "text": " zum Heilmittel, so liest Aruch;\nin unserer Talmudausgabe steht "
+    },
+    {
+     "lang": "heb",
+     "text": "משקדי"
+    },
+    {
+     "lang": "deu",
+     "text": ", und Aruch erklärt das Thier\nals gespaltene Frösche; allein "
+    },
+    {
+     "lang": "heb",
+     "text": "חלווני"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt nie Frosch, sondern ist eine\nMuschelart, wie auch Raschi in unserer Stelle erklärt: "
+    },
+    {
+     "lang": "heb",
+     "text": "לימיץ בלע\"ז מין\nחלזון"
+    },
+    {
+     "lang": "deu",
+     "text": " „Limace in unserer Sprache, eine Art "
+    },
+    {
+     "lang": "heb",
+     "text": "חלזון"
+    },
+    {
+     "lang": "deu",
+     "text": ".\" — Vielleicht hät-\nten wir hier an die Miesmuschel, gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Μυίσκα"
+    },
+    {
+     "lang": "deu",
+     "text": ", zu denken; auch\nsie ist zweischalig und mag daher unter "
+    },
+    {
+     "lang": "heb",
+     "text": "משקדי"
+    },
+    {
+     "lang": "deu",
+     "text": " verstanden sein; man\nspaltete die Schalen um sie herauszunehmen und das Sperma zu ge-\nwinnen. Mit Gewißheit läßt sich hier nicht bestimmen. — Ueber den\nSeenagel s. §. 513."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 369.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 369."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Tintenfisch.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Tintenfisch."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Den im §. 366 behandelte חלזון (Purpurschnecke) erklärt Mai-\nmuni (Jad ha-Chasaka hil. Zizith cap. 1) auffallender Weise als den\nTintenfisch. Er sagt: חלזון דג דומה עינו כעין תכלת ודמו שחור כדיו\nוכים המלח הוא מצוי. Der חלזון ist ein Fisch, dessen Farbe die des\nתכלת ist, sein Blut*) ist tintenschwarz und ist im Salzmeer (d. i. mit-\ntelländischen Meer) vorhanden. Auch die Tosephot (Sabbat 73, b. s. v.\nמפרק) halten חלזון für einen Fisch, und selbst neuere Archäologen stim-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Den im §. 366 behandelte "
+    },
+    {
+     "lang": "heb",
+     "text": "חלזון"
+    },
+    {
+     "lang": "deu",
+     "text": " (Purpurschnecke) erklärt Mai-\nmuni (Jad ha-Chasaka hil. Zizith cap. 1) auffallender Weise als den\nTintenfisch. Er sagt: "
+    },
+    {
+     "lang": "heb",
+     "text": "חלזון דג דומה עינו כעין תכלת ודמו שחור כדיו\nוכים המלח הוא מצוי"
+    },
+    {
+     "lang": "deu",
+     "text": ". Der "
+    },
+    {
+     "lang": "heb",
+     "text": "חלזון"
+    },
+    {
+     "lang": "deu",
+     "text": " ist ein Fisch, dessen Farbe die des\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תכלת"
+    },
+    {
+     "lang": "deu",
+     "text": " ist, sein Blut*) ist tintenschwarz und ist im Salzmeer (d. i. mit-\ntelländischen Meer) vorhanden. Auch die Tosephot (Sabbat 73, b. s. v.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מפרק"
+    },
+    {
+     "lang": "deu",
+     "text": ") halten "
+    },
+    {
+     "lang": "heb",
+     "text": "חלזון"
+    },
+    {
+     "lang": "deu",
+     "text": " für einen Fisch, und selbst neuere Archäologen stim-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Ueber die Etymologie von דם s. §. 80.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ueber die Etymologie von "
+    },
+    {
+     "lang": "heb",
+     "text": "דם"
+    },
+    {
+     "lang": "deu",
+     "text": " s. §. 80."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2600
+   ],
+   [
+    3308,
+    2516
+   ]
+  ],
+  "input_tokens": 11352,
+  "output_tokens": 1986,
+  "cost_usd": 0.0426,
+  "seconds": 12.6
+ }
+}

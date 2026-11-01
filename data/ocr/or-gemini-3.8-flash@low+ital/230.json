@@ -1,0 +1,185 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "230\nDie Kröte.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "230\nDie Kröte."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "ist der Salamander nicht das einzige Thier, über welches der Talmud\nFabelhaftes und zugleich naturhistorisch Wahres enthält, und im vor-\nliegenden Falle haben wir, ungeachtet des Widerspruchs, dennoch die\nrichtige Kenntniß des Talmuds von der Natur des Salamanders ge-\ngenüber der Fabel festzuhalten. Sollte der Salamander wirklich nur\nals Feuerthier angesehen worden sein, dann wäre es unbegreiflich, wie\nihn der Talmud als verunreinigendes Kriechthier (שרץ) bestimmt haben\nkonnte.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "ist der Salamander nicht das einzige Thier, über welches der Talmud\nFabelhaftes und zugleich naturhistorisch Wahres enthält, und im vor-\nliegenden Falle haben wir, ungeachtet des Widerspruchs, dennoch die\nrichtige Kenntniß des Talmuds von der Natur des Salamanders ge-\ngenüber der Fabel festzuhalten. Sollte der Salamander wirklich nur\nals Feuerthier angesehen worden sein, dann wäre es unbegreiflich, wie\nihn der Talmud als verunreinigendes Kriechthier ("
+    },
+    {
+     "lang": "heb",
+     "text": "שרץ"
+    },
+    {
+     "lang": "deu",
+     "text": ") bestimmt haben\nkonnte."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 281.\nDie Kröte.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 281.\nDie Kröte."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Das hebr. צב (Lev. 11, 29), wofür der Talmud auch ובוני (Nidda\n56, a; Aruch liest: זבוני*)\nhat, übersehen auffallender Weise alle Lexi-\ncographen des Talmuds irrthümlich mit Schildkröte (§. 285), ob-\ngleich mehrere Talmudstellen über die richtige Natur des Thieres nicht\nden geringsten Zweifel lassen. Teharoth 5, 1 handelt es sich darum,\nob der, welcher ein Thier berührt hat und nicht weiß, ob es ein\nFrosch (ist nicht verunreinigend), oder ein צב (das verunreinigt) gewe-\nsen, unrein werden soll. Die Commentare erwähnen ausdrücklich, daß\nder Frosch und der צב sich täuschend ähnlich sehen; demnach kann צב\nnicht die durch ihr Haus kenntliche Schildkröte, sondern die gemeine\nKröte sein, die ja noch bei uns von dem Unkundigen mit dem Frosch\nverwechselt wird. Die Kröte unterscheidet sich bekanntlich von dem\nFrosche dadurch, daß sie einen breitern Körper und kürzere Füße\nhat, und so ist es zugleich erklärlich, daß nur die Kröte wegen ihrer\nKurzfüßigkeit im eigentlichen Sinne ein שרץ (§. 269) und demnach ver-\nunreinigend ist. — Die Aehnlichkeit beider Thiere wird auch Ketuboth\n15, a und Kiduschin 80, a angegeben. — Am entscheidendsten aber\nist die Stelle in Maimuni (in der Einleitung zu der Ordnung Teha-\nroth). Er sagt: Nur die im Gesetze erwähnten Thiere (Lev. 11, 29—30)\nsind verunreinigend, nicht aber Schlangen, Frösche und טרטוקא. Die-\nses Wort ist das span. Tortuga, ital. Tartuga, die Schildkröte,\nworaus also zweifellos hervorgeht, daß צב nicht Schildkröte sein kann;\nweshalb Rappoport (תולדות דרבינו נתן S. 64) irrt, wenn er זבונא\nmit „Häuschen“ übersetzt und darunter das Gehäuse der Schildkröte\nverstehen will.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das hebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "צב"
+    },
+    {
+     "lang": "deu",
+     "text": " (Lev. 11, 29), wofür der Talmud auch "
+    },
+    {
+     "lang": "heb",
+     "text": "ובוני"
+    },
+    {
+     "lang": "deu",
+     "text": " (Nidda\n56, a; Aruch liest: "
+    },
+    {
+     "lang": "heb",
+     "text": "זבוני"
+    },
+    {
+     "lang": "deu",
+     "text": "*)\nhat, übersehen auffallender Weise alle Lexi-\ncographen des Talmuds irrthümlich mit Schildkröte (§. 285), ob-\ngleich mehrere Talmudstellen über die richtige Natur des Thieres nicht\nden geringsten Zweifel lassen. Teharoth 5, 1 handelt es sich darum,\nob der, welcher ein Thier berührt hat und nicht weiß, ob es ein\nFrosch (ist nicht verunreinigend), oder ein "
+    },
+    {
+     "lang": "heb",
+     "text": "צב"
+    },
+    {
+     "lang": "deu",
+     "text": " (das verunreinigt) gewe-\nsen, unrein werden soll. Die Commentare erwähnen ausdrücklich, daß\nder Frosch und der "
+    },
+    {
+     "lang": "heb",
+     "text": "צב"
+    },
+    {
+     "lang": "deu",
+     "text": " sich täuschend ähnlich sehen; demnach kann "
+    },
+    {
+     "lang": "heb",
+     "text": "צב\n"
+    },
+    {
+     "lang": "deu",
+     "text": "nicht die durch ihr Haus kenntliche Schildkröte, sondern die gemeine\nKröte sein, die ja noch bei uns von dem Unkundigen mit dem Frosch\nverwechselt wird. Die Kröte unterscheidet sich bekanntlich von dem\nFrosche dadurch, daß sie einen breitern Körper und kürzere Füße\nhat, und so ist es zugleich erklärlich, daß nur die Kröte wegen ihrer\nKurzfüßigkeit im eigentlichen Sinne ein "
+    },
+    {
+     "lang": "heb",
+     "text": "שרץ"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 269) und demnach ver-\nunreinigend ist. — Die Aehnlichkeit beider Thiere wird auch Ketuboth\n15, a und Kiduschin 80, a angegeben. — Am entscheidendsten aber\nist die Stelle in Maimuni (in der Einleitung zu der Ordnung Teha-\nroth). Er sagt: Nur die im Gesetze erwähnten Thiere (Lev. 11, 29—30)\nsind verunreinigend, nicht aber Schlangen, Frösche und "
+    },
+    {
+     "lang": "heb",
+     "text": "טרטוקא"
+    },
+    {
+     "lang": "deu",
+     "text": ". Die-\nses Wort ist das span. Tortuga, ital. Tartuga, die Schildkröte,\nworaus also zweifellos hervorgeht, daß "
+    },
+    {
+     "lang": "heb",
+     "text": "צב"
+    },
+    {
+     "lang": "deu",
+     "text": " nicht Schildkröte sein kann;\nweshalb Rappoport ("
+    },
+    {
+     "lang": "heb",
+     "text": "תולדות דרבינו נתן"
+    },
+    {
+     "lang": "deu",
+     "text": " S. 64) irrt, wenn er "
+    },
+    {
+     "lang": "heb",
+     "text": "זבונא\n"
+    },
+    {
+     "lang": "deu",
+     "text": "mit „Häuschen“ übersetzt und darunter das Gehäuse der Schildkröte\nverstehen will."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Man vergl. das pers.: وزغ زهر‌دار",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Man vergl. das pers.: "
+    },
+    {
+     "lang": "fas",
+     "text": "وزغ زهر‌دار"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3292,
+    2735
+   ],
+   [
+    3292,
+    2493
+   ]
+  ],
+  "input_tokens": 3347,
+  "output_tokens": 983,
+  "cost_usd": 0.0062,
+  "seconds": 8.3
+ }
+}

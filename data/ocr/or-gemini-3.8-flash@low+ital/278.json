@@ -1,0 +1,165 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "278 Die Mendola.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "278 Die Mendola."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "annimmt; am geschmackvollsten ist das aus der Lake der Maena *).\nDie Maena ist die gemeine Mendola (Sparus maena), sie gleicht\nganz dem Häring, aber mit zugerundetem Bauch, ist etwa sieben\nZoll lang, von kleinem Kopf, auf dem Rücken bleigrau, am Bauche\nsilberig, und hat einen schwarzen Fleck an den Seiten. Ueber\njeder Bauchflosse hat sie eine längliche spitze Schuppe, und eine eben\nsolche zwischen ihnen. Aus dieser Beschreibung (s. Voigt l. c. 3. S.\n181) geht hervor, daß die Mendola ein reiner Fisch ist, und sie ist\nwohl gemeint, wenn der Talmud daselbst bestimmt, daß das Sal\nconditus (gewürztes Salz) aus reinen Fischen zu kaufen gestattet\nist. Die unreinen Fische, aus welchen ebenfalls solches Salz bereitet\nund demnach zu kaufen verboten wird, sind nicht näher angegeben,\nund können daher hier nicht bestimmt werden.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "annimmt; am geschmackvollsten ist das aus der Lake der Maena *).\nDie Maena ist die gemeine Mendola ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sparus maena"
+    },
+    {
+     "lang": "deu",
+     "text": "), sie gleicht\nganz dem Häring, aber mit zugerundetem Bauch, ist etwa sieben\nZoll lang, von kleinem Kopf, auf dem Rücken bleigrau, am Bauche\nsilberig, und hat einen schwarzen Fleck an den Seiten. Ueber\njeder Bauchflosse hat sie eine längliche spitze Schuppe, und eine eben\nsolche zwischen ihnen. Aus dieser Beschreibung (s. Voigt l. c. 3. S.\n181) geht hervor, daß die Mendola ein reiner Fisch ist, und sie ist\nwohl gemeint, wenn der Talmud daselbst bestimmt, daß das Sal\nconditus (gewürztes Salz) aus reinen Fischen zu kaufen gestattet\nist. Die unreinen Fische, aus welchen ebenfalls solches Salz bereitet\nund demnach zu kaufen verboten wird, sind nicht näher angegeben,\nund können daher hier nicht bestimmt werden."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Plinius (ibid. 31, 7, 41) berichtet ferner, daß jenes gewonnene\nSalz mit hinzugefügten Gerüchen zugerichtet wurde, es diente dann\nan der Stelle von Gemüse und erregte den Appetit; man zog es so-\ngar der Fischsauce (Granum) vor. — Nach dieser Beschreibung wer-\nden die römischen Gourmands jenes Salz gewiß nicht verschmäht\nhaben, und so verstehen wir die Erklärung des Talmuds von מלח\nסלקונדית, welches die סלקונדרי רומי zu essen pflegen. Maimuni erklärt\nden letztern Ausdruck durch גדולי הנוצרים „angesehene Christen“, Bar-\ntenoro durch: גדולי רומי „angesehene Römer“ **), Raschi durch נחתומין\nשברומי „römische Bäcker.“ Keiner dieser Erklärer scheint die Natur\ndes Salis conditi gekannt zu haben; Maimuni hält סלקונדית sogar\nfür einen Ortsnamen; es scheint aber, daß man jene Gourmands\nmit Salconditi ironisch, oder als Schimpfname benannte. — Aruch\nliest סלוקחי רומי „Köche“, oder „Alles Gekochte“ in Rom.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Plinius (ibid. 31, 7, 41) berichtet ferner, daß jenes gewonnene\nSalz mit hinzugefügten Gerüchen zugerichtet wurde, es diente dann\nan der Stelle von Gemüse und erregte den Appetit; man zog es so-\ngar der Fischsauce ("
+    },
+    {
+     "lang": "lat",
+     "text": "Granum"
+    },
+    {
+     "lang": "deu",
+     "text": ") vor. — Nach dieser Beschreibung wer-\nden die römischen Gourmands jenes Salz gewiß nicht verschmäht\nhaben, und so verstehen wir die Erklärung des Talmuds von "
+    },
+    {
+     "lang": "heb",
+     "text": "מלח\nסלקונדית"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches die "
+    },
+    {
+     "lang": "heb",
+     "text": "סלקונדרי רומי"
+    },
+    {
+     "lang": "deu",
+     "text": " zu essen pflegen. Maimuni erklärt\nden letztern Ausdruck durch "
+    },
+    {
+     "lang": "heb",
+     "text": "גדולי הנוצרים"
+    },
+    {
+     "lang": "deu",
+     "text": " „angesehene Christen“, Bar-\ntenoro durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "גדולי רומי"
+    },
+    {
+     "lang": "deu",
+     "text": " „angesehene Römer“ **), Raschi durch "
+    },
+    {
+     "lang": "heb",
+     "text": "נחתומין\nשברומי"
+    },
+    {
+     "lang": "deu",
+     "text": " „römische Bäcker.“ Keiner dieser Erklärer scheint die Natur\ndes Salis conditi gekannt zu haben; Maimuni hält "
+    },
+    {
+     "lang": "heb",
+     "text": "סלקונדית"
+    },
+    {
+     "lang": "deu",
+     "text": " sogar\nfür einen Ortsnamen; es scheint aber, daß man jene Gourmands\nmit Salconditi ironisch, oder als Schimpfname benannte. — Aruch\nliest "
+    },
+    {
+     "lang": "heb",
+     "text": "סלוקחי רומי"
+    },
+    {
+     "lang": "deu",
+     "text": " „Köche“, oder „Alles Gekochte“ in Rom."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Quin et e muria salsamentorum recoquitur, iterumque consumpto\nliquore ad naturam suam redit, vulgo e maenis jucundissimus.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Quin et e muria salsamentorum recoquitur, iterumque consumpto\nliquore ad naturam suam redit, vulgo e maenis jucundissimus."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Man vergl. die Erklärung Bartenoro’s zu Terumoth 2, 5 von מאכל\nפוליטיקין u. ob. §. 184 über die Bevorzugung der Städtebewohner.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Man vergl. die Erklärung Bartenoro’s zu Terumoth 2, 5 von "
+    },
+    {
+     "lang": "heb",
+     "text": "מאכל\nפוליטיקין"
+    },
+    {
+     "lang": "deu",
+     "text": " u. ob. §. 184 über die Bevorzugung der Städtebewohner."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    1804
+   ],
+   [
+    3308,
+    2708
+   ]
+  ],
+  "input_tokens": 3325,
+  "output_tokens": 1309,
+  "cost_usd": 0.0074,
+  "seconds": 16.9
+ }
+}

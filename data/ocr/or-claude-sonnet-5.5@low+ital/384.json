@@ -1,0 +1,825 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "384",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "384"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hebräisches und aramäisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hebräisches und aramäisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "ברדא 187.\nברדלא 62.\nברדלס 72. 76. 90.\nברחא 119. 123.\nברחא j. ברחה.\nבת יענה 188.\nבת מוגא חמרא 186.\nבת נעמיתא 188.\nבת קברייא 175.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "ברדא"
+    },
+    {
+     "lang": "deu",
+     "text": " 187.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ברדלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 62.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ברדלס"
+    },
+    {
+     "lang": "deu",
+     "text": " 72. 76. 90.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ברחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 119. 123.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ברחא"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "ברחה"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בת יענה"
+    },
+    {
+     "lang": "deu",
+     "text": " 188.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בת מוגא חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " 186.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בת נעמיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 188.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בת קברייא"
+    },
+    {
+     "lang": "deu",
+     "text": " 175."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "גלאקטינון 370.\nגלאקסינון 366.\nגמל 134.\nגמל j. גמלא טייעא.\nגמל j. גמלא פרחא\nגמל j. גמלא פרסא.\nגנונים 336.\nגנ j. גם.\nגענעא 232.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "גלאקטינון"
+    },
+    {
+     "lang": "deu",
+     "text": " 370.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גלאקסינון"
+    },
+    {
+     "lang": "deu",
+     "text": " 366.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גמל"
+    },
+    {
+     "lang": "deu",
+     "text": " 134.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גמל"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "גמלא טייעא"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גמל"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "גמלא פרחא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גמל"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "גמלא פרסא"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "גנונים"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גנ"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "גם"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גענעא"
+    },
+    {
+     "lang": "deu",
+     "text": " 232."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ג.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ג."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ד.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ד."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "גרי 123.\nגרי j. גריא.\nגריא חויוא 123.\nגריאן 292.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "גרי"
+    },
+    {
+     "lang": "deu",
+     "text": " 123.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גרי"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "גריא"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גריא חויוא"
+    },
+    {
+     "lang": "deu",
+     "text": " 123.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גריאן"
+    },
+    {
+     "lang": "deu",
+     "text": " 292."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "ראה 167.\nדאציפי 203.\nדבורה 301. 361.\nדבר אחר 146.\nדברי 375.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "ראה"
+    },
+    {
+     "lang": "deu",
+     "text": " 167.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דאציפי"
+    },
+    {
+     "lang": "deu",
+     "text": " 203.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דבורה"
+    },
+    {
+     "lang": "deu",
+     "text": " 301. 361.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דבר אחר"
+    },
+    {
+     "lang": "deu",
+     "text": " 146.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דברי"
+    },
+    {
+     "lang": "deu",
+     "text": " 375."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "גוב 287.\nגוב j. גובאי.\nגובי 297.\nגוב j. גוביי.\nגולדנא 262.\nגוצי וסומקי 171.\nגור 1. 68. 308.\nגוריא 68.\nגורי פרסייא 71. 370.\nגורייתא 68, 82.\nגורייתא קיסנייתא 87.\nגז 164.\nגזי 232. 303.\nגזין 297. 303. 311.\nגזם 297.\nגידרונא 144.\nגידרונא j. גיידור.\nגילדנא 262. 272.\nגילדנא דבי גילי 262.\nגילדנא דימא 272.\nגידרונא j. גירדונא.\nגירותא 179. 274.\nגלא 91.\nגלא דנהרא 233.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "גוב"
+    },
+    {
+     "lang": "deu",
+     "text": " 287.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גוב"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "גובאי"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גובי"
+    },
+    {
+     "lang": "deu",
+     "text": " 297.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גוב"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "גוביי"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גולדנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 262.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גוצי וסומקי"
+    },
+    {
+     "lang": "deu",
+     "text": " 171.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גור"
+    },
+    {
+     "lang": "deu",
+     "text": " 1. 68. 308.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גוריא"
+    },
+    {
+     "lang": "deu",
+     "text": " 68.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גורי פרסייא"
+    },
+    {
+     "lang": "deu",
+     "text": " 71. 370.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גורייתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 68, 82.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גורייתא קיסנייתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 87.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גז"
+    },
+    {
+     "lang": "deu",
+     "text": " 164.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גזי"
+    },
+    {
+     "lang": "deu",
+     "text": " 232. 303.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גזין"
+    },
+    {
+     "lang": "deu",
+     "text": " 297. 303. 311.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גזם"
+    },
+    {
+     "lang": "deu",
+     "text": " 297.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גידרונא"
+    },
+    {
+     "lang": "deu",
+     "text": " 144.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גידרונא"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "גיידור"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גילדנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 262. 272.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גילדנא דבי גילי"
+    },
+    {
+     "lang": "deu",
+     "text": " 262.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גילדנא דימא"
+    },
+    {
+     "lang": "deu",
+     "text": " 272.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גידרונא"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "גירדונא"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גירותא"
+    },
+    {
+     "lang": "deu",
+     "text": " 179. 274.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 91.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גלא דנהרא"
+    },
+    {
+     "lang": "deu",
+     "text": " 233."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "דבורה j. דבריאתי.\nדג המצרי 273.\nדגה 5. 372.\nדגי רקק 363.\nדואר 370.\nדוב 99.\nדובא 81. 99. 366.\nדוביא 129.\nדודבא 312. 318.\nדודבא j. דודבתא.\nדוכיפת 216.\nדולפנין 153.\nדידבתא ביני כיפי 315.\nדיה 167.\nדיה חיורתא 172.\nדיה לבנה 171.\nדיה רגונית 169.\nדין 167.\nדאציפי j. דייציפי.\nדייתא 90.\nדיכרי 118.\nדירה 308. 311.\nדישן 151.\nדר 347.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "דבורה"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "דבריאתי"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דג המצרי"
+    },
+    {
+     "lang": "deu",
+     "text": " 273.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דגה"
+    },
+    {
+     "lang": "deu",
+     "text": " 5. 372.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דגי רקק"
+    },
+    {
+     "lang": "deu",
+     "text": " 363.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דואר"
+    },
+    {
+     "lang": "deu",
+     "text": " 370.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דוב"
+    },
+    {
+     "lang": "deu",
+     "text": " 99.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דובא"
+    },
+    {
+     "lang": "deu",
+     "text": " 81. 99. 366.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דוביא"
+    },
+    {
+     "lang": "deu",
+     "text": " 129.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דודבא"
+    },
+    {
+     "lang": "deu",
+     "text": " 312. 318.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דודבא"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "דודבתא"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דוכיפת"
+    },
+    {
+     "lang": "deu",
+     "text": " 216.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דולפנין"
+    },
+    {
+     "lang": "deu",
+     "text": " 153.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דידבתא ביני כיפי"
+    },
+    {
+     "lang": "deu",
+     "text": " 315.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דיה"
+    },
+    {
+     "lang": "deu",
+     "text": " 167.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דיה חיורתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 172.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דיה לבנה"
+    },
+    {
+     "lang": "deu",
+     "text": " 171.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דיה רגונית"
+    },
+    {
+     "lang": "deu",
+     "text": " 169.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דין"
+    },
+    {
+     "lang": "deu",
+     "text": " 167.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דאציפי"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "arc",
+     "text": "דייציפי"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דייתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 90.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דיכרי"
+    },
+    {
+     "lang": "deu",
+     "text": " 118.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דירה"
+    },
+    {
+     "lang": "deu",
+     "text": " 308. 311.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דישן"
+    },
+    {
+     "lang": "deu",
+     "text": " 151.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דר"
+    },
+    {
+     "lang": "deu",
+     "text": " 347."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2948,
+    2101
+   ],
+   [
+    2948,
+    3099
+   ]
+  ],
+  "input_tokens": 11367,
+  "output_tokens": 3578,
+  "cost_usd": 0.0585,
+  "seconds": 19.1
+ }
+}

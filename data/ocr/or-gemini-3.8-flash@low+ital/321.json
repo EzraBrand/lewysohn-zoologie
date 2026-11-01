@@ -1,0 +1,241 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Seidenmotte. — Die Pelzmotte.\t321",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Seidenmotte. — Die Pelzmotte.\t321"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 440.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 440."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. In der im vorhergehenden Artikel citirten Talmud=\nftelle werden vier Insecten erwähnt, sie heißen מקק ספרים (Papier=\nlaus, §. 439), חכך דשיראי (Seidenmotte, §. 441), פח דתאנה (Fei=\ngengallwespe, §. 407) und אילא דעינבא (Traubenkäfer, §. 417); hier=\nmit vergleiche man die Stelle im מדרש לעולם (von R. Israel al=\nNakwa; ed. Jellinek, Leipzig 1855) Abh. 20, welche lautet: לעולם\nיוהר אדם ממקק סופרים (פירוש אבק שמשימין הסופרים על כתיבתן כדי\nשלא תמחק), מסכך דשיארי (פירוש הטט שעל המלח) ומפח דתאיני (פי׳\nעיפוש התאנים) מאילא דעינבי (פירוש כמו עכבוש שעל הענבים) מפני שרברים\nאלה מזיקין ואף כסם המות. Hiernach wären statt der Insecten andere\nschädliche Dinge, und zwar Streusand, am Salze haftender Gyps,\nder Schimmel an Feigen und das Spinngewebe auf den Weintrau=\nben gemeint; jedenfalls sind die so sehr abweichenden Variationen\nnicht ohne Interesse.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. In der im vorhergehenden Artikel citirten Talmud=\nftelle werden vier Insecten erwähnt, sie heißen "
+    },
+    {
+     "lang": "arc",
+     "text": "מקק ספרים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Papier=\nlaus, §. 439), "
+    },
+    {
+     "lang": "arc",
+     "text": "חכך דשיראי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Seidenmotte, §. 441), "
+    },
+    {
+     "lang": "arc",
+     "text": "פח דתאנה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Fei=\ngengallwespe, §. 407) und "
+    },
+    {
+     "lang": "arc",
+     "text": "אילא דעינבא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Traubenkäfer, §. 417); hier=\nmit vergleiche man die Stelle im "
+    },
+    {
+     "lang": "heb",
+     "text": "מדרש לעולם"
+    },
+    {
+     "lang": "deu",
+     "text": " (von R. Israel al=\nNakwa; ed. Jellinek, Leipzig 1855) Abh. 20, welche lautet: "
+    },
+    {
+     "lang": "heb",
+     "text": "לעולם\nיוהר אדם ממקק סופרים (פירוש אבק שמשימין הסופרים על כתיבתן כדי\nשלא תמחק), מסכך דשיארי (פירוש הטט שעל המלח) ומפח דתאיני (פי׳\nעיפוש התאנים) מאילא דעינבי (פירוש כמו עכבוש שעל הענבים) מפני שרברים\nאלה מזיקין ואף כסם המות."
+    },
+    {
+     "lang": "deu",
+     "text": " Hiernach wären statt der Insecten andere\nschädliche Dinge, und zwar Streusand, am Salze haftender Gyps,\nder Schimmel an Feigen und das Spinngewebe auf den Weintrau=\nben gemeint; jedenfalls sind die so sehr abweichenden Variationen\nnicht ohne Interesse."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 441.\nDie Seidenmotte.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 441.\nDie Seidenmotte."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Seidenmotte heißt חכך דשיראי „Zernagerin der Seide\" (Sab-\nbat 90, a). Aruch erklärt: Ein Wurm, welcher aus lange verschlos=\nsen gehaltener Seide entsteht. — Zu Berachoth 56, a heißt sie תכלא\n„Verderberin\"; in beiden Stellen ist von Seide die Rede, denn\nשיראי ist die serische feine Seide. Vergl. §. 509.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Seidenmotte heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "חכך דשיראי"
+    },
+    {
+     "lang": "deu",
+     "text": " „Zernagerin der Seide\" (Sab-\nbat 90, a). Aruch erklärt: Ein Wurm, welcher aus lange verschlos=\nsen gehaltener Seide entsteht. — Zu Berachoth 56, a heißt sie "
+    },
+    {
+     "lang": "arc",
+     "text": "תכלא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n„Verderberin\"; in beiden Stellen ist von Seide die Rede, denn\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שיראי"
+    },
+    {
+     "lang": "deu",
+     "text": " ist die serische feine Seide. Vergl. §. 509."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 442.\nDie Pelzmotte.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 442.\nDie Pelzmotte."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "B. mez. 78, b wird erzählt, daß Jemand die Anzeige machte,\nes sei eine Motte in den מילתא des Königs gerathen. Raschi er=\nklärt das Wort durch שיראים (serische Seide, §. 441), doch unrichtig,\ndenn מילתא ist das gr. Μηλωτὴ, Schafspelz, welcher so heißt, weil\ner von der feinen Wolle des milesischen Schafes (§. 154) gefer=\ntigt wurde. Die Motte heißt אבזקת und ist die Tinea pellionella,\nsie hat graue Vorderflügel, auf welchen ein schwarzer Punkt ist, und\neinen graulichen Kopf (Voigt l. c. 5. S. 209).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "B. mez. 78, b wird erzählt, daß Jemand die Anzeige machte,\nes sei eine Motte in den "
+    },
+    {
+     "lang": "arc",
+     "text": "מילתא"
+    },
+    {
+     "lang": "deu",
+     "text": " des Königs gerathen. Raschi er=\nklärt das Wort durch "
+    },
+    {
+     "lang": "arc",
+     "text": "שיראים"
+    },
+    {
+     "lang": "deu",
+     "text": " (serische Seide, §. 441), doch unrichtig,\ndenn "
+    },
+    {
+     "lang": "arc",
+     "text": "מילתא"
+    },
+    {
+     "lang": "deu",
+     "text": " ist das gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Μηλωτὴ"
+    },
+    {
+     "lang": "deu",
+     "text": ", Schafspelz, welcher so heißt, weil\ner von der feinen Wolle des milesischen Schafes (§. 154) gefer=\ntigt wurde. Die Motte heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "אבזקת"
+    },
+    {
+     "lang": "deu",
+     "text": " und ist die "
+    },
+    {
+     "lang": "lat",
+     "text": "Tinea pellionella"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nsie hat graue Vorderflügel, auf welchen ein schwarzer Punkt ist, und\neinen graulichen Kopf (Voigt l. c. 5. S. 209)."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Zoologie des Talmuds.\t21",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zoologie des Talmuds.\t21"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2116
+   ],
+   [
+    3308,
+    3116
+   ]
+  ],
+  "input_tokens": 3319,
+  "output_tokens": 1760,
+  "cost_usd": 0.0091,
+  "seconds": 12.5
+ }
+}

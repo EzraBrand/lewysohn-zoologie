@@ -1,0 +1,429 @@
+{
+ "main": "or-claude-opus-5.5@low+ital",
+ "model": "anthropic/claude-opus-5.5",
+ "items": [
+  {
+   "page": 382,
+   "line": "אבזקת 122, 321.",
+   "main": "אבזקת",
+   "check": "אבוקת",
+   "confident": false,
+   "note": "Both readings fit the alphabetical slot before אבחטם. אבוקת ('torch') has no clear zoological sense, so the rarer form אבזקת is more likely, but I cannot verify it in the sources.",
+   "printed": "אבזקת"
+  },
+  {
+   "page": 382,
+   "line": "אדני שדה s. אבני שדה.",
+   "main": "אבני שדה אוח",
+   "check": "אוז",
+   "confident": false,
+   "note": "The line is a cross-reference ('s.') from אדני שדה to the entry אבני שדה, so A's אבני שדה fits; its trailing אוח looks bled in from the next line (אוח הים). B's אוז is the following entry, not this reference.",
+   "printed": "אבני שדה אוח"
+  },
+  {
+   "page": 382,
+   "line": "אווזא 190.",
+   "main": "אווזא",
+   "check": "אוזא",
+   "confident": false,
+   "note": "The later line 'אווזא s. אוזא' refers the reader to אוזא as the main entry. The marked line carries the page reference 190, so it is probably that main entry, אוזא. The alphabetical order is irregular, however, so this is uncertain.",
+   "printed": "אוזא"
+  },
+  {
+   "page": 382,
+   "line": "אווזא s. אוזא.",
+   "main": "אוזא אוטנום",
+   "check": "אוטנוס",
+   "confident": false,
+   "note": "The entry on p. 253 looks like a Greek loanword, probably a fish name. Greek words in rabbinic Hebrew usually end in ס, which favours אוטנוס over אוטנום. Reading A also seems to run the marked line's אוזא into the next entry. I am not sure of the printed form.",
+   "printed": "אוטנוס"
+  },
+  {
+   "page": 382,
+   "line": "אוזא 167.",
+   "main": "אוזא",
+   "check": "אזא",
+   "confident": false,
+   "note": "In this alphabetical index, אזא falls between אושכף and אחשתרנים, whereas אוזא would come before אורדען. Page 167 also holds איה, so a bird name is plausible, but I cannot identify the word itself.",
+   "printed": "אזא"
+  },
+  {
+   "page": 382,
+   "line": "אוטנום s. אטונום.",
+   "main": "אוטנום אטונום",
+   "check": "אוטנוס אטונס",
+   "confident": false,
+   "note": "Greek loanwords ending in -os (here likely θύννος, tuna) are normally written with final ס in rabbinic Hebrew. The ם reading looks like the usual ס/ם OCR confusion, but the exact entry could not be verified.",
+   "printed": "אוטנוס אטונס"
+  },
+  {
+   "page": 382,
+   "line": "אימרא בקתא 319.",
+   "main": "בקתא",
+   "check": "בקחא",
+   "confident": false,
+   "note": "בקתא is a plausible Aramaic form (ת/ח confusion common); בקחא is not a recognizable word, though I can't firmly identify the term at p. 319.",
+   "printed": "בקתא"
+  },
+  {
+   "page": 382,
+   "line": "אינבא 326.",
+   "main": "אינבא",
+   "check": "אינכא",
+   "confident": false,
+   "note": "אינבא is a known Talmudic Aramaic word (Jastrow lists a small creature/vermin sense), which fits a zoology index entry; אינכא is not an attested word.",
+   "printed": "אינבא"
+  },
+  {
+   "page": 383,
+   "line": "אינבא 326.",
+   "main": "אינבא",
+   "check": "איניבא",
+   "confident": false,
+   "note": "Both spellings sort correctly in this index, and both look like plausible Aramaic forms. The shorter form is a slight guess, since a spurious yod is a common OCR addition.",
+   "printed": "אינבא"
+  },
+  {
+   "page": 383,
+   "line": "אינקירי 193.",
+   "main": "אינקירי אירעי",
+   "check": "אינקוהי איקעי",
+   "confident": false,
+   "note": "Reading A matches the passage text and keeps the index alphabetical. Neither form is a word I can securely identify for these pages, so this is a guess.",
+   "printed": "אינקירי אירעי"
+  },
+  {
+   "page": 383,
+   "line": "אכספטיאם 259.",
+   "main": "אכספטיאם",
+   "check": "אכספטיאס",
+   "confident": false,
+   "note": "This looks like a Greek loanword, probably a fish name near p. 259. Greek -as/-os endings are normally written with ס, so B is more likely, but I cannot verify the printed form.",
+   "printed": "אכספטיאס"
+  },
+  {
+   "page": 383,
+   "line": "אליתא 351.",
+   "main": "אליתא",
+   "check": "אליחא",
+   "confident": false,
+   "note": "אליתא is attested Aramaic (the sheep's fat tail), while אליחא is not a known word. However, page 351 is unexpected for a sheep entry, so the choice rests mainly on what counts as a real word.",
+   "printed": "אליתא"
+  },
+  {
+   "page": 383,
+   "line": "אלתית 272.",
+   "main": "אלתית אמבטם",
+   "check": "אלחיח אמבטס",
+   "confident": false,
+   "note": "In this alphabetical index, אלת correctly follows אלמוג, whereas אלח would sort before it. This favours אלתית. However, the second word may be a Greek loanword ending in ס (-os), which favours B's אמבטס, so the evidence is mixed.",
+   "printed": "אלתית אמבטם"
+  },
+  {
+   "page": 383,
+   "line": "אסקרין 297.",
+   "main": "אסקרין",
+   "check": "אסכרין",
+   "confident": true,
+   "note": "The index is strictly alphabetical, and an entry after אספרון needs ק, not כ, after ס. The form likely renders Greek σκάρος (scarus, a fish), suiting p. 297.",
+   "printed": "אסקרין"
+  },
+  {
+   "page": 383,
+   "line": "אפונם 258.",
+   "main": "אפונם",
+   "check": "אפונס",
+   "confident": false,
+   "note": "This looks like a Greek loanword, and those are usually transliterated with a final ס (-os). The paired entry on the same page (אקונ_ 258) suggests variant spellings of one Greek-derived term. The exact word is not identified.",
+   "printed": "אפונס"
+  },
+  {
+   "page": 383,
+   "line": "אקונם 258.",
+   "main": "אקונם אקנקיתא",
+   "check": "אקונס אקנקיחא",
+   "confident": false,
+   "note": "The marked word looks like a Greek-derived fish name, and such loanwords normally end in final ס, so אקונס is more plausible than אקונם. However, B's second word אקנקיחא looks wrong (the expected Aramaic ending is -תא), so this is a lean, not a sure call.",
+   "printed": "אקונס אקנקיחא"
+  },
+  {
+   "page": 383,
+   "line": "ארוד 143.",
+   "main": "ארוד אורזילא ארזילא",
+   "check": "ארור ארוילא ארוילא",
+   "confident": true,
+   "note": "ארוד is a known rabbinic animal name (a lizard-like creature, cf. ערוד), and ארזילא (\"young gazelle\") is a known word. Reading B gives ארור (\"cursed\"), which is not an animal name, and ארוילא, which is not a word.",
+   "printed": "ארוד אורזילא ארזילא"
+  },
+  {
+   "page": 383,
+   "line": "אתון 140.",
+   "main": "אתון",
+   "check": "אחון",
+   "confident": true,
+   "note": "אתון (she-ass) is a standard Hebrew word and fits the alphabetical index between אשת and ב; אחון is not a word.",
+   "printed": "אתון"
+  },
+  {
+   "page": 383,
+   "line": "בזאי 165.",
+   "main": "בזאי",
+   "check": "בואי",
+   "confident": true,
+   "note": "The index is alphabetical, and בזאי fits between בופלש and בטנאי, whereas בואי would have to precede בוכיא. בזאי (Aramaic for hawks or falcons) also suits entry 165, which plausibly falls in the bird section.",
+   "printed": "בזאי"
+  },
+  {
+   "page": 383,
+   "line": "ברבורים 194.",
+   "main": "ברבורים",
+   "check": "ברכורים",
+   "confident": true,
+   "note": "ברבורים (barburim, fattened fowl, 1 Kings 5:3) is the known biblical/Talmudic bird term, discussed among the birds around p.194; ברכורים is not a word.",
+   "printed": "ברבורים"
+  },
+  {
+   "page": 383,
+   "line": "בר אחא 193.",
+   "main": "אחא",
+   "check": "אוזא",
+   "confident": true,
+   "note": "This is an index of animal names, and p. 193 falls among the birds, next to ברבורים (swans) on p. 194. בר אוזא is the wild goose named in the Talmud (Chullin 62a). בר אחא is only a personal name.",
+   "printed": "אוזא"
+  },
+  {
+   "page": 383,
+   "line": "בר גוא 164.",
+   "main": "גוא",
+   "check": "גזא",
+   "confident": false,
+   "note": "The next line repeats the same headword as a cross-reference ('בר גוא s. בר גוין'), which suggests the spelling בר גוא. בר גזא would also sit out of alphabetical order before it. I could not identify the Talmudic source behind §164, so this is a guess.",
+   "printed": "גוא"
+  },
+  {
+   "page": 383,
+   "line": "בר גוא .s. בר גוין.",
+   "main": "גוא",
+   "check": "גזא",
+   "confident": false,
+   "note": "In this alphabetical index the line follows 'בר גוא 164', so a second identical entry would be odd. בר גזא fits the ordering (ו before ז) as a variant cross-referenced to בר גוין. I could not confirm the printed form, so this rests on index ordering.",
+   "printed": "גזא"
+  },
+  {
+   "page": 383,
+   "line": "בר גוא .s. בר גוין.",
+   "main": "גוין",
+   "check": "גנין",
+   "confident": false,
+   "note": "This is an index cross-reference from בר גוא, so the target is probably a spelling variant of the same word. גוין keeps the גו- root of גוא, which makes A the more plausible reading; this is an informed guess.",
+   "printed": "גוין"
+  },
+  {
+   "page": 384,
+   "line": "ברחה .f ברחא.",
+   "main": "ברחא",
+   "check": "גמל גמלא פרחא",
+   "confident": true,
+   "note": "This is an index line: \"ברחה s. ברחא\" is a cross-reference to the preceding entry ברחא. Reading B, \"גמל גמלא פרחא\", is a run-on of other entries and does not fit this line.",
+   "printed": "ברחא"
+  },
+  {
+   "page": 384,
+   "line": "בת מוגא חמרא 186.",
+   "main": "מוגא",
+   "check": "מונא",
+   "confident": false,
+   "note": "I faintly recall Jastrow listing a clean bird named 'bat moga hamra' (Hullin 62b), which favours מוגא. The difference is only ג versus נ, so this is a guess.",
+   "printed": "מוגא"
+  },
+  {
+   "page": 384,
+   "line": "גדיא .f גדי.",
+   "main": "גדי",
+   "check": "דאציפי",
+   "confident": true,
+   "note": "This is an index cross-reference, 'גדיא s. גדי' ('see גדי'), so the target must be גדי. It is listed alphabetically right above. דאציפי is not a word and does not fit.",
+   "printed": "גדי"
+  },
+  {
+   "page": 384,
+   "line": "גדיא חזיזא 123.",
+   "main": "חזיזא",
+   "check": "חויוא דבורה",
+   "confident": true,
+   "note": "This is an alphabetical index line, so it holds a single entry, 'גדיא חזיזא 123', which sits next to the entry for גדי on the same page. B's 'חויוא דבורה' shows the ו/ז confusion and adds a stray word that does not fit the index format.",
+   "printed": "חזיזא"
+  },
+  {
+   "page": 384,
+   "line": "גוביי .f גוב.",
+   "main": "גוב",
+   "check": "דגי רקק",
+   "confident": true,
+   "note": "This is an alphabetical index, and the entry \"גוביי s. גוב\" is a cross-reference to גוב, matching the line \"גובאי s. גוב\" just above. \"דגי רקק\" does not fit the alphabetical position or the cross-reference form.",
+   "printed": "גוב"
+  },
+  {
+   "page": 384,
+   "line": "גיידור .f גידרונא.",
+   "main": "גידרונא",
+   "check": "דיה רגזנית",
+   "confident": true,
+   "note": "This is an index line, \"גיידור s. גידרונא\", a cross-reference to the headword גידרונא listed just above. דיה רגזנית does not fit the alphabetical ג sequence.",
+   "printed": "גידרונא"
+  },
+  {
+   "page": 384,
+   "line": "גירדונא .f גידרונא.",
+   "main": "גידרונא גירותא",
+   "check": "דיכרי גירוחא דירה",
+   "confident": true,
+   "note": "The marked index line is the cross-reference 'גירדונא, s. גידרונא', and the next entry is 'גירותא'. Reading A matches these real headwords. Reading B (דיכרי גירוחא דירה) does not fit the alphabetical sequence; גירוחא is a ח/ת misreading of גירותא.",
+   "printed": "גידרונא גירותא"
+  },
+  {
+   "page": 385,
+   "line": "חוורנס 370.",
+   "main": "חוורנס",
+   "check": "חוורנם",
+   "confident": false,
+   "note": "This is an index entry with no gloss, so the choice rests on form alone. The ending -נס looks like a transliterated Greek -nos loanword, which fits a bird name here (entries near 353–370 seem to be birds). חוורנם has no recognisable Hebrew or Aramaic form.",
+   "printed": "חוורנס"
+  },
+  {
+   "page": 385,
+   "line": "זבוגי s. זבוגי.",
+   "main": "זבוגי זגי זגתא זחל",
+   "check": "זני זגחא זהל",
+   "confident": true,
+   "note": "Reading A matches the index entries that follow: זגי (303), זגתא (194, the Aramaic word for 'hen') and זחל (297, 'to creep'). Reading B's זני, זגחא and זהל are ג/נ and ח/ת/ה letter confusions that do not form the expected words.",
+   "printed": "זבוגי זגי זגתא זחל"
+  },
+  {
+   "page": 385,
+   "line": "זיזין שבעדשים 310.",
+   "main": "שבעדשים",
+   "check": "שבערשים",
+   "confident": true,
+   "note": "The rabbinic phrase is זיזין שבעדשים, meaning weevils/insects found in lentils (Mishnah Terumot, Chullin 67b). The form שבערשים, \"in beds,\" makes no sense here.",
+   "printed": "שבעדשים"
+  },
+  {
+   "page": 385,
+   "line": "זקיטא s. זקיתא.",
+   "main": "זקיתא",
+   "check": "זקיחא",
+   "confident": true,
+   "note": "This is a cross-reference from the variant זקיטא to the standard Talmudic form, the creature זקיתא (Jastrow also gives זיקתא). ט/ת interchange is a normal spelling variation, whereas זקיחא is not a known word.",
+   "printed": "זקיתא"
+  },
+  {
+   "page": 385,
+   "line": "חיפושתא גמלניתא 306.",
+   "main": "חיפושתא",
+   "check": "חיפושחא",
+   "confident": true,
+   "note": "חיפושתא גמלניתא is the Talmudic Aramaic term for a large beetle (Bava Kamma 80a). It ends in the Aramaic emphatic -תא; 'חיפושחא' is not a word, the result of a ת/ח OCR confusion.",
+   "printed": "חיפושתא"
+  },
+  {
+   "page": 385,
+   "line": "חית נכר 146.",
+   "main": "נכר",
+   "check": "נבר",
+   "confident": false,
+   "note": "נכר ('foreign') is a real Hebrew word; נבר is not a recognisable word. However, I cannot confirm the actual entry at §146.",
+   "printed": "נכר"
+  },
+  {
+   "page": 386,
+   "line": "חפיתא 371.",
+   "main": "חפיתא",
+   "check": "חפוחא",
+   "confident": false,
+   "note": "Index entry; חפיתא looks like a plausible Aramaic creature name (possibly an insect/reptile) on page 371 next to חרדון. חפוחא is not a known form, but this is a guess.",
+   "printed": "חפיתא"
+  },
+  {
+   "page": 386,
+   "line": "חרזא 94.",
+   "main": "חרזא",
+   "check": "חרוא",
+   "confident": false,
+   "note": "The next entry, חרצא, is on the same page (94), which suggests a ז/צ spelling variant of one word. That favours חרזא over חרוא, but I am inferring from the index pattern, not recalling the word itself.",
+   "printed": "חרזא"
+  },
+  {
+   "page": 386,
+   "line": "טווס 189.",
+   "main": "טווס",
+   "check": "טוס",
+   "confident": true,
+   "note": "This is an alphabetical index, and the entry sits among טו-ו forms (טווח, טווית) before טונוס. טוס would sort after טונוס, so the placement fits טווס. טווס is the standard Talmudic word for peacock, which matches p. 189.",
+   "printed": "טווס"
+  },
+  {
+   "page": 386,
+   "line": "טווית 299.",
+   "main": "טווית",
+   "check": "טיוות",
+   "confident": true,
+   "note": "In this alphabetical index the entry falls between טווח and טונוס, which requires a ט-ו-ו spelling, so it fits טווית. טיוות would have to come after טור. טווית (\"spinning\") also suits p. 299, plausibly the spider/insect section.",
+   "printed": "טווית"
+  },
+  {
+   "page": 386,
+   "line": "טפזא 110. 371.",
+   "main": "טפזא",
+   "check": "טמא",
+   "confident": false,
+   "note": "This is an index of animal names. טפזא fits alphabetically between טליה and טרית and is plausible as an animal term. טמא ('unclean') is unlikely as an index heading, but I cannot confirm טפזא as an attested word, so this is a guess.",
+   "printed": "טפזא"
+  },
+  {
+   "page": 386,
+   "line": "טריתא 255.",
+   "main": "טריתא",
+   "check": "טריחא",
+   "confident": true,
+   "note": "This is an index entry directly after טרית 255 with the same page, so it is the Aramaic emphatic form טריתא (a small fish, cf. ציר טרית). טריחא is not the word here.",
+   "printed": "טריתא"
+  },
+  {
+   "page": 386,
+   "line": "יתוש 315. 365.",
+   "main": "יתוש יתוש שבכליסים",
+   "check": "יחוש יחוש שבכלכיסים",
+   "confident": true,
+   "note": "The headword is יתוש ('gnat'). Reading B's יחוש is a ח/ת confusion and not a word. That alone favours A, though I have not checked its second word (כליסים vs כלכיסים) against the source.",
+   "printed": "יתוש יתוש שבכליסים"
+  },
+  {
+   "page": 386,
+   "line": "כורנא 144.",
+   "main": "כורנא כורנייתא",
+   "check": "כודנא כודנייתא",
+   "confident": true,
+   "note": "כודנא / כודנייתא is the Aramaic for mule and female mule, which fits the mammal entries on p. 144. The index's alphabetical order (כוביא, כוד-, then כוחילנא) requires ד before ח; ר would sort after ח, so כורנא is out of place.",
+   "printed": "כודנא כודנייתא"
+  },
+  {
+   "page": 386,
+   "line": "כירנא 144.",
+   "main": "כירנא",
+   "check": "כידנא",
+   "confident": false,
+   "note": "כידנא matches the Aramaic word for mule (כודנא/כודניתא), which fits a mammal entry around p. 144. כירנא is not a word I recognize. The alphabetical order of the index does not distinguish ד from ר here, so this rests on meaning alone.",
+   "printed": "כידנא"
+  },
+  {
+   "page": 386,
+   "line": "כיליי 232. 233. 373.",
+   "main": "כיליי",
+   "check": "כילי",
+   "confident": false,
+   "note": "Both readings fit the alphabetical slot between כילבית and כילכית. The single-yod form כילי looks like a more plausible headword (cf. כילתא nearby), but I can't identify the term, so this is a guess.",
+   "printed": "כילי"
+  }
+ ]
+}

@@ -123,15 +123,16 @@ def _span(profile: np.ndarray, thr: float, gap: int) -> tuple[int, int]:
     return int(starts[k]), int(ends[k])
 
 
-def text_box(gray: Image.Image) -> tuple[int, int, int, int]:
+def text_box(gray: Image.Image, gap: float = 0.04) -> tuple[int, int, int, int]:
     """Bounding box of the text block, without the scan borders around the page."""
     small = np.asarray(gray.reduce(4)) < 140
     h, w = small.shape
     # blank out border lines (rows/columns that are mostly ink), then find the text block
     small[small.mean(axis=1) > 0.25, :] = False
     small[:, small.mean(axis=0) > 0.25] = False
-    # gap 4%: bridges the space left by a removed column rule (two-column contents pages)
-    x0, x1 = _span(small.mean(axis=0), 0.003, int(w * 0.04))
+    # gap 4%: bridges the space left by a removed column rule (two-column contents pages);
+    # the registers need more (their column gap is wider): --columns passes 0.15
+    x0, x1 = _span(small.mean(axis=0), 0.003, int(w * gap))
     rows = small[:, x0:x1].mean(axis=1)
     rows = np.where(rows > 0.4, 0, rows)
     ys = np.flatnonzero(rows > 0.002)
@@ -148,8 +149,14 @@ def text_box(gray: Image.Image) -> tuple[int, int, int, int]:
 def page_images(path: Path) -> list[Image.Image]:
     """Crop to the text block; cut in two at a blank row if the page is tall."""
     gray = Image.open(path).convert("L")
-    page = gray.crop(text_box(gray))
+    columns = getattr(ARGS, "columns", False)
+    page = gray.crop(text_box(gray, 0.15 if columns else 0.04))
     w, h = page.size
+    if columns:  # two-column registers: cut at the blank gap near the middle
+        ink = (np.asarray(page) < 140).mean(axis=0)
+        lo, hi = int(w * 0.4), int(w * 0.6)
+        cut = lo + int(np.argmin(np.convolve(ink[lo:hi], np.ones(15) / 15, "same")))
+        return [page.crop((0, 0, cut, h)), page.crop((cut, 0, w, h))]
     if h <= MAX_EDGE * 1.1 or h < 1.3 * w:
         return [page]
     ink = (np.asarray(page) < 140).mean(axis=1)
@@ -192,7 +199,10 @@ def run_openrouter(path: Path) -> dict:
     imgs = page_images(path)
     content = [{"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{jpeg_b64(im)}"}}
                for im in imgs]
-    content.append({"type": "text", "text": PROMPT.format(n=len(imgs))
+    cols = ("\nCorrection: here the two images are the LEFT and the RIGHT column of a two-column page "
+            "(a register), not top and bottom. Transcribe the whole left column, then the whole right "
+            "column; one entry per line.") if getattr(ARGS, "columns", False) else ""
+    content.append({"type": "text", "text": PROMPT.format(n=len(imgs)) + cols
                     + "\nAnswer with the JSON object only."})
     t = time.monotonic()
     r = requests.post(
@@ -283,6 +293,7 @@ def main():
     p.add_argument("--model", help="openrouter model id, e.g. google/gemini-3.1-pro-preview")
     p.add_argument("--tag", default="", help="suffix for the output folder, e.g. a prompt version")
     p.add_argument("--force", action="store_true")
+    p.add_argument("--columns", action="store_true", help="send the left and right column as two images (registers)")
     ARGS = p.parse_args()
     # output folder per engine; one folder per OpenRouter model
     name = f"or-{ARGS.model.split('/')[-1]}@{ARGS.effort}" if ARGS.engine == "openrouter" else ARGS.engine

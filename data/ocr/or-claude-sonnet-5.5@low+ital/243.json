@@ -1,0 +1,297 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Cerast. — Fische.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Cerast. — Fische."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "243",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "243"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 302.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 302."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Cerast.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Cerast."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Cerast oder die gehörnte Schlange (Caluber cerastes) lebt\nin Aegypten und Palästina und verbirgt sich gemeiniglich im Sande.\nEs ist der bibl. שפיפון (s. Winer R.=Wt. 1. S. 216 und Rosenmül=\nler a. a. O. 4, 2. S. 380*). Die Tosephot (Chulin 10, a s. v. וישרצו)\nsagen: Er vergräbt sich außerordentlich schnell in den Boden und ist\ngiftig. — Der Midr. (R. Bereschit fol. 113, col. 3) sagt, daß alle\nThiere paarweise**) umherstreifen, nur der שפיפון zieht einsam seines\nWeges und ist rachsüchtig (§. 35). Ferner (ibid. fol. 111, col. 2),\ndaß das Gift des שפיפון auch nach seinem Tode wirke, und daß des=\nsen Hauptkraft in seinem Kopfe bestehe. — Reggio (zu Gen. 49, 17)\nhält den שפיפון für eine kleine dünne Schlange, die auf Bäumen sich\naufhält und von dort auf ihre Beute herabschießt; im Jeruschalmi\n(Terumoth 45, d) heißt es: מין קטן הוא ושפיפון שמו והוא דומה לשערה,\n„eine kleine haarähnliche Schlange.“",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Cerast oder die gehörnte Schlange "
+    },
+    {
+     "lang": "lat",
+     "text": "(Caluber cerastes)"
+    },
+    {
+     "lang": "deu",
+     "text": " lebt\nin Aegypten und Palästina und verbirgt sich gemeiniglich im Sande.\nEs ist der bibl. "
+    },
+    {
+     "lang": "heb",
+     "text": "שפיפון"
+    },
+    {
+     "lang": "deu",
+     "text": " (s. Winer R.=Wt. 1. S. 216 und Rosenmül=\nler a. a. O. 4, 2. S. 380*). Die Tosephot "
+    },
+    {
+     "lang": "lat",
+     "text": "(Chulin 10, a s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "וישרצו"
+    },
+    {
+     "lang": "lat",
+     "text": ")"
+    },
+    {
+     "lang": "deu",
+     "text": "\nsagen: Er vergräbt sich außerordentlich schnell in den Boden und ist\ngiftig. — Der Midr. "
+    },
+    {
+     "lang": "lat",
+     "text": "(R. Bereschit fol. 113, col. 3)"
+    },
+    {
+     "lang": "deu",
+     "text": " sagt, daß alle\nThiere paarweise**) umherstreifen, nur der "
+    },
+    {
+     "lang": "heb",
+     "text": "שפיפון"
+    },
+    {
+     "lang": "deu",
+     "text": " zieht einsam seines\nWeges und ist rachsüchtig "
+    },
+    {
+     "lang": "lat",
+     "text": "(§. 35)"
+    },
+    {
+     "lang": "deu",
+     "text": ". Ferner "
+    },
+    {
+     "lang": "lat",
+     "text": "(ibid. fol. 111, col. 2)"
+    },
+    {
+     "lang": "deu",
+     "text": ",\ndaß das Gift des "
+    },
+    {
+     "lang": "heb",
+     "text": "שפיפון"
+    },
+    {
+     "lang": "deu",
+     "text": " auch nach seinem Tode wirke, und daß des=\nsen Hauptkraft in seinem Kopfe bestehe. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Reggio (zu Gen. 49, 17)"
+    },
+    {
+     "lang": "deu",
+     "text": "\nhält den "
+    },
+    {
+     "lang": "heb",
+     "text": "שפיפון"
+    },
+    {
+     "lang": "deu",
+     "text": " für eine kleine dünne Schlange, die auf Bäumen sich\naufhält und von dort auf ihre Beute herabschießt; im Jeruschalmi\n(Terumoth 45, d) heißt es: "
+    },
+    {
+     "lang": "heb",
+     "text": "מין קטן הוא ושפיפון שמו והוא דומה לשערה"
+    },
+    {
+     "lang": "deu",
+     "text": ",\n„eine kleine haarähnliche Schlange.“"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Vierte Klasse.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Vierte Klasse."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Fische.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fische."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 303.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 303."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Ueber die generellen Namen der Fische handelt §. 7, über den\nUnterschied der reinen und unreinen Fische §. 24, und über die Be=\ngattungsweise derselben §. 15. — Hier handeln wir zunächst über\ndie Weise der Fortpflanzung bei den Fischen. Ursprünglich entstanden\ndie Fische aus dem Wasser (§. 13), seitdem entstehen dieselben aller=\ngrößtentheils durch Fortpflanzung (Generatio propagativa, §. 15),\nund nur eine einzige Art soll (jedoch mißverständlich, vergl. §. 359)\ndurch Generatio originaria und zwar aus der Fischlake entstehen. —\nWas nun die Fortpflanzung betrifft, so heißt es in einer Stelle",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ueber die generellen Namen der Fische handelt §. 7, über den\nUnterschied der reinen und unreinen Fische §. 24, und über die Be=\ngattungsweise derselben §. 15. — Hier handeln wir zunächst über\ndie Weise der Fortpflanzung bei den Fischen. Ursprünglich entstanden\ndie Fische aus dem Wasser (§. 13), seitdem entstehen dieselben aller=\ngrößtentheils durch Fortpflanzung "
+    },
+    {
+     "lang": "lat",
+     "text": "(Generatio propagativa,"
+    },
+    {
+     "lang": "deu",
+     "text": " §. 15),\nund nur eine einzige Art soll (jedoch mißverständlich, vergl. §. 359)\ndurch "
+    },
+    {
+     "lang": "lat",
+     "text": "Generatio originaria"
+    },
+    {
+     "lang": "deu",
+     "text": " und zwar aus der Fischlake entstehen. —\nWas nun die Fortpflanzung betrifft, so heißt es in einer Stelle"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Jonathan (4. B. M. 23, 3) scheint שפיפון mit שפי zu identificiren;\nvergl. Sota 10, a.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Jonathan (4. B. M. 23, 3) scheint "
+    },
+    {
+     "lang": "heb",
+     "text": "שפיפון"
+    },
+    {
+     "lang": "deu",
+     "text": " mit "
+    },
+    {
+     "lang": "heb",
+     "text": "שפי"
+    },
+    {
+     "lang": "deu",
+     "text": " zu identificiren;\nvergl. Sota 10, a."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Doch sind Schlangen im Allgemeinen nicht gesellig, sie leben und ver=\nweilen höchstens paarweise bei einander.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Doch sind Schlangen im Allgemeinen nicht gesellig, sie leben und ver=\nweilen höchstens paarweise bei einander."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "16*",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "16*"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3236,
+    2228
+   ],
+   [
+    3236,
+    2968
+   ]
+  ],
+  "input_tokens": 11337,
+  "output_tokens": 1802,
+  "cost_usd": 0.0407,
+  "seconds": 10.7
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "380",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "380"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Lateinisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Lateinisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Canissa 87.\nCapra silvestris 126.\nCasina 87.\nCatelli 87.\nCatuli 87.\nCephalopterus cornuta 271.\nCervus volans 294.\nClupea Sprattus 260.\nCobitis fossilis 266.\nColias Hyspanus 251.\nColuber cerastes 243.\nColumba domestica 200.\nColumba Livia cocullata 204.\nColumba Livia gyratrix 205.\nColumba Oenas 186.\nCordyla 253.\nCorvus 169. 175.\nCorvus aquaticus 174. 175.\nCorvus marinus 174.\nCossus ligniperda 332.\nCulex 319.\nCurculio granarius 308.\nCynips psenes 305.\nCyprinus phoxinus 261.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Canissa 87.\nCapra silvestris 126.\nCasina 87.\nCatelli 87.\nCatuli 87.\nCephalopterus cornuta 271.\nCervus volans 294.\nClupea Sprattus 260.\nCobitis fossilis 266.\nColias Hyspanus 251.\nColuber cerastes 243.\nColumba domestica 200.\nColumba Livia cocullata 204.\nColumba Livia gyratrix 205.\nColumba Oenas 186.\nCordyla 253.\nCorvus 169. 175.\nCorvus aquaticus 174. 175.\nCorvus marinus 174.\nCossus ligniperda 332.\nCulex 319.\nCurculio granarius 308.\nCynips psenes 305.\nCyprinus phoxinus 261."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "D.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "D."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Delphinus orca 275.\nDraco 240.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Delphinus orca 275.\nDraco 240."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "E.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "E."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Echinococcus veterinorum 341.\nEntozoa 334.\nEphippigera 290.\nEphippigera perforata 293.\nEquus hemionos 370.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Echinococcus veterinorum 341.\nEntozoa 334.\nEphippigera 290.\nEphippigera perforata 293.\nEquus hemionos 370."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "F.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "F."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Falco palumbarius 165.\nFelis onzo 317.\nFicedula 211.\nFormica herculeana 331.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Falco palumbarius 165.\nFelis onzo 317.\nFicedula 211.\nFormica herculeana 331."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "G.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "G."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Gadus callarias 270.\nGlis esculentus 108.\nGryllus coronatus 291.\nGryllus stridulus 288. 293.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Gadus callarias 270.\nGlis esculentus 108.\nGryllus coronatus 291.\nGryllus stridulus 288. 293."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "H.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "H."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Halec 259.\nHaliaëtos ossifragus 167.\nHelix janthina 281.\nHelix pomatia 280.\nHinnus 145.\nHirundo 210.\nHirundo fulva 209.\nHirundo urbica 208.\nHomo troglodytes 65.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Halec 259.\nHaliaëtos ossifragus 167.\nHelix janthina 281.\nHelix pomatia 280.\nHinnus 145.\nHirundo 210.\nHirundo fulva 209.\nHirundo urbica 208.\nHomo troglodytes 65."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "L.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "L."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Lacerta 221.\nLacerta agilis 223.\nLacerta arenicola 223.\nLacerta atra 223.\nLacerta stellio 223.\nLarus marinus 182.\nLeo 71.\nLigula cingulum 341.\nLimax 233.\nLimax sylvaticus 279.\nLingualaca 275.\nLinguata 275.\nLocusta 294.\nLocusta viridissima 291.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Lacerta 221.\nLacerta agilis 223.\nLacerta arenicola 223.\nLacerta atra 223.\nLacerta stellio 223.\nLarus marinus 182.\nLeo 71.\nLigula cingulum 341.\nLimax 233.\nLimax sylvaticus 279.\nLingualaca 275.\nLinguata 275.\nLocusta 294.\nLocusta viridissima 291."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "M.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "M."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Maena 278.\nMamestra brassicae 333.\nMantis religiosa 363.\nMelolontha hippocastani 307.\nMelolontha vulgaris 306.\nMerops apiaster 169.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Maena 278.\nMamestra brassicae 333.\nMantis religiosa 363.\nMelolontha hippocastani 307.\nMelolontha vulgaris 306.\nMerops apiaster 169."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3212,
+    2283
+   ],
+   [
+    3212,
+    2861
+   ]
+  ],
+  "input_tokens": 11355,
+  "output_tokens": 1377,
+  "cost_usd": 0.0365,
+  "seconds": 9.3
+ }
+}

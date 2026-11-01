@@ -1,0 +1,317 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Ohreule. — Die mittlere Ohreule.\t163",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Ohreule. — Die mittlere Ohreule.\t163"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "und der קקואי, Landau übersetzt ohne alle Begründung: Carmo-\nran und Pelikan; abgesehen, daß der Pelikan höchst wahrschein-\nlich einen andern Namen führte, vergl. §. 227, so ist es auch sehr\nbefremdend, daß die beiden Tagvögel mit der Eule zusammengestellt\nwerden. Richtiger nimmt Buxdorf (Lex. p. 2107) die talmudischen\nNamen als Benennungen von Nachtvögeln, und vielleicht sind hier\ndie beiden Arten Käuze, der Kauz und der Zwergkauz gemeint.\nקקואי, wofür Aruch קיקאי liest, mag, mit Cheveche verwandt, der\ngroße Kauz, und קיאי nach Abwurf der Reduplication der kleine\nKauz sein*).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "und der "
+    },
+    {
+     "lang": "heb",
+     "text": "קקואי"
+    },
+    {
+     "lang": "deu",
+     "text": ", Landau übersetzt ohne alle Begründung: Carmo-\nran und Pelikan; abgesehen, daß der Pelikan höchst wahrschein-\nlich einen andern Namen führte, vergl. §. 227, so ist es auch sehr\nbefremdend, daß die beiden Tagvögel mit der Eule zusammengestellt\nwerden. Richtiger nimmt Buxdorf ("
+    },
+    {
+     "lang": "lat",
+     "text": "Lex. p. 2107"
+    },
+    {
+     "lang": "deu",
+     "text": ") die talmudischen\nNamen als Benennungen von Nachtvögeln, und vielleicht sind hier\ndie beiden Arten Käuze, der Kauz und der Zwergkauz gemeint.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קקואי"
+    },
+    {
+     "lang": "deu",
+     "text": ", wofür Aruch "
+    },
+    {
+     "lang": "heb",
+     "text": "קיקאי"
+    },
+    {
+     "lang": "deu",
+     "text": " liest, mag, mit "
+    },
+    {
+     "lang": "fra",
+     "text": "Cheveche"
+    },
+    {
+     "lang": "deu",
+     "text": " verwandt, der\ngroße Kauz, und "
+    },
+    {
+     "lang": "heb",
+     "text": "קיאי"
+    },
+    {
+     "lang": "deu",
+     "text": " nach Abwurf der Reduplication der kleine\nKauz sein*)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 188.\nDie Ohreule.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 188.\nDie Ohreule."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die große Ohreule heißt hebr. ינשוף (Lev. 11, 17) und talmu-\ndisch קפופא. Sie hat die Augen nach vorne gerichtet, schreit des\nNachts und ist im Gesichte der Katze ähnlich (Nidda 23, a). Zu\nBerachoth 57, b sagt Raschi: Sie hat Backen wie der Mensch und\nheißt צואיטא, Chouette, mit welchem Namen allerdings die kurzöh-\nrige Eule benannt wird. — Ihr Erscheinen im Traume ist wegen\nder Häßlichkeit und theilweisen Menschenähnlichkeit des Vogels von\nböser Vorbedeutung (ibid.) doch ist die Erklärung des Wortes קפופא\nin Raschi höchst unsicher. Zu Chulin 63, a übersetzt er es mit Chou-\nette, aber auch mit Chauvesouri; zu Berachoth ibid. einzig richtig\ndurch Chouette, dahingegen ibid. 58, b ganz abweichend durch Vul-\nture (Bartgeier s. §. 113).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die große Ohreule heißt hebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "ינשוף"
+    },
+    {
+     "lang": "deu",
+     "text": " (Lev. 11, 17) und talmu-\ndisch "
+    },
+    {
+     "lang": "heb",
+     "text": "קפופא"
+    },
+    {
+     "lang": "deu",
+     "text": ". Sie hat die Augen nach vorne gerichtet, schreit des\nNachts und ist im Gesichte der Katze ähnlich (Nidda 23, a). Zu\nBerachoth 57, b sagt Raschi: Sie hat Backen wie der Mensch und\nheißt "
+    },
+    {
+     "lang": "heb",
+     "text": "צואיטא"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Chouette"
+    },
+    {
+     "lang": "deu",
+     "text": ", mit welchem Namen allerdings die kurzöh-\nrige Eule benannt wird. — Ihr Erscheinen im Traume ist wegen\nder Häßlichkeit und theilweisen Menschenähnlichkeit des Vogels von\nböser Vorbedeutung (ibid.) doch ist die Erklärung des Wortes "
+    },
+    {
+     "lang": "heb",
+     "text": "קפופא"
+    },
+    {
+     "lang": "deu",
+     "text": "\nin Raschi höchst unsicher. Zu Chulin 63, a übersetzt er es mit "
+    },
+    {
+     "lang": "fra",
+     "text": "Chou-\nette"
+    },
+    {
+     "lang": "deu",
+     "text": ", aber auch mit "
+    },
+    {
+     "lang": "fra",
+     "text": "Chauvesouri"
+    },
+    {
+     "lang": "deu",
+     "text": "; zu Berachoth ibid. einzig richtig\ndurch "
+    },
+    {
+     "lang": "fra",
+     "text": "Chouette"
+    },
+    {
+     "lang": "deu",
+     "text": ", dahingegen ibid. 58, b ganz abweichend durch "
+    },
+    {
+     "lang": "fra",
+     "text": "Vul-\nture"
+    },
+    {
+     "lang": "deu",
+     "text": " (Bartgeier s. §. 113)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 189.\nDie mittlere Ohreule.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 189.\nDie mittlere Ohreule."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Berachoth 57, b heißt es: Das Erscheinen des Vogels קריא\n(oder קדיא) im Traume, ist wegen seiner Häßlichkeit von böser Vor-\nbedeutung. — Mit dem talm. Worte übersetzen die Targumim das\nhebr. כוס (Lev. 11, 17), wo Raschi es durch ייב\"ן, in unserer Tal-\nmudstelle derselbe durch ייב\"ץ, Hibou erklärt. Mit dem franz. Worte\nwird die mittlere Ohreule (die Horneule, auch der kleine Uhu) benannt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Berachoth 57, b heißt es: Das Erscheinen des Vogels "
+    },
+    {
+     "lang": "heb",
+     "text": "קריא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(oder "
+    },
+    {
+     "lang": "heb",
+     "text": "קדיא"
+    },
+    {
+     "lang": "deu",
+     "text": ") im Traume, ist wegen seiner Häßlichkeit von böser Vor-\nbedeutung. — Mit dem talm. Worte übersetzen die Targumim das\nhebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "כוס"
+    },
+    {
+     "lang": "deu",
+     "text": " (Lev. 11, 17), wo Raschi es durch "
+    },
+    {
+     "lang": "heb",
+     "text": "ייב\"ן"
+    },
+    {
+     "lang": "deu",
+     "text": ", in unserer Tal-\nmudstelle derselbe durch "
+    },
+    {
+     "lang": "heb",
+     "text": "ייב\"ץ"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Hibou"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt. Mit dem franz. Worte\nwird die mittlere Ohreule (die Horneule, auch der kleine Uhu) benannt."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Einige wollen לילית (von לילה) zu Jes. 34, 14 mit Noctua, Kauz,\nübersetzen, s. Univers israélite XII. année p. 502.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Einige wollen "
+    },
+    {
+     "lang": "heb",
+     "text": "לילית"
+    },
+    {
+     "lang": "deu",
+     "text": " (von "
+    },
+    {
+     "lang": "heb",
+     "text": "לילה"
+    },
+    {
+     "lang": "deu",
+     "text": ") zu Jes. 34, 14 mit "
+    },
+    {
+     "lang": "lat",
+     "text": "Noctua"
+    },
+    {
+     "lang": "deu",
+     "text": ", Kauz,\nübersetzen, s. "
+    },
+    {
+     "lang": "fra",
+     "text": "Univers israélite XII. année p. 502."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "11*",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "11*"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3304,
+    2386
+   ],
+   [
+    3304,
+    2718
+   ]
+  ],
+  "input_tokens": 3337,
+  "output_tokens": 1217,
+  "cost_usd": 0.0071,
+  "seconds": 13.1
+ }
+}

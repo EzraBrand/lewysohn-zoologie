@@ -1,0 +1,277 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "340 Der Bandwurm. — Der menschliche Leberegel. — Leberegel. — Schafwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "340 Der Bandwurm. — Der menschliche Leberegel. — Leberegel. — Schafwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Länder essen häufig den Knoblauch, s. Jablonski: Allg. Lexicon\ns. v. Knoblauch.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Länder essen häufig den Knoblauch, s. Jablonski: Allg. Lexicon\ns. v. Knoblauch."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 479.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 479."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Bandwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Bandwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "קוקיאני (Berachoth 36, a), wofür Aruch קקני liest. Als Mittel\ngegen ihn ist der Genuß vom rohen Gerstenmehl (ibid.) und der Ge-\nnuß von Ysop (Sabbat 109, b). Die Mischna (Schebiith 7, 2) er-\nwähnt einer Pflanzenwurzel רכפה, deren Genuß die Leibwürmer töd-\ntet, s. Bartenoro daselbst.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "קוקיאני"
+    },
+    {
+     "lang": "deu",
+     "text": " (Berachoth 36, a), wofür Aruch "
+    },
+    {
+     "lang": "heb",
+     "text": "קקני"
+    },
+    {
+     "lang": "deu",
+     "text": " liest. Als Mittel\ngegen ihn ist der Genuß vom rohen Gerstenmehl (ibid.) und der Ge-\nnuß von Ysop (Sabbat 109, b). Die Mischna (Schebiith 7, 2) er-\nwähnt einer Pflanzenwurzel "
+    },
+    {
+     "lang": "heb",
+     "text": "רכפה"
+    },
+    {
+     "lang": "deu",
+     "text": ", deren Genuß die Leibwürmer töd-\ntet, s. Bartenoro daselbst."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 480.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 480."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der menschliche Leberegel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der menschliche Leberegel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Durch häufige Verletzungen der Diät, wie durch den Genuß\nvom gebratenen Fleisch und Wasser, während man noch nüchtern ist,\noder durch fettes Ochsenfleisch, das man vor dem Frühstück verzehrt,\nentstehen Würmer in der menschlichen Leber, die ארקא heißen (Sab-\nbat 109, b). Mittel dagegen ist der Genuß von יעזר, was durch\nפוחנק erklärt wird. Raschi erklärt פוחנק durch פולאל, Polegion, franz.:\nPouliot, Flöhkraut (ibid.). — Mussaphia denkt hierbei nicht an Wür-\nmer, sondern übersetzt ארקתא durch Aurigo, Gelbsucht.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Durch häufige Verletzungen der Diät, wie durch den Genuß\nvom gebratenen Fleisch und Wasser, während man noch nüchtern ist,\noder durch fettes Ochsenfleisch, das man vor dem Frühstück verzehrt,\nentstehen Würmer in der menschlichen Leber, die "
+    },
+    {
+     "lang": "heb",
+     "text": "ארקא"
+    },
+    {
+     "lang": "deu",
+     "text": " heißen (Sab-\nbat 109, b). Mittel dagegen ist der Genuß von "
+    },
+    {
+     "lang": "heb",
+     "text": "יעזר"
+    },
+    {
+     "lang": "deu",
+     "text": ", was durch\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פוחנק"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt wird. Raschi erklärt "
+    },
+    {
+     "lang": "heb",
+     "text": "פוחנק"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "heb",
+     "text": "פולאל"
+    },
+    {
+     "lang": "deu",
+     "text": ", Polegion, franz.:\nPouliot, Flöhkraut (ibid.). — Mussaphia denkt hierbei nicht an Wür-\nmer, sondern übersetzt "
+    },
+    {
+     "lang": "heb",
+     "text": "ארקתא"
+    },
+    {
+     "lang": "deu",
+     "text": " durch Aurigo, Gelbsucht."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 481.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 481."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Leberegel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Leberegel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 48, a ist von החליע ככד der „würmig gewordenen Leber“\ndes Viehes die Rede; es ist dies der Leberegel, Distoma hepaticum,\nden man bisweilen in großer Menge in der Leber von Schafen und\nRindern findet (Voigt l. c. 6. S. 35).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 48, a ist von "
+    },
+    {
+     "lang": "heb",
+     "text": "החליע ככד"
+    },
+    {
+     "lang": "deu",
+     "text": " der „würmig gewordenen Leber“\ndes Viehes die Rede; es ist dies der Leberegel, Distoma hepaticum,\nden man bisweilen in großer Menge in der Leber von Schafen und\nRindern findet (Voigt l. c. 6. S. 35)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 482.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 482."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Schafwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Schafwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 49, a heißt es, daß wenn der Wurm מורנא (§. 472)\naus der Lunge des Viehes hervorkömmt, das Vieh zu essen gestattet\nist, weil anzunehmen ist, daß der Wurm erst nach dem Tode des\nViehes die Lunge verließ, indem beim Leben die durch das Athmen\nstark bewegliche Lunge die Entfernung des Wurmes nicht gestattet",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 49, a heißt es, daß wenn der Wurm "
+    },
+    {
+     "lang": "heb",
+     "text": "מורנא"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 472)\naus der Lunge des Viehes hervorkömmt, das Vieh zu essen gestattet\nist, weil anzunehmen ist, daß der Wurm erst nach dem Tode des\nViehes die Lunge verließ, indem beim Leben die durch das Athmen\nstark bewegliche Lunge die Entfernung des Wurmes nicht gestattet"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    3018
+   ],
+   [
+    3308,
+    2286
+   ]
+  ],
+  "input_tokens": 11337,
+  "output_tokens": 1621,
+  "cost_usd": 0.0389,
+  "seconds": 10.0
+ }
+}

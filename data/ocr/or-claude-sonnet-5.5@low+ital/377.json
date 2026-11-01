@@ -1,0 +1,821 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "I. Griechisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "I. Griechisches Register."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Α.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Α."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἀβραμίς 264.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀβραμίς"
+    },
+    {
+     "lang": "deu",
+     "text": " 264."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἀκρίς 295.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀκρίς"
+    },
+    {
+     "lang": "deu",
+     "text": " 295."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἀμία 257.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀμία"
+    },
+    {
+     "lang": "deu",
+     "text": " 257."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἀνδρό-φατος 161.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀνδρό-φατος"
+    },
+    {
+     "lang": "deu",
+     "text": " 161."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἀνήνιον 360.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀνήνιον"
+    },
+    {
+     "lang": "deu",
+     "text": " 360."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἀνθίας 268.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀνθίας"
+    },
+    {
+     "lang": "deu",
+     "text": " 268."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἀνθρωπόγλωττον 162.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀνθρωπόγλωττον"
+    },
+    {
+     "lang": "deu",
+     "text": " 162."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἀσκαρής 297.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀσκαρής"
+    },
+    {
+     "lang": "deu",
+     "text": " 297."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Αὐλωπίας 268.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Αὐλωπίας"
+    },
+    {
+     "lang": "deu",
+     "text": " 268."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἀφρός 261.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀφρός"
+    },
+    {
+     "lang": "deu",
+     "text": " 261."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἀφύη 261.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀφύη"
+    },
+    {
+     "lang": "deu",
+     "text": " 261."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Β.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Β."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Βάτος 263. 268.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Βάτος"
+    },
+    {
+     "lang": "deu",
+     "text": " 263. 268."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Βουγενές 375.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Βουγενές"
+    },
+    {
+     "lang": "deu",
+     "text": " 375."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Βούγλωσσος 275.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Βούγλωσσος"
+    },
+    {
+     "lang": "deu",
+     "text": " 275."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Βούνεβρος 151.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Βούνεβρος"
+    },
+    {
+     "lang": "deu",
+     "text": " 151."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Βούπαις 375.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Βούπαις"
+    },
+    {
+     "lang": "deu",
+     "text": " 375."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Βουποίητος 375.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Βουποίητος"
+    },
+    {
+     "lang": "deu",
+     "text": " 375."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Βοῦς 151. 270. 307.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Βοῦς"
+    },
+    {
+     "lang": "deu",
+     "text": " 151. 270. 307."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Βοῦς θαλάσσιος 270.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Βοῦς θαλάσσιος"
+    },
+    {
+     "lang": "deu",
+     "text": " 270."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Βροῦχος 287. 296.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Βροῦχος"
+    },
+    {
+     "lang": "deu",
+     "text": " 287. 296."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Γ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Γ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Γαίδαρο 144.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Γαίδαρο"
+    },
+    {
+     "lang": "deu",
+     "text": " 144."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Γαλεούδη 262. 272.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Γαλεούδη"
+    },
+    {
+     "lang": "deu",
+     "text": " 262. 272."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Γαλεώτης 262. 272.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Γαλεώτης"
+    },
+    {
+     "lang": "deu",
+     "text": " 262. 272."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Γαλῆ 272. 366.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Γαλῆ"
+    },
+    {
+     "lang": "deu",
+     "text": " 272. 366."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Γαῦλος 233.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Γαῦλος"
+    },
+    {
+     "lang": "deu",
+     "text": " 233."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Γυπαίετος 372.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Γυπαίετος"
+    },
+    {
+     "lang": "deu",
+     "text": " 372."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Δ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Δ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Δράκων 240.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Δράκων"
+    },
+    {
+     "lang": "deu",
+     "text": " 240."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Ε.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ε."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἕλμινς 311.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἕλμινς"
+    },
+    {
+     "lang": "deu",
+     "text": " 311."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἐρωδιός 210.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἐρωδιός"
+    },
+    {
+     "lang": "deu",
+     "text": " 210."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Εὐλή 310.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Εὐλή"
+    },
+    {
+     "lang": "deu",
+     "text": " 310."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἔχιδνα 238.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἔχιδνα"
+    },
+    {
+     "lang": "deu",
+     "text": " 238."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἐχῖνος 100.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἐχῖνος"
+    },
+    {
+     "lang": "deu",
+     "text": " 100."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἐχῖνος χερσαῖος 94.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἐχῖνος χερσαῖος"
+    },
+    {
+     "lang": "deu",
+     "text": " 94."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἔχις 238.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἔχις"
+    },
+    {
+     "lang": "deu",
+     "text": " 238."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἑψητός 269.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἑψητός"
+    },
+    {
+     "lang": "deu",
+     "text": " 269."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Η.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Η."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἡμέρα 319.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἡμέρα"
+    },
+    {
+     "lang": "deu",
+     "text": " 319."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Ἡμίονος 144. 370.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἡμίονος"
+    },
+    {
+     "lang": "deu",
+     "text": " 144. 370."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἥμισυ 370.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἥμισυ"
+    },
+    {
+     "lang": "deu",
+     "text": " 370."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Θ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Θ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Θύννος 253.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Θύννος"
+    },
+    {
+     "lang": "deu",
+     "text": " 253."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Θρίσσα 256.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Θρίσσα"
+    },
+    {
+     "lang": "deu",
+     "text": " 256."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Θώς 316.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Θώς"
+    },
+    {
+     "lang": "deu",
+     "text": " 316."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Ι.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ι."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἱέραξ 164.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἱέραξ"
+    },
+    {
+     "lang": "deu",
+     "text": " 164."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ἴουλος 323.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἴουλος"
+    },
+    {
+     "lang": "deu",
+     "text": " 323."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2780,
+    2168
+   ],
+   [
+    2780,
+    1752
+   ]
+  ],
+  "input_tokens": 11342,
+  "output_tokens": 2899,
+  "cost_usd": 0.0517,
+  "seconds": 15.8
+ }
+}

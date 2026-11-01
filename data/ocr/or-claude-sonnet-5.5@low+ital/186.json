@@ -1,0 +1,269 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "186 Der Kiebitz. — Ein weinfarbiger Vogel. — Zwei Vögelarten.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "186 Der Kiebitz. — Ein weinfarbiger Vogel. — Zwei Vögelarten."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "die Weinlerche (Alauda cristata) gemeint; die gemeine Lerche\n(§. 213) gehört zu den acht, in Beziehung der Reinheit zweifel-\nhaften Vögeln",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "die Weinlerche ("
+    },
+    {
+     "lang": "lat",
+     "text": "Alauda cristata"
+    },
+    {
+     "lang": "deu",
+     "text": ") gemeint; die gemeine Lerche\n(§. 213) gehört zu den acht, in Beziehung der Reinheit zweifel-\nhaften Vögeln"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 232.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 232."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Kiebitz.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Kiebitz."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 62, b wird der Vogel מונא חמרא (Gemischter Wein) zu\nessen verboten. Man hat hier zweifellos an einen weinfarbigen Vo-\ngel zu denken. Bei Aelian (Thierg. 4, 58) heißt er Οἰνάς, er ist\nkleiner als die Holztaube (Φάσσα) und größer als die gemeine\nTaube (Περιστερά), und ist, wie Mehrere ihn erklären, der Kiebitz,\nfr. Vanneau. Der Vogel mag so heißen, weil er auf dem Rücken\nmetallisch dunkelgrün, wie die Weintraube, ist.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 62, b wird der Vogel "
+    },
+    {
+     "lang": "arc",
+     "text": "מונא חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Gemischter Wein) zu\nessen verboten. Man hat hier zweifellos an einen weinfarbigen Vo-\ngel zu denken. Bei Aelian (Thierg. 4, 58) heißt er "
+    },
+    {
+     "lang": "grc",
+     "text": "Οἰνάς"
+    },
+    {
+     "lang": "deu",
+     "text": ", er ist\nkleiner als die Holztaube ("
+    },
+    {
+     "lang": "grc",
+     "text": "Φάσσα"
+    },
+    {
+     "lang": "deu",
+     "text": ") und größer als die gemeine\nTaube ("
+    },
+    {
+     "lang": "grc",
+     "text": "Περιστερά"
+    },
+    {
+     "lang": "deu",
+     "text": "), und ist, wie Mehrere ihn erklären, der Kiebitz,\nfr. Vanneau. Der Vogel mag so heißen, weil er auf dem Rücken\nmetallisch dunkelgrün, wie die Weintraube, ist."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 233.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 233."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Ein weinfarbiger Vogel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ein weinfarbiger Vogel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 62, b wird gesagt, daß der Vogel בת מונא חמרא (Toch-\nter des מונא חמרא, s. §. 232) zu essen gestattet ist. Bei Aristoteles\n(Naturg. 9, 36, 4) heißt ein Vogel Οἰνάνθη, welchen Einige für\neine Art wilder Taube, von der Farbe der reifenden Traube soge-\nnannt, erklären. In der That hat die Holztaube (Columba\noenas bei L.) eine weinrothe Brust, und sie ist daher mit Recht\nals Taube zu essen gestattet. Von einer andern Art wilder Taube\nist noch anderswo die Rede (§. 255); doch kann es nicht auffallen,\ndaß die verschiedenen Arten der wilden Taube verschiedene Namen\nführten; die hier erwähnte Art lebt in Baumlöchern, die später zu\nerwähnende lebt in Klüften.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 62, b wird gesagt, daß der Vogel "
+    },
+    {
+     "lang": "arc",
+     "text": "בת מונא חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Toch-\nter des "
+    },
+    {
+     "lang": "arc",
+     "text": "מונא חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": ", s. §. 232) zu essen gestattet ist. Bei Aristoteles\n(Naturg. 9, 36, 4) heißt ein Vogel "
+    },
+    {
+     "lang": "grc",
+     "text": "Οἰνάνθη"
+    },
+    {
+     "lang": "deu",
+     "text": ", welchen Einige für\neine Art wilder Taube, von der Farbe der reifenden Traube soge-\nnannt, erklären. In der That hat die Holztaube ("
+    },
+    {
+     "lang": "lat",
+     "text": "Columba\noenas"
+    },
+    {
+     "lang": "deu",
+     "text": " bei L.) eine weinrothe Brust, und sie ist daher mit Recht\nals Taube zu essen gestattet. Von einer andern Art wilder Taube\nist noch anderswo die Rede (§. 255); doch kann es nicht auffallen,\ndaß die verschiedenen Arten der wilden Taube verschiedene Namen\nführten; die hier erwähnte Art lebt in Baumlöchern, die später zu\nerwähnende lebt in Klüften."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 234.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 234."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Zwei Vögelarten.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zwei Vögelarten."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 62, a heißt es: Der Vogel מרדו זגיד ואכיל ist zu essen\ngestattet, der Vogel סגיד ואכיל ist zu essen verboten. Raschi liest\nמרה für מרדו, wahrscheinlich, weil מרדו früher (§. 219) als unreiner\nVogel erwähnt wird. Möglich, daß man hier solche Vögel aufzu-\nsuchen habe, welche den Kopf mehr, oder weniger schütteln; so läuft\nbekanntlich der Staar unter beständigem Kopfnicken. Die Lexica",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 62, a heißt es: Der Vogel "
+    },
+    {
+     "lang": "arc",
+     "text": "מרדו זגיד ואכיל"
+    },
+    {
+     "lang": "deu",
+     "text": " ist zu essen\ngestattet, der Vogel "
+    },
+    {
+     "lang": "arc",
+     "text": "סגיד ואכיל"
+    },
+    {
+     "lang": "deu",
+     "text": " ist zu essen verboten. Raschi liest\n"
+    },
+    {
+     "lang": "arc",
+     "text": "מרה"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "arc",
+     "text": "מרדו"
+    },
+    {
+     "lang": "deu",
+     "text": ", wahrscheinlich, weil "
+    },
+    {
+     "lang": "arc",
+     "text": "מרדו"
+    },
+    {
+     "lang": "deu",
+     "text": " früher (§. 219) als unreiner\nVogel erwähnt wird. Möglich, daß man hier solche Vögel aufzu-\nsuchen habe, welche den Kopf mehr, oder weniger schütteln; so läuft\nbekanntlich der Staar unter beständigem Kopfnicken. Die Lexica"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2386
+   ],
+   [
+    3308,
+    2842
+   ]
+  ],
+  "input_tokens": 11369,
+  "output_tokens": 1708,
+  "cost_usd": 0.0398,
+  "seconds": 12.1
+ }
+}

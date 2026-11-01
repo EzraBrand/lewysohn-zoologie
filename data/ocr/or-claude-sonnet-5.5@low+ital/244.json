@@ -1,0 +1,129 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "244",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "244"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Fische.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fische."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "(Bechoroth 7, b): רג טמא משריץ דג טהור מטיל ביצים, welchen Aus-\nspruch Raschi dahin erklärt, daß der unreine Fisch lebendige Junge\nzur Welt bringt, der reine hingegen Eier legt. Dieser Stelle wider-\nspricht eine andere, oder sie wird vielmehr durch eine andere berich-\ntigt, welche lautet: הרוייהו מטיל ביצים אלא זה משריץ מבחוץ וזה משריץ\nמבפנים (A. Sara 40, a), was Raschi dahin erklärt, daß beide Arten\neierlegend sind, nur entsteht die Brut des reinen Fisches erst dann,\nwann das Ei bereits gelegt ist, die Brut des unreinen Fisches hin-\ngegen beginnt ihre Bildung im Ei während es noch im Fische ist.\n— Alle diese Behauptungen sind in ihrer Allgemeinheit unrichtig,\ndahingegen einzeln auf einzelne Species anwendbar.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "(Bechoroth 7, b): "
+    },
+    {
+     "lang": "arc",
+     "text": "רג טמא משריץ דג טהור מטיל ביצים"
+    },
+    {
+     "lang": "deu",
+     "text": ", welchen Aus-\nspruch Raschi dahin erklärt, daß der unreine Fisch lebendige Junge\nzur Welt bringt, der reine hingegen Eier legt. Dieser Stelle wider-\nspricht eine andere, oder sie wird vielmehr durch eine andere berich-\ntigt, welche lautet: "
+    },
+    {
+     "lang": "arc",
+     "text": "הרוייהו מטיל ביצים אלא זה משריץ מבחוץ וזה משריץ\nמבפנים"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 40, a), was Raschi dahin erklärt, daß beide Arten\neierlegend sind, nur entsteht die Brut des reinen Fisches erst dann,\nwann das Ei bereits gelegt ist, die Brut des unreinen Fisches hin-\ngegen beginnt ihre Bildung im Ei während es noch im Fische ist.\n— Alle diese Behauptungen sind in ihrer Allgemeinheit unrichtig,\ndahingegen einzeln auf einzelne Species anwendbar."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Es ist richtig, daß die allermeisten Fische eierlegend sind, doch\nläßt sich folgende Klassificirung machen: A. Einige Fische sind leben-\ndig gebärend, wie der Hochschauer (Anableps tetrophthalmus) und\nnach Einigen auch der Aal (§. 335). Zwar entdeckte der englische\nNaturforscher Yarrel, daß der Aal Milch und Rogen hat und wie\nandere Fische eierlegend ist (Voigt l. c. 3. S. 265); doch ist es un-\nleugbar, daß man oft im Aale junge Aale findet. — Auf diese zwei\nFischarten ist jene Angabe Raschi's zur ersten Talmudstelle, daß un-\nreine Fische lebendig gebärend sind, anwendbar. — B. Die Knorpel-\nfische, wie Haie, Rochen, Chimairen u. A. (welche Aristoteles Thierg.\n1, 4, 2 unter dem Familiennamen Σελάχοι zusammenfaßt), sind\ngrößtentheils lebendig gebärend, doch sondern sie auch Eier ab. Je-\ndoch beginnt die Bildung des Embryon im Ei, während dieses noch\nim Fische sich befindet, nur bei den sogenannten Fischmäusen, es\nsind dies die mäuseschwarzen, pergamentartigen, viereckigen und flachen\nan den Ecken verlängerten Eier der Rochen, sie werden mit dem\nin ihnen entwickelten Jungen geboren. Es wäre nun auf den Rochen\njene Angabe zur zweiten Stelle, daß der Embryo des unreinen Fisches\nschon im Mutterleibe beginne, wohl anwendbar. — C. Die Gräten-\nfische sind mit Ausnahme jener sub A gedachten zwei Fischarten\neierlegend, und auf sie bezieht sich der allgemeine Ausspruch, daß die\nFische eierlegend sind. So hätte man die allgemeinen Aussprüche des\nTalmuds zu specificiren und sie auf die verschiedenen Fischarten zu\nbeziehen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Es ist richtig, daß die allermeisten Fische eierlegend sind, doch\nläßt sich folgende Klassificirung machen: A. Einige Fische sind leben-\ndig gebärend, wie der Hochschauer ("
+    },
+    {
+     "lang": "lat",
+     "text": "Anableps tetrophthalmus"
+    },
+    {
+     "lang": "deu",
+     "text": ") und\nnach Einigen auch der Aal (§. 335). Zwar entdeckte der englische\nNaturforscher Yarrel, daß der Aal Milch und Rogen hat und wie\nandere Fische eierlegend ist (Voigt l. c. 3. S. 265); doch ist es un-\nleugbar, daß man oft im Aale junge Aale findet. — Auf diese zwei\nFischarten ist jene Angabe Raschi's zur ersten Talmudstelle, daß un-\nreine Fische lebendig gebärend sind, anwendbar. — B. Die Knorpel-\nfische, wie Haie, Rochen, Chimairen u. A. (welche Aristoteles Thierg.\n1, 4, 2 unter dem Familiennamen "
+    },
+    {
+     "lang": "grc",
+     "text": "Σελάχοι"
+    },
+    {
+     "lang": "deu",
+     "text": " zusammenfaßt), sind\ngrößtentheils lebendig gebärend, doch sondern sie auch Eier ab. Je-\ndoch beginnt die Bildung des Embryon im Ei, während dieses noch\nim Fische sich befindet, nur bei den sogenannten Fischmäusen, es\nsind dies die mäuseschwarzen, pergamentartigen, viereckigen und flachen\nan den Ecken verlängerten Eier der Rochen, sie werden mit dem\nin ihnen entwickelten Jungen geboren. Es wäre nun auf den Rochen\njene Angabe zur zweiten Stelle, daß der Embryo des unreinen Fisches\nschon im Mutterleibe beginne, wohl anwendbar. — C. Die Gräten-\nfische sind mit Ausnahme jener sub A gedachten zwei Fischarten\neierlegend, und auf sie bezieht sich der allgemeine Ausspruch, daß die\nFische eierlegend sind. So hätte man die allgemeinen Aussprüche des\nTalmuds zu specificiren und sie auf die verschiedenen Fischarten zu\nbeziehen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 304.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 304."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Ebenso ungenau sind die rabbinischen Angaben Betreffs der Aus-\nbrütung der Fischeier. Zu Bechoroth 7, b sagt Raschi: Der reine",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ebenso ungenau sind die rabbinischen Angaben Betreffs der Aus-\nbrütung der Fischeier. Zu Bechoroth 7, b sagt Raschi: Der reine"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3288,
+    2904
+   ],
+   [
+    3288,
+    2100
+   ]
+  ],
+  "input_tokens": 11329,
+  "output_tokens": 1556,
+  "cost_usd": 0.0382,
+  "seconds": 9.8
+ }
+}

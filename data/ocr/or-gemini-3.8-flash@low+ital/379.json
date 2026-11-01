@@ -1,0 +1,513 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Lateinisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Lateinisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Τ.\nΤαχίνας 153.\nΤαχύς 153.\nΤαώς 189.\nΤζίχλα 212.\nΤίγρις 70.\nΤραγέλαφος 117.\nΤρόχιλος 210.\n\nΥ.\nὝδρος 274.\n\nΦ.\nΦάλαινα 158.\nΦάσσα 186.\n\nΧ.\nΧαλκίς 276. 372.\nΧέλυς 232. 233.\nΧέρσυδρος 239.\n\nΨ.\nΨῆττα 274.\nΨυχή 364.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τ.\nΤαχίνας "
+    },
+    {
+     "lang": "deu",
+     "text": "153.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Ταχύς "
+    },
+    {
+     "lang": "deu",
+     "text": "153.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Ταώς "
+    },
+    {
+     "lang": "deu",
+     "text": "189.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Τζίχλα "
+    },
+    {
+     "lang": "deu",
+     "text": "212.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Τίγρις "
+    },
+    {
+     "lang": "deu",
+     "text": "70.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Τραγέλαφος "
+    },
+    {
+     "lang": "deu",
+     "text": "117.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Τρόχιλος "
+    },
+    {
+     "lang": "deu",
+     "text": "210.\n\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Υ.\nὝδρος "
+    },
+    {
+     "lang": "deu",
+     "text": "274.\n\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Φ.\nΦάλαινα "
+    },
+    {
+     "lang": "deu",
+     "text": "158.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Φάσσα "
+    },
+    {
+     "lang": "deu",
+     "text": "186.\n\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Χ.\nΧαλκίς "
+    },
+    {
+     "lang": "deu",
+     "text": "276. 372.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Χέλυς "
+    },
+    {
+     "lang": "deu",
+     "text": "232. 233.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Χέρσυδρος "
+    },
+    {
+     "lang": "deu",
+     "text": "239.\n\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Ψ.\nΨῆττα "
+    },
+    {
+     "lang": "deu",
+     "text": "274.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Ψυχή "
+    },
+    {
+     "lang": "deu",
+     "text": "364."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "II. Lateinisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "II. Lateinisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "A.\nAbramis Brama 264.\nAcarus farinae 312.\nAcarus scabici 325.\nAccipiter 164.\nAlalonga 258.\nAlauda 374.\nAlauda cristata 177. 186.\nAlcyonium cydonium 343.\nAlec 259.\nAmia 257.\nAnableps tetrophthalmus 244.\nAnas 193.\nAnas Histrionica 194.\nAnguis 366.\nAnser 193.\nAntilope Dorcas 127.\nAntilope Leucoryx 149.\nAntilope Oryx 114.\nAquila imperialis 166,\nAquila Valera 167\nAranea 376.\nArdea nycticorax 170.\nArdea stellaris 180.\nAscaris 339.\nAsellus 270:\nAsina 140.\nAsinus Lybicus 142.\nAsinus silvestris 143.\nAsopia farinalis 309.\nAtherina hepsetus 269.\nAtherina presbyter 269.\n\nB.\nBacchus 270.\nBacillus 296.\nBalaena 158.\nBalaena mysticetus 269.\nBombus lapidarius 361.\nBombyx mori 359.\nBruchus pisi 307.\nBuccinus 281.\n\nC.\nCallarias 270.\nCanis sagax 89.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "A.\nAbramis Brama "
+    },
+    {
+     "lang": "deu",
+     "text": "264.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Acarus farinae "
+    },
+    {
+     "lang": "deu",
+     "text": "312.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Acarus scabici "
+    },
+    {
+     "lang": "deu",
+     "text": "325.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Accipiter "
+    },
+    {
+     "lang": "deu",
+     "text": "164.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Alalonga "
+    },
+    {
+     "lang": "deu",
+     "text": "258.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Alauda "
+    },
+    {
+     "lang": "deu",
+     "text": "374.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Alauda cristata "
+    },
+    {
+     "lang": "deu",
+     "text": "177. 186.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Alcyonium cydonium "
+    },
+    {
+     "lang": "deu",
+     "text": "343.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Alec "
+    },
+    {
+     "lang": "deu",
+     "text": "259.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Amia "
+    },
+    {
+     "lang": "deu",
+     "text": "257.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Anableps tetrophthalmus "
+    },
+    {
+     "lang": "deu",
+     "text": "244.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Anas "
+    },
+    {
+     "lang": "deu",
+     "text": "193.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Anas Histrionica "
+    },
+    {
+     "lang": "deu",
+     "text": "194.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Anguis "
+    },
+    {
+     "lang": "deu",
+     "text": "366.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Anser "
+    },
+    {
+     "lang": "deu",
+     "text": "193.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Antilope Dorcas "
+    },
+    {
+     "lang": "deu",
+     "text": "127.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Antilope Leucoryx "
+    },
+    {
+     "lang": "deu",
+     "text": "149.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Antilope Oryx "
+    },
+    {
+     "lang": "deu",
+     "text": "114.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Aquila imperialis "
+    },
+    {
+     "lang": "deu",
+     "text": "166,\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Aquila Valera "
+    },
+    {
+     "lang": "deu",
+     "text": "167\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Aranea "
+    },
+    {
+     "lang": "deu",
+     "text": "376.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Ardea nycticorax "
+    },
+    {
+     "lang": "deu",
+     "text": "170.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Ardea stellaris "
+    },
+    {
+     "lang": "deu",
+     "text": "180.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Ascaris "
+    },
+    {
+     "lang": "deu",
+     "text": "339.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Asellus "
+    },
+    {
+     "lang": "deu",
+     "text": "270:\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Asina "
+    },
+    {
+     "lang": "deu",
+     "text": "140.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Asinus Lybicus "
+    },
+    {
+     "lang": "deu",
+     "text": "142.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Asinus silvestris "
+    },
+    {
+     "lang": "deu",
+     "text": "143.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Asopia farinalis "
+    },
+    {
+     "lang": "deu",
+     "text": "309.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Atherina hepsetus "
+    },
+    {
+     "lang": "deu",
+     "text": "269.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Atherina presbyter "
+    },
+    {
+     "lang": "deu",
+     "text": "269.\n\n"
+    },
+    {
+     "lang": "lat",
+     "text": "B.\nBacchus "
+    },
+    {
+     "lang": "deu",
+     "text": "270.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Bacillus "
+    },
+    {
+     "lang": "deu",
+     "text": "296.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Balaena "
+    },
+    {
+     "lang": "deu",
+     "text": "158.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Balaena mysticetus "
+    },
+    {
+     "lang": "deu",
+     "text": "269.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Bombus lapidarius "
+    },
+    {
+     "lang": "deu",
+     "text": "361.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Bombyx mori "
+    },
+    {
+     "lang": "deu",
+     "text": "359.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Bruchus pisi "
+    },
+    {
+     "lang": "deu",
+     "text": "307.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Buccinus "
+    },
+    {
+     "lang": "deu",
+     "text": "281.\n\n"
+    },
+    {
+     "lang": "lat",
+     "text": "C.\nCallarias "
+    },
+    {
+     "lang": "deu",
+     "text": "270.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Canis sagax "
+    },
+    {
+     "lang": "deu",
+     "text": "89."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2956,
+    2172
+   ],
+   [
+    2956,
+    2908
+   ]
+  ],
+  "input_tokens": 3346,
+  "output_tokens": 3153,
+  "cost_usd": 0.0143,
+  "seconds": 19.6
+ }
+}

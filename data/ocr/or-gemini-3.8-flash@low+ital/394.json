@@ -1,0 +1,121 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "394\nDeutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "394\nDeutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Esel, wilder 143.\nEselchen 270.\nEssigfliege 314.\nEule 162. 164.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Esel, wilder 143.\nEselchen 270.\nEssigfliege 314.\nEule 162. 164."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "F.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "F."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Falken 164.\nFangheuschrecke 293. 363.\nFasian 62.\nFeigenbohrer 310.\nFeigenfresser 211.\nFeigengallwespe 305.\nFeldlerche 177.\nFeldmaus 102. 107.\nFettgans 182\nFeuerschröter 294.\nFeuerwurm 350.\nFink 165.\nFinne 341.\nFischheber 174.\nFischlaus 341.\nFischmaus 244.\nFischreiher 169.\nFlachsfink 187.\nFlamingo 170. 171.\nFledermaus 102.\nFleischfliege 9.\nFliege 314.\nFliege, ägyptische 313.\nFliegenfänger 212.\nFliegenschnäpper 209.\nFloh 327.\nFlußadler 167,\nFlußschildkröte 233.\nForelle 273.\nFrettchen 95.\nFrosch 231. 369.\nFuchs 77.\nFuchsspitz 88.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Falken 164.\nFangheuschrecke 293. 363.\nFasian 62.\nFeigenbohrer 310.\nFeigenfresser 211.\nFeigengallwespe 305.\nFeldlerche 177.\nFeldmaus 102. 107.\nFettgans 182\nFeuerschröter 294.\nFeuerwurm 350.\nFink 165.\nFinne 341.\nFischheber 174.\nFischlaus 341.\nFischmaus 244.\nFischreiher 169.\nFlachsfink 187.\nFlamingo 170. 171.\nFledermaus 102.\nFleischfliege 9.\nFliege 314.\nFliege, ägyptische 313.\nFliegenfänger 212.\nFliegenschnäpper 209.\nFloh 327.\nFlußadler 167,\nFlußschildkröte 233.\nForelle 273.\nFrettchen 95.\nFrosch 231. 369.\nFuchs 77.\nFuchsspitz 88."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "G.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "G."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Gans 190. 194.\nGans, wilde 192.\nGartenschnecke 279.\nGazelle 126.\nGeier 167.\nGeierfalk 165.\nGimpel 181.\nGiorna 271.\nGiraffe 115.\nGoldadler 166.\nGrabvogel 175.\nGranatapfelwurm 311.\nGrashüpfer 290.\nGrasmücke 214.\nGreifgeier 168.\nGründling 266\nGrundel 266.\nGurgu 273.\nGurkenraupe 333.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Gans 190. 194.\nGans, wilde 192.\nGartenschnecke 279.\nGazelle 126.\nGeier 167.\nGeierfalk 165.\nGimpel 181.\nGiorna 271.\nGiraffe 115.\nGoldadler 166.\nGrabvogel 175.\nGranatapfelwurm 311.\nGrashüpfer 290.\nGrasmücke 214.\nGreifgeier 168.\nGründling 266\nGrundel 266.\nGurgu 273.\nGurkenraupe 333."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "H.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "H."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Habicht 164.\nHänfling 187.\nHäring 259.\nHai 244.\nHaifisch 17. 246.\nHalbmensch 356.\nHammer 367.\nHammerfisch 367.\nHardun 223.\nHase 109.\nHasli-Kuh 131.\nHaubenlerche 177.\nHausgans 31.\nHausmaus 106. 108.\nHausschwalbe 208.\nHaustaube 199.\nHautwurm 338.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Habicht 164.\nHänfling 187.\nHäring 259.\nHai 244.\nHaifisch 17. 246.\nHalbmensch 356.\nHammer 367.\nHammerfisch 367.\nHardun 223.\nHase 109.\nHasli-Kuh 131.\nHaubenlerche 177.\nHausgans 31.\nHausmaus 106. 108.\nHausschwalbe 208.\nHaustaube 199.\nHautwurm 338."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2832,
+    2043
+   ],
+   [
+    2832,
+    2961
+   ]
+  ],
+  "input_tokens": 3345,
+  "output_tokens": 1140,
+  "cost_usd": 0.0068,
+  "seconds": 12.7
+ }
+}

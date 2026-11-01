@@ -1,0 +1,361 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hebräisches und ara",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hebräisches und ara"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "עכבר 105. 107.\nעכבר דיכשה 106.\nעכבר שכים 269.\nעכברא 105.\nעכברא דברא 108.\nעכברא דטור 374.\nעכברא דמתא 108.\nעכברתא 105.\nעכנא 238.\nעכשוב 309.\nעלוקה 336.\nעליתה 351.\nעלק 336.\nעלקא 336.\nעסוד 225.\nעפיאן 261.\nעפיץ 261.\nעקוב 343.\nעקוש 343.\nעקרב 298.\nעקרב שכחדייב 299.\nערבונה 260.\nערב 54.\nערוד 143. 241.\nערעיתא 303.\nערפדא 102.\nערקא 336.\nערקבנין 298.\nעש 308.\nעתודים 119.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "עכבר"
+    },
+    {
+     "lang": "deu",
+     "text": " 105. 107.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכבר דיכשה"
+    },
+    {
+     "lang": "deu",
+     "text": " 106.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכבר שכים"
+    },
+    {
+     "lang": "deu",
+     "text": " 269.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכברא"
+    },
+    {
+     "lang": "deu",
+     "text": " 105.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכברא דברא"
+    },
+    {
+     "lang": "deu",
+     "text": " 108.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכברא דטור"
+    },
+    {
+     "lang": "deu",
+     "text": " 374.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכברא דמתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 108.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכברתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 105.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 238.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכשוב"
+    },
+    {
+     "lang": "deu",
+     "text": " 309.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עלוקה"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עליתה"
+    },
+    {
+     "lang": "deu",
+     "text": " 351.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עלק"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עלקא"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עסוד"
+    },
+    {
+     "lang": "deu",
+     "text": " 225.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עפיאן"
+    },
+    {
+     "lang": "deu",
+     "text": " 261.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עפיץ"
+    },
+    {
+     "lang": "deu",
+     "text": " 261.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עקוב"
+    },
+    {
+     "lang": "deu",
+     "text": " 343.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עקוש"
+    },
+    {
+     "lang": "deu",
+     "text": " 343.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עקרב"
+    },
+    {
+     "lang": "deu",
+     "text": " 298.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עקרב שכחדייב"
+    },
+    {
+     "lang": "deu",
+     "text": " 299.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערבונה"
+    },
+    {
+     "lang": "deu",
+     "text": " 260.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערב"
+    },
+    {
+     "lang": "deu",
+     "text": " 54.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערוד"
+    },
+    {
+     "lang": "deu",
+     "text": " 143. 241.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערעיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 303.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערפדא"
+    },
+    {
+     "lang": "deu",
+     "text": " 102.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערקא"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערקבנין"
+    },
+    {
+     "lang": "deu",
+     "text": " 298.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עש"
+    },
+    {
+     "lang": "deu",
+     "text": " 308.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עתודים"
+    },
+    {
+     "lang": "deu",
+     "text": " 119."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "פ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "פ"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "פאפליון 374.\nפרה 254.\nפה דתאנה 305.\nפוטיתא 274.\nפושקנצא 172.\nפחיא 194.\nפטרוזא 119.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "פאפליון"
+    },
+    {
+     "lang": "deu",
+     "text": " 374.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פרה"
+    },
+    {
+     "lang": "deu",
+     "text": " 254.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פה דתאנה"
+    },
+    {
+     "lang": "deu",
+     "text": " 305.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פוטיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 274.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פושקנצא"
+    },
+    {
+     "lang": "deu",
+     "text": " 172.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פחיא"
+    },
+    {
+     "lang": "deu",
+     "text": " 194.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פטרוזא"
+    },
+    {
+     "lang": "deu",
+     "text": " 119."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1740,
+    2038
+   ],
+   [
+    1740,
+    3058
+   ]
+  ],
+  "input_tokens": 11237,
+  "output_tokens": 1540,
+  "cost_usd": 0.0379,
+  "seconds": 9.2
+ }
+}

@@ -1,0 +1,138 @@
+# Fifth class: Molluscs (pp. 279–284)
+
+### ‎Fifth Class.
+
+### ‎Molluscs.
+
+### ‎§. 361.
+
+### ‎The Slug.
+
+‎שבלול (M. Katan [=Moed Katan] 6b). As it moves it leaves a moist trail behind it and thus in time dies from the consumption of its own fluids (ibid.), a belief already held by the Psalmist (Ps. [=Psalms] 58, 9). This glistening streak of its slime, which marks the slug's path, is seen especially in the great road slug (Lymax sylvaticus). This slug has no shell, which is why Rashi inaccurately explains שבלול by לימצון, Limaçon; the French word denotes the shelled snails, whereas Limace means the smooth slugs; one should therefore emend here to לימגא, and conversely, in the following article, in the explanation of חמט, read not לימגא but לימצון, since חמט is a shelled snail.
+
+‎Of the שבלול it is said that it serves as a remedy against blisters or ulcers (Sabbat 77b). As is well known, the road slug is very fatty and, among other things, also yields broths beneficial for those suffering from consumption.
+
+### ‎§. 362.
+
+### ‎The Garden Snail.
+
+‎Under this name is understood a very numerous genus of shelled snails, called Limaçon in French; equally generic is the name חמט (Chagiga 11a) for many species from the families of the Conchylia*). The חמט, it is said, is the size of a lentil at birth. On this Rashi: I hold that it is the creeping creature called לימגא (Limace, Italian Lumaco); it grows in its shell, which keeps rounding itself out as it grows. This shell, when it first forms, is like the husk of a lentil.
+
+‎On the formation of the spirally coiled shell of snails cf. Voigt [=F. S. Voigt, Lehrbuch der Zoologie (Stuttgart 1835–40); the text names it (p. 9: "Voigt, Lehrb. d. Zool.")] l. c. [=loco citato: in the work cited above] 3, p. 313 ff. For לימגא we must read לימצון in Rashi, on which compare the preceding [p. 280] article.
+
+‎The eggs of snails (Chulin 126b) do not have the white and the yolk separated (A. Sara [=Avodah Zarah] 40a).
+
+‎The snout of the pig is often stained with blood because it eats worms and other creeping creatures (Nidda 58b); among the latter we must think first of snails, which are frequently and abundantly eaten by pigs (Aristot. l. c. 9, 25, 3); the blood of worms, however, is for the most part white, that of snails white or bluish, and that statement of the Talmud should therefore be referred, not with Rashi to worms, but to small mammals, such as mice, rats and others, which the pig eats, its snout thereby becoming stained blood-red.
+
+### ‎§. 363.
+
+‎The חלזון so often mentioned by the Talmud, pl. חלזונות (Sanhedrin 91a) and חלזוני (A. Sara 28b), is the generic name of various shelled snails, of which the following are mentioned in the Talmud: 1) the Roman snail, 2) the trumpet shell, 3) the purple snail, 4) an indeterminate kind of mussel (perhaps the blue mussel), and 5) according to Maimuni even the cuttlefish. We treat them here in order.
+
+### ‎§. 364.
+
+### ‎The Roman Snail.
+
+‎Sanhedrin 91a states: R. Ami said to a Sadducee: Climb a mountain and see, today there is not a single חלזון on it*). The next morning rain fell and the mountain was covered with חלזונות.
+
+‎Rashi confuses the animal with the purple snail (§. 366), but wrongly, for the latter is caught with bait and is not brought out by rain; the Roman snails (Helix pomatia), on the other hand, come forth after a gentle rain from the hiding places to which they had withdrawn during drought or the heat of the day (Voigt l c. 3. p. 382). The mass appearance of these snails always remains a surprising phenomenon, which that rabbi held up against the denier of immortality.
+
+‎Landau here translates the word as earth snail, which multiplies in masses, especially in wet years, and is seen most after rain; since, however, our passage [p. 281] speaks of a mountain, a mountain snail is probably rather meant here.
+
+### ‎§. 365.
+
+### ‎The Trumpet Shell.
+
+‎Called Κήρυξ [kēryx] by Aristotle (loc. cit. 4, 4, 1); Buccinus by Pliny (loc. cit. 9, 36, 61). Its shell is coiled and rounded (Rosenmüller [=E. F. K. Rosenmüller, Handbuch der biblischen Alterthumskunde, vol. 4, part 2 (Leipzig 1831)]: Bibl. Alterth. [=E. F. K. Rosenmüller, Handbuch der biblischen Alterthumskunde (Leipzig 1823–31)] 4, 2. p. 452). Pliny says: The trumpet shell, which yields purple juice, clings only to rocks and is gathered around the cliffs.
+
+‎This snail appears to be meant in the following passage. Sabbat 26a states: Nebuzaradan appointed people from the lowest class of the populace to catch the חלזון on the narrow but high paths of the mountains of Tyre and Hippo.
+
+‎This latter city lay on the shore of the Mediterranean Sea, and it is therefore easily explained that the snail was caught there; it thus appears that this snail creeps all the way up onto the high mountains.
+
+‎On the obtaining of the juice, Sabbat 75a reports that the juice was squeezed out of the snails, with the remark that the juice of a snail crushed alive is clearer and more valuable.
+
+‎From this it follows that the Talmudic חלזון cannot be the Helix janthina (Voigt l. c.), for on the one hand the purple of this snail is obtained only when it is laid on glowing coals (Voigt ibid. p. 428), and on the other hand the juice of this animal, as long as it lives, is green or white; only when it dies does it acquire a beautiful violet colour resembling purple (Rosenmüller l. c. p. 452).
+
+‎In the passage Megilla 6a, where it is said that Zebulun can be content with his portion in the Holy Land because he possesses the חלזון, either the trumpet shell or the purple snail mentioned in the following article may be meant. The territory of that tribe bordered on the west, through the channel, on the Mediterranean Sea, in which both kinds of snail are found.
+
+‎On the method of obtaining the juice mentioned above, cf. Aristotle (loc. cit. 5, 13, 5), who agrees with the Talmudic statement. He says: One hastens to crush the snails while still alive, for if they die beforehand, that juice escapes them.
+
+### ‎[p. 282] §. 366.
+
+### ‎The Purple Snail.
+
+‎In Aristotle (loc. cit. 4, 4, 1): Πορφύρα [Porphyra]; in Pliny (loc. cit. 9, 36, 61): called Purpura, or Pelagia. The shell is egg-shaped, thick, mostly knobby; the aperture is strongly sinuate and ends in a short oblique canal; the shell is pointed (Voigt l. c. 3. p. 459).
+
+‎This snail is mentioned in the following passage: חלזון זה גופו דומה לים וברייתו דומה לדג ועולה אחד לשבעים שנה ובדמו צובעין תכלת לפיכך דמיו יקרים (Menachoth 44a). Raschi explains this passage as follows: The חלזון resembles the sea in the colour of its body, the fish in its origin, rises (from the sea*) only once in 70 years, when one then dyes the colour תכלת with its blood, which is why this is so expensive.
+
+‎Landau translates the words גופו דומה לים as „the inner colour, i.e., the juice, resembles the sea.“
+
+‎This translation is more correct, for, as mentioned, the purple snail is also called Pelagia in Latin, certainly so named from its sea-coloured juice (pelagus); it itself is blackish-brown; a related genus, Purpura patula, is cherry-reddish-brown (Voigt l. c. 3. p. 459 and 460); accordingly the resemblance to the colour of the sea must be referred not to the outward appearance but to the juice. The Talmud itself defines the colour of the sea as follows: תכלת resembles the sea, the sea the ether, the ether the throne of God, and this is of the colour of sapphire**).
+
+‎Sapphire is, as is well known, of a sky-blue colour, and so is the sea, in which the ether, i.e., the firmament, is reflected, and thus תכלת is the sky-blue colour. We are therefore not to understand by purple exclusively the red colour, but the colour in general that was obtained from the conchylia. Thus the shellfish of the Atlantic Ocean dye blackish, those on the Italian and Sicilian shores violet, and those on the Phoenician and in general on the southern coasts bright red. Cf. Heeren: Ideen über die Politik, den Verkehr und den Handel der alten Völker (part 1, division 2, p. 97).
+
+### ‎[p. 283] §. 367.
+
+‎Swindlers adulterated or imitated the colour, which is why various testing agents were used to recognize the genuineness or spuriousness of the colour. One took alum (אלום, Alumine), fenugreek (פנגריא, Fénugrec) and the urine of a child 40 days old (according to others: urine that had been kept for 40 days, cf. Tos. [=Tosafot] Nidda 63a. s.v. תנא), mixed everything together and placed some of the dyed object in it overnight; if the colour then still remained unspoiled, it was genuine.
+
+‎Another tested the genuineness of the colour by preparing very sharp leaven from barley flour, laying it on the dyed object, and if the colour thereupon only gained in beauty, it was genuine (Menachoth 43a).
+
+### ‎§. 368.
+
+### ‎The Mussel.
+
+‎A. Sara 28b it says: If someone has pains in the rectum, let him take משקרי חלוני as a remedy; so reads the Aruch; in our edition of the Talmud it reads משקדי, and the Aruch explains the animal as split frogs; but חלוני never means frog, but is a kind of shellfish, as Raschi also explains in our passage: לימיץ בלע"ז מין חלזון „Limace in our language, a kind of חלזון."
+
+‎Perhaps we should think here of the mussel, Greek Μυίσκα [Myiska]; it too is bivalved and may therefore be meant by משקדי; one split the shells in order to take it out and obtain the sperm. Nothing can be determined here with certainty.
+
+‎On the sea-nail see §. 513.
+
+### ‎§. 369.
+
+### ‎The Cuttlefish.
+
+‎The חלזון (purple snail) treated in §. 366 is, strikingly, explained by Maimuni (Jad ha-Chasaka hil. Zizith cap. 1) as the cuttlefish. He says: חלזון דג דומה עינו כעין תכלת ודמו שחור כדיו ובים המלח הוא מצוי. The חלזון is a fish whose colour is that of the תכלת, its blood*) is ink-black, and it is found in the Salt Sea (i.e. the Mediterranean Sea). The Tosephot (Sabbat 73b. s.v. מפרק) also take חלזון to be a fish, and even recent archaeologists agree [p. 284] with this (cf. Landau Aruch s.v.).
+
+‎But above all, תכלת was the colour obtained from the juice; this, however, according to the statement of the Talmud, whose view we have to examine here, is sky-blue, whereas the cuttlefish dyes black or brown. The cuttlefish itself (Sepia officinalis) is whitish, dotted with red and streaked above with white lines. Its white shell, known under the name of sea-foam, is always white; accordingly neither its outward appearance nor its juice is of the colour of the תכלת as the Talmud defines it.
+
+‎Or should עין perhaps mean „eye“? Is this perhaps supposed to be sky-blue? I found nowhere any statement about the colour of the eye in the cuttlefish, and this assumption is improbable already because of the following כעין תכלת.
+
+‎Maimuni's further statement, too, that the blood of the cuttlefish is black, is inaccurate, for its blood is white, and only in the abdomen is there the bladder filled with black fluid.
+
+‎Finally, this fish, although most frequent in the Mediterranean Sea, is nevertheless also found in all seas; it is much more common than the purple snail and so also much less precious; Sebulon (see §. 365) would then not have possessed so valuable a treasure of the sea as is represented in the possession of the חלזון. Cf. §. 314, note.
+
+### ‎§. 370.
+
+‎The question now arises what may have induced Maimuni and the Tosephot to designate חלזון as a kind of fish. First, it is the similarity of form of the body; in the purple snail the shell as well as the body is egg-shaped, and so is the cuttlefish.
+
+‎Then, as Landau rightly remarks, a reading in the LXX may have given occasion for this. For these translate תכלת in 4. B. M. [=Buch Mose: book of Moses (5. B. M. = Deuteronomy)] 4, 7 by ὁλοπόρφυρον [holoporphyron], i.e., „wholly purple“; another reading, however, ran ὁλοπόρφυρον [holoporphyron], and indeed the juice of the cuttlefish is called ὅλος [holos].
+
+‎Maimuni thus abandoned the Talmudic determination of the colour as "sky-blue" and instead took תכלת to be the brown colour. However, Maimuni's explanation is in itself already incorrect; for of the cuttlefish it is known only that the Romans in the first century used its juice as ink for writing. None of the ancient writers mentions the use of the cuttlefish's juice for dyeing; only conjurers smeared lamp and lights with that juice, whereby those present appeared copper-coloured in the [p. 285] face (Plin. h. n. [=Pliny the Elder, Natural History (Naturalis historia)] 32, 10, 52 and on this Harduin).
+
+‎The cuttlefish is, moreover, so common that in Italy it is frequently caught and eaten by the lowest class of the people, whereas the Talmud describes the חלזון as rare. The statement that it is seen only once in 70 years is a formula of exaggeration by which rarity is figuratively denoted. After all this, Maimuni's interpretation of חלזון may well be dropped.
+
+‎It may be remarked here in passing that in the Book Jezirah the word חלזון denotes the oyster*) and in the Jerusalem Talmud Sabbat 3b the same word denotes the whirring locust (§. 387).
+
+---
+
+**Notes**
+
+*p. 279*
+
+‎*) It may be noted here in passing that Aruch reads בכליאר for בכוליאר (Joma 25a) and explains it from κοχλίον [kochlion] "spirally wound like a snail": the priests stood in a circle like the shape of the snail.  
+
+*p. 280*
+
+‎*) Aruch reads אין שם חלזון אפילו אחד.  
+
+*p. 282*
+
+‎*) Rashi has מן הארץ, evidently a misprint; cf. Sanhedrin 91a and Megilla 6a.  
+‎**) This comparison of colours is even more extensive in Midr. [=Midrash] Jalkut part 2, §. 700, and very different from it ibid. §. 841 at the end.  
+
+*p. 283*
+
+‎*) On the etymology of דם see §. 80.  
+
+*p. 285*
+
+‎*) The passage in the preface of the Book Jezira 18a, which Buxtorf [=Johannes Buxtorf, Lexicon Chaldaicum, Talmudicum et Rabbinicum (Basel 1640)] (Lex. p. 2677) cites, reads: הנה חלזון אי אפשר לעמוד עליו אם הוא מכלל הדגים או מכלל הצומח כי הוא חי ומתנועע אינו מחליף מקומו כי הוא נעוץ ותקוע בארץ  

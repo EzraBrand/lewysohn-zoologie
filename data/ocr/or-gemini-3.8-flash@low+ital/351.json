@@ -1,0 +1,277 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Feuerwurm. — Der Schamirwurm.\t351",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Feuerwurm. — Der Schamirwurm.\t351"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "heizten Oefen in Cypern und zwar mitten im Feuer ein vierfüßiges,\ngeflügeltes Wesen von der Größe einer großen Fliege, welches Py-\nralis, von Einigen Pyrausta genannt wird. Es lebt, so lange\nes im Feuer bleibt, stirbt aber, wenn es kurze Zeit herumfliegt. —\nDie hierher gehörende Talmudstelle (Chulin 127, a) haben wir §.\n278 ausführlich mitgetheilt. In einer andern Stelle (Sanhedrin\n108, b) scheint speciell jenes fabelhafte Wesen Pyralis gemeint zu\nsein. Es heißt dort: Die Zeitgenossen der Sündfluth brüsteten sich\ndamit, daß sie, falls eine Feuerfluth kommen sollte, durch das Thier\nעליחה sich schützen werden. Raschi erklärt: עליחה ist ein Wesen, an\ndem das Feuer machtlos ist. — Im Midr. (Jalkut Schimoni 2. Th.\nfol. 149, col. 2) heißt das Thier: עיליחה, im Aruch: אליחא, was\nalso erklärt wird: Eine Art חיה (Thier), welche das Feuer verlöscht,\nund dieses bei ihrer Ankunft sich entfernt. — Diese Erklärung ent-\nspricht freilich mehr dem Sinn der Talmudstelle, da jene Gottlosen\ndoch das Feuer fern halten wollten. — Das Wort läßt sich zwiefach\nerklären אליחא (wie Aruch schreibt) mag a-laesa „unverletzlich“,\n„unzerstörbar“ heißen. Das Alpha=privativum ist auch sonst anzu-\ntreffen, s. §. 330. — Nach unserer Schreibart mag עליחה, in seinem\nStamme עלה, die Bedeutung von Feueraufsteigen (vergl. das\nhebr. עולה) haben, wie Pyralis und Pyrausta von Πῦρ, Feuer, ge=\nbildet sind. — Wie die Fabel von den Feuerwürmern erstanden ist,\nläßt sich wohl nicht nachweisen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "heizten Oefen in Cypern und zwar mitten im Feuer ein vierfüßiges,\ngeflügeltes Wesen von der Größe einer großen Fliege, welches "
+    },
+    {
+     "lang": "lat",
+     "text": "Py-\nralis"
+    },
+    {
+     "lang": "deu",
+     "text": ", von Einigen "
+    },
+    {
+     "lang": "lat",
+     "text": "Pyrausta"
+    },
+    {
+     "lang": "deu",
+     "text": " genannt wird. Es lebt, so lange\nes im Feuer bleibt, stirbt aber, wenn es kurze Zeit herumfliegt. —\nDie hierher gehörende Talmudstelle ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin"
+    },
+    {
+     "lang": "deu",
+     "text": " 127, a) haben wir §.\n278 ausführlich mitgetheilt. In einer andern Stelle ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sanhedrin"
+    },
+    {
+     "lang": "deu",
+     "text": "\n108, b) scheint speciell jenes fabelhafte Wesen "
+    },
+    {
+     "lang": "lat",
+     "text": "Pyralis"
+    },
+    {
+     "lang": "deu",
+     "text": " gemeint zu\nsein. Es heißt dort: Die Zeitgenossen der Sündfluth brüsteten sich\ndamit, daß sie, falls eine Feuerfluth kommen sollte, durch das Thier\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עליחה"
+    },
+    {
+     "lang": "deu",
+     "text": " sich schützen werden. Raschi erklärt: "
+    },
+    {
+     "lang": "heb",
+     "text": "עליחה"
+    },
+    {
+     "lang": "deu",
+     "text": " ist ein Wesen, an\ndem das Feuer machtlos ist. — Im Midr. (Jalkut Schimoni 2. Th.\nfol. 149, col. 2) heißt das Thier: "
+    },
+    {
+     "lang": "heb",
+     "text": "עיליחה"
+    },
+    {
+     "lang": "deu",
+     "text": ", im Aruch: "
+    },
+    {
+     "lang": "heb",
+     "text": "אליחא"
+    },
+    {
+     "lang": "deu",
+     "text": ", was\nalso erklärt wird: Eine Art "
+    },
+    {
+     "lang": "heb",
+     "text": "חיה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Thier), welche das Feuer verlöscht,\nund dieses bei ihrer Ankunft sich entfernt. — Diese Erklärung ent-\nspricht freilich mehr dem Sinn der Talmudstelle, da jene Gottlosen\ndoch das Feuer fern halten wollten. — Das Wort läßt sich zwiefach\nerklären "
+    },
+    {
+     "lang": "heb",
+     "text": "אליחא"
+    },
+    {
+     "lang": "deu",
+     "text": " (wie Aruch schreibt) mag "
+    },
+    {
+     "lang": "lat",
+     "text": "a-laesa"
+    },
+    {
+     "lang": "deu",
+     "text": " „unverletzlich“,\n„unzerstörbar“ heißen. Das "
+    },
+    {
+     "lang": "lat",
+     "text": "Alpha"
+    },
+    {
+     "lang": "deu",
+     "text": "=privativum ist auch sonst anzu-\ntreffen, s. §. 330. — Nach unserer Schreibart mag "
+    },
+    {
+     "lang": "heb",
+     "text": "עליחה"
+    },
+    {
+     "lang": "deu",
+     "text": ", in seinem\nStamme "
+    },
+    {
+     "lang": "heb",
+     "text": "עלה"
+    },
+    {
+     "lang": "deu",
+     "text": ", die Bedeutung von Feueraufsteigen (vergl. das\nhebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "עולה"
+    },
+    {
+     "lang": "deu",
+     "text": ") haben, wie "
+    },
+    {
+     "lang": "lat",
+     "text": "Pyralis"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "lat",
+     "text": "Pyrausta"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "grc",
+     "text": "Πῦρ"
+    },
+    {
+     "lang": "deu",
+     "text": ", Feuer, ge=\nbildet sind. — Wie die Fabel von den Feuerwürmern erstanden ist,\nläßt sich wohl nicht nachweisen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 500.\nDer Schamirwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 500.\nDer Schamirwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "שמיר (Sota 48, a) und שמירא (Gittin 68, b). Dieser Wurm\nwurde in der dem sechsten Schöpfungstage folgenden Abenddämme-\nrung geschaffen (Aboth 5, 6). Er ist von der Größe eines Gersten-\nkorns und vermag den härtesten Gegenstand zu zertheilen, oder in\nihn Vertiefungen einzugraben (Sota 48, b); man bediente sich des-\nhalb seiner bei der Anfertigung der eingravirten Steine auf dem\nBrustschild des Hohenpriesters; man schrieb nämlich die Namen der\nzwölf Stämme mit Tinte auf die zwölf Steine, und während der\nWurm bloß auf jene Züge blickte, bildeten sich jene Eingravirungen\nvon selbst, wobei nicht einmal etwas von dem Steinstoffe verloren\nging, da die Namen wie eingedrückt erschienen (Sota ibid.). Man",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "שמיר"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sota"
+    },
+    {
+     "lang": "deu",
+     "text": " 48, a) und "
+    },
+    {
+     "lang": "heb",
+     "text": "שמירא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Gittin"
+    },
+    {
+     "lang": "deu",
+     "text": " 68, b). Dieser Wurm\nwurde in der dem sechsten Schöpfungstage folgenden Abenddämme-\nrung geschaffen ("
+    },
+    {
+     "lang": "lat",
+     "text": "Aboth"
+    },
+    {
+     "lang": "deu",
+     "text": " 5, 6). Er ist von der Größe eines Gersten-\nkorns und vermag den härtesten Gegenstand zu zertheilen, oder in\nihn Vertiefungen einzugraben ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sota"
+    },
+    {
+     "lang": "deu",
+     "text": " 48, b); man bediente sich des-\nhalb seiner bei der Anfertigung der eingravirten Steine auf dem\nBrustschild des Hohenpriesters; man schrieb nämlich die Namen der\nzwölf Stämme mit Tinte auf die zwölf Steine, und während der\nWurm bloß auf jene Züge blickte, bildeten sich jene Eingravirungen\nvon selbst, wobei nicht einmal etwas von dem Steinstoffe verloren\nging, da die Namen wie eingedrückt erschienen ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sota ibid."
+    },
+    {
+     "lang": "deu",
+     "text": "). Man"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2070
+   ],
+   [
+    3308,
+    3106
+   ]
+  ],
+  "input_tokens": 3345,
+  "output_tokens": 2023,
+  "cost_usd": 0.0101,
+  "seconds": 12.0
+ }
+}

@@ -1,0 +1,341 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Verwandte Gattungen. — Die Fangheuschrecke.\n293",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Verwandte Gattungen. — Die Fangheuschrecke.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "293"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 387.\nVerwandte Gattung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 387.\nVerwandte Gattung."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Zum Geschlechte der חגב, zählt der Talmud ferner die Heuschrecke\nצַרְצוּר, die aber nicht gegessen werden darf; vielleicht ist sie mit der\n§. 385 gedachten Heuschreckenart, der unreinen Chagab, identisch.\nLandau übersetzt צרצור durch Kammheuschrecke, giebt hierfür\naber keinen Grund an. Das Wort ist vielmehr das syrische ܨܳܪܨܽܘܪܳܐ,\nwelches Castellus also erklärt: Species locustae repens, non volans,\npercutit radices arborum et exarescunt „eine kriechende, unbeflügelte\nHeuschreckenart, welche die Wurzeln der Bäume durchbohrt und diese\nverdorren.“ — Die unbeflügelte צרצור ist daher mit Recht als unrein\nbestimmt (§. 372). Mit dem syrischen Worte übersetzt der syrische\nUebersetzer auch das hebr. צלצל (die Buchstaben ל und ר verwandeln\nsich häufig; vergl. meine Aphorismen im L. Bl. des Orients 1849,\ncol. 302), welches Wort (5. B. M. 28, 42) nach Rosenmüller\n(a. a. O. 4, 2. S. 397) die Schwirrheuschrecke, Gryllus stri-\ndulus, sein soll; allein die leztre Heuschrecke ist beflügelt, vergl. §. 375.\n— Eher scheint צלצל die Ephippigera perforata (Voigt l. c. 5, S. 334)\nzu sein, von welcher ungeachtet der mangelnden Flügel die Männchen\ndennoch Töne hören lassen, was durch die Luftlöcher geschieht. Dem-\nnach wären צרצור und צלצל identisch. Sie hat nur 4 Füße (Chulin\n65, b); im Talm. jerus. Sabbat 3, b heißt unsere Heuschrecke חלוזון.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zum Geschlechte der "
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": ", zählt der Talmud ferner die Heuschrecke\n"
+    },
+    {
+     "lang": "heb",
+     "text": "צַרְצוּר"
+    },
+    {
+     "lang": "deu",
+     "text": ", die aber nicht gegessen werden darf; vielleicht ist sie mit der\n§. 385 gedachten Heuschreckenart, der unreinen Chagab, identisch.\nLandau übersetzt "
+    },
+    {
+     "lang": "heb",
+     "text": "צרצור"
+    },
+    {
+     "lang": "deu",
+     "text": " durch Kammheuschrecke, giebt hierfür\naber keinen Grund an. Das Wort ist vielmehr das syrische "
+    },
+    {
+     "lang": "syc",
+     "text": "ܨܳܪܨܽܘܪܳܐ"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nwelches Castellus also erklärt: "
+    },
+    {
+     "lang": "lat",
+     "text": "Species locustae repens, non volans,\npercutit radices arborum et exarescunt"
+    },
+    {
+     "lang": "deu",
+     "text": " „eine kriechende, unbeflügelte\nHeuschreckenart, welche die Wurzeln der Bäume durchbohrt und diese\nverdorren.“ — Die unbeflügelte "
+    },
+    {
+     "lang": "heb",
+     "text": "צרצור"
+    },
+    {
+     "lang": "deu",
+     "text": " ist daher mit Recht als unrein\nbestimmt (§. 372). Mit dem syrischen Worte übersetzt der syrische\nUebersetzer auch das hebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "צלצל"
+    },
+    {
+     "lang": "deu",
+     "text": " (die Buchstaben "
+    },
+    {
+     "lang": "heb",
+     "text": "ל"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "ר"
+    },
+    {
+     "lang": "deu",
+     "text": " verwandeln\nsich häufig; vergl. meine Aphorismen im L. Bl. des Orients 1849,\ncol. 302), welches Wort (5. B. M. 28, 42) nach Rosenmüller\n(a. a. O. 4, 2. S. 397) die Schwirrheuschrecke, "
+    },
+    {
+     "lang": "lat",
+     "text": "Gryllus stri-\ndulus"
+    },
+    {
+     "lang": "deu",
+     "text": ", sein soll; allein die leztre Heuschrecke ist beflügelt, vergl. §. 375.\n— Eher scheint "
+    },
+    {
+     "lang": "heb",
+     "text": "צלצל"
+    },
+    {
+     "lang": "deu",
+     "text": " die "
+    },
+    {
+     "lang": "lat",
+     "text": "Ephippigera perforata"
+    },
+    {
+     "lang": "deu",
+     "text": " (Voigt l. c. 5, S. 334)\nzu sein, von welcher ungeachtet der mangelnden Flügel die Männchen\ndennoch Töne hören lassen, was durch die Luftlöcher geschieht. Dem-\nnach wären "
+    },
+    {
+     "lang": "heb",
+     "text": "צרצור"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "צלצל"
+    },
+    {
+     "lang": "deu",
+     "text": " identisch. Sie hat nur 4 Füße ("
+    },
+    {
+     "lang": "lat",
+     "text": "Chulin\n65, b"
+    },
+    {
+     "lang": "deu",
+     "text": "); im Talm. jerus. "
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat 3, b"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt unsere Heuschrecke "
+    },
+    {
+     "lang": "arc",
+     "text": "חלוזון"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 388.\nEine verwandte Gattung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 388.\nEine verwandte Gattung."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Von der סקאה, womit der Chaldäer das bibl. צלצל (§. 387)\nübersetzt, ist der Plural סקאין (Tanit 6, a). Aus dieser Stelle geht\nbloß hervor, daß das Insect gefräßig und verderblich ist; es wird\nvon dem Spätregen (מלקוש) herbeigeführt. Vielleicht heißt סקאה\ndie „Herbeigeführte.“ נסק heißt „aufsteigen“, wie עלה, dann herbei-\nführen, die vom Regen herbeigeführte Heuschrecke hieße daher סקאה.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Von der "
+    },
+    {
+     "lang": "arc",
+     "text": "סקאה"
+    },
+    {
+     "lang": "deu",
+     "text": ", womit der Chaldäer das bibl. "
+    },
+    {
+     "lang": "heb",
+     "text": "צלצל"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 387)\nübersetzt, ist der Plural "
+    },
+    {
+     "lang": "arc",
+     "text": "סקאין"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Tanit 6, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). Aus dieser Stelle geht\nbloß hervor, daß das Insect gefräßig und verderblich ist; es wird\nvon dem Spätregen ("
+    },
+    {
+     "lang": "heb",
+     "text": "מלקוש"
+    },
+    {
+     "lang": "deu",
+     "text": ") herbeigeführt. Vielleicht heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "סקאה"
+    },
+    {
+     "lang": "deu",
+     "text": "\ndie „Herbeigeführte.“ "
+    },
+    {
+     "lang": "arc",
+     "text": "נסק"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt „aufsteigen“, wie "
+    },
+    {
+     "lang": "heb",
+     "text": "עלה"
+    },
+    {
+     "lang": "deu",
+     "text": ", dann herbei-\nführen, die vom Regen herbeigeführte Heuschrecke hieße daher "
+    },
+    {
+     "lang": "arc",
+     "text": "סקאה"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 389.\nDie Fangheuschrecke.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 389.\nDie Fangheuschrecke."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "איל קמצא (Idejoth 8, 4). Maimuni erklärt: איל קמצא ist eine\nHeuschreckenart, die einem Hirsch ähnlich ist. — Betrachtet man die\nFangheuschrecke, wenn sie die Fangfüße in der Höhe hält,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "איל קמצא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Idejoth 8, 4"
+    },
+    {
+     "lang": "deu",
+     "text": "). Maimuni erklärt: "
+    },
+    {
+     "lang": "heb",
+     "text": "איל קמצא"
+    },
+    {
+     "lang": "deu",
+     "text": " ist eine\nHeuschreckenart, die einem Hirsch ähnlich ist. — Betrachtet man die\nFangheuschrecke, wenn sie die Fangfüße in der Höhe hält,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3284,
+    2550
+   ],
+   [
+    3284,
+    2486
+   ]
+  ],
+  "input_tokens": 3340,
+  "output_tokens": 2336,
+  "cost_usd": 0.0113,
+  "seconds": 12.6
+ }
+}

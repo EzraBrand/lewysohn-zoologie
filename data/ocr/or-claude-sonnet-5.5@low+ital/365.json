@@ -1,0 +1,189 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Nachtrag.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nachtrag."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "365",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "365"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "und wollen wir hier nur ihre Ansichten anführen. — Raschi (zur\nBibelstelle) sagt: Eine Art schnelllaufender Kameele. — Ibn Esra\nhält das Wort als den Namen von Maulthieren, welche vom\nEsel und der Pferdestute geworfen, besser als die Maulesel (§. 168)\nsind. — In dem Commentar zum Buche Ester (welcher aus Excerp-\nten von Commentarien des R. Jos. Kara und des R. Sam. b. Meir\nbesteht und von Jellineck [Leipz. 1855] herausgegeben wurde) heißt\nes: „In einer Randglosse wurde bemerkt, daß רכש האחשתרנים Pferde\nmit acht Füßen sind, welche schnell laufen.“ Ein staatlicher Pen-\ndant zu dem bekannten griechischen Pegasus. — Das Targum\nübersetzt אחשתרנים durch: ערטליוני „Nackte“, d. i., Boten, welche\nalle überflüssigen Kleidungsstücke ablegen, damit sie so viel wie\nmöglich ungehindert und schnell fortkommen können; vielleicht aber\nin dem Sinne, daß die Abkömmlinge von Sklavinnen (בני הרמכים)\nnur dürftig und halbbekleidet zum Estafettendienste verwendet\nwurden.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "und wollen wir hier nur ihre Ansichten anführen. — Raschi (zur\nBibelstelle) sagt: Eine Art schnelllaufender Kameele. — Ibn Esra\nhält das Wort als den Namen von Maulthieren, welche vom\nEsel und der Pferdestute geworfen, besser als die Maulesel (§. 168)\nsind. — In dem Commentar zum Buche Ester (welcher aus Excerp-\nten von Commentarien des R. Jos. Kara und des R. Sam. b. Meir\nbesteht und von Jellineck [Leipz. 1855] herausgegeben wurde) heißt\nes: „In einer Randglosse wurde bemerkt, daß "
+    },
+    {
+     "lang": "heb",
+     "text": "רכש האחשתרנים"
+    },
+    {
+     "lang": "deu",
+     "text": " Pferde\nmit acht Füßen sind, welche schnell laufen.“ Ein staatlicher Pen-\ndant zu dem bekannten griechischen Pegasus. — Das Targum\nübersetzt "
+    },
+    {
+     "lang": "arc",
+     "text": "אחשתרנים"
+    },
+    {
+     "lang": "deu",
+     "text": " durch: "
+    },
+    {
+     "lang": "arc",
+     "text": "ערטליוני"
+    },
+    {
+     "lang": "deu",
+     "text": " „Nackte“, d. i., Boten, welche\nalle überflüssigen Kleidungsstücke ablegen, damit sie so viel wie\nmöglich ungehindert und schnell fortkommen können; vielleicht aber\nin dem Sinne, daß die Abkömmlinge von Sklavinnen ("
+    },
+    {
+     "lang": "heb",
+     "text": "בני הרמכים"
+    },
+    {
+     "lang": "deu",
+     "text": ")\nnur dürftig und halbbekleidet zum Estafettendienste verwendet\nwurden."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 519.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 519."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Midrasch Jalkut Schimoni 1. Th. fol. 201, a hat eine Leseart,\ndie sich in der Talmudstelle Bechoroth 57, b nicht findet, nämlich:\nחוירין שבמקומנו יש לה ששים רבוא קלפי עלין — יחוש שבמקומנו יש בו\nששים ריבוא קלפים כבית הםםם שלו. Von יחוש ist im Talmud nicht\ndie Rede. Wir überlassen es dem Wundermann von Anatom, der\nden Magen einer Mücke so scrupelös untersucht und bestimmt hat,\nnur sei hier auf die auffallende Variante und auf die seltene, viel-\nleicht falsche Schreibart von בית המסם für המסם im Midrasch auf-\nmerksam gemacht. Es sei indessen bemerkt, daß im selben Midr.\n2. Th. fol. 154, b die Leseart des Talmuds unverändert sich findet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Midrasch Jalkut Schimoni 1. Th. fol. 201, a hat eine Leseart,\ndie sich in der Talmudstelle Bechoroth 57, b nicht findet, nämlich:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חוירין שבמקומנו יש לה ששים רבוא קלפי עלין — יחוש שבמקומנו יש בו\nששים ריבוא קלפים כבית הםםם שלו"
+    },
+    {
+     "lang": "deu",
+     "text": ". Von "
+    },
+    {
+     "lang": "heb",
+     "text": "יחוש"
+    },
+    {
+     "lang": "deu",
+     "text": " ist im Talmud nicht\ndie Rede. Wir überlassen es dem Wundermann von Anatom, der\nden Magen einer Mücke so scrupelös untersucht und bestimmt hat,\nnur sei hier auf die auffallende Variante und auf die seltene, viel-\nleicht falsche Schreibart von "
+    },
+    {
+     "lang": "heb",
+     "text": "בית המסם"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "heb",
+     "text": "המסם"
+    },
+    {
+     "lang": "deu",
+     "text": " im Midrasch auf-\nmerksam gemacht. Es sei indessen bemerkt, daß im selben Midr.\n2. Th. fol. 154, b die Leseart des Talmuds unverändert sich findet."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 520.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 520."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Eine klassische Stelle, namentlich in Beziehung der Thierstim-\nmen, worüber wir §. 38 gehandelt haben, verdient das zweite Tar-\ngum zum Buche Esther (Cap. 1, v. 2) genannt zu werden. Wir\ngeben hier den Inhalt derselben, da sie außerdem für die Textkritik\nvon Interesse ist. Der Thron Salomon’s hatte sechs Stufen; auf\nder ersten fanden sich gegenüber der Löwe und der Stier; auf der\nzweiten das Schaf (צימרא) und der ריבא (ist diese Leseart richtig,\nso bedeutet das Wort: Wolf; in der weiter unten citirten Stelle",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine klassische Stelle, namentlich in Beziehung der Thierstim-\nmen, worüber wir §. 38 gehandelt haben, verdient das zweite Tar-\ngum zum Buche Esther (Cap. 1, v. 2) genannt zu werden. Wir\ngeben hier den Inhalt derselben, da sie außerdem für die Textkritik\nvon Interesse ist. Der Thron Salomon’s hatte sechs Stufen; auf\nder ersten fanden sich gegenüber der Löwe und der Stier; auf der\nzweiten das Schaf ("
+    },
+    {
+     "lang": "arc",
+     "text": "צימרא"
+    },
+    {
+     "lang": "deu",
+     "text": ") und der "
+    },
+    {
+     "lang": "arc",
+     "text": "ריבא"
+    },
+    {
+     "lang": "deu",
+     "text": " (ist diese Leseart richtig,\nso bedeutet das Wort: Wolf; in der weiter unten citirten Stelle"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2048
+   ],
+   [
+    3308,
+    2936
+   ]
+  ],
+  "input_tokens": 11351,
+  "output_tokens": 1645,
+  "cost_usd": 0.0392,
+  "seconds": 11.3
+ }
+}

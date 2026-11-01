@@ -1,0 +1,369 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "306\nDer Maikäfer.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "306\nDer Maikäfer."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Vacca rufa, Amsterd. 1711) übersetzt in der betreffenden Stelle im\nMaimuni (Cap. 9, §. 11) חפושין irrthümlich durch piscis (Fisch), wobei\ner ohne Zweifel an חיפושא (§. 345) gedacht hat. — Der aram. Name\nחפושיח entspricht dem arab. خُنْفَسَاءُ.*)",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Vacca rufa"
+    },
+    {
+     "lang": "deu",
+     "text": ", Amsterd. 1711) übersetzt in der betreffenden Stelle im\nMaimuni (Cap. 9, §. 11) "
+    },
+    {
+     "lang": "heb",
+     "text": "חפושין"
+    },
+    {
+     "lang": "deu",
+     "text": " irrthümlich durch "
+    },
+    {
+     "lang": "lat",
+     "text": "piscis"
+    },
+    {
+     "lang": "deu",
+     "text": " (Fisch), wobei\ner ohne Zweifel an "
+    },
+    {
+     "lang": "arc",
+     "text": "חיפושא"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 345) gedacht hat. — Der aram. Name\n"
+    },
+    {
+     "lang": "arc",
+     "text": "חפושיח"
+    },
+    {
+     "lang": "deu",
+     "text": " entspricht dem arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "خُنْفَسَاءُ"
+    },
+    {
+     "lang": "deu",
+     "text": ".*)"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 409.\nDer Maikäfer.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 409.\nDer Maikäfer."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Gegen Ohrschmerzen wird das Fett**) des großen חיפושחא em-\npfohlen (A. Sara 28, b). Das Insect heißt: חיפושחא גמלניחא. —\nDas Wort חיפושחא erklärt Raschi: אשקרבוט ובלשון כנען קרוקים, d. i.\nEscarbot, in einer andern Sprache***): „Kerukim.“ — Das Wort\nגמלניחא (transponirt aus μέγαλον; sieh ausführlich §. 355) erklärt\nderselbe durch: גסה והוא הנטון, „groß und zwar der Hanneton“ †).\nBekanntlich giebt es zwei Arten von Maikäfern, der gemeine (Melo-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Gegen Ohrschmerzen wird das Fett**) des großen "
+    },
+    {
+     "lang": "arc",
+     "text": "חיפושחא"
+    },
+    {
+     "lang": "deu",
+     "text": " em-\npfohlen (A. Sara 28, b). Das Insect heißt: "
+    },
+    {
+     "lang": "arc",
+     "text": "חיפושחא גמלניחא"
+    },
+    {
+     "lang": "deu",
+     "text": ". —\nDas Wort "
+    },
+    {
+     "lang": "arc",
+     "text": "חיפושחא"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "אשקרבוט ובלשון כנען קרוקים"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i.\n"
+    },
+    {
+     "lang": "fra",
+     "text": "Escarbot"
+    },
+    {
+     "lang": "deu",
+     "text": ", in einer andern Sprache***): „Kerukim.“ — Das Wort\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גמלניחא"
+    },
+    {
+     "lang": "deu",
+     "text": " (transponirt aus "
+    },
+    {
+     "lang": "grc",
+     "text": "μέγαλον"
+    },
+    {
+     "lang": "deu",
+     "text": "; sieh ausführlich §. 355) erklärt\nderselbe durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "גסה והוא הנטון"
+    },
+    {
+     "lang": "deu",
+     "text": ", „groß und zwar der "
+    },
+    {
+     "lang": "fra",
+     "text": "Hanneton"
+    },
+    {
+     "lang": "deu",
+     "text": "“ †).\nBekanntlich giebt es zwei Arten von Maikäfern, der gemeine ("
+    },
+    {
+     "lang": "lat",
+     "text": "Melo-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Das arab. ن geht in den aram. Wörtern verloren, so ist קפוד (§. 134)\ndas arab. قُنْفُذٌ; חזיר (§. 170) خِنْزِيرٌ; עכביש (§. 400) عَنْكَبُوتٌ u. a. m.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "ن"
+    },
+    {
+     "lang": "deu",
+     "text": " geht in den aram. Wörtern verloren, so ist "
+    },
+    {
+     "lang": "heb",
+     "text": "קפוד"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 134)\ndas arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "قُنْفُذٌ"
+    },
+    {
+     "lang": "deu",
+     "text": "; "
+    },
+    {
+     "lang": "arc",
+     "text": "חזיר"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 170) "
+    },
+    {
+     "lang": "ara",
+     "text": "خِنْزِيرٌ"
+    },
+    {
+     "lang": "deu",
+     "text": "; "
+    },
+    {
+     "lang": "heb",
+     "text": "עכביש"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 400) "
+    },
+    {
+     "lang": "ara",
+     "text": "عَنْكَبُوتٌ"
+    },
+    {
+     "lang": "deu",
+     "text": " u. a. m."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "In unserer Stelle heißt das Fett תרבא (s. §. 92); allein eigentliches\nFett fehlt den Insecten gänzlich; so sagt Aristoteles (Naturg. 7, 7): Fett (πιμε-\nλή) haben die Insecten nicht, wie dies überhaupt bei den Blutlosen (d. i. Weiß-\nblütigen) der Fall ist. Dasselbe wiederholt Plinius (h. n. 11, 4, 3); wir haben\ndaher hier unter תרבא den Saft des Maikäfers zu verstehen, der allerdings fettig\nsich anfühlt.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In unserer Stelle heißt das Fett "
+    },
+    {
+     "lang": "arc",
+     "text": "תרבא"
+    },
+    {
+     "lang": "deu",
+     "text": " (s. §. 92); allein eigentliches\nFett fehlt den Insecten gänzlich; so sagt Aristoteles (Naturg. 7, 7): Fett ("
+    },
+    {
+     "lang": "grc",
+     "text": "πιμε-\nλή"
+    },
+    {
+     "lang": "deu",
+     "text": ") haben die Insecten nicht, wie dies überhaupt bei den Blutlosen (d. i. Weiß-\nblütigen) der Fall ist. Dasselbe wiederholt Plinius (h. n. 11, 4, 3); wir haben\ndaher hier unter "
+    },
+    {
+     "lang": "arc",
+     "text": "תרבא"
+    },
+    {
+     "lang": "deu",
+     "text": " den Saft des Maikäfers zu verstehen, der allerdings fettig\nsich anfühlt."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Es ist nicht bestimmt, welche Sprache unter לשון כנען bei Raschi und\nandern Schriftstellern des Mittelalters gemeint ist. Sachs (Kerem Chemed 7.\nJahrg. S. 278) hält nach Vorgang Luzzatto's das im Sifri (P. Haasinu) vor-\nkommende לשון כנעני יערוף für syrisch; dieses vereinzelte Beispiel kann jedoch\nnicht für alle Stellen maßgebend sein, vergl. Fürst (L. Bl. d. Orients 1851.\ncol. 10); so ist bei Natan im Aruch unter diesem Ausdruck das Griechische\nverstanden (s. Landau: Marpe Laschon s. v. פרגין; vergl. auch Raschi zu R. Ha-\nschana 13, b und hierzu meinen Beitrag in Frankel's Monatsschrift 2c. 5. Jahrg.\nS. 478 s. v. פשאורו); so ist ferner in Raschi zu Deut. 3, 9 unter jenem Aus-\ndruck das Isländische, in welchem noch heute der Schnee Snioor heißt (vergl.\nMulder: Over de verdiensten van Raschi [Amsterdam 1826] S. 33) ge-\nmeint. Landau (nach Vorgang Binjamin Tudela's, s. das betreffende Citat bei\nRappoport in der dem עד גל vorangehenden Abhandlung, S. 43) behauptet, daß\ndarunter eine slavische Sprache (slavonische, böhmische, polnische und russische) zu\nverstehen sei. — Jedenfalls kann in unserer Stelle das Syrische nicht gemeint sein,\nda der Käfer auch hier ܚܫܘܫܐ heißt.",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Es ist nicht bestimmt, welche Sprache unter "
+    },
+    {
+     "lang": "heb",
+     "text": "לשון כנען"
+    },
+    {
+     "lang": "deu",
+     "text": " bei Raschi und\nandern Schriftstellern des Mittelalters gemeint ist. Sachs (Kerem Chemed 7.\nJahrg. S. 278) hält nach Vorgang Luzzatto's das im Sifri (P. Haasinu) vor-\nkommende "
+    },
+    {
+     "lang": "heb",
+     "text": "לשון כנעני יערוף"
+    },
+    {
+     "lang": "deu",
+     "text": " für syrisch; dieses vereinzelte Beispiel kann jedoch\nnicht für alle Stellen maßgebend sein, vergl. Fürst (L. Bl. d. Orients 1851.\ncol. 10); so ist bei Natan im Aruch unter diesem Ausdruck das Griechische\nverstanden (s. Landau: Marpe Laschon s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "פרגין"
+    },
+    {
+     "lang": "deu",
+     "text": "; vergl. auch Raschi zu R. Ha-\nschana 13, b und hierzu meinen Beitrag in Frankel's Monatsschrift 2c. 5. Jahrg.\nS. 478 s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "פשאורו"
+    },
+    {
+     "lang": "deu",
+     "text": "); so ist ferner in Raschi zu Deut. 3, 9 unter jenem Aus-\ndruck das Isländische, in welchem noch heute der Schnee Snioor heißt (vergl.\nMulder: Over de verdiensten van Raschi [Amsterdam 1826] S. 33) ge-\nmeint. Landau (nach Vorgang Binjamin Tudela's, s. das betreffende Citat bei\nRappoport in der dem "
+    },
+    {
+     "lang": "heb",
+     "text": "עד גל"
+    },
+    {
+     "lang": "deu",
+     "text": " vorangehenden Abhandlung, S. 43) behauptet, daß\ndarunter eine slavische Sprache (slavonische, böhmische, polnische und russische) zu\nverstehen sei. — Jedenfalls kann in unserer Stelle das Syrische nicht gemeint sein,\nda der Käfer auch hier "
+    },
+    {
+     "lang": "syc",
+     "text": "ܚܫܘܫܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Dieses Wort fehlt im Marpe Laschon von Landau.",
+   "marker": "†)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dieses Wort fehlt im Marpe Laschon von Landau."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3304,
+    2150
+   ],
+   [
+    3304,
+    3038
+   ]
+  ],
+  "input_tokens": 3319,
+  "output_tokens": 2665,
+  "cost_usd": 0.0125,
+  "seconds": 15.9
+ }
+}

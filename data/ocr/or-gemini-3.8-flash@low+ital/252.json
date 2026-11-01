@@ -1,0 +1,177 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "252\nDie spanische Makrele.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "252\nDie spanische Makrele."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "sagt Maimuni (Machschirin 6, 3): Der Colias Hyspanus ist ein\nFisch mit sehr weicher Haut und bei uns im Westen wohl bekannt;\nman nennt ihn al-Schebuto (اَلشَّبُّوطُ). — Was den Namen שבוטא\nbetrifft, so kommt er im Talmud so häufig und offenbar als Be-\nnennung verschiedener Fische vor (§. 337), daß er nicht genügend zur\nErklärung unseres Fisches dienen kann, wohl aber ist jene Angabe\nvon der Weichheit der Haut bezeichnend, denn die Thunfische haben\nim Allgemeinen eine glatte, mit ganz feinen Schuppen besetzte Haut,\nund so ist die Angabe des Talmuds (Sabbat 145, b), daß man den\nFisch einsalzte und alsdann ungekocht verzehrte, leicht erklärlich, da\ndas Salz bei der dünnen Haut in kurzer Zeit das Fleisch durchdringt,\nwelches, wie bei den Häringsarten, sogleich eßbar wird. Er theilt\nauch darin gewissermaßen die Natur des Härings, daß er in unge-\nheuren Zügen zur Frühlingszeit an den Küsten von Irland, Schott-\nland und Island nach dem atlantischen Ocean herabsteigt und großen-\ntheils an Portugal und Spanien vorbei in das Mittelmeer geht\n(Voigt l. c. 3, S. 189), wodurch sich der Name unseres Fisches er-\nklären läßt. Auch Raschi nennt ihn (Sabbat 39, a) bei dem spätern\nNamen טונינא, Thonine, wobei aber nicht an den gemeinen, 15—18\nFuß langen Thunfisch (§. 317) zu denken ist. — Als Naturhistorisches\nwird von unserem Fische noch angegeben, daß man ihn bloß mit\nwarmen Wasser abzuwaschen braucht, worauf er sogleich gegessen wer-\nden kann (Raschi Beza 16, b), daß er lange außerhalb des Wassers\nleben kann, daß man es aber vermeidet, ihn zu benetzen, da dieses\nsowohl unserm Fische, wie auch den zwei dort erwähnten Fischarten\nnachtheilig wird (Commentare zu Machschirin 6, 3), daß er endlich\neine schwache Wirbelsäule hat und so nicht wasserauf gehen kann\n(Sabbat 145, b), weshalb er in Palästina nicht vorhanden ist, da\ndieses Land über der Meeresfläche liegt (Samuel Edeles z. letztern St.).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "sagt Maimuni (Machschirin 6, 3): Der "
+    },
+    {
+     "lang": "lat",
+     "text": "Colias Hyspanus"
+    },
+    {
+     "lang": "deu",
+     "text": " ist ein\nFisch mit sehr weicher Haut und bei uns im Westen wohl bekannt;\nman nennt ihn "
+    },
+    {
+     "lang": "translit",
+     "text": "al-Schebuto"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "ara",
+     "text": "اَلشَّبُّوطُ"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Was den Namen "
+    },
+    {
+     "lang": "arc",
+     "text": "שבוטא"
+    },
+    {
+     "lang": "deu",
+     "text": "\nbetrifft, so kommt er im Talmud so häufig und offenbar als Be-\nnennung verschiedener Fische vor (§. 337), daß er nicht genügend zur\nErklärung unseres Fisches dienen kann, wohl aber ist jene Angabe\nvon der Weichheit der Haut bezeichnend, denn die Thunfische haben\nim Allgemeinen eine glatte, mit ganz feinen Schuppen besetzte Haut,\nund so ist die Angabe des Talmuds (Sabbat 145, b), daß man den\nFisch einsalzte und alsdann ungekocht verzehrte, leicht erklärlich, da\ndas Salz bei der dünnen Haut in kurzer Zeit das Fleisch durchdringt,\nwelches, wie bei den Häringsarten, sogleich eßbar wird. Er theilt\nauch darin gewissermaßen die Natur des Härings, daß er in unge-\nheuren Zügen zur Frühlingszeit an den Küsten von Irland, Schott-\nland und Island nach dem atlantischen Ocean herabsteigt und großen-\ntheils an Portugal und Spanien vorbei in das Mittelmeer geht\n(Voigt l. c. 3, S. 189), wodurch sich der Name unseres Fisches er-\nklären läßt. Auch Raschi nennt ihn (Sabbat 39, a) bei dem spätern\nNamen "
+    },
+    {
+     "lang": "heb",
+     "text": "טונינא"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Thonine"
+    },
+    {
+     "lang": "deu",
+     "text": ", wobei aber nicht an den gemeinen, 15—18\nFuß langen Thunfisch (§. 317) zu denken ist. — Als Naturhistorisches\nwird von unserem Fische noch angegeben, daß man ihn bloß mit\nwarmen Wasser abzuwaschen braucht, worauf er sogleich gegessen wer-\nden kann (Raschi Beza 16, b), daß er lange außerhalb des Wassers\nleben kann, daß man es aber vermeidet, ihn zu benetzen, da dieses\nsowohl unserm Fische, wie auch den zwei dort erwähnten Fischarten\nnachtheilig wird (Commentare zu Machschirin 6, 3), daß er endlich\neine schwache Wirbelsäule hat und so nicht wasserauf gehen kann\n(Sabbat 145, b), weshalb er in Palästina nicht vorhanden ist, da\ndieses Land über der Meeresfläche liegt (Samuel Edeles z. letztern St.)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 316.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 316."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Pesachim 39, a wird gefragt, ob nicht an dem\nPessachabend unter מרור (bitteres Kraut, das man an diesem Abend\ngenießt), nicht eine Pflanzenart, sondern מרירתא דכופיא, die Galle des\nFisches כופיא gemeint sein könnte. Raschi sagt bloß, das כופיא der\nName eines Fisches ist; Aruch hingegen hält כופיא mit קולים האספנין,\nder spanischen Makrele, identisch. Ist diese Angabe richtig, so läßt\nsich der Name erklären entweder durch das span. Chupete, wohl-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Pesachim 39, a wird gefragt, ob nicht an dem\nPessachabend unter "
+    },
+    {
+     "lang": "heb",
+     "text": "מרור"
+    },
+    {
+     "lang": "deu",
+     "text": " (bitteres Kraut, das man an diesem Abend\ngenießt), nicht eine Pflanzenart, sondern "
+    },
+    {
+     "lang": "arc",
+     "text": "מרירתא דכופיא"
+    },
+    {
+     "lang": "deu",
+     "text": ", die Galle des\nFisches "
+    },
+    {
+     "lang": "arc",
+     "text": "כופיא"
+    },
+    {
+     "lang": "deu",
+     "text": " gemeint sein könnte. Raschi sagt bloß, das "
+    },
+    {
+     "lang": "arc",
+     "text": "כופיא"
+    },
+    {
+     "lang": "deu",
+     "text": " der\nName eines Fisches ist; Aruch hingegen hält "
+    },
+    {
+     "lang": "arc",
+     "text": "כופיא"
+    },
+    {
+     "lang": "deu",
+     "text": " mit "
+    },
+    {
+     "lang": "arc",
+     "text": "קולים האספנין"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nder spanischen Makrele, identisch. Ist diese Angabe richtig, so läßt\nsich der Name erklären entweder durch das span. "
+    },
+    {
+     "lang": "other",
+     "text": "Chupete"
+    },
+    {
+     "lang": "deu",
+     "text": ", wohl-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3240,
+    2649
+   ],
+   [
+    3240,
+    2375
+   ]
+  ],
+  "input_tokens": 3367,
+  "output_tokens": 1524,
+  "cost_usd": 0.0082,
+  "seconds": 10.5
+ }
+}

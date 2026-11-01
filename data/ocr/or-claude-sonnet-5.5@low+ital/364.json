@@ -1,0 +1,245 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "364",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "364"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Nachtrag.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nachtrag."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "tanzt ein Kameel im innern Raume einer Metze“ (Jebamoth 45, a),\nwomit die maßlose Uebertreibung bezeichnet wird.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "tanzt ein Kameel im innern Raume einer Metze“ (Jebamoth 45, a),\nwomit die maßlose Uebertreibung bezeichnet wird."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 517.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 517."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der letzte Vers des Buches Jesaias bietet in zoologischer Hin-\nsicht mehrfach Interessantes. Derselbe lautet: ויצאו וראו בפגרי האנשים\nהפשעים בי כי תולעתם לא תמות ואשם לא תכבה והיו דראון לכל בשר.\nNach Raschi ist תולעת die Leichenmade, und דראון nach Kimchi iden-\ntisch mit דירה (§. 413); allein welchen Sinn hätte die Phrase: „ihre\nMade wird nicht sterben“? Muß nicht mit dem Ueberrest der Lei-\nchen auch die daraus entwickelte Made endlich aufhören? דירה ist\nferner ein trockenes, saftloses Insect, was nicht bei jener Made der\nFall ist. Fügen wir hinzu, daß Jonathan auffallend jene Phrase\ndurch ארי נשמתהון לא ימותון wiedergiebt, und es fragt sich, wie תולע\ndurch נשמה erklärt werden kann. Die Erklärung Pollak's (im\nhebr. Jeschurun 2. Hft. S. 61), daß Ψυχή Schmetterling heiße,\nund wie der Schmetterling in der Puppe, so die Seele im Kör-\nper gehüllt ist, muß allzu künstlich erscheinen, Ich möchte גשמהון\nfür נשמתהון lesen; der menschliche Körper wird auch sonst Wurm\ngenannt, s. Job. 25, 6; Ps. 22, 7; אשם ist (nach Erklärung der\nmeisten Commentare) Bezeichnung der Seele und so in unserer Stelle\nder Gegensatz von תולעה, d. i., dem Körper. Der Sinn unserer\nStelle ist: Die Bösewichter werden durch den abschreckenden Zu-\nstand ihres Wesens ein Scheusal für alle Wesen werden. Ihre Seele\nwird nicht erlöschen und so ihr Körper nicht absterben, sie werden\ndaher im Zustand der Agonie sich befinden. Die Uebersetzung des\nVerses wäre daher: „Man wird hinausgehen, um Leichname jener\nBösewichter sehen zu wollen; doch ihr Körper wird nicht absterben,\nda ihre Seele nicht erlischt, und sie somit ein Scheusal für alle We-\nsen werden.“ — כי hat hier die Bedeutung des Gegensatzes, wie\nsonst sehr häufig, und schon Kimchi bezieht תולעת auf den Körper.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der letzte Vers des Buches Jesaias bietet in zoologischer Hin-\nsicht mehrfach Interessantes. Derselbe lautet: "
+    },
+    {
+     "lang": "heb",
+     "text": "ויצאו וראו בפגרי האנשים"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "הפשעים בי כי תולעתם לא תמות ואשם לא תכבה והיו דראון לכל בשר"
+    },
+    {
+     "lang": "deu",
+     "text": ".\nNach Raschi ist "
+    },
+    {
+     "lang": "heb",
+     "text": "תולעת"
+    },
+    {
+     "lang": "deu",
+     "text": " die Leichenmade, und "
+    },
+    {
+     "lang": "heb",
+     "text": "דראון"
+    },
+    {
+     "lang": "deu",
+     "text": " nach Kimchi iden-\ntisch mit "
+    },
+    {
+     "lang": "heb",
+     "text": "דירה"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 413); allein welchen Sinn hätte die Phrase: „ihre\nMade wird nicht sterben“? Muß nicht mit dem Ueberrest der Lei-\nchen auch die daraus entwickelte Made endlich aufhören? "
+    },
+    {
+     "lang": "heb",
+     "text": "דירה"
+    },
+    {
+     "lang": "deu",
+     "text": " ist\nferner ein trockenes, saftloses Insect, was nicht bei jener Made der\nFall ist. Fügen wir hinzu, daß Jonathan auffallend jene Phrase\ndurch "
+    },
+    {
+     "lang": "arc",
+     "text": "ארי נשמתהון לא ימותון"
+    },
+    {
+     "lang": "deu",
+     "text": " wiedergiebt, und es fragt sich, wie "
+    },
+    {
+     "lang": "heb",
+     "text": "תולע"
+    },
+    {
+     "lang": "deu",
+     "text": "\ndurch "
+    },
+    {
+     "lang": "arc",
+     "text": "נשמה"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt werden kann. Die Erklärung Pollak's (im\nhebr. Jeschurun 2. Hft. S. 61), daß "
+    },
+    {
+     "lang": "grc",
+     "text": "Ψυχή"
+    },
+    {
+     "lang": "deu",
+     "text": " Schmetterling heiße,\nund wie der Schmetterling in der Puppe, so die Seele im Kör-\nper gehüllt ist, muß allzu künstlich erscheinen, Ich möchte "
+    },
+    {
+     "lang": "arc",
+     "text": "גשמהון"
+    },
+    {
+     "lang": "deu",
+     "text": "\nfür "
+    },
+    {
+     "lang": "arc",
+     "text": "נשמתהון"
+    },
+    {
+     "lang": "deu",
+     "text": " lesen; der menschliche Körper wird auch sonst Wurm\ngenannt, s. Job. 25, 6; Ps. 22, 7; "
+    },
+    {
+     "lang": "heb",
+     "text": "אשם"
+    },
+    {
+     "lang": "deu",
+     "text": " ist (nach Erklärung der\nmeisten Commentare) Bezeichnung der Seele und so in unserer Stelle\nder Gegensatz von "
+    },
+    {
+     "lang": "heb",
+     "text": "תולעה"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i., dem Körper. Der Sinn unserer\nStelle ist: Die Bösewichter werden durch den abschreckenden Zu-\nstand ihres Wesens ein Scheusal für alle Wesen werden. Ihre Seele\nwird nicht erlöschen und so ihr Körper nicht absterben, sie werden\ndaher im Zustand der Agonie sich befinden. Die Uebersetzung des\nVerses wäre daher: „Man wird hinausgehen, um Leichname jener\nBösewichter sehen zu wollen; doch ihr Körper wird nicht absterben,\nda ihre Seele nicht erlischt, und sie somit ein Scheusal für alle We-\nsen werden.“ — "
+    },
+    {
+     "lang": "heb",
+     "text": "כי"
+    },
+    {
+     "lang": "deu",
+     "text": " hat hier die Bedeutung des Gegensatzes, wie\nsonst sehr häufig, und schon Kimchi bezieht "
+    },
+    {
+     "lang": "heb",
+     "text": "תולעת"
+    },
+    {
+     "lang": "deu",
+     "text": " auf den Körper."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 518.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 518."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Während der Talmud (Megilla 18, a) es ausspricht, daß er\ndie Bedeutung des biblischen אחשתרנים (Ester 8, 10) nicht kennt,\nwird das Wort von neuern Gelehrten als Courire (Bensey: Mo-\nnatsnamen 2c. S. 188), oder königliche Boten (Fürst im W.-B.)\nerklärt. Die alten Exegeten halten das Wort als einen Thiernamen,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Während der Talmud (Megilla 18, a) es ausspricht, daß er\ndie Bedeutung des biblischen "
+    },
+    {
+     "lang": "heb",
+     "text": "אחשתרנים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Ester 8, 10) nicht kennt,\nwird das Wort von neuern Gelehrten als Courire (Bensey: Mo-\nnatsnamen 2c. S. 188), oder königliche Boten (Fürst im W.-B.)\nerklärt. Die alten Exegeten halten das Wort als einen Thiernamen,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2356
+   ],
+   [
+    3308,
+    2680
+   ]
+  ],
+  "input_tokens": 11384,
+  "output_tokens": 1892,
+  "cost_usd": 0.0417,
+  "seconds": 11.9
+ }
+}

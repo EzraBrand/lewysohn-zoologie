@@ -1,0 +1,117 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "346\nDie Erdmaus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "346\nDie Erdmaus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Aufgabe ist die Existenz jenes zoophytischen Geschöpfes nachzuweisen,\nund hierfür sind viele gewichtige Zeugen. Diodorus Siculus\n(Bibliothek B. 1. Cap. 10) sagt: Die Aegypter behaupten, daß die\nersten Menschen in Aegypten entstanden seien, vermöge des guten\nKlima's des Landes und der Fruchtbarkeit des Nils. Die erste Ent=\nstehung der Thiere bei ihnen beweisen sie dadurch, daß noch jetzt in\nThebais zu gewissen Zeiten, das Land so viele und so große Mäuse\nhervorbringt, daß die, welche es sehen, es bewundern. Einige derselben\nsind bis an die Brust und Vorderfüße ausgebildet und bekommen\nBewegung, während der übrige Theil des Körpers noch Erdkloß\nist*). Aelian (Thierg. 2, 56) sagt: Wie ich höre entstehen, wenn\nin Thebais Schlossen und Regen fallen, Mäuse, welche zum Theil aus\nschlammigem Koth, zum Theil aus Fleisch bestehen **). — Ueber die=\nsen Zoophyten spricht Aelian ferner und ausführlicher Buch 6. Cap. 41.\n— Jacobs in den Scholien zur ersten Stelle citirt noch Basi=\nlios (den Heiligen, lebte im 4. Jahrh. christl. Aera und war somit\nZeitgenosse der Talmudisten), der da sagt: Um Theben und Aegyp=\nten füllt sich der Boden mit Erdmäusen, sobald es in den heißen\nTagen stark regnet ***); er citirt ferner Plinius h. n. 9, 58, 84†),\nPlutarch 2. Th. p. 637 und Philopon. in Gen. Cap. 1, p. 196;\nvergl. noch Ovid (Metam. 1, v. 422 ff.). Bei so vielen Zeugen,\nkann wohl dem Talmud kein Vorwurf gemacht werden, wenn er in\nbestimmter Weise von diesem Zoophyten spricht, und Leopold Löw\n(s. Ha-Chalutz 3. Th. S. 168) hätte gut gethan obige Quellen\nnachzulesen, bevor er über den Talmud in Ironie sich verliert.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Aufgabe ist die Existenz jenes zoophytischen Geschöpfes nachzuweisen,\nund hierfür sind viele gewichtige Zeugen. Diodorus Siculus\n(Bibliothek B. 1. Cap. 10) sagt: Die Aegypter behaupten, daß die\nersten Menschen in Aegypten entstanden seien, vermöge des guten\nKlima's des Landes und der Fruchtbarkeit des Nils. Die erste Ent=\nstehung der Thiere bei ihnen beweisen sie dadurch, daß noch jetzt in\nThebais zu gewissen Zeiten, das Land so viele und so große Mäuse\nhervorbringt, daß die, welche es sehen, es bewundern. Einige derselben\nsind bis an die Brust und Vorderfüße ausgebildet und bekommen\nBewegung, während der übrige Theil des Körpers noch Erdkloß\nist*). Aelian (Thierg. 2, 56) sagt: Wie ich höre entstehen, wenn\nin Thebais Schlossen und Regen fallen, Mäuse, welche zum Theil aus\nschlammigem Koth, zum Theil aus Fleisch bestehen **). — Ueber die=\nsen Zoophyten spricht Aelian ferner und ausführlicher Buch 6. Cap. 41.\n— Jacobs in den Scholien zur ersten Stelle citirt noch Basi=\nlios (den Heiligen, lebte im 4. Jahrh. christl. Aera und war somit\nZeitgenosse der Talmudisten), der da sagt: Um Theben und Aegyp=\nten füllt sich der Boden mit Erdmäusen, sobald es in den heißen\nTagen stark regnet ***); er citirt ferner Plinius h. n. 9, 58, 84†),\nPlutarch 2. Th. p. 637 und Philopon. in Gen. Cap. 1, p. 196;\nvergl. noch Ovid (Metam. 1, v. 422 ff.). Bei so vielen Zeugen,\nkann wohl dem Talmud kein Vorwurf gemacht werden, wenn er in\nbestimmter Weise von diesem Zoophyten spricht, und Leopold Löw\n(s. Ha-Chalutz 3. Th. S. 168) hätte gut gethan obige Quellen\nnachzulesen, bevor er über den Talmud in Ironie sich verliert."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "(Anhang.) Sanhedrin 91, a heißt es: Es wurde einem Zweif=\nler an der Auferstehung der Todten entgegengehalten, daß er auf\ndas Feld gehe und zusehe, wie die Maus heute halb aus Fleisch, halb",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "(Anhang.) Sanhedrin 91, a heißt es: Es wurde einem Zweif=\nler an der Auferstehung der Todten entgegengehalten, daß er auf\ndas Feld gehe und zusehe, wie die Maus heute halb aus Fleisch, halb"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "grc",
+   "text": "Ἐνίους γὰρ αὐτῶν ἕως μὲν τοῦ στήθους καὶ τῶν ἐμπροσθίων ποδῶν\nδιατετυπῶσθαι καὶ κίνησιν λαμβάνειν, τό δὲ λοιπὸν τοῦ σώματος ἔχειν ἀδια-\nτύπωτον, μενούσης ἔτι κατὰ φύσιν τῆς βώλου.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἐνίους γὰρ αὐτῶν ἕως μὲν τοῦ στήθους καὶ τῶν ἐμπροσθίων ποδῶν\nδιατετυπῶσθαι καὶ κίνησιν λαμβάνειν, τό δὲ λοιπὸν τοῦ σώματος ἔχειν ἀδια-\nτύπωτον, μενούσης ἔτι κατὰ φύσιν τῆς βώλου."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "grc",
+   "text": "Ἀκούω δὲ ἐν τῇ Θηβαΐδι χαλάζης πεσούσης ἐπὶ τῆς γῆς ὁρᾶσθαι μῦς,\nὧν τὸ μὲν πηλός ἐστιν ἔτι, τὸ δὲ σάρξ ἤδη.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ἀκούω δὲ ἐν τῇ Θηβαΐδι χαλάζης πεσούσης ἐπὶ τῆς γῆς ὁρᾶσθαι μῦς,\nὧν τὸ μὲν πηλός ἐστιν ἔτι, τὸ δὲ σάρξ ἤδη."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "grc",
+   "text": "Ὅπου γε περὶ Θήβας τὰς Αἰγυπτίας ἐπειδὰν ὕσῃ ἐν καύμασι, εὐθὺς\nἀρουραίων μυῶν ἡ χώρα ἀποπληροῦται.",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὅπου γε περὶ Θήβας τὰς Αἰγυπτίας ἐπειδὰν ὕσῃ ἐν καύμασι, εὐθὺς\nἀρουραίων μυῶν ἡ χώρα ἀποπληροῦται."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Harduin erzählt an dieser Stelle aus eigener Erfahrung: Et nos ani-\nmalcula vidimus e ligno putri pariter inchoata, jam parte corporis viventia,\nnovissima earum parte adhuc lignea sensus experte, ein Beweis mehr für\ndie Möglichkeit der Existenz unseres Zoophyten.",
+   "marker": "†)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Harduin erzählt an dieser Stelle aus eigener Erfahrung: "
+    },
+    {
+     "lang": "lat",
+     "text": "Et nos ani-\nmalcula vidimus e ligno putri pariter inchoata, jam parte corporis viventia,\nnovissima earum parte adhuc lignea sensus experte"
+    },
+    {
+     "lang": "deu",
+     "text": ", ein Beweis mehr für\ndie Möglichkeit der Existenz unseres Zoophyten."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3304,
+    3042
+   ],
+   [
+    3304,
+    2106
+   ]
+  ],
+  "input_tokens": 3319,
+  "output_tokens": 1282,
+  "cost_usd": 0.0073,
+  "seconds": 9.4
+ }
+}

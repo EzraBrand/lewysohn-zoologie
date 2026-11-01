@@ -1,0 +1,181 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "356\nDer Halbmensch.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "356\nDer Halbmensch."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 506.\nDer Halbmensch.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 506.\nDer Halbmensch."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Während wir sicher annehmen können, daß die Mischna) Kila-\njim 8, 5) unter אדני שדה entweder den Orang-Utang, oder den\nSchimpansen verstand, worüber ausführlich §. 111 gehandelt\nwurde, so haben doch die Commentare unter jenem Namen ein fabel-\nhaftes Thier verstanden und es verschiedentlich erklärt. — Mai-\nmuni sagt: „אדני שדה sind menschenähnliche Thiere; die Erzähler\nder Weltwunder theilen mit, daß dieses Thier unverständliche Reden,\naber mit menschlicher Stimme spricht; es heißt im Aarabischen אל\nנאנס (اَلنَّسْنَاسُ) und erzählen Jene in den Büchern Vieles von ihm.“\n— Dieses fabelhafte Thier ist nach Bochart (Hieroz. 2, 6, 13, p.\n845) ein halbmenschliches Wesen; Kopf, Schulter, Brust und Leib\nsind zur Hälfte menschähnlich; es hat ein Ohr und ein Auge. Hier-\nmit vergl. man Plinius (h. n. 7, 2, 2).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Während wir sicher annehmen können, daß die Mischna) Kila-\njim 8, 5) unter "
+    },
+    {
+     "lang": "heb",
+     "text": "אדני שדה"
+    },
+    {
+     "lang": "deu",
+     "text": " entweder den Orang-Utang, oder den\nSchimpansen verstand, worüber ausführlich §. 111 gehandelt\nwurde, so haben doch die Commentare unter jenem Namen ein fabel-\nhaftes Thier verstanden und es verschiedentlich erklärt. — Mai-\nmuni sagt: „"
+    },
+    {
+     "lang": "heb",
+     "text": "אדני שדה"
+    },
+    {
+     "lang": "deu",
+     "text": " sind menschenähnliche Thiere; die Erzähler\nder Weltwunder theilen mit, daß dieses Thier unverständliche Reden,\naber mit menschlicher Stimme spricht; es heißt im Aarabischen "
+    },
+    {
+     "lang": "heb",
+     "text": "אל"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נאנס"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "ara",
+     "text": "اَلنَّسْنَاسُ"
+    },
+    {
+     "lang": "deu",
+     "text": ") und erzählen Jene in den Büchern Vieles von ihm.“\n— Dieses fabelhafte Thier ist nach Bochart ("
+    },
+    {
+     "lang": "lat",
+     "text": "Hieroz."
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 6, 13, p.\n845) ein halbmenschliches Wesen; Kopf, Schulter, Brust und Leib\nsind zur Hälfte menschähnlich; es hat ein Ohr und ein Auge. Hier-\nmit vergl. man Plinius ("
+    },
+    {
+     "lang": "lat",
+     "text": "h. n."
+    },
+    {
+     "lang": "deu",
+     "text": " 7, 2, 2)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Dahingegen heißt es im jerusalemitischen Talmud (angef. bei Sim-\nson zur obigen Mischnastelle): Das Thier zieht seine Nahrung aus\ndem Boden mittels der Nabelschnur; wird diese Schnur durchgerissen,\nso stirbt das Thier, wozu Meier b. Kalonymos aus Speier hinzu-\nfügt: Es giebt ein Thier, welches ידוע (§. 508) heißt; mit seinen\nKnochen werden Zaubereien bewirkt. Es wächst aus der Erde wie\neine Schnur hervor, gerade so wie Kürbisse. Der ידוע hat ganz und\ngar die Gestalt eines Menschen, und kein Geschöpf darf sich ihm so-\nweit jene Schnur reicht nähern, denn er erfaßt Alles und tödtet es.\nEr weidet auch die Gewächse des Bodens rings herum ab, soweit\neben jene Schnur reicht. Will man dieses Thier erlegen, so darf\nman sich ihm nicht nähern, sondern an der Schnur reißen bis sie\nzerreißt, dann stirbt das Thier bald darauf. — Bartenoro folgt\nderselben Erklärung, nur läßt er das Thier dadurch sterben, daß\nman die Nabelschnur durch Pfeile durchschießen läßt. Diese Erklä-\nrung wiederholt Bartenoro zu Sanhedrin 7, 7 über ידעוני. — Vergl.\nnoch Sefer ha-Brit Bl. 62, S. 2.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dahingegen heißt es im jerusalemitischen Talmud (angef. bei Sim-\nson zur obigen Mischnastelle): Das Thier zieht seine Nahrung aus\ndem Boden mittels der Nabelschnur; wird diese Schnur durchgerissen,\nso stirbt das Thier, wozu Meier b. Kalonymos aus Speier hinzu-\nfügt: Es giebt ein Thier, welches "
+    },
+    {
+     "lang": "heb",
+     "text": "ידוע"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 508) heißt; mit seinen\nKnochen werden Zaubereien bewirkt. Es wächst aus der Erde wie\neine Schnur hervor, gerade so wie Kürbisse. Der "
+    },
+    {
+     "lang": "heb",
+     "text": "ידוע"
+    },
+    {
+     "lang": "deu",
+     "text": " hat ganz und\ngar die Gestalt eines Menschen, und kein Geschöpf darf sich ihm so-\nweit jene Schnur reicht nähern, denn er erfaßt Alles und tödtet es.\nEr weidet auch die Gewächse des Bodens rings herum ab, soweit\neben jene Schnur reicht. Will man dieses Thier erlegen, so darf\nman sich ihm nicht nähern, sondern an der Schnur reißen bis sie\nzerreißt, dann stirbt das Thier bald darauf. — Bartenoro folgt\nderselben Erklärung, nur läßt er das Thier dadurch sterben, daß\nman die Nabelschnur durch Pfeile durchschießen läßt. Diese Erklä-\nrung wiederholt Bartenoro zu Sanhedrin 7, 7 über "
+    },
+    {
+     "lang": "heb",
+     "text": "ידעוני"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Vergl.\nnoch Sefer ha-Brit Bl. 62, S. 2."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 507.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 507."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Hören wir nun einige neuere Berichte über obiges,\noder ähnliches Fabelthier. Der Verfasser des Buches מעשה טוביה",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Hören wir nun einige neuere Berichte über obiges,\noder ähnliches Fabelthier. Der Verfasser des Buches "
+    },
+    {
+     "lang": "heb",
+     "text": "מעשה טוביה"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3256,
+    2242
+   ],
+   [
+    3256,
+    2870
+   ]
+  ],
+  "input_tokens": 3330,
+  "output_tokens": 1144,
+  "cost_usd": 0.0068,
+  "seconds": 9.3
+ }
+}

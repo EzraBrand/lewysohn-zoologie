@@ -1,0 +1,237 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Anhang. — Der Krebs.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Anhang. — Der Krebs."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "233",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "233"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Insecten zu vertreiben, da es wohl noch sehr fraglich ist, ob sie durch\nden Schall aufgeschreckt werden und sich entfernen; er wollte bloß den\nin der Nähe befindlichen Menschen ein Zeichen geben, daß er im\nSchlafgemache sich befinde; die beiden anderen Rabbinen gingen noch\nweiter und verscheuchten (nicht durch Lärmmachen, sondern mit einer\nScheuche) sogar jene gedachten vernunftlosen Geschöpfe. — Ueber die\nSchildkröte, welche das Carmesin liefert s. §. 497. Ueber צב §. 281.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Insecten zu vertreiben, da es wohl noch sehr fraglich ist, ob sie durch\nden Schall aufgeschreckt werden und sich entfernen; er wollte bloß den\nin der Nähe befindlichen Menschen ein Zeichen geben, daß er im\nSchlafgemache sich befinde; die beiden anderen Rabbinen gingen noch\nweiter und verscheuchten (nicht durch Lärmmachen, sondern mit einer\nScheuche) sogar jene gedachten vernunftlosen Geschöpfe. — Ueber die\nSchildkröte, welche das Carmesin liefert s. §. 497. Ueber "
+    },
+    {
+     "lang": "heb",
+     "text": "צב"
+    },
+    {
+     "lang": "deu",
+     "text": " §. 281."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "(Anhang.) Die Flußschildkröte heißt aramäisch: גלא דנהרא,\nso ist die 35. Fabel in dem von Goldberg herausgegebenen Chophes\nMatmonim (Berlin 1845, 8) mit גלא דנהרא וארנבתא überschrieben. Das\nhebr. גלים (Hos. 12, 12) wird bereits von der arab., syr. und griech.\nVersion mit Schildkröten übersetzt, und von den verschiedenen Er-\nklärungen dieses Wortes (s. die Monatsschrift: „Ben-Chanania“\n1858. S. 31 ff.) empfiehlt sich die von Bochart am meisten; die-\nser erklärt es von גלל „rund sein“, und so benennt auch Linné die\nFlußschildkröte: „Testudo orbicularis“, da diese Schildkröte von ei-\nrunder Gestalt ist. Vielleicht heißt גלא „rundes Schiff“, wie das\ngr. Γαυλος, da die Schale der Kröte diesem Thiere gleichsam als\nSchiff dient; ähnlich wird die Polypenart Schiffsboot, Ναυτίλος,\ngenannt, und so mag auch bei unserm Thiere die Schalform der Na-\nmensbildung zu Grunde liegen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "(Anhang.) Die Flußschildkröte heißt aramäisch: "
+    },
+    {
+     "lang": "arc",
+     "text": "גלא דנהרא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nso ist die 35. Fabel in dem von Goldberg herausgegebenen Chophes\nMatmonim (Berlin 1845, 8) mit "
+    },
+    {
+     "lang": "arc",
+     "text": "גלא דנהרא וארנבתא"
+    },
+    {
+     "lang": "deu",
+     "text": " überschrieben. Das\nhebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "גלים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Hos. 12, 12) wird bereits von der arab., syr. und griech.\nVersion mit Schildkröten übersetzt, und von den verschiedenen Er-\nklärungen dieses Wortes (s. die Monatsschrift: „Ben-Chanania“\n1858. S. 31 ff.) empfiehlt sich die von Bochart am meisten; die-\nser erklärt es von "
+    },
+    {
+     "lang": "heb",
+     "text": "גלל"
+    },
+    {
+     "lang": "deu",
+     "text": " „rund sein“, und so benennt auch Linné die\nFlußschildkröte: „Testudo orbicularis“, da diese Schildkröte von ei-\nrunder Gestalt ist. Vielleicht heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "גלא"
+    },
+    {
+     "lang": "deu",
+     "text": " „rundes Schiff“, wie das\ngr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Γαυλος"
+    },
+    {
+     "lang": "deu",
+     "text": ", da die Schale der Kröte diesem Thiere gleichsam als\nSchiff dient; ähnlich wird die Polypenart Schiffsboot, "
+    },
+    {
+     "lang": "grc",
+     "text": "Ναυτίλος"
+    },
+    {
+     "lang": "deu",
+     "text": ",\ngenannt, und so mag auch bei unserm Thiere die Schalform der Na-\nmensbildung zu Grunde liegen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 286.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 286."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Krebs.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Krebs."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Anknüpfend an die im vorhergehenden §. angeführte Midrasch-\nstelle, wollen wir ein dort erwähntes, von den Lexicographen uner-\nklärt gebliebenes Thier, hier besprechen. Die Stelle lautet: Die So-\ndomiten gleichen den Thieren אישות (Maulwurf), שלשול (Regenwurm),\nלימצא (Limax, Schnecke), כיליי (Χέλυς, Schildkröte) und סיליי; die-\nses Wort, sagt Burdorf (Lex. p. 1031), muß noch erklärt werden;\nich halte es für das lat. Scilla (gew. Squilla), den Krebs, da er\nin Uferlöchern, oder unter Baumwurzeln lebt, so enthält jene Zusam-\nmenstellung lauter solche Thiere, die unter der Erde leben. — Vergl.\nmeinen Beitrag in Kobak's hebr. Jeschurun 3. Heft. S. 115. Die\nFühler des Krebses heißen קרני סולו (jerus. Talm. Schekalim 50, a),\nworüber ausführlicher im Anhang. — Der Krebs heißt sonst סרשן.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Anknüpfend an die im vorhergehenden §. angeführte Midrasch-\nstelle, wollen wir ein dort erwähntes, von den Lexicographen uner-\nklärt gebliebenes Thier, hier besprechen. Die Stelle lautet: Die So-\ndomiten gleichen den Thieren "
+    },
+    {
+     "lang": "heb",
+     "text": "אישות"
+    },
+    {
+     "lang": "deu",
+     "text": " (Maulwurf), "
+    },
+    {
+     "lang": "heb",
+     "text": "שלשול"
+    },
+    {
+     "lang": "deu",
+     "text": " (Regenwurm),\n"
+    },
+    {
+     "lang": "heb",
+     "text": "לימצא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Limax, Schnecke), "
+    },
+    {
+     "lang": "heb",
+     "text": "כיליי"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "grc",
+     "text": "Χέλυς"
+    },
+    {
+     "lang": "deu",
+     "text": ", Schildkröte) und "
+    },
+    {
+     "lang": "heb",
+     "text": "סיליי"
+    },
+    {
+     "lang": "deu",
+     "text": "; die-\nses Wort, sagt Burdorf (Lex. p. 1031), muß noch erklärt werden;\nich halte es für das lat. Scilla (gew. Squilla), den Krebs, da er\nin Uferlöchern, oder unter Baumwurzeln lebt, so enthält jene Zusam-\nmenstellung lauter solche Thiere, die unter der Erde leben. — Vergl.\nmeinen Beitrag in Kobak's hebr. Jeschurun 3. Heft. S. 115. Die\nFühler des Krebses heißen "
+    },
+    {
+     "lang": "heb",
+     "text": "קרני סולו"
+    },
+    {
+     "lang": "deu",
+     "text": " (jerus. Talm. Schekalim 50, a),\nworüber ausführlicher im Anhang. — Der Krebs heißt sonst "
+    },
+    {
+     "lang": "heb",
+     "text": "סרשן"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3288,
+    3054
+   ],
+   [
+    3288,
+    2038
+   ]
+  ],
+  "input_tokens": 11358,
+  "output_tokens": 1852,
+  "cost_usd": 0.0412,
+  "seconds": 12.2
+ }
+}

@@ -42,12 +42,49 @@ ENTRIES = {
     # checked by eye (logs/qa_1-63.csv): p. 3 ends "ברייתי***)" and p. 43 ends "(עצבים)" mid-sentence.
     "part1": {"pages": ["scan0015", *range(2, 64)], "title": "First part: General zoology (pp. 1–63)",
               "start": r"", "end": r"^Zweite\s+Abtheilung", "continue": [4, 44]},
-    # second part, first class, Säugethiere: pp. 64-158; OCR by Sonnet 5.5 with the Flash check of
-    # the Hebrew (decided 31-Oct-2026). All 94 page joins checked by eye (logs/qa_64-158.csv); these
-    # run on although the page ends with ")", ";", ":" or "!" (a verse quotation on pp. 80-81).
-    "mammals": {"pages": list(range(64, 159)), "title": "Second part, first class: Mammals (pp. 64–158)",
+    # second part, first class, Säugethiere: pp. 64-158, and the end of § 181 (Ambra) on p. 159
+    # (added 01-Nov-2026); OCR by Sonnet 5.5 with the Flash check of the Hebrew (decided 31-Oct-2026).
+    # All 94 page joins checked by eye (logs/qa_64-158.csv); these run on although the page ends with ")", ";", ":" or "!" (a verse quotation on pp. 80-81).
+    "mammals": {"pages": list(range(64, 160)), "title": "Second part, first class: Mammals (pp. 64–159)",
                 "start": r"^Zweite\s+Abtheilung", "end": r"^Zweite\s+Klasse",
                 "source": "or-claude-sonnet-5.5@low+ital", "continue": [76, 81, 85, 101, 129]},
+    # pp. 159-376, by class as in the printed Inhalt; OCR by Sonnet 5.5 with the Flash check of the
+    # Hebrew, as for the mammals (01-Nov-2026). Each class ends where the next class heading starts.
+    # The headings stand mid-page, so each entry includes the first page of the next one.
+    # All page joins checked by eye (logs/qa_159-400.csv); "continue": the page ends with ";", ")" or ":"
+    # but the sentence or quotation runs on.
+    "birds": {"pages": list(range(159, 219)), "title": "Second class: Birds (pp. 159–217)",
+              "start": r"^Zweite\s+Klasse", "end": r"^Dritte\s+Klasse",
+              "source": "or-claude-sonnet-5.5@low+ital", "continue": [170, 172, 181, 202, 208, 216]},
+    "amphibians": {"pages": list(range(218, 244)), "title": "Third class: Amphibians (pp. 218–242)",
+                   "start": r"^Dritte\s+Klasse", "end": r"^Vierte\s+Klasse",
+                   "source": "or-claude-sonnet-5.5@low+ital", "continue": [228]},
+    "fish": {"pages": list(range(243, 280)), "title": "Fourth class: Fish (pp. 243–278)",
+             "start": r"^Vierte\s+Klasse", "end": r"^Fünfte\s+Klasse",
+             "source": "or-claude-sonnet-5.5@low+ital", "continue": [276]},
+    "molluscs": {"pages": list(range(279, 286)), "title": "Fifth class: Molluscs (pp. 279–284)",
+                 "start": r"^Fünfte\s+Klasse", "end": r"^Sechste\s+Klasse",
+                 "source": "or-claude-sonnet-5.5@low+ital"},
+    "insects": {"pages": list(range(285, 335)), "title": "Sixth class: Insects (pp. 285–333)",
+                "start": r"^Sechste\s+Klasse", "end": r"^Siebente\s+Klasse",
+                "source": "or-claude-sonnet-5.5@low+ital", "continue": [296, 299]},
+    "worms": {"pages": list(range(334, 343)), "title": "Seventh class: Worms (pp. 334–341)",
+              "start": r"^Siebente\s+Klasse", "end": r"^Achte\s+Klasse",
+              "source": "or-claude-sonnet-5.5@low+ital"},
+    "zoophytes": {"pages": list(range(342, 351)), "title": "Eighth class: Zoophytes (pp. 342–349)",
+                  "start": r"^Achte\s+Klasse", "end": r"^Dritte\s+Abtheilung",
+                  "source": "or-claude-sonnet-5.5@low+ital"},
+    "fabulous": {"pages": list(range(350, 359)), "title": "Third part: Fabulous animals (pp. 350–357)",
+                 "start": r"^Dritte\s+Abtheilung", "end": r"^Nachtrag",
+                 "source": "or-claude-sonnet-5.5@low+ital"},
+    "addenda": {"pages": list(range(358, 377)),
+                "title": "Supplement, appendix, additions and corrections (pp. 358–376)",
+                "start": r"^Nachtrag", "end": r"(?!)",
+                "source": "or-claude-sonnet-5.5@low+ital"},
+    # registers I-IV, pp. 377-400: OCR by Opus 5.5 (Sonnet dropped text on the two-column pages);
+    # pp. 387-389 and 399 read column by column (ocr.py --columns). Printed lines kept.
+    "registers": {"pages": list(range(377, 401)), "title": "Registers (pp. 377–400)",
+                  "start": r"", "end": r"(?!)", "contents": True, "extra": T.REGISTERS},
     # table of contents ("Inhalt"): one unnumbered page (scan 13).
     "toc": {"pages": ["scan0013"], "title": "Contents", "start": r"", "end": r"(?!)", "contents": True},
     # §§ 114-115: starts mid-p. 68, ends mid-p. 71. Page joins checked by eye: 68|69, 69|70 and
@@ -72,12 +109,16 @@ FIXES = {  # by OCR source: the engines make different errors
 }
 # Systematic word errors of one OCR engine, corrected on every page of that source. Sonnet reads
 # the Fraktur x of "Buxdorf" (Lewysohn's spelling of Buxtorf) as r; checked on p. 76 and against Flash.
+# From the birds on also "Burxdorf", and "a. a. D." for the standard "a. a. O." (Fraktur O and D look
+# alike; pp. 217, 258).
 WORD_FIXES = {
-    "or-claude-sonnet-5.5@low+ital": [(r"\bBurdorf\b", "Buxdorf"), (r"\bBurtorf\b", "Buxtorf")],
+    "or-claude-sonnet-5.5@low+ital": [(r"\bBurdorf\b", "Buxdorf"), (r"\bBurtorf\b", "Buxtorf"),
+                                      (r"\bBurxdorf\b", "Buxdorf"), (r"\ba\. a\. D\.", "a. a. O.")],
 }
 # OCR block-type errors: {page: [(start of the block's text, correct type)]}, checked on the scan.
 TYPE_FIXES = {
     16: [("die ihm hingeworfenen Speisen", "body"), ("Die von Raschi (Chulin 59, a)", "body")],
+    243: [("Vierte Klasse.", "heading")],  # Sonnet typed the class heading as a running head
 }
 # Printer's errors in footnote marks: {page: {mark of the note as printed: mark in the text}}.
 NOTE_MARK_FIXES = {
@@ -173,6 +214,7 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
     """
     main, notes, started, ended = [], [], False, False
     page_text: dict = {}  # page -> the entry's main text on that page
+    other_text: dict = {}  # page -> main text on that page outside the entry (the § or class before/after)
     for page in cfg["pages"]:
         first_on_page = True
         for b in page_blocks(page, cfg.get("source", SOURCE)):
@@ -184,11 +226,13 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
                 continue
             if not started:
                 if not re.search(cfg["start"], text):
+                    other_text[page] = other_text.get(page, "") + "\n" + text
                     continue
                 started = True
             elif re.search(cfg["end"], text):
                 ended = True
             if ended:
+                other_text[page] = other_text.get(page, "") + "\n" + text
                 continue
             page_text[page] = page_text.get(page, "") + "\n" + text
             prev = main[-1] if main else None
@@ -228,6 +272,8 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
         if in_text:
             page_seen[n["page"]] = True
             kept.append(n)
+        elif n["marker"] and re.search(rf"(?<![*†]){re.escape(n['marker'])}", other_text.get(n["page"], "")):
+            continue  # the note of the part before or after the entry on a shared page (p. 279)
         elif not page_seen.get(n["page"]) and kept and kept[-1]["page"] != n["page"] or \
                 not page_seen.get(n["page"]) and kept and kept[-1].get("continued_on") == n["page"]:
             prev = kept[-1]

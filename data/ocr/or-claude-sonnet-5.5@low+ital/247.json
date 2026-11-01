@@ -1,0 +1,197 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Fische.  247",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fische.  247"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Thran ist, der von den geschmolzenen קרבי דגים sich unterscheidet\n(Tos. Sabbat 21, a. s. v. חלב*). Vergl. noch §. 88.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Thran ist, der von den geschmolzenen "
+    },
+    {
+     "lang": "heb",
+     "text": "קרבי דגים"
+    },
+    {
+     "lang": "deu",
+     "text": " sich unterscheidet\n(Tos. Sabbat 21, a. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "חלב"
+    },
+    {
+     "lang": "deu",
+     "text": "*). Vergl. noch §. 88."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 307.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 307."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Es giebt schwarze und weiße Fische, wonach auch das Fett\nschwarz, oder weiß ist (A. Sara 39, b). Indessen kannte der Talmud\nauch andere farbige Fische, so erwähnt er des gelblich, meist aber\nsilbergrauen Sonnenfisches (§. 351), des gefleckten Seebarsches\n(§. 337), des Rothbartes (§. 338), der olivenbraunen Zunge\n(§. 256) und vieler andern vielfarbigen Fische.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Es giebt schwarze und weiße Fische, wonach auch das Fett\nschwarz, oder weiß ist (A. Sara 39, b). Indessen kannte der Talmud\nauch andere farbige Fische, so erwähnt er des gelblich, meist aber\nsilbergrauen Sonnenfisches (§. 351), des gefleckten Seebarsches\n(§. 337), des Rothbartes (§. 338), der olivenbraunen Zunge\n(§. 256) und vieler andern vielfarbigen Fische."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 308.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 308."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Geburts- und die Aufenthaltsstätte der Fische ist das Was-\nser; dieses ist für sie מקום חיות „Ort des Lebens“; das Land hinge-\ngen מקום מיתה „Ort des Todes“ (Berachoth 61, b). Mehrere Fluß-\nfische pflegen in der Nähe des Ufers eine Höhle zu machen, in der\nsie alsdann beisammen sind, und so auch daselbst massenweise gefan-\ngen werden. Diese Höhle heißt מחילות של דגים (Jebamoth 121, a),\noder פיר דכוורי (Tanit 24, a). Einige Fischarten, wie die Gildane,\nleben zwischen Schilf (Berachoth 44, b). Die Meerfische leben nicht\nin der Meerestiefe, da sie hier nur wenig Nahrung finden (ibid. 9, b).\n— Nach dem Fange werden die Fische in Weiher (ויביר, Vivier)\naufbewahrt (Beza 23, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Geburts- und die Aufenthaltsstätte der Fische ist das Was-\nser; dieses ist für sie "
+    },
+    {
+     "lang": "heb",
+     "text": "מקום חיות"
+    },
+    {
+     "lang": "deu",
+     "text": " „Ort des Lebens“; das Land hinge-\ngen "
+    },
+    {
+     "lang": "heb",
+     "text": "מקום מיתה"
+    },
+    {
+     "lang": "deu",
+     "text": " „Ort des Todes“ (Berachoth 61, b). Mehrere Fluß-\nfische pflegen in der Nähe des Ufers eine Höhle zu machen, in der\nsie alsdann beisammen sind, und so auch daselbst massenweise gefan-\ngen werden. Diese Höhle heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "מחילות של דגים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Jebamoth 121, a),\noder "
+    },
+    {
+     "lang": "heb",
+     "text": "פיר דכוורי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Tanit 24, a). Einige Fischarten, wie die Gildane,\nleben zwischen Schilf (Berachoth 44, b). Die Meerfische leben nicht\nin der Meerestiefe, da sie hier nur wenig Nahrung finden (ibid. 9, b).\n— Nach dem Fange werden die Fische in Weiher ("
+    },
+    {
+     "lang": "heb",
+     "text": "ויביר"
+    },
+    {
+     "lang": "deu",
+     "text": ", Vivier)\naufbewahrt (Beza 23, b)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 309.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 309."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Mannigfach sind die Krankheiten, welchen die Fische ausgesetzt\nsind. Vor Allem sind es die Würmer oder Läuse, welche unter der\nHaut im Fleische des Fisches ihren Sitz haben. Sie entstehen durch\nGeneratio originaria (§. 14) aus dem Fischfleisch, weshalb sie sammt\ndem Fische zu essen gestattet sind (Chulin 67, b). — Wenn der Fisch\nlängere Zeit außerhalb des Wassers gehalten wird, erkrankt er und\nstirbt; ebenso, wenn er im Wasser von der Sonnenhitze befallen wird\n(A. Sara 3, b). Der Ausdruck מיד מתים „sterben bald“ ist ungenau,\nda bekanntlich einige Fischarten, wie der Karpfen u. A., eine ziemlich\nlange Zeit außer dem Wasser leben können. Vgl. auch §. 315. — So-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Mannigfach sind die Krankheiten, welchen die Fische ausgesetzt\nsind. Vor Allem sind es die Würmer oder Läuse, welche unter der\nHaut im Fleische des Fisches ihren Sitz haben. Sie entstehen durch\nGeneratio originaria (§. 14) aus dem Fischfleisch, weshalb sie sammt\ndem Fische zu essen gestattet sind (Chulin 67, b). — Wenn der Fisch\nlängere Zeit außerhalb des Wassers gehalten wird, erkrankt er und\nstirbt; ebenso, wenn er im Wasser von der Sonnenhitze befallen wird\n(A. Sara 3, b). Der Ausdruck "
+    },
+    {
+     "lang": "heb",
+     "text": "מיד מתים"
+    },
+    {
+     "lang": "deu",
+     "text": " „sterben bald“ ist ungenau,\nda bekanntlich einige Fischarten, wie der Karpfen u. A., eine ziemlich\nlange Zeit außer dem Wasser leben können. Vgl. auch §. 315. — So-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Jeruschalmi (Sabbat 4, d) sagt: Das geschmolzene Fischfett ist während\nes brennt nicht übelriechend, wird es aber, wenn die Flamme ausgelöscht wird.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Jeruschalmi (Sabbat 4, d) sagt: Das geschmolzene Fischfett ist während\nes brennt nicht übelriechend, wird es aber, wenn die Flamme ausgelöscht wird."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3280,
+    2382
+   ],
+   [
+    3280,
+    2850
+   ]
+  ],
+  "input_tokens": 11369,
+  "output_tokens": 1600,
+  "cost_usd": 0.0387,
+  "seconds": 10.2
+ }
+}

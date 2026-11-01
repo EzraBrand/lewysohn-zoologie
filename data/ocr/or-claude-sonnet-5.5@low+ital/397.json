@@ -1,0 +1,145 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Deutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Deutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "O.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "O."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Ochs 129. 307.\nOchs, einhörniger 151.\nOchsenzunge 275.\nOhreule 163.\nOhreule, mittlere 163.\nOrang-Utang 64.\nOrf 259.\nOryx 114. 149.\nOtter 239.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ochs 129. 307.\nOchs, einhörniger 151.\nOchsenzunge 275.\nOhreule 163.\nOhreule, mittlere 163.\nOrang-Utang 64.\nOrf 259.\nOryx 114. 149.\nOtter 239."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "P.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "P."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Pantherthier 72.\nPapagei 161.\nPapierboot 226.\nPapierlaus 320.\nParadiesvogel 181. 183.\nPardel 74.\nPelamis 253.\nPelikan 163. 184. 368.\nPelzmotte 321.\nPerlenmuschel 347.\nPfau 189.\nPferd 136.\nPharaomaus 155.\nPharaoneratze 155.\nPhönix 352.\nPhthiriasis 338.\nPolyp 5.\nPongo 64.\nPottfisch 158.\nPurpurschnecke 282.\nPurzeltaube 205.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Pantherthier 72.\nPapagei 161.\nPapierboot 226.\nPapierlaus 320.\nParadiesvogel 181. 183.\nPardel 74.\nPelamis 253.\nPelikan 163. 184. 368.\nPelzmotte 321.\nPerlenmuschel 347.\nPfau 189.\nPferd 136.\nPharaomaus 155.\nPharaoneratze 155.\nPhönix 352.\nPhthiriasis 338.\nPolyp 5.\nPongo 64.\nPottfisch 158.\nPurpurschnecke 282.\nPurzeltaube 205."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "R.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "R."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Rabe 169. 172.\nRabe, ägyptischer 176.\nRai 273.\nRasselmaus 108.\nRatte 107.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Rabe 169. 172.\nRabe, ägyptischer 176.\nRai 273.\nRasselmaus 108.\nRatte 107."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Raubmöve 193.\nRaupe 319. 333.\nRebenstecher 309. 312.\nRebhuhn 213.\nReem 149.\nRegenpfeifer 179.\nRegenwurm 242. 335.\nReh 113.\nReiher 210.\nRellmaus 108.\nRenner 139.\nRhinoceros 149.\nRiemenwurm 341.\nRiesenfisch 354.\nRiesenhai 272.\nRiesenschlange 237.\nRiesenvogel 353.\nRind 129.\nRindviehbremse 317.\nRingelnatter 238.\nRingelwurm 340.\nRochen 17. 244.\nRohrdommel 180.\nRohrhuhn 179.\nRothbart 266.\nRothkehlchen 214.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Raubmöve 193.\nRaupe 319. 333.\nRebenstecher 309. 312.\nRebhuhn 213.\nReem 149.\nRegenpfeifer 179.\nRegenwurm 242. 335.\nReh 113.\nReiher 210.\nRellmaus 108.\nRenner 139.\nRhinoceros 149.\nRiemenwurm 341.\nRiesenfisch 354.\nRiesenhai 272.\nRiesenschlange 237.\nRiesenvogel 353.\nRind 129.\nRindviehbremse 317.\nRingelnatter 238.\nRingelwurm 340.\nRochen 17. 244.\nRohrdommel 180.\nRohrhuhn 179.\nRothbart 266.\nRothkehlchen 214."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "S.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "S."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Sägefisch 17. 376.\nSalamander 227.\nSardelle 261.\nSattelheuschrecke 290.\nSchabe 101. 309.\nSchaf 118.\nSchaf, langschwänziges 121.\nSchaf, melitensisches 122.\nSchaf, pyrrhisches 200.\nSchafsbremse 317.\nSchafwurm 340.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Sägefisch 17. 376.\nSalamander 227.\nSardelle 261.\nSattelheuschrecke 290.\nSchabe 101. 309.\nSchaf 118.\nSchaf, langschwänziges 121.\nSchaf, melitensisches 122.\nSchaf, pyrrhisches 200.\nSchafsbremse 317.\nSchafwurm 340."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2960,
+    2348
+   ],
+   [
+    2960,
+    2876
+   ]
+  ],
+  "input_tokens": 11388,
+  "output_tokens": 1144,
+  "cost_usd": 0.0342,
+  "seconds": 7.6
+ }
+}

@@ -1,0 +1,1203 @@
+{
+ "main": "or-claude-sonnet-5.5@low+ital",
+ "model": "anthropic/claude-opus-5.5",
+ "items": [
+  {
+   "page": 375,
+   "line": "gennamen, wofür aber B. Kama (babyl. 16, a) קימוש und חוח zu",
+   "main": "חוח שבלון שבלון חיוות עלוקתה",
+   "check": "חוה שכלן שכלן חויות עלוקה",
+   "printed": "חוח",
+   "confident": false,
+   "note": "The image line has only one Hebrew word where the readings begin: after 'und' it reads חוח, with a closed ח at the end, not ה. This matches B. Kama 16a (קימוש becomes חוח). The other words in both readings (שבלון/שכלן, חיוות/חויות, עלוקתה/עלוקה) do not appear on this line, so only this word could be checked."
+  },
+  {
+   "page": 374,
+   "line": "סלפיתא. Im jerus. Tam. A. Sara C. 2, H. 10 wird die סלפיתא",
+   "main": "סלפיתא סלפיתא אורדאן עורדען",
+   "check": "סלפיחא סלפיחא אורדען עורדאן",
+   "printed": "סלפיחא סלפיחא",
+   "confident": false,
+   "note": "This line has only two Hebrew words, at its start and end; the other two words in the readings (אורדאן/עורדען) are not visible in the image. Both visible words appear to have ח (no foot on the left leg) rather than ת, but the scan is unclear."
+  },
+  {
+   "page": 373,
+   "line": "bei derselbe irrthümlich unser Wort mit סליון verwechselte. — Ohne",
+   "main": "סליון",
+   "check": "סלין",
+   "printed": "סליון",
+   "confident": false,
+   "note": "The print shows samekh, lamed, a short yod, then a vav and final nun, which matches סליון rather than the shorter סלין. The scan is small, so the yod/vav distinction is not fully certain."
+  },
+  {
+   "page": 373,
+   "line": "und סיליי durch סרק של זרע לוף „Schaale von Zwiebelsaamen“, wo-",
+   "main": "סרק",
+   "check": "סדק",
+   "printed": "סדק",
+   "confident": false,
+   "note": "The middle letter appears to have the small projecting corner at the top right, which marks ד rather than the rounded ר. That projection is hard to make out at this resolution, so ר cannot be ruled out."
+  },
+  {
+   "page": 373,
+   "line": "חוט, פך) gebraucht wird. — Behalten wir aber auch die alte Leseart",
+   "main": "פך",
+   "check": "",
+   "printed": "פך",
+   "confident": true,
+   "note": "Before the closing parenthesis the print shows pe followed by final kaf, read right to left, so the word is פך. It continues the list (חגבים, חוט, פך). The reading of nothing is wrong, since a Hebrew word is clearly printed there."
+  },
+  {
+   "page": 373,
+   "line": "מולוון (jerus. Talm. Kilajim C. 8, fol. 31, c), soviel wie מולאה",
+   "main": "מולוון",
+   "check": "מולוין",
+   "printed": "מולוון",
+   "confident": false,
+   "note": "The word at the start of the line appears to be מ-ו-ל-ו-ו-ן. The two strokes before the final nun look like full-height vavs rather than a short yod, but they are small and hard to tell apart at this resolution."
+  },
+  {
+   "page": 372,
+   "line": "wird im jerus. Talm. (Sabbat C. 2. fol. 4, c) durch יאנבון קיסריי",
+   "main": "קיסריי",
+   "check": "קיסרי",
+   "printed": "קיסריי",
+   "confident": false,
+   "note": "The printed word appears to end in two yods (ק־י־ס־ר־י־י), which matches the first reading. The print is small, so the second yod is not fully certain."
+  },
+  {
+   "page": 372,
+   "line": "ארי נמירון s. כלב אגריון.",
+   "main": "כלב אגריון",
+   "check": "",
+   "printed": "כלב אגריון",
+   "confident": true,
+   "note": "The line in the image reads ארי נמירון s. כלב אגריון. The two words after s. show כלב (kaf, lamed, bet) and אגריון (alef, gimel, resh, yod, vav, final nun), matching the first reading."
+  },
+  {
+   "page": 372,
+   "line": "סיליי s. כילוי.",
+   "main": "סיליי",
+   "check": "",
+   "printed": "סיליי",
+   "confident": true,
+   "note": "The word after 's.' reads, right to left, samekh, yod, lamed, yod, yod, followed by a period. This matches the first engine's reading."
+  },
+  {
+   "page": 372,
+   "line": "samkeit mag ihnen den Namen תנין und hierfür ירוראא zugezogen",
+   "main": "תנין ירוראא",
+   "check": "הנין ירודאהא",
+   "printed": "הנין ירודאחא",
+   "confident": false,
+   "note": "In the first word the first letter seems to have a gap at the upper left, which fits ה rather than ת. The second word reads י-ר-ו-ד-א-ח-א: the fourth letter looks like ד (squared corner), and the second-to-last letter looks closed like ח rather than ה, though the print is small."
+  },
+  {
+   "page": 371,
+   "line": "חפיתא. Nach jerus. Talm. A. Sara C. 2, H. 9 legte man den",
+   "main": "חפיתא חפיתא קליפתה",
+   "check": "חפיחא חפיחא קליפחה",
+   "printed": "חפיתא חפיתא קליפתה",
+   "confident": false,
+   "note": "In all three words the letter before the final א/ה looks like ת, with the left leg ending in a foot, rather than ח. The bottom line is partly cut off, so the first letter of the bracketed word (ק vs. כ) is uncertain."
+  },
+  {
+   "page": 370,
+   "line": "Fische erklärt wird; ebenso soll das daselbst erwähnte מרטיסה eine",
+   "main": "מרטיסה חיוא",
+   "check": "מרסיסה חויא",
+   "printed": "מרטיסה",
+   "confident": false,
+   "note": "Only one Hebrew word is printed in this line: מרטיסה, with ט as its third letter, not ס. The second word in both readings does not belong to this line. It appears to come from the entry two lines below, which I read as חיוא (before דטור). That supports the חיוא reading over חויא, but it is not part of this line."
+  },
+  {
+   "page": 370,
+   "line": "זביוין, wahrscheinlich für זביבין, s. §. 420, Anmerkung.",
+   "main": "זביוין",
+   "check": "זביון",
+   "printed": "זביוין",
+   "confident": false,
+   "note": "I read six letters: ז, ב, then two or three short vertical strokes, then final ן. That fits זביוין (י‑ו‑י) better than זביון. The short strokes are hard to tell apart in this type, so I am not certain."
+  },
+  {
+   "page": 370,
+   "line": "גורי פרסיא (persische Löwen) Talm. jerus. B. batra C. 2, H. 3;",
+   "main": "פרסיא",
+   "check": "פרסייא",
+   "printed": "פרסייא",
+   "confident": true,
+   "note": "Between ס and the final א the print shows two separate small yods (יי), not one, so the second reading matches the print."
+  },
+  {
+   "page": 369,
+   "line": "gegengesetzt, wonach אספרון schwarz und מירן weiß bedeuten. —",
+   "main": "מירן מירן",
+   "check": "מיירן מיירן",
+   "printed": "מיירן",
+   "confident": false,
+   "note": "The line has only one such word, after 'und' and before 'weiß', and it is printed with two yods (מיירן), as in line 1. The doubled form in both readings looks like an alignment artifact, so I give the word once; the doubled form would be מיירן מיירן."
+  },
+  {
+   "page": 369,
+   "line": "man auch מירן und אספרון als Farben erklären und מירן für schwarz",
+   "main": "מירן",
+   "check": "מיירן",
+   "printed": "מירן",
+   "confident": false,
+   "note": "Both occurrences in the line look like four letters (mem, one yod, resh, final nun); I see no second yod. The print is small and the yod could be broken or merged, so the doubled yod cannot be fully ruled out."
+  },
+  {
+   "page": 369,
+   "line": "Ohre des יריקא (grünen, §. 201) Fisches angebracht ist; so wollte",
+   "main": "יריקא מירן",
+   "check": "ירוקא מיירן",
+   "printed": "יריקא מירן",
+   "confident": false,
+   "note": "The image reads יריקא in the fourth line, with a short yod as the second letter rather than a vav. The next line begins with the second word, which reads מירן (mem, one yod, resh, final nun) rather than מיירן. Confidence is moderate because yod and vav are easy to confuse in this small type."
+  },
+  {
+   "page": 369,
+   "line": "חד אוכם וחד חיור „ein schwarzer und ein weißer Fisch“; und im jerus.",
+   "main": "חיור",
+   "check": "חיוור",
+   "printed": "חיור",
+   "confident": true,
+   "note": "The last Hebrew word of the phrase shows four letters (ח, י, a single ו, ר) with no doubled vav; this matches the first reading."
+  },
+  {
+   "page": 369,
+   "line": "den Fisch מירן mit dem Fische אספרון zusammenbinden und sie so im",
+   "main": "מירן",
+   "check": "מיירן",
+   "printed": "מיירן",
+   "confident": false,
+   "note": "The print appears to show two yods between mem and resh (מ-י-י-ר-ן), matching the second reading. I could not settle this firmly: the narrow yods in this small type are hard to tell apart, and one could be a ligature or spacing artifact."
+  },
+  {
+   "page": 369,
+   "line": "אבחטם אמבטם s.",
+   "main": "אבחטם אמבטם",
+   "check": "אבחתם אמכתם",
+   "printed": "אבחטם אמבטם",
+   "confident": false,
+   "note": "In the print the line reads 'אמבטם ʃ. אבחטם.' (headword אמבטם, cross-referenced to אבחטם). The letters look like ב (not כ) and ט (not ת), which matches the first OCR reading. I wrote the words in the same order as the OCR readings. I can't fully confirm the letter forms at this resolution, hence not confident."
+  },
+  {
+   "page": 367,
+   "line": "vergl. §. 123, soviel wie גלאקטין*). Die beiden letzteren Ansichten",
+   "main": "גלאקטין גלאקטין",
+   "check": "קמצן גלאקטינן",
+   "printed": "קטינן",
+   "confident": false,
+   "note": "The print shows only one short word of about five small letters, not the two words in either OCR reading. Read right to left: ק (with descender), ט, י, נ, final ן. The tiny type makes ק/ט and נ/ג uncertain."
+  },
+  {
+   "page": 366,
+   "line": "Ziegen; אנגיה halte ich von anguis, Schlange, abgeleitet, da",
+   "main": "אנגיה",
+   "check": "אנניה",
+   "printed": "אנגיה",
+   "confident": true,
+   "note": "The third letter has the ג foot stroke to the left, unlike the preceding נ. This also fits the derivation from anguis."
+  },
+  {
+   "page": 366,
+   "line": "sich verfertigt hatten, sollten entweder איגיאה, oder אנגיה, oder לגאי,",
+   "main": "אנגיה",
+   "check": "אנניה",
+   "printed": "אנגיה",
+   "confident": false,
+   "note": "The third letter seems to have the foot of ג, which distinguishes it from the preceding נ. This is a judgement on a hard-to-separate ג/נ pair in this type, so I am not fully certain."
+  },
+  {
+   "page": 366,
+   "line": "für Hundegeheul s. S. 24 Anmerkung *. Das Wort טיסין, welches",
+   "main": "טיסין",
+   "check": "טייסין",
+   "printed": "טייסין",
+   "confident": false,
+   "note": "After the initial ט the print seems to show two separate small yods before the ס, then י and final ן, which supports the longer reading. The type is small, so the double yod is not certain."
+  },
+  {
+   "page": 366,
+   "line": "בעיין, die Kameele בכיין, die Katzen טיסין, die Pfaue מיללין,",
+   "main": "טיסין",
+   "check": "טייסין",
+   "printed": "טייסין",
+   "confident": false,
+   "note": "After 'die Katzen' the print seems to show ט, then two separate yods, then a closed round letter that looks like ס rather than final ם, then י and final ן. That matches the second reading, but this is uncertain at this resolution."
+  },
+  {
+   "page": 366,
+   "line": "Mich. Geiger im אגרת מלאכת מחשבה S. 19); auf der dritten Stufe",
+   "main": "אגרת",
+   "check": "אנרח",
+   "printed": "אגרת",
+   "confident": false,
+   "note": "The second letter appears to have the small left foot of ג rather than the flat base of נ, and the last letter appears to show the foot of ת rather than ח. This gives the expected אגרת, but ג/נ and ת/ח are hard to tell apart at this print quality."
+  },
+  {
+   "page": 365,
+   "line": "חוירין שבמקומנו יש לה ששים רבוא קלפי עלין — יחוש שבמקומנו יש בו",
+   "main": "שבמקומנו",
+   "check": "שבמקומונו",
+   "printed": "שבמקומנו",
+   "confident": true,
+   "note": "In both places where the word occurs, the print reads ש-ב-מ-ק-ו-מ-נ-ו, with a single ו after ק. There is no second ו between מ and נ, so the reading שבמקומונו is not supported."
+  },
+  {
+   "page": 365,
+   "line": "übersetzt אחשתרנים durch: ערטליוני „Nackte“, d. i., Boten, welche",
+   "main": "ערטליוני",
+   "check": "ערטלזוני",
+   "printed": "ערטליוני",
+   "confident": false,
+   "note": "The print appears to read ע-ר-ט-ל, then a short י, then a taller ו, then נ-י. The stroke after ל looks like a short yod rather than a zayin, which supports the first reading over ערטלזוני. The small type and the י/ו/ז similarity leave some doubt."
+  },
+  {
+   "page": 364,
+   "line": "per gehüllt ist, muß allzu künstlich erscheinen, Ich möchte גשמהון",
+   "main": "גשמהון",
+   "check": "גושמתהון",
+   "printed": "גושמהון",
+   "confident": false,
+   "note": "The print appears to read gimel, vav, shin, mem, he, vav, final nun. It has the vav after gimel that the first reading lacks, and no tav before he as in the second reading. I can't fully rule out a tav in place of the he at this resolution."
+  },
+  {
+   "page": 363,
+   "line": "der Riesenvogel (בר יוכני, §. 502) dem Colibri (צפוריתא, §. 328)",
+   "main": "צפוריתא",
+   "check": "ציפוריתא",
+   "printed": "ציפוריתא",
+   "confident": false,
+   "note": "A small yod-like mark appears between the צ and the פ, which supports the plene spelling ציפוריתא. The mark is tiny and could instead be a vowel point or a speck of ink, which would give צפוריתא. The other letters (פ ו ר י ת א) read clearly."
+  },
+  {
+   "page": 362,
+   "line": "זנתיה דאמר רב לא בציר משיהא ולא טפי מהריסר זינא אישתא. — Den",
+   "main": "זנתיה",
+   "check": "ונחיה",
+   "printed": "זנתיה",
+   "confident": false,
+   "note": "The first letter has the ז-type head rather than a plain ו. The third letter appears to have the left foot of ת rather than ח. This fits the Talmudic phrase 'אישתא זנתיה' (fever nourishes him). Small type makes ו/ז and ת/ח uncertain."
+  },
+  {
+   "page": 362,
+   "line": "niß erhält. Die Stelle lautet im Zusammenhange: האי זיקיתא לא",
+   "main": "זיקיתא",
+   "check": "זיקותא",
+   "printed": "זיקותא",
+   "confident": false,
+   "note": "After ק the print shows a short vertical stroke that looks like ו rather than the י of the usual Talmud spelling זיקיתא. The first letter looks like ז, but ז and ו are hard to tell apart at this print quality."
+  },
+  {
+   "page": 361,
+   "line": "4. 2. S. 455). Im Talmud heißt der Seenagel צפורן (Keritot 6, a)",
+   "main": "צפורן",
+   "check": "ציפורן",
+   "printed": "ציפורן",
+   "confident": false,
+   "note": "Between צ and פ there is a small raised mark at the top of the line. Its height fits a small yod in this type, which gives ציפורן, but it is tiny and could be a stray mark or punctuation."
+  },
+  {
+   "page": 361,
+   "line": "ἀπάντησις; גמטא von ἄγασμα; קרקע von ἀγκροικία und פטטרכא",
+   "main": "גמטא",
+   "check": "גחמא",
+   "printed": "גחמא",
+   "confident": false,
+   "note": "The first letter appears to have the small left foot of ג, the second looks like ח (open at the bottom, not a closed ס), then מ and א. However, ג vs נ and ח vs ת/ה are hard to tell apart at this print quality, so the reading is uncertain."
+  },
+  {
+   "page": 360,
+   "line": "Wort, wie die anderen Hundenamen נבחן und למם (§. 122) nach",
+   "main": "למם",
+   "check": "למס",
+   "printed": "למם",
+   "confident": false,
+   "note": "The word follows 'und'. Its last letter is square-cornered with a flat base, which fits final ם rather than the rounded ס. The middle letter looks like medial מ, but at this resolution it is hard to tell apart from a closed ם."
+  },
+  {
+   "page": 360,
+   "line": "das fr. Maguereau, die kleine Makrele. — Bet Josef ברבוטא; Barbet",
+   "main": "ברבוטא",
+   "check": "כרבוטא",
+   "printed": "כרבוטא",
+   "confident": false,
+   "note": "The first letter looks rounded at the bottom-right without the projecting base stroke of ב, so it reads as כ. It may be a misprint for the expected ברבוטא (barbel), but the scan is not clear enough to be sure."
+  },
+  {
+   "page": 360,
+   "line": "פלקון, Falke. — 82 Bet Josef קורן, span. Corneja, Krähe. — אישפרויר,",
+   "main": "קורן",
+   "check": "קורין",
+   "printed": "קורן",
+   "confident": true,
+   "note": "The print shows four letters: ק, ו, ר and final ן. There is no yod between ר and ן, so the reading קורין is not supported."
+  },
+  {
+   "page": 360,
+   "line": "216, 2 מוסק, fr. Musc, Moschus; hierzu Bar ha.-Goleh פיזם, Bi-",
+   "main": "פיזם אספות",
+   "check": "פיום אספת",
+   "printed": "פיום אספנג",
+   "confident": false,
+   "note": "The first word, after Bar ha-Goleh, looks like פיום: the third letter appears to be a short ו, not ז. The second word is on the next line (320, b) and is transcribing Spanish Esponja. It seems to read אספנג with nun and gimel, not אספות or אספת. Both readings are uncertain."
+  },
+  {
+   "page": 359,
+   "line": "במינן שקורין פלוצ\"יל שמצויין במינוי — Schon eine Glosse liest für",
+   "main": "שמצויין במינוי במינוי",
+   "check": "במינין כמיניי",
+   "printed": "שמצויין במינוי",
+   "confident": false,
+   "note": "The Hebrew at the start of the line reads, right to left, 'ש?צויין במינוי שקורין פלוצ\"יל'. In the first word the letter after ש is damaged and faint; it is most likely מ. The second word is clearly במינוי, with ו, not כמיניי. I could not tell for certain which span the two readings cover; the word after 'liest' is a separate במינין."
+  },
+  {
+   "page": 359,
+   "line": "במינן שקורין פלוצ\"יל שמצויין במינוי — Schon eine Glosse liest für",
+   "main": "במינן",
+   "check": "הוא בית התולעת שמצויין כמיניי",
+   "printed": "במינין",
+   "confident": true,
+   "note": "The word sits after 'liest' and before 'für' on the third line. The print shows ב-מ-י-נ-י-ן, with two yods, so במינן drops a letter. The second reading is text from the line above."
+  },
+  {
+   "page": 359,
+   "line": "es ist das Gehäuse der Raupe und heißt פולוייל; man theilt und",
+   "main": "פולוייל",
+   "check": "פוליי\"ל",
+   "printed": "פילוייל",
+   "confident": false,
+   "note": "The word in that line seems to read פ, י, ל, ו, י, י, ל, with a small yod after the פ. That gives פילוייל, unlike the Rashi quote above, which has פולויי\"ל. There is no gershayim in this line. The second letter is small in the scan, so I'm not certain it is a yod rather than a vav."
+  },
+  {
+   "page": 359,
+   "line": "משי העשוי ככובעים והוא בית החולעת וקורין לו פולוייל ונופצין איתו וטווהו",
+   "main": "פולוייל",
+   "check": "פוליי\"ל",
+   "printed": "פולויי\"ל",
+   "confident": false,
+   "note": "The print appears to read פ-ו-ל-ו-י-י, then a double quotation mark (gershayim), then ל. This combines the ו of the first reading with the quotation mark of the second, so neither OCR reading matches exactly. I am not sure whether there are two yods or one before the mark."
+  },
+  {
+   "page": 357,
+   "line": "tarei (טרטאריאה הגדולה) in der Provinz שמבוללא (?) durch eine Ge-",
+   "main": "שמבוללא",
+   "check": "שמכוללא",
+   "printed": "שמבוללא",
+   "confident": false,
+   "note": "The third letter looks like ב, with a base stroke projecting slightly past the vertical, rather than the rounded כ. At this resolution the difference is subtle, so I am not fully sure."
+  },
+  {
+   "page": 357,
+   "line": "(Venedig 1705*) im Abschnitt עולם הקטן Bl. 78, 2 spricht eben-",
+   "main": "הקטן",
+   "check": "קטן",
+   "printed": "הקטן",
+   "confident": true,
+   "note": "The image shows 'עולם הקטן'. Read right to left, the second word begins with ה, then ק, ט and final ן, so the ה is printed and the reading הקטן is correct."
+  },
+  {
+   "page": 355,
+   "line": "kannten Gedichte אקדמות im 75. Verse): תור טור, oder ausführlicher: תור טור",
+   "main": "טור",
+   "check": "טורי",
+   "printed": "טור",
+   "confident": false,
+   "note": "The second occurrence at the end of the line reads ט‑ו‑ר. A small mark between ו and ר looks like a stray point or damage rather than a full י, so I read טור, not טורי. The image is too small to be sure."
+  },
+  {
+   "page": 354,
+   "line": "wird als Extrem der צפרתא (§. 238) entgegengestellt (Succa 5, b).",
+   "main": "צפרתא",
+   "check": "ציפרתא",
+   "printed": "ציפרתא",
+   "confident": false,
+   "note": "A small raised mark after צ looks like a yod, which supports ציפרתא. I'm unsure whether the fourth letter is ת or ח. The glyph looks somewhat like ח, but both OCR engines read ת, so I kept ת."
+  },
+  {
+   "page": 351,
+   "line": "erklären אליתא (wie Aruch schreibt) mag a-laesa „unverletzlich“,",
+   "main": "אליתא עליתה",
+   "check": "אליחא עליחה",
+   "printed": "אליתא עליתה",
+   "confident": false,
+   "note": "In both words the letter after yod has a foot on its left leg, which marks it as ת rather than ח. The first word is in the given line and the second is in the line \"Nach unserer Schreibart mag ...\". The print is small, so the ת/ח distinction is not certain."
+  },
+  {
+   "page": 351,
+   "line": "עליתה sich schützen werden. Raschi erklärt: עליתה ist ein Wesen, an",
+   "main": "עליתה עליתה עיליתה אליתא",
+   "check": "עליחה עליחה עיליחה אליחא",
+   "printed": "עליתה עליתה עיליתה אליתא",
+   "confident": false,
+   "note": "The letter before the final ה/א appears to have a foot on the lower left, which fits ת rather than ח; the type is small, so I can't be certain. The print spells the first three words with final ה (not the expected א) and the fourth (the Aruch reading) with א."
+  },
+  {
+   "page": 349,
+   "line": "phrasen nehmen sowohl שני חולעת (Exod. 25, 4), wie שני חולעת (Num.",
+   "main": "חולעת",
+   "check": "",
+   "printed": "תולעת",
+   "confident": false,
+   "note": "The first letter has the left foot of ת, not ח, so the printed word is the expected 'תולעת'. I'm not sure which of the two occurrences is the disputed one, but both appear printed with ת."
+  },
+  {
+   "page": 349,
+   "line": "gaim 14, 1) durch: צמר צבוע בכרמיז „in Carmesin gefärbte Wolle“",
+   "main": "בכרמיז חולעים",
+   "check": "ככרמי תולעים תולעת",
+   "printed": "בכרמיז",
+   "confident": false,
+   "note": "The line has only one Hebrew word at this spot, after צמר צבוע. No תולעים or תולעת is printed, so both readings add words. The first letter looks like ב rather than כ, but the print is heavy. The final letter could be ז or ן, so I am not certain of the spelling."
+  },
+  {
+   "page": 348,
+   "line": "Perle von der Größe des Eies einer Turteltaubenart ציצילהא (§. 252)",
+   "main": "ציצילהא",
+   "check": "ציצילחא",
+   "printed": "ציצילחא",
+   "confident": false,
+   "note": "The letter between ל and א appears to have its left leg joined to the top bar, which points to ח rather than ה. At this resolution the gap that would mark ה is hard to rule out, so this is not certain. The other letters read clearly as צ-י-צ-י-ל and final א."
+  },
+  {
+   "page": 347,
+   "line": "Stelle zu Joma geht hervor, daß ברלה mit מרגליות identisch ist, da die Bibel",
+   "main": "ברלה מרגליות",
+   "check": "",
+   "printed": "בדלח מרגליות",
+   "confident": false,
+   "note": "The first word is most likely the biblical בדלח (bdellium, Num. 11:7), with ד rather than ר and a final ח rather than ה, but at this print size ד/ר and ח/ה are hard to tell apart. The second word reads clearly as מרגליות."
+  },
+  {
+   "page": 347,
+   "line": "Beziehung von Entscheidung, s. Nidda 41, b שתי טיפי מרגליות 2c. Aus unserer",
+   "main": "שתי",
+   "check": "שהי",
+   "printed": "שתי",
+   "confident": false,
+   "note": "The second letter appears to have the foot at the lower left that marks ת, not the open gap of ה. This fits 'שתי טיפי מרגליות' (two drops like pearls). The type is small, so ה cannot be fully ruled out."
+  },
+  {
+   "page": 344,
+   "line": "צמר הים שבולעת הכל „die Wolle des Meeres, die Alles verschlingt.“",
+   "main": "שבולעת",
+   "check": "שבולעה",
+   "printed": "שבולעת",
+   "confident": false,
+   "note": "The last letter of the word appears to have a left leg ending in a foot, which marks ת rather than ה (ה has a detached left leg). The other letters, ש ב ו ל ע, read clearly. Not fully confident because ת and ה are close in this type at this resolution."
+  },
+  {
+   "page": 344,
+   "line": "auch durch שיון, was ebenfalls Savon ist. Man bediente sich des",
+   "main": "שיון",
+   "check": "שין",
+   "printed": "שיון",
+   "confident": false,
+   "note": "The word's printed width fits four letters: ש, two short strokes (י and ו), then final ן. That matches the reading שיון rather than שין. The two narrow middle letters are hard to tell apart in this type, so the reading is not certain."
+  },
+  {
+   "page": 343,
+   "line": "Münster, Aruch, s. v. ערק beistimmt) richtig sein, so haben wir hier",
+   "main": "ערק",
+   "check": "עדק",
+   "printed": "ערק",
+   "confident": false,
+   "note": "The middle letter looks like ר, with a rounded top-right corner and no projecting stroke, rather than ד. The first letter is ע and the last is ק, with its descender. The image is small, so the ר/ד call is not certain."
+  },
+  {
+   "page": 343,
+   "line": "Von dem עוק, wofür Aruch ערק liest, heißt es, daß man ihn",
+   "main": "ערק",
+   "check": "עדק",
+   "printed": "עדק",
+   "confident": false,
+   "note": "The middle letter of the second word seems to have a small projection at the top right, which suggests ד rather than ר. At this print size the ד/ר difference is hard to make out, so this reading is uncertain."
+  },
+  {
+   "page": 340,
+   "line": "קוקיאני (Berachoth 36, a), wofür Aruch קקני liest. Als Mittel",
+   "main": "קקני",
+   "check": "קקי",
+   "printed": "קקני",
+   "confident": false,
+   "note": "The word after 'Aruch' is about four letters wide: two ק, then נ, then a final י. The נ is clearly visible, which rules out קקי, but the print is small."
+  },
+  {
+   "page": 339,
+   "line": "Menge abgehenden kleinen Würmer heißen כינים שבני מעיים (B. Kama",
+   "main": "שבני",
+   "check": "שכני",
+   "printed": "שבני",
+   "confident": false,
+   "note": "The second letter looks more like ב (flat base with a slight projection) than the rounded כ seen in כינים. This makes the printed word שבני, a shortened form of the Talmudic שבבני. The small type makes ב versus כ uncertain."
+  },
+  {
+   "page": 339,
+   "line": "der Genuß von Eselsmilch mit Lorbeerblättern (ארע = לורייר, Lau-",
+   "main": "ארע",
+   "check": "טרף",
+   "printed": "ארע",
+   "confident": false,
+   "note": "Read right to left, the glyphs are א, then ר, then a ע-shaped letter. That gives ארע, matching the first OCR reading; טרף does not fit the letter shapes. Not fully confident: the last letter is small and could possibly be צ, and the Talmudic word for laurel is usually spelled ארא."
+  },
+  {
+   "page": 337,
+   "line": "גנונים, worunter Maimuni auch die Blutigel versteht, s. §. 466.",
+   "main": "גנונים",
+   "check": "נינוים",
+   "printed": "גנונים",
+   "confident": false,
+   "note": "The first letter seems to have the foot of ג. The rest reads as נ, ו, נ, י, final ם. It is unlikely to be נינוים, but the small type leaves some doubt between ג and נ for the first letter."
+  },
+  {
+   "page": 336,
+   "line": "ביניתא §. 458, wo gewissermaßen eine Aehnlichkeit mit der Raupe",
+   "main": "ביניתא",
+   "check": "כיניתא",
+   "printed": "ביניתא",
+   "confident": true,
+   "note": "The first letter has the protruding bottom-right base of ב, unlike the rounded כ, and matches the ב in ביני on the line above. The fourth letter is ת, not ח, with a small mark beneath it. The word is spelled ב-י-נ-י-ת-א."
+  },
+  {
+   "page": 336,
+   "line": "des Blutigels. ביני דמיא heißt wörtlich „Raupe des Wassers“, vergl.",
+   "main": "ביני",
+   "check": "כיני",
+   "printed": "ביני",
+   "confident": true,
+   "note": "The first letter has the flat base stroke projecting past the vertical on the right, the mark of ב rather than כ. The same ב shape appears in ביניתא on the next line."
+  },
+  {
+   "page": 336,
+   "line": "ערקא liest), ביני דמיא (Gittin 69, b), נימא של מים (A. Sara 12, b)",
+   "main": "ביני",
+   "check": "כיני",
+   "printed": "ביני",
+   "confident": false,
+   "note": "The first letter looks like ב, with its base stroke running out past the vertical, rather than כ. The image is only moderately sharp, and ב/כ is a close call in this type."
+  },
+  {
+   "page": 333,
+   "line": "So hat Raschi טיינשא für טינשא, vergl. §. 443.",
+   "main": "טינשא",
+   "check": "",
+   "printed": "טיינשא",
+   "confident": false,
+   "note": "The disputed word is the second Hebrew word, after 'für'. It appears to read ט‑י‑י‑נ‑ש‑א, with two yods followed by a nun. The first Hebrew word, after 'Raschi', appears to be טיישא, without the nun. The yod count is hard to make out at this resolution."
+  },
+  {
+   "page": 333,
+   "line": "Aecker, wie Tosephot כרבא erklären, kommen? Gerade in der Nähe",
+   "main": "כרבא כרבא ביניתא הולעה הנמצאה",
+   "check": "כרכא כרכא ביניחא תולעה הנמצאת",
+   "printed": "כרבא",
+   "confident": false,
+   "note": "Only one Hebrew word is printed here, so the other words in both readings are not in this line. It reads כ‑ר‑ב‑א. The third letter (ב, not כ) is the uncertain one: the small type makes it hard to tell apart. כרבא, a ploughed field, fits the German 'gepflügte Aecker'."
+  },
+  {
+   "page": 333,
+   "line": "ביניתא als Raupe erklärt, abgehen, ist der, daß bei einer Raupe das",
+   "main": "ביניתא ביניתא בינהא",
+   "check": "ביניחא ביניחא בינוהא",
+   "printed": "ביניתא",
+   "confident": false,
+   "note": "Only one Hebrew word appears on this line, so only one word is given. It most likely reads ביניתא, but in this type the second-to-last letter could be ת or ח and I cannot tell them apart with certainty. The first letter looks like ב rather than כ."
+  },
+  {
+   "page": 332,
+   "line": "Raupe ist die ביניתא דבי כרבא (Maccoth 16, b). Die Tosephot",
+   "main": "כרבא",
+   "check": "כרכא",
+   "printed": "כרבא",
+   "confident": true,
+   "note": "The third letter appears to have the protruding bottom stroke of ב rather than the rounded base of כ. This matches the Talmud passage ביניתא דבי כרבא (Makkot 16b)."
+  },
+  {
+   "page": 331,
+   "line": "vortrefflichen hebräischen Beschreibung desselben von שי\"ר (Rappoport) in den",
+   "main": "שי\"ר",
+   "check": "ש\"יר",
+   "printed": "שי\"ר",
+   "confident": false,
+   "note": "The print appears to show ש, a small י, the gershayim, then ר, read right to left. This gives the standard acronym of Shlomo Yehuda Rapoport. The yod is tiny, and its position relative to the gershayim is hard to make out."
+  },
+  {
+   "page": 331,
+   "line": "scheint die שומשנא נמלא zu sein; sie wird auch (als magische Cur)",
+   "main": "שומשנא",
+   "check": "שומשמא",
+   "printed": "שומשנא",
+   "confident": false,
+   "note": "The print appears to show six letters, ש ו מ ש נ א. The second-to-last letter looks like a narrow נ rather than a wider מ. The known Talmudic form is שומשמנא (Sabbat 66b), so the print may be a misprint, but the letter shapes are hard to tell apart at this resolution."
+  },
+  {
+   "page": 331,
+   "line": "Während Ketuboth 75, a שומשמנא zur Bezeichnung irgend eines",
+   "main": "שומשמנא שומשמנא שומשנא",
+   "check": "שומשמא שומשמא שומשמא",
+   "printed": "שומשמנא",
+   "confident": false,
+   "note": "This line has only one Hebrew word, after 'Ketuboth 75, a'. Read right to left it is ש־ו־מ־ש־מ־נ־א, so the first reading's word is right for this place. The second medial מ is small and looks a bit like כ or ס, which is why I'm not fully sure. Neither engine's three-word output matches this line."
+  },
+  {
+   "page": 331,
+   "line": "Vielleicht bezeichnet שומשמנא insbesonders die Species der Arbeiter",
+   "main": "שומשמנא",
+   "check": "שומשמא",
+   "printed": "שושמנא",
+   "confident": false,
+   "note": "The print seems to show ש-ו-ש-מ-נ-א, the Talmudic spelling for 'ant', and matches the first line. Neither OCR reading fits, since both put מ before the second ש. The small type makes the ו/ש order uncertain."
+  },
+  {
+   "page": 331,
+   "line": "bacher zu Gebote) wird שומשמנא*) geschrieben, was Sachs (Beiträge ⁊c.",
+   "main": "שומשמנא",
+   "check": "שומשמא",
+   "printed": "שומשמנא",
+   "confident": false,
+   "note": "Reading right to left, the print appears to show ש-ו-מ-ש-מ-נ-א. There seems to be a small נ between the second מ and the final א, which supports the longer reading. The resolution makes ו vs. י and the exact middle letters uncertain."
+  },
+  {
+   "page": 330,
+   "line": "harten Gegenständen (חילפי Weiden, dann trockene Gegenstände über-",
+   "main": "חילפי",
+   "check": "הילפי",
+   "printed": "חילפי",
+   "confident": false,
+   "note": "The first letter appears to have both legs joined to the roof, which makes it ח rather than ה. The left-leg gap is hard to judge at this resolution. The remaining letters, י ל פ י, read clearly."
+  },
+  {
+   "page": 330,
+   "line": "Das Nest, oder der Aufenthalt der Ameisen heißt קינא דשומשמני (Ne-",
+   "main": "דשומשמני",
+   "check": "דשומשני",
+   "printed": "דשומשמני",
+   "confident": false,
+   "note": "The print reads ד-ש-ו-מ-ש, then a damaged, partly broken letter, then נ-י. The damaged mark is about one letter wide and most likely a poorly inked מ, giving דשומשמני (shumshemanei, 'ants'). It does not look like a clean gap, so I don't think דשומשני is what was printed. The reading depends on interpreting the damaged letter."
+  },
+  {
+   "page": 328,
+   "line": "aus: קצת הנמלים בכנפים ומהם בלי כנפים, „ein Theil Ameisen sind beflügelt,",
+   "main": "בכנפים",
+   "check": "נכנפים",
+   "printed": "בכנפים",
+   "confident": false,
+   "note": "The first letter looks like ב (closed base with a right-side extension), not נ, followed by כנפים. Specks on this word in the scan add some uncertainty."
+  },
+  {
+   "page": 328,
+   "line": "hang s. v. שכלון); hiermit vergl. man Harduin (in den Noten und Emenda-",
+   "main": "שכלון פשפש",
+   "check": "שבלון כפש",
+   "printed": "פשפש",
+   "confident": false,
+   "note": "The line in question is not visible. The image ends with the footnote line 'Im jerus. Talm. heißt es: Die Wanze dient gegen Blutigel (vergl. An-', which is cut off; the continuation 'hang s. v. ...' is below the crop. 'פשפש' (Wanze, bedbug) is only a guess from that context, not a reading of the print."
+  },
+  {
+   "page": 326,
+   "line": "vom Thale aus gesehen, nur so groß wie eine אינבא, Nisse (Tanit",
+   "main": "אינבא טיפויי",
+   "check": "איניכא סיפיי",
+   "printed": "איניבא",
+   "confident": false,
+   "note": "The print shows a single Hebrew word, followed by a comma and 'Nisse'. Neither reading's second word (טיפויי / סיפיי) is in the image. Letters read as א-י-נ-י-ב-א: a small yod between נ and ב, and ב rather than כ (the second reading's כ seems wrong). Not confident because the small yod after נ is faint."
+  },
+  {
+   "page": 326,
+   "line": "Sprache, aus den Eiern der Läuse“; die todte Nisse heißt: אינבא",
+   "main": "אינבא",
+   "check": "מביצי כינים אינכא",
+   "printed": "אינבא",
+   "confident": true,
+   "note": "The Hebrew at the end of this line is a single word, אינבא; its fourth letter has the foot of ב, not כ. The other reading's מביצי כינים belongs to the line above. This matches אינבא חיה two lines up."
+  },
+  {
+   "page": 326,
+   "line": "(Nasir 39, a): מביצי כינים לינטריש בלע\"ז דהוא „Lentes in fremder",
+   "main": "מביצי כינים",
+   "check": "",
+   "printed": "מביצי כינים",
+   "confident": true,
+   "note": "The two words before the colon after 'Nasir 39, a' read clearly מביצי כינים (mem-bet-yod-tsadi-yod, kaf-yod-nun-yod-final mem); the first reading matches the print."
+  },
+  {
+   "page": 326,
+   "line": "(s. §. 355). — Die lebendige Nisse heißt: אינבא חיה, wozu Raschi",
+   "main": "אינבא",
+   "check": "אינכא",
+   "printed": "אינבא",
+   "confident": false,
+   "note": "The fourth letter seems to have the projecting lower-right base of ב rather than the rounded corner of כ. The ב/כ distinction is hard to make out at this resolution, so this is uncertain. אינבא also fits the Talmudic word for 'nit' (Nazir 39a)."
+  },
+  {
+   "page": 323,
+   "line": "ausstachen. Sachs, der יילי mit Vielfuß übersetzt, findet es auf-",
+   "main": "יילי יילי יילי",
+   "check": "ילי ילי ילי",
+   "printed": "יילי",
+   "confident": false,
+   "note": "In this line the Hebrew word appears once, between 'der' and 'mit'. Reading right to left, it seems to show two yods, then lamed, then a final yod, i.e. יילי. The triple readings likely come from OCR repetition. The second small yod is uncertain at this print quality, and the next line's occurrence ('solchen ... um-') looks like the same spelling."
+  },
+  {
+   "page": 323,
+   "line": "abgeleitet. Allein in beiden Etymologien irrt sich Sachs. — Was יילי",
+   "main": "יילי יילי",
+   "check": "ילי ילי",
+   "printed": "יילי",
+   "confident": false,
+   "note": "Only one Hebrew word is printed at the end of the line, not two. It appears to be two yods, a lamed and a small final yod; that last mark could also be an abbreviation stroke."
+  },
+  {
+   "page": 323,
+   "line": "Aehnlichkeit haben. — Sachs erklärt aber das talm. יילי (welches",
+   "main": "יילי",
+   "check": "ילי",
+   "printed": "יילי",
+   "confident": false,
+   "note": "After 'talm.' the print appears to show two small yods, then lamed, then yod. The type is tiny, so the leading stroke could be a single yod plus a mark; this reading is uncertain."
+  },
+  {
+   "page": 322,
+   "line": "Talmud, die da lautet: שיורתא דנונא מהעביד נדל „Der Rückgrat des",
+   "main": "שיורתא דנונא מהעביד",
+   "check": "שיורחא רנונא מחעביד",
+   "printed": "שיורתא רנונא מתעביד",
+   "confident": false,
+   "note": "The first letter of the second word looks like ר, with no projecting corner, so it is a misprint for ד. The second letter of the third word appears to be ת, not ה or ח. The fourth letter of the first word reads as ת. The third letter of the first word looks like ו, though it could be ז. The small type leaves these letters uncertain."
+  },
+  {
+   "page": 322,
+   "line": "Ein Wurm, der den Flachs zerstört und טיישא (soll heißen טינשא,",
+   "main": "טינשא בליתא",
+   "check": "טיינשא בליחא",
+   "printed": "טיינשא",
+   "confident": false,
+   "note": "The word after 'soll heißen' looks like ט-י-י-נ-ש-א, with two yods before the nun. It is noticeably wider than the earlier טיישא, which fits the extra letters. The second word that both readings give (בליתא/בליחא) is not on this line in the image, which ends with a comma, so I could not check it."
+  },
+  {
+   "page": 322,
+   "line": "wofür auch יאניכא und יניכא geschrieben wird (Chulin 85, b; Raschi:",
+   "main": "יאניכא יניכא",
+   "check": "יאניבא יניבא",
+   "printed": "יאניבא יניבא",
+   "confident": false,
+   "note": "In this line the fourth letter of both words looks like ב, with a base stroke projecting past the upright, unlike the כ in the earlier lines. 'Wofür auch … geschrieben wird' also introduces variant spellings, which supports ב. The type is small, so I can't be certain."
+  },
+  {
+   "page": 321,
+   "line": "יזהר אדם ממקק סופרים (פירוש אבק שמשימין הסופרים על כתיבתן כדי",
+   "main": "יזהר",
+   "check": "יוהר",
+   "printed": "יזהר",
+   "confident": true,
+   "note": "The second letter has the zayin's head, a short crossbar sitting on the stem, rather than the plain hooked top of a vav. The print reads יזהר, which also fits the phrase יזהר אדם ('let a person beware')."
+  },
+  {
+   "page": 320,
+   "line": "S. über unsere Stelle speciell Tosephot zu B. Kama 92, b s. v. שיתין",
+   "main": "שיתין שיתין",
+   "check": "שיחין שיחין",
+   "printed": "שיתין שיתין",
+   "confident": false,
+   "note": "Both occurrences look like ש-י-ת-ין. The ח/ת distinction is hard to resolve at this print quality. שיתין ('sixty') fits the Tosafot headwords at B. Kama 92b and M. Katan 28a, but that is context, not a clear reading of the glyph."
+  },
+  {
+   "page": 320,
+   "line": "ibid. heißt sie מקק ספרים ומקק מטפחותיהם „Zernagerin der Bücher",
+   "main": "ומקק",
+   "check": "וסקק",
+   "printed": "ומקק",
+   "confident": false,
+   "note": "The second letter looks like an open-bottomed medial מ, matching the מקק in the same line, not a closed ס. Low print resolution leaves some doubt."
+  },
+  {
+   "page": 320,
+   "line": "graphische Lage von מחוזא vergl. noch Art. Kröte.",
+   "main": "מחוזא מקק דספרי מקק נמק מקק",
+   "check": "מחזא סקק דסיפרי סקק נסק סקק",
+   "printed": "מחוזא",
+   "confident": false,
+   "note": "Only one Hebrew word appears in this line; the other words in both readings are not in the image. The print is small and low-resolution. The first letter looks like a closed square, read as מ rather than ס. The middle strokes look like ח followed by a joined ו and ז, so מחוזא is the likely print, but מחזא cannot be ruled out."
+  },
+  {
+   "page": 319,
+   "line": "צינצלש. — Burdorf (Lex. p. 342) nimmt das Fremdwort für das",
+   "main": "צינצלש",
+   "check": "צינצלי",
+   "printed": "צינצלש",
+   "confident": true,
+   "note": "The last letter, at the far left of the word, has the three-armed shape of ש, not the small stroke of י. The other letters are clearly צ־י־נ־צ־ל."
+  },
+  {
+   "page": 319,
+   "line": "Was בקתא betrifft, so erklärt Raschi dasselbe durch מין זבוב צינצא",
+   "main": "בקתא",
+   "check": "בקחא",
+   "printed": "בקתא",
+   "confident": false,
+   "note": "The third letter looks like ת: its left leg appears to end in a small foot, which ח lacks. In this small type the ת/ח difference is subtle, so this reading is not certain."
+  },
+  {
+   "page": 319,
+   "line": "pliren, und אימרא בקתא für Ἡμέρα Bacta, d. i. Musca ephe-",
+   "main": "בקתא מילני",
+   "check": "בקחא מיליני",
+   "printed": "אימרא בקתא",
+   "confident": false,
+   "note": "The line prints two Hebrew words, אימרא and בקתא. The third letter of the second word has the left foot of ת, matching the ת in נפקת and סליקת above, not ח. Neither OCR reading's second word (מילני / מיליני) appears on this line; that form seems to belong to the partly cut-off line below, so I have only covered the words printed on this line."
+  },
+  {
+   "page": 319,
+   "line": "weder mit einfachem Accusativ אימרא בקתא בקא (nach Deut. 1, 26;",
+   "main": "בקתא",
+   "check": "בקחא",
+   "printed": "בקתא",
+   "confident": false,
+   "note": "The third letter appears to have the left foot typical of ת rather than the open left leg of ח. The print is small, so ח cannot be fully ruled out."
+  },
+  {
+   "page": 318,
+   "line": "setzen, er sagt: לשון כעת תמריא נתנכרה לו ומרדה עליו אינשלבייר „ähn-",
+   "main": "אינשלבייר תמריא תמריא",
+   "check": "אינשלביי\"ר חמריא חמריא",
+   "printed": "אינשלבייר חמריא חמריא",
+   "confident": false,
+   "note": "The word in the line looks like אינשלבייר, with no gershayim before the ר. The other word appears to begin with ח, not ת. The line itself shows only one חמריא (after כעת); a second חמריא appears on the next line (after bibl.). The second word is my guess at what the readings cover."
+  },
+  {
+   "page": 318,
+   "line": "setzen, er sagt: לשון כעת תמריא נתנכרה לו ומרדה עליו אינשלבייר „ähn-",
+   "main": "תמריא",
+   "check": "חמריא",
+   "printed": "חמריא",
+   "confident": true,
+   "note": "The first letter of the word after כעת is closed at the top-left like ח, not ת with its foot. It matches the same word חמריא printed in the lines above and below."
+  },
+  {
+   "page": 318,
+   "line": "im Sinne von תמריא (Hiob 39, 10) und übersetzt es durch wider-",
+   "main": "תמריא",
+   "check": "המריא",
+   "printed": "חמריא",
+   "confident": false,
+   "note": "The first letter looks like ח: closed top, no foot on the left leg (ruling out ת) and no gap at the upper left (ruling out ה). The intended word is probably תמריא, the biblical form, so this may be a misprint. At this resolution ח and ת are hard to tell apart."
+  },
+  {
+   "page": 318,
+   "line": "mitgetheilt werden. Sie lautet: אמר רב ליה בקא בר יומא ולית דירבא",
+   "main": "דירבא",
+   "check": "דידבא",
+   "printed": "דירבא",
+   "confident": false,
+   "note": "The third letter looks rounded, like ר, so I read דירבא. The known Talmud reading is דידבא, so this may be a misprint, but the print is too small to tell ר from ד with certainty."
+  },
+  {
+   "page": 317,
+   "line": "Gaon (Para 9, 2) identificirt דרן mit דירה (§. 413); über ריחמא und",
+   "main": "ריחמא",
+   "check": "ריהמא",
+   "printed": "ריחמא",
+   "confident": false,
+   "note": "The third letter appears to have both legs joined to the roof, which suggests ח rather than ה. The fourth letter looks closed, read as מ, but it could be ס."
+  },
+  {
+   "page": 317,
+   "line": "band man Spänchen von Wachholder (ריחמא; nach Rosenmüller",
+   "main": "ריחמא",
+   "check": "ריהמא",
+   "printed": "ריהמא",
+   "confident": false,
+   "note": "The third letter from the right seems to show a left leg detached from the roof, which fits ה rather than ח (closed) or ת (footed left leg). The expected word is probably ריתמא, so this may be a misprint or a broken letter. The scan is too unclear to be sure."
+  },
+  {
+   "page": 316,
+   "line": "Sie werden מויקי בית genannt (Rabba Bereschit fol. 60, c).",
+   "main": "בית",
+   "check": "ביח",
+   "printed": "בית",
+   "confident": false,
+   "note": "The last letter seems to have a small foot on its left leg, which points to ת rather than ח, though the print is not crisp. The phrase is the known מזיקי בית (house demons)."
+  },
+  {
+   "page": 315,
+   "line": "קרצית ist eine große Fliege von der Größe einer Heuschrecke und hält",
+   "main": "קרצית קרצית קרצית קרצית קרצית",
+   "check": "קרציח קרציח קרציח קדטית קרציח",
+   "printed": "קרצית",
+   "confident": false,
+   "note": "The line has only one Hebrew word, at its start, so I give one word rather than five. The first three letters are clearly ק, ר, צ and the fourth is י. The last letter seems to have the left foot of ת rather than ח, and the same word printed at the end of the next line also looks like ת. However, ת and ח are hard to tell apart in this type, so I am not certain."
+  },
+  {
+   "page": 314,
+   "line": "יבחושין, Raschi erklärt: כמין יתושים דקין הנמצאות במרתפות של יין „eine",
+   "main": "יתושים",
+   "check": "יחושים",
+   "printed": "יהושים",
+   "confident": false,
+   "note": "The second letter looks like ה, with its left leg apparently separate from the top, rather than ת (no visible foot) or ח (no closed join). This would be a misprint for יתושים. The print is small and blurry, so ת or ח cannot be ruled out."
+  },
+  {
+   "page": 313,
+   "line": "Fliegen durch Affen s. §. 401. — Ueber זבזין, s. S. 311, Anmerkung.",
+   "main": "זבזין",
+   "check": "זבובי",
+   "printed": "זביזין",
+   "confident": false,
+   "note": "Read right to left, the print appears to show six letters: ז, ב, a small י, then ז, י and final ן. Both OCR readings drop a letter. The second ז could be a ו, which is the uncertain point."
+  },
+  {
+   "page": 312,
+   "line": "זבוב (Nidda 25, a), דורבא (Berachoth 44, a), pl. דידבי (Nidda",
+   "main": "דידבי",
+   "check": "דירבי",
+   "printed": "דירבי",
+   "confident": false,
+   "note": "The third letter appears to have a rounded top-right corner like ר, matching דורבא in the same line and דירבתא in the next. The Talmudic form is usually דידבי, but the print seems to read ר. The low resolution leaves ד vs. ר uncertain."
+  },
+  {
+   "page": 312,
+   "line": "הה דרימוני (Sabbat 90, b) identisch, welches Insect zu verschlingen",
+   "main": "דרימוני מילווין",
+   "check": "דרימיני מילויו",
+   "printed": "הה דרימיני",
+   "confident": false,
+   "note": "The image shows only two Hebrew words before '(Sabbat 90, b)': הה and דרימיני. I see no third word like מילווין/מילויו, so both readings are off there. The letter after מ looks like a short י rather than a longer ו, though the scan is too small to rule out ו completely."
+  },
+  {
+   "page": 311,
+   "line": "ובזבזין ובהגזין ובשקצים וברמשים; das Wort זבזין wird wohl aus זבזבין cor-",
+   "main": "זבזין זבזבין",
+   "check": "זבוזין וכוביז",
+   "printed": "זבוזין זבובין",
+   "confident": false,
+   "note": "After 'das Wort' the print reads ז-ב-ו-ז-י-ן, with a ו after the first ב that neither OCR reading fully matched. After 'aus' it reads ז-ב-ו-ב-י-ן, the word for flies, which fits the remark that זבוזין is corrupted from it. The small type leaves some doubt about the ו/ז and ב/כ distinctions."
+  },
+  {
+   "page": 311,
+   "line": "ein Wurm (חולעתא) fiel, welchen jenes Thier sogleich fing und ver-",
+   "main": "חולעתא ובזבזין ובהגזין",
+   "check": "תולעתא וכבוזין ובהגנין",
+   "printed": "תולעתא",
+   "confident": false,
+   "note": "The Wurm line contains only one Hebrew word in parentheses. It appears to be printed תולעתא, with an initial ת rather than ח, though that first letter is not certain at this resolution. The other two words in both readings come from the footnote, which appears to read ובזבוזין ובהגזין: ז not כ, ז not נ, and a single ו after the first ז."
+  },
+  {
+   "page": 311,
+   "line": "sagt Raschi: Es sind dies die כוצנס, Cossons, welche in Bohnen",
+   "main": "כוצנס",
+   "check": "כוזעי",
+   "printed": "כוצנש",
+   "confident": false,
+   "note": "Read right to left, the word appears to be כ, ו, צ, נ and then a final ש. The ש fits Rashi's Old French gloss for 'cossons' better than ס, but the small, worn type makes the last two letters uncertain."
+  },
+  {
+   "page": 310,
+   "line": "שבעיקרי זחים „Wurm am Stamme der Oelbäume.“ — Auch dieses",
+   "main": "שבעיקרי זחים איילא",
+   "check": "שלעיקרי זתים אילא",
+   "printed": "שבעיקרי זתים",
+   "confident": false,
+   "note": "Only two Hebrew words are visible at the start of this line; the third word (אילא/איילא) is not in the image. The second letter of the first word looks like ב but could be כ. The fourth letter of the second word looks more like ת than ח, which fits the short spelling זתים of זיתים, but I cannot be sure."
+  },
+  {
+   "page": 309,
+   "line": "son identificirt דירה mit סלמנטין, jedoch unrichtig; s. §. 422. — Ueber",
+   "main": "סלמנטין",
+   "check": "סלמונטין",
+   "printed": "סלמנטין",
+   "confident": true,
+   "note": "The printed word reads samekh, lamed, mem, nun, tet, yod, final nun. There is no vav between mem and nun, so the reading סלמונטין adds a letter that is not in the print."
+  },
+  {
+   "page": 308,
+   "line": "לא תרבי גור ביש מכלב ביש על אחת כמה וכמה „Erziehe auch keinen gutwilli-",
+   "main": "ביש מכלב ביש על אחת כמה וכמה",
+   "check": "",
+   "printed": "ביש מכלב ביש על אחת כמה וכמה",
+   "confident": true,
+   "note": "The print reads clearly, right to left: לא תרבי, גור ביש מכלב ביש על אחת כמה וכמה. The first reading matches the printed letters of this span, including final ת in אחת and ה at the end of כמה and וכמה. The second engine dropped the span entirely."
+  },
+  {
+   "page": 308,
+   "line": "חיפושיתה übersetzt Matnat Kehuna fälschlich durch Skorpion (שקרפיון),",
+   "main": "שקרפיון",
+   "check": "עקרפין",
+   "printed": "שקרפיון",
+   "confident": false,
+   "note": "The first letter looks like ש, not ע; it has the three-armed shape. Next come ק ר פ י, then a short stroke that seems to be ו before the final ן. I am not certain of that ו, since the print is small and could also be read as עקרפין."
+  },
+  {
+   "page": 308,
+   "line": "Schirim fol. 1, col. 3) das Sprüchwort: מה ילדת חיפושיתה קרוצי בישי",
+   "main": "בישי",
+   "check": "ביש",
+   "printed": "בישי",
+   "confident": true,
+   "note": "The leftmost Hebrew word on that line shows ב, י, ש and a final small י at its left end, so it reads בישי rather than ביש."
+  },
+  {
+   "page": 307,
+   "line": "Species im Talmud gemeint sei. Sie heißen allgemein חולעת (Mid-",
+   "main": "חולעת דרני",
+   "check": "תולעת רני",
+   "printed": "חולעת דרני",
+   "confident": false,
+   "note": "The first word's initial letter appears to be ח rather than the expected ת, which may be a misprint; this is the uncertain part. The second word, after 'und', is clearly ד-ר-נ-י."
+  },
+  {
+   "page": 306,
+   "line": "גמלניתא (transponirt aus μέγαλον; sieh ausführlich §. 355) erklärt",
+   "main": "גמלניתא גמה",
+   "check": "גמלניחא גסה",
+   "printed": "גמלניתא",
+   "confident": false,
+   "note": "The visible line holds only one Hebrew word, גמלניתא, with ת (not ח), matching line 2. The second word both readings give (גמה/גסה) is not visible in this image and probably falls on the next, cut-off line, so I cannot transcribe it."
+  },
+  {
+   "page": 306,
+   "line": "חפושית entspricht dem arab. خُنْفَسآء*).",
+   "main": "חפושית חיפושתא גמלניתא חיפושתא חיפושתא",
+   "check": "חפושיח חיפושחא חיפושחא גמלניחא חיפושחא",
+   "printed": "חפושית",
+   "confident": false,
+   "note": "This line has only one Hebrew word, before 'entspricht'; the other words in the readings belong elsewhere. The disputed letter is the last one: ת (small foot at lower left) vs. ח. I read ת, but the scan does not show it clearly."
+  },
+  {
+   "page": 305,
+   "line": "— In unserer Talmudstelle stehen צירעה שבנינוה und זבוב שבארץ",
+   "main": "שבארץ",
+   "check": "שכארץ",
+   "printed": "שבארץ",
+   "confident": true,
+   "note": "The second letter has a flat base stroke extending to the right, which marks it as ב rather than כ. It matches the ב in the nearby word שבנינוה. The phrase reads זבוב שבארץ מצרים, continuing onto the next line."
+  },
+  {
+   "page": 304,
+   "line": "Festsetzung eines Testamentes Zeit erübrigen will, sehr scharfen (אינגרא,",
+   "main": "אינגרא",
+   "check": "איגרא",
+   "printed": "איגרא",
+   "confident": false,
+   "note": "Read right to left, the print shows alef, yod, gimel, resh, alef. I see no separate nun between the yod and the gimel, only a small gap, so the extra nun in the other reading looks spurious. The letters are small in this type, so this is not certain."
+  },
+  {
+   "page": 303,
+   "line": "ערעיתא (Sabbat 80, b). — Für den Frauennamen דבורה setzt der",
+   "main": "ערעיתא",
+   "check": "ערעותא",
+   "printed": "ערעיתא",
+   "confident": false,
+   "note": "The fourth letter (counting from the right) looks like a short yod rather than a full-height vav, so ערעיתא fits the print better than ערעותא. The letters are small, so this is not certain."
+  },
+  {
+   "page": 303,
+   "line": "schreckenart zu erklären, berechtigt zur Annahme, daß auch גוין zu dem",
+   "main": "גוין",
+   "check": "גוזי",
+   "printed": "גוין",
+   "confident": true,
+   "note": "The leftmost letter has a long descender below the baseline, so it is a final nun (ן), not a zayin. The letters read ג, ו, י, ן, matching the same word printed elsewhere on the page."
+  },
+  {
+   "page": 303,
+   "line": "גוין, die bald zu חגב (§. 384), bald zu ארבה (§. 373) gezählt wer-",
+   "main": "גוין",
+   "check": "גוזי",
+   "printed": "גוין",
+   "confident": true,
+   "note": "At the start of line 5 the word is printed with ג, ו, a short י and a final ן whose stroke descends below the line. It matches the same word printed elsewhere on the page, so the print is not the reading גוזי."
+  },
+  {
+   "page": 303,
+   "line": "er: גוין und צירעין sind Arten von ארבה; schon die Variation über",
+   "main": "גוין",
+   "check": "גוזי",
+   "printed": "גוין",
+   "confident": true,
+   "note": "The word after 'er:' in the fourth line reads ג, ו, י, then a final ן whose stroke descends below the baseline, so it is not ז or a final י. It matches the spelling of גוין elsewhere on the page."
+  },
+  {
+   "page": 303,
+   "line": "Raschi als Heuschreckenart erklärt. Sabbat 106, b sagt derselbe: גוין",
+   "main": "גוין",
+   "check": "גוזי",
+   "printed": "גזין",
+   "confident": false,
+   "note": "The print appears to read ג, ז, י, final ן. The second letter seems to carry a head stroke like ז rather than a plain ו, and the third letter is a short י. This matches the Talmudic word for this insect in Sabbat 106b. The ז/ו distinction is hard to resolve at this resolution."
+  },
+  {
+   "page": 303,
+   "line": "גוין steht gewöhnlich neben צירעין (Hornissen), wird aber von",
+   "main": "גוין",
+   "check": "גוזי",
+   "printed": "גזין",
+   "confident": false,
+   "note": "The first letter (ג), the yod and the final ן with its descender are clear. The second letter has a head like ז, but it could be a ו in this small type, so that letter is uncertain. Neither OCR reading fits exactly. גזין, the usual pairing with צירעין, is my best reading."
+  },
+  {
+   "page": 302,
+   "line": "קירותא (Κηρὸς) erklärt (Sabbat 20, b), und קירה (Cera, Jebamoth",
+   "main": "קירותא",
+   "check": "קירוותא",
+   "printed": "קירותא",
+   "confident": true,
+   "note": "The word at the start of the line reads ק-י-ר-ו-ת-א. It has a single vav between resh and tav, not a doubled וו."
+  },
+  {
+   "page": 300,
+   "line": "קופין, Affen. Es könnte aber die Leseart קופין beibehalten bleiben,",
+   "main": "קופין",
+   "check": "קפין",
+   "printed": "קופין",
+   "confident": false,
+   "note": "Both occurrences in the line appear to read ק-ו-פ-י-ן, with a vav visible between kof and pe. I could not tell which occurrence the OCR engines disagreed on, so I am not certain."
+  },
+  {
+   "page": 299,
+   "line": "עקרב שבחדייב (Sabbat 121, b). Aruch liest הדייב, welche Lese-",
+   "main": "שבחדייב הדייב",
+   "check": "שכחדייב הרייב",
+   "printed": "שבחדייב הדייב",
+   "confident": false,
+   "note": "The first word's second letter appears to have the base stroke extending past the upright, which suggests ב rather than כ; the ח is closed at the top. In the second word, the second letter seems to show the corner projection of ד rather than the rounded ר, though the scan makes ד vs. ר hard to tell apart at this size. This reading matches the expected Talmudic form (חדייב / הדייב, Adiabene)."
+  },
+  {
+   "page": 298,
+   "line": "Chulin 58, b) und: עקרבא ליעקציה (Bechoroth 31, b). Jeruschalmi (Bera-",
+   "main": "ליעקציה",
+   "check": "",
+   "printed": "ליעקציה",
+   "confident": true,
+   "note": "The rightmost Hebrew word before עקרבא in the Chulin/Bechoroth line clearly reads ל-י-ע-ק-צ-י-ה. The OCR engine that returned nothing missed it."
+  },
+  {
+   "page": 298,
+   "line": "kanntlich vor dem After des Skorpions. Vergl. וביב נושכת בצירעה (Raschi zu",
+   "main": "וביב נושכת בצירעה",
+   "check": "וכיב נשכח כצירעה ליעקציה",
+   "printed": "זביב נושכת כצירעה",
+   "confident": false,
+   "note": "The second word reads clearly as נושכת, with ו and a final ת rather than ח. The third word starts with כ, not ב. The first letter of the first word looks like ז rather than ו, but this is uncertain in this type. The fourth word, ליעקציה, belongs to the next line and is not part of this phrase."
+  },
+  {
+   "page": 297,
+   "line": "zählt, nämlich: חסיל סלעם, צלצל, ארבה, תולעת ילק, גובי, חגב, גזם und חסיל.",
+   "main": "חסיל",
+   "check": "",
+   "printed": "חסיל",
+   "confident": true,
+   "note": "The disputed spot is the last word on the line, after 'und', and it clearly reads ח-ס-י-ל. The first OCR reading also put this word at the start of the Hebrew run, which looks like a duplicate from right-to-left reordering. The word is printed only once."
+  },
+  {
+   "page": 297,
+   "line": "hörenden Species in dem Piut-Stück אדמה מארר zu Hoschana Rabba aufge-",
+   "main": "מארר",
+   "check": "",
+   "printed": "מארר",
+   "confident": true,
+   "note": "The print shows mem, alef, resh, resh. This matches the Hoshana piyyut title אדמה מארר; both final letters have rounded resh corners, not dalet."
+  }
+ ]
+}

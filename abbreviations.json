@@ -978,6 +978,99 @@
    "expansion": "masculinum: masculine",
    "basis": "standard",
    "english": "masc."
+  },
+  {
+   "abbr": "Sch. Ar.",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Shulchan Aruch",
+   "basis": "standard"
+  },
+  {
+   "abbr": "Or. Chajim",
+   "kind": "source",
+   "mode": "expand",
+   "expansion": "Orach Chayyim (part of the Shulchan Aruch)",
+   "basis": "standard"
+  },
+  {
+   "abbr": "R. Wb.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "G. B. Winer, Biblisches Realwörterbuch",
+   "basis": "text (Winer, birds)"
+  },
+  {
+   "abbr": "R.-Wb.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "G. B. Winer, Biblisches Realwörterbuch",
+   "basis": "text (Winer, birds)"
+  },
+  {
+   "abbr": "B. R. Wb.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "G. B. Winer, Biblisches Realwörterbuch",
+   "basis": "text (Winer, birds)"
+  },
+  {
+   "abbr": "R.-Wtb.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "G. B. Winer, Biblisches Realwörterbuch",
+   "basis": "text (Winer, amphibians)"
+  },
+  {
+   "abbr": "Bibl. Real-Wtb.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "G. B. Winer, Biblisches Realwörterbuch",
+   "basis": "text (Winer)"
+  },
+  {
+   "abbr": "Alterth.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "E. F. K. Rosenmüller, Handbuch der biblischen Alterthumskunde (Leipzig 1823–31)",
+   "basis": "text (Rosenmüller, birds)"
+  },
+  {
+   "abbr": "Handb. der Naturg.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "J. F. Blumenbach, Handbuch der Naturgeschichte",
+   "basis": "text (Blumenbach)"
+  },
+  {
+   "abbr": "Handb. d. Naturg.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "J. F. Blumenbach, Handbuch der Naturgeschichte",
+   "basis": "text (Blumenbach)"
+  },
+  {
+   "abbr": "Dyrhenf.",
+   "kind": "bibliography",
+   "mode": "expand",
+   "expansion": "Dyhernfurth (place of printing)",
+   "basis": "general knowledge"
+  },
+  {
+   "abbr": "Lex.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "Lexicon (mostly Buxtorf's)",
+   "basis": "text",
+   "english": "Lex."
+  },
+  {
+   "abbr": "i. l.",
+   "kind": "general",
+   "mode": "translate",
+   "expansion": "in loco: at this place",
+   "basis": "standard",
+   "english": "ad loc."
   }
  ]
 }

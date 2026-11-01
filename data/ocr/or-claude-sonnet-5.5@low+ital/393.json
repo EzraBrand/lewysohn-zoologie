@@ -1,0 +1,121 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Deutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Deutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Baummarder 90.\nBehemoth 355.\nBeinbrecher 167.\nBergdrossel 178.\nBergelster 178.\nBergfalk 178.\nBergfasan 178.\nBergfink 178.\nBergratte 374.\nBeutelthier 371.\nBiber 98.\nBiene 301.\nBienenfresser 169.\nBilchmaus 108.\nBisamthier 118.\nBlakfisch 251.\nBlashuhn 179.\nBlindschleiche 242.\nBlutigel 336.\nBockhirsch 115.\nBologneserhündchen 86.\nBonetfisch 333.\nBonite 256.\nBrachsen 264. 342.\nBrandfuchs 95.\nBrandhirsch 117.\nBuchmarder 90.\nBuckeloch s 128.\nBüffel 149.\nBüffeloch s 128.\nBulti 273.\nButzkopf 275.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Baummarder 90.\nBehemoth 355.\nBeinbrecher 167.\nBergdrossel 178.\nBergelster 178.\nBergfalk 178.\nBergfasan 178.\nBergfink 178.\nBergratte 374.\nBeutelthier 371.\nBiber 98.\nBiene 301.\nBienenfresser 169.\nBilchmaus 108.\nBisamthier 118.\nBlakfisch 251.\nBlashuhn 179.\nBlindschleiche 242.\nBlutigel 336.\nBockhirsch 115.\nBologneserhündchen 86.\nBonetfisch 333.\nBonite 256.\nBrachsen 264. 342.\nBrandfuchs 95.\nBrandhirsch 117.\nBuchmarder 90.\nBuckeloch s 128.\nBüffel 149.\nBüffeloch s 128.\nBulti 273.\nButzkopf 275."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "C.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "C."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Cachelot 158.\nCarmesin 348.\nCarmoran 163.\nCerast 243.\nChamäleon 224.\nChimäre 17. 244.\nCondor 168.\nContor 168.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Cachelot 158.\nCarmesin 348.\nCarmoran 163.\nCerast 243.\nChamäleon 224.\nChimäre 17. 244.\nCondor 168.\nContor 168."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "D.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "D."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Dachs 152.\nDamhirsch 113.\nDattelbohrer 310.\nDelphin 153.\nDoppelwurm 342.\nDornroche 8. 268.\nDorsch 270.\nDrache 240.\nDromedar 134.\nDrossel 212.\nDururi 206.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dachs 152.\nDamhirsch 113.\nDattelbohrer 310.\nDelphin 153.\nDoppelwurm 342.\nDornroche 8. 268.\nDorsch 270.\nDrache 240.\nDromedar 134.\nDrossel 212.\nDururi 206."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "E.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "E."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Eber 148.\nEdelfalk 165.\nEichhörnchen 95. 108.\nEidechse 221.\nEinhorn 149.\nEintagsfliege 318.\nElent 115.\nElephant 148. 288.\nElritze 261.\nElster 176.\nEnglischer Spitz 89.\nEnte 193.\nErbsenkäfer 307.\nErdgeier 169.\nErdgeier, ägyptischer 168.\nErdkrebs 297.\nErdmaus 345.\nErdsalamander 227.\nErdschnecke 280.\nEsel 140.\nEsel, libyscher 142.\nEsel, seleucischer 368.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eber 148.\nEdelfalk 165.\nEichhörnchen 95. 108.\nEidechse 221.\nEinhorn 149.\nEintagsfliege 318.\nElent 115.\nElephant 148. 288.\nElritze 261.\nElster 176.\nEnglischer Spitz 89.\nEnte 193.\nErbsenkäfer 307.\nErdgeier 169.\nErdgeier, ägyptischer 168.\nErdkrebs 297.\nErdmaus 345.\nErdsalamander 227.\nErdschnecke 280.\nEsel 140.\nEsel, libyscher 142.\nEsel, seleucischer 368."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2900,
+    2782
+   ],
+   [
+    2900,
+    2326
+   ]
+  ],
+  "input_tokens": 11388,
+  "output_tokens": 1039,
+  "cost_usd": 0.0332,
+  "seconds": 8.1
+ }
+}

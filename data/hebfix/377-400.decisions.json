@@ -1,0 +1,236 @@
+{
+ "rule": "change where at least 2 of flash, image, text agree against the main OCR",
+ "items": [
+  {
+   "page": 382,
+   "line": "אווזא 190.",
+   "old": "אווזא",
+   "new": "אוזא",
+   "votes": {
+    "flash": "אוזא",
+    "image": null,
+    "text": "אוזא"
+   }
+  },
+  {
+   "page": 382,
+   "line": "אוזא 167.",
+   "old": "אוזא",
+   "new": "אזא",
+   "votes": {
+    "flash": "אזא",
+    "image": null,
+    "text": "אזא"
+   }
+  },
+  {
+   "page": 382,
+   "line": "אוטנום s. אטונום.",
+   "old": "אוטנום אטונום",
+   "new": "אוטנוס אטונס",
+   "votes": {
+    "flash": "אוטנוס אטונס",
+    "image": null,
+    "text": "אוטנוס אטונס"
+   }
+  },
+  {
+   "page": 383,
+   "line": "אכספטיאם 259.",
+   "old": "אכספטיאם",
+   "new": "אכספטיאס",
+   "votes": {
+    "flash": "אכספטיאס",
+    "image": null,
+    "text": "אכספטיאס"
+   }
+  },
+  {
+   "page": 383,
+   "line": "אפונם 258.",
+   "old": "אפונם",
+   "new": "אפונס",
+   "votes": {
+    "flash": "אפונס",
+    "image": null,
+    "text": "אפונס"
+   }
+  },
+  {
+   "page": 383,
+   "line": "אקונם 258.",
+   "old": "אקונם אקנקיתא",
+   "new": "אקונס אקנקיחא",
+   "votes": {
+    "flash": "אקונס אקנקיחא",
+    "image": null,
+    "text": "אקונס אקנקיחא"
+   }
+  },
+  {
+   "page": 383,
+   "line": "בר גוא .s. בר גוין.",
+   "old": "גוא",
+   "new": "גזא",
+   "votes": {
+    "flash": "גזא",
+    "image": null,
+    "text": "גזא"
+   }
+  },
+  {
+   "page": 386,
+   "line": "כורנא 144.",
+   "old": "כורנא כורנייתא",
+   "new": "כודנא כודנייתא",
+   "votes": {
+    "flash": "כודנא כודנייתא",
+    "image": null,
+    "text": "כודנא כודנייתא"
+   }
+  },
+  {
+   "page": 386,
+   "line": "כירנא 144.",
+   "old": "כירנא",
+   "new": "כידנא",
+   "votes": {
+    "flash": "כידנא",
+    "image": null,
+    "text": "כידנא"
+   }
+  },
+  {
+   "page": 386,
+   "line": "כיליי 232. 233. 373.",
+   "old": "כיליי",
+   "new": "כילי",
+   "votes": {
+    "flash": "כילי",
+    "image": null,
+    "text": "כילי"
+   }
+  },
+  {
+   "page": 387,
+   "line": "מרדו זגיד ואכיל 186.",
+   "old": "זגיד",
+   "new": "זגיר",
+   "votes": {
+    "flash": "זגיר",
+    "image": null,
+    "text": "זגיר"
+   }
+  },
+  {
+   "page": 388,
+   "line": "נגרא 121.",
+   "old": "נגרא",
+   "new": "נגדא",
+   "votes": {
+    "flash": "נגדא",
+    "image": null,
+    "text": "נגדא"
+   }
+  },
+  {
+   "page": 388,
+   "line": "נריין 292.",
+   "old": "נריין",
+   "new": "נדיין",
+   "votes": {
+    "flash": "נדיין",
+    "image": null,
+    "text": "נדיין"
+   }
+  },
+  {
+   "page": 388,
+   "line": "נרמה 119.",
+   "old": "נרמה נוקר",
+   "new": "נדמה נוקד",
+   "votes": {
+    "flash": "נדמה נוקד",
+    "image": null,
+    "text": "נדמה נוקד"
+   }
+  },
+  {
+   "page": 388,
+   "line": "סיליי 233. 373.",
+   "old": "סיליי",
+   "new": "סילוי",
+   "votes": {
+    "flash": "סילוי",
+    "image": null,
+    "text": "סילוי"
+   }
+  },
+  {
+   "page": 388,
+   "line": "ערק 343.",
+   "old": "ערק",
+   "new": "עדק",
+   "votes": {
+    "flash": "עדק",
+    "image": null,
+    "text": "עדק"
+   }
+  },
+  {
+   "page": 388,
+   "line": "עז 167.",
+   "old": "עז",
+   "new": "עוז",
+   "votes": {
+    "flash": "עוז",
+    "image": null,
+    "text": "עוז"
+   }
+  },
+  {
+   "page": 389,
+   "line": "עקרב שבחרייב 299.",
+   "old": "שבחרייב",
+   "new": "שבחדייב",
+   "votes": {
+    "flash": "שבחדייב",
+    "image": null,
+    "text": "שבחדייב"
+   }
+  },
+  {
+   "page": 389,
+   "line": "פרם 167.",
+   "old": "פרם",
+   "new": "פרס",
+   "votes": {
+    "flash": "פרס",
+    "image": null,
+    "text": "פרס"
+   }
+  },
+  {
+   "page": 390,
+   "line": "קרש נונא 268.",
+   "old": "קרש",
+   "new": "קדש",
+   "votes": {
+    "flash": "קדש",
+    "image": null,
+    "text": "קדש"
+   }
+  },
+  {
+   "page": 392,
+   "line": "תרחק 140.",
+   "old": "תרחק",
+   "new": "תרתק",
+   "votes": {
+    "flash": "תרתק",
+    "image": null,
+    "text": "תרתק"
+   }
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "180",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "180"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Das Rohrhuhn.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Rohrhuhn."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "2. S. 380), wovon die größere wohl הרנגולא „Hahn“ und die klei-\nnere הרנגולתא „Henne“ genannt wurde; — vielleicht aber mag hier\nfolgender Unterschied gemacht worden sein: הרנגולא דאגמא, der auch\nמררא „widerspenstig“, „wild“ genannt wurde, mag der wilde\nRohrdommel sein, der unzähmbar und selbst gegen die stärksten\nHunde kämpfend und hartnäckig ist; er war von vornherein als ver-\nboten betrachtet, weil er (Ardea stellaris) zum Reihergeschlecht gehört\n(Voigt l. c. 2. S. 362); er ist viel größer als das Rohrhuhn und\nhieß deshalb הרנגולא „Hahn“; das Rohrhuhn hingegen, das kleinere\nund leicht zähmbare, hieß vielleicht deshalb גירוחא von גור „wohnen“,\n„weilen“ mit Hinblick auf seine Fähigkeit zum Aufenthalt in mensch-\nlicher Wohnung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "2. S. 380), wovon die größere wohl "
+    },
+    {
+     "lang": "arc",
+     "text": "הרנגולא"
+    },
+    {
+     "lang": "deu",
+     "text": " „Hahn“ und die klei-\nnere "
+    },
+    {
+     "lang": "arc",
+     "text": "הרנגולתא"
+    },
+    {
+     "lang": "deu",
+     "text": " „Henne“ genannt wurde; — vielleicht aber mag hier\nfolgender Unterschied gemacht worden sein: "
+    },
+    {
+     "lang": "arc",
+     "text": "הרנגולא דאגמא"
+    },
+    {
+     "lang": "deu",
+     "text": ", der auch\n"
+    },
+    {
+     "lang": "arc",
+     "text": "מררא"
+    },
+    {
+     "lang": "deu",
+     "text": " „widerspenstig“, „wild“ genannt wurde, mag der wilde\nRohrdommel sein, der unzähmbar und selbst gegen die stärksten\nHunde kämpfend und hartnäckig ist; er war von vornherein als ver-\nboten betrachtet, weil er ("
+    },
+    {
+     "lang": "lat",
+     "text": "Ardea stellaris"
+    },
+    {
+     "lang": "deu",
+     "text": ") zum Reihergeschlecht gehört\n(Voigt l. c. 2. S. 362); er ist viel größer als das Rohrhuhn und\nhieß deshalb "
+    },
+    {
+     "lang": "arc",
+     "text": "הרנגולא"
+    },
+    {
+     "lang": "deu",
+     "text": " „Hahn“; das Rohrhuhn hingegen, das kleinere\nund leicht zähmbare, hieß vielleicht deshalb "
+    },
+    {
+     "lang": "arc",
+     "text": "גירוחא"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "heb",
+     "text": "גור"
+    },
+    {
+     "lang": "deu",
+     "text": " „wohnen“,\n„weilen“ mit Hinblick auf seine Fähigkeit zum Aufenthalt in mensch-\nlicher Wohnung."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schwierig ist die Ermittelung folgender vom Talmud gemachten\nAngabe. Als Aequivalent für den verbotenen Vogel גירוחא ist die\nZunge des כורא (Fisches) zu essen gestattet (Chulin 109, b). Welcher\nFisch hier gemeint ist, wird nicht gesagt; auch die Tosephot (M. Katan\n11, a) glauben einen bestimmten Fisch anzunehmen, bezeichnen ihn\naber nicht näher. Ich erlaube mir daher eine Vermuthung zu\näußern, obwohl dieselbe allerdings mit der Ansicht Raschi's nicht\nübereinstimmt. Derselbe hält גירוחא in der letzten Talmudstelle mit\ndemselben Vogelnamen zu Chulin 62, b als Namen eines und des-\nselben Vogels, und zwar als den des Rohrhuhns, und soll der Ge-\nschmack dieses Vogels dem Geschmacke der Fischzunge gleich sein.\nAllein warum gerade soll hier die Zunge des Fisches einen vom\nübrigen Fischfleisch besondern Geschmack haben? Und welcher Fisch\nkönnte dieser sein? Ich halte aber den Chulin 109, b gedachten\nגירוחא für den Namen des Spechtes. Dieser Vogel hat eine\nhornartige, mit spitzen, rückwärts gerichteten Stachelborsten besetzte\nZunge, geradeso wie die Zunge des Fisches. Ich leite daher גירוחא\nvon גרר ab, davon מגרה „Säge“, da die Zunge des Spechtes sägeartig\nmit Stacheln besetzt ist. Ich brauche kaum zu sagen, daß diese Ver-\nmuthung höchst gewagt ist, und bemerke nur noch, daß Jalkut\nSchimoni (Ps. fol. 130, col. 3), der mehrere ähnliche Aequivalenta\naufzählt, gerade גירוחא und כורא unerwähnt läßt; ein Gleiches ge-\nschieht Midr. R. Wajikra fol. 191, col. 1.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schwierig ist die Ermittelung folgender vom Talmud gemachten\nAngabe. Als Aequivalent für den verbotenen Vogel "
+    },
+    {
+     "lang": "arc",
+     "text": "גירוחא"
+    },
+    {
+     "lang": "deu",
+     "text": " ist die\nZunge des "
+    },
+    {
+     "lang": "arc",
+     "text": "כורא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Fisches) zu essen gestattet (Chulin 109, b). Welcher\nFisch hier gemeint ist, wird nicht gesagt; auch die Tosephot (M. Katan\n11, a) glauben einen bestimmten Fisch anzunehmen, bezeichnen ihn\naber nicht näher. Ich erlaube mir daher eine Vermuthung zu\näußern, obwohl dieselbe allerdings mit der Ansicht Raschi's nicht\nübereinstimmt. Derselbe hält "
+    },
+    {
+     "lang": "arc",
+     "text": "גירוחא"
+    },
+    {
+     "lang": "deu",
+     "text": " in der letzten Talmudstelle mit\ndemselben Vogelnamen zu Chulin 62, b als Namen eines und des-\nselben Vogels, und zwar als den des Rohrhuhns, und soll der Ge-\nschmack dieses Vogels dem Geschmacke der Fischzunge gleich sein.\nAllein warum gerade soll hier die Zunge des Fisches einen vom\nübrigen Fischfleisch besondern Geschmack haben? Und welcher Fisch\nkönnte dieser sein? Ich halte aber den Chulin 109, b gedachten\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גירוחא"
+    },
+    {
+     "lang": "deu",
+     "text": " für den Namen des Spechtes. Dieser Vogel hat eine\nhornartige, mit spitzen, rückwärts gerichteten Stachelborsten besetzte\nZunge, geradeso wie die Zunge des Fisches. Ich leite daher "
+    },
+    {
+     "lang": "arc",
+     "text": "גירוחא"
+    },
+    {
+     "lang": "deu",
+     "text": "\nvon "
+    },
+    {
+     "lang": "heb",
+     "text": "גרר"
+    },
+    {
+     "lang": "deu",
+     "text": " ab, davon "
+    },
+    {
+     "lang": "heb",
+     "text": "מגרה"
+    },
+    {
+     "lang": "deu",
+     "text": " „Säge“, da die Zunge des Spechtes sägeartig\nmit Stacheln besetzt ist. Ich brauche kaum zu sagen, daß diese Ver-\nmuthung höchst gewagt ist, und bemerke nur noch, daß Jalkut\nSchimoni (Ps. fol. 130, col. 3), der mehrere ähnliche Aequivalenta\naufzählt, gerade "
+    },
+    {
+     "lang": "arc",
+     "text": "גירוחא"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "arc",
+     "text": "כורא"
+    },
+    {
+     "lang": "deu",
+     "text": " unerwähnt läßt; ein Gleiches ge-\nschieht Midr. R. Wajikra fol. 191, col. 1."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3272,
+    2769
+   ],
+   [
+    3272,
+    2435
+   ]
+  ],
+  "input_tokens": 11299,
+  "output_tokens": 1810,
+  "cost_usd": 0.0407,
+  "seconds": 11.7
+ }
+}

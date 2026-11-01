@@ -1,0 +1,317 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Wespe — Die Hornisse.\t303",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Wespe — Die Hornisse.\t303"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 404.\nDie Wespe.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 404.\nDie Wespe."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "גוזי steht gewöhnlich neben צירעין (Hornissen), wird aber von\nRaschi als Heuschreckenart erklärt. Sabbat 106, b sagt derselbe: גוזי\nsind eine Art חגב und dürfen gegessen werden; Berachoth 7, b, sagt\ner: גוזי und צירעין sind Arten von ארבה; schon die Variation über\nגוזי, die bald zu חגב (§. 384), bald zu ארבה (§. 373) gezählt wer-\nden, mehr aber noch der offenbare Irrthum, auch צירעין als Heu-\nschreckenart zu erklären, berechtigt zur Annahme, daß auch גוזי zu dem\nGeschlecht der Hemeropteren gehören und mit צירעין, den Hornissen,\nverwandt sind. — Bechoroth l. c. heißt es, daß man unter Honig\nschlechtweg den Bienenhonig versteht, dieser heißt also דבש דבורים\n(Machschirin 6, 4), oder bloß דבש kurzweg, der Honig der Hornisse\nheißt aber nur דבש הצירעים, und der der Wespen nur דבש הגוזין; es\nkann also von Heuschrecken nicht im Entferntesten die Rede sein. —\nSabbat l. c. heißt es: Wer Heuschrecken, Wespen (גוזי), Hornisse und\nMücken am Sabbat fängt, macht sich der Sabbatentweihung schuldig.\nEine andere Meinung macht hierfür den Unterschied zwischen Insec-\nten, die man sonst des Nußens halber einzufangen pflegt, und denen,\nwelche man uneingefangen läßt. Raschi zählt zu den ersteren die\nHeuschrecken und die גוזי, die er, wie erwähnt, ebenfalls als Heu-\nschreckenart erklärt, zu den leßteren die Hornisse und die Mücken;\nrichtiger dürfte wohl die Eintheilung sein, daß zu den ersteren In-\nsecten nur die Heuschrecken gehören, die man aß und mit ihnen so-\ngar einen förmlichen Handel trieb (§. 384), zu den leßteren aber ge-\nhören Wespen, Hornisse und Mücken, da die beiden ersteren In-\nsectenarten schon ihres schmerzhaften Stiches halber von den Menschen\nunbehelligt bleiben. — Ueber die Leseart von גוזי für יוזי, womit die\nTosephot (zu Nidda 17, a s. v. מקרקש) die Wespen bezeichnen wol-\nlen, vergl. §. 285.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "גוזי"
+    },
+    {
+     "lang": "deu",
+     "text": " steht gewöhnlich neben "
+    },
+    {
+     "lang": "heb",
+     "text": "צירעין"
+    },
+    {
+     "lang": "deu",
+     "text": " (Hornissen), wird aber von\nRaschi als Heuschreckenart erklärt. Sabbat 106, b sagt derselbe: "
+    },
+    {
+     "lang": "heb",
+     "text": "גוזי"
+    },
+    {
+     "lang": "deu",
+     "text": "\nsind eine Art "
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": " und dürfen gegessen werden; Berachoth 7, b, sagt\ner: "
+    },
+    {
+     "lang": "heb",
+     "text": "גוזי"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "צירעין"
+    },
+    {
+     "lang": "deu",
+     "text": " sind Arten von "
+    },
+    {
+     "lang": "heb",
+     "text": "ארבה"
+    },
+    {
+     "lang": "deu",
+     "text": "; schon die Variation über\n"
+    },
+    {
+     "lang": "heb",
+     "text": "גוזי"
+    },
+    {
+     "lang": "deu",
+     "text": ", die bald zu "
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 384), bald zu "
+    },
+    {
+     "lang": "heb",
+     "text": "ארבה"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 373) gezählt wer-\nden, mehr aber noch der offenbare Irrthum, auch "
+    },
+    {
+     "lang": "heb",
+     "text": "צירעין"
+    },
+    {
+     "lang": "deu",
+     "text": " als Heu-\nschreckenart zu erklären, berechtigt zur Annahme, daß auch "
+    },
+    {
+     "lang": "heb",
+     "text": "גוזי"
+    },
+    {
+     "lang": "deu",
+     "text": " zu dem\nGeschlecht der Hemeropteren gehören und mit "
+    },
+    {
+     "lang": "heb",
+     "text": "צירעין"
+    },
+    {
+     "lang": "deu",
+     "text": ", den Hornissen,\nverwandt sind. — Bechoroth l. c. heißt es, daß man unter Honig\nschlechtweg den Bienenhonig versteht, dieser heißt also "
+    },
+    {
+     "lang": "heb",
+     "text": "דבש דבורים"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Machschirin 6, 4), oder bloß "
+    },
+    {
+     "lang": "heb",
+     "text": "דבש"
+    },
+    {
+     "lang": "deu",
+     "text": " kurzweg, der Honig der Hornisse\nheißt aber nur "
+    },
+    {
+     "lang": "heb",
+     "text": "דבש הצירעים"
+    },
+    {
+     "lang": "deu",
+     "text": ", und der der Wespen nur "
+    },
+    {
+     "lang": "heb",
+     "text": "דבש הגוזין"
+    },
+    {
+     "lang": "deu",
+     "text": "; es\nkann also von Heuschrecken nicht im Entferntesten die Rede sein. —\nSabbat l. c. heißt es: Wer Heuschrecken, Wespen ("
+    },
+    {
+     "lang": "heb",
+     "text": "גוזי"
+    },
+    {
+     "lang": "deu",
+     "text": "), Hornisse und\nMücken am Sabbat fängt, macht sich der Sabbatentweihung schuldig.\nEine andere Meinung macht hierfür den Unterschied zwischen Insec-\nten, die man sonst des Nußens halber einzufangen pflegt, und denen,\nwelche man uneingefangen läßt. Raschi zählt zu den ersteren die\nHeuschrecken und die "
+    },
+    {
+     "lang": "heb",
+     "text": "גוזי"
+    },
+    {
+     "lang": "deu",
+     "text": ", die er, wie erwähnt, ebenfalls als Heu-\nschreckenart erklärt, zu den leßteren die Hornisse und die Mücken;\nrichtiger dürfte wohl die Eintheilung sein, daß zu den ersteren In-\nsecten nur die Heuschrecken gehören, die man aß und mit ihnen so-\ngar einen förmlichen Handel trieb (§. 384), zu den leßteren aber ge-\nhören Wespen, Hornisse und Mücken, da die beiden ersteren In-\nsectenarten schon ihres schmerzhaften Stiches halber von den Menschen\nunbehelligt bleiben. — Ueber die Leseart von "
+    },
+    {
+     "lang": "heb",
+     "text": "גוזי"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "heb",
+     "text": "יוזי"
+    },
+    {
+     "lang": "deu",
+     "text": ", womit die\nTosephot (zu Nidda 17, a s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "מקרקש"
+    },
+    {
+     "lang": "deu",
+     "text": ") die Wespen bezeichnen wol-\nlen, vergl. §. 285."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 405.\nDie Hornisse.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 405.\nDie Hornisse."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "צירעה (Tanit 13, a), pl. צירעין (Sabbat 106, b) ferner: זיבורא,\nfem. זיבוריתא (A. Sara 17, b), pl. זבורי (Sanhedrin 109, b), und\nערעותא (Sabbat 80, b). — Für den Frauennamen דבורה setzt der\nTalmud זיבורתא (Megilla 14, b und hierzu §. 109).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "צירעה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Tanit 13, a), pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "צירעין"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 106, b) ferner: "
+    },
+    {
+     "lang": "heb",
+     "text": "זיבורא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nfem. "
+    },
+    {
+     "lang": "heb",
+     "text": "זיבוריתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 17, b), pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "זבורי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sanhedrin 109, b), und\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ערעותא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 80, b). — Für den Frauennamen "
+    },
+    {
+     "lang": "heb",
+     "text": "דבורה"
+    },
+    {
+     "lang": "deu",
+     "text": " setzt der\nTalmud "
+    },
+    {
+     "lang": "heb",
+     "text": "זיבורתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Megilla 14, b und hierzu §. 109)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2399
+   ],
+   [
+    3308,
+    2817
+   ]
+  ],
+  "input_tokens": 3337,
+  "output_tokens": 2250,
+  "cost_usd": 0.0109,
+  "seconds": 12.6
+ }
+}

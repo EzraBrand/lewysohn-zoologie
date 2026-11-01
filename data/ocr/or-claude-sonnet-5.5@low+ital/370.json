@@ -1,0 +1,345 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "370",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "370"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Anhang.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Anhang."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "גורי פרסיא (persische Löwen) Talm. jerus. B. batra C. 2, H. 3;\nf. S. 71 Anm. *.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "גורי פרסיא"
+    },
+    {
+     "lang": "deu",
+     "text": " (persische Löwen) Talm. jerus. B. batra C. 2, H. 3;\nf. S. 71 Anm. *."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "גלאקטינון. Im jerus. Talm. (Sabbat C. 2, fol. 4, d) sind drei\nAnsichten über die Bestimmung des Tachaschthieres (§. 176); nach\nder ersten war es eine Farbenart טיינין (womit Midr. Rabba Ester\nfol. 120, d חכלח erklärt wird; bekanntlich erklären es im ähnlichen\nSinne die LXX, s. §. 176); nach der zweiten war es das unreine\nThier גלאקטינון; nach der dritten war es ein reines Thier. — Im\nMidr. Rabba Kohelet fol. 85, d steht (wohl incorrect) אלטינין für\nטיינין und גלטינין für גלאקטינון; dieses letztre Wort bezeichnet entwe-\nder das kleine Wiesel, oder den Zobel, worüber vergl. §. 521.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "גלאקטינון"
+    },
+    {
+     "lang": "deu",
+     "text": ". Im jerus. Talm. (Sabbat C. 2, fol. 4, d) sind drei\nAnsichten über die Bestimmung des Tachaschthieres (§. 176); nach\nder ersten war es eine Farbenart "
+    },
+    {
+     "lang": "arc",
+     "text": "טיינין"
+    },
+    {
+     "lang": "deu",
+     "text": " (womit Midr. Rabba Ester\nfol. 120, d "
+    },
+    {
+     "lang": "arc",
+     "text": "חכלח"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt wird; bekanntlich erklären es im ähnlichen\nSinne die LXX, s. §. 176); nach der zweiten war es das unreine\nThier "
+    },
+    {
+     "lang": "arc",
+     "text": "גלאקטינון"
+    },
+    {
+     "lang": "deu",
+     "text": "; nach der dritten war es ein reines Thier. — Im\nMidr. Rabba Kohelet fol. 85, d steht (wohl incorrect) "
+    },
+    {
+     "lang": "arc",
+     "text": "אלטינין"
+    },
+    {
+     "lang": "deu",
+     "text": " für\n"
+    },
+    {
+     "lang": "arc",
+     "text": "טיינין"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "arc",
+     "text": "גלטינין"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "arc",
+     "text": "גלאקטינון"
+    },
+    {
+     "lang": "deu",
+     "text": "; dieses letztre Wort bezeichnet entwe-\nder das kleine Wiesel, oder den Zobel, worüber vergl. §. 521."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "דואר, Rabba Schemoth fol. 133, b wird neben dem בן הפילים\n(Skink) und dem צב (Kröte) auch דואר erwähnt, das eine Krötenart\nsein soll; doch herrscht hierüber noch ein Dunkel, und bedarf das\nWort noch einer weitern Untersuchung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "דואר"
+    },
+    {
+     "lang": "deu",
+     "text": ", Rabba Schemoth fol. 133, b wird neben dem "
+    },
+    {
+     "lang": "heb",
+     "text": "בן הפילים"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Skink) und dem "
+    },
+    {
+     "lang": "heb",
+     "text": "צב"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kröte) auch "
+    },
+    {
+     "lang": "arc",
+     "text": "דואר"
+    },
+    {
+     "lang": "deu",
+     "text": " erwähnt, das eine Krötenart\nsein soll; doch herrscht hierüber noch ein Dunkel, und bedarf das\nWort noch einer weitern Untersuchung."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "המיסו, Rabba (Bereschit fol. 92, b) und jerus. Talm. (Berachoth\nfol. 12, b) wird gefragt: Was sind die יומים (Gen. 36, 24)? Einer\nsagte: es sind המיונום, d. i. Ἡμιόνοι, Maulthiere; ein Anderer sagte:\nes sind המיסו, d. i. ἥμισυ, Halb-Thiere, welche halb Pferd, halb\nEsel sind. — Auch Aristotel. (Thiergesch. 6, 29, 4) erwähnt zwei\nArten von Halbeseln, von welchen die eine sich untereinander fort-\npflanzt, die andere aber unfruchtbar ist (s. §. 168), und diese zwei\nArten sind hier gemeint; המיסו ist die Art, welche zuerst wieder von\nPallas in den „Neuen Schriften der Petersburger Akademie“ Bd.\n19, p. 394 als Equus hemionos beschrieben wurde. — Vergl. Fran-\nkel: Monatsschrift u. s. w. 3. Jahrg. S. 386.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "המיסו"
+    },
+    {
+     "lang": "deu",
+     "text": ", Rabba (Bereschit fol. 92, b) und jerus. Talm. (Berachoth\nfol. 12, b) wird gefragt: Was sind die "
+    },
+    {
+     "lang": "heb",
+     "text": "יומים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Gen. 36, 24)? Einer\nsagte: es sind "
+    },
+    {
+     "lang": "arc",
+     "text": "המיונום"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i. "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἡμιόνοι"
+    },
+    {
+     "lang": "deu",
+     "text": ", Maulthiere; ein Anderer sagte:\nes sind "
+    },
+    {
+     "lang": "arc",
+     "text": "המיסו"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i. "
+    },
+    {
+     "lang": "grc",
+     "text": "ἥμισυ"
+    },
+    {
+     "lang": "deu",
+     "text": ", Halb-Thiere, welche halb Pferd, halb\nEsel sind. — Auch Aristotel. (Thiergesch. 6, 29, 4) erwähnt zwei\nArten von Halbeseln, von welchen die eine sich untereinander fort-\npflanzt, die andere aber unfruchtbar ist (s. §. 168), und diese zwei\nArten sind hier gemeint; "
+    },
+    {
+     "lang": "arc",
+     "text": "המיסו"
+    },
+    {
+     "lang": "deu",
+     "text": " ist die Art, welche zuerst wieder von\nPallas in den „Neuen Schriften der Petersburger Akademie“ Bd.\n19, p. 394 als "
+    },
+    {
+     "lang": "lat",
+     "text": "Equus hemionos"
+    },
+    {
+     "lang": "deu",
+     "text": " beschrieben wurde. — Vergl. Fran-\nkel: Monatsschrift u. s. w. 3. Jahrg. S. 386."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "זביוין, wahrscheinlich für זביבין, s. §. 420, Anmerkung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "זביוין"
+    },
+    {
+     "lang": "deu",
+     "text": ", wahrscheinlich für "
+    },
+    {
+     "lang": "arc",
+     "text": "זביבין"
+    },
+    {
+     "lang": "deu",
+     "text": ", s. §. 420, Anmerkung."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "חורנם (jerus. Talm. A. Sara C. 2, H. 9) darf von den Heiden\ngekauft und genossen werden, was durch eine Art kleiner gesalzener\nFische erklärt wird; ebenso soll das daselbst erwähnte מרטיסה eine\nArt kleiner eingesalzener Heuschrecken sein.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "חורנם"
+    },
+    {
+     "lang": "deu",
+     "text": " (jerus. Talm. A. Sara C. 2, H. 9) darf von den Heiden\ngekauft und genossen werden, was durch eine Art kleiner gesalzener\nFische erklärt wird; ebenso soll das daselbst erwähnte "
+    },
+    {
+     "lang": "arc",
+     "text": "מרטיסה"
+    },
+    {
+     "lang": "deu",
+     "text": " eine\nArt kleiner eingesalzener Heuschrecken sein."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "חיוא דטור, Schlange des Berges; jerus. Talm. C. 8, H. 7 heißt\nes: Jemand bereitete geschmolzenes Fett (חום שחיק, §. 92), da kam\neine Schlange des Berges und aß davon, als nun die Hausschlan-\ngen ebenfalls herbeikamen, um davon zu essen, begann jene einen\nKampf mit ihnen, bewarf sie mit Erde und warf sich zuletzt in das\nFett, um es zu bedecken und zu beschützen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "חיוא דטור"
+    },
+    {
+     "lang": "deu",
+     "text": ", Schlange des Berges; jerus. Talm. C. 8, H. 7 heißt\nes: Jemand bereitete geschmolzenes Fett ("
+    },
+    {
+     "lang": "arc",
+     "text": "חום שחיק"
+    },
+    {
+     "lang": "deu",
+     "text": ", §. 92), da kam\neine Schlange des Berges und aß davon, als nun die Hausschlan-\ngen ebenfalls herbeikamen, um davon zu essen, begann jene einen\nKampf mit ihnen, bewarf sie mit Erde und warf sich zuletzt in das\nFett, um es zu bedecken und zu beschützen."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "חלון; jerus. Talm. Sabbat C. 1. fol. 3, b wird von der Heu-\nschrecke חלון gesagt, daß sie weder Adern, noch Knochen habe; mit",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "חלון"
+    },
+    {
+     "lang": "deu",
+     "text": "; jerus. Talm. Sabbat C. 1. fol. 3, b wird von der Heu-\nschrecke "
+    },
+    {
+     "lang": "arc",
+     "text": "חלון"
+    },
+    {
+     "lang": "deu",
+     "text": " gesagt, daß sie weder Adern, noch Knochen habe; mit"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3284,
+    2066
+   ],
+   [
+    3284,
+    2986
+   ]
+  ],
+  "input_tokens": 11336,
+  "output_tokens": 2336,
+  "cost_usd": 0.046,
+  "seconds": 13.2
+ }
+}

@@ -33,6 +33,10 @@ SAMPLE = [
     *[(s, "part1") for s in range(15, 78)],  # pp. 1-63: first part, Allgemeine Zoologie (p. 1 = scan 15)
     *[(s, "mammals") for s in range(78, 173) if not 82 <= s <= 85],  # pp. 64-158: Säugethiere (68-71 above)
     *[(s, "entry") for s in range(82, 86)],  # pp. 68-71: §§ 114-115, lion and tiger (test entry)
+    *[(s, "classes") for s in range(173, 364)],  # pp. 159-349: birds to zoophytes
+    *[(s, "fabulous") for s in range(364, 372)],  # pp. 350-357: third part, Fabelhafte Thiere
+    *[(s, "addenda") for s in range(372, 391)],  # pp. 358-376: Nachtrag, Anhang, Zusätze und Verbesserungen
+    *[(s, "registers") for s in range(391, 415)],  # pp. 377-400: registers I-IV
 ]
 
 session = requests.Session()

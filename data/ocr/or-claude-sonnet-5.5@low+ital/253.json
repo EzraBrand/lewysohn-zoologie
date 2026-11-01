@@ -1,0 +1,197 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der gemeine Thunfisch. — Der Pelamis.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der gemeine Thunfisch. — Der Pelamis."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "253",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "253"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "schmeckend, womit man jene geschmackvolle Makrele besonders be-\nnannt haben mochte, oder von כפה, bedecken, denn die Makrelen\nliegen während des Winters im Schlamm verborgen und haben den\nKopf einige Zoll tief in ihm versteckt. — Daß der Talmud gerade\nunsern Fisch, dessen Galle nicht weniger bitter als die jedes andern\nFisches sein wird, namentlich erwähnte, mag den Grund in dem\nmassenhaften Vorhandensein dieses Fisches haben, der also einem Je-\nden zugänglich und leicht zu haben ist. — Indessen sei bemerkt, daß\nder im vorigen §. erwähnte Zug der Makrele von Einigen bezweifelt\nwird; sie behaupten, daß sie den Winter über bis zum Mai im Schlamm\nin den Baien von Grönland und von Neufundland zubringen; dem-\nnach könnte sie zur Zeit des Pessach, welches gewöhnlich im April fällt,\nnoch gar nicht zu uns kommen. Der Talmud muß also die Ansicht\nAnderer theilen, welche den Fisch schon gegen das Frühjahr an der\nspanischen Küste erscheinen lassen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "schmeckend, womit man jene geschmackvolle Makrele besonders be-\nnannt haben mochte, oder von "
+    },
+    {
+     "lang": "heb",
+     "text": "כפה"
+    },
+    {
+     "lang": "deu",
+     "text": ", bedecken, denn die Makrelen\nliegen während des Winters im Schlamm verborgen und haben den\nKopf einige Zoll tief in ihm versteckt. — Daß der Talmud gerade\nunsern Fisch, dessen Galle nicht weniger bitter als die jedes andern\nFisches sein wird, namentlich erwähnte, mag den Grund in dem\nmassenhaften Vorhandensein dieses Fisches haben, der also einem Je-\nden zugänglich und leicht zu haben ist. — Indessen sei bemerkt, daß\nder im vorigen §. erwähnte Zug der Makrele von Einigen bezweifelt\nwird; sie behaupten, daß sie den Winter über bis zum Mai im Schlamm\nin den Baien von Grönland und von Neufundland zubringen; dem-\nnach könnte sie zur Zeit des Pessach, welches gewöhnlich im April fällt,\nnoch gar nicht zu uns kommen. Der Talmud muß also die Ansicht\nAnderer theilen, welche den Fisch schon gegen das Frühjahr an der\nspanischen Küste erscheinen lassen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 317.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 317."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der gemeine Thunfisch.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der gemeine Thunfisch."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "טונוס (Chulin 25, a) und אטונוס (ibid. 66, b), wofür weniger\ncorrect: אוטנוס (A. Sara 39, a). Dieser prächtige, große Fisch, der\neine Größe von 15—18 Fuß erreichen soll, ist ein reiner Fisch, denn\ner besitzt Schuppen und Flossen, die erst später, wenn er aus dem\nWasser genommen ist, abfallen (ibid.). Durch das Reiben mit seiner\nHaut wird das Holz glatt (Chulin 25, a) und gelb (Ps.-Raschi zu\nNedarim 56, b). Seine 8—10 falschen Flößchen sind goldgelb\n(Voigt l. c. 3. S. 291). — Da der Thunfisch (Θύννος, Thynnus) bei den\nAlten noch verschiedene Namen führte, mit welchen zum Theil ver-\nschiedene Species, zum Theil die verschiedenen Altersperioden des\nFisches bezeichnet wurden, so wird hierdurch die Urgirung einiger tal-\nmudischen Fischnamen erleichtert, und wir lassen daher diejenigen\nNamen folgen, welche auf den Thunfisch bezogen werden können.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "טונוס"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 25, a) und "
+    },
+    {
+     "lang": "heb",
+     "text": "אטונוס"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 66, b), wofür weniger\ncorrect: "
+    },
+    {
+     "lang": "heb",
+     "text": "אוטנוס"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 39, a). Dieser prächtige, große Fisch, der\neine Größe von 15—18 Fuß erreichen soll, ist ein reiner Fisch, denn\ner besitzt Schuppen und Flossen, die erst später, wenn er aus dem\nWasser genommen ist, abfallen (ibid.). Durch das Reiben mit seiner\nHaut wird das Holz glatt (Chulin 25, a) und gelb (Ps.-Raschi zu\nNedarim 56, b). Seine 8—10 falschen Flößchen sind goldgelb\n(Voigt l. c. 3. S. 291). — Da der Thunfisch ("
+    },
+    {
+     "lang": "grc",
+     "text": "Θύννος"
+    },
+    {
+     "lang": "lat",
+     "text": ", Thynnus"
+    },
+    {
+     "lang": "deu",
+     "text": ") bei den\nAlten noch verschiedene Namen führte, mit welchen zum Theil ver-\nschiedene Species, zum Theil die verschiedenen Altersperioden des\nFisches bezeichnet wurden, so wird hierdurch die Urgirung einiger tal-\nmudischen Fischnamen erleichtert, und wir lassen daher diejenigen\nNamen folgen, welche auf den Thunfisch bezogen werden können."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 318.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 318."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Pelamis.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Pelamis."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Plinius (h. n. 9, 15, 18) sagt: Cordyla wird die junge Brut\ngenannt, welche im Herbst die Alten bei der Rückkehr ins Meer be-\ngleiten; die schlammigen oder nach dem Sumpfe benannt, heißen\nPelamides, und nach einem Jahre heißen sie Thynni. Der zweite",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Plinius (h. n. 9, 15, 18) sagt: "
+    },
+    {
+     "lang": "lat",
+     "text": "Cordyla"
+    },
+    {
+     "lang": "deu",
+     "text": " wird die junge Brut\ngenannt, welche im Herbst die Alten bei der Rückkehr ins Meer be-\ngleiten; die schlammigen oder nach dem Sumpfe benannt, heißen\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Pelamides"
+    },
+    {
+     "lang": "deu",
+     "text": ", und nach einem Jahre heißen sie "
+    },
+    {
+     "lang": "lat",
+     "text": "Thynni"
+    },
+    {
+     "lang": "deu",
+     "text": ". Der zweite"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3288,
+    2116
+   ],
+   [
+    3288,
+    3176
+   ]
+  ],
+  "input_tokens": 11344,
+  "output_tokens": 1612,
+  "cost_usd": 0.0388,
+  "seconds": 10.1
+ }
+}

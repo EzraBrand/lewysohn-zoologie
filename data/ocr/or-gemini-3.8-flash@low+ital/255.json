@@ -1,0 +1,165 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Triton.\n255",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Triton.\n255"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 320.\nDer Triton.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 320.\nDer Triton."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Plinius (h. n. 32, 11, 53) sagt: Der Triton ist von dem\ngroßen Geschlecht der Pelamyden; er gehört also zum Geschlecht der\nThunfische, und wird auch von den Talmudcommentaren so erklärt.\nZu Megilla 6, a heißt es: Das biblische שפוני (Deut. 33, 19, von\nJonathan mit טריחא erklärt) ist der טרית (Triton), wozu Raschi be-\nmerkt: es ist der Fisch, welcher טונינא, Thonine heißt. Der Besitz\ndieses Fisches war als Segen dem Stamme Sebulon versprochen; das\nGebiet dieses Stammes, welches im Nordost von Palästina sich be-\nfand, grenzte östlich an dem See von Tiberias, westlich am mittel-\nländischen Meer, und so erkennen wir im unserem Fische den Thun-\nfisch um so eher, als es bekannt ist, daß schon die Phönizier den\nThunfischfang an den spanischen Küsten betrieben. Die Thunfische\ngehen aber, wie schon früher (§. 315) erwähnt, von dem atlantischen\nOcean nach dem Mittelmeere. — Mit demselben französischen Worte\nerklärt Raschi den Namen zu Berachoth 44, a, wo es heißt: König\nJanai besaß eine Stadt, aus welcher man allwöchentlich 60,000 Tonnen\nטרית zum Gebrauch für die Beschneider der Feigenbäume ausführte.\n— Der ergiebige Fang der Thunfische ist bekannt, so liefert ein ein-\nziger jener Züge des Fisches an den Küsten von Languedoc 2—3000\nZentner (Voigt l. c. 3, S. 193), und so läßt sich jene talmudische\nallerdings wohl übertrieben lautende Angabe erklären. Jene Wein-\narbeiter sollen nach Aruch (s. v. ספל) den Fisch als Verdauungsmittel\nder vielen bei der Arbeit genossenen süßen Früchte gegessen haben.\n— Der Ausdruck טרית טרופה bedeutet sowohl zerschnittenen Tri-\nton (Nedarim 51, b), als auch das teigartig zerhackte Fischfleisch des\nTriton (A. Sara 35, b), während טרית שאינה טרופה (ibid. 39, b)\nsolche Fischstücke des Triton bezeichnet, die aus dem Fische geschnitten,\nnicht aber bis zur Unkenntlichkeit zerstoßen sind. Ungenau übersetzt\nRaschi (A. Sara 35, b) טרית טרופה durch מין דגים קטנים מלוחים „eine\nArt kleiner gesalzener Fische\"; genauer hingegen Maimuni (ibid. zur\nMischnah), er sagt: טרית ist eine unreine Fischart, die man teigartig\nzerstößt, und in diesem Falle ist der Ankauf von Seiten eines Israe-\nliten nicht gestattet, weil man nicht sicher sein kann, ob auch keine\nBestandtheile unreiner Fische beigemischt sein könnten. — Das zer-\nhackte und teigartig zubereitete Fleisch von kleinen Fischen heißt צחנה",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Plinius"
+    },
+    {
+     "lang": "deu",
+     "text": " (h. n. 32, 11, 53) sagt: Der Triton ist von dem\ngroßen Geschlecht der Pelamyden; er gehört also zum Geschlecht der\nThunfische, und wird auch von den Talmudcommentaren so erklärt.\nZu Megilla 6, a heißt es: Das biblische "
+    },
+    {
+     "lang": "heb",
+     "text": "שפוני"
+    },
+    {
+     "lang": "deu",
+     "text": " (Deut. 33, 19, von\nJonathan mit "
+    },
+    {
+     "lang": "arc",
+     "text": "טריחא"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt) ist der "
+    },
+    {
+     "lang": "heb",
+     "text": "טרית"
+    },
+    {
+     "lang": "deu",
+     "text": " (Triton), wozu Raschi be-\nmerkt: es ist der Fisch, welcher "
+    },
+    {
+     "lang": "arc",
+     "text": "טונינא"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Thonine"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt. Der Besitz\ndieses Fisches war als Segen dem Stamme Sebulon versprochen; das\nGebiet dieses Stammes, welches im Nordost von Palästina sich be-\nfand, grenzte östlich an dem See von Tiberias, westlich am mittel-\nländischen Meer, und so erkennen wir im unserem Fische den Thun-\nfisch um so eher, als es bekannt ist, daß schon die Phönizier den\nThunfischfang an den spanischen Küsten betrieben. Die Thunfische\ngehen aber, wie schon früher (§. 315) erwähnt, von dem atlantischen\nOcean nach dem Mittelmeere. — Mit demselben französischen Worte\nerklärt Raschi den Namen zu Berachoth 44, a, wo es heißt: König\nJanai besaß eine Stadt, aus welcher man allwöchentlich 60,000 Tonnen\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טרית"
+    },
+    {
+     "lang": "deu",
+     "text": " zum Gebrauch für die Beschneider der Feigenbäume ausführte.\n— Der ergiebige Fang der Thunfische ist bekannt, so liefert ein ein-\nziger jener Züge des Fisches an den Küsten von Languedoc 2—3000\nZentner (Voigt l. c. 3, S. 193), und so läßt sich jene talmudische\nallerdings wohl übertrieben lautende Angabe erklären. Jene Wein-\narbeiter sollen nach Aruch (s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "ספל"
+    },
+    {
+     "lang": "deu",
+     "text": ") den Fisch als Verdauungsmittel\nder vielen bei der Arbeit genossenen süßen Früchte gegessen haben.\n— Der Ausdruck "
+    },
+    {
+     "lang": "heb",
+     "text": "טרית טרופה"
+    },
+    {
+     "lang": "deu",
+     "text": " bedeutet sowohl zerschnittenen Tri-\nton (Nedarim 51, b), als auch das teigartig zerhackte Fischfleisch des\nTriton (A. Sara 35, b), während "
+    },
+    {
+     "lang": "heb",
+     "text": "טרית שאינה טרופה"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 39, b)\nsolche Fischstücke des Triton bezeichnet, die aus dem Fische geschnitten,\nnicht aber bis zur Unkenntlichkeit zerstoßen sind. Ungenau übersetzt\nRaschi (A. Sara 35, b) "
+    },
+    {
+     "lang": "heb",
+     "text": "טרית טרופה"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "heb",
+     "text": "מין דגים קטנים מלוחים"
+    },
+    {
+     "lang": "deu",
+     "text": " „eine\nArt kleiner gesalzener Fische\"; genauer hingegen Maimuni (ibid. zur\nMischnah), er sagt: "
+    },
+    {
+     "lang": "heb",
+     "text": "טרית"
+    },
+    {
+     "lang": "deu",
+     "text": " ist eine unreine Fischart, die man teigartig\nzerstößt, und in diesem Falle ist der Ankauf von Seiten eines Israe-\nliten nicht gestattet, weil man nicht sicher sein kann, ob auch keine\nBestandtheile unreiner Fische beigemischt sein könnten. — Das zer-\nhackte und teigartig zubereitete Fleisch von kleinen Fischen heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "צחנה"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3196,
+    2041
+   ],
+   [
+    3196,
+    2955
+   ]
+  ],
+  "input_tokens": 3319,
+  "output_tokens": 1488,
+  "cost_usd": 0.0081,
+  "seconds": 9.8
+ }
+}

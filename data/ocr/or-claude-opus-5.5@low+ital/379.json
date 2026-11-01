@@ -1,0 +1,241 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Lateinisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Lateinisches Register."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Τ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Τ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ταχίνας 153.\nΤαχύς 153.\nΤαώς 189.\nΤζίχλα 212.\nΤίγρις 70.\nΤραγέλαφος 117.\nΤρόχιλος 210.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ταχίνας 153.\nΤαχύς 153.\nΤαώς 189.\nΤζίχλα 212.\nΤίγρις 70.\nΤραγέλαφος 117.\nΤρόχιλος 210."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Υ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Υ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ὕδρος 274.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ὕδρος 274."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Φ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Φ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Φάλαινα 158.\nΦάσσα 186.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Φάλαινα 158.\nΦάσσα 186."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Χ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Χ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Χαλκίς 276. 372.\nΧέλυς 232. 233.\nΧέρσυδρος 239.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Χαλκίς 276. 372.\nΧέλυς 232. 233.\nΧέρσυδρος 239."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "grc",
+   "text": "Ψ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ψ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "grc",
+   "text": "Ψῆττα 274.\nΨυχή 364.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "grc",
+     "text": "Ψῆττα 274.\nΨυχή 364."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "II. Lateinisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "II. Lateinisches Register."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "A.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "A."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Abramis Brama 264.\nAcarus farinae 312.\nAcarus scabici 325.\nAccipiter 164.\nAlalonga 258.\nAlauda 374.\nAlauda cristata 177. 186.\nAlcyonium cydonium 343.\nAlec 259.\nAmia 257.\nAnableps tetrophthalmus 244.\nAnas 193.\nAnas Histrionica 194.\nAnguis 366.\nAnser 193.\nAntilope Dorcas 127.\nAntilope Leucoryx 149.\nAntilope Oryx 114.\nAquila imperialis 166,\nAquila Valera 167\nAranea 376.\nArdea nycticorax 170.\nArdea stellaris 180.\nAscaris 339.\nAsellus 270.\nAsina 140.\nAsinus Lybicus 142.\nAsinus silvestris 143.\nAsopia farinalis 309.\nAtherina hepsetus 269.\nAtherina presbyter 269.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Abramis Brama 264.\nAcarus farinae 312.\nAcarus scabici 325.\nAccipiter 164.\nAlalonga 258.\nAlauda 374.\nAlauda cristata 177. 186.\nAlcyonium cydonium 343.\nAlec 259.\nAmia 257.\nAnableps tetrophthalmus 244.\nAnas 193.\nAnas Histrionica 194.\nAnguis 366.\nAnser 193.\nAntilope Dorcas 127.\nAntilope Leucoryx 149.\nAntilope Oryx 114.\nAquila imperialis 166,\nAquila Valera 167\nAranea 376.\nArdea nycticorax 170.\nArdea stellaris 180.\nAscaris 339.\nAsellus 270.\nAsina 140.\nAsinus Lybicus 142.\nAsinus silvestris 143.\nAsopia farinalis 309.\nAtherina hepsetus 269.\nAtherina presbyter 269."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "B.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "B."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Bacchus 270.\nBacillus 296.\nBalaena 158.\nBalaena mysticetus 269.\nBombus lapidarius 361.\nBombyx mori 359.\nBruchus pisi 307.\nBuccinus 281.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Bacchus 270.\nBacillus 296.\nBalaena 158.\nBalaena mysticetus 269.\nBombus lapidarius 361.\nBombyx mori 359.\nBruchus pisi 307.\nBuccinus 281."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "C.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "C."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Callarias 270.\nCanis sagax 89.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Callarias 270.\nCanis sagax 89."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2956,
+    2172
+   ],
+   [
+    2956,
+    2908
+   ]
+  ],
+  "input_tokens": 11393,
+  "output_tokens": 1282,
+  "cost_usd": 0.0712,
+  "seconds": 17.0
+ }
+}

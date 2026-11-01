@@ -1,0 +1,289 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Nacktschnecke. — Die Gartenschnecke.\t279",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Nacktschnecke. — Die Gartenschnecke.\t279"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Fünfte Klasse.\nWeichthiere.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fünfte Klasse.\nWeichthiere."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 361.\nDie Nacktschnecke.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 361.\nDie Nacktschnecke."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "שבלול (M. Katan 6, b). Sie läßt auf ihrem Gange einen feuch-\nten Streifen zurück und stirbt so mit der Zeit an Selbstverzehrung\nder Säfte (ibid.), ein Glauben, der schon vom Psalmisten gehegt\nwurde (Ps. 58, 9). Diesen glänzenden Strich ihres Schleimes, wel-\ncher den Weg der Schnecke bezeichnet, sieht man besonders bei der\ngroßen Wegschnecke (Lymax sylvaticus). Diese Schnecke ist ohne\nSchale, weshalb Raschi ungenau שבלול durch לימצון, Limaçon, erklärt;\ndas franz. Wort bezeichnet die Schalschnecken, während Limace die\nglatten Schnecken bedeutet; es ist also hier לימגא zu emendiren, und\nwiederum im folgenden Artikel bei der Erklärung von חמט nicht לימגא,\nsondern לימצון zu nehmen, da חמט eine Schalschnecke ist. — Von der\nשבלול heißt es, daß sie als Heilmittel gegen Blasen, oder Geschwüre\ndiene (Sabbat 77, b). Bekanntlich ist die Wegschnecke sehr fettig und\nliefert auch unter Anderm für Auszehrende heilsame Brühen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "שבלול"
+    },
+    {
+     "lang": "deu",
+     "text": " (M. Katan 6, b). Sie läßt auf ihrem Gange einen feuch-\nten Streifen zurück und stirbt so mit der Zeit an Selbstverzehrung\nder Säfte (ibid.), ein Glauben, der schon vom Psalmisten gehegt\nwurde (Ps. 58, 9). Diesen glänzenden Strich ihres Schleimes, wel-\ncher den Weg der Schnecke bezeichnet, sieht man besonders bei der\ngroßen Wegschnecke ("
+    },
+    {
+     "lang": "lat",
+     "text": "Lymax sylvaticus"
+    },
+    {
+     "lang": "deu",
+     "text": "). Diese Schnecke ist ohne\nSchale, weshalb Raschi ungenau "
+    },
+    {
+     "lang": "heb",
+     "text": "שבלול"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "heb",
+     "text": "לימצון"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Limaçon"
+    },
+    {
+     "lang": "deu",
+     "text": ", erklärt;\ndas franz. Wort bezeichnet die Schalschnecken, während "
+    },
+    {
+     "lang": "fra",
+     "text": "Limace"
+    },
+    {
+     "lang": "deu",
+     "text": " die\nglatten Schnecken bedeutet; es ist also hier "
+    },
+    {
+     "lang": "heb",
+     "text": "לימגא"
+    },
+    {
+     "lang": "deu",
+     "text": " zu emendiren, und\nwiederum im folgenden Artikel bei der Erklärung von "
+    },
+    {
+     "lang": "heb",
+     "text": "חמט"
+    },
+    {
+     "lang": "deu",
+     "text": " nicht "
+    },
+    {
+     "lang": "heb",
+     "text": "לימגא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nsondern "
+    },
+    {
+     "lang": "heb",
+     "text": "לימצון"
+    },
+    {
+     "lang": "deu",
+     "text": " zu nehmen, da "
+    },
+    {
+     "lang": "heb",
+     "text": "חמט"
+    },
+    {
+     "lang": "deu",
+     "text": " eine Schalschnecke ist. — Von der\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שבלול"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt es, daß sie als Heilmittel gegen Blasen, oder Geschwüre\ndiene (Sabbat 77, b). Bekanntlich ist die Wegschnecke sehr fettig und\nliefert auch unter Anderm für Auszehrende heilsame Brühen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 362.\nDie Gartenschnecke.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 362.\nDie Gartenschnecke."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Unter diesem Namen wird ein sehr zahlreiches Geschlecht beschal-\nter Schnecken verstanden, das im Franz. Limaçon heißt, ebenso ge-\nnerell ist der Name חמט (Chagiga 11, a) für viele Species aus\nden Familien der Conchylien*). Die חמט, heißt es, ist bei der Ge-\nburt von der Größe einer Linse. Hierzu Raschi: Ich halte dafür,\ndaß es dasjenige Kriechthier ist, welches man לימגא (Limace, ital.\nLumaco) nennt; es wächst in seiner Schale, welche während des\nWachsthums stets sich abrundet. Diese Schale ist bei ihrem Ent-\nstehen wie die Schale einer Linse. — Ueber die Bildung der spiral\ngewundenen Schale der Schnecken vergl. Voigt l. c. 3, S. 313 ff.\nFür לימגא haben wir in Raschi לימצון zu lesen, worüber der vorher",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Unter diesem Namen wird ein sehr zahlreiches Geschlecht beschal-\nter Schnecken verstanden, das im Franz. "
+    },
+    {
+     "lang": "fra",
+     "text": "Limaçon"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt, ebenso ge-\nnerell ist der Name "
+    },
+    {
+     "lang": "heb",
+     "text": "חמט"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chagiga 11, a) für viele Species aus\nden Familien der Conchylien*). Die "
+    },
+    {
+     "lang": "heb",
+     "text": "חמט"
+    },
+    {
+     "lang": "deu",
+     "text": ", heißt es, ist bei der Ge-\nburt von der Größe einer Linse. Hierzu Raschi: Ich halte dafür,\ndaß es dasjenige Kriechthier ist, welches man "
+    },
+    {
+     "lang": "heb",
+     "text": "לימגא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "fra",
+     "text": "Limace"
+    },
+    {
+     "lang": "deu",
+     "text": ", ital.\n"
+    },
+    {
+     "lang": "ita",
+     "text": "Lumaco"
+    },
+    {
+     "lang": "deu",
+     "text": ") nennt; es wächst in seiner Schale, welche während des\nWachsthums stets sich abrundet. Diese Schale ist bei ihrem Ent-\nstehen wie die Schale einer Linse. — Ueber die Bildung der spiral\ngewundenen Schale der Schnecken vergl. Voigt l. c. 3, S. 313 ff.\nFür "
+    },
+    {
+     "lang": "heb",
+     "text": "לימגא"
+    },
+    {
+     "lang": "deu",
+     "text": " haben wir in Raschi "
+    },
+    {
+     "lang": "heb",
+     "text": "לימצון"
+    },
+    {
+     "lang": "deu",
+     "text": " zu lesen, worüber der vorher"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Es sei hier gelegentlich bemerkt, daß Aruch ככליאר für ככוליאר (Joma\n25, a) liest und es von κοχλίον „schneckenförmig gewunden“ erklärt: Die Prie-\nster standen im Kreise gleich der Form der Schnecke.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Es sei hier gelegentlich bemerkt, daß Aruch "
+    },
+    {
+     "lang": "heb",
+     "text": "ככליאר"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "heb",
+     "text": "ככוליאר"
+    },
+    {
+     "lang": "deu",
+     "text": " (Joma\n25, a) liest und es von "
+    },
+    {
+     "lang": "grc",
+     "text": "κοχλίον"
+    },
+    {
+     "lang": "deu",
+     "text": " „schneckenförmig gewunden“ erklärt: Die Prie-\nster standen im Kreise gleich der Form der Schnecke."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2806
+   ],
+   [
+    3308,
+    2290
+   ]
+  ],
+  "input_tokens": 3325,
+  "output_tokens": 1969,
+  "cost_usd": 0.0099,
+  "seconds": 11.7
+ }
+}

@@ -1,0 +1,269 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "178 Die Lerche. — Der Zaunkönig. — Der Bergfink.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "178 Die Lerche. — Der Zaunkönig. — Der Bergfink."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "scheinlich, weil sie zu dem Sperlingsgeschlecht gehören; vergl. fol-\ngenden Artikel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "scheinlich, weil sie zu dem Sperlingsgeschlecht gehören; vergl. fol-\ngenden Artikel."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 214.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 214."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Lerche.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Lerche."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der zweite jener acht Vögel ist der חוגא (Chulin 62, b). Im\nAram. hat חוגא die Bedeutung im Kreise sich herumdrehen,\nwas bekanntlich bei der Lerche der Fall ist. Sie steigt schrauben-\nförmig gerade in die Luft, wobei sie in der Höhe einer sich um sich\nselbst drehenden Kugel ähnlich sieht (s. Voigt l. c. 2. S. 215), und\nso mag vielleicht חוגא die Lerche bedeuten; indessen muß ich bemer-\nken, daß die Responsen חינוך בית יהודא zu Jore Dea No. 32 ausdrück-\nlich sagen: עוף שקורין לערכין בל\"א שמעתי דהוא עוף טמא וכן אסרו אב\"ד\nרק\"ק פ\"פ „Der Vogel, der im Deutschen Lerche heißt, ist, wie ich\nhörte, ein unreiner Vogel und wurde auch von dem Rabbiner zu\nFrankfurt als unerlaubt erklärt.“ Ob aber auch diese Decisoren dar-\nan dachten, daß die Lerche zu dem (reinen) Sperlingsgeschlecht gehört?",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der zweite jener acht Vögel ist der "
+    },
+    {
+     "lang": "arc",
+     "text": "חוגא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 62, b). Im\nAram. hat "
+    },
+    {
+     "lang": "arc",
+     "text": "חוגא"
+    },
+    {
+     "lang": "deu",
+     "text": " die Bedeutung im Kreise sich herumdrehen,\nwas bekanntlich bei der Lerche der Fall ist. Sie steigt schrauben-\nförmig gerade in die Luft, wobei sie in der Höhe einer sich um sich\nselbst drehenden Kugel ähnlich sieht (s. Voigt l. c. 2. S. 215), und\nso mag vielleicht "
+    },
+    {
+     "lang": "arc",
+     "text": "חוגא"
+    },
+    {
+     "lang": "deu",
+     "text": " die Lerche bedeuten; indessen muß ich bemer-\nken, daß die Responsen "
+    },
+    {
+     "lang": "heb",
+     "text": "חינוך בית יהודא"
+    },
+    {
+     "lang": "deu",
+     "text": " zu Jore Dea No. 32 ausdrück-\nlich sagen: "
+    },
+    {
+     "lang": "heb",
+     "text": "עוף שקורין לערכין בל\"א שמעתי דהוא עוף טמא וכן אסרו אב\"ד"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "רק\"ק פ\"פ"
+    },
+    {
+     "lang": "deu",
+     "text": " „Der Vogel, der im Deutschen Lerche heißt, ist, wie ich\nhörte, ein unreiner Vogel und wurde auch von dem Rabbiner zu\nFrankfurt als unerlaubt erklärt.“ Ob aber auch diese Decisoren dar-\nan dachten, daß die Lerche zu dem (reinen) Sperlingsgeschlecht gehört?"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 215.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 215."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Zaunkönig.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Zaunkönig."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der dritte jener acht Vögel ist der סוגא (Chulin 62, b). Das\nWort סיג heißt Zaun, und davon סוגה Umzäunung; möglich also,\ndaß סוגא der Zaunkönig ist. Der Vogel heißt so, weil er sin-\ngend von Zaun zu Zaun flattert (Beumer: Populäre Naturg. S. 236).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der dritte jener acht Vögel ist der "
+    },
+    {
+     "lang": "arc",
+     "text": "סוגא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 62, b). Das\nWort "
+    },
+    {
+     "lang": "heb",
+     "text": "סיג"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt Zaun, und davon "
+    },
+    {
+     "lang": "heb",
+     "text": "סוגה"
+    },
+    {
+     "lang": "deu",
+     "text": " Umzäunung; möglich also,\ndaß "
+    },
+    {
+     "lang": "arc",
+     "text": "סוגא"
+    },
+    {
+     "lang": "deu",
+     "text": " der Zaunkönig ist. Der Vogel heißt so, weil er sin-\ngend von Zaun zu Zaun flattert (Beumer: Populäre Naturg. S. 236)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 216.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 216."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Bergfink.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Bergfink."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der vierte jener acht Vögel ist der הרנוגא (Chulin 62, b).\nDas Wort mag aus הר „Berg“ und נוגא (im Sinne von נגה,\nweilen) zusammengesetzt sein. Indessen müssen wir gestehen, daß\nder Begriff des Weilens auf, oder zwischen Bergen sehr elastisch ist,\nund ebenso auf den Bergfalk, Bergfasan, die Bergelster, Bergdrossel\nu. m. a. anwendbar wäre; allein der Bergfink gehört zum Sper-\nlingsgeschlecht, aus welchem, wie wir gesehen, schon einige Species\ngenannt wurden (§. 213 und 214).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der vierte jener acht Vögel ist der "
+    },
+    {
+     "lang": "arc",
+     "text": "הרנוגא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 62, b).\nDas Wort mag aus "
+    },
+    {
+     "lang": "heb",
+     "text": "הר"
+    },
+    {
+     "lang": "deu",
+     "text": " „Berg“ und "
+    },
+    {
+     "lang": "arc",
+     "text": "נוגא"
+    },
+    {
+     "lang": "deu",
+     "text": " (im Sinne von "
+    },
+    {
+     "lang": "heb",
+     "text": "נגה"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nweilen) zusammengesetzt sein. Indessen müssen wir gestehen, daß\nder Begriff des Weilens auf, oder zwischen Bergen sehr elastisch ist,\nund ebenso auf den Bergfalk, Bergfasan, die Bergelster, Bergdrossel\nu. m. a. anwendbar wäre; allein der Bergfink gehört zum Sper-\nlingsgeschlecht, aus welchem, wie wir gesehen, schon einige Species\ngenannt wurden (§. 213 und 214)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3300,
+    2407
+   ],
+   [
+    3300,
+    2765
+   ]
+  ],
+  "input_tokens": 11358,
+  "output_tokens": 1725,
+  "cost_usd": 0.04,
+  "seconds": 11.6
+ }
+}

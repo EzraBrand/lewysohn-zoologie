@@ -1,0 +1,420 @@
+{
+ "main": "or-claude-opus-5.5@low+ital",
+ "model": "anthropic/claude-opus-5.5",
+ "items": [
+  {
+   "page": 392,
+   "line": "תרחק 140.",
+   "main": "תרחק",
+   "check": "תרתק",
+   "confident": true,
+   "note": "In this alphabetical index, תרתק fits after תרנגולתא (ת follows נ) and before תשה. תרחק would be out of order, since ח precedes נ.",
+   "printed": "תרתק"
+  },
+  {
+   "page": 392,
+   "line": "תמוון 90.",
+   "main": "תמוון",
+   "check": "תמון",
+   "confident": true,
+   "note": "The next index line already lists תמון 90, so the marked line must be a separate entry. תמוון fits the alphabetical order (תמא < תמוון < תמון) as a variant spelling on the same page.",
+   "printed": "תמוון"
+  },
+  {
+   "page": 392,
+   "line": "תחוותא 162.",
+   "main": "תחוותא",
+   "check": "תחזותא",
+   "confident": false,
+   "note": "Both readings fit the alphabetical order between תושלמי and תחש. I lean to תחוותא as a Talmudic animal (possibly bird) name, but I could not confirm it against the source.",
+   "printed": "תחוותא"
+  },
+  {
+   "page": 391,
+   "line": "תולעת שבתמרים 310.",
+   "main": "שבתמרים",
+   "check": "שבחמרים",
+   "confident": true,
+   "note": "The index groups worms by host fruit: figs (גרוגרות), vine roots, olive roots, and dates (תמרים). That matches the Talmudic list of worms in dates in Chullin 67b. שבחמרים (\"in donkeys/clay\") does not fit this sequence.",
+   "printed": "שבתמרים"
+  },
+  {
+   "page": 391,
+   "line": "תולעת שבגרוגרות 310.",
+   "main": "שבגרוגרות",
+   "check": "שבתמרות",
+   "confident": true,
+   "note": "The index is alphabetical, and שבגרוגרות (ג) correctly comes before שבעיקרי (ע). שבתמרות would be out of order and would duplicate the later entry שבתמרים. 'The worm in dried figs' is also a known Talmudic term (Chullin).",
+   "printed": "שבגרוגרות"
+  },
+  {
+   "page": 391,
+   "line": "שיבאי 309.",
+   "main": "שיבאי",
+   "check": "שיכאי",
+   "confident": false,
+   "note": "Both readings fit the alphabetical order between שחף and שילשול. I could not identify the insect term on p. 309 from memory, so A is only a guess.",
+   "printed": "שיבאי"
+  },
+  {
+   "page": 391,
+   "line": "שואבות 86.",
+   "main": "שואבות",
+   "check": "שואכות",
+   "confident": true,
+   "note": "שואבות is a real Hebrew form ('those that draw/suck'), whereas שואכות is not a word. The ב/כ confusion is a typical OCR error.",
+   "printed": "שואבות"
+  },
+  {
+   "page": 391,
+   "line": "שבור אנדרפטא 161.",
+   "main": "אנדרפטא",
+   "check": "אנדרפתא",
+   "confident": false,
+   "note": "This is an index entry, so there is no German gloss or context to decide by. I lean toward ט because I vaguely recall the Talmudic spelling אנדרפטא, but this is close to a guess.",
+   "printed": "אנדרפטא"
+  },
+  {
+   "page": 391,
+   "line": "רצינתא 311.",
+   "main": "רצינתא",
+   "check": "רצינחא",
+   "confident": true,
+   "note": "The -תא ending is the normal Aramaic feminine/emphatic form (cf. רצוצא nearby in this index). A ח in that position is a typical OCR confusion of ת/ח, and רצינחא is not a known word.",
+   "printed": "רצינתא"
+  },
+  {
+   "page": 390,
+   "line": "ריחשא 339.",
+   "main": "ריחשא",
+   "check": "ריוחשא",
+   "confident": true,
+   "note": "ריחשא, the Aramaic for a creeping thing or vermin, is a known Talmudic form (from רחש). ריוחשא is not an attested word.",
+   "printed": "ריחשא"
+  },
+  {
+   "page": 390,
+   "line": "קרוצי 308.",
+   "main": "קרוצי",
+   "check": "קרטצי",
+   "confident": true,
+   "note": "The index is alphabetical. קרוצי fits between קרבין and קרוקתא, while קרטצי would have to come after קרוקתא. Both readings fit the insect page (308).",
+   "printed": "קרוצי"
+  },
+  {
+   "page": 390,
+   "line": "קקותא 162.",
+   "main": "קקותא",
+   "check": "קקוחא",
+   "confident": false,
+   "note": "In this bird section (pp. 162–163), קקותא fits the usual Aramaic -וּתָא noun ending. I recall it as a Talmudic bird name but am not certain. קקוחא is not a form I know, though it cannot be ruled out.",
+   "printed": "קקותא"
+  },
+  {
+   "page": 390,
+   "line": "קורא דגר 216.",
+   "main": "דגר",
+   "check": "דנר",
+   "confident": true,
+   "note": "From Jeremiah 17:11 'קורא דגר ולא ילד' (the partridge broods on eggs it did not lay). דגר means 'to brood', while דנר is not a word in this context.",
+   "printed": "דגר"
+  },
+  {
+   "page": 390,
+   "line": "קרש נונא 268.",
+   "main": "קרש",
+   "check": "קדש",
+   "confident": false,
+   "note": "In this alphabetical index the entry falls between קדיא and קואי, which fits קדש and not קרש (קר would sort after קו). קרש is, however, a known Talmudic sea-creature name, so A cannot be ruled out.",
+   "printed": "קדש"
+  },
+  {
+   "page": 390,
+   "line": "צירעה שבנינוה 304.",
+   "main": "שבנינוה צלבחא",
+   "check": "שבניניה צלבתא",
+   "confident": true,
+   "note": "'שבנינוה' means 'of Nineveh' (נינוה), the standard spelling. 'צלבחא' matches the neighbouring entry צלופחא (eel) on the same page, 264. B's ניניה and צלבתא look like ו/י and ח/ת misreadings.",
+   "printed": "שבנינוה צלבחא"
+  },
+  {
+   "page": 390,
+   "line": "צילצלא 204.",
+   "main": "צילצלא",
+   "check": "צלצלא",
+   "confident": true,
+   "note": "This is an alphabetical index entry. צילצלא sorts between ציים and ציפורן, whereas צלצלא would come after all the ציפ entries. The plene spelling also matches the neighbouring headwords.",
+   "printed": "צילצלא"
+  },
+  {
+   "page": 389,
+   "line": "צחנתא 256. 259. 262.",
+   "main": "צחנתא",
+   "check": "צחתנא",
+   "confident": true,
+   "note": "Index entry directly follows צחנה (stench). צחנתא is its Aramaic emphatic form, a known word for small salted fish or stench. צחתנא is a metathesis and not a word.",
+   "printed": "צחנתא"
+  },
+  {
+   "page": 389,
+   "line": "צביה 111.",
+   "main": "צביה צוציני",
+   "check": "צבייה צוצייני",
+   "confident": false,
+   "note": "In this index the forms צביה (gazelle, fem.) and צוציני (birds) are the usual spellings. The doubled yod in reading B looks like an OCR artifact, but plene spellings also exist, so B is not ruled out.",
+   "printed": "צביה צוציני"
+  },
+  {
+   "page": 389,
+   "line": "פרם 167.",
+   "main": "פרם",
+   "check": "פרס",
+   "confident": true,
+   "note": "פרס is the biblical ossifrage (Lev 11:13), a bird that fits page 167 in the bird section. פרם is not a recognised word.",
+   "printed": "פרס"
+  },
+  {
+   "page": 389,
+   "line": "פרגיין 188.",
+   "main": "פרגיין",
+   "check": "פרגנין",
+   "confident": false,
+   "note": "This fits as the Aramaic plural of פרגית (chick), the same root as the preceding entry פרגיות on p. 188. פרגנין is not a form I can attest, but I could not verify which spelling is printed.",
+   "printed": "פרגיין"
+  },
+  {
+   "page": 389,
+   "line": "פירוז אנדרפטא 161.",
+   "main": "פירוז",
+   "check": "פירון",
+   "confident": false,
+   "note": "פירוז looks like the Persian 'pērōz/Firuz' form found in Aramaic glosses; פירון is less obviously a word here, but the identification is uncertain.",
+   "printed": "פירוז"
+  },
+  {
+   "page": 389,
+   "line": "פטרווא 119.",
+   "main": "פטרווא פטתא",
+   "check": "פטרוזא פטחא",
+   "confident": false,
+   "note": "The second word, פטתא, shares page 274 with פוטיתא and is likely a variant spelling of the same word, so ת fits better than ח. I cannot verify ו versus ז in the first word, so this is a guess.",
+   "printed": "פטרווא פטתא"
+  },
+  {
+   "page": 389,
+   "line": "פה דתאנה 305.",
+   "main": "דתאנה פוטיתא",
+   "check": "דחאנה פוטיחא",
+   "confident": true,
+   "note": "תאנה ('fig') and the Talmudic sea-creature name פוטיתא both take ת. The ח forms in reading B (דחאנה, פוטיחא) are not attested words.",
+   "printed": "דתאנה פוטיתא"
+  },
+  {
+   "page": 389,
+   "line": "פדה 254.",
+   "main": "פדה",
+   "check": "פרה",
+   "confident": true,
+   "note": "The index is strictly alphabetical. פדה fits between פאפליון and פה דתאנה, since ד comes before ה. פרה would have to come after פה. Also, 'cow' would sit in the early mammal pages, not at page 254.",
+   "printed": "פדה"
+  },
+  {
+   "page": 389,
+   "line": "ערוב 54.",
+   "main": "ערוב ערוד ערעיתא ערפדא",
+   "check": "ערב ערור ערעיחא ערפרא",
+   "confident": false,
+   "note": "Reading A gives the known animal names ערוד (wild ass) and ערפדא (Targumic 'bat') in the neighbouring entries. The marked word itself, ערוב vs ערב, is uncertain.",
+   "printed": "ערוב ערוד ערעיתא ערפדא"
+  },
+  {
+   "page": 389,
+   "line": "עקרב שבחרייב 299.",
+   "main": "שבחרייב",
+   "check": "שבחדייב",
+   "confident": true,
+   "note": "The Talmudic phrase is \"akrab she-be-Ḥadyab\", the scorpion of Adiabene (Yevamot 121b; Bava Kamma 50a). Adiabene is spelled חדייב, so חרייב (with ר) is the common ד/ר OCR confusion and not a word here.",
+   "printed": "שבחדייב"
+  },
+  {
+   "page": 389,
+   "line": "עליתה 351.",
+   "main": "עליתה עלק עלקא עסוד",
+   "check": "עליחה עלוק עלוקא עסור",
+   "confident": true,
+   "note": "The index is alphabetical, so entries after עליתה must begin with letters after י; עלק and עלקא fit, while עלוק and עלוקא would sort before עליתה (beside עלוקה). The other two words are less certain.",
+   "printed": "עליתה עלק עלקא עסוד"
+  },
+  {
+   "page": 389,
+   "line": "עכברא דמתא 108.",
+   "main": "דמתא",
+   "check": "דמחא",
+   "confident": true,
+   "note": "\"עכברא דמתא\" (town mouse) pairs with \"עכברא דברא\" (field mouse) on the same page, 108. דמחא is not a meaningful word here.",
+   "printed": "דמתא"
+  },
+  {
+   "page": 389,
+   "line": "עכבר שבים 269.",
+   "main": "שבים",
+   "check": "שכים",
+   "confident": true,
+   "note": "Index entry pairs עכבר דיבשה (land mouse) with עכבר שבים, the 'mouse of the sea', a known Talmudic/Mishnaic phrase (Chullin 126b). שכים is not a meaningful word here.",
+   "printed": "שבים"
+  },
+  {
+   "page": 388,
+   "line": "עיזא כרכוז 126.",
+   "main": "כרכוז",
+   "check": "כרכז",
+   "confident": false,
+   "note": "I recall Chullin 80a and Jastrow giving the place name as כרכוז with a waw. This is a bare index line with no gloss to confirm it, and the two readings differ by one letter, so this is a guess.",
+   "printed": "כרכוז"
+  },
+  {
+   "page": 388,
+   "line": "עז 167.",
+   "main": "עז",
+   "check": "עוז",
+   "confident": false,
+   "note": "Page 167 falls in the bird section, near עגור at 169 and עורב at 172, so the goat (עז) is unlikely. עוז also fits the alphabetical place just before עורב. However, the entry itself is not confirmed.",
+   "printed": "עוז"
+  },
+  {
+   "page": 388,
+   "line": "ערק 343.",
+   "main": "ערק",
+   "check": "עדק",
+   "confident": false,
+   "note": "Alphabetical order (עגל → ? → עזק) favours עדק over ערק, which would sort after עז. עדק is probably a variant spelling listed beside עזק on the same page (343). I cannot confirm the word itself.",
+   "printed": "עדק"
+  },
+  {
+   "page": 388,
+   "line": "סיליי 233. 373.",
+   "main": "סיליי",
+   "check": "סילוי",
+   "confident": false,
+   "note": "Probably the Aramaic/Targumic word for quail (Hebrew שליו, Aramaic סלוי), which fits a vav in this position better than a double yod; the page context could not be checked.",
+   "printed": "סילוי"
+  },
+  {
+   "page": 388,
+   "line": "סולתנית 259.",
+   "main": "סולתנית",
+   "check": "סולחנית",
+   "confident": true,
+   "note": "סולתנית is the Talmudic name for a hen fattened on fine flour (סולת). Page 259 falls in the birds section, which fits. סולחנית is not a word.",
+   "printed": "סולתנית"
+  },
+  {
+   "page": 388,
+   "line": "ניקרי מקילקתא 336.",
+   "main": "מקילקתא",
+   "check": "מקילקחא",
+   "confident": true,
+   "note": "The Aramaic emphatic feminine ending is -תא, as in קילקלתא ('dung-heap'), so מקילקתא matches the expected form. מקילקחא ends in -חא and is no word, a typical ח/ת misread.",
+   "printed": "מקילקתא"
+  },
+  {
+   "page": 388,
+   "line": "נרמה 119.",
+   "main": "נרמה נוקר",
+   "check": "נדמה נוקד",
+   "confident": false,
+   "note": "The index runs alphabetically: נדל, then this entry, then נו־. נדמה (ד) fits between them; נרמה (ר) would belong after the נו־ entries. I could not confirm whether the second word is נוקד or נוקר.",
+   "printed": "נדמה נוקד"
+  },
+  {
+   "page": 388,
+   "line": "נריין 292.",
+   "main": "נריין",
+   "check": "נדיין",
+   "confident": true,
+   "note": "In this alphabetical index the entry falls between נגר טורא and נדל, so it must begin with נד. נדיין fits that order; נריין would sort after נדל. The next entry, נרמה, shows the same ד/ר confusion.",
+   "printed": "נדיין"
+  },
+  {
+   "page": 388,
+   "line": "נגרא 121.",
+   "main": "נגרא",
+   "check": "נגדא",
+   "confident": false,
+   "note": "In this alphabetical index the entry comes right after נבחן and before נגר טורא. נגדא (ד before ר) fits that order better than נגרא, which would normally sort after נגר טורא. I could not verify the word against its content on p. 121.",
+   "printed": "נגדא"
+  },
+  {
+   "page": 387,
+   "line": "נבחו 82.",
+   "main": "נבחו",
+   "check": "נבחן",
+   "confident": false,
+   "note": "Index entry for p. 82, the dog section. נבחו ('they barked') is a plausible verb form. נבחן ('barker', an Aramaic agent noun) is also possible, so this is a guess.",
+   "printed": "נבחו"
+  },
+  {
+   "page": 387,
+   "line": "מרדו זגיד ואכיל 186.",
+   "main": "זגיד",
+   "check": "זגיר",
+   "confident": false,
+   "note": "This is an index entry for a Talmudic phrase. Neither זגיר nor זגיד is a form I can verify, so this is a guess between them.",
+   "printed": "זגיר"
+  },
+  {
+   "page": 387,
+   "line": "מילת 122.",
+   "main": "מילת מילתא",
+   "check": "מילח מילחא",
+   "confident": true,
+   "note": "Index entry at p. 122 is מילת / מילתא, 'fine wool' (Greek μηλωτή / Milesian wool), from the sheep section; מילח is not a word.",
+   "printed": "מילת מילתא"
+  },
+  {
+   "page": 387,
+   "line": "מזיקי בית 316.",
+   "main": "מזיקי בית",
+   "check": "מויקי ביח",
+   "confident": true,
+   "note": "\"מזיקי בית\" means \"household pests\", a known phrase that fits an index of animal names. \"מויקי ביח\" is not a word and shows typical OCR confusions (ז read as ו, ת read as ח).",
+   "printed": "מזיקי בית"
+  },
+  {
+   "page": 387,
+   "line": "מוראנה 341.",
+   "main": "מוראנה",
+   "check": "מוראנת",
+   "confident": false,
+   "note": "This index entry sits next to מורנא ('worm', §341). מוראנה fits as a plene or feminine variant of that word. A form ending in ת is less likely for this lemma, but I cannot verify the source.",
+   "printed": "מוראנה"
+  },
+  {
+   "page": 387,
+   "line": "כרכושתא 91. 258.",
+   "main": "כרכושתא כרנבו",
+   "check": "כרכושחא כרנבן",
+   "confident": true,
+   "note": "The passage itself prints כרכושתא and כרנבו. Reading B has the OCR confusions ת→ח and ו→ן. כרכושתא is a known Talmudic Aramaic word, and כרכושחא is not a word.",
+   "printed": "כרכושתא כרנבו"
+  },
+  {
+   "page": 387,
+   "line": "כספתיאת 259.",
+   "main": "כספתיאת",
+   "check": "כספחיאת",
+   "confident": false,
+   "note": "This is an index entry next to כספטיאס on the same page, so it is probably a spelling variant of the same Greek loanword. Interchange of ט and ת fits that, whereas ח would be an unlikely letter in this word.",
+   "printed": "כספתיאת"
+  },
+  {
+   "page": 386,
+   "line": "כיליי 232. 233. 373.",
+   "main": "כיליי",
+   "check": "כילי",
+   "confident": false,
+   "note": "This is an index entry with no gloss. כילי looks like the more natural form; כיליי may be a doubled-yod OCR error. Both readings fit the alphabetical order, so this is a guess.",
+   "printed": "כילי"
+  }
+ ]
+}

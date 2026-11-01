@@ -1,0 +1,201 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "174\t\tDer Kohlrabe. — Der Seerabe.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "174\t\tDer Kohlrabe. — Der Seerabe."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Rabengekrächz (§. 38) diente als Omen dem Aberglauben (Sabbat\n67, b). Vergl. §. 249.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Rabengekrächz (§. 38) diente als Omen dem Aberglauben (Sabbat\n67, b). Vergl. §. 249."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 206.\nDer Kohlrabe.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 206.\nDer Kohlrabe."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Dieser prächtig schwarze Vogel scheint in den, im vorigen Arti-\nkel citirten Talmudstellen (Chulin 63, a und Ketuboth 49, b) unter\nעורבא אוכמא „schwarzer Rabe“ verstanden zu sein; vielleicht meinen\nihn auch die Tosephot (Chulin 62, a s. v. מפני), wenn sie ihn קורביל,\nCorbeau nennen. Er hat einen אצבע יתירה, s. hierüber §. 193 und\neinen Kropf. — Alle im vorhergehenden Artikel erwähnten Angaben,\nhaben auch für diesen ihre Anwendung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dieser prächtig schwarze Vogel scheint in den, im vorigen Arti-\nkel citirten Talmudstellen (Chulin 63, a und Ketuboth 49, b) unter\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עורבא אוכמא"
+    },
+    {
+     "lang": "deu",
+     "text": " „schwarzer Rabe“ verstanden zu sein; vielleicht meinen\nihn auch die Tosephot (Chulin 62, a s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "מפני"
+    },
+    {
+     "lang": "deu",
+     "text": "), wenn sie ihn "
+    },
+    {
+     "lang": "heb",
+     "text": "קורביל"
+    },
+    {
+     "lang": "deu",
+     "text": ",\n"
+    },
+    {
+     "lang": "fra",
+     "text": "Corbeau"
+    },
+    {
+     "lang": "deu",
+     "text": " nennen. Er hat einen "
+    },
+    {
+     "lang": "heb",
+     "text": "אצבע יתירה"
+    },
+    {
+     "lang": "deu",
+     "text": ", s. hierüber §. 193 und\neinen Kropf. — Alle im vorhergehenden Artikel erwähnten Angaben,\nhaben auch für diesen ihre Anwendung."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 207.\nDer Seerabe.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 207.\nDer Seerabe."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Das hebr. שלך (Lev. 11, 17) erklärt der Talmud (Chulin 63,\na) durch: השולה דגים מן הים „welcher die Fische aus dem Meere\nholt\"; Raschi fügt hinzu: והוא עורב המים „es ist der Wasserrabe\". —\nOnkelos zur obigen Bibelstelle übersetzt daher שלך durch שלינונא\n„Fischheber“. — Es ist dies die Scharbe, die Corvus marinus heißt\n(Voigt l. c. 2. S. 414). Plinius (h. n. 10, 48, 68) nennt den\nVogel Phalacorax, was Harduin, jedoch wie es scheint unrichtig,\nmit Corvo aquatico (§. 209) identificirt. Voigt beschreibt den Vo-\ngel also: Der Schnabel schmal, gerade, mit Haken am Ende.\nMan richtet den Vogel zum Fischfang ab, indem man ihm einen\nRing um den Hals legt, so daß er die Fische, die er fängt, nicht\nverschlingen kann und sie ausspeien muß. Er ist häufig an der Ost-\nsee. Indessen scheint der Talmud eine andere Art dieses Vogels zu\nmeinen, denn auch in China lebt dieser Vogel, und wird dort\nLouwa genannt, s. Iselin’s Historische Lexicon 1. Th. s. v. Cining.\nDer Vogel wird hier beschrieben: Er hat einen sehr langen Hals\nund krummen Schnabel gleich einem Adler, er ist so groß wie\neine Gans und sieht einem Raben nicht ungleich. Die Abrichtung\nund der Gebrauch jenes Ringes geschieht dort auf gleiche Weise.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das hebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "שלך"
+    },
+    {
+     "lang": "deu",
+     "text": " (Lev. 11, 17) erklärt der Talmud (Chulin 63,\na) durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "השולה דגים מן הים"
+    },
+    {
+     "lang": "deu",
+     "text": " „welcher die Fische aus dem Meere\nholt\"; Raschi fügt hinzu: "
+    },
+    {
+     "lang": "heb",
+     "text": "והוא עורב המים"
+    },
+    {
+     "lang": "deu",
+     "text": " „es ist der Wasserrabe\". —\nOnkelos zur obigen Bibelstelle übersetzt daher "
+    },
+    {
+     "lang": "heb",
+     "text": "שלך"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "arc",
+     "text": "שלינונא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n„Fischheber“. — Es ist dies die Scharbe, die "
+    },
+    {
+     "lang": "lat",
+     "text": "Corvus marinus"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt\n(Voigt l. c. 2. S. 414). Plinius (h. n. 10, 48, 68) nennt den\nVogel "
+    },
+    {
+     "lang": "lat",
+     "text": "Phalacorax"
+    },
+    {
+     "lang": "deu",
+     "text": ", was Harduin, jedoch wie es scheint unrichtig,\nmit "
+    },
+    {
+     "lang": "lat",
+     "text": "Corvo aquatico"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 209) identificirt. Voigt beschreibt den Vo-\ngel also: Der Schnabel schmal, gerade, mit Haken am Ende.\nMan richtet den Vogel zum Fischfang ab, indem man ihm einen\nRing um den Hals legt, so daß er die Fische, die er fängt, nicht\nverschlingen kann und sie ausspeien muß. Er ist häufig an der Ost-\nsee. Indessen scheint der Talmud eine andere Art dieses Vogels zu\nmeinen, denn auch in China lebt dieser Vogel, und wird dort\nLouwa genannt, s. Iselin’s Historische Lexicon 1. Th. s. v. Cining.\nDer Vogel wird hier beschrieben: Er hat einen sehr langen Hals\nund krummen Schnabel gleich einem Adler, er ist so groß wie\neine Gans und sieht einem Raben nicht ungleich. Die Abrichtung\nund der Gebrauch jenes Ringes geschieht dort auf gleiche Weise."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3252,
+    2091
+   ],
+   [
+    3252,
+    3137
+   ]
+  ],
+  "input_tokens": 3319,
+  "output_tokens": 1491,
+  "cost_usd": 0.0081,
+  "seconds": 12.8
+ }
+}

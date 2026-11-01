@@ -1,0 +1,333 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "336",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "336"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Blutigel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Blutigel."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 465.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 465."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Fortsetzung. Da die Regenwürmer, wie bekannt, ein gutes Hüh-\nnerfutter sind, so haben wir diese Würmer unter: ניקרי מקילקתא zu ver-\nstehen(A. Sara 28, a). Raschi erklärt diese Wörter: „Würmer, welche\ndie Hühner aus Misthaufen hervorscharren.“ Die Regenwürmer leben\nbekanntlich vorzugsweise gern in feuchter Erde, und werden von den\nHühnern aufgesucht. — Man bediente sich der Würmer gegen Blut-\nwunden (ibid.).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fortsetzung. Da die Regenwürmer, wie bekannt, ein gutes Hüh-\nnerfutter sind, so haben wir diese Würmer unter: "
+    },
+    {
+     "lang": "arc",
+     "text": "ניקרי מקילקתא"
+    },
+    {
+     "lang": "deu",
+     "text": " zu ver-\nstehen"
+    },
+    {
+     "lang": "deu",
+     "text": "(A. Sara 28, a). Raschi erklärt diese Wörter: „Würmer, welche\ndie Hühner aus Misthaufen hervorscharren.“ Die Regenwürmer leben\nbekanntlich vorzugsweise gern in feuchter Erde, und werden von den\nHühnern aufgesucht. — Man bediente sich der Würmer gegen Blut-\nwunden (ibid.)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 466.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 466."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Keritot 7, b wird gesagt, daß eine abortirende Frau\nFleischklümpchen in der Form von גנונים hervorbrachte. Maimuni er-\nklärt das Wort durch: עלוקות והולעים „Blutigel (§. 467) und Wür-\nmer.“ Die Zusammenstellung mit Blutigeln läßt den Kreiselwurm\nunter חולעים vermuthen, da beide Würmerarten geringelt und zusam-\nmenziehbar sind.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Keritot 7, b wird gesagt, daß eine abortirende Frau\nFleischklümpchen in der Form von "
+    },
+    {
+     "lang": "heb",
+     "text": "גנונים"
+    },
+    {
+     "lang": "deu",
+     "text": " hervorbrachte. Maimuni er-\nklärt das Wort durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "עלוקות והולעים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Blutigel (§. 467) und Wür-\nmer.“ Die Zusammenstellung mit Blutigeln läßt den Kreiselwurm\nunter "
+    },
+    {
+     "lang": "heb",
+     "text": "חולעים"
+    },
+    {
+     "lang": "deu",
+     "text": " vermuthen, da beide Würmerarten geringelt und zusam-\nmenziehbar sind."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 467.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 467."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Blutigel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Blutigel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "עלוקה (A. Sara 12, b), עלקא (Bechoroth 44, b *); wofür Aruch\nערקא liest), ביני דמיא (Gittin 69, b), נימא של מים (A. Sara 12, b)\nund (nach Einigen, jedoch irrthümlich, s. §. 134) יאלי (Sabbat 54, b).\n— An letzterer Stelle heißt es: Man band um die Eiter der Kühe\neine Igelhaut, damit die יאלי die Milch nicht absaugen könnten. Raschi\nerklärt das Wort durch שנשואש, Sangsues, was von den Tosephot\nzurückgewiesen wird, da Blutigel niemals Milch genießen. Die To-\nsephot geben eine andere, aber ebenfalls unrichtige Erklärung, worüber\nausführlich §. 134 gehandelt wurde.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "עלוקה"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 12, b), "
+    },
+    {
+     "lang": "heb",
+     "text": "עלקא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Bechoroth 44, b *); wofür Aruch\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ערקא"
+    },
+    {
+     "lang": "deu",
+     "text": " liest), "
+    },
+    {
+     "lang": "heb",
+     "text": "ביני דמיא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Gittin 69, b), "
+    },
+    {
+     "lang": "heb",
+     "text": "נימא של מים"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 12, b)\nund (nach Einigen, jedoch irrthümlich, s. §. 134) "
+    },
+    {
+     "lang": "heb",
+     "text": "יאלי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 54, b).\n— An letzterer Stelle heißt es: Man band um die Eiter der Kühe\neine Igelhaut, damit die "
+    },
+    {
+     "lang": "heb",
+     "text": "יאלי"
+    },
+    {
+     "lang": "deu",
+     "text": " die Milch nicht absaugen könnten. Raschi\nerklärt das Wort durch "
+    },
+    {
+     "lang": "heb",
+     "text": "שנשואש"
+    },
+    {
+     "lang": "deu",
+     "text": ", Sangsues, was von den Tosephot\nzurückgewiesen wird, da Blutigel niemals Milch genießen. Die To-\nsephot geben eine andere, aber ebenfalls unrichtige Erklärung, worüber\nausführlich §. 134 gehandelt wurde."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Dahingegen sind die ersteren Namen die richtigen Benennungen\ndes Blutigels. ביני דמיא heißt wörtlich „Raupe des Wassers“, vergl.\nביניתא §. 458, wo gewissermaßen eine Aehnlichkeit mit der Raupe\nangedeutet wird. — נימא של מים heißt „Faden des Wassers“, von\nder länglichen Gestalt des Blutigels. — עלקא und vielleicht richtiger\nערקא wird von dem Blutsaugen abgeleitet sein, so heißen die blut-\nenthaltenden Arterien עורקים (§. 73); übrigens ist die Verwechselung\nvon ל und ר häufig; vergl. meine Aphorismen im L.-Bl. des Orients\n1849, col. 302. — Es ist gefährlich zur Nachtzeit aus Bächen und",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dahingegen sind die ersteren Namen die richtigen Benennungen\ndes Blutigels. "
+    },
+    {
+     "lang": "heb",
+     "text": "ביני דמיא"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt wörtlich „Raupe des Wassers“, vergl.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ביניתא"
+    },
+    {
+     "lang": "deu",
+     "text": " §. 458, wo gewissermaßen eine Aehnlichkeit mit der Raupe\nangedeutet wird. — "
+    },
+    {
+     "lang": "heb",
+     "text": "נימא של מים"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt „Faden des Wassers“, von\nder länglichen Gestalt des Blutigels. — "
+    },
+    {
+     "lang": "heb",
+     "text": "עלקא"
+    },
+    {
+     "lang": "deu",
+     "text": " und vielleicht richtiger\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ערקא"
+    },
+    {
+     "lang": "deu",
+     "text": " wird von dem Blutsaugen abgeleitet sein, so heißen die blut-\nenthaltenden Arterien "
+    },
+    {
+     "lang": "heb",
+     "text": "עורקים"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 73); übrigens ist die Verwechselung\nvon "
+    },
+    {
+     "lang": "heb",
+     "text": "ל"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "ר"
+    },
+    {
+     "lang": "deu",
+     "text": " häufig; vergl. meine Aphorismen im L.-Bl. des Orients\n1849, col. 302. — Es ist gefährlich zur Nachtzeit aus Bächen und"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Im Jozar zu Sabbat-Chanuca s. v. אין צור steht: עלק.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Im Jozar zu Sabbat-Chanuca s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "אין צור"
+    },
+    {
+     "lang": "deu",
+     "text": " steht: "
+    },
+    {
+     "lang": "heb",
+     "text": "עלק"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2183
+   ],
+   [
+    3308,
+    3101
+   ]
+  ],
+  "input_tokens": 11371,
+  "output_tokens": 2085,
+  "cost_usd": 0.0436,
+  "seconds": 12.5
+ }
+}

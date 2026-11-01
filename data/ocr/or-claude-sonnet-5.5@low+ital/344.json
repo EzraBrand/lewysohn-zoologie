@@ -1,0 +1,309 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "344",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "344"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Eine Schwammart. — Das Korall.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine Schwammart. — Das Korall."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 492.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 492."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Eine Schwammart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine Schwammart."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Am häufigsten kommt ספוג vor, wofür Nidda 62, a auch צפון\nsteht. Letzteres erklärt Raschi durch שבון, Savon, ersteres ist das gr.\nΣπόγγος, oder Σπογγιά. — צפון erklärt Raschi (zu B. Kama 93, b)\nauch durch שיון, was ebenfalls Savon ist. Man bediente sich des\nצפון Farben abzuwischen (ibid.). — Von ספוג heißt es: Der fleißige\nSchüler gleicht dem ספוג (Aboth 5, 15). Maimuni erklärt ספוג ist\nצמר הים שבולעת הכל „die Wolle des Meeres, die Alles verschlingt.“\n— Bekanntlich finden sich in den Schwammhöhlungen Muscheln,\nSchnecken, Krebse und andere Zoophyten, von denen die Alten (doch\nirrthümlich) glaubten, daß sie zur Nahrung der Schwämme dienen.\n— Hier erklärt Raschi das Wort durch שפונגא, Spongia. — Kelim\n9, 4, wo vom Schwamm, der Wasser eingezogen, die Rede ist, erklärt\nes Maimuni durch אספונגא, span. Esponia. — Einem Märtyrer legte\nman den in Wasser getauchten Schwamm auf die Brust, damit er beim\nVerbrennen langsam sterbe (A. Sara 18, a). Hier heißen die Schwämme\nספוגים של צמר, dies sind dichte, starke Schwämme, bei Aristoteles\nder Achileische genannt, da ihn Achilleus unter den Helm legte, da-\nmit der Hieb darauf weniger klinge; dieser Schwamm scheint auch\nSabbat 134, b gemeint zu sein, da es hier heißt, daß man des\ntrockenen Schwammes sich bediente, auf die Wunde zu legen, damit\nsie an den Kleidern sich nicht reibe.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Am häufigsten kommt "
+    },
+    {
+     "lang": "heb",
+     "text": "ספוג"
+    },
+    {
+     "lang": "deu",
+     "text": " vor, wofür Nidda 62, a auch "
+    },
+    {
+     "lang": "heb",
+     "text": "צפון"
+    },
+    {
+     "lang": "deu",
+     "text": "\nsteht. Letzteres erklärt Raschi durch "
+    },
+    {
+     "lang": "heb",
+     "text": "שבון"
+    },
+    {
+     "lang": "deu",
+     "text": ", Savon, ersteres ist das gr.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Σπόγγος"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "grc",
+     "text": "Σπογγιά"
+    },
+    {
+     "lang": "deu",
+     "text": ". — "
+    },
+    {
+     "lang": "heb",
+     "text": "צפון"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt Raschi (zu B. Kama 93, b)\nauch durch "
+    },
+    {
+     "lang": "heb",
+     "text": "שיון"
+    },
+    {
+     "lang": "deu",
+     "text": ", was ebenfalls Savon ist. Man bediente sich des\n"
+    },
+    {
+     "lang": "heb",
+     "text": "צפון"
+    },
+    {
+     "lang": "deu",
+     "text": " Farben abzuwischen (ibid.). — Von "
+    },
+    {
+     "lang": "heb",
+     "text": "ספוג"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt es: Der fleißige\nSchüler gleicht dem "
+    },
+    {
+     "lang": "heb",
+     "text": "ספוג"
+    },
+    {
+     "lang": "deu",
+     "text": " (Aboth 5, 15). Maimuni erklärt "
+    },
+    {
+     "lang": "heb",
+     "text": "ספוג"
+    },
+    {
+     "lang": "deu",
+     "text": " ist\n"
+    },
+    {
+     "lang": "heb",
+     "text": "צמר הים שבולעת הכל"
+    },
+    {
+     "lang": "deu",
+     "text": " „die Wolle des Meeres, die Alles verschlingt.“\n— Bekanntlich finden sich in den Schwammhöhlungen Muscheln,\nSchnecken, Krebse und andere Zoophyten, von denen die Alten (doch\nirrthümlich) glaubten, daß sie zur Nahrung der Schwämme dienen.\n— Hier erklärt Raschi das Wort durch "
+    },
+    {
+     "lang": "heb",
+     "text": "שפונגא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Spongia. — Kelim\n9, 4, wo vom Schwamm, der Wasser eingezogen, die Rede ist, erklärt\nes Maimuni durch "
+    },
+    {
+     "lang": "heb",
+     "text": "אספונגא"
+    },
+    {
+     "lang": "deu",
+     "text": ", span. Esponia. — Einem Märtyrer legte\nman den in Wasser getauchten Schwamm auf die Brust, damit er beim\nVerbrennen langsam sterbe (A. Sara 18, a). Hier heißen die Schwämme\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ספוגים של צמר"
+    },
+    {
+     "lang": "deu",
+     "text": ", dies sind dichte, starke Schwämme, bei Aristoteles\nder Achileische genannt, da ihn Achilleus unter den Helm legte, da-\nmit der Hieb darauf weniger klinge; dieser Schwamm scheint auch\nSabbat 134, b gemeint zu sein, da es hier heißt, daß man des\ntrockenen Schwammes sich bediente, auf die Wunde zu legen, damit\nsie an den Kleidern sich nicht reibe."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 493.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 493."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Das Korall.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Korall."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Man verfertigte metallene Ringe mit eingesetzten Korallensteinen,\noder man verfertigte sie aus diesem selbst (Kelim 13, b). Das Korall\nheißt hier אלמוג und ist wahrscheinlich das edle Korall (Corallium\nrubrum, Voigt l. c. 6. S. 151). Maimuni sagt: אלמוג ist קורל\n(span. Coral), welches auf dem Meeresboden wächst, wo es noch\nsehr weich ist, kömmt es an die Luft, so wird es steinartig. — R.\nha-Schana wird das Wort im Pl. אלמוגין genommen und durch\nכסיתא erklärt, wozu Raschi hinzufügt: Eine Baumart, die auf Mee-\nresgrund wächst und קוראלו heißt*). — Hier ist um so mehr an das",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Man verfertigte metallene Ringe mit eingesetzten Korallensteinen,\noder man verfertigte sie aus diesem selbst (Kelim 13, b). Das Korall\nheißt hier "
+    },
+    {
+     "lang": "heb",
+     "text": "אלמוג"
+    },
+    {
+     "lang": "deu",
+     "text": " und ist wahrscheinlich das edle Korall ("
+    },
+    {
+     "lang": "lat",
+     "text": "Corallium\nrubrum"
+    },
+    {
+     "lang": "deu",
+     "text": ", Voigt l. c. 6. S. 151). Maimuni sagt: "
+    },
+    {
+     "lang": "heb",
+     "text": "אלמוג"
+    },
+    {
+     "lang": "deu",
+     "text": " ist "
+    },
+    {
+     "lang": "heb",
+     "text": "קורל"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(span. Coral), welches auf dem Meeresboden wächst, wo es noch\nsehr weich ist, kömmt es an die Luft, so wird es steinartig. — R.\nha-Schana wird das Wort im Pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "אלמוגין"
+    },
+    {
+     "lang": "deu",
+     "text": " genommen und durch\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כסיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt, wozu Raschi hinzufügt: Eine Baumart, die auf Mee-\nresgrund wächst und "
+    },
+    {
+     "lang": "heb",
+     "text": "קוראלו"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt*). — Hier ist um so mehr an das"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Die alten Naturforscher hielten die Korallen für Steine und setzten sie\nunter die Mineralien. Spätere betrachteten sie als Pflanze, und dieser Ansicht",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die alten Naturforscher hielten die Korallen für Steine und setzten sie\nunter die Mineralien. Spätere betrachteten sie als Pflanze, und dieser Ansicht"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2228
+   ],
+   [
+    3308,
+    2936
+   ]
+  ],
+  "input_tokens": 11303,
+  "output_tokens": 2053,
+  "cost_usd": 0.0431,
+  "seconds": 12.9
+ }
+}

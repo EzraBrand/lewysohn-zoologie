@@ -1,0 +1,121 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Deutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Deutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Truthahn 185.\nTummler 155.\nTurteltaube 203.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Truthahn 185.\nTummler 155.\nTurteltaube 203."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "U.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "U."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Uhu 163.\nUmbrine 262.\nUnze 72. 317.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Uhu 163.\nUmbrine 262.\nUnze 72. 317."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "V.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "V."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Viehbremse 317.\nVielfuß 322.\nViper 9.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Viehbremse 317.\nVielfuß 322.\nViper 9."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "W.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "W."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Wachholderdrossel 212.\nWachtel 182. 210.\nWachtelkönig 211.\nWaldameise 331.\nWaldesel 143.\nWaldmensch 64.\nWaldochs 126.\nWaldpfau 217.\nWaldwiesel 95.\nWaldziege 126.\nWalfisch 155.\nWalfischassel 324.\nWalfischlaus 324.\nWalfischspinne 324.\nWandertaube 25.\nWanze 327.\nWasserschlängelchen 334.\nWasserschlange 241.\nWasserskorpion 328.\nWegschnecke 279.\nWeiberfisch 154.\nWeidenraupe 332.\nWeinbergschnecke 280.\nWeindrossel 185.\nWeinlerche 186.\nWeintrinker 185.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wachholderdrossel 212.\nWachtel 182. 210.\nWachtelkönig 211.\nWaldameise 331.\nWaldesel 143.\nWaldmensch 64.\nWaldochs 126.\nWaldpfau 217.\nWaldwiesel 95.\nWaldziege 126.\nWalfisch 155.\nWalfischassel 324.\nWalfischlaus 324.\nWalfischspinne 324.\nWandertaube 25.\nWanze 327.\nWasserschlängelchen 334.\nWasserschlange 241.\nWasserskorpion 328.\nWegschnecke 279.\nWeiberfisch 154.\nWeidenraupe 332.\nWeinbergschnecke 280.\nWeindrossel 185.\nWeinlerche 186.\nWeintrinker 185."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1708,
+    2086
+   ],
+   [
+    1708,
+    3130
+   ]
+  ],
+  "input_tokens": 11121,
+  "output_tokens": 662,
+  "cost_usd": 0.0289,
+  "seconds": 6.0
+ }
+}

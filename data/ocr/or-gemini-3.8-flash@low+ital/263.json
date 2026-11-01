@@ -1,0 +1,213 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Umbrine.\t263",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Umbrine.\t263"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "für איהן) in den Fluß Bab einlaufen, darf die צחנתא nicht gegessen\nwerden, da jene Flüsse unreine Fische mit sich führen. Raschi über-\nsetzt in unserer Stelle צחנתא durch הילק „Häring“ (§. 328), doch\nunrichtig, da der Häring ein See- und kein Flußfisch ist. In jener\nParallelstelle übersetzt Raschi צחנתא ungenau durch מין דגים קטנים\n„eine kleine Fischart“ und giebt den Grund ihrer Unreinheit in den\nkleinen, kaum erkennbaren Fischläusen (שקצים) an, welche der צחנתא\nanhängen sollen; allein abgesehen, daß der Wortlaut der Talmud-\nstelle jenen Grund nicht im Entferntesten andeutet, giebt er vielmehr\nausdrücklich an, daß der Boden keinen unreinen Fisch hervorbringt\n(לא מרבה טונא דג טמא:*): wir haben demnach nicht in jenen Para-\nsiten, sondern in der Gestalt des Fisches den Grund seiner Unrein-\nheit zu suchen. Wir vermuthen unter צחנתא, so viel wie צחנה das\ngr. Σκίαινα, lat. Sciaena, womit die Umbrine benannt wird.\nWas diese Annahme wahrscheinlich macht, ist folgende Angabe des\nTalmuds (A. Sara ibid.). Da wird erzählt: „Ein Gelehrter kam\nnach der Stadt Agma, dort setzte man ihm eine צחנתא vor; er hörte\naber, wie der Aufträger den Fisch באטי (Dornroche, s. ausführlich\n§. 344) nannte, weshalb er die צחנתא nicht aß; er untersuchte auch\nden Fisch und fand ein Zeichen der Unreinheit an ihm. — Es fragt\nsich nun, wie der Fisch צחנתא, der als Umbrine so ziemlich die\nGestalt des Barschen hat, mit der Dornroche gleichbenannt wer-\nden konnte? In der That aber haben beide Fische gerade in Be-\nziehung der Dornen einige Aehnlichkeit. Die Umbrine hat Dornen\nam Kiemendeckel (Voigt l. c. 3, S. 176) und der Βάτος (Raja ru-\nbus) hat bekanntlich kleine Stacheln oder Dornen, wovon der Name\ndes Fisches herrührt. So läßt es sich erklären, daß man früher die\nUmbrine aß, daß sie später aber verboten wurde, weil zu befürchten\nstand, daß sie mit dem Rochen, der wirklich unrein ist (§. 344) ver-\ntauscht werden könnte. Es ist nicht befremdend, daß Fische in Ge-\ngenden, wo sie früher nicht vorhanden waren, plötzlich erscheinen, so\nmochte der Rochen früher im Flusse Bab nicht vorhanden gewesen\nsein, als er aber später daselbst erschien, vermischte die Volkssprache\ndie Namen beider Fische, der Umbrine und des Rochens, einzig durch\njenes Moment der Dornbesitzung verleitet, worauf die rigorose Ver-\nordnung erfolgte.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "für "
+    },
+    {
+     "lang": "arc",
+     "text": "איהן"
+    },
+    {
+     "lang": "deu",
+     "text": ") in den Fluß Bab einlaufen, darf die "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנתא"
+    },
+    {
+     "lang": "deu",
+     "text": " nicht gegessen\nwerden, da jene Flüsse unreine Fische mit sich führen. Raschi über-\nsetzt in unserer Stelle "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנתא"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "fra",
+     "text": "הילק"
+    },
+    {
+     "lang": "deu",
+     "text": " „Häring“ (§. 328), doch\nunrichtig, da der Häring ein See- und kein Flußfisch ist. In jener\nParallelstelle übersetzt Raschi "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנתא"
+    },
+    {
+     "lang": "deu",
+     "text": " ungenau durch "
+    },
+    {
+     "lang": "heb",
+     "text": "מין דגים קטנים"
+    },
+    {
+     "lang": "deu",
+     "text": "\n„eine kleine Fischart“ und giebt den Grund ihrer Unreinheit in den\nkleinen, kaum erkennbaren Fischläusen ("
+    },
+    {
+     "lang": "heb",
+     "text": "שקצים"
+    },
+    {
+     "lang": "deu",
+     "text": ") an, welche der "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנתא"
+    },
+    {
+     "lang": "deu",
+     "text": "\nanhängen sollen; allein abgesehen, daß der Wortlaut der Talmud-\nstelle jenen Grund nicht im Entferntesten andeutet, giebt er vielmehr\nausdrücklich an, daß der Boden keinen unreinen Fisch hervorbringt\n("
+    },
+    {
+     "lang": "arc",
+     "text": "לא מרבה טונא דג טמא"
+    },
+    {
+     "lang": "deu",
+     "text": ":*): wir haben demnach nicht in jenen Para-\nsiten, sondern in der Gestalt des Fisches den Grund seiner Unrein-\nheit zu suchen. Wir vermuthen unter "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנתא"
+    },
+    {
+     "lang": "deu",
+     "text": ", so viel wie "
+    },
+    {
+     "lang": "heb",
+     "text": "צחנה"
+    },
+    {
+     "lang": "deu",
+     "text": " das\ngr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Σκίαινα"
+    },
+    {
+     "lang": "deu",
+     "text": ", lat. "
+    },
+    {
+     "lang": "lat",
+     "text": "Sciaena"
+    },
+    {
+     "lang": "deu",
+     "text": ", womit die Umbrine benannt wird.\nWas diese Annahme wahrscheinlich macht, ist folgende Angabe des\nTalmuds (A. Sara ibid.). Da wird erzählt: „Ein Gelehrter kam\nnach der Stadt Agma, dort setzte man ihm eine "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנתא"
+    },
+    {
+     "lang": "deu",
+     "text": " vor; er hörte\naber, wie der Aufträger den Fisch "
+    },
+    {
+     "lang": "arc",
+     "text": "באטי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Dornroche, s. ausführlich\n§. 344) nannte, weshalb er die "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנתא"
+    },
+    {
+     "lang": "deu",
+     "text": " nicht aß; er untersuchte auch\nden Fisch und fand ein Zeichen der Unreinheit an ihm. — Es fragt\nsich nun, wie der Fisch "
+    },
+    {
+     "lang": "arc",
+     "text": "צחנתא"
+    },
+    {
+     "lang": "deu",
+     "text": ", der als Umbrine so ziemlich die\nGestalt des Barschen hat, mit der Dornroche gleichbenannt wer-\nden konnte? In der That aber haben beide Fische gerade in Be-\nziehung der Dornen einige Aehnlichkeit. Die Umbrine hat Dornen\nam Kiemendeckel (Voigt l. c. 3, S. 176) und der "
+    },
+    {
+     "lang": "grc",
+     "text": "Βάτος"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Raja ru-\nbus"
+    },
+    {
+     "lang": "deu",
+     "text": ") hat bekanntlich kleine Stacheln oder Dornen, wovon der Name\ndes Fisches herrührt. So läßt es sich erklären, daß man früher die\nUmbrine aß, daß sie später aber verboten wurde, weil zu befürchten\nstand, daß sie mit dem Rochen, der wirklich unrein ist (§. 344) ver-\ntauscht werden könnte. Es ist nicht befremdend, daß Fische in Ge-\ngenden, wo sie früher nicht vorhanden waren, plötzlich erscheinen, so\nmochte der Rochen früher im Flusse Bab nicht vorhanden gewesen\nsein, als er aber später daselbst erschien, vermischte die Volkssprache\ndie Namen beider Fische, der Umbrine und des Rochens, einzig durch\njenes Moment der Dornbesitzung verleitet, worauf die rigorose Ver-\nordnung erfolgte."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "D. h. daß daselbst unreine Fische sich nicht erhalten.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "D. h. daß daselbst unreine Fische sich nicht erhalten."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3256,
+    3151
+   ],
+   [
+    3256,
+    2121
+   ]
+  ],
+  "input_tokens": 3360,
+  "output_tokens": 1731,
+  "cost_usd": 0.009,
+  "seconds": 11.5
+ }
+}

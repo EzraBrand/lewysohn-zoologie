@@ -1,0 +1,209 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "358\tDer Jidoa. — Nachtrag.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "358\tDer Jidoa. — Nachtrag."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "über אדני שדה zu erklären. Wie viel aber auch an der Angabe\njener Quelle wahr, oder erdichtet ist, wollen wir der Untersuchung\nAnderer überlassen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "über "
+    },
+    {
+     "lang": "heb",
+     "text": "אדני שדה"
+    },
+    {
+     "lang": "deu",
+     "text": " zu erklären. Wie viel aber auch an der Angabe\njener Quelle wahr, oder erdichtet ist, wollen wir der Untersuchung\nAnderer überlassen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 508.\nDer Jidoa.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 508.\nDer Jidoa."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Wir haben §. 506 gesehen, daß Einige ידוע mit אדני שדה iden-\ntificiren. Es soll ein Thier sein, von dem der Zauberer, oder der\nWahrsager einen Knochen in den Mund nimmt, wodurch er im\nStande ist seine Kunst zu produciren (Sanhedrin 65, b), welches\naber von dem mosaischen Gesetze verboten wird und die Strafe der\nSteinigung nach sich zieht (ibid. 53, a). Maimuni erklärt ידוע\nals einen Vogel. — Indessen ist ידעוני (der den gedachten Gebrauch\nvon dem ידוע machen soll) nichts Anderes als der männliche Augur,\nwährend אוב, das neben ידעוני (Deut. 18, 11 und öfter) erwähnt\nwird, die weibliche Pythia ist (s. Landau, Aruch s. v. דכורי).\nEs sei noch erwähnt, daß Buxdorf (s. v. ידעוני) den Bodinus\ncitirt, welcher אדני שדה als das gr. Κατωβλέπας erklärt; allein die-\nses Thier ist nach Plinius (h. n. 8, 21, 32) ein Stier mit großem\nniederhängenden Kopfe; welches Thier jedoch sicherlich in unserer\nMischna nicht gemeint sein kann. — Endlich sei bemerkt, daß das\nfabelhafte Thier, der Basilisk, nicht im Talmud erwähnt, von Bux-\ndorf aber irrthümlich angenommen wird (s. §. 119, Anm.)",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wir haben §. 506 gesehen, daß Einige "
+    },
+    {
+     "lang": "heb",
+     "text": "ידוע"
+    },
+    {
+     "lang": "deu",
+     "text": " mit "
+    },
+    {
+     "lang": "heb",
+     "text": "אדני שדה"
+    },
+    {
+     "lang": "deu",
+     "text": " iden-\ntificiren. Es soll ein Thier sein, von dem der Zauberer, oder der\nWahrsager einen Knochen in den Mund nimmt, wodurch er im\nStande ist seine Kunst zu produciren (Sanhedrin 65, b), welches\naber von dem mosaischen Gesetze verboten wird und die Strafe der\nSteinigung nach sich zieht (ibid. 53, a). Maimuni erklärt "
+    },
+    {
+     "lang": "heb",
+     "text": "ידוע"
+    },
+    {
+     "lang": "deu",
+     "text": "\nals einen Vogel. — Indessen ist "
+    },
+    {
+     "lang": "heb",
+     "text": "ידעוני"
+    },
+    {
+     "lang": "deu",
+     "text": " (der den gedachten Gebrauch\nvon dem "
+    },
+    {
+     "lang": "heb",
+     "text": "ידוע"
+    },
+    {
+     "lang": "deu",
+     "text": " machen soll) nichts Anderes als der männliche Augur,\nwährend "
+    },
+    {
+     "lang": "heb",
+     "text": "אוב"
+    },
+    {
+     "lang": "deu",
+     "text": ", das neben "
+    },
+    {
+     "lang": "heb",
+     "text": "ידעוני"
+    },
+    {
+     "lang": "deu",
+     "text": " (Deut. 18, 11 und öfter) erwähnt\nwird, die weibliche Pythia ist (s. Landau, Aruch s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "דכורי"
+    },
+    {
+     "lang": "deu",
+     "text": ").\nEs sei noch erwähnt, daß Buxdorf (s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "ידעוני"
+    },
+    {
+     "lang": "deu",
+     "text": ") den Bodinus\ncitirt, welcher "
+    },
+    {
+     "lang": "heb",
+     "text": "אדני שדה"
+    },
+    {
+     "lang": "deu",
+     "text": " als das gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Κατωβλέπας"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt; allein die-\nses Thier ist nach Plinius (h. n. 8, 21, 32) ein Stier mit großem\nniederhängenden Kopfe; welches Thier jedoch sicherlich in unserer\nMischna nicht gemeint sein kann. — Endlich sei bemerkt, daß das\nfabelhafte Thier, der Basilisk, nicht im Talmud erwähnt, von Bux-\ndorf aber irrthümlich angenommen wird (s. §. 119, Anm.)"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Nachtrag.\n§. 509.\nDie Seidenraupe.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nachtrag.\n§. 509.\nDie Seidenraupe."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Wir geben vorerst nachträglich die Erklärung einer Stelle in\nRaschi, in welcher von der Seidenraupe die Rede ist. Menachoth\n39, b und Sabbat 20, b werden dreierlei Seide erwähnt. Die erste\nheißt שיראים, die serische Seide, welche, wie bekannt, die serischen\nKaufleute, welche fast die ganze Breite Asiens durchzogen, verarbei-\ntet auf die Messen zu Nisibis im alten Mesopotamien brachten (Voigt\nl. c. 5. S. 95). — Die zweite heißt סיריקון, es ist dies diejenige Seide,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wir geben vorerst nachträglich die Erklärung einer Stelle in\nRaschi, in welcher von der Seidenraupe die Rede ist. Menachoth\n39, b und Sabbat 20, b werden dreierlei Seide erwähnt. Die erste\nheißt "
+    },
+    {
+     "lang": "heb",
+     "text": "שיראים"
+    },
+    {
+     "lang": "deu",
+     "text": ", die serische Seide, welche, wie bekannt, die serischen\nKaufleute, welche fast die ganze Breite Asiens durchzogen, verarbei-\ntet auf die Messen zu Nisibis im alten Mesopotamien brachten (Voigt\nl. c. 5. S. 95). — Die zweite heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "סיריקון"
+    },
+    {
+     "lang": "deu",
+     "text": ", es ist dies diejenige Seide,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3296,
+    2578
+   ],
+   [
+    3296,
+    2418
+   ]
+  ],
+  "input_tokens": 3330,
+  "output_tokens": 934,
+  "cost_usd": 0.006,
+  "seconds": 8.3
+ }
+}

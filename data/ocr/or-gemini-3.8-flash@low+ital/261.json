@@ -1,0 +1,293 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Sardelle. — Die Elrize.\t261",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Sardelle. — Die Elrize.\t261"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "man Blumenbach: Handbuch d. Naturg. S. 301 vergleiche. Der\nFischkundige wird daher die Sprotte, nicht als schlechten Fisch (wie\nRaschi will), sondern als bessern Fisch sondiren, weshalb sich jene\ntalm. Verordnung motiviren läßt; daß aber die Sprotte als un-\nreiner Fisch angesehen wurde, ist leicht erklärlich, da sie einen spizen\nKopf hat (Voigt a. a. O.), was bekanntlich ein Zeichen der Un-\nreinheit ist (§. 24).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "man Blumenbach: Handbuch d. Naturg. S. 301 vergleiche. Der\nFischkundige wird daher die Sprotte, nicht als schlechten Fisch (wie\nRaschi will), sondern als bessern Fisch sondiren, weshalb sich jene\ntalm. Verordnung motiviren läßt; daß aber die Sprotte als un-\nreiner Fisch angesehen wurde, ist leicht erklärlich, da sie einen spizen\nKopf hat (Voigt a. a. O.), was bekanntlich ein Zeichen der Un-\nreinheit ist (§. 24)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 330.\nDie Sardelle.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 330.\nDie Sardelle."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "עפיאן (Chulin 66, a, wofür aber richtiger אפיאן) und עפיץ (A.\nSara 39, a, wofür aber richtiger עפרץ). Die Ἀφύη, oder Ἀφρός\n(Arist. l. c. 6, 14, 2) ist die Sardelle; sie führt ihren Namen, weil\nman sie ohne Fortpflanzung (α-φυη) von Schaum (Ἀφρός) ent-\nstanden glaubte; deshalb ist die Leseart אפיאן vorzuziehen, da das\nAlpha privativum mehrmals angetroffen wird, so heißt das noch\nnicht flügge gewordene Junge des Vogels אפרוח von א-פרוח; die\nuntheilbare Einheit אחד von א-חד, die nach alter Anschauung als\nunbeweglich gehaltene Erde ארץ von א-רץ; vgl. hierüber meinen\nBeitrag im „Lien d'Israél“ 1. année p. 126. — Von der Sardelle\nsagt der Talmud (l. c.), daß sie wie der Häring weder Schuppen\nnoch Flossen zur Welt bringt, sie aber später erhält und deshalb rein ist.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "עפיאן"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 66, a, wofür aber richtiger "
+    },
+    {
+     "lang": "heb",
+     "text": "אפיאן"
+    },
+    {
+     "lang": "deu",
+     "text": ") und "
+    },
+    {
+     "lang": "heb",
+     "text": "עפיץ"
+    },
+    {
+     "lang": "deu",
+     "text": " (A.\nSara 39, a, wofür aber richtiger "
+    },
+    {
+     "lang": "heb",
+     "text": "עפרץ"
+    },
+    {
+     "lang": "deu",
+     "text": "). Die "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἀφύη"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἀφρός"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Arist. l. c. 6, 14, 2) ist die Sardelle; sie führt ihren Namen, weil\nman sie ohne Fortpflanzung ("
+    },
+    {
+     "lang": "grc",
+     "text": "α-φυη"
+    },
+    {
+     "lang": "deu",
+     "text": ") von Schaum ("
+    },
+    {
+     "lang": "grc",
+     "text": "Ἀφρός"
+    },
+    {
+     "lang": "deu",
+     "text": ") ent-\nstanden glaubte; deshalb ist die Leseart "
+    },
+    {
+     "lang": "heb",
+     "text": "אפיאן"
+    },
+    {
+     "lang": "deu",
+     "text": " vorzuziehen, da das\nAlpha privativum mehrmals angetroffen wird, so heißt das noch\nnicht flügge gewordene Junge des Vogels "
+    },
+    {
+     "lang": "heb",
+     "text": "אפרוח"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "heb",
+     "text": "א-פרוח"
+    },
+    {
+     "lang": "deu",
+     "text": "; die\nuntheilbare Einheit "
+    },
+    {
+     "lang": "heb",
+     "text": "אחד"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "heb",
+     "text": "א-חד"
+    },
+    {
+     "lang": "deu",
+     "text": ", die nach alter Anschauung als\nunbeweglich gehaltene Erde "
+    },
+    {
+     "lang": "heb",
+     "text": "ארץ"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "heb",
+     "text": "א-רץ"
+    },
+    {
+     "lang": "deu",
+     "text": "; vgl. hierüber meinen\nBeitrag im „"
+    },
+    {
+     "lang": "fra",
+     "text": "Lien d'Israél"
+    },
+    {
+     "lang": "deu",
+     "text": "“ 1. année p. 126. — Von der Sardelle\nsagt der Talmud (l. c.), daß sie wie der Häring weder Schuppen\nnoch Flossen zur Welt bringt, sie aber später erhält und deshalb rein ist."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 331.\nDie Elrize.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 331.\nDie Elrize."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "מוניני. Dieses Wort heißt sonst auch Saft, so מוניני דקמצי, der\ndurch Einsalzen gewonnene Heuschreckensaft (Sabbat 110, b), מוניני\nדנקירי, der Saft eingesalzener Vögel; doch kommt das Wort auch\nallein vor und wird von Raschi jedesmal durch „kleine Fische“\nübersezt. So heißt es: Wenn die schwangere Frau an den Genuß\nder מוניני sich gewöhnt, bekommen die Kinder zitternde Augen (Ke-\ntuboth 60, b). Der Genuß der מוניני ist nach dem Fasten nachthei-\nlig (A. Sara 29, a), endlich wird erzählt, daß Joab die Stadtarmen mit\nAllem, selbst mit מוניני und צחנתא (§. 333) versah, wozu Raschi hin-\nzufügt: Diese Fischarten sind zart und wahre Leckerbissen (San-\nhedrin 49, a). Das Wort scheint aus מו „Wasser“ und ניני „Fische“\nzusammengesezt zu sein; speciell vermuthe ich die Elrize (Cyprinus",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "מוניני"
+    },
+    {
+     "lang": "deu",
+     "text": ". Dieses Wort heißt sonst auch Saft, so "
+    },
+    {
+     "lang": "heb",
+     "text": "מוניני דקמצי"
+    },
+    {
+     "lang": "deu",
+     "text": ", der\ndurch Einsalzen gewonnene Heuschreckensaft (Sabbat 110, b), "
+    },
+    {
+     "lang": "heb",
+     "text": "מוניני\nדנקירי"
+    },
+    {
+     "lang": "deu",
+     "text": ", der Saft eingesalzener Vögel; doch kommt das Wort auch\nallein vor und wird von Raschi jedesmal durch „kleine Fische“\nübersezt. So heißt es: Wenn die schwangere Frau an den Genuß\nder "
+    },
+    {
+     "lang": "heb",
+     "text": "מוניני"
+    },
+    {
+     "lang": "deu",
+     "text": " sich gewöhnt, bekommen die Kinder zitternde Augen (Ke-\ntuboth 60, b). Der Genuß der "
+    },
+    {
+     "lang": "heb",
+     "text": "מוניני"
+    },
+    {
+     "lang": "deu",
+     "text": " ist nach dem Fasten nachthei-\nlig (A. Sara 29, a), endlich wird erzählt, daß Joab die Stadtarmen mit\nAllem, selbst mit "
+    },
+    {
+     "lang": "heb",
+     "text": "מוניני"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "צחנתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 333) versah, wozu Raschi hin-\nzufügt: Diese Fischarten sind zart und wahre Leckerbissen (San-\nhedrin 49, a). Das Wort scheint aus "
+    },
+    {
+     "lang": "heb",
+     "text": "מו"
+    },
+    {
+     "lang": "deu",
+     "text": " „Wasser“ und "
+    },
+    {
+     "lang": "heb",
+     "text": "ניני"
+    },
+    {
+     "lang": "deu",
+     "text": " „Fische“\nzusammengesezt zu sein; speciell vermuthe ich die Elrize ("
+    },
+    {
+     "lang": "lat",
+     "text": "Cyprinus"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3268,
+    2271
+   ],
+   [
+    3268,
+    2693
+   ]
+  ],
+  "input_tokens": 3325,
+  "output_tokens": 2087,
+  "cost_usd": 0.0103,
+  "seconds": 11.8
+ }
+}

@@ -1,0 +1,261 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Hardun.\t223",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Hardun.\t223"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "aber hier (wie Bochart l. c. 2, 5, 18. col. 793 bemerkt) nicht die\näußere Größe, sondern die innere intensive Kraft gemeint, indem\ndas Skorpiongift allerdings als das stärkste gehalten wurde, vergl.\nauch Voigt (a. a. O. 4. S. 114). — Es heißt in unserer Stelle\nweiter: Man nehme eine schwarze und eine weiße סממית, koche\nsie mit einander und beschmiere die Wunde mit ihnen. Es ist hier\nwahrscheinlich die Lacerta agilis gemeint, von welcher es grüne,\nschwarze und graue giebt; man nennt die beiden letzteren La-\ncertam atram und Lacertam arenicolam (Voigt l. c. 3, S. 39),\nund diese beiden Arten werden wohl hier gemeint sein, indem חיור\nsowohl die reinweiße, als auch die graue Farbe bezeichnet (vergl.\nLandau s. v. חיור).\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "aber hier (wie Bochart "
+    },
+    {
+     "lang": "lat",
+     "text": "l. c."
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 5, 18. "
+    },
+    {
+     "lang": "lat",
+     "text": "col."
+    },
+    {
+     "lang": "deu",
+     "text": " 793 bemerkt) nicht die\näußere Größe, sondern die innere intensive Kraft gemeint, indem\ndas Skorpiongift allerdings als das stärkste gehalten wurde, vergl.\nauch Voigt (a. a. O. 4. S. 114). — Es heißt in unserer Stelle\nweiter: Man nehme eine schwarze und eine weiße "
+    },
+    {
+     "lang": "arc",
+     "text": "סממית"
+    },
+    {
+     "lang": "deu",
+     "text": ", koche\nsie mit einander und beschmiere die Wunde mit ihnen. Es ist hier\nwahrscheinlich die "
+    },
+    {
+     "lang": "lat",
+     "text": "Lacerta agilis"
+    },
+    {
+     "lang": "deu",
+     "text": " gemeint, von welcher es grüne,\nschwarze und graue giebt; man nennt die beiden letzteren "
+    },
+    {
+     "lang": "lat",
+     "text": "La-\ncertam atram"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "lat",
+     "text": "Lacertam arenicola"
+    },
+    {
+     "lang": "deu",
+     "text": "m (Voigt "
+    },
+    {
+     "lang": "lat",
+     "text": "l. c."
+    },
+    {
+     "lang": "deu",
+     "text": " 3, S. 39),\nund diese beiden Arten werden wohl hier gemeint sein, indem "
+    },
+    {
+     "lang": "arc",
+     "text": "חיור"
+    },
+    {
+     "lang": "deu",
+     "text": "\nsowohl die reinweiße, als auch die graue Farbe bezeichnet (vergl.\nLandau "
+    },
+    {
+     "lang": "lat",
+     "text": "s. v."
+    },
+    {
+     "lang": "deu",
+     "text": " "
+    },
+    {
+     "lang": "arc",
+     "text": "חיור"
+    },
+    {
+     "lang": "deu",
+     "text": ").\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "— סממית ist vielleicht mit שממית identisch. Von letztrer heißt es\n(Sanhedrin 103, b), daß sie von Amon, der das Gesetz verbrannte\nund den Tempeldienst aufhob, auf den Altar gebracht wurde. Raschi\nübersetzt auch hier שממית durch Spinne (vergl. §. 400); Aruch\nerklärt das Wort durch Eidechse, indem er auf Jonathan verweist,\nder Lev. 11, 30 לטאה durch שממיתא wieder giebt; doch ist Raschi's\nErklärung annehmbarer, s. §. 400.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "— "
+    },
+    {
+     "lang": "arc",
+     "text": "סממית"
+    },
+    {
+     "lang": "deu",
+     "text": " ist vielleicht mit "
+    },
+    {
+     "lang": "arc",
+     "text": "שממית"
+    },
+    {
+     "lang": "deu",
+     "text": " identisch. Von letztrer heißt es\n(Sanhedrin 103, b), daß sie von Amon, der das Gesetz verbrannte\nund den Tempeldienst aufhob, auf den Altar gebracht wurde. Raschi\nübersetzt auch hier "
+    },
+    {
+     "lang": "arc",
+     "text": "שממית"
+    },
+    {
+     "lang": "deu",
+     "text": " durch Spinne (vergl. §. 400); Aruch\nerklärt das Wort durch Eidechse, indem er auf Jonathan verweist,\nder Lev. 11, 30 "
+    },
+    {
+     "lang": "heb",
+     "text": "לטאה"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "arc",
+     "text": "שממיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " wieder giebt; doch ist Raschi's\nErklärung annehmbarer, s. §. 400."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 274.\nDie Hardun.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 274.\nDie Hardun."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "So heißt die im ganzen Orient verbreitete Eidechse, die bei\nLinné: Lacerta stellio, bei Voigt der Stachelschwanz heißt,\nund womit Kimchi das hebr. כח (Lev. 11, 30) erklärt. Sie ist\nolivenbraun, ins schwärzliche fallend, mit geflecktem Rücken. Der\nSchwanz ist schwarz und gelb geringelt und die Eidechse ist einen\nFuß lang (Voigt l. c. 3. S. 40). — Rosenmüller (a. a. O. 4,\n2. S. 260) fügt hinzu, daß der Rücken dieser Eidechse gefurcht und\nschuppig ist. Die Schuppen sind oben zugespitzt. — Der Talmud\ngiebt von diesem Thiere folgende Merkmale an. Die Haut ist weich\n(Chulin 122, a) und ablösbar (Sabbat 107, a; Tos. s. v. הצדן).\nSie ist dem Menschen nicht gefährlich, weshalb ihr Fang, oder Töd-\ntung am Sabbat verboten ist (ibid.). Freilich sind diese Bestim-\nmungen, wie schon (§. 272) erwähnt, zu allgemeiner Natur, um von\nihnen die bestimmte Eidechsenart zu erkennen; indessen verdient von\nden vielen Erklärungen des hebr. Wortes die arab. Uebersetzung durch\nحَرْذَوْنٌ (Hardsonon) den Vorzug, da Hasselquist die in Natolien,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "So heißt die im ganzen Orient verbreitete Eidechse, die bei\nLinné: "
+    },
+    {
+     "lang": "lat",
+     "text": "Lacerta stellio"
+    },
+    {
+     "lang": "deu",
+     "text": ", bei Voigt der Stachelschwanz heißt,\nund womit Kimchi das hebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "כח"
+    },
+    {
+     "lang": "deu",
+     "text": " (Lev. 11, 30) erklärt. Sie ist\nolivenbraun, ins schwärzliche fallend, mit geflecktem Rücken. Der\nSchwanz ist schwarz und gelb geringelt und die Eidechse ist einen\nFuß lang (Voigt "
+    },
+    {
+     "lang": "lat",
+     "text": "l. c."
+    },
+    {
+     "lang": "deu",
+     "text": " 3. S. 40). — Rosenmüller (a. a. O. 4,\n2. S. 260) fügt hinzu, daß der Rücken dieser Eidechse gefurcht und\nschuppig ist. Die Schuppen sind oben zugespitzt. — Der Talmud\ngiebt von diesem Thiere folgende Merkmale an. Die Haut ist weich\n(Chulin 122, a) und ablösbar (Sabbat 107, a; Tos. "
+    },
+    {
+     "lang": "lat",
+     "text": "s. v."
+    },
+    {
+     "lang": "deu",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "הצדן"
+    },
+    {
+     "lang": "deu",
+     "text": ").\nSie ist dem Menschen nicht gefährlich, weshalb ihr Fang, oder Töd-\ntung am Sabbat verboten ist ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid."
+    },
+    {
+     "lang": "deu",
+     "text": "). Freilich sind diese Bestim-\nmungen, wie schon (§. 272) erwähnt, zu allgemeiner Natur, um von\nihnen die bestimmte Eidechsenart zu erkennen; indessen verdient von\nden vielen Erklärungen des hebr. Wortes die arab. Uebersetzung durch\n"
+    },
+    {
+     "lang": "ara",
+     "text": "حَرْذَوْنٌ"
+    },
+    {
+     "lang": "deu",
+     "text": " (Hardsonon) den Vorzug, da Hasselquist die in Natolien,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3288,
+    2160
+   ],
+   [
+    3288,
+    2952
+   ]
+  ],
+  "input_tokens": 3357,
+  "output_tokens": 1978,
+  "cost_usd": 0.0099,
+  "seconds": 16.7
+ }
+}

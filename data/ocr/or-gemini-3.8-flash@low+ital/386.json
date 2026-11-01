@@ -1,0 +1,689 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "386\t\thebräisches und aramäisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "386\t\thebräisches und aramäisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "חפוחא 371.\nחרגול 290.\nחרדון 242. 371.\nחרוא 94.\nחרצא 94.\nחתול 74.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "חפוחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 371.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חרגול"
+    },
+    {
+     "lang": "deu",
+     "text": " 290.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חרדון"
+    },
+    {
+     "lang": "deu",
+     "text": " 242. 371.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חרוא"
+    },
+    {
+     "lang": "deu",
+     "text": " 94.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חרצא"
+    },
+    {
+     "lang": "deu",
+     "text": " 94.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חתול"
+    },
+    {
+     "lang": "deu",
+     "text": " 74."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ט.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ט."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "טביא 111. 114.\nטגרים 70.\nטוס 189.\nטווח 189.\nטיוות 299.\nטונוס 253.\nטור 129.\nטיפויי 326.\nטלא 119.\nטליה 119.\nטמא 110. 371.\nטרית 255.\nטריחא 255.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "טביא"
+    },
+    {
+     "lang": "deu",
+     "text": " 111. 114.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טגרים"
+    },
+    {
+     "lang": "deu",
+     "text": " 70.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טוס"
+    },
+    {
+     "lang": "deu",
+     "text": " 189.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טווח"
+    },
+    {
+     "lang": "deu",
+     "text": " 189.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טיוות"
+    },
+    {
+     "lang": "deu",
+     "text": " 299.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טונוס"
+    },
+    {
+     "lang": "deu",
+     "text": " 253.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טור"
+    },
+    {
+     "lang": "deu",
+     "text": " 129.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טיפויי"
+    },
+    {
+     "lang": "deu",
+     "text": " 326.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 119.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טליה"
+    },
+    {
+     "lang": "deu",
+     "text": " 119.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טמא"
+    },
+    {
+     "lang": "deu",
+     "text": " 110. 371.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טרית"
+    },
+    {
+     "lang": "deu",
+     "text": " 255.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "טריחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 255."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "י.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "י."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "יאלי 100. 336.\nיאנובא 322.\nיאנוכא 322.\nיארוד 241.\nיארוד נאלה 241.\nיבחושין 314. 334.\nידוע 356. 358.\nיובלא 118.\nיוחנא ירושלמית 290.\nיון 205.\nיונה 199.\nיחמור 113.\nיחמורתא 113.\nיילי 100. 218.\nיימים 144.\nילק 291. 297.\nיניבא 322.\nיניכא 322.\nינשוף 163.\nיעל 115.\nיעלא 115.\nיעלה 115.\nיעלי סלע 115.\nיענה 188.\nירודאתא 371.\nירודות 372.\nיריקא 369.\nיחוש 315. 365.\nיחוש שבכלכיסים 308.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "יאלי"
+    },
+    {
+     "lang": "deu",
+     "text": " 100. 336.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יאנובא"
+    },
+    {
+     "lang": "deu",
+     "text": " 322.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יאנוכא"
+    },
+    {
+     "lang": "deu",
+     "text": " 322.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יארוד"
+    },
+    {
+     "lang": "deu",
+     "text": " 241.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יארוד נאלה"
+    },
+    {
+     "lang": "deu",
+     "text": " 241.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יבחושין"
+    },
+    {
+     "lang": "deu",
+     "text": " 314. 334.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ידוע"
+    },
+    {
+     "lang": "deu",
+     "text": " 356. 358.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יובלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 118.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יוחנא ירושלמית"
+    },
+    {
+     "lang": "deu",
+     "text": " 290.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יון"
+    },
+    {
+     "lang": "deu",
+     "text": " 205.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יונה"
+    },
+    {
+     "lang": "deu",
+     "text": " 199.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יחמור"
+    },
+    {
+     "lang": "deu",
+     "text": " 113.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יחמורתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 113.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יילי"
+    },
+    {
+     "lang": "deu",
+     "text": " 100. 218.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יימים"
+    },
+    {
+     "lang": "deu",
+     "text": " 144.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ילק"
+    },
+    {
+     "lang": "deu",
+     "text": " 291. 297.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יניבא"
+    },
+    {
+     "lang": "deu",
+     "text": " 322.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יניכא"
+    },
+    {
+     "lang": "deu",
+     "text": " 322.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ינשוף"
+    },
+    {
+     "lang": "deu",
+     "text": " 163.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יעל"
+    },
+    {
+     "lang": "deu",
+     "text": " 115.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יעלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 115.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יעלה"
+    },
+    {
+     "lang": "deu",
+     "text": " 115.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יעלי סלע"
+    },
+    {
+     "lang": "deu",
+     "text": " 115.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יענה"
+    },
+    {
+     "lang": "deu",
+     "text": " 188.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ירודאתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 371.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ירודות"
+    },
+    {
+     "lang": "deu",
+     "text": " 372.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יריקא"
+    },
+    {
+     "lang": "deu",
+     "text": " 369.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יחוש"
+    },
+    {
+     "lang": "deu",
+     "text": " 315. 365.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יחוש שבכלכיסים"
+    },
+    {
+     "lang": "deu",
+     "text": " 308."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "כ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "כ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "כבש 118.\nכבשי מצרים 122.\nכבשני 204.\nכובאי 309.\nכוביא 299.\nכודנא 144.\nכודנייתא 144.\nכוחילנא 179.\nכוי 115.\nכוס 163.\nכופיא 251.\nכורביא 169.\nכורכיא 169.\nכח 223.\nכטספטיים 258.\nכידנא 144.\nכילבית 277.\nכילי 232. 233. 373.\nכילכית 276.\nכילתא 232.\nכינה 308. 324. 339.\nכינה קופצות 327.\nכינה רוחשת 324.\nכינה שחורה 327.\nכירצא 339.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "כבש"
+    },
+    {
+     "lang": "deu",
+     "text": " 118.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כבשי מצרים"
+    },
+    {
+     "lang": "deu",
+     "text": " 122.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כבשני"
+    },
+    {
+     "lang": "deu",
+     "text": " 204.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כובאי"
+    },
+    {
+     "lang": "deu",
+     "text": " 309.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כוביא"
+    },
+    {
+     "lang": "deu",
+     "text": " 299.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כודנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 144.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כודנייתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 144.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כוחילנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 179.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כוי"
+    },
+    {
+     "lang": "deu",
+     "text": " 115.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כוס"
+    },
+    {
+     "lang": "deu",
+     "text": " 163.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כופיא"
+    },
+    {
+     "lang": "deu",
+     "text": " 251.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כורביא"
+    },
+    {
+     "lang": "deu",
+     "text": " 169.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כורכיא"
+    },
+    {
+     "lang": "deu",
+     "text": " 169.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כח"
+    },
+    {
+     "lang": "deu",
+     "text": " 223.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כטספטיים"
+    },
+    {
+     "lang": "deu",
+     "text": " 258.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כידנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 144.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כילבית"
+    },
+    {
+     "lang": "deu",
+     "text": " 277.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כילי"
+    },
+    {
+     "lang": "deu",
+     "text": " 232. 233. 373.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כילכית"
+    },
+    {
+     "lang": "deu",
+     "text": " 276.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כילתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 232.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כינה"
+    },
+    {
+     "lang": "deu",
+     "text": " 308. 324. 339.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כינה קופצות"
+    },
+    {
+     "lang": "deu",
+     "text": " 327.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כינה רוחשת"
+    },
+    {
+     "lang": "deu",
+     "text": " 324.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כינה שחורה"
+    },
+    {
+     "lang": "deu",
+     "text": " 327.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "כירצא"
+    },
+    {
+     "lang": "deu",
+     "text": " 339."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3000,
+    2746
+   ],
+   [
+    3000,
+    2198
+   ]
+  ],
+  "input_tokens": 3345,
+  "output_tokens": 4225,
+  "cost_usd": 0.0184,
+  "seconds": 22.7
+ }
+}

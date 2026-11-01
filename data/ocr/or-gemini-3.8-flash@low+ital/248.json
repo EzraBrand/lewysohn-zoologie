@@ -1,0 +1,177 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "248 Fische.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "248 Fische."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "bald an dem aus dem Wasser genommenen Fische, eine Körperfläche\nauch nur von der Größe einer mittlern Münze eintrocknet, so kann\ner nicht mehr am Leben erhalten werden. Diese Vertrocknung wirkt\num so schneller und tödtlicher, wenn sie zwischen den Flossen einge-\ntreten ist. Der Tod erfolgt übrigens schon, wenn die Schleimabson-\nderung fasernweise zwischen den Flossen stattfindet (Sabbat 107 b).\nDer Fisch macht dann springende Bewegungen (מקרטע, Chulin 75, a)\nund stirbt, selbst wenn man ihn ins Wasser wirft (Tanit 24, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "bald an dem aus dem Wasser genommenen Fische, eine Körperfläche\nauch nur von der Größe einer mittlern Münze eintrocknet, so kann\ner nicht mehr am Leben erhalten werden. Diese Vertrocknung wirkt\num so schneller und tödtlicher, wenn sie zwischen den Flossen einge-\ntreten ist. Der Tod erfolgt übrigens schon, wenn die Schleimabson-\nderung fasernweise zwischen den Flossen stattfindet (Sabbat 107 b).\nDer Fisch macht dann springende Bewegungen ("
+    },
+    {
+     "lang": "heb",
+     "text": "מקרטע"
+    },
+    {
+     "lang": "deu",
+     "text": ", Chulin 75, a)\nund stirbt, selbst wenn man ihn ins Wasser wirft (Tanit 24, a)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 310.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 310."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die ungeheure Menge der Fische, deren außerordentliche Frucht-\nbarkeit durch das befördernde Element des Wassers sich erklären\nläßt, sucht der Talmud auf hyperbolische Weise zu erklären. Sie\nsind dem Auge des Menschen weniger ausgesetzt und so vor Neid und\nMißgunst (עין רע) sicher (Berachoth 20, a). Indessen begränzt\nder Talmud an andern Stellen die Fische durch runde Zahlen und\ndurch Ortsverhältnisse. Im Orient, d. i., in den den Morgenländern\nbekannten Wassern giebt es siebenhundert Arten unreiner Fische (Chu-\nlin 63, b), während man in Pelusium (פלוסא) und Aspamien (אספמיא;\nvielleicht auch Spanien, s. folgenden Artikel) unbedenklich Rogen\nkaufen und essen kann, da dort keine unreinen Fische vorhanden sind\n(A. Sara 39, a). — Von manchen Fischarten brachte man ganze\nSchiffsladungen (§. 320). — Wir bemerken hier gelegentlich, daß\neinige Fischarten, nach der Gegend ihres Aufenthalts benannt wurden,\nso heißt der spanische Thunfisch קולים האספנין (§. 315), eine aegyp-\ntische Fischart דג המצרי (§. 354), ein Fisch in der Gegend der Stadt\nאילת heißt אלחית (§. 353). — Vergl. noch S. 6, Anm. *.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die ungeheure Menge der Fische, deren außerordentliche Frucht-\nbarkeit durch das befördernde Element des Wassers sich erklären\nläßt, sucht der Talmud auf hyperbolische Weise zu erklären. Sie\nsind dem Auge des Menschen weniger ausgesetzt und so vor Neid und\nMißgunst ("
+    },
+    {
+     "lang": "heb",
+     "text": "עין רע"
+    },
+    {
+     "lang": "deu",
+     "text": ") sicher (Berachoth 20, a). Indessen begränzt\nder Talmud an andern Stellen die Fische durch runde Zahlen und\ndurch Ortsverhältnisse. Im Orient, d. i., in den den Morgenländern\nbekannten Wassern giebt es siebenhundert Arten unreiner Fische (Chu-\nlin 63, b), während man in Pelusium ("
+    },
+    {
+     "lang": "heb",
+     "text": "פלוסא"
+    },
+    {
+     "lang": "deu",
+     "text": ") und Aspamien ("
+    },
+    {
+     "lang": "heb",
+     "text": "אספמיא"
+    },
+    {
+     "lang": "deu",
+     "text": ";\nvielleicht auch Spanien, s. folgenden Artikel) unbedenklich Rogen\nkaufen und essen kann, da dort keine unreinen Fische vorhanden sind\n(A. Sara 39, a). — Von manchen Fischarten brachte man ganze\nSchiffsladungen (§. 320). — Wir bemerken hier gelegentlich, daß\neinige Fischarten, nach der Gegend ihres Aufenthalts benannt wurden,\nso heißt der spanische Thunfisch "
+    },
+    {
+     "lang": "heb",
+     "text": "קולים האספנין"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 315), eine aegyp-\ntische Fischart "
+    },
+    {
+     "lang": "heb",
+     "text": "דג המצרי"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 354), ein Fisch in der Gegend der Stadt\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אילת"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "אלחית"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 353). — Vergl. noch S. 6, Anm. *."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 311.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 311."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Fisch, die Schlange und das Schwein werden je älter desto\nkräftiger (A. Sara 30, b). Das Fischfleisch gewinnt durch Einsalzen\nan Geschmack, während jedes andere Fleisch hierdurch zwar conservirt,\nnicht aber geschmackvoller wird (B. batra 74, b). Man kann manche\neingesalzene Fischarten essen, ohne sie vorher kochen zu müssen, wie\ndie Häringe, die Sardellen (דגים קטנים, Beza 16, a; doch hat man\nbekanntlich auch geräucherten Lachs u. A. m.). Am besten schmecken\nfrische Fische (ibid. 24, b), dahingegen verliert die Speise, die aus\nFischfett und Mehl bereitet wird, und כסא דהרסנא (ibid. 16, a)\nheißt, sehr am Geschmack, wenn sie alt wird (B. batra 91, b). Hier",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Fisch, die Schlange und das Schwein werden je älter desto\nkräftiger (A. Sara 30, b). Das Fischfleisch gewinnt durch Einsalzen\nan Geschmack, während jedes andere Fleisch hierdurch zwar conservirt,\nnicht aber geschmackvoller wird (B. batra 74, b). Man kann manche\neingesalzene Fischarten essen, ohne sie vorher kochen zu müssen, wie\ndie Häringe, die Sardellen ("
+    },
+    {
+     "lang": "heb",
+     "text": "דגים קטנים"
+    },
+    {
+     "lang": "deu",
+     "text": ", Beza 16, a; doch hat man\nbekanntlich auch geräucherten Lachs u. A. m.). Am besten schmecken\nfrische Fische (ibid. 24, b), dahingegen verliert die Speise, die aus\nFischfett und Mehl bereitet wird, und "
+    },
+    {
+     "lang": "heb",
+     "text": "כסא דהרסנא"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 16, a)\nheißt, sehr am Geschmack, wenn sie alt wird (B. batra 91, b). Hier"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2777
+   ],
+   [
+    3308,
+    2327
+   ]
+  ],
+  "input_tokens": 3337,
+  "output_tokens": 1474,
+  "cost_usd": 0.008,
+  "seconds": 9.1
+ }
+}

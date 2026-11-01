@@ -1,0 +1,61 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "398\nDeutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "398\nDeutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Schakal 25.\nSchallh 273.\nSchamirwurm 351.\nScharbe 174.\nSchellfisch 270.\nSchiffsboot 223.\nSchildkröte 232. 349.\nSchimpanse 64.\nSchlafratze 108.\nSchlammbeißer 266.\nSchlange 234.\nSchlange, palästinensische 237.\nSchleiertaube 204.\nSchmeißfliege 314.\nSchmerl 267.\nSchmetterling 292. 364.\nSchnecke 279. 295. 362.\nSchneedohle 187.\nSchneefink 187.\nScholle 274.\nSchornsteinfeger 307.\nSchooßhund 86.\nSchwalbe 206.\nSchwamm 342.\nSchwan 194. 210.\nSchwarzamsel 179.\nSchwarzente 179.\nSchwarzkopf 25. 211.\nSchwarzmeise 179.\nSchwarzspecht 179.\nSchwein 146.\nSchwein, ägyptisches 147.\nSchwein, wildes 148.\nSchweinfisch 154.\nSchwertfisch 259.\nSchwirrheuschrecke 293.\nSebuja 273.\nSeeadler 167.\nSeebarsch 265.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schakal 25.\nSchallh 273.\nSchamirwurm 351.\nScharbe 174.\nSchellfisch 270.\nSchiffsboot 223.\nSchildkröte 232. 349.\nSchimpanse 64.\nSchlafratze 108.\nSchlammbeißer 266.\nSchlange 234.\nSchlange, palästinensische 237.\nSchleiertaube 204.\nSchmeißfliege 314.\nSchmerl 267.\nSchmetterling 292. 364.\nSchnecke 279. 295. 362.\nSchneedohle 187.\nSchneefink 187.\nScholle 274.\nSchornsteinfeger 307.\nSchooßhund 86.\nSchwalbe 206.\nSchwamm 342.\nSchwan 194. 210.\nSchwarzamsel 179.\nSchwarzente 179.\nSchwarzkopf 25. 211.\nSchwarzmeise 179.\nSchwarzspecht 179.\nSchwein 146.\nSchwein, ägyptisches 147.\nSchwein, wildes 148.\nSchweinfisch 154.\nSchwertfisch 259.\nSchwirrheuschrecke 293.\nSebuja 273.\nSeeadler 167.\nSeebarsch 265."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Seeesel 270.\nSeehündchen 272.\nSeehuhn 176.\nSeehund 97. 152.\nSeekrähe 175.\nSeekuh 152.\nSeemaus 347.\nSeemönch 154.\nSeemöve 176. 182.\nSeenagel 361.\nSeeochs 270.\nSeerabe 174. 175.\nSeeziege 270.\nSeidenmotte 321.\nSeidenpudel 86.\nSeidenraupe 358.\nSiebenschläfer 118.\nSir 273.\nSirene 153.\nSkink 225.\nSkorpion 298. 308.\nSoclet 269.\nSonnenfisch 271.\nSonnenvogel 184.\nSpecht 180. 210.\nSperber 164.\nSperling 187.\nSpinne 299.\nSpitz 89.\nSpitzmaus 102.\nSpulwurm 339.\nSpringhase 110.\nSpringmaus 110.\nSprotte 260.\nSt. Peter=Fisch 271. 290.\nStaar 176.\nStabheuschrecke 295.\nStachelbauch 17. 276.\nStachelfisch 275.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seeesel 270.\nSeehündchen 272.\nSeehuhn 176.\nSeehund 97. 152.\nSeekrähe 175.\nSeekuh 152.\nSeemaus 347.\nSeemönch 154.\nSeemöve 176. 182.\nSeenagel 361.\nSeeochs 270.\nSeerabe 174. 175.\nSeeziege 270.\nSeidenmotte 321.\nSeidenpudel 86.\nSeidenraupe 358.\nSiebenschläfer 118.\nSir 273.\nSirene 153.\nSkink 225.\nSkorpion 298. 308.\nSoclet 269.\nSonnenfisch 271.\nSonnenvogel 184.\nSpecht 180. 210.\nSperber 164.\nSperling 187.\nSpinne 299.\nSpitz 89.\nSpitzmaus 102.\nSpulwurm 339.\nSpringhase 110.\nSpringmaus 110.\nSprotte 260.\nSt. Peter=Fisch 271. 290.\nStaar 176.\nStabheuschrecke 295.\nStachelbauch 17. 276.\nStachelfisch 275."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google AI Studio",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2924,
+    2051
+   ],
+   [
+    2924,
+    2961
+   ]
+  ],
+  "input_tokens": 3054,
+  "output_tokens": 968,
+  "cost_usd": 0.0059,
+  "seconds": 20.5
+ }
+}

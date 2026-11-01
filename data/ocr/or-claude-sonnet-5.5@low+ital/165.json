@@ -1,0 +1,281 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Edelfalk. — Der Adler.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Edelfalk. — Der Adler."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "165",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "165"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "im Talmud andere Bezeichnungen, und der Habicht heißt dem Sper-\nber gegenüber mit Recht גם (Groß), da er noch einmal so groß wie\nder letztere ist. Vergl. noch Isserels zu Jore Dea §. 57, 3 und\nhierzu Sifte Cohen lit. 16, der גם mit Falken und Habicht über-\nsetzt. — Schließlich sei bemerkt, daß die Angaben Raschi's Betreffs\nder Beute beider Vögel nicht ganz richtig ist, denn der Sperber\nwürgt nur kleine Vögel, wie Finken und Sperlinge, der Habicht\nraubt hingegen seinerseits Tauben und Hühner, demnach habe man\nin Raschi bei dem kleinen Geflügel Tauben, und bei dem großen\nGeflügel Gänse zu streichen. Vergl. indessen Midrasch Rabba (Schir\nha-Schirim fol. 17, col. d).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "im Talmud andere Bezeichnungen, und der Habicht heißt dem Sper-\nber gegenüber mit Recht "
+    },
+    {
+     "lang": "heb",
+     "text": "גם"
+    },
+    {
+     "lang": "deu",
+     "text": " (Groß), da er noch einmal so groß wie\nder letztere ist. Vergl. noch Isserels zu Jore Dea §. 57, 3 und\nhierzu Sifte Cohen lit. 16, der "
+    },
+    {
+     "lang": "heb",
+     "text": "גם"
+    },
+    {
+     "lang": "deu",
+     "text": " mit Falken und Habicht über-\nsetzt. — Schließlich sei bemerkt, daß die Angaben Raschi's Betreffs\nder Beute beider Vögel nicht ganz richtig ist, denn der Sperber\nwürgt nur kleine Vögel, wie Finken und Sperlinge, der Habicht\nraubt hingegen seinerseits Tauben und Hühner, demnach habe man\nin Raschi bei dem kleinen Geflügel Tauben, und bei dem großen\nGeflügel Gänse zu streichen. Vergl. indessen Midrasch Rabba (Schir\nha-Schirim fol. 17, col. d)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 192.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 192."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Edelfalk.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Edelfalk."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Nächst dem Namen גם, womit Einige den Falken benennen (s.\n§. 191), hat dieser Vogel, der auch Geierfalk und Jagdfalk\nheißt, noch andere Namen. Chulin 63, a wird unter למינהו (nach sei-\nner Art), welchen Zusatz die Bibel hinter נץ (§. 190) hat, auch der\nבר חיריא (Sohn der Weiße) begriffen. Wer ist, fragt der Talmud, der\nבר חיריא? Es ist, wird geantwortet, der שורינקא (Würger). Hier\nist der Edelfalk gemeint. Er ist oben braun mit weißlichen Punk-\nten, zuweilen ist er ganz weiß (Voigt l. c. 2. S. 270), und daher\njener Name בר חיריא. Er wird zur Jagd abgerichtet, indem der\nJäger zu Pferde sitzt und den Falken bei sich hat, den er beim An-\nblick eines andern Vogels losläßt (Sabbat 94, a). Vielleicht heißt\ner auch בואי, von dem erzählt wird, daß David einst ging den בואי\nzu fangen (Sanhedrin 95, a), s. Aruch s. v. שכר; doch wird das\nWort von Raschi als Ortsnamen, von andern als Beute erklärt*).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nächst dem Namen "
+    },
+    {
+     "lang": "heb",
+     "text": "גם"
+    },
+    {
+     "lang": "deu",
+     "text": ", womit Einige den Falken benennen (s.\n§. 191), hat dieser Vogel, der auch Geierfalk und Jagdfalk\nheißt, noch andere Namen. Chulin 63, a wird unter "
+    },
+    {
+     "lang": "heb",
+     "text": "למינהו"
+    },
+    {
+     "lang": "deu",
+     "text": " (nach sei-\nner Art), welchen Zusatz die Bibel hinter "
+    },
+    {
+     "lang": "heb",
+     "text": "נץ"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 190) hat, auch der\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בר חיריא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sohn der Weiße) begriffen. Wer ist, fragt der Talmud, der\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בר חיריא"
+    },
+    {
+     "lang": "deu",
+     "text": "? Es ist, wird geantwortet, der "
+    },
+    {
+     "lang": "arc",
+     "text": "שורינקא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Würger). Hier\nist der Edelfalk gemeint. Er ist oben braun mit weißlichen Punk-\nten, zuweilen ist er ganz weiß (Voigt l. c. 2. S. 270), und daher\njener Name "
+    },
+    {
+     "lang": "arc",
+     "text": "בר חיריא"
+    },
+    {
+     "lang": "deu",
+     "text": ". Er wird zur Jagd abgerichtet, indem der\nJäger zu Pferde sitzt und den Falken bei sich hat, den er beim An-\nblick eines andern Vogels losläßt (Sabbat 94, a). Vielleicht heißt\ner auch "
+    },
+    {
+     "lang": "arc",
+     "text": "בואי"
+    },
+    {
+     "lang": "deu",
+     "text": ", von dem erzählt wird, daß David einst ging den "
+    },
+    {
+     "lang": "arc",
+     "text": "בואי"
+    },
+    {
+     "lang": "deu",
+     "text": "\nzu fangen (Sanhedrin 95, a), s. Aruch s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "שכר"
+    },
+    {
+     "lang": "deu",
+     "text": "; doch wird das\nWort von Raschi als Ortsnamen, von andern als Beute erklärt*)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 193.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 193."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Adler.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Adler."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Adler — נשר — ist der König der Vögel (Chagigah 13,\nb), sein Flug ist schnell und er ermüdet nicht so leicht (Aboth 5, 20),",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Adler — "
+    },
+    {
+     "lang": "heb",
+     "text": "נשר"
+    },
+    {
+     "lang": "deu",
+     "text": " — ist der König der Vögel (Chagigah 13,\nb), sein Flug ist schnell und er ermüdet nicht so leicht (Aboth 5, 20),"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Der Habicht, Falco palumbarius, war auf Hasen, Tauben, Rebhühner,\nFasanen, auch auf Reiher und Kraniche zur Baize (Fang) dienlich. Er heißt\narabisch Basi (Plural Busat), woraus das englische buzzard, Bussard, wie\nHammer meint, entstanden sei und vielleicht das deutsche „Baizvogel,\" bedeute;\nauch im Pers. heißt der Falken باز und بازه und ähnlich im Syr.: ܒܙܐ,\nund so dürfte die Erklärung des Aruch: בואי als Vogelname zu halten annehm-\nbar sein.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Habicht, Falco palumbarius, war auf Hasen, Tauben, Rebhühner,\nFasanen, auch auf Reiher und Kraniche zur Baize (Fang) dienlich. Er heißt\narabisch Basi (Plural Busat), woraus das englische buzzard, Bussard, wie\nHammer meint, entstanden sei und vielleicht das deutsche „Baizvogel,\" bedeute;\nauch im Pers. heißt der Falken "
+    },
+    {
+     "lang": "fas",
+     "text": "باز"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "fas",
+     "text": "بازه"
+    },
+    {
+     "lang": "deu",
+     "text": " und ähnlich im Syr.: "
+    },
+    {
+     "lang": "syc",
+     "text": "ܒܙܐ"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nund so dürfte die Erklärung des Aruch: "
+    },
+    {
+     "lang": "arc",
+     "text": "בואי"
+    },
+    {
+     "lang": "deu",
+     "text": " als Vogelname zu halten annehm-\nbar sein."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3276,
+    2800
+   ],
+   [
+    3276,
+    2180
+   ]
+  ],
+  "input_tokens": 11350,
+  "output_tokens": 1995,
+  "cost_usd": 0.0427,
+  "seconds": 15.6
+ }
+}

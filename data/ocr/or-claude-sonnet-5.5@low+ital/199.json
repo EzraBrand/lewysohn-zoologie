@@ -1,0 +1,233 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Taube. — Die Haustaube. 199",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Taube. — Die Haustaube. 199"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "ter sich anschließen will, pickt sie es am Kopfe und spricht zu ihm:\n„„Scharre seblst auf Deinem Misthaufen!\"\"",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "ter sich anschließen will, pickt sie es am Kopfe und spricht zu ihm:\n„„Scharre seblst auf Deinem Misthaufen!\"\""
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 247.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 247."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Taube.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Taube."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Bei den zahlreichen Arten des Taubengeschlechtes — man zählt\nderen über hundert — ist es nöthig von vornherein die Arten zu be-\nnennen, die im Talmud erwähnt werden, wobei manche Art mit\napodictischer Gewißheit nicht bestimmt werden kann. Im Ganzen\nsind es zehn Arten, und zwar a) die Haustaube, von welcher\ndrei Varietäten vorkommen, b) die Turteltaube in drei Varie-\ntäten, c) die Schleiertaube, d) Purzeltaube und e) die wilde\nTaube in zwei Varietäten. — Generelle Namen für Taube sind:\nיונה (Berachoth 53, b); die junge Taube: בן יונה (Chulin 22, a,\ngewöhnlich im Pl. בני יונים vorkommend) und בר גוזלא (ibid. 76, b).\n— גוזל (s. §. 1, Anm. ***) heißt sowohl die junge, als auch die\njahresalte Taube (vergl. גוזל בן שנה, Gittin 56, b), und mit diesem\nNamen erklärt Raschi das B. mez. 84, b vorkommende פרידה, vergl.\n§. 239. — Das noch nicht flügge gewordene Junge heißt: ניפול\n(Pullus, B. batra 23, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bei den zahlreichen Arten des Taubengeschlechtes — man zählt\nderen über hundert — ist es nöthig von vornherein die Arten zu be-\nnennen, die im Talmud erwähnt werden, wobei manche Art mit\napodictischer Gewißheit nicht bestimmt werden kann. Im Ganzen\nsind es zehn Arten, und zwar a) die Haustaube, von welcher\ndrei Varietäten vorkommen, b) die Turteltaube in drei Varie-\ntäten, c) die Schleiertaube, d) Purzeltaube und e) die wilde\nTaube in zwei Varietäten. — Generelle Namen für Taube sind:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "יונה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Berachoth 53, b); die junge Taube: "
+    },
+    {
+     "lang": "heb",
+     "text": "בן יונה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 22, a,\ngewöhnlich im Pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "בני יונים"
+    },
+    {
+     "lang": "deu",
+     "text": " vorkommend) und "
+    },
+    {
+     "lang": "heb",
+     "text": "בר גוזלא"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 76, b).\n— "
+    },
+    {
+     "lang": "heb",
+     "text": "גוזל"
+    },
+    {
+     "lang": "deu",
+     "text": " (s. §. 1, Anm. ***) heißt sowohl die junge, als auch die\njahresalte Taube (vergl. "
+    },
+    {
+     "lang": "heb",
+     "text": "גוזל בן שנה"
+    },
+    {
+     "lang": "deu",
+     "text": ", Gittin 56, b), und mit diesem\nNamen erklärt Raschi das B. mez. 84, b vorkommende "
+    },
+    {
+     "lang": "heb",
+     "text": "פרידה"
+    },
+    {
+     "lang": "deu",
+     "text": ", vergl.\n§. 239. — Das noch nicht flügge gewordene Junge heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "ניפול"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Pullus, B. batra 23, a)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 248.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 248."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Haustaube.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Haustaube."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Von dieser Taubenart giebt es drei Varietäten: a) יונה עליה,\nd. i., die Taube, welche in oberen Räumen des Hauses sich aufhält;\nb) יונה שובך, Tauben, die in den Taubenschlägen gehalten werden,\nund c) יונה הרדיסאות, Tauben, die zwar wie jene beiden ersten\nArten entweder im Hause, oder im Taubenschlag leben, darin aber\nsich von ihnen unterscheiden, daß sie in ihrem Aufenthalt beständig ver-\nweilen und nicht auswärts die Nahrung aufsuchen. — Genauer noch\nwird jener Unterschied also gemacht: Die יונה עליה weilt den Tag\nhindurch auf dem Felde, oder sonstwo auswärts und kehrt des Abends\nins Haus zurück, wo ihr in den oberen Räumen ein Nest bereitet\nist. — Die יונה שובך weilt ebenfalls während des Tages auswärts,\nkehrt aber zur Abendzeit in den Taubenschlag zurück; beide Arten\npflegten auch in Felslöchern, oder in Krügen, die man eigens zu die-\nsem Zwecke in den Stadtmauern angebracht hatte, zu nisten. — Von\nbeiden Arten unterscheidet sich die יונה הרדיסאות, die sich vom Tau-\nbenschlag, oder vom Hause nicht entfernt (Beza 24, a). Der letztere\nName wird entweder als Ortseigenname erklärt und demnach auch",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Von dieser Taubenart giebt es drei Varietäten: a) "
+    },
+    {
+     "lang": "heb",
+     "text": "יונה עליה"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nd. i., die Taube, welche in oberen Räumen des Hauses sich aufhält;\nb) "
+    },
+    {
+     "lang": "heb",
+     "text": "יונה שובך"
+    },
+    {
+     "lang": "deu",
+     "text": ", Tauben, die in den Taubenschlägen gehalten werden,\nund c) "
+    },
+    {
+     "lang": "heb",
+     "text": "יונה הרדיסאות"
+    },
+    {
+     "lang": "deu",
+     "text": ", Tauben, die zwar wie jene beiden ersten\nArten entweder im Hause, oder im Taubenschlag leben, darin aber\nsich von ihnen unterscheiden, daß sie in ihrem Aufenthalt beständig ver-\nweilen und nicht auswärts die Nahrung aufsuchen. — Genauer noch\nwird jener Unterschied also gemacht: Die "
+    },
+    {
+     "lang": "heb",
+     "text": "יונה עליה"
+    },
+    {
+     "lang": "deu",
+     "text": " weilt den Tag\nhindurch auf dem Felde, oder sonstwo auswärts und kehrt des Abends\nins Haus zurück, wo ihr in den oberen Räumen ein Nest bereitet\nist. — Die "
+    },
+    {
+     "lang": "heb",
+     "text": "יונה שובך"
+    },
+    {
+     "lang": "deu",
+     "text": " weilt ebenfalls während des Tages auswärts,\nkehrt aber zur Abendzeit in den Taubenschlag zurück; beide Arten\npflegten auch in Felslöchern, oder in Krügen, die man eigens zu die-\nsem Zwecke in den Stadtmauern angebracht hatte, zu nisten. — Von\nbeiden Arten unterscheidet sich die "
+    },
+    {
+     "lang": "heb",
+     "text": "יונה הרדיסאות"
+    },
+    {
+     "lang": "deu",
+     "text": ", die sich vom Tau-\nbenschlag, oder vom Hause nicht entfernt (Beza 24, a). Der letztere\nName wird entweder als Ortseigenname erklärt und demnach auch"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2619
+   ],
+   [
+    3308,
+    2385
+   ]
+  ],
+  "input_tokens": 11391,
+  "output_tokens": 1807,
+  "cost_usd": 0.0409,
+  "seconds": 12.8
+ }
+}

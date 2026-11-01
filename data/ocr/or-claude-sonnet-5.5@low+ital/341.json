@@ -1,0 +1,221 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Finne. — Der Riemenwurm. — Die Fischlaus.    341",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Finne. — Der Riemenwurm. — Die Fischlaus.    341"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "und so kann der Wurm erst nach dem Tode die Lunge durchfressen\nhaben und durch sie gedrungen sein. — Es ist dies der Schafwurm,\nStrongylus filaria, welcher in der Luftröhre der Schafe lebt, und den\nsogenannten Schafhusten erregt (Voigt l. c. 6. S. 33).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "und so kann der Wurm erst nach dem Tode die Lunge durchfressen\nhaben und durch sie gedrungen sein. — Es ist dies der Schafwurm,\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Strongylus filaria,"
+    },
+    {
+     "lang": "deu",
+     "text": " welcher in der Luftröhre der Schafe lebt, und den\nsogenannten Schafhusten erregt (Voigt l. c. 6. S. 33)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 483.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 483."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Für מורנא im vorhergehenden Artikel liest Aruch:\nמראנה und erklärt es als einen Wurm, den man lebendig in den\nEingeweiden der Thiere findet; es ist dies die Hydatide (Echino-\ncoccus veterinorum), welche sich in den Eingeweiden der Schafe,\nKälber, Schweine u. a. findet (Voigt l. c. 6. S. 46). Die Deci-\nsoren (Sch. Ar. Jore Deah §. 36, 5) erklären sich für die Angabe\nRaschi's.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Für "
+    },
+    {
+     "lang": "arc",
+     "text": "מורנא"
+    },
+    {
+     "lang": "deu",
+     "text": " im vorhergehenden Artikel liest Aruch:\n"
+    },
+    {
+     "lang": "arc",
+     "text": "מראנה"
+    },
+    {
+     "lang": "deu",
+     "text": " und erklärt es als einen Wurm, den man lebendig in den\nEingeweiden der Thiere findet; es ist dies die Hydatide (Echino-\n"
+    },
+    {
+     "lang": "lat",
+     "text": "coccus veterinorum)"
+    },
+    {
+     "lang": "deu",
+     "text": ", welche sich in den Eingeweiden der Schafe,\nKälber, Schweine u. a. findet (Voigt l. c. 6. S. 46). Die Deci-\nsoren (Sch. Ar. Jore Deah §. 36, 5) erklären sich für die Angabe\nRaschi's."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 484.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 484."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Finne.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Finne."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Das Schwein, heißt es (Kiduschin 49, b), ist von allen Thieren\nden meisten Krankheiten unterworfen, wobei sicherlich an die Finne\ngedacht wurde. Dieser Wurm findet sich im Zellgewebe, zwischen\nden Muskeln und selbst im Gehirn der Hausthiere, zumal des Schwei-\nnes, wo er eine ekelhafte Krankheit desselben und das Fleisch wider-\nlich macht (Voigt l. c. 6. S. 44). Vergl. §. 170.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Schwein, heißt es (Kiduschin 49, b), ist von allen Thieren\nden meisten Krankheiten unterworfen, wobei sicherlich an die Finne\ngedacht wurde. Dieser Wurm findet sich im Zellgewebe, zwischen\nden Muskeln und selbst im Gehirn der Hausthiere, zumal des Schwei-\nnes, wo er eine ekelhafte Krankheit desselben und das Fleisch wider-\nlich macht (Voigt l. c. 6. S. 44). Vergl. §. 170."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 485.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 485."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Riemenwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Riemenwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Würmer, welche man in den Därmen der Fische findet,\ndürfen nicht gegessen werden, weil anzunehmen ist, daß sie von außen\nher in die Fische gekommen sind (Chulin 67, b). Es ist dies wahr-\nscheinlich der Riemenwurm (Ligula cingulum, Voigt l. c. 6. S. 37),\nder sich in der Bauchhöhle der Fische findet, und die in manchen\nTheilen von Neapel sogar als Leckerbissen genossen werden.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Würmer, welche man in den Därmen der Fische findet,\ndürfen nicht gegessen werden, weil anzunehmen ist, daß sie von außen\nher in die Fische gekommen sind (Chulin 67, b). Es ist dies wahr-\nscheinlich der Riemenwurm ("
+    },
+    {
+     "lang": "lat",
+     "text": "Ligula cingulum"
+    },
+    {
+     "lang": "deu",
+     "text": ", Voigt l. c. 6. S. 37),\nder sich in der Bauchhöhle der Fische findet, und die in manchen\nTheilen von Neapel sogar als Leckerbissen genossen werden."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 486.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 486."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Fischlaus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Fischlaus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Würmer, welche zwischen der Haut und dem Fleisch der\nFische sich befinden, dürfen gegessen werden, weil sie aus dem Fleische\nder Fische selbst entstanden sind (Chulin 67, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Würmer, welche zwischen der Haut und dem Fleisch der\nFische sich befinden, dürfen gegessen werden, weil sie aus dem Fleische\nder Fische selbst entstanden sind (Chulin 67, b)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2086
+   ],
+   [
+    3308,
+    3130
+   ]
+  ],
+  "input_tokens": 11341,
+  "output_tokens": 1444,
+  "cost_usd": 0.0371,
+  "seconds": 9.7
+ }
+}

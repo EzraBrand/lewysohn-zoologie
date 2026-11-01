@@ -1,0 +1,265 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "330",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "330"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die große Ameise.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die große Ameise."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Art) zum Kampfe auszziehen, Schlachten liefern und nach dem\nSiege die besiegten Ameisen, oder ihre Puppen rauben, wird von\nLatreille (Histoire naturelle des fourmis, Paris 1812) bestätigt. —\nDas Nest, oder der Aufenthalt der Ameisen heißt קינא דשומשמני (Ne-\ndarim 24, b), oder חור נמלים (M. Katan 6, b). Der Anblick dieses\nwunderbaren Insectes, und insbesondere seine wunderbare Lebensweise\nerpreßten den Ausruf: „Deine Gerechtigkeit, o Gott, ragt hoch em-\npor!“ (Chulin 63, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Art) zum Kampfe auszziehen, Schlachten liefern und nach dem\nSiege die besiegten Ameisen, oder ihre Puppen rauben, wird von\nLatreille "
+    },
+    {
+     "lang": "fra",
+     "text": "(Histoire naturelle des fourmis, Paris 1812)"
+    },
+    {
+     "lang": "deu",
+     "text": " bestätigt. —\nDas Nest, oder der Aufenthalt der Ameisen heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "קינא דשומשמני"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "translit",
+     "text": "Ne-\ndarim"
+    },
+    {
+     "lang": "deu",
+     "text": " 24, b), oder "
+    },
+    {
+     "lang": "heb",
+     "text": "חור נמלים"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "translit",
+     "text": "M. Katan"
+    },
+    {
+     "lang": "deu",
+     "text": " 6, b). Der Anblick dieses\nwunderbaren Insectes, und insbesondere seine wunderbare Lebensweise\nerpreßten den Ausruf: „Deine Gerechtigkeit, o Gott, ragt hoch em-\npor!“ ("
+    },
+    {
+     "lang": "translit",
+     "text": "Chulin"
+    },
+    {
+     "lang": "deu",
+     "text": " 63, a)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 455.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 455."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Das Sabbat 77, b und Jebamoth 121, b vorkom-\nmende קמצי übersetzt Raschi unbestimmt durch Heuschrecke, oder\nAmeise. Der Grundbegriff von קמץ „fassen“ paßt auf beide Insec-\nten; doch ist in letzterer Stelle eher die Heuschrecke (vergl. §. 392),\nin der ersteren Stelle wohl eher die Ameise gemeint. Es heißt hier:\nwarum sind die Fühler des קמצא weich? Deshalb, weil er zwischen\nharten Gegenständen (חילפי Weiden, dann trockene Gegenstände über-\nhaupt, wie Tannennadeln u. a. m.) sich aufhält, wobei die Fühler,\nwenn sie hart wären, leicht sich abbrechen könnten, und hierdurch der\nקמצא gleichsam geblendet werden möchte, denn Samuel pflegte zu\nsagen: Wer den קמצא blenden will, der reiße ihm die Fühler ab. —\nDie Fühler der Ameise sind bekanntlich stark gebrochen, was der Tal-\nmud als weich bezeichnet. Die Sterilen unterscheiden sich ferner von\ndem Männchen und dem Weibchen dadurch in ihrer Gestalt, daß sie\neinen größern dreieckförmigen Kopf, aber viel kleinere Augen haben;\nihre Punktaugen sind so klein, daß man sie kaum wahrnimmt, dabei\nstehen die Augen mehr seitlich; dieser Species von Ameisen sind da-\nher die Fühler von um so größerer Nothwendigkeit, weshalb ich ver-\nmuthe, daß קמצא die Sterilen κατ᾽ ἐξοχήν bezeichnet. Ihr Aufent-\nhalt zwischen harten Gegenständen heißt nichts Anderes, als ihr Nest,\nwelches aus Spänchen, Grashalmen, Holz, Tannennadeln u. dgl.\nbesteht.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Das "
+    },
+    {
+     "lang": "translit",
+     "text": "Sabbat"
+    },
+    {
+     "lang": "deu",
+     "text": " 77, b und "
+    },
+    {
+     "lang": "translit",
+     "text": "Jebamoth"
+    },
+    {
+     "lang": "deu",
+     "text": " 121, b vorkom-\nmende "
+    },
+    {
+     "lang": "heb",
+     "text": "קמצי"
+    },
+    {
+     "lang": "deu",
+     "text": " übersetzt Raschi unbestimmt durch Heuschrecke, oder\nAmeise. Der Grundbegriff von "
+    },
+    {
+     "lang": "heb",
+     "text": "קמץ"
+    },
+    {
+     "lang": "deu",
+     "text": " „fassen“ paßt auf beide Insec-\nten; doch ist in letzterer Stelle eher die Heuschrecke (vergl. §. 392),\nin der ersteren Stelle wohl eher die Ameise gemeint. Es heißt hier:\nwarum sind die Fühler des "
+    },
+    {
+     "lang": "heb",
+     "text": "קמצא"
+    },
+    {
+     "lang": "deu",
+     "text": " weich? Deshalb, weil er zwischen\nharten Gegenständen ("
+    },
+    {
+     "lang": "heb",
+     "text": "חילפי"
+    },
+    {
+     "lang": "deu",
+     "text": " Weiden, dann trockene Gegenstände über-\nhaupt, wie Tannennadeln u. a. m.) sich aufhält, wobei die Fühler,\nwenn sie hart wären, leicht sich abbrechen könnten, und hierdurch der\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קמצא"
+    },
+    {
+     "lang": "deu",
+     "text": " gleichsam geblendet werden möchte, denn Samuel pflegte zu\nsagen: Wer den "
+    },
+    {
+     "lang": "heb",
+     "text": "קמצא"
+    },
+    {
+     "lang": "deu",
+     "text": " blenden will, der reiße ihm die Fühler ab. —\nDie Fühler der Ameise sind bekanntlich stark gebrochen, was der Tal-\nmud als weich bezeichnet. Die Sterilen unterscheiden sich ferner von\ndem Männchen und dem Weibchen dadurch in ihrer Gestalt, daß sie\neinen größern dreieckförmigen Kopf, aber viel kleinere Augen haben;\nihre Punktaugen sind so klein, daß man sie kaum wahrnimmt, dabei\nstehen die Augen mehr seitlich; dieser Species von Ameisen sind da-\nher die Fühler von um so größerer Nothwendigkeit, weshalb ich ver-\nmuthe, daß "
+    },
+    {
+     "lang": "heb",
+     "text": "קמצא"
+    },
+    {
+     "lang": "deu",
+     "text": " die Sterilen "
+    },
+    {
+     "lang": "grc",
+     "text": "κατ᾽ ἐξοχήν"
+    },
+    {
+     "lang": "deu",
+     "text": " bezeichnet. Ihr Aufent-\nhalt zwischen harten Gegenständen heißt nichts Anderes, als ihr Nest,\nwelches aus Spänchen, Grashalmen, Holz, Tannennadeln u. dgl.\nbesteht."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 456.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 456."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die große Ameise.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die große Ameise."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Verschieden ist die Schreibart eines der Namen der Ameise, Ne-\ndarim 24, b; Ketuboth 75, a. steht שומשמנא, dahingegen Jebamoth\n76, a שומשנא; in andern Talmudausgaben (mir steht nur die Sulz-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Verschieden ist die Schreibart eines der Namen der Ameise, Ne-\ndarim 24, b; Ketuboth 75, a. steht "
+    },
+    {
+     "lang": "arc",
+     "text": "שומשמנא"
+    },
+    {
+     "lang": "deu",
+     "text": ", dahingegen Jebamoth\n76, a "
+    },
+    {
+     "lang": "arc",
+     "text": "שומשנא"
+    },
+    {
+     "lang": "deu",
+     "text": "; in andern Talmudausgaben (mir steht nur die Sulz-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2536
+   ],
+   [
+    3308,
+    2476
+   ]
+  ],
+  "input_tokens": 11334,
+  "output_tokens": 1917,
+  "cost_usd": 0.0418,
+  "seconds": 13.0
+ }
+}

@@ -1,0 +1,169 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Eine kleine Fischart. — Die Mendola.\t277",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine kleine Fischart. — Die Mendola.\t277"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "er ist somit klein und wegen seiner Nichtachtung mit Recht ein שקץ\n(§. 268) genannt; vergl. den Anhang s. v. כולכיד.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "er ist somit klein und wegen seiner Nichtachtung mit Recht ein "
+    },
+    {
+     "lang": "arc",
+     "text": "שקץ"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(§. 268) genannt; vergl. den Anhang s. v. "
+    },
+    {
+     "lang": "arc",
+     "text": "כולכיד"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 359.\nEine kleine Fischart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 359.\nEine kleine Fischart."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "A. Sara 39, b heißt es: Wenn man Fischsaft von Heiden kauft,\nund in demselben eine כילבית herumschwimmt, so ist dies ein Zeichen,\ndaß der Saft von reinen Fischen ist. Raschi fügt hinzu: Das Fisch-\nchen wächst und entsteht in dem Safte von selbst, jedoch nur in dem\nreiner Fische, wäre aber diesem der Saft unreiner Fische beigemischt, so\nkann die כילבית darin nicht entstehen. — Das Fischchen selbst soll\nnach Einigen rein, nach Anderen unrein sein (s. Sifte Cohen zu Jore\nDea §. 83, n. 18.); es ist also die Identität unseres Fisches mit dem\nim vorhergehenden Artikel Erwähnten nicht eine allgemein angenom-\nmene. — Die wunderliche Angabe Raschi's fand aber schon früh ihre\nWiderlegung. Nachmanides (Commentar zu A. Sara, aufgenom-\nmen in das Sammelwerk: מעשה צדיקים, Livorno 1779, 4) hält jene\nAngabe als erdichtet und nennt sie דברי נביאות „prophetische Worte\",\ndie, wer da will, auf guten Glauben hinnehmen mag, die aber durch\ndie Wissenschaft nicht begründet sind. — Er erklärt unsere talm. An-\ngabe viel einfacher, daß nämlich der Fischer, um seine Waare als\nächten Fischsaft zu empfehlen, ein Fischchen in denselben zu legen\npflegte; ohne dieses hätte man den Saft, im Verdachte, daß er von\nunreinen Fischen gewonnen sei, nicht abgekauft. — Die Natur des\nFischchens ist nicht angegeben, Sifte Cohen (a. a. O.) sagt geradezu,\ndaß man dasselbe nicht kennt; es ist aber wahrscheinlich irgend ein\nkurz nach der Brut gefangenes Fischchen, welches man nur zu jenem\nmerkantilischen Zwecke benutzte.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "A. Sara 39, b heißt es: Wenn man Fischsaft von Heiden kauft,\nund in demselben eine "
+    },
+    {
+     "lang": "arc",
+     "text": "כילבית"
+    },
+    {
+     "lang": "deu",
+     "text": " herumschwimmt, so ist dies ein Zeichen,\ndaß der Saft von reinen Fischen ist. Raschi fügt hinzu: Das Fisch-\nchen wächst und entsteht in dem Safte von selbst, jedoch nur in dem\nreiner Fische, wäre aber diesem der Saft unreiner Fische beigemischt, so\nkann die "
+    },
+    {
+     "lang": "arc",
+     "text": "כילבית"
+    },
+    {
+     "lang": "deu",
+     "text": " darin nicht entstehen. — Das Fischchen selbst soll\nnach Einigen rein, nach Anderen unrein sein (s. Sifte Cohen zu Jore\nDea §. 83, n. 18.); es ist also die Identität unseres Fisches mit dem\nim vorhergehenden Artikel Erwähnten nicht eine allgemein angenom-\nmene. — Die wunderliche Angabe Raschi's fand aber schon früh ihre\nWiderlegung. Nachmanides (Commentar zu A. Sara, aufgenom-\nmen in das Sammelwerk: "
+    },
+    {
+     "lang": "heb",
+     "text": "מעשה צדיקים"
+    },
+    {
+     "lang": "deu",
+     "text": ", Livorno 1779, 4) hält jene\nAngabe als erdichtet und nennt sie "
+    },
+    {
+     "lang": "heb",
+     "text": "דברי נביאות"
+    },
+    {
+     "lang": "deu",
+     "text": " „prophetische Worte\",\ndie, wer da will, auf guten Glauben hinnehmen mag, die aber durch\ndie Wissenschaft nicht begründet sind. — Er erklärt unsere talm. An-\ngabe viel einfacher, daß nämlich der Fischer, um seine Waare als\nächten Fischsaft zu empfehlen, ein Fischchen in denselben zu legen\npflegte; ohne dieses hätte man den Saft, im Verdachte, daß er von\nunreinen Fischen gewonnen sei, nicht abgekauft. — Die Natur des\nFischchens ist nicht angegeben, Sifte Cohen (a. a. O.) sagt geradezu,\ndaß man dasselbe nicht kennt; es ist aber wahrscheinlich irgend ein\nkurz nach der Brut gefangenes Fischchen, welches man nur zu jenem\nmerkantilischen Zwecke benutzte."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 360.\nDie Mendola.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 360.\nDie Mendola."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "A. Sara 39, b wird der Kauf von מלח סלקונית verboten, weil\nder Heide dieses Salz durch Beimischung der Fetttheile von unreinen\nFischen bereitet. Die richtige Leseart jener Wörter hat Aruch, er liest:\nמלח סלקנדית, d. i., Sal conditus, von welchem Plinius (h. n. 31, 7,\n40) sagt: Man bereitet es sogar aus der Lake der eingesalzenen Fische,\nindem es nach Entfernung der Feuchtigkeit seine ursprüngliche Natur",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "A. Sara 39, b wird der Kauf von "
+    },
+    {
+     "lang": "arc",
+     "text": "מלח סלקונית"
+    },
+    {
+     "lang": "deu",
+     "text": " verboten, weil\nder Heide dieses Salz durch Beimischung der Fetttheile von unreinen\nFischen bereitet. Die richtige Leseart jener Wörter hat Aruch, er liest:\n"
+    },
+    {
+     "lang": "arc",
+     "text": "מלח סלקנדית"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i., "
+    },
+    {
+     "lang": "lat",
+     "text": "Sal conditus"
+    },
+    {
+     "lang": "deu",
+     "text": ", von welchem Plinius (h. n. 31, 7,\n40) sagt: Man bereitet es sogar aus der Lake der eingesalzenen Fische,\nindem es nach Entfernung der Feuchtigkeit seine ursprüngliche Natur"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2261
+   ],
+   [
+    3308,
+    2823
+   ]
+  ],
+  "input_tokens": 3325,
+  "output_tokens": 1353,
+  "cost_usd": 0.0076,
+  "seconds": 9.5
+ }
+}

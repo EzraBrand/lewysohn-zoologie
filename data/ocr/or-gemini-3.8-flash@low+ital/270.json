@@ -1,0 +1,285 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "270\nDer Seeochs. — Der Seeesel. — Die Seeziege.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "270\nDer Seeochs. — Der Seeesel. — Die Seeziege."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 348.\nDer Seeochs.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 348.\nDer Seeochs."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "תורא דימא (A. Sara 39, a), ein unreiner Fisch. Es ist dies der\nΒοῦς θαλάσσιος bei Harduin (zu Plin. h. n. 9, 24, 40) und Βοῦς\nbei Aristoteles (a. a. O. 6, 11, 1), ein Knorpelfisch und zwar eine\nRochenart und deshalb mit Recht zu essen verboten; vergl. §. 344.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "תורא דימא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "A. Sara 39, a"
+    },
+    {
+     "lang": "deu",
+     "text": "), ein unreiner Fisch. Es ist dies der\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Βοῦς θαλάσσιος"
+    },
+    {
+     "lang": "deu",
+     "text": " bei Harduin (zu "
+    },
+    {
+     "lang": "lat",
+     "text": "Plin. h. n. 9, 24, 40"
+    },
+    {
+     "lang": "deu",
+     "text": ") und "
+    },
+    {
+     "lang": "grc",
+     "text": "Βοῦς"
+    },
+    {
+     "lang": "deu",
+     "text": "\nbei Aristoteles ("
+    },
+    {
+     "lang": "lat",
+     "text": "a. a. O. 6, 11, 1"
+    },
+    {
+     "lang": "deu",
+     "text": "), ein Knorpelfisch und zwar eine\nRochenart und deshalb mit Recht zu essen verboten; vergl. §. 344."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 349.\nDer Seeesel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 349.\nDer Seeesel."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "חמרא דימא (A. Sara 39, a), ein reiner Fisch. Bei Plinius (h. n.\n9, 16, 28) heißt eine Fischart Asellus, das Eselchen. Er sagt: Von\nden Aselli giebt es zwei Gattungen, die Callariae und die Bacchi,\nletztere werden nur in dem Meere gefangen, und sei so vorzüglicher\nals die ersteren*). Die Aselli bilden das Geschlecht der Schell-\nfische. Der Callarias ist der Dorsch (bei Linné: Gadus Callarias),\nder Bacchus ist der Kabeljau, welcher ebenso gefleckt und so gestal-\ntet wie der Dorsch, aber viel größer ist und eine Länge von 3 bis 3½\nFuß, eine Schwere von 70 bis 80 Pfund erlangt. Auch bei Aristo-\nteles (l. c. 9, 25, 3) heißt der Schellfisch und das ganze Geschlecht:\nὌνος. — Die Schellfische haben Flossen und ganz kleine Schuppen\nund sind deshalb rein.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "חמרא דימא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "A. Sara 39, a"
+    },
+    {
+     "lang": "deu",
+     "text": "), ein reiner Fisch. Bei Plinius ("
+    },
+    {
+     "lang": "lat",
+     "text": "h. n.\n9, 16, 28"
+    },
+    {
+     "lang": "deu",
+     "text": ") heißt eine Fischart "
+    },
+    {
+     "lang": "lat",
+     "text": "Asellus"
+    },
+    {
+     "lang": "deu",
+     "text": ", das Eselchen. Er sagt: Von\nden "
+    },
+    {
+     "lang": "lat",
+     "text": "Aselli"
+    },
+    {
+     "lang": "deu",
+     "text": " giebt es zwei Gattungen, die "
+    },
+    {
+     "lang": "lat",
+     "text": "Callariae"
+    },
+    {
+     "lang": "deu",
+     "text": " und die "
+    },
+    {
+     "lang": "lat",
+     "text": "Bacchi"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nletztere werden nur in dem Meere gefangen, und sei so vorzüglicher\nals die ersteren*). Die "
+    },
+    {
+     "lang": "lat",
+     "text": "Aselli"
+    },
+    {
+     "lang": "deu",
+     "text": " bilden das Geschlecht der Schell-\nfische. Der "
+    },
+    {
+     "lang": "lat",
+     "text": "Callarias"
+    },
+    {
+     "lang": "deu",
+     "text": " ist der Dorsch (bei Linné: "
+    },
+    {
+     "lang": "lat",
+     "text": "Gadus Callarias"
+    },
+    {
+     "lang": "deu",
+     "text": "),\nder "
+    },
+    {
+     "lang": "lat",
+     "text": "Bacchus"
+    },
+    {
+     "lang": "deu",
+     "text": " ist der Kabeljau, welcher ebenso gefleckt und so gestal-\ntet wie der Dorsch, aber viel größer ist und eine Länge von 3 bis 3½\nFuß, eine Schwere von 70 bis 80 Pfund erlangt. Auch bei Aristo-\nteles ("
+    },
+    {
+     "lang": "lat",
+     "text": "l. c. 9, 25, 3"
+    },
+    {
+     "lang": "deu",
+     "text": ") heißt der Schellfisch und das ganze Geschlecht:\n"
+    },
+    {
+     "lang": "grc",
+     "text": "Ὄνος"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Die Schellfische haben Flossen und ganz kleine Schuppen\nund sind deshalb rein."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 350.\nDie Seeziege.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 350.\nDie Seeziege."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "עיזא דימא (B. batra 74, a). Hier wird erzählt: Einstmals gin-\ngen wir zu Schiff und sahen, einen Fisch, welcher den Kopf aus dem\nMeere hervorhob. Er hatte Hörner, worauf geschrieben stand: „Ich\nbin ein kleines Meergeschöpf.“ — Er war aber 300 Parsi (Meilen-\nmaß) lang und ging dennoch in den Mund des Walfisches. — Hier-\nauf sagte Rabbi Aschi: Dies war die עיזא דימא (Ziege des Meeres),\ndie Hörner hat und damit nach Nahrung gräbt. — Dieses Gemisch\nvon Fabel und Wahrheit hindert uns nicht die naturhistorischen Mo-\nmente zu sammeln, die hier allerdings leicht sich darbieten. Der Tal-\nmud denkt hier an ein Meerungethüm, das Hörner trägt. Nun giebt\nes mehrere Arten sogenannter Hornfische. Wir zählen sie der",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "עיזא דימא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "B. batra 74, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). Hier wird erzählt: Einstmals gin-\ngen wir zu Schiff und sahen, einen Fisch, welcher den Kopf aus dem\nMeere hervorhob. Er hatte Hörner, worauf geschrieben stand: „Ich\nbin ein kleines Meergeschöpf.“ — Er war aber 300 Parsi (Meilen-\nmaß) lang und ging dennoch in den Mund des Walfisches. — Hier-\nauf sagte Rabbi Aschi: Dies war die "
+    },
+    {
+     "lang": "heb",
+     "text": "עיזא דימא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Ziege des Meeres),\ndie Hörner hat und damit nach Nahrung gräbt. — Dieses Gemisch\nvon Fabel und Wahrheit hindert uns nicht die naturhistorischen Mo-\nmente zu sammeln, die hier allerdings leicht sich darbieten. Der Tal-\nmud denkt hier an ein Meerungethüm, das Hörner trägt. Nun giebt\nes mehrere Arten sogenannter Hornfische. Wir zählen sie der"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Asellorum duo genera callariae minores et bacchi, qui nonnisi in\nalto capiuntur, ideo praelati prioribus.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Asellorum duo genera callariae minores et bacchi, qui nonnisi in\nalto capiuntur, ideo praelati prioribus."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3256,
+    2788
+   ],
+   [
+    3256,
+    2464
+   ]
+  ],
+  "input_tokens": 3347,
+  "output_tokens": 1137,
+  "cost_usd": 0.0068,
+  "seconds": 7.6
+ }
+}

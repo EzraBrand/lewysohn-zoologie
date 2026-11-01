@@ -1,0 +1,349 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "164\t\tDer Sperber. — Der Habicht.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "164\t\tDer Sperber. — Der Habicht."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 190.\nDer Sperber.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 190.\nDer Sperber."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "נץ (Chulin 42, a und 63, a). Raschi erklärt es sowohl hier,\nwie auch zu Lev. 11, 16 durch אישפרויר, Épervier, Sperber. In-\ndessen hat eine Handschrift des Raschicommentars zu jener Bibelstelle\nאושטור, Astur, Habicht; auch behaupten die Tosephot (Chulin 63,\na. s. v. נץ), daß נץ nicht Sperber bedeuten kann, und beachten wir\nferner, daß Bochart (Hieroz. P. II. lib. II. c. 14, col. 245) נץ durch\nAccipiter, die LXX durch Ἱέραξ, Winer (R. Wb. s. v.) durch\nHabicht und ebenso Rosenmüller (Bibl. Alterth. 4 Bd. 2. Abth.\nS. 304) übersetzt, so kann, da das gr. und lat. Wort die ganze Gat-\ntung der kleinen hartschwingigen Raubvögel bezeichnet, und zwar\ndiejenige, welche vier bloße Zehen, krumme Klauen und einen ge-\nkrümmten Schnabel haben, die sogenannte Gattung der Stößer,\nauch das Wort נץ genereller Namen für Habicht, Sperber,\nFalken sein, wodurch zugleich jene gedachten Varianten in Raschi sich\nerklären lassen. Nur in einer Stelle (Chulin 42, a) stellt Raschi den\nHabicht dem Sperber entgegen, so das נץ nur Sperber bedeutet;\nüber diese Stelle handelt der folgende Artikel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "נץ"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 42, a und 63, a). Raschi erklärt es sowohl hier,\nwie auch zu Lev. 11, 16 durch "
+    },
+    {
+     "lang": "heb",
+     "text": "אישפרויר"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Épervier"
+    },
+    {
+     "lang": "deu",
+     "text": ", Sperber. In-\ndessen hat eine Handschrift des Raschicommentars zu jener Bibelstelle\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אושטור"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "Astur"
+    },
+    {
+     "lang": "deu",
+     "text": ", Habicht; auch behaupten die Tosephot (Chulin 63,\na. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "נץ"
+    },
+    {
+     "lang": "deu",
+     "text": "), daß "
+    },
+    {
+     "lang": "heb",
+     "text": "נץ"
+    },
+    {
+     "lang": "deu",
+     "text": " nicht Sperber bedeuten kann, und beachten wir\nferner, daß Bochart (Hieroz. P. II. lib. II. c. 14, col. 245) "
+    },
+    {
+     "lang": "heb",
+     "text": "נץ"
+    },
+    {
+     "lang": "deu",
+     "text": " durch\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Accipiter"
+    },
+    {
+     "lang": "deu",
+     "text": ", die LXX durch "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἱέραξ"
+    },
+    {
+     "lang": "deu",
+     "text": ", Winer (R. Wb. s. v.) durch\nHabicht und ebenso Rosenmüller (Bibl. Alterth. 4 Bd. 2. Abth.\nS. 304) übersetzt, so kann, da das gr. und lat. Wort die ganze Gat-\ntung der kleinen hartschwingigen Raubvögel bezeichnet, und zwar\ndiejenige, welche vier bloße Zehen, krumme Klauen und einen ge-\nkrümmten Schnabel haben, die sogenannte Gattung der Stößer,\nauch das Wort "
+    },
+    {
+     "lang": "heb",
+     "text": "נץ"
+    },
+    {
+     "lang": "deu",
+     "text": " genereller Namen für Habicht, Sperber,\nFalken sein, wodurch zugleich jene gedachten Varianten in Raschi sich\nerklären lassen. Nur in einer Stelle (Chulin 42, a) stellt Raschi den\nHabicht dem Sperber entgegen, so das "
+    },
+    {
+     "lang": "heb",
+     "text": "נץ"
+    },
+    {
+     "lang": "deu",
+     "text": " nur Sperber bedeutet;\nüber diese Stelle handelt der folgende Artikel."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 191.\nDer Habicht.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 191.\nDer Habicht."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 42, a heißt es: Der נץ würgt kleines, der נם großes\nGeflügel, was Raschi erklärend erweitert: Der Sperber würgt Sper-\nlinge und Tauben, der נם, d. i. אוסטוייר (ital. Astore), Habicht\nhingegen würgt Hühner und Gänse. — Aruch liest jedoch נז für נם\nund erklärt es durch Eule, oder Falken. Mussaphia verweist auf\nJonathan, der Lev. 11, 13 עזניה durch בר נזא*) übersetzt; allein\nעזניה ist eine Adlerart, vergl. §. 194. — Auch die Selicha zum zwei-\nten der 10 Bußtage (angef. in den Tos. Chulin ibid. s. v. דריסה)\nliest: מדרס נז ונץ; Jesaias Pick liest aber in letzterer Stelle: מדרס נם\nוהנז und versteht unter נז den Falken und unter נם den Geier,\nweshalb Fürstenthal in seinem Selichothcommentar in obiger\nRaschistelle וואטור (Vauture) für אוסטוייר liest; allein der Geier hat",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 42, a heißt es: Der "
+    },
+    {
+     "lang": "heb",
+     "text": "נץ"
+    },
+    {
+     "lang": "deu",
+     "text": " würgt kleines, der "
+    },
+    {
+     "lang": "heb",
+     "text": "נם"
+    },
+    {
+     "lang": "deu",
+     "text": " großes\nGeflügel, was Raschi erklärend erweitert: Der Sperber würgt Sper-\nlinge und Tauben, der "
+    },
+    {
+     "lang": "heb",
+     "text": "נם"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i. "
+    },
+    {
+     "lang": "heb",
+     "text": "אוסטוייר"
+    },
+    {
+     "lang": "deu",
+     "text": " (ital. "
+    },
+    {
+     "lang": "ita",
+     "text": "Astore"
+    },
+    {
+     "lang": "deu",
+     "text": "), Habicht\nhingegen würgt Hühner und Gänse. — Aruch liest jedoch "
+    },
+    {
+     "lang": "heb",
+     "text": "נז"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "heb",
+     "text": "נם"
+    },
+    {
+     "lang": "deu",
+     "text": "\nund erklärt es durch Eule, oder Falken. Mussaphia verweist auf\nJonathan, der Lev. 11, 13 "
+    },
+    {
+     "lang": "heb",
+     "text": "עזניה"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "heb",
+     "text": "בר נזא"
+    },
+    {
+     "lang": "deu",
+     "text": "*) übersetzt; allein\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עזניה"
+    },
+    {
+     "lang": "deu",
+     "text": " ist eine Adlerart, vergl. §. 194. — Auch die Selicha zum zwei-\nten der 10 Bußtage (angef. in den Tos. Chulin ibid. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "דריסה"
+    },
+    {
+     "lang": "deu",
+     "text": ")\nliest: "
+    },
+    {
+     "lang": "heb",
+     "text": "מדרס נז ונץ"
+    },
+    {
+     "lang": "deu",
+     "text": "; Jesaias Pick liest aber in letzterer Stelle: "
+    },
+    {
+     "lang": "heb",
+     "text": "מדרס נם"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "והנז"
+    },
+    {
+     "lang": "deu",
+     "text": " und versteht unter "
+    },
+    {
+     "lang": "heb",
+     "text": "נז"
+    },
+    {
+     "lang": "deu",
+     "text": " den Falken und unter "
+    },
+    {
+     "lang": "heb",
+     "text": "נם"
+    },
+    {
+     "lang": "deu",
+     "text": " den Geier,\nweshalb Fürstenthal in seinem Selichothcommentar in obiger\nRaschistelle "
+    },
+    {
+     "lang": "heb",
+     "text": "וואטור"
+    },
+    {
+     "lang": "deu",
+     "text": " (Vauture) für "
+    },
+    {
+     "lang": "heb",
+     "text": "אוסטוייר"
+    },
+    {
+     "lang": "deu",
+     "text": " liest; allein der Geier hat"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "In Midr. Jalk. Schim. 2. Th. fol. 114, d ist wohl בר נזין für בר וגין\nzu lesen.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In Midr. Jalk. Schim. 2. Th. fol. 114, d ist wohl "
+    },
+    {
+     "lang": "heb",
+     "text": "בר נזין"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "heb",
+     "text": "בר וגין"
+    },
+    {
+     "lang": "deu",
+     "text": "\nzu lesen."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2771
+   ],
+   [
+    3308,
+    2437
+   ]
+  ],
+  "input_tokens": 3309,
+  "output_tokens": 2394,
+  "cost_usd": 0.0115,
+  "seconds": 13.8
+ }
+}

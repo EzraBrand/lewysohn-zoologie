@@ -1,0 +1,321 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "372",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "372"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Anhang.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Anhang."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "samkeit mag ihnen den Namen תנין und hierfür ירוראא zugezogen\nhaben; beide Namen dienen zur Bezeichnung grausamer und unge-\nheurer Thiere (s. §. 299).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "samkeit mag ihnen den Namen "
+    },
+    {
+     "lang": "arc",
+     "text": "תנין"
+    },
+    {
+     "lang": "deu",
+     "text": " und hierfür "
+    },
+    {
+     "lang": "arc",
+     "text": "ירוראא"
+    },
+    {
+     "lang": "deu",
+     "text": " zugezogen\nhaben; beide Namen dienen zur Bezeichnung grausamer und unge-\nheurer Thiere (s. §. 299)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "ירודות. Im jerus. Talm. Kilajim C. 8. H. 5 wird gesagt, daß\ndie ירודות und die Strauße (נעמית) in allen rituellen Beziehungen\nals Vögel zu betrachten sind. Vergl. wir hierzu die chaldäische Ueber-\nsetzung von תנים ובנות יענה (Jes. 43, 20) durch ירודין ובנת נעמין, so\nist offenbar unser ירודות und תנים identisch. Wir haben auch §. 299\ngesehen, wie Raschi תנין als einen Vogel, der stets ächzt und weh-\nklagt, erklärt, und die Zusammenstellung mit dem Straußvogel be-\nstärkt uns in unserer daselbst geäußerten Vermuthung, daß unter\nיארוד die Adlerart Perknopterus zu verstehen sei. Aristoteles\n(Thierg. 9, 22, 2) schildert sie also: Dieser Vogel hat einen weißen\nKopf und ist der größte von allen Adlerarten, hat kurze Flügel\nund einen langen Schwanz; er gleicht dem Geier und führt auch\nden Namen Ὀρειπελαργός (Bergstorch) und Γυπαιετός (Geieradler),\nwohnt in Hainen und hat alle üble Eigenschaften von jenen, aber",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "ירודות"
+    },
+    {
+     "lang": "deu",
+     "text": ". Im jerus. Talm. "
+    },
+    {
+     "lang": "lat",
+     "text": "Kilajim C. 8. H. 5"
+    },
+    {
+     "lang": "deu",
+     "text": " wird gesagt, daß\ndie "
+    },
+    {
+     "lang": "arc",
+     "text": "ירודות"
+    },
+    {
+     "lang": "deu",
+     "text": " und die Strauße ("
+    },
+    {
+     "lang": "arc",
+     "text": "נעמית"
+    },
+    {
+     "lang": "deu",
+     "text": ") in allen rituellen Beziehungen\nals Vögel zu betrachten sind. Vergl. wir hierzu die chaldäische Ueber-\nsetzung von "
+    },
+    {
+     "lang": "arc",
+     "text": "תנים ובנות יענה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Jes. 43, 20) durch "
+    },
+    {
+     "lang": "arc",
+     "text": "ירודין ובנת נעמין"
+    },
+    {
+     "lang": "deu",
+     "text": ", so\nist offenbar unser "
+    },
+    {
+     "lang": "arc",
+     "text": "ירודות"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "arc",
+     "text": "תנים"
+    },
+    {
+     "lang": "deu",
+     "text": " identisch. Wir haben auch §. 299\ngesehen, wie Raschi "
+    },
+    {
+     "lang": "arc",
+     "text": "תנין"
+    },
+    {
+     "lang": "deu",
+     "text": " als einen Vogel, der stets ächzt und weh-\nklagt, erklärt, und die Zusammenstellung mit dem Straußvogel be-\nstärkt uns in unserer daselbst geäußerten Vermuthung, daß unter\n"
+    },
+    {
+     "lang": "arc",
+     "text": "יארוד"
+    },
+    {
+     "lang": "deu",
+     "text": " die Adlerart Perknopterus zu verstehen sei. Aristoteles\n(Thierg. 9, 22, 2) schildert sie also: Dieser Vogel hat einen weißen\nKopf und ist der größte von allen Adlerarten, hat kurze Flügel\nund einen langen Schwanz; er gleicht dem Geier und führt auch\nden Namen "
+    },
+    {
+     "lang": "grc",
+     "text": "Ὀρειπελαργός"
+    },
+    {
+     "lang": "deu",
+     "text": " (Bergstorch) und "
+    },
+    {
+     "lang": "grc",
+     "text": "Γυπαιετός"
+    },
+    {
+     "lang": "deu",
+     "text": " (Geieradler),\nwohnt in Hainen und hat alle üble Eigenschaften von jenen, aber"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "keine ihrer guten; denn Raben und andere Vögel fangen und ver-\nfolgen ihn. Er ist nämlich schwerfällig, weiß sich daher nicht gut\nzu nähren, trägt sich mit Aas herum und schreit und wehklagt, wenn\ner hungert. — Die Eigenschaft seiner Größe und die Kürze seiner\nFlügel erklären seine Zusammenstellung mit dem Strauß, und des\ngedachten Wehklagens wird, wie erwähnt, auch von Raschi gedacht.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "keine ihrer guten; denn Raben und andere Vögel fangen und ver-\nfolgen ihn. Er ist nämlich schwerfällig, weiß sich daher nicht gut\nzu nähren, trägt sich mit Aas herum und schreit und wehklagt, wenn\ner hungert. — Die Eigenschaft seiner Größe und die Kürze seiner\nFlügel erklären seine Zusammenstellung mit dem Strauß, und des\ngedachten Wehklagens wird, wie erwähnt, auch von Raschi gedacht."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "heb",
+   "text": "סיליי s. כילוי.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "סיליי"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "כילוי"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "heb",
+   "text": "ארי נמירון s. כלב אגריון.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ארי נמירון"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "כלב אגריון"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "כלך, welches wir oben (§. 509) als die Floretseide erklärten,\nwird im jerus. Talm. (Sabbat C. 2. fol. 4, c) durch יאנבון קיסריי\nerklärt: Ascheri zu Kilajim 9, 2 hat אצבין קסרי und erklärt es\nals eine Wollenart, welche im Mittelmeer auf Steinen wachsend sich\nfindet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "כלך"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches wir oben (§. 509) als die Floretseide erklärten,\nwird im jerus. Talm. (Sabbat C. 2. fol. 4, c) durch "
+    },
+    {
+     "lang": "arc",
+     "text": "יאנבון קיסריי"
+    },
+    {
+     "lang": "deu",
+     "text": "\nerklärt: Ascheri zu Kilajim 9, 2 hat "
+    },
+    {
+     "lang": "arc",
+     "text": "אצבין קסרי"
+    },
+    {
+     "lang": "deu",
+     "text": " und erklärt es\nals eine Wollenart, welche im Mittelmeer auf Steinen wachsend sich\nfindet."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "כלכיד. Im jerus. Talm. (Nedarim C. 6, H. 2) wird gesagt, daß\nwenn Jemand ein Gelübde thut keine דגה (Gefisch, collectiv) zu ge-\nnießen, so ist ihm bloß der Fisch כלכיד zu essen verboten. — Es geht\nhieraus hervor, daß dieser kleine (wie es dort ausdrücklich heißt)\nFisch in Menge, nicht aber einzeln verkauft zu werden pflegte. Es\nwird hinzugefügt: Sagt Jemand zu einem Andern: kaufe mir einen\nFisch, so wird der Andere gewiß keinen כלכיד darunter verstehen. —\nEs wird dies wohl die kleine Häringsart Χαλκίς sein, welche bei",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "כלכיד"
+    },
+    {
+     "lang": "deu",
+     "text": ". Im jerus. Talm. (Nedarim C. 6, H. 2) wird gesagt, daß\nwenn Jemand ein Gelübde thut keine "
+    },
+    {
+     "lang": "heb",
+     "text": "דגה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Gefisch, collectiv) zu ge-\nnießen, so ist ihm bloß der Fisch "
+    },
+    {
+     "lang": "heb",
+     "text": "כלכיד"
+    },
+    {
+     "lang": "deu",
+     "text": " zu essen verboten. — Es geht\nhieraus hervor, daß dieser kleine (wie es dort ausdrücklich heißt)\nFisch in Menge, nicht aber einzeln verkauft zu werden pflegte. Es\nwird hinzugefügt: Sagt Jemand zu einem Andern: kaufe mir einen\nFisch, so wird der Andere gewiß keinen "
+    },
+    {
+     "lang": "heb",
+     "text": "כלכיד"
+    },
+    {
+     "lang": "deu",
+     "text": " darunter verstehen. —\nEs wird dies wohl die kleine Häringsart "
+    },
+    {
+     "lang": "grc",
+     "text": "Χαλκίς"
+    },
+    {
+     "lang": "deu",
+     "text": " sein, welche bei"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2328
+   ],
+   [
+    3308,
+    2900
+   ]
+  ],
+  "input_tokens": 11282,
+  "output_tokens": 2193,
+  "cost_usd": 0.0445,
+  "seconds": 13.0
+ }
+}

@@ -1,0 +1,349 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "194",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "194"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Das Huhn.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Huhn."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "nach der einen waren es geschlachtete Vögel, deren Füße bis über\ndie Oberschenkel abgehackt waren, so daß der Rabbi nur noch an\nden Schenkeln die Reinheit der Vögel constatiren konnte. Hiernach\nhieße אינקורי so viel wie נקורי (wie auch Aruch liest) von נקר: ab-\ngestochen, abgebrochen; dahingegen lautet die andere Erklärung:\nובתשובת הגאונים מצאתי עוף שחור הוא ושל מים הוא ובמצחו חברבורות לבנות\nועל שם כך נקרא אינקורי שהוא מנומר כמו ניקוב פינטורה „In den Re-\nsponsen der Geonim fand ich, daß es ein schwarzer Wasservogel ist,\nan der Stirn hat er weiße Flecken und heißt deshalb אינקורי, da er\ngefleckt, so zu sagen, durchlöchert ist, in der Bedeutung von Pointure.“\n— Der weiße Fleck auf der Stirn bildet nämlich den Reflex der\nweißen Farbe auf schwarzem Grunde, und nimmt in der Ferne sich\nwie ein schwarzer durchlöcherter Gegenstand aus. — Nach dieser\nSchilderung hätten wir an die Kragenente (Anas histrionica)\nzu denken, sie ist schwarz mit bleigrauer Brust und hat in der Augen-\ngegend einen weißen Flecken. Voigt l. c. 2. S. 399.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "nach der einen waren es geschlachtete Vögel, deren Füße bis über\ndie Oberschenkel abgehackt waren, so daß der Rabbi nur noch an\nden Schenkeln die Reinheit der Vögel constatiren konnte. Hiernach\nhieße "
+    },
+    {
+     "lang": "heb",
+     "text": "אינקורי"
+    },
+    {
+     "lang": "deu",
+     "text": " so viel wie "
+    },
+    {
+     "lang": "heb",
+     "text": "נקורי"
+    },
+    {
+     "lang": "deu",
+     "text": " (wie auch Aruch liest) von "
+    },
+    {
+     "lang": "heb",
+     "text": "נקר"
+    },
+    {
+     "lang": "deu",
+     "text": ": ab-\ngestochen, abgebrochen; dahingegen lautet die andere Erklärung:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ובתשובת הגאונים מצאתי עוף שחור הוא ושל מים הוא ובמצחו חברבורות לבנות\nועל שם כך נקרא אינקורי שהוא מנומר כמו ניקוב פינטורה"
+    },
+    {
+     "lang": "deu",
+     "text": " „In den Re-\nsponsen der Geonim fand ich, daß es ein schwarzer Wasservogel ist,\nan der Stirn hat er weiße Flecken und heißt deshalb "
+    },
+    {
+     "lang": "heb",
+     "text": "אינקורי"
+    },
+    {
+     "lang": "deu",
+     "text": ", da er\ngefleckt, so zu sagen, durchlöchert ist, in der Bedeutung von "
+    },
+    {
+     "lang": "ita",
+     "text": "Pointure"
+    },
+    {
+     "lang": "deu",
+     "text": ".“\n— Der weiße Fleck auf der Stirn bildet nämlich den Reflex der\nweißen Farbe auf schwarzem Grunde, und nimmt in der Ferne sich\nwie ein schwarzer durchlöcherter Gegenstand aus. — Nach dieser\nSchilderung hätten wir an die Kragenente (Anas histrionica)\nzu denken, sie ist schwarz mit bleigrauer Brust und hat in der Augen-\ngegend einen weißen Flecken. Voigt l. c. 2. S. 399."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 246.\nDas Huhn.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 246.\nDas Huhn."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Masc. תרנגול und תרנגולא (Beza 25, b), pl. תרנגולין (B. Kama\n17, a), ferner שכוי (R. ha-Schana 26, a), נרנול (Sanhedrin 63, b)\nund גבר (Joma 20, b). — Die Henne heißt תרנגולת (Beza 2, a),\nגברית (Sabbat 67, b*) und wird von Einigen סכות genannt (San-\nhedrin 63, b). Unrichtig ist die Erklärung des Lehrers Raschi's (Gittin\n69, b), daß חמימתא die Henne heißt, vergl. §. 255. — Die Gluckhenne\nheißt וגזא (Bechoroth 8, b). Sie heißt ferner ihres Schreiens\nwegen: פחיא (so viel wie פעיא von פעה, Beza 7, a). Gemästete\nHühner: בַּרְבּוּרִים אבוסים (B. mez. 86, b**). Das Küchlein heißt:\nרצוצא (§. 1).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Masc. "
+    },
+    {
+     "lang": "arc",
+     "text": "תרנגול"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "arc",
+     "text": "תרנגולא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Beza 25, b), pl. "
+    },
+    {
+     "lang": "arc",
+     "text": "תרנגולין"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. Kama\n17, a), ferner "
+    },
+    {
+     "lang": "heb",
+     "text": "שכוי"
+    },
+    {
+     "lang": "deu",
+     "text": " (R. ha-Schana 26, a), "
+    },
+    {
+     "lang": "arc",
+     "text": "נרנול"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sanhedrin 63, b)\nund "
+    },
+    {
+     "lang": "heb",
+     "text": "גבר"
+    },
+    {
+     "lang": "deu",
+     "text": " (Joma 20, b). — Die Henne heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "תרנגולת"
+    },
+    {
+     "lang": "deu",
+     "text": " (Beza 2, a),\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גברית"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 67, b*) und wird von Einigen "
+    },
+    {
+     "lang": "arc",
+     "text": "סכות"
+    },
+    {
+     "lang": "deu",
+     "text": " genannt (San-\nhedrin 63, b). Unrichtig ist die Erklärung des Lehrers Raschi's (Gittin\n69, b), daß "
+    },
+    {
+     "lang": "arc",
+     "text": "חמימתא"
+    },
+    {
+     "lang": "deu",
+     "text": " die Henne heißt, vergl. §. 255. — Die Gluckhenne\nheißt "
+    },
+    {
+     "lang": "arc",
+     "text": "וגזא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Bechoroth 8, b). Sie heißt ferner ihres Schreiens\nwegen: "
+    },
+    {
+     "lang": "arc",
+     "text": "פחיא"
+    },
+    {
+     "lang": "deu",
+     "text": " (so viel wie "
+    },
+    {
+     "lang": "arc",
+     "text": "פעיא"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "arc",
+     "text": "פעה"
+    },
+    {
+     "lang": "deu",
+     "text": ", Beza 7, a). Gemästete\nHühner: "
+    },
+    {
+     "lang": "heb",
+     "text": "בַּרְבּוּרִים אבוסים"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. mez. 86, b**). Das Küchlein heißt:\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רצוצא"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 1)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "In Bezug auf das menschliche Weib soll nach Midr. R. (Bereschit fol.\n21, col. 1) die Benennung גברתא ungebräuchlich sein. — גבר und דיכרי §. 151\nbezeichnen die besondere Mannbarkeit des Thieres (Geiger: Zur Mischnah.\n2. Th. S. 106). Der Name שכוי war ein Provinzialism in der Landschaft\nקן נשרייא (R. ha-Schana l. l.), nach Jeruschalmi (Berachoth 13, c) war jener\nName in רומי gebräuchlich; man vergl. überhaupt die citirten Stellen beider Tal-\nmude, die in geographischer Beziehung außerordentlich von einander abweichen.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In Bezug auf das menschliche Weib soll nach Midr. R. (Bereschit fol.\n21, col. 1) die Benennung "
+    },
+    {
+     "lang": "arc",
+     "text": "גברתא"
+    },
+    {
+     "lang": "deu",
+     "text": " ungebräuchlich sein. — "
+    },
+    {
+     "lang": "arc",
+     "text": "גבר"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "arc",
+     "text": "דיכרי"
+    },
+    {
+     "lang": "deu",
+     "text": " §. 151\nbezeichnen die besondere Mannbarkeit des Thieres (Geiger: Zur Mischnah.\n2. Th. S. 106). Der Name "
+    },
+    {
+     "lang": "heb",
+     "text": "שכוי"
+    },
+    {
+     "lang": "deu",
+     "text": " war ein Provinzialism in der Landschaft\n"
+    },
+    {
+     "lang": "arc",
+     "text": "קן נשרייא"
+    },
+    {
+     "lang": "deu",
+     "text": " (R. ha-Schana l. l.), nach Jeruschalmi (Berachoth 13, c) war jener\nName in "
+    },
+    {
+     "lang": "heb",
+     "text": "רומי"
+    },
+    {
+     "lang": "deu",
+     "text": " gebräuchlich; man vergl. überhaupt die citirten Stellen beider Tal-\nmude, die in geographischer Beziehung außerordentlich von einander abweichen."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Fürst leitet das Wort von بَرْبَرَ „schreien“ ab, davon بُرْبُرٌ Gans;\nAndere verstehen darunter den Schwan; der Midr. R. (Kohelet fol. 88, col. 1)",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fürst leitet das Wort von "
+    },
+    {
+     "lang": "ara",
+     "text": "بَرْبَرَ"
+    },
+    {
+     "lang": "deu",
+     "text": " „schreien“ ab, davon "
+    },
+    {
+     "lang": "ara",
+     "text": "بُرْبُرٌ"
+    },
+    {
+     "lang": "deu",
+     "text": " Gans;\nAndere verstehen darunter den Schwan; der Midr. R. (Kohelet fol. 88, col. 1)"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2190
+   ],
+   [
+    3308,
+    3018
+   ]
+  ],
+  "input_tokens": 3357,
+  "output_tokens": 1473,
+  "cost_usd": 0.008,
+  "seconds": 11.3
+ }
+}

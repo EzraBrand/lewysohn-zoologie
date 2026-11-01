@@ -1,0 +1,137 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "200",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "200"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Fortsetzung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fortsetzung."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "הדרסיאות gelesen (wobei man vielleicht an den südlichen, von Dru-\nsen bewohnten Theil des Libanongebirges zu denken habe vergl.\nSchwarz: חוצאות הארץ pag. 6), oder als Personenname nach dem\nKönige Herodes (Chulin 139, b). Derselbe soll, wie Maimuni\n(Chulin 12, 1) sagt, zuerst es versucht haben, Tauben zu domestici-\nren*). — Es ist somit diese letztre Taube im eigentlichsten Sinne\ndie Haustaube (Columba domestica) und unterscheidet sich ferner\nauch darin von den beiden ersteren Arten, daß sie sich wegen der\nDressirung leichter fangen läßt, während jene im Taubenschlage,\noder im Neste herumflattern und weniger leicht sich greifen lassen\n(Beza 24, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "הדרסיאות"
+    },
+    {
+     "lang": "deu",
+     "text": " gelesen (wobei man vielleicht an den südlichen, von Dru-\nsen bewohnten Theil des Libanongebirges zu denken habe vergl.\nSchwarz: "
+    },
+    {
+     "lang": "heb",
+     "text": "חוצאות הארץ"
+    },
+    {
+     "lang": "deu",
+     "text": " pag. 6), oder als Personenname nach dem\nKönige Herodes (Chulin 139, b). Derselbe soll, wie Maimuni\n(Chulin 12, 1) sagt, zuerst es versucht haben, Tauben zu domestici-\nren*). — Es ist somit diese letztre Taube im eigentlichsten Sinne\ndie Haustaube (Columba domestica) und unterscheidet sich ferner\nauch darin von den beiden ersteren Arten, daß sie sich wegen der\nDressirung leichter fangen läßt, während jene im Taubenschlage,\noder im Neste herumflattern und weniger leicht sich greifen lassen\n(Beza 24, a)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 249.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 249."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "(Fortsetzung). An einigen Stellen werden Tauben und\nRaben als Gegensätze aufgestellt. In Meharaba gab es zwei Fa-\nmilien, eine hieß: בי יונה (Haus der Taube), die andere: בי עורבתי\n(Haus des Raben); die erstre genoß Achtung, die andere fiel der\nVerachtung anheim (Kiduschin 70, b). Ferner wird erzählt: Es\ngab einen Mann, welcher der Vögelsprache kundig war; er gerieth\nin Gefangenschaft und vernahm eines Tages das Rufen eines\nRaben: „Ilisch, Ilisch fliehe, fliehe!“. Ilisch, so hieß jener Mann,\naber sagte: „Ich glaube dem Lügenvogel nicht.“ — Da kam eine\nTaube und rief ihm ebenfalls jene Worte zu, da sprach Ilisch:\n„Dem Vogel glaube ich, denn Israel wird mit der Taube vergli-\nchen“ (Gittin 45, a). Ueber das Sprachvermögen der Thiere han-\ndelt §. 39; hier entnehmen wir den beiden Talmudstellen nur das\nMoment, daß der Rabe listig und diebisch, die Taube hingegen sanft\nund milde ist, und der Midrasch ist es besonders, der die Vergleichung\nIsraels mit der Taube reichlich ausbeutet, von den vielen Stellen\nverweisen wir nur auf Midr. Rabba Schir ha-Schirim fol. 12,\ncol. 4.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "(Fortsetzung). An einigen Stellen werden Tauben und\nRaben als Gegensätze aufgestellt. In Meharaba gab es zwei Fa-\nmilien, eine hieß: "
+    },
+    {
+     "lang": "heb",
+     "text": "בי יונה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Haus der Taube), die andere: "
+    },
+    {
+     "lang": "heb",
+     "text": "בי עורבתי"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Haus des Raben); die erstre genoß Achtung, die andere fiel der\nVerachtung anheim (Kiduschin 70, b). Ferner wird erzählt: Es\ngab einen Mann, welcher der Vögelsprache kundig war; er gerieth\nin Gefangenschaft und vernahm eines Tages das Rufen eines\nRaben: „Ilisch, Ilisch fliehe, fliehe!“. Ilisch, so hieß jener Mann,\naber sagte: „Ich glaube dem Lügenvogel nicht.“ — Da kam eine\nTaube und rief ihm ebenfalls jene Worte zu, da sprach Ilisch:\n„Dem Vogel glaube ich, denn Israel wird mit der Taube vergli-\nchen“ (Gittin 45, a). Ueber das Sprachvermögen der Thiere han-\ndelt §. 39; hier entnehmen wir den beiden Talmudstellen nur das\nMoment, daß der Rabe listig und diebisch, die Taube hingegen sanft\nund milde ist, und der Midrasch ist es besonders, der die Vergleichung\nIsraels mit der Taube reichlich ausbeutet, von den vielen Stellen\nverweisen wir nur auf Midr. Rabba Schir ha-Schirim fol. 12,\ncol. 4."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Taube wird am meisten von anderen Vögeln verfolgt,\nwährend sie selbst keinem andern ein Leid zufügt; aber gerade des-\nhalb wird sie, ein Bild stiller Sanftmuth, unter allen Vögeln ge-\nwürdigt zum Opfer gewählt zu werden (B. Kama 93, a), und sie",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Taube wird am meisten von anderen Vögeln verfolgt,\nwährend sie selbst keinem andern ein Leid zufügt; aber gerade des-\nhalb wird sie, ein Bild stiller Sanftmuth, unter allen Vögeln ge-\nwürdigt zum Opfer gewählt zu werden (B. Kama 93, a), und sie"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "So benannte man die Stiere und Schafe, mit deren Zucht Pyrrhus\nsich beschäftigte: Pyrrhische Stiere, Pyrrhische Schafe (Aristoteles\nl. c. 3, 16, 7).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "So benannte man die Stiere und Schafe, mit deren Zucht Pyrrhus\nsich beschäftigte: Pyrrhische Stiere, Pyrrhische Schafe (Aristoteles\nl. c. 3, 16, 7)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3304,
+    2112
+   ],
+   [
+    3304,
+    2988
+   ]
+  ],
+  "input_tokens": 11336,
+  "output_tokens": 1473,
+  "cost_usd": 0.0374,
+  "seconds": 11.4
+ }
+}

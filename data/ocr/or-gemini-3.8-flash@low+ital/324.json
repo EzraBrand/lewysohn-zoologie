@@ -1,0 +1,213 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "324\tDie Walfischlaus. — Die Kopflaus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "324\tDie Walfischlaus. — Die Kopflaus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "zum Fortbewegen hat, kann um so weniger unter מרבה רגלים begrif-\nfen sein.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "zum Fortbewegen hat, kann um so weniger unter "
+    },
+    {
+     "lang": "heb",
+     "text": "מרבה רגלים"
+    },
+    {
+     "lang": "deu",
+     "text": " begrif-\nfen sein."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 448.\nDie Walfischlaus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 448.\nDie Walfischlaus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Walfischlaus, auch Walfischassel (Cyamus Ceti, Voigt\nl. c. 4. S. 61) heißt im Talmud אכלא טונא. Das erste Wort heißt\n„saugen“, welche, Grundbedeutung das häufig vorkommende מאכולת\n(Laus, §. 449) hat, und טינא heißt „Leidenschaft“ (Sanhedrin 75, a),\nund so heißt אכלא טונא die leidenschaftliche Laus; sie beißt sich\nsehr fest an den weichen Stellen des Walfisches, besonders an den\nAchseln der Flossen, oder in der Nähe der Geschlechtstheile und berei-\ntet dem Thiere eine empfindliche Plage (Voigt l. c. und Beumer a.\na. O. S. 350). Unser Insect wird in folgender Fabel erwähnt: Wir\ngingen einst zu Schiff und sahen einen Fisch, dem ein אכלא טונא im\nNasenloch saß, hierauf ward der Fisch getödtet und vom Wasser ans\nUfer geworfen, in Folge dessen gingen 60 Städte zu Grunde, andere\n60 Städte aßen von ihm <i>c. c.</i> (B. batra 73, b). Der Glossator\nund Bochart identificiren unser Insect mit כילבית (Sabbat 77, b);\nallein wir haben früher nachgewiesen, daß in unserer Stelle der Wal-\nfisch (§. 179) gemeint, und daß כילבית (§. 357) der Stachelfisch ist.\nFreilich übertreibt die Fabel ebenso die Größe des Walfisches, als sie\nauch darin irrt, daß sie das Thier durch die Walfischlaus tödten läßt;\ndaß diese im Luftloche des Walfisches weilen kann, ist natürlich, we-\nnigstens möglich, da sie mit ihren Fußkrallen auch hier eine weiche\nStelle zum Festsetzen für sich findet. — Der Walfisch hat noch andere,\naber weniger quälende Parasiten, z. B. die Walfischspinne (Voigt\nl. c. 4. S. 170). — Ueber die Zahl 60 s. S. 320 Anm. **.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Walfischlaus, auch Walfischassel ("
+    },
+    {
+     "lang": "lat",
+     "text": "Cyamus Ceti"
+    },
+    {
+     "lang": "deu",
+     "text": ", Voigt\nl. c. 4. S. 61) heißt im Talmud "
+    },
+    {
+     "lang": "arc",
+     "text": "אכלא טונא"
+    },
+    {
+     "lang": "deu",
+     "text": ". Das erste Wort heißt\n„saugen“, welche, Grundbedeutung das häufig vorkommende "
+    },
+    {
+     "lang": "heb",
+     "text": "מאכולת"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Laus, §. 449) hat, und "
+    },
+    {
+     "lang": "arc",
+     "text": "טינא"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt „Leidenschaft“ (Sanhedrin 75, a),\nund so heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "אכלא טונא"
+    },
+    {
+     "lang": "deu",
+     "text": " die leidenschaftliche Laus; sie beißt sich\nsehr fest an den weichen Stellen des Walfisches, besonders an den\nAchseln der Flossen, oder in der Nähe der Geschlechtstheile und berei-\ntet dem Thiere eine empfindliche Plage (Voigt l. c. und Beumer a.\na. O. S. 350). Unser Insect wird in folgender Fabel erwähnt: Wir\ngingen einst zu Schiff und sahen einen Fisch, dem ein "
+    },
+    {
+     "lang": "arc",
+     "text": "אכלא טונא"
+    },
+    {
+     "lang": "deu",
+     "text": " im\nNasenloch saß, hierauf ward der Fisch getödtet und vom Wasser ans\nUfer geworfen, in Folge dessen gingen 60 Städte zu Grunde, andere\n60 Städte aßen von ihm <i>c. c.</i> (B. batra 73, b). Der Glossator\nund Bochart identificiren unser Insect mit "
+    },
+    {
+     "lang": "heb",
+     "text": "כילבית"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 77, b);\nallein wir haben früher nachgewiesen, daß in unserer Stelle der Wal-\nfisch (§. 179) gemeint, und daß "
+    },
+    {
+     "lang": "heb",
+     "text": "כילבית"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 357) der Stachelfisch ist.\nFreilich übertreibt die Fabel ebenso die Größe des Walfisches, als sie\nauch darin irrt, daß sie das Thier durch die Walfischlaus tödten läßt;\ndaß diese im Luftloche des Walfisches weilen kann, ist natürlich, we-\nnigstens möglich, da sie mit ihren Fußkrallen auch hier eine weiche\nStelle zum Festsetzen für sich findet. — Der Walfisch hat noch andere,\naber weniger quälende Parasiten, z. B. die Walfischspinne (Voigt\nl. c. 4. S. 170). — Ueber die Zahl 60 s. S. 320 Anm. **."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 449.\nDie Kopflaus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 449.\nDie Kopflaus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "כינה (Sabbat 12, a) und מאכולת (ibid.). Beide sind generelle\nNamen für die Kopf- und die Kleiderlaus. — Erst're heißt speciell\nמאכולת של ראש (Nidda 19, b) und כלמי (ibid. 20, b). Im Gegen-\nsatz zum Floh heißen beide Läusearten כינה רוחשת „gehend sich bewe-\ngendes Ungeziefer“ (Tos. Sabbat 12, a s. v. שמא).\nDieses ekelhafte Ungeziefer ist einer der plagendsten Feinde des\nMenschen, weshalb Jemand zu einem Andern sagte: „Tödte die Laus",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "כינה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 12, a) und "
+    },
+    {
+     "lang": "heb",
+     "text": "מאכולת"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid.). Beide sind generelle\nNamen für die Kopf- und die Kleiderlaus. — Erst're heißt speciell\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מאכולת של ראש"
+    },
+    {
+     "lang": "deu",
+     "text": " (Nidda 19, b) und "
+    },
+    {
+     "lang": "heb",
+     "text": "כלמי"
+    },
+    {
+     "lang": "deu",
+     "text": " (ibid. 20, b). Im Gegen-\nsatz zum Floh heißen beide Läusearten "
+    },
+    {
+     "lang": "heb",
+     "text": "כינה רוחשת"
+    },
+    {
+     "lang": "deu",
+     "text": " „gehend sich bewe-\ngendes Ungeziefer“ (Tos. Sabbat 12, a s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "שמא"
+    },
+    {
+     "lang": "deu",
+     "text": ").\nDieses ekelhafte Ungeziefer ist einer der plagendsten Feinde des\nMenschen, weshalb Jemand zu einem Andern sagte: „Tödte die Laus"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2085
+   ],
+   [
+    3308,
+    2955
+   ]
+  ],
+  "input_tokens": 3342,
+  "output_tokens": 1684,
+  "cost_usd": 0.0088,
+  "seconds": 10.9
+ }
+}

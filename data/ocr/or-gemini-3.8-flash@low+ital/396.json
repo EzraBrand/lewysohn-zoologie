@@ -1,0 +1,125 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "396\t\tDeutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "396"
+    },
+    {
+     "lang": "deu",
+     "text": "\t\tDeutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Krokodil 220.\nKropfgans 368.\nKropftaube 205.\nKukuk 215",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Krokodil 220.\nKropfgans 368.\nKropftaube 205.\nKukuk 215"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "L.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "L."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Lachs 248. 273.\nLandeidechse 225.\nLandigel 94.\nLandkrokodil 225.\nLatous 268. 273.\nLatus s. Latous.\nLaus 324—326.\nLeberegel 340.\nLeichenmade 339.\nLeopard 71.\nLerche 178.\nLeviathan s. Liviathan.\nLinsenwurm 310.\nLiviathan 355.\nLöwe 68.\nLöwenhündchen 86.\nLouva 174.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Lachs 248. 273.\nLandeidechse 225.\nLandigel 94.\nLandkrokodil 225.\nLatous 268. 273.\nLatus s. Latous.\nLaus 324—326.\nLeberegel 340.\nLeichenmade 339.\nLeopard 71.\nLerche 178.\nLeviathan s. Liviathan.\nLinsenwurm 310.\nLiviathan 355.\nLöwe 68.\nLöwenhündchen 86.\nLouva 174."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "M.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "M."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Mäna 278.\nMaikäfer 306.\nMakrele 251.\nMaltheserhündchen 86.\nMamberziege 31.\nMarder 89.\nMauerschwalbe 209.\nMaulesel 144.\nMaulthier 144.\nMaulthier, unbestimmtes 145.\nMaulwurf 101.\nMaulwurfsgrille 297.\nMaus 105. 345.\nMeeradler 167.\nMeeramsel 259.\nMeerfrauen 153.\nMeergans 368.\nMeerjungfer 153.\nMeerkatze 67.\nMeerkrabbe 294. 376.\nMeermänner 153.\nMeermönch 154.\nMeerpfau 268.\nMeerschwein 265.\nMeerspinne 376.\nMeerwiesel 92.\nMeerziege 271.\nMehlmilbe 312. 337.\nMehlwurm 308. 337.\nMendola 277.\nMiesmuschel 283.\nMilbe 310.\nMistkäfer 5.\nMönch 25.\nMolch 227.\nMücke 315.\nMücke, äthiopische 316.\nMuflon 122.\nMuräne 8. 264.\nMurmelthier 374.\nMuschel 374.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Mäna 278.\nMaikäfer 306.\nMakrele 251.\nMaltheserhündchen 86.\nMamberziege 31.\nMarder 89.\nMauerschwalbe 209.\nMaulesel 144.\nMaulthier 144.\nMaulthier, unbestimmtes 145.\nMaulwurf 101.\nMaulwurfsgrille 297.\nMaus 105. 345.\nMeeradler 167.\nMeeramsel 259.\nMeerfrauen 153.\nMeergans 368.\nMeerjungfer 153.\nMeerkatze 67.\nMeerkrabbe 294. 376.\nMeermänner 153.\nMeermönch 154.\nMeerpfau 268.\nMeerschwein 265.\nMeerspinne 376.\nMeerwiesel 92.\nMeerziege 271.\nMehlmilbe 312. 337.\nMehlwurm 308. 337.\nMendola 277.\nMiesmuschel 283.\nMilbe 310.\nMistkäfer 5.\nMönch 25.\nMolch 227.\nMücke 315.\nMücke, äthiopische 316.\nMuflon 122.\nMuräne 8. 264.\nMurmelthier 374.\nMuschel 374."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "N.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "N."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Nachteule 175.\nNachtreiher 170.\nNacktschnecke 279.\nNashorn 149.\nNatter 238.\nNebelkrähe 176.\nNilfisch 273.\nNilpferd 355.\nNonnat 269.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nachteule 175.\nNachtreiher 170.\nNacktschnecke 279.\nNashorn 149.\nNatter 238.\nNebelkrähe 176.\nNilfisch 273.\nNilpferd 355.\nNonnat 269."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2976,
+    3001
+   ],
+   [
+    2976,
+    2199
+   ]
+  ],
+  "input_tokens": 3318,
+  "output_tokens": 1131,
+  "cost_usd": 0.0067,
+  "seconds": 17.4
+ }
+}

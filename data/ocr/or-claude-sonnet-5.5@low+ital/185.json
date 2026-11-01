@@ -1,0 +1,233 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Eine Tölpelart. — Der Trappe. — Der Weintrinker. 185",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine Tölpelart. — Der Trappe. — Der Weintrinker."
+    },
+    {
+     "lang": "deu",
+     "text": " 185"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 229.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 229."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Eine Tölpelart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine Tölpelart."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 93, b wird gesagt: Der בטני (Tölpel §. 228) ist zu\nessen erlaubt, der Vogel בטנאי hingegen wird an manchen Orten zu\nessen gestattet, an manchen anderen Orten verboten. Da hier der\nVogel nicht absolut für unrein erklärt wird, so hat man nur an\ndie Verschiedenheit einer mehr, oder weniger rigorosen Observanz zu\ndenken, und während Einige den בטנאי als Abart des בטני, etwa\ndie rußbraune Gattung (Sula fusca) als rein hielten, erklärten ihn\nAndere für unrein, wie dies bei den verschiedenen Arten des Rohr-\nhuhns (§. 219) der Fall ist.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 93, b wird gesagt: Der "
+    },
+    {
+     "lang": "arc",
+     "text": "בטני"
+    },
+    {
+     "lang": "deu",
+     "text": " (Tölpel §. 228) ist zu\nessen erlaubt, der Vogel "
+    },
+    {
+     "lang": "arc",
+     "text": "בטנאי"
+    },
+    {
+     "lang": "deu",
+     "text": " hingegen wird an manchen Orten zu\nessen gestattet, an manchen anderen Orten verboten. Da hier der\nVogel nicht absolut für unrein erklärt wird, so hat man nur an\ndie Verschiedenheit einer mehr, oder weniger rigorosen Observanz zu\ndenken, und während Einige den "
+    },
+    {
+     "lang": "arc",
+     "text": "בטנאי"
+    },
+    {
+     "lang": "deu",
+     "text": " als Abart des "
+    },
+    {
+     "lang": "arc",
+     "text": "בטני"
+    },
+    {
+     "lang": "deu",
+     "text": ", etwa\ndie rußbraune Gattung (Sula fusca) als rein hielten, erklärten ihn\nAndere für unrein, wie dies bei den verschiedenen Arten des Rohr-\nhuhns (§. 219) der Fall ist."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 230.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 230."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Trappe.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Trappe."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 63, b wird neben בטנאי (§. 229) auch שקנאי erwähnt,\nwie jener wird auch dieser Vogel von Einigen gegessen, von Ande-\nren nicht. Wir haben schon früher (§. 201) שקי als Benennung\nder Füße der Vögel gesehen, vergl. auch §. 202 und hierzu die be-\ntreffende Talmudstelle, und so halten wir auch שקנאי von שק „Schen-\nkel“, womit der ganze Fuß bezeichnet wird. Der Trappe hat\nlange und starke Füße, und mag deshalb seinen Namen שקנאי er-\nhalten haben. — Einige essen ihn, weil er mit dem Truthahn Aehn-\nlichkeit hat und überhaupt von Einigen zu den hühnerartigen Vögeln\ngezählt wird; Andere hingegen stellten ihn wegen seiner dicken, star-\nken Füße eher in die Verwandtschaft der adlerartigen Vögel. Vgl.\ndie citirte Talmudstelle.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 63, b wird neben "
+    },
+    {
+     "lang": "arc",
+     "text": "בטנאי"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 229) auch "
+    },
+    {
+     "lang": "arc",
+     "text": "שקנאי"
+    },
+    {
+     "lang": "deu",
+     "text": " erwähnt,\nwie jener wird auch dieser Vogel von Einigen gegessen, von Ande-\nren nicht. Wir haben schon früher (§. 201) "
+    },
+    {
+     "lang": "heb",
+     "text": "שקי"
+    },
+    {
+     "lang": "deu",
+     "text": " als Benennung\nder Füße der Vögel gesehen, vergl. auch §. 202 und hierzu die be-\ntreffende Talmudstelle, und so halten wir auch "
+    },
+    {
+     "lang": "arc",
+     "text": "שקנאי"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "heb",
+     "text": "שק"
+    },
+    {
+     "lang": "deu",
+     "text": " „Schen-\nkel“, womit der ganze Fuß bezeichnet wird. Der Trappe hat\nlange und starke Füße, und mag deshalb seinen Namen "
+    },
+    {
+     "lang": "arc",
+     "text": "שקנאי"
+    },
+    {
+     "lang": "deu",
+     "text": " er-\nhalten haben. — Einige essen ihn, weil er mit dem Truthahn Aehn-\nlichkeit hat und überhaupt von Einigen zu den hühnerartigen Vögeln\ngezählt wird; Andere hingegen stellten ihn wegen seiner dicken, star-\nken Füße eher in die Verwandtschaft der adlerartigen Vögel. Vgl.\ndie citirte Talmudstelle."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 231.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 231."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Weintrinker.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Weintrinker."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "שהיא חמרא (Chulin 62, b), der zu essen verboten ist. Der\nName deutet auf einen Vogel, der die Weinfrucht ißt, vielleicht\ndie Weindrossel (Turdus iliacus), welche so heißt, weil sie Wein-\nbeeren in den Weinbergen stiehlt und ißt; indessen sei bemerkt, daß\ndie gemeine Drossel (§. 262) ein reiner Vogel ist, was übrigens\nnoch immer zuläßt einen andern Vogel desselben Geschlechtes als\nunrein zu erklären, vergl. §§. 219 und 229. — Vielleicht ist hier",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "שהיא חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 62, b), der zu essen verboten ist. Der\nName deutet auf einen Vogel, der die Weinfrucht ißt, vielleicht\ndie Weindrossel (Turdus iliacus), welche so heißt, weil sie Wein-\nbeeren in den Weinbergen stiehlt und ißt; indessen sei bemerkt, daß\ndie gemeine Drossel (§. 262) ein reiner Vogel ist, was übrigens\nnoch immer zuläßt einen andern Vogel desselben Geschlechtes als\nunrein zu erklären, vergl. §§. 219 und 229. — Vielleicht ist hier"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3272,
+    2008
+   ],
+   [
+    3272,
+    3012
+   ]
+  ],
+  "input_tokens": 11358,
+  "output_tokens": 1608,
+  "cost_usd": 0.0388,
+  "seconds": 10.9
+ }
+}

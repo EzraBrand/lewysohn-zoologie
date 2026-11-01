@@ -1,0 +1,361 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hebräisches und ara",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hebräisches und ara"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "כירצא חיוראֿ 339.\nכלב 82.\nכלב אנריון 369. 372.\nכלב המים 97.\nכלב כופרי 88.\nכלבא 68. 82.\nכלבית 275.\nכלבתא .\nכלביד 372.\nכלבית 275. 276. 277.\nכלמי 324.\nכניא 182.\nכנימה 311.\nכנף רננים 354.\nכספטיאם 259.\nכספתיאת 259.\nכפיר 68.\nכפשני 204.\nכפת הירדן 158.\nברוכא 296.\nכרוכיא 169.\nכרום 183.\nכרושתינא 102.\nכרכא 296.\nכרזי דבי חילפי 296.\nכרזי דבי קרבי 296.\nכרכושתא 91. 258.\nכרנבו 62.\nכרספת 291.\nכרשא 271.\nכשב .",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "כירצא חיוראֿ"
+    },
+    {
+     "lang": "deu",
+     "text": " 339.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כלב"
+    },
+    {
+     "lang": "deu",
+     "text": " 82.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כלב אנריון"
+    },
+    {
+     "lang": "deu",
+     "text": " 369. 372.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כלב המים"
+    },
+    {
+     "lang": "deu",
+     "text": " 97.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כלב כופרי"
+    },
+    {
+     "lang": "deu",
+     "text": " 88.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כלבא"
+    },
+    {
+     "lang": "deu",
+     "text": " 68. 82.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כלבית"
+    },
+    {
+     "lang": "deu",
+     "text": " 275.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כלבתא"
+    },
+    {
+     "lang": "deu",
+     "text": " .\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כלביד"
+    },
+    {
+     "lang": "deu",
+     "text": " 372.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כלבית"
+    },
+    {
+     "lang": "deu",
+     "text": " 275. 276. 277.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כלמי"
+    },
+    {
+     "lang": "deu",
+     "text": " 324.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כניא"
+    },
+    {
+     "lang": "deu",
+     "text": " 182.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כנימה"
+    },
+    {
+     "lang": "deu",
+     "text": " 311.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כנף רננים"
+    },
+    {
+     "lang": "deu",
+     "text": " 354.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כספטיאם"
+    },
+    {
+     "lang": "deu",
+     "text": " 259.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כספתיאת"
+    },
+    {
+     "lang": "deu",
+     "text": " 259.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כפיר"
+    },
+    {
+     "lang": "deu",
+     "text": " 68.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כפשני"
+    },
+    {
+     "lang": "deu",
+     "text": " 204.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כפת הירדן"
+    },
+    {
+     "lang": "deu",
+     "text": " 158.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ברוכא"
+    },
+    {
+     "lang": "deu",
+     "text": " 296.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כרוכיא"
+    },
+    {
+     "lang": "deu",
+     "text": " 169.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כרום"
+    },
+    {
+     "lang": "deu",
+     "text": " 183.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כרושתינא"
+    },
+    {
+     "lang": "deu",
+     "text": " 102.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כרכא"
+    },
+    {
+     "lang": "deu",
+     "text": " 296.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כרזי דבי חילפי"
+    },
+    {
+     "lang": "deu",
+     "text": " 296.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כרזי דבי קרבי"
+    },
+    {
+     "lang": "deu",
+     "text": " 296.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כרכושתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 91. 258.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כרנבו"
+    },
+    {
+     "lang": "deu",
+     "text": " 62.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כרספת"
+    },
+    {
+     "lang": "deu",
+     "text": " 291.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כרשא"
+    },
+    {
+     "lang": "deu",
+     "text": " 271.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כשב"
+    },
+    {
+     "lang": "deu",
+     "text": " ."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ל.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ל."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "לביא 68.\nלביה 68.\nלובדקים 142. 373.\nלויתן 155. 355.\nלוקום 81.\nלטאה 221.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "לביא"
+    },
+    {
+     "lang": "deu",
+     "text": " 68.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "לביה"
+    },
+    {
+     "lang": "deu",
+     "text": " 68.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "לובדקים"
+    },
+    {
+     "lang": "deu",
+     "text": " 142. 373.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "לויתן"
+    },
+    {
+     "lang": "deu",
+     "text": " 155. 355.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "לוקום"
+    },
+    {
+     "lang": "deu",
+     "text": " 81.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "לטאה"
+    },
+    {
+     "lang": "deu",
+     "text": " 221."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1732,
+    2849
+   ],
+   [
+    1732,
+    2347
+   ]
+  ],
+  "input_tokens": 11326,
+  "output_tokens": 1553,
+  "cost_usd": 0.0382,
+  "seconds": 10.3
+ }
+}

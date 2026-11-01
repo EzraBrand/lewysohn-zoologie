@@ -1,0 +1,777 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hebräisches und aramäisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hebräisches und aramäisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "דרה 347.\nדרכונא 241.\nדרן 307.\nדרנא 322.\nדרני דבישרא 318.\nדרני ראשה 317.\nדרקון 240.\nדרקונא 240.\nרשנא 289.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "דרה"
+    },
+    {
+     "lang": "deu",
+     "text": " 347.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דרכונא"
+    },
+    {
+     "lang": "deu",
+     "text": " 241.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דרן"
+    },
+    {
+     "lang": "deu",
+     "text": " 307.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דרנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 322.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דרני דבישרא"
+    },
+    {
+     "lang": "deu",
+     "text": " 318.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דרני ראשה"
+    },
+    {
+     "lang": "deu",
+     "text": " 317.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דרקון"
+    },
+    {
+     "lang": "deu",
+     "text": " 240.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "דרקונא"
+    },
+    {
+     "lang": "deu",
+     "text": " 240.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "רשנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 289."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ה.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ה."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "הה דרימוני 312.\nהון 135.\nהמיונס 144. 370.\nהמיסא 370.\nהרנגא 178.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "הה דרימוני"
+    },
+    {
+     "lang": "deu",
+     "text": " 312.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "הון"
+    },
+    {
+     "lang": "deu",
+     "text": " 135.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "המיונס"
+    },
+    {
+     "lang": "deu",
+     "text": " 144. 370.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "המיסא"
+    },
+    {
+     "lang": "deu",
+     "text": " 370.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "הרנגא"
+    },
+    {
+     "lang": "deu",
+     "text": " 178."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "חגם 110.\nחובא 177.\nחונא 178.\nחוויא 234.\nחוורנס 370.\nחול 353.\nחולד 101.\nחולדה 91.\nחולדות סנאים 94.\nחזיר 146. 306.\nחזיר הבר 148.\nחזיר היער 148.\nחזיר מיער 148.\nחזיר של ישוב 146.\nחיה הרומשת 218.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "חגם"
+    },
+    {
+     "lang": "deu",
+     "text": " 110.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חובא"
+    },
+    {
+     "lang": "deu",
+     "text": " 177.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חונא"
+    },
+    {
+     "lang": "deu",
+     "text": " 178.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חוויא"
+    },
+    {
+     "lang": "deu",
+     "text": " 234.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חוורנס"
+    },
+    {
+     "lang": "deu",
+     "text": " 370.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חול"
+    },
+    {
+     "lang": "deu",
+     "text": " 353.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חולד"
+    },
+    {
+     "lang": "deu",
+     "text": " 101.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חולדה"
+    },
+    {
+     "lang": "deu",
+     "text": " 91.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חולדות סנאים"
+    },
+    {
+     "lang": "deu",
+     "text": " 94.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חזיר"
+    },
+    {
+     "lang": "deu",
+     "text": " 146. 306.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חזיר הבר"
+    },
+    {
+     "lang": "deu",
+     "text": " 148.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חזיר היער"
+    },
+    {
+     "lang": "deu",
+     "text": " 148.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חזיר מיער"
+    },
+    {
+     "lang": "deu",
+     "text": " 148.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חזיר של ישוב"
+    },
+    {
+     "lang": "deu",
+     "text": " 146.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חיה הרומשת"
+    },
+    {
+     "lang": "deu",
+     "text": " 218."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ז.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ז."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "זאב 81.\nזאבה 62.\nזבוב 312. 317.\nזבוב שבארץ מצרים 313.\nזבוגי 230.\nזבחין 311. 370.\nזבוגי j. זבוגי.\nזגי 303.\nזגתא 194.\nזחל 297.\nזיבורא 303.\nזיבורתא 303.\nזיז שדה 354.\nזיזין 310.\nזיזין שבעדשים 310.\nזמר 114.\nזקיטא 224.\nזקיטא j. זקיתא.\nזרזיר 25. 89. 176.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "זאב"
+    },
+    {
+     "lang": "deu",
+     "text": " 81.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זאבה"
+    },
+    {
+     "lang": "deu",
+     "text": " 62.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זבוב"
+    },
+    {
+     "lang": "deu",
+     "text": " 312. 317.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זבוב שבארץ מצרים"
+    },
+    {
+     "lang": "deu",
+     "text": " 313.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זבוגי"
+    },
+    {
+     "lang": "deu",
+     "text": " 230.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זבחין"
+    },
+    {
+     "lang": "deu",
+     "text": " 311. 370.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זבוגי"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "heb",
+     "text": "זבוגי"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זגי"
+    },
+    {
+     "lang": "deu",
+     "text": " 303.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זגתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 194.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זחל"
+    },
+    {
+     "lang": "deu",
+     "text": " 297.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זיבורא"
+    },
+    {
+     "lang": "deu",
+     "text": " 303.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זיבורתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 303.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זיז שדה"
+    },
+    {
+     "lang": "deu",
+     "text": " 354.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זיזין"
+    },
+    {
+     "lang": "deu",
+     "text": " 310.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זיזין שבעדשים"
+    },
+    {
+     "lang": "deu",
+     "text": " 310.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זמר"
+    },
+    {
+     "lang": "deu",
+     "text": " 114.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זקיטא"
+    },
+    {
+     "lang": "deu",
+     "text": " 224.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זקיטא"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "heb",
+     "text": "זקיתא"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "זרזיר"
+    },
+    {
+     "lang": "deu",
+     "text": " 25. 89. 176."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "ח.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ח."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "חברבר 242, 371.\nחגב 291.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "חברבר"
+    },
+    {
+     "lang": "deu",
+     "text": " 242, 371.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": " 291."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "חיוא דטור 370.\nחוויא j. חיויא.\nחילק 259.\nחיפושא 269. 306.\nחיפושיתה 308.\nחיפושתא גמלניתא 306.\nחית נכר 146.\nחכינא 242.\nחכנא 238.\nחלזון 280—283. 285. 370.\nחמור 140.\nחמור הבר 143.\nחמורתא 143.\nחמט 279.\nחמימתא 194. 205.\nחמרא j. חמור.\nחמר סלק 368.\nחמרא לובא 142.\nחמרתא j. חמור.\nחנמל 297.\nחסידה 171.\nחסיל 296.\nחפושין 306.\nחפושית 269. 305.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "חיוא דטור"
+    },
+    {
+     "lang": "deu",
+     "text": " 370.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חוויא"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "heb",
+     "text": "חיויא"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חילק"
+    },
+    {
+     "lang": "deu",
+     "text": " 259.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חיפושא"
+    },
+    {
+     "lang": "deu",
+     "text": " 269. 306.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חיפושיתה"
+    },
+    {
+     "lang": "deu",
+     "text": " 308.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חיפושתא גמלניתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 306.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חית נכר"
+    },
+    {
+     "lang": "deu",
+     "text": " 146.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חכינא"
+    },
+    {
+     "lang": "deu",
+     "text": " 242.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חכנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 238.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חלזון"
+    },
+    {
+     "lang": "deu",
+     "text": " 280—283. 285. 370.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חמור"
+    },
+    {
+     "lang": "deu",
+     "text": " 140.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חמור הבר"
+    },
+    {
+     "lang": "deu",
+     "text": " 143.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חמורתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 143.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חמט"
+    },
+    {
+     "lang": "deu",
+     "text": " 279.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חמימתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 194. 205.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "heb",
+     "text": "חמור"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חמר סלק"
+    },
+    {
+     "lang": "deu",
+     "text": " 368.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חמרא לובא"
+    },
+    {
+     "lang": "deu",
+     "text": " 142.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חמרתא"
+    },
+    {
+     "lang": "deu",
+     "text": " j. "
+    },
+    {
+     "lang": "heb",
+     "text": "חמור"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חנמל"
+    },
+    {
+     "lang": "deu",
+     "text": " 297.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חסידה"
+    },
+    {
+     "lang": "deu",
+     "text": " 171.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חסיל"
+    },
+    {
+     "lang": "deu",
+     "text": " 296.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חפושין"
+    },
+    {
+     "lang": "deu",
+     "text": " 306.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חפושית"
+    },
+    {
+     "lang": "deu",
+     "text": " 269. 305."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Zoologie des Talmuds.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zoologie des Talmuds."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "25",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "25"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3064,
+    2102
+   ],
+   [
+    3064,
+    3154
+   ]
+  ],
+  "input_tokens": 11345,
+  "output_tokens": 3351,
+  "cost_usd": 0.0562,
+  "seconds": 17.7
+ }
+}

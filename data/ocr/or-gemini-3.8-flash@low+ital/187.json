@@ -1,0 +1,217 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Hänfling. — Der Schneefink. — Der Sperling.\t187",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Hänfling. — Der Schneefink. — Der Sperling.\t187"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "haben nicht einmal die Radices jener Wörter, und vielleicht muß\nhier zwischen סגר „bücken“ und זגר „heben“ ein Unterschied gemacht\nwerden. Ich wage aber keine weitere Vermuthungen zu äußern.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "haben nicht einmal die Radices jener Wörter, und vielleicht muß\nhier zwischen "
+    },
+    {
+     "lang": "heb",
+     "text": "סגר"
+    },
+    {
+     "lang": "deu",
+     "text": " „bücken“ und "
+    },
+    {
+     "lang": "heb",
+     "text": "זגר"
+    },
+    {
+     "lang": "deu",
+     "text": " „heben“ ein Unterschied gemacht\nwerden. Ich wage aber keine weitere Vermuthungen zu äußern."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 235.\nDer Hänfling.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 235.\nDer Hänfling."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 62, b wird der Vogel ערדא als reiner Vogel erklärt.\nLandau übersetzt Flachsfink oder Hänfling, da ערדא Flachs\nheißt. Der Hänfling gehört zum Sperlingsgeschlecht und ist daher\nmit Recht zu essen gestattet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 62, b wird der Vogel "
+    },
+    {
+     "lang": "heb",
+     "text": "ערדא"
+    },
+    {
+     "lang": "deu",
+     "text": " als reiner Vogel erklärt.\nLandau übersetzt Flachsfink oder Hänfling, da "
+    },
+    {
+     "lang": "heb",
+     "text": "ערדא"
+    },
+    {
+     "lang": "deu",
+     "text": " Flachs\nheißt. Der Hänfling gehört zum Sperlingsgeschlecht und ist daher\nmit Recht zu essen gestattet."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 236.\nDer Schneefink.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 236.\nDer Schneefink."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 62, b wird der Vogel ברדא (Aruch liest: בר אדא) als\nunreiner Vogel erklärt. Hierzu bemerkt Landau: „Vielleicht ist es-\nder Schneefink, der nicht nur von der weißen Farbe der Kehle, der\nBrust und des ganzen untern Theiles diesen Namen bekam, sondern\nauch, weil er die kalten Länder bewohnt. Man findet ihn in häu-\nfiger Anzahl auf den Schneegebirgen des Kaukasus und in Persien.“\n— Allein der Schneefink gehört zum Sperlingsgeschlecht und sollte\nwohl eher als reiner Vogel gelten, vergl. §. 235. Warum könnte\nman nicht an die Schneedohle, die zum Rabengeschlecht gehört,\ndenken? Ich überlasse daher die Wahl der weitern Forschung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 62, b wird der Vogel "
+    },
+    {
+     "lang": "heb",
+     "text": "ברדא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Aruch liest: "
+    },
+    {
+     "lang": "heb",
+     "text": "בר אדא"
+    },
+    {
+     "lang": "deu",
+     "text": ") als\nunreiner Vogel erklärt. Hierzu bemerkt Landau: „Vielleicht ist es-\nder Schneefink, der nicht nur von der weißen Farbe der Kehle, der\nBrust und des ganzen untern Theiles diesen Namen bekam, sondern\nauch, weil er die kalten Länder bewohnt. Man findet ihn in häu-\nfiger Anzahl auf den Schneegebirgen des Kaukasus und in Persien.“\n— Allein der Schneefink gehört zum Sperlingsgeschlecht und sollte\nwohl eher als reiner Vogel gelten, vergl. §. 235. Warum könnte\nman nicht an die Schneedohle, die zum Rabengeschlecht gehört,\ndenken? Ich überlasse daher die Wahl der weitern Forschung."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 237.\nDer Sperling.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 237.\nDer Sperling."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 65, a heißt es: Der Vogel ציפרתי fange Speise in der\nLuft auf. Raschi sagt, der ציפרתי ist ein reiner Vogel; überhaupt ist\nnach dem Talmud (ibid. 139, b) צפור jedesmal eine reine Vogel-\nart. Obwohl צפור allerdings ein genereller Name ist, so ist doch\nצפור wohl wie das lat. Passer, im Allgemeinen der Sperling;\nim Hebr. wie im Arab. heißt das Stammwort Zwitschern, wovon\nder Sperling seinen Namen hat. Das lat. Wort scheint durch\nTransposition aus צפר gebildet, während das deutsche Sperling in\nder ersten Sylbe das hebr. Wort enthält.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 65, a heißt es: Der Vogel "
+    },
+    {
+     "lang": "heb",
+     "text": "ציפרתי"
+    },
+    {
+     "lang": "deu",
+     "text": " fange Speise in der\nLuft auf. Raschi sagt, der "
+    },
+    {
+     "lang": "heb",
+     "text": "ציפרתי"
+    },
+    {
+     "lang": "deu",
+     "text": " ist ein reiner Vogel; überhaupt ist\nnach dem Talmud (ibid. 139, b) "
+    },
+    {
+     "lang": "heb",
+     "text": "צפור"
+    },
+    {
+     "lang": "deu",
+     "text": " jedesmal eine reine Vogel-\nart. Obwohl "
+    },
+    {
+     "lang": "heb",
+     "text": "צפור"
+    },
+    {
+     "lang": "deu",
+     "text": " allerdings ein genereller Name ist, so ist doch\n"
+    },
+    {
+     "lang": "heb",
+     "text": "צפור"
+    },
+    {
+     "lang": "deu",
+     "text": " wohl wie das lat. Passer, im Allgemeinen der Sperling;\nim Hebr. wie im Arab. heißt das Stammwort Zwitschern, wovon\nder Sperling seinen Namen hat. Das lat. Wort scheint durch\nTransposition aus "
+    },
+    {
+     "lang": "heb",
+     "text": "צפר"
+    },
+    {
+     "lang": "deu",
+     "text": " gebildet, während das deutsche Sperling in\nder ersten Sylbe das hebr. Wort enthält."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3280,
+    2099
+   ],
+   [
+    3280,
+    3149
+   ]
+  ],
+  "input_tokens": 3319,
+  "output_tokens": 1445,
+  "cost_usd": 0.0079,
+  "seconds": 11.8
+ }
+}

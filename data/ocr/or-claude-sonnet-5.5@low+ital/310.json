@@ -1,0 +1,277 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "310 Der Traubenkäfer. — Dattelbohrer. — Feigenbohrer. — Linsenwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "310 Der Traubenkäfer. — Dattelbohrer. — Feigenbohrer. — Linsenwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "שבעיקרי זחים „Wurm am Stamme der Oelbäume.“ — Auch dieses\nInsect wird, wie der Rebenstecher (§. 415) nicht die Beere selbst ver-\nletzen, sondern nur die Blätter, oder die Blüthen des Oelbaums.\nNäher ihn anzugeben bin ich nicht im Stande.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "שבעיקרי זחים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Wurm am Stamme der Oelbäume.“ — Auch dieses\nInsect wird, wie der Rebenstecher (§. 415) nicht die Beere selbst ver-\nletzen, sondern nur die Blätter, oder die Blüthen des Oelbaums.\nNäher ihn anzugeben bin ich nicht im Stande."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 417.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 417."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Traubenkäfer.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Traubenkäfer."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Wurm, welcher die Weintraube noch während sie am Wein-\nstocke sich befindet, anfrißt, heißt איילא דעינבא „Made der Traube“\n(Sabbat 90, a). Εὐλή heißt Made, und vielleicht ist es der Trau-\nbenkäfer, franz. Staphylin. — Auch Nasir 34, b ist von würmig ge-\nworbenen Weintrauben die Rede. Vergl. §. 440.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Wurm, welcher die Weintraube noch während sie am Wein-\nstocke sich befindet, anfrißt, heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "איילא דעינבא"
+    },
+    {
+     "lang": "deu",
+     "text": " „Made der Traube“\n(Sabbat 90, a). "
+    },
+    {
+     "lang": "grc",
+     "text": "Εὐλή"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt Made, und vielleicht ist es der Trau-\nbenkäfer, franz. Staphylin. — Auch Nasir 34, b ist von würmig ge-\nworbenen Weintrauben die Rede. Vergl. §. 440."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 418.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 418."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Dattelbohrer.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Dattelbohrer."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Da der Wurm keine zwölf Monate lebt, so muß der in Dat-\nteln, welche vor 12 Monaten gepflückt wurden, gefundene Wurm —\nחולעת שבחמרים — erst später in sie gerathen sein (Chulin 58, b),\nund dieser Wurm kömmt leicht daran, wenn man die Datteln nicht\nzuvor gehörig auspreßt (M. Katan 10, b); vergl. S. 26, Anm. *.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Da der Wurm keine zwölf Monate lebt, so muß der in Dat-\nteln, welche vor 12 Monaten gepflückt wurden, gefundene Wurm —\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חולעת שבחמרים"
+    },
+    {
+     "lang": "deu",
+     "text": " — erst später in sie gerathen sein (Chulin 58, b),\nund dieser Wurm kömmt leicht daran, wenn man die Datteln nicht\nzuvor gehörig auspreßt (M. Katan 10, b); vergl. S. 26, Anm. *."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 419",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 419"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Feigenbohrer.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Feigenbohrer."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der im Fleisch der Feige sich befindende Wurm heißt חולעת\nשבגרוגרות (Chulin 67, b); auch B. batra 19, b ist von würmig ge-\nworbenen Feigen die Rede. Näher kann ich das Insect nicht bestim-\nmen. — Ein Zehntel der Feigen werden durch den Wurm verdorben\n(B. batra 6, 2 Mischna).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der im Fleisch der Feige sich befindende Wurm heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "חולעת\nשבגרוגרות"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 67, b); auch B. batra 19, b ist von würmig ge-\nworbenen Feigen die Rede. Näher kann ich das Insect nicht bestim-\nmen. — Ein Zehntel der Feigen werden durch den Wurm verdorben\n(B. batra 6, 2 Mischna)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 420.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 420."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Linsenwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Linsenwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Talmud (Chulin 67, b) nennt die in den Linsen sich befin-\ndenden Würmer: וזין שבערשים, was Raschi durch כוצנש, Cossons,\nerklärt, welches Wort aber alle Arten von Getreidewürmern bezeich-\nnet. — Landau leitet וזין von זין „Bewegung“ ab; er dachte wahr-\nscheinlich an die schnell beweglichen Milben *).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Talmud (Chulin 67, b) nennt die in den Linsen sich befin-\ndenden Würmer: "
+    },
+    {
+     "lang": "heb",
+     "text": "וזין שבערשים"
+    },
+    {
+     "lang": "deu",
+     "text": ", was Raschi durch "
+    },
+    {
+     "lang": "heb",
+     "text": "כוצנש"
+    },
+    {
+     "lang": "deu",
+     "text": ", Cossons,\nerklärt, welches Wort aber alle Arten von Getreidewürmern bezeich-\nnet. — Landau leitet "
+    },
+    {
+     "lang": "heb",
+     "text": "וזין"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "heb",
+     "text": "זין"
+    },
+    {
+     "lang": "deu",
+     "text": " „Bewegung“ ab; er dachte wahr-\nscheinlich an die schnell beweglichen Milben *)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Im Talm. jerus. (Terumoth C. 8, fol. 45, b) heißt es: Es sind wäh-\nrend ihres Aufenthaltes innerhalb der Frucht zu genießen gestattet שקץ שבזיזין",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Im Talm. jerus. (Terumoth C. 8, fol. 45, b) heißt es: Es sind wäh-\nrend ihres Aufenthaltes innerhalb der Frucht zu genießen gestattet "
+    },
+    {
+     "lang": "heb",
+     "text": "שקץ שבזיזין"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3280,
+    2090
+   ],
+   [
+    3280,
+    2986
+   ]
+  ],
+  "input_tokens": 11336,
+  "output_tokens": 1714,
+  "cost_usd": 0.0398,
+  "seconds": 11.0
+ }
+}

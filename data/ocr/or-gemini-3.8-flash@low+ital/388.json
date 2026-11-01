@@ -1,0 +1,685 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "388\tHebräisches und aramäisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "388\tHebräisches und aramäisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "נבחן 82.\nנגדא 121.\nנגר טורא 216.\nנדיין 292.\nנדל 322.\nנדמה 119.\nנוקד 118.\nנחש 234.\nנחש ברוח 355.\nנחש עקלתון 355.\nנחש שבארץ ישראל 237.\nניבדקם 142.\nנימא של מים 336.\nניפול 199. 289. 291.\nניקרי מקילקחא 336.\nנמיה 89.\nנמלה 328.\nנמר 72.\nנעמית 188.\nנעמיתה 188.\nנפילים 220.\nנפרזא 76.\nנץ 164.\nנרגול 194.\nנשר 165.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "נבחן"
+    },
+    {
+     "lang": "deu",
+     "text": " 82.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נגדא"
+    },
+    {
+     "lang": "deu",
+     "text": " 121.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נגר טורא"
+    },
+    {
+     "lang": "deu",
+     "text": " 216.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נדיין"
+    },
+    {
+     "lang": "deu",
+     "text": " 292.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נדל"
+    },
+    {
+     "lang": "deu",
+     "text": " 322.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נדמה"
+    },
+    {
+     "lang": "deu",
+     "text": " 119.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נוקד"
+    },
+    {
+     "lang": "deu",
+     "text": " 118.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נחש"
+    },
+    {
+     "lang": "deu",
+     "text": " 234.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נחש ברוח"
+    },
+    {
+     "lang": "deu",
+     "text": " 355.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נחש עקלתון"
+    },
+    {
+     "lang": "deu",
+     "text": " 355.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נחש שבארץ ישראל"
+    },
+    {
+     "lang": "deu",
+     "text": " 237.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ניבדקם"
+    },
+    {
+     "lang": "deu",
+     "text": " 142.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נימא של מים"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ניפול"
+    },
+    {
+     "lang": "deu",
+     "text": " 199. 289. 291.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ניקרי מקילקחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נמיה"
+    },
+    {
+     "lang": "deu",
+     "text": " 89.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נמלה"
+    },
+    {
+     "lang": "deu",
+     "text": " 328.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נמר"
+    },
+    {
+     "lang": "deu",
+     "text": " 72.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נעמית"
+    },
+    {
+     "lang": "deu",
+     "text": " 188.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נעמיתה"
+    },
+    {
+     "lang": "deu",
+     "text": " 188.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " 220.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נפרזא"
+    },
+    {
+     "lang": "deu",
+     "text": " 76.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נץ"
+    },
+    {
+     "lang": "deu",
+     "text": " 164.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נרגול"
+    },
+    {
+     "lang": "deu",
+     "text": " 194.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נשר"
+    },
+    {
+     "lang": "deu",
+     "text": " 165."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": ".ס",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": ".ס"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "סגיד ואכיל 186.\nסוגא 178.\nסולחנית 259.\nסוס 136.\nסוּסא 136.\nסוסביל 294.\nסוס. f. סוסיא\nסיח 140.\nסייח 140.\nסילוי 233. 373.\nסכות 194.\nסלופיתא 232. 374",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "סגיד ואכיל"
+    },
+    {
+     "lang": "deu",
+     "text": " 186.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סוגא"
+    },
+    {
+     "lang": "deu",
+     "text": " 178.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סולחנית"
+    },
+    {
+     "lang": "deu",
+     "text": " 259.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סוס"
+    },
+    {
+     "lang": "deu",
+     "text": " 136.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סוּסא"
+    },
+    {
+     "lang": "deu",
+     "text": " 136.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סוסביל"
+    },
+    {
+     "lang": "deu",
+     "text": " 294.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סוס."
+    },
+    {
+     "lang": "lat",
+     "text": " f. "
+    },
+    {
+     "lang": "heb",
+     "text": "סוסיא\nסיח"
+    },
+    {
+     "lang": "deu",
+     "text": " 140.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סייח"
+    },
+    {
+     "lang": "deu",
+     "text": " 140.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סילוי"
+    },
+    {
+     "lang": "deu",
+     "text": " 233. 373.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סכות"
+    },
+    {
+     "lang": "deu",
+     "text": " 194.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סלופיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 232. 374"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "סלמנדרא 227.\nסלמנטון 311.\nסלעם 289. 297.\nסממית 222. 299.\nסנדל 275.\nסנונית 209.\nסנונית דבתי 209.\nסנונית לבנה 208.\nססמגור 307.\nספות 344.\nספון 344.\nסקאה 293.\nסרטן 233.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "סלמנדרא"
+    },
+    {
+     "lang": "deu",
+     "text": " 227.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סלמנטון"
+    },
+    {
+     "lang": "deu",
+     "text": " 311.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סלעם"
+    },
+    {
+     "lang": "deu",
+     "text": " 289. 297.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סממית"
+    },
+    {
+     "lang": "deu",
+     "text": " 222. 299.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סנדל"
+    },
+    {
+     "lang": "deu",
+     "text": " 275.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סנונית"
+    },
+    {
+     "lang": "deu",
+     "text": " 209.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סנונית דבתי"
+    },
+    {
+     "lang": "deu",
+     "text": " 209.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סנונית לבנה"
+    },
+    {
+     "lang": "deu",
+     "text": " 208.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ססמגור"
+    },
+    {
+     "lang": "deu",
+     "text": " 307.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ספות"
+    },
+    {
+     "lang": "deu",
+     "text": " 344.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ספון"
+    },
+    {
+     "lang": "deu",
+     "text": " 344.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סקאה"
+    },
+    {
+     "lang": "deu",
+     "text": " 293.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "סרטן"
+    },
+    {
+     "lang": "deu",
+     "text": " 233."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": ".ע",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": ".ע"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "עגור 169.\nעגל 129.\nעדק 343.\nעזק 343.\nעוז 167.\nעורב 172.\nעורב אוכמא 172. 174\nעורב הבא בראש יונים 215.\nעורב המים 174.\nעורב העמקי 176.\nעורבא מיצראה 176. 375.\nעורדאן 374.\nעז 123.\nעזא 167.\nעזא דבאלה 126.\nעזניה 167.\nעטלף 102.\nעיזא 123.\nעיזא דימא 270.\nעיזא כרכז 126.\nעייר 140.\nעיל 140.\nעיר 140.\nעכביש 299. 306.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "עגור"
+    },
+    {
+     "lang": "deu",
+     "text": " 169.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עגל"
+    },
+    {
+     "lang": "deu",
+     "text": " 129.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עדק"
+    },
+    {
+     "lang": "deu",
+     "text": " 343.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עזק"
+    },
+    {
+     "lang": "deu",
+     "text": " 343.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עוז"
+    },
+    {
+     "lang": "deu",
+     "text": " 167.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עורב"
+    },
+    {
+     "lang": "deu",
+     "text": " 172.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עורב אוכמא"
+    },
+    {
+     "lang": "deu",
+     "text": " 172. 174\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עורב הבא בראש יונים"
+    },
+    {
+     "lang": "deu",
+     "text": " 215.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עורב המים"
+    },
+    {
+     "lang": "deu",
+     "text": " 174.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עורב העמקי"
+    },
+    {
+     "lang": "deu",
+     "text": " 176.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עורבא מיצראה"
+    },
+    {
+     "lang": "deu",
+     "text": " 176. 375.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עורדאן"
+    },
+    {
+     "lang": "deu",
+     "text": " 374.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עז"
+    },
+    {
+     "lang": "deu",
+     "text": " 123.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עזא"
+    },
+    {
+     "lang": "deu",
+     "text": " 167.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עזא דבאלה"
+    },
+    {
+     "lang": "deu",
+     "text": " 126.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עזניה"
+    },
+    {
+     "lang": "deu",
+     "text": " 167.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עטלף"
+    },
+    {
+     "lang": "deu",
+     "text": " 102.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עיזא"
+    },
+    {
+     "lang": "deu",
+     "text": " 123.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עיזא דימא"
+    },
+    {
+     "lang": "deu",
+     "text": " 270.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עיזא כרכז"
+    },
+    {
+     "lang": "deu",
+     "text": " 126.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עייר"
+    },
+    {
+     "lang": "deu",
+     "text": " 140.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עיל"
+    },
+    {
+     "lang": "deu",
+     "text": " 140.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עיר"
+    },
+    {
+     "lang": "deu",
+     "text": " 140.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עכביש"
+    },
+    {
+     "lang": "deu",
+     "text": " 299. 306."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1422,
+    5172
+   ],
+   [
+    1682,
+    5172
+   ]
+  ],
+  "input_tokens": 3385,
+  "output_tokens": 3022,
+  "cost_usd": 0.0139,
+  "seconds": 19.4
+ }
+}

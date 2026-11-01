@@ -1,0 +1,607 @@
+# Fourth class: Fish (pp. 243–278)
+
+### ‎Fourth Class.
+
+### ‎Fishes.
+
+### ‎§. 303.
+
+‎The generic names of the fishes are treated in §. 7, the difference between clean and unclean fishes in §. 24, and their mode of copulation in §. 15.
+
+‎Here we deal first with the manner of reproduction among the fishes. Originally the fishes arose from the water (§. 13); since then they arise for by far the greatest part through reproduction (Generatio propagativa, §. 15), and only one single species is said (though through a misunderstanding, cf. §. 359) to arise through Generatio originaria, namely from fish brine.
+
+‎Now as regards reproduction, it is said in one passage [p. 244] (Bechoroth 7b): דג טמא משריץ דג טהור מטיל ביצים, a saying which Rashi explains to mean that the unclean fish brings forth live young, whereas the clean one lays eggs. This passage is contradicted by another, or rather it is corrected by another, which reads: הרוייהו מטיל ביצים אלא זה משריץ מבחוץ וזה משריץ מבפנים (A. Sara [=Avodah Zarah] 40a), which Rashi explains to mean that both kinds are egg-laying, only the brood of the clean fish arises only once the egg has already been laid, whereas the brood of the unclean fish begins its formation in the egg while it is still inside the fish.
+
+‎All these assertions are incorrect in their generality, but individually applicable to individual species.
+
+‎It is true that the great majority of fishes are egg-laying, but the following classification can be made: A. Some fishes are viviparous, such as the four-eyed fish (Anableps tetrophthalmus) and, according to some, also the eel (§. 335). The English naturalist Yarrel did indeed discover that the eel has milt and roe and is egg-laying like other fishes (Voigt [=F. S. Voigt, Lehrbuch der Zoologie (Stuttgart 1835–40); the text names it (p. 9: "Voigt, Lehrb. d. Zool.")] l. c. [=loco citato: in the work cited above] 3. p. 265); yet it is undeniable that young eels are often found inside the eel.
+
+‎To these two kinds of fish Rashi's statement on the first Talmud passage, that unclean fishes are viviparous, is applicable.
+
+‎B. The cartilaginous fishes, such as sharks, rays, chimaeras and others (which Aristotle, Thierg. [=Aelian, On the Nature of Animals (De natura animalium; German title Thiergeschichte)] 1, 4, 2, groups together under the family name Σελάχοι [Selachoi]), are for the most part viviparous, but they also deposit eggs. However, the formation of the embryo begins in the egg while it is still inside the fish only in the so-called "fish mice"; these are the mouse-black, parchment-like, quadrangular and flat eggs of the rays, elongated at the corners; they are born with the young developed within them. To the ray, then, that statement on the second passage, that the embryo of the unclean fish already begins in the mother's body, would probably be applicable.
+
+‎C. The bony fishes, with the exception of the two kinds of fish mentioned under A, are egg-laying, and to them refers the general saying that fishes are egg-laying. Thus one would have to specify the general sayings of the Talmud and relate them to the various kinds of fish.
+
+### ‎§. 304.
+
+‎Equally inexact are the rabbinic statements concerning the hatching of fish eggs. On Bechoroth 7b Rashi says: The clean [p. 245] fish lies upon its laid eggs and warms them until they bring forth the brood from the egg in the manner of birds.
+
+‎This, to be sure, is never the case; rather, fishes as a rule feel the urge to mate in springtime; the females then seek out sheltered places where they deposit the spawn. In the female the spawn is called roe, in the male milt. The male, namely, releases the milt onto the laid roe or eggs, from which after some time the young brood emerges without further ado. The warmth of the sun promotes the brood, just as fishes in general mostly spawn near the land, where it is as a rule warmer. After laying the eggs the female immediately goes away, and only the male keeps a kind of watch; see in detail Aristotle (loc. cit. 6, 13, 4).
+
+‎Rashi on A. Sara 40a already explains it more correctly when he says: The clean fish emerges by itself from the egg in the sand. In fact river fishes for the most part spawn in shallow places, where it is warmer than in deep ones.
+
+‎Most correctly, finally, Pseudo-Rashi (Nedarim 30b) explains it when he says: Fishes are not born alive from the mother's body, but the older ones lay eggs, which are warmed, and from which the brood emerges. This passage deals with clean fishes, the eating of which someone has denied himself by a vow; hence that statement of Pseudo-Rashi is to be referred to the bony fishes proper.
+
+### ‎§. 305.
+
+‎We have spoken in §. 24 about the shape of the head, the spinal column, the bladder and the ovary. Here something about some other parts of the fish. The eyes are said to be located, as in the snake, on the sides of the head (Nidda 23a); however, this is not the case with all fishes; e.g. the stargazer (Uranoscopus) has its eyes on top; yet that statement is on the whole certainly correct.
+
+‎Concerning the eye itself, the Talmud says (ibid.) that the עין גלגל in fishes is not as round as in human beings. That expression means either the eye socket, as Rashi there explains, or also the movable part of the eye, the eyeball; and indeed in fishes the latter is flattened or flat in front; it also moves in fishes, even if only slightly. On the other hand, the crystalline lens in them is perfectly oblong, whereas the pupil is not always perfectly [p. 246] round. One notices this in many well-known river fishes, where the pupil runs out to a slight point toward the mouth, and this is probably what the Talmud meant. For it says: The pupil (אוכמא, which Rashi expands as שבעין אוכמא „the black of the eye“) is not as round in fishes as in human beings.
+
+‎The eye has a mass of fat which can be melted out (Sebachim 22a). The throat of the fish (by which it is hooked) is called גרון (Rabba Bereschit fol. 108, c); on the name of the fish's spinal column see p. 18 note.
+
+‎Of the ears it is said that they remain red only as long as the fish is fresh; in general, the red under the gill covers was regarded as the sure sign of the freshness of caught fish (Beza 24b).
+
+‎Of the bonito it is remarked that it has a large belly, which derives from the large gall bladder; cf. §. 322. —
+
+### ‎§. 306.
+
+‎The scales (קשקשת Chulin 66a and קילפי Succah 18a; the small scales are called צימחי A. Sara 39a; cf. also §. 77) sit so firmly in the flesh that the fish cannot move them at will, which, by contrast, it can indeed do with the fins (סנפיר Chulin 66a and שייצי B. batra [=Bava Batra] 73b). It uses the latter for swimming and can produce a noise by striking them against its body (לכשכשן, Raschi Chulin ibid.).
+
+‎Samuel says (on B. batra ibid.): All sea fish have only one dorsal fin, namely in the middle of the back; only the fish Gildane (§. 352) has two dorsal fins. This statement must not be taken as universal, for the shark has two and the stockfish three dorsal fins.
+
+‎The skin (קרום, Chulin 112b and עור, Kelim 10, 1) is thin and porous, so that the juice of the flesh of the cut-up fish can penetrate the skin (Chulin ibid.), yet it is also capable of being written upon, although it is not determined that the skin can become so dry that it could never exude any moisture (Sabbat 108a).
+
+‎The fat is (especially in the clean fish) clear (קליר, clair) like a mirror (מירדוייר, Miroir), so that one can easily recognize foreign objects, such as splinters of reed with which the fat was cut (Chulin 16b). The fat, as well as the inner parts of the fish, are jointly called קירבי דגים; equivalent to Intestina, whereas שומן הדג, or more correctly שמן הדג, is the [p. 247] fish oil, which is distinguished from the melted קרבי דגים (Tos. [=Tosafot] Sabbat 21a. s.v. חלב*). Cf. also §. 88.
+
+### ‎§. 307.
+
+‎There are black and white fish, according to which the fat too is black or white (A. Sara 39b). However, the Talmud also knew other colored fish; thus it mentions the yellowish, but mostly silver-grey sunfish (§. 351), the spotted sea bass (§. 337), the red mullet (§. 338), the olive-brown sole (§. 256) and many other multicolored fish.
+
+### ‎§. 308.
+
+‎The place of birth and abode of the fish is the water; this is for them מקום חיות “place of life”; the land, on the other hand, מקום מיתה “place of death” (Berachoth 61b). Several river fish are accustomed to make a hollow near the bank, in which they then gather together, and so are also caught there in masses. This hollow is called מחילות של דגים (Jebamoth 121a), or פיר דכוורי (Tanit 24a). Some species of fish, such as the Gildane, live among reeds (Berachoth 44b). The sea fish do not live in the depths of the sea, since they find only little food there (ibid. 9b).
+
+‎After being caught, the fish are kept in ponds (ויביר, Vivier) (Beza 23b).
+
+### ‎§. 309.
+
+‎Manifold are the diseases to which fish are exposed. Above all it is the worms or lice which have their seat under the skin in the flesh of the fish. They arise by Generatio originaria (§. 14) from the fish flesh, which is why they are permitted to be eaten together with the fish (Chulin 67b).
+
+‎If the fish is kept out of the water for a longer time, it falls ill and dies; likewise if it is struck by the heat of the sun in the water (A. Sara 3b). The expression מיד מתים “die soon” is inexact, since, as is well known, some species of fish, such as the carp and others, can live a fairly long time out of the water. Cf. also §. 315.
+
+‎As soon as [p. 248] on a fish taken out of the water a surface of the body even only the size of a middling coin dries up, it can no longer be kept alive. This drying acts all the more quickly and fatally if it has occurred between the fins. Death, moreover, already ensues when the secretion of mucus takes place in threads between the fins (Sabbat 107 b). The fish then makes leaping movements (מקרטע, Chulin 75a) and dies, even if one throws it into the water (Tanit 24a).
+
+### ‎§. 310.
+
+‎The enormous multitude of fish, whose extraordinary fertility can be explained by the promoting element of water, the Talmud seeks to explain in a hyperbolic manner. They are less exposed to the eye of man and thus safe from envy and ill will (עין רע) (Berachoth 20a). However, in other passages the Talmud delimits the fish by round numbers and by local conditions. In the Orient, i.e., in the waters known to the Orientals, there are seven hundred species of unclean fish (Chulin 63b), whereas in Pelusium (פלוסא) and Aspamia (אספמיא; perhaps also Spain, see the following article) one may without hesitation buy and eat roe, since there are no unclean fish there (A. Sara 39a).
+
+‎Of some species of fish whole shiploads were brought (§. 320).
+
+‎We remark here incidentally that some species of fish were named after the region of their abode; thus the Spanish tuna is called קולים האספנין (§. 315), an Egyptian species of fish דג המצרי (§. 354), a fish in the region of the city אילת is called אלתית (§. 353).
+
+‎Cf. also p. 6, note *.
+
+### ‎§. 311.
+
+‎The fish, the snake and the pig grow stronger the older they get (A. Sara 30b). Fish flesh gains in flavour through salting, whereas any other meat is indeed preserved by it but does not become tastier (B. batra 74b). Some kinds of salted fish can be eaten without first having to be cooked, such as herrings and anchovies (דגים קטנים, Beza 16a; though, as is well known, there is also smoked salmon and others). Fresh fish taste best (ibid. 24b); by contrast, the dish prepared from fish fat and flour, called כסא דהרסנא (ibid. 16a), loses much of its flavour when it grows old (B. batra 91b). Here [p. 249] the dish is called simply הרסנא, which Samuel renders imprecisely by דגים קטנים, for הרסנא, from הרס, is the pounded part of the fish flesh with which the flour is mixed, and both components of the dish are expressly named קימחא and הרסנא in A. Sara 38a.
+
+‎For some kinds of fish, being wetted with water after they have been taken out of the water is harmful; cf. the relevant articles on the three kinds of fish named last in the preceding §. According to the Midrash (Rabba Bereschit fol. 7, d), one and the same fish has a different flavour when it is found in different waters; it says there: The flavour of the fish taken from עכו (Acco, i.e. Πτολεμάις [Ptolemais]) is different from that of the one that comes from צידון (Σιδών [Sidōn]) and אספמייא (Spain; see my Aphorisms in the L. Bl. d. Orients [=Literaturblatt des Orients (Leipzig 1840–51), the literary supplement of Der Orient] 1849, no. 23). The first two Phoenician cities lay on the Mediterranean. The Midrash (ibid. Debarim fol. 298, c) further reports that fish grow fat after the early rain (רביעה); thus a fish caught near עכו after this rain weighed 300 Literas (ליטרא, pounds), which is probably to be understood of its fat, since it says there that (unopened) the fish was estimated at only 4 pounds.
+
+‎The enormous mass of fish in the waters near עכו also gave rise to the proverb: “Does one bring fish to Acco?” (ibid. Schemoth fol. 126, c); of צידון too it is said (Talm. Schekalim 6, H. 2) that a Rabbi there was served 300 kinds of fish prepared as a single dish.
+
+‎The Euphrates is called פרת because its water פרין ורבין is very rich in fish (Berachoth 59b). A town in a region rich in fish was called מגדל נוניא “Fish Tower” (Pesachim 46a).
+
+‎Fish have a sense of smell (§. 351).
+
+### ‎§. 312.
+
+‎The means of catching fish and the receptacles for them are manifold. They were caught either with the hook (איימא, Hameçon), which was fastened somewhere so that one did not even need to be present (Sabbat 18a*), or with nets (מצידה, Menachoth 64a; מצידת הסכרין, Kelim 23, 5), or with a net stretched over a hoop and ending in a point, through which the fish cannot pass, and so, in its effort to do so, becomes entangled in the threads by its gill covers (קוקרי, Sabbat 18a).
+
+‎[p. 250] It was also customary to let the ponds drain, whereby the fish remain behind on the bottom (M. Katan [=Moed Katan] 11a). The drainage ditch is called כוורי (ibid.); finally, fish were also caught with small fishing nets (רושא, Reseau, ibid.).
+
+‎The fishpond was called ויבייר (Vivier, Beza 23b), the fish tank אקן (Kelim 12, 2) and כוורי (Ketuboth 79a). The fisherman's house built for fishing is called בית הצייד (Nedarim 20b).
+
+‎On the fishing devices אולי and אוהרי see Gittin 60b; on חרמים Rabba Bamidbar fol. 229, d.
+
+### ‎§. 313.
+
+‎The chief use of fish lies in the eating of their flesh; the fish juice obtained by salting is also edible (Machschirin 6, 3). From fish fat with an admixture of flour a dish was prepared (§. 311). The eating of small fish was especially recommended. Whoever accustoms himself to eating them seldom gets bellyaches; indeed, eating them even strengthens and preserves health (Berachoth 40a). It is directly prescribed for the sick (A. Sara 29a). Children acquire a pleasing appearance if the mother has accustomed herself to eating large fish during pregnancy (Ketuboth 61a*). After eating fish, water is to be preferred to beer as a drink, and beer to wine (M. Katan 11a). The young fish, however, is not good; only with small mud fish is eating it wholesome; with large ones, on the other hand, the young fish must have reached at least a quarter of the usual size if eating it is not to be harmful (Berachoth 44b).
+
+‎Fish oil serves for lighting (Sabbat 24b), as does melted fish fat (ibid. 21a). The latter was sometimes mixed with olive oil (Bechoroth 29b).
+
+‎The skin was used for utensils (Kelim 10, 1) and for writing material (Sabbat 108a).
+
+‎From the fish bones [p. 251] some implements were made (Kelim 10, 1), and whale bones even served as building materials (B. batra 73b).
+
+‎Finally, a fish was once used to pull a wagon, while a goat harnessed along with it pulled it along the shore (Sanhedrin 59b).
+
+‎Fish are tastier some time after being caught than immediately afterwards (M. Katan 11a).
+
+### ‎§. 314.
+
+‎The eating of fish meat is not always wholesome; thus it is wholesome on the day immediately after bloodletting, whereas on the following day it is downright harmful (A. Sara 29a). Equally harmful is the eating of small fish for a nursing woman, since it either makes the milk turbid or even diminishes it (Ketuboth 60b). If she eats that often-mentioned dish prepared from flour and fish fat (§. 311), the children are in consequence apt later to get a trembling of the eyes (ibid.). The eating of fish is also harmful in an eye disease unless other foods follow it (Tos. Meïle 20b); but if that disease is on the wane, such eating does no harm (Ps. [=Psalms]-Raschi Nedarim 54b). In the days of Nissan (thus in springtime, the usual spawning season of fish) the eating of fish predisposes to leprosy (Pesachim 112b*). On the 7th, 17th and 27th (according to others the 23rd) day after salting, eating a young fish that has then not been properly roasted can have fatal consequences; one does well to drink beer (שכרא, which, incidentally, was a distinct kind of drink, cf. the Greek Σίκερα [sikera]) after it (Berachoth 44b). Fish bones (אודרא) getting stuck in the throat can have dangerous consequences (Sabbat 67a).
+
+### ‎§. 315. The Spanish Mackerel.
+
+‎This beautiful and tasty fish, belonging to the genus of the tunnies, bore among the ancients, besides several other names, also that of Κολίας [Kolias], Colias, and in the Talmud is called קולים האספנין (Colias Hyspanus) and כופיא (§. 316). Concerning the former name [p. 252] Maimuni says (Machschirin 6, 3): The Colias Hyspanus is a fish with very soft skin and well known among us in the West; it is called al-Schebuto (الشبوط [al-shabbūṭ]).
+
+‎As for the name שבוטא, it occurs in the Talmud so frequently and evidently as the designation of various fishes (§. 337) that it cannot adequately serve to identify our fish; but the statement about the softness of the skin is indeed characteristic, for the tunnies in general have a smooth skin set with very fine scales, and so the statement of the Talmud (Sabbat 145b) that the fish was salted and then eaten uncooked is easily explained, since with the thin skin the salt quickly penetrates the flesh, which, as with the herring species, at once becomes edible. It also shares to some extent the nature of the herring in that in springtime it descends in enormous shoals along the coasts of Ireland, Scotland and Iceland toward the Atlantic Ocean and for the most part passes Portugal and Spain into the Mediterranean (Voigt l. c. 3, p. 189), which may explain the name of our fish. Raschi too calls it (Sabbat 39a) by the later name טונינא, Thonine, though one should not think here of the common tunny, 15—18 feet long (§. 317).
+
+‎As natural-historical data it is further stated of our fish that it need only be washed off with warm water, after which it can be eaten at once (Raschi Beza 16b); that it can live a long time out of water, but that one avoids wetting it, since this is harmful both to our fish and to the two kinds of fish mentioned there (commentaries on Machschirin 6, 3); finally, that it has a weak spine and so cannot swim upstream (Sabbat 145b), which is why it is not found in Eretz Yisrael, since that land lies above sea level (Samuel Edeles on the latter passage).
+
+### ‎§. 316.
+
+‎Conclusion. In Pesachim 39a the question is raised whether on the Passover evening by מרור (bitter herb, which is eaten on this evening) not a kind of plant but מרירתא דכופיא, the gall of the fish כופיא, might be meant. Raschi merely says that כופיא is the name of a fish; Aruch, on the other hand, considers כופיא identical with קולים האספנין, the Spanish mackerel. If this statement is correct, the name can be explained either by the Spanish Chupete, tasty, [p. 253] by which that flavourful mackerel may have been especially designated, or from כפה, to cover, for the mackerels lie hidden in the mud during the winter and keep their head buried in it a few inches deep.
+
+‎That the Talmud specifically mentioned our fish, whose gall will be no less bitter than that of any other fish, may be due to the abundance of this fish, which is thus accessible to everyone and easy to obtain.
+
+‎It should be noted, however, that the migration of the mackerel mentioned in the previous § is doubted by some; they maintain that it spends the winter until May in the mud in the bays of Greenland and Newfoundland; accordingly it could not yet come to us at the time of Passover, which usually falls in April. The Talmud must therefore share the view of others, who have the fish appear on the Spanish coast already toward spring.
+
+### ‎§. 317.
+
+### ‎The Common Tunny.
+
+‎טונוס (Chulin 25a) and אטונוס (ibid. 66b), less correctly for which: אוטנוס (A. Sara 39a). This splendid, large fish, said to reach a size of 15—18 feet, is a clean fish, for it has scales and fins, which fall off only later, when it has been taken out of the water (ibid.). Rubbing with its skin makes wood smooth (Chulin 25a) and yellow (Ps.-Raschi on Nedarim 56b). Its 8—10 false finlets are golden yellow (Voigt l. c. 3. p. 291).
+
+‎Since the tunny (Θύννος [Thynnos], Thynnus) bore among the ancients various other names, by which partly different species, partly the different age periods of the fish were designated, the elucidation of some Talmudic fish names is thereby facilitated, and we therefore give below those names which can be referred to the tunny.
+
+### ‎§. 318.
+
+### ‎The Pelamis.
+
+‎Pliny (h. n. [=Pliny the Elder, Natural History (Naturalis historia)] 9, 15, 18) says: Cordyla is the name given to the young brood which accompany the adults in autumn on their return to the sea; the muddy ones, or those named after the marsh, are called Pelamides, and after a year they are called Thynni. The second [p. 254] name is פלמדא (A. Sara 40a); it is thus the tuna not yet a year old, while the one-year-old and older one is called טוניס (§. 317). The pelamys is clean, because it has scales and fins, although its head (§. 24) resembles that of the unclean fish (A. Sara ibid.), for which reason one may eat individual pieces without hesitation, as long as scales and fins are recognizable (ibid.).
+
+### ‎§. 319.
+
+‎Tail pieces of the tuna. In A. Sara 40a it says: "One may buy from gentiles only fish that have not been cut up, so that one can recognize the kind of fish." The Talmud extends these words of the Mishnah to mean that the fish may indeed be cut up, provided only that the head and the spinal column (§. 24) are recognizable and identifiable. Another is content with a single one of these named body parts; only in the case of ארא and פלמידא, whose head resembles that of the unclean fish, must fins and scales additionally serve as signs of cleanness. Concerning the pelamys
+
+‎פלמידא
+
+‎we have spoken in the preceding article; here we deal with ארא (for which Aruch s.v. פלמדא has the reading פרה, which, however, is found neither in the Amsterdam nor in the Sulzbach edition of the Talmud).
+
+‎As is well known, the tuna was named differently not only according to its different ages, but also according to the different pieces used in the kitchen. Pliny, who speaks of this more than once, says (h. n. 9, 15, 18): The pelamides cut into pieces and portions are divided into the various kinds of Cybia. The Cybia are square, cube-shaped pieces the thickness of a finger (see Harduin on the passage). From the triton (§. 320) the tail pieces were prepared especially as a delicacy, and these were called Uraea cybia, i.e., cube-shaped tail pieces; this is the fish flesh lying nearest the tail*). In Greek too those pieces are called Οὐραῖα κύβια [ouraia kybia]. It is these pieces that our Talmud passage is speaking of. Such pieces were customarily sold, which is why the Israelite must satisfy himself of their cleanness by means of scales and fins, because without these he might perhaps buy pieces of another fish instead of the pelamys.
+
+### ‎[p. 255] §. 320.
+
+### ‎The Triton.
+
+‎Pliny (h. n. 32, 11, 53) says: The triton is of the large kind of pelamydes; it thus belongs to the tuna family, and it is also explained thus by the Talmud commentaries. On Megilla 6a it says: The biblical טמוני (Deut. [=Deuteronomy] 33, 19, explained by Jonathan [=Targum (Pseudo-)Jonathan] as טריתא) is the טרית (triton), on which Rashi remarks: it is the fish called טונינא, Thonine. The possession of this fish was promised as a blessing to the tribe of Zebulun; the territory of this tribe, which lay in the northeast of Eretz Yisrael, bordered on the east on the Sea of Tiberias and on the west on the Mediterranean Sea, and so we recognize the tuna in our fish all the more readily, as it is known that already the Phoenicians carried on tuna fishing on the Spanish coasts. The tunas, however, as already mentioned earlier (§. 315), go from the Atlantic Ocean into the Mediterranean.
+
+‎With the same French word Rashi explains the name on Berachoth 44a, where it says: King Jannai possessed a city from which every week 60,000 barrels of טרית were exported for the use of the pruners of the fig trees.
+
+‎The abundant catch of tuna is well known; thus a single one of those shoals of the fish off the coasts of Languedoc yields 2—3000 hundredweight (Voigt l. c. 3, p. 193), and in this way that Talmudic statement, which admittedly sounds rather exaggerated, can be explained. According to Aruch (s.v. ספל) those vineyard workers are said to have eaten the fish as an aid to digesting the many sweet fruits consumed during work.
+
+‎The expression טרית טרופה means both cut-up triton (Nedarim 51b) and the triton's fish flesh chopped into a paste (A. Sara 35b), while טרית שאינה טרופה (ibid. 39b) denotes such pieces of the triton as have been cut from the fish but not crushed beyond recognition. Rashi (A. Sara 35b) inaccurately translates מין דגים קטנים מלוחים טרית טרופה as "a kind of small salted fish"; Maimuni (ibid. on the Mishnah), by contrast, is more precise; he says: טרית is an unclean kind of fish which is crushed into a paste, and in this case its purchase by an Israelite is not permitted, because one cannot be sure that no components of unclean fish might have been mixed in.
+
+‎The chopped flesh of small fish prepared into a paste is called צחנה [p. 256] (Nedarim 6, 4), which is why the Mishnah rules that whoever has forbidden himself by a vow the eating of צחנה may also not eat טרית טרופה, since both dishes, though made from fish unequal in size, are nevertheless alike in their manner of preparation. Others (commentaries on that Mishnah) take צחנה to be small fish, without specifying their kind more closely, which, however, we can disregard all the more readily, since according to their view too צחנה is understood as small fish, both whole and chopped. Cf., however, the following §.
+
+‎Bochart [=Samuel Bochart, Hierozoicon, sive de animalibus Sacrae Scripturae (Lewysohn used the Frankfurt a. M. 1675 edition)] (Hieroz. [=Samuel Bochart, Hierozoicon (Frankfurt a. M. 1675 edition)] 2, 5, 9, col. 719) takes טרית as fresh fish in general, but his reasons are not cogent enough.
+
+### ‎§. 321.
+
+‎Appendix. In the preceding article we mentioned the Mishnah according to which one who by a vow forbids himself the enjoyment of צחנה may also not eat טרית טרופה. According to all the commentaries, צחנה is said to be small fish; only, as some think, these are crushed and mixed together, or, as others think, whole and salted, among which, however, crushed ones are occasionally also found. Even טרית טרופה is explained by Rashi (on A. Sara 35b), as mentioned earlier, as small fish; accordingly we would venture the following conjecture. טרית has a double meaning: in some passages cited in the preceding article the name denotes the large tunny Triton, whereas in our Mishnah passage it denotes the small anchovy species which in Aristotle (loc. cit. 9, 25, 8) and in Aelian (loc. cit. 6, 32) is called Θρίσσα [thrissa]. The word is derived from Θρίξ [thrix] "hair", because this small fish has hair-fine bones, and perhaps the טרית טרופה was prepared from this small fish, which is why it was regarded as equivalent to צחנה. It may be noted, moreover, that גולדנא too denotes both a large sea fish (§. 352) and a small species of fish (§. 332).
+
+‎What strengthens us in our conjecture is that Rashi also translates צחנתא (A. Sara 39a) as herring (§. 328), and, as is well known, the anchovy belongs to the herring family.
+
+### ‎§. 322.
+
+### ‎The Bonito.
+
+‎בנותא, also בינותא (B. Kama [=Bava Kamma] 19b). This fish too belongs to the tunny family and is thus a clean fish, although [p. 257] nothing explicit is said in the Talmud regarding the cleanness of this fish. Some proverbs extant about this fish illustrate various points of its natural history. The first proverb runs: בינותא אכרסה תקלה "The bonito weighs according to the size of its belly", and the buyer is advised first to have the entrails of the fish removed and then to buy the flesh (B. mez. [=Bava Metzia] 79b). In fact the bonito (Pelamys Sarda, the Amia of the ancients) has a very long gall bladder (Voigt l. c. 3, p. 195), and this, together with the other inedible parts of the interior, may therefore add not insignificantly to its weight*).
+
+‎It seems to have been hung up to dry in the air, for a second proverb runs: "In the presence of one who has a hanged man in his family, do not call out: ""Hang up the bonito for me!""" (ibid. 59b).
+
+‎In that first passage it is related that a donkey, out of hunger, devoured a bonito.
+
+‎In another passage (Beza 28a) it is reported how someone received 7 bonitos as a gift, five of which, however, another person took from him; this caused resentment in the former, but the friendship of the two was not thereby disturbed. From this at least it follows that the bonito must be a valuable fish, which is indeed the case; its flesh is excellent (Voigt loc. cit.).
+
+‎In medicine it is used against diseases of the spleen. One roasts it on smith's coals, then quenches them, and eats the fish together with the water (Gittin 69b). On ביניתא דבי כרבא, which the Tosafot erroneously explain as a fish, see §. 458.
+
+### ‎§. 323.
+
+‎In Chulin 66b and in the parallel passage A. Sara 39a, five species of fish are placed side by side, of which it is stated that they are clean because they possess scales and fins in the water but sometimes lose them when they are taken out of the water, i.e. because these are not firmly attached, they can easily lose them through some accident or other. This single statement, of course, cannot greatly advance the identification of the fish. These fish are called: 1) אקונס, 2) אפונס, 3) כספתיאח, 4) אכספטיאם and [p. 258] 5) אטונס. In that parallel passage the third fish is called כטספטיים and the fifth אוטנם; the latter word is incorrect (§. 317), but even for אטונס, טוניס is more correct, and so the remaining names too—quite apart from the fact that those variants already render the present spelling doubtful—are probably written corruptly as well, whereby the identification is indeed made more difficult, but at the same time wide scope is left for conjecture. Rashi considers all those names to be Persian; but אטונס is evidently the Greek Θύννος [thynnos] (§. 317), and the other names too betray Greek origin. We shall now attempt to determine those four names, since אטונס has already been dealt with earlier.
+
+### ‎§. 324.
+
+### ‎A Species of Tunny.
+
+‎The first of those five fish is the אקונס (Chulin 66b). I conjecture that it is the Greek Ὄρκυνος [orkynos], by which Aristotle (loc. cit. 5, 9, 5) denotes a large species of tunny*). Pliny (loc. cit. 32, 11, 53) says: The Orcynus is the largest species of pelamys and does not, like the Triton, return into the Sea of Azov (Maeotis); with age it increases in value**). Because of its very long pectoral fins it is, as is well known, also called Alalonga.
+
+### ‎§. 325.
+
+### ‎A Species of Fish.
+
+‎The second of those five fish is the אפונס (Chulin 66b). It belongs to the clean fish because its scales and fins could have fallen off through some accident or other after it was taken out of the sea.
+
+‎Following the etymology of אקונס in the preceding [p. 259] article, we would also compare אפונס with Ὀρφῶς [orphōs], whose diminutive is Ὄρφιον [orphion]. In Aelian (Thierg. 5, 18) the fish is called Ὀρφός [orphos], for which Ὀρφανός [orphanos] is also written. Perhaps, then, אפונס means the orf, though here, admittedly, we must limit ourselves to conjecture only.
+
+### ‎§. 326.
+
+### ‎The Sea Blackbird (Wrasse).
+
+‎The third of those five fish is the כספתיאה (Chulin 66b), a word which Mussaphia explains as כוססםום, i.e. Κόσσυφος [kossyphos]. This fish lives under rocks and is called Κόττυφος [kottyphos] in Aristot. (loc. cit. 8, 17, 1), Turdus in Plin. (loc. cit. 9, 15, 20).
+
+### ‎§. 327.
+
+### ‎The Swordfish.
+
+‎The fourth of those five fish is the אכספטיאס (Chulin 66b). The א is prosthetic, and כספטיאס appears to be the Greek Ξιφίας [Xiphias], in which case the ט must be elided; if, however, we drop the כ, then ספטיאס corresponds to the French Espadon and the Italian Spada, by which the swordfish is likewise designated. Buxdorf [=Johannes Buxtorf, Lexicon Chaldaicum, Talmudicum et Rabbinicum (Basel 1640)] (Lex. p: 1068) also conjectures the Ξιφίας [Xiphias] in our word, and if we add that in the swordfish the dorsal fin gradually wears away, so that the originally undivided fin thereby appears as two fins, this corresponds in part to the Talmudic statement that the אכספטיאס is clean, because its fins and scales are lost over time.
+
+### ‎§. 328.
+
+### ‎The Herring.
+
+‎חילק (A. Sara 39a; Halec, or Alec), סולתנית (ibid.) and, according to Rashi, also צחנתא (ibid.). In Aristotle, Pliny and Aelian the herring is not yet mentioned.
+
+‎In our Talmudic passage חילק and סולתנית are identified with each other, for which reason Rashi's explanation of סולתנית at Chulin 66a by טונינא, Thonine, is incorrect, since the herring forms a genus of its own, whereas the tunny (אטונס, §. 317) is in that passage directly contrasted with the herring. [p. 260]
+
+‎For the herring comes into the world with neither scales nor fins and acquires them only later, whereas the tunny has them early and only loses them later.
+
+‎Now although the herring may be eaten, one should nevertheless not buy it from a heathen, because when it is caught the unclean fish ערבונה comes up with it and can easily be taken for it (A. Sara 39a); cf. the following §.
+
+‎It should be noted, however, that later decisors did not understand חילק as the herring; thus Karo on Tur Jore Dea §. 83 cites authors who flatly assert that the herring (הרינגיש) is never salted together with unclean fish; since the Talmud expressly states that the חילק is customarily salted with unclean fish, those authors do not consider the חילק to be the herring. However, apart from the fact that the name seems all too closely related to the Latin Halec, that assertion about the admixture of foreign fish is also not yet to be accepted as unconditionally correct; cf. the following article. On the food of the whales, which consists chiefly of herrings (הרינגן), and which are sometimes still found inside the whale, cf. §. 180 and below §. 336.
+
+### ‎§. 329. The Sprat.
+
+‎A. Sara 39b it is ordained that one may not buy salted herrings from heathens, because together with the herring the unclean fish ערבונה is caught and salted and can therefore easily be confused with it; but one may buy the herrings from someone knowledgeable about fish, because he separates out the ערבונה (ibid. 34b). Here Rashi states that the ערבונה has a bad taste, spoils the herrings and may even be harmful to the whole load of the latter.
+
+‎As regards first the name, it is taken not as a proper name but as a Nom. appellativ. from ערב "mixed," and the question arises which fish is to be thought of here as the admixture to the herrings. I conjecture the sprat (Clupea Sprattus); it is smaller than the herring, but likewise occurs in the North Sea and the Mediterranean, is salted like the herring and eaten as a finer kind of herring (Voigt l. c. 3, p. 248); some naturalists even take it to be the young herring, though erroneously, on which [p. 261] one may compare Blumenbach: Handbuch d. Naturg. [=Aristotle, History of Animals (Historia animalium; German title Naturgeschichte)] p. 301. The fish expert will therefore sort out the sprat not as an inferior fish (as Rashi would have it) but as a better fish, by which that Talmudic ordinance can be accounted for; that the sprat was regarded as an unclean fish, however, is easily explained, since it has a pointed head (Voigt loc. cit.), which, as is well known, is a sign of uncleanness (§. 24).
+
+### ‎§. 330.
+
+### ‎The Anchovy.
+
+‎עפיאן (Chulin 66a, for which, however, more correctly אפיאן) and עפיץ (A. Sara 39a, for which, however, more correctly עפרץ). The Ἀφύη [Aphyē], or Ἀφρός [Aphros] (Arist. [=Aristotle] l. c. 6, 14, 2) is the anchovy; it bears its name because it was believed to have arisen without reproduction (α-φυη [a-phyē]) from foam (Ἀφρός [Aphros]); therefore the reading אפיאן is to be preferred, since the alpha privativum is encountered several times: thus the young of a bird that is not yet fledged is called אפרוח from א-פרוח; the indivisible unit אחד from א-חד; the earth, held according to ancient view to be immovable, ארץ from א-רץ; cf. on this my contribution in the "Lien d'Israél" 1. année p. 126.
+
+‎Of the anchovy the Talmud says (l. c.) that, like the herring, it comes into the world with neither scales nor fins, but acquires them later and is therefore clean.
+
+### ‎§. 331.
+
+### ‎The Minnow.
+
+‎מוניני. This word otherwise also means juice, thus מוניני דקמצי, the locust juice obtained by salting (Sabbat 110b), מוניני דנקירי, the juice of salted birds; but the word also occurs on its own and is rendered each time by Rashi as "small fish." Thus it is said: If a pregnant woman accustoms herself to eating מוניני, the children get trembling eyes (Ketuboth 60b). Eating מוניני is harmful after fasting (A. Sara 29a); finally it is related that Joab supplied the poor of the city with everything, even with מוניני and צנונא (§. 333), to which Rashi adds: These kinds of fish are delicate and true delicacies (Sanhedrin 49a). The word appears to be composed of מו "water" and ניני "fish"; specifically I conjecture the minnow (Cyprinus [p. 262] Phoxinus, engl. the Minow, Voigt (l. c. 3, p. 229) says of it: A small, tasty fish reaching only a few inches.
+
+‎Only at Gittin 69b does Rashi translate the word by: צ׳ר דגים קטנים.
+
+### ‎§. 332.
+
+### ‎A Small Kind of Fish.
+
+‎גולדנא (Tamid 32b) and גילדנא (Keritot 6a). Landau compares the word with Γαλεώτης [Galeōtēs], swordfish; but this fish is named differently in the Talmud (§. 327); the comparison with Γαλεούδη [Galeoudē], by which a shark-like fish is designated, is probably more correct. This fish, about whose size fables are told, is called גילדנא דימא (B. batra 73b; see §. 352), whereas the species of fish that perhaps bears some resemblance to that sea fish is called גולדנא דבי גילי, “the Gildane of the reeds,” because it is small and lives among reeds.
+
+‎Rashi says on the latter passage: The Gildanen are very small fish. From the statements of the Talmud, however, the nature of the fish can hardly be determined. It is salted and can be eaten as soon as it has been washed off (Tamid 32b); it must be tasty, since Alexander the Great was served with it (ib.), and a man who wanted to win his lawsuit brought a basket full of these fish to the judge as a gift (Jalkut Schim. Exodus fol. 96, col. 3). It is also roasted, however, in which case it is recommended not to skin the fish, because otherwise the fish falls apart (Sanhedrin 100b).
+
+### ‎§. 333.
+
+### ‎The Umbrine.
+
+‎While the commentaries on צחנה and ציחין (Nedarim 51b) disagree as to whether those names denote a particular small species of fish or a chopped, paste-like mass prepared from fish flesh, צחנתא is a particular species of fish. A. Sara 39a states: The צחנתא of the river Bab (בב in Persia; see Rappoport in the ערך מלין s.v. איתן*) is permitted to be eaten, since the bed of this river produces no unclean species of fish; but since the rivers Gamda and Etan (גמרא and איתן thus in the parallel passage Succa 18a; in our passage גוא stands [p. 263] for איהן) flow into the river Bab, the צחנתא may not be eaten, since those rivers carry unclean fish with them. Rashi in our passage translates צחנתא by חילק “herring” (§. 328), but incorrectly, since the herring is a sea fish and not a river fish. In that parallel passage Rashi translates צחנתא imprecisely by מין דגים קטנים “a small species of fish” and gives as the reason for its uncleanness the small, barely visible fish lice (שקצים) which are said to cling to the צחנתא; but apart from the fact that the wording of the Talmud passage does not in the remotest way hint at that reason, it rather states explicitly that the river bed produces no unclean fish (לא מרבה טונא דג טמא*): we must therefore seek the reason for its uncleanness not in those parasites but in the shape of the fish. We conjecture that צחנתא, like צחנה, is the Greek Σκίαινα [Skiaina], Latin Sciaena, by which the umbrine is designated. What makes this assumption probable is the following statement of the Talmud (A. Sara ibid.). There it is related: “A scholar came to the town of Agma; there a צחנתא was set before him; but he heard the server call the fish באטי (thornback ray, see in detail §. 344), for which reason he did not eat the צחנתא; he also examined the fish and found a sign of uncleanness on it.”
+
+‎The question now arises how the fish צחנתא, which as the umbrine has roughly the shape of the perch, could be given the same name as the thornback ray? In fact, however, both fish have some resemblance precisely with regard to thorns. The umbrine has thorns on the gill cover (Voigt l. c. 3, p. 176), and the Βάτος [Batos] (Raja rubus), as is well known, has small spines or thorns, from which the name of the fish derives. Thus it can be explained that the umbrine was formerly eaten, but was later forbidden, because it was to be feared that it might be confused with the ray, which is really unclean (§. 344). It is not surprising that fish suddenly appear in regions where they were formerly not present; thus the ray may formerly not have been present in the river Bab, but when it later appeared there, popular speech mixed up the names of the two fish, the umbrine and the ray, misled solely by that feature of possessing thorns, whereupon the rigorous ordinance followed.
+
+### ‎[p. 264] §. 334.
+
+### ‎The Bream.
+
+‎אברומא (Succa 18a). Rashi explains: מין דגים קטנים “a small species of fish”; but the word is the Greek Ἀβραμίς [Abramis] and probably denotes the bream (Abramis Brama, Voigt l. c. 3. p. 225). It grows 2 to 3 feet long and 10 to 20 pounds in weight; it is an excellent river fish.
+
+‎According to the Talmud it may not be eaten everywhere, for which Rashi gives as the reason the unrecognizable parasites that sometimes cling to it, which, however, does not follow from the wording of the Talmud; cf. the preceding article, and §. 488.
+
+### ‎§. 335.
+
+### ‎The Eel.
+
+‎צלופחא (A. Sara 39a). Rashi explains the word by אנגילא, Anguille. It is unclean because it has no scales (§. 24). This statement rests on a lack of examination of this fish; it does indeed have very fine and delicate scales, hidden deep in the mucous skin, and thus the story told there can also be explained. Rabbi Ashi came to Tamdoria, where an eel-like fish was set before him; he held it up against the sun and noticed very fine scales on it, whereupon he permitted it to be eaten. As is well known, 11 genera of this fish are distinguished, and some one of them is meant here. See Beumer (Popul. Naturg. p. 280).
+
+‎Some write צלבחא, for צלב has the basic meaning: to be smooth, naked; see Fürst [=Julius Fürst, Hebräisches und chaldäisches Handwörterbuch über das Alte Testament (Leipzig 1857–61)] L. Bl. des Orients [=Literaturblatt des Orients (Leipzig 1840–51), the literary supplement of Der Orient] 1849, col. 379.
+
+### ‎§. 336.
+
+### ‎The Moray.
+
+‎This fish is not mentioned in the Talmud, but it is in the Tosephot (Bechoroth 7b. s.v. רוב). It says there: One may eat the מרנש which are found in the whale (§. 180). But already the Piske Tosephoth read here more correctly הרינגן “herrings” for מרנש, for apart from the fact that morays, because of their size—they grow 3 feet long—do not serve as food for the whale, which, as is well known, has a very narrow throat, the moray, as belonging to the eel family, will probably also not be permitted to be eaten; it also lacks the pectoral and ventral fins.
+
+### ‎[p. 265] §. 337.
+
+### ‎The Sturgeon.
+
+‎The name שבוטא designates many species of fish (see §. 315 and §. 338); in the passage Chulin 109b it seems to mean the sturgeon. It says there: For every thing that the Law forbids there is an equivalent that is permitted to be eaten: the pig is forbidden; in its place it is permitted to eat the brain of the שבוטא*). Bochart (Hieroz. 2, 4, 14, col. 752) takes שבוטא to be the bass (or sea bass, Voigt l. c. 3. p. 153), because this fish is spotted and שבץ means golden, i.e., many-coloured. This weak argument truly hardly requires refutation.
+
+‎The following speaks for the assumption of the sturgeon. Rashi says: The brain of the fish has the taste of the flesh of the pig. The Talmud, however, does not seem to have meant this, for the sturgeon has the taste of veal (Voigt ibid. p. 280), and though the brain, as the juicier part, may be more flavourful, nowhere is that statement about the similarity of its taste to pork confirmed. Our Talmud passage can, however, well be explained as follows. The head of the sturgeon is strikingly similar to a pig's head; it has a short, blunt, yet pointed snout; the upper snout is protrusible and extends far over the lower snout. The ancients therefore called it Porcus marinus (Plin. h. n. [=Pliny the Elder, Natural History (Naturalis historia)] 32, 5, 19), or Porculus marinus (ibid. 9, 15, 17); in Italian the sturgeon is called Porcelleto.
+
+‎Harduin (on the former passage) says: Ambrose too mentions the sea-pig, reporting that the Jews eat sea-pigs but abstain from land pigs**). There can therefore be no doubt that the sturgeon is meant in our Talmud passage.
+
+‎Perhaps we should also suppose it in the following passages. It says: Eating the flesh of the שבוטא in the days of Nissan predisposes to leprosy (Pesachim 112b***), and indeed sturgeon flesh is very fatty and may therefore well bring on that disease. [p. 266]
+
+‎Further: The head of this fish, salted, is a remedy for jaundice (Sabbat 110b).
+
+‎Finally: A Rabbi salted the שבוטא in honour of the Sabbath (ibid. 119a and Kiduschin 41a). However, the flesh of the sturgeon is not exactly excellent; it is even hard to digest.
+
+‎According to the Jerusalem Talmud (A. Sara ch. 4, fol. 69b) the שבוטא does not exist in Eretz Yisrael.
+
+### ‎§. 338.
+
+### ‎The Red Mullet.
+
+‎The red mullet (Mullus barbatus) is, probably erroneously, understood by the Aruch (manuscript in Buxdorf lex. p. 2311) under שבוטא (§. 337), but is mentioned by the Tosephot (A. Sara 40a. s.v. אמר); it is called בורבוטא. It is clean, because it possesses scales and fins and sheds them only out of the water. Indeed, the characteristic feature of the Mullidae is that the body and gill covers are covered with broad, easily shed scales.
+
+‎However, the later decisors are not of one opinion about the cleanness or uncleanness of our fish; cf. Karo on Tur Jore Dea §. 83; cf. also below §. 510.
+
+### ‎§. 339.
+
+### ‎The Weatherfish.
+
+‎קבר נונא (A. Sara 39a). Rashi and the Tosephot have different readings; according to the former the קבר נונא is an unclean fish, according to the latter a clean one. The Talmud itself gives guidance on the etymology of the fish's name by comparing קבר with קברי "graves"; we must therefore think of a fish that buries itself, and this is the case with the goby, namely with the weatherfish belonging to this genus. This fish (Cobitis fossilis) is found most frequently in the mud of marshes, where it buries itself in winter. The difference in ritual respect may, as Landau rightly supposes, have arisen from the fact that according to the Tosephot the קבר נונא is understood as the weatherfish (not the gudgeon, since this is not identical with the goby), whereas according to Rashi it is the stone loach (§. 340). The weatherfish is clean, because it has fins and scales; the stone loach, on the other hand, is scaleless.
+
+### ‎[p. 267] §. 340.
+
+### ‎The Stone Loach.
+
+‎According to Rashi's reading, the קבר נונא mentioned Ab. Sara 39a is unclean. Landau rightly supposes the stone loach here; it is eel-shaped and scaleless, at least the very small scales in the slimy skin are hardly visible; but it belongs to the genus of the goby and can therefore rightly be called נונא קבר (§. 339).
+
+### ‎§. 341.
+
+### ‎The Hammerfish.
+
+‎שפר נונא (A. Sara 39a). Here too Rashi and the Tosephot have different readings; according to the former the שפר נונא is clean, according to the latter unclean; but that the reading of the Tosephot is the more correct emerges from the passage that follows there; it is related: Rabbi Ashi came to a place where they showed him a fish that resembled the שפר נונא; it should accordingly have been regarded as unclean, but since the Rabbi placed the fish in a white basin and thereby perceived the scales (Rashi: which are black), he permitted this fish to be eaten. Accordingly the שפר נונא itself is unclean.
+
+‎As for the name, Mussaphia (s.v. אספרון) explains it by the Greek Σφύραινα [sphyraina], the hammerfish, of which there are several species. The fish here given as unclean is the species Sphyrna Tudes, which is almost smooth-skinned and on which the spines are almost imperceptible.
+
+### ‎§. 342.
+
+### ‎The Common Hammerhead.
+
+‎In the Talmud passage cited in the preceding article, a fish resembling the hammerfish is declared clean after scales were noticed on it; this is the species Sphyrna Zygaena; its skin is indeed scaleless, but it is rough and finely spined, and these spines were regarded as scales, which is why the fish was declared clean.
+
+### ‎[p. 268] §. 343.
+
+### ‎The Peacock Wrasse.
+
+‎קרש נונא (A. Sara 39a). Rashi and the Tosafot have different readings. These variants can be explained by the fact that the קרש נונא, which we shall identify as the peacock wrasse, has no swim bladder, and is therefore declared unclean by some, while others declare it clean on account of its scales and fins.
+
+‎As regards the name, cf. Aristotle (loc. cit. 6, 16, 3); here he says: The Αὐλωπίας [Aulōpias] (i.e. the hollow-eyed one) is also called ᾿Ανθίας [Anthias], and it spawns in summer; further (ibid. 9, 25, 3): "Where an ᾿Ανθίας [Anthias] is seen, there is certainly no ravenous sea creature nearby; therefore the persons who dive for sponges also take it as an indicator, and call it the sacred fish."
+
+‎Whether the fish received the latter name because it prefers to stay on the sea floor and its sluggishness is interrupted only by the prey which it pursues up to the surface, from which circumstance it is correctly inferred that no predator can be in its vicinity, since the latter, for the sake of prey, likes to stay near the surface; or whether it is because this flat-built fish, lying and swimming, holds its eyes, which are set obliquely to one side, toward heaven — in either case this fish, which we also call the halibut ("Heiligenbutt"), is certainly meant in our Talmud passage*).
+
+### ‎§. 344.
+
+### ‎The Thornback Ray.
+
+‎A. Sara 39a relates: Rabbi bar bar Chana (Aruch has: bar rab Huna) once came to the fortress of the city of Agma (in Persia, see Rappoport: ערך מלין s.v. אקרא). There they set before him an umbrine (§. 333), but he heard a man call it באטי, whereupon he did not eat the fish; he examined it and found the fish indeed unclean.
+
+‎From this it follows that the באטי (Aruch reads בטי) must be unclean in itself; it is the Βάτος [Batos], the true Raja rubus; the ray, as a cartilaginous fish, is rightly unclean (§. 24). Because of [p. 269] its spines or thorns it was given the same name as the umbrine in the popular language, cf. §. 333.
+
+### ‎§. 345.
+
+### ‎The Sand Smelt (Soclet).
+
+‎A Sara 39a relates: Rabbi Akiba once came to Ginsak; there they brought him a fish that resembled the חיפושא; he covered it with a basket, in which (through the fish's jumping) scales were noticed, whereupon the fish was declared clean. From this it follows that the חיפושא itself is unclean. This word, for which Aruch writes חפושית, seems to be the Greek Ἑψητός [Hepsētos]. This fish, which Aristotle mentions (loc. cit. 6, 14, 1), is probably the Atherina Hepsetus, or the soclet, French Cabassou. It has a somewhat pointed head and may therefore have been regarded as unclean (§. 24). This fish resembling the חיפושא is probably the חפיתא, cf. Appendix s.v. חפיתא and the following article.
+
+### ‎§. 346.
+
+### ‎The Nonnat.
+
+‎In the Talmud passage cited in the preceding article it is said that the fish resembling the soclet was declared clean; this may be the related species, Atherina Presbyter; it is sold in quantity in the seaport towns; this fish may well be the חפיתא, cf. Appendix s.v. חפיתא, and the preceding article.
+
+### ‎§. 347.
+
+### ‎The Sea Mouse.
+
+‎עכבר שבים (Chulin 126b) is, in contrast to the land mouse, not a source of uncleanness. Rashi says: It is a fish which resembles the mouse and is also so named. In Pliny (h. n. 8, 19, 35) the Mus marinus is a kind of shellfish; but since Rashi sees a fish in עכבר שבים, one should perhaps think of the Μῦς τὸ κῆτος [Mys to kētos], which fish, according to Aristotle (Thierg. 3, 10, 13), goes ahead of the whale; here, however, there is also the reading Μυστικῆτος [Mystikētos], which is explained as a species of whale (perhaps Balaena mysticetus, Voigt l. c. 1, p. 470).
+
+### ‎[p. 270] §. 348.
+
+### ‎The Sea Ox.
+
+‎תורא דימא (A. Sara 39a), an unclean fish. This is the Βοῦς θαλάσσιος [Bous thalassios] in Harduin (on Plin. h. n. 9, 24, 40) and Βοῦς [Bous] in Aristotle (loc. cit. 6, 11, 1), a cartilaginous fish, namely a species of ray, and therefore rightly forbidden as food; cf. §. 344.
+
+### ‎§. 349.
+
+### ‎The Sea Ass.
+
+‎חמרא דימא (A. Sara 39a), a clean fish. In Pliny (h. n. 9, 16, 28) a species of fish is called Asellus, the little ass. He says: Of the Aselli there are two kinds, the Callariae and the Bacchi; the latter are caught only in the sea and are thus superior to the former*). The Aselli form the genus of the haddock-like fishes (Schellfische). The Callarias is the codling (in Linnaeus: Gadus Callarias); the Bacchus is the cod, which is spotted and shaped just like the codling, but is much larger and attains a length of 3 to 3½ feet and a weight of 70 to 80 pounds. In Aristotle too (l. c. 9, 25, 3) the haddock and the whole genus are called Ὄνος [Onos].
+
+‎The haddock-like fishes have fins and very small scales and are therefore clean.
+
+### ‎§. 350.
+
+### ‎The Sea Goat.
+
+‎עיזא דימא (B. batra 74a). Here it is related: Once we were travelling by ship and saw a fish which raised its head out of the sea. It had horns, on which was written: "I am a small sea creature."
+
+‎But it was 300 Parsi (a measure of miles) long and nevertheless went into the mouth of the whale.
+
+‎Thereupon Rabbi Ashi said: This was the עיזא דימא (goat of the sea), which has horns and digs for food with them.
+
+‎This mixture of fable and truth does not prevent us from collecting the natural-historical elements, which indeed readily present themselves here. The Talmud is thinking here of a sea monster that bears horns. Now there are several kinds of so-called horn-fishes. We list them here according to [p. 271] size. A. The horn-fish in the Mediterranean Sea; it does not grow longer than 1 foot (Beumer: Popul. Naturg. p. 277).
+
+‎B. The garfish in the North Sea and Baltic, of various species, from one ell to eight feet long (Voigt l. c. 3. p. 235).
+
+‎C. The horned ray (Cephalopterus cornuta), about 5 feet wide but only 1½ feet long (Voigt ibid. p. 297); finally D. the horn-fish or swordfish (§. 327), which with its sword becomes 18 feet long and about 5 hundredweight in weight (Blumenbach: Handb. d. Naturg. [=J. F. Blumenbach, Handbuch der Naturgeschichte] p. 282).
+
+‎It seems that the monster mentioned by the Talmud is to be sought in the group mentioned above under C. The two pectoral fins extend, like two horns, beyond the head. The fish was described by Giorna in Turin, which is why it is called the Giorna.
+
+‎Let it finally be noted that the Tosephot (A. Sara 39a s.v. וסמנך) identify the sea-goat with the שבוטא, since the latter word is indeed a general designation of various kinds of fish.
+
+### ‎§. 351.
+
+### ‎The Sunfish.
+
+‎B. batra 74a relates: We were once travelling by ship and saw a small chest inlaid with precious stones; it was followed by a fish called כרשא. A man skilled in swimming wanted to fetch the chest, but was threatened with being wounded by the fish, whereupon he poured a skin of vinegar around himself, so that the fish was driven away by the smell of the vinegar.
+
+‎Above all, we must here emphasize the point that the fish was drawn to the shining object; then we must determine the name. The word is Persian and means sun (cf. خورشید [khurshīd]), and if we take כרשא to be the sunfish, the Talmudic legend is analogous to a later one in which the first-mentioned property of the fish is repeated. Our fish is also called St. Peter's fish and bears this name because of the following legend. The apostle once caught a sunfish and found in its mouth the stater with which he was able to pay the toll; he then threw it back into the water. Here too, then, we see that property alluded to, namely the fish's going after shining things; if we add that the sunfish lives in the Mediterranean and the Adriatic Sea, it is all the more likely that this sea fish may be meant in our [p. 272] passage.
+
+‎It is well known that fish possess a sense of smell and therefore readily flee from foul-tasting vinegar. Many fish are attracted by smells just as they are driven away by them. Voigt l. c. 3. p. 123.
+
+### ‎§. 352.
+
+### ‎The Dogfish.
+
+‎B. batra 73b tells, in the usual manner, a fable about the size of a sea fish; a ship sailed for three days from one fin to the other. Then it says: This was the גילדנא דימא, which has two fins on its back. The glossator explains: the גילדנא, which otherwise designates a small kind of fish (§. 332), is here one of the small sea fish and, whereas these have only one dorsal fin, has two of them.
+
+‎Landau compares the word with Γαλεώτης [Galeōtēs], the swordfish; but the error is evident if only because the swordfish (§. 327) has only one dorsal fin.
+
+‎More correct is the Γαλεούδη [Galeoudē] frequently mentioned by Aristotle, by which a spotted shark is designated. Schneider always translates the word as Mustela; Aristotle probably had in mind the Squalus catulus, the little sea-dog or dogfish, which is spotted like the weasel (Γαλῆ [Galē]).
+
+‎This fish does indeed have two dorsal fins, but grows only 2 to 3 feet long; yet this measure of length cannot prevent us from understanding גילדנא as the said shark, since even the basking shark, which can grow to 50 feet long, is still far too small for that fabled size. In any case the swordfish cannot be meant here.
+
+### ‎§. 353.
+
+### ‎A Kind of Fish.
+
+‎In Machschirin 6, 3 the Mishna mentions three kinds of fish of which one may presume, in ritual respects, that they were kept dry after being caught, because subsequent wetting would be harmful to them. These are the Spanish tunny, which has already been treated (§. 315), the Egyptian fish, see the following §., and the fish אלחית.
+
+‎Maimuni and Ascheri take the latter word as a proper name, Bartenoro regards it as a patronymic name; Simson and the Aruch give both explanations.
+
+‎The grouping of our fish with קולים האיספנין and דג המצרי is admittedly not yet sufficient reason to regard אלחית as well as a fish named after the place [p. 273] where it lives; but this assumption would in any case be better suited to making identification possible, apart from the fact that it is made, wholly or in part, by some of the commentaries mentioned. I take אלחית to be compounded of אילת and ית. The adjectival ending is as in ירושלמ־ית, in יונ־ית and others; by אילה would be understood the city אילת mentioned in Deut. 2, 8. This Idumaean city lay on the eastern bay of the Arabian Gulf, on the so-called Aelanitic Gulf (Rosenmüller [=E. F. K. Rosenmüller, Handbuch der biblischen Alterthumskunde, vol. 4, part 2 (Leipzig 1831)]: Bibl. Alterth. [=E. F. K. Rosenmüller, Handbuch der biblischen Alterthumskunde (Leipzig 1823–31)] vol. 3, p. 86 ff.). The fish, which lives in the Arabian sea, may have been named after this seaport.
+
+‎The Mishna speaks of חתיכות אלחית „pieces of the Iltith“, since this fish was sold in pieces (rather as eels, salmon and others are now).
+
+### ‎§. 354.
+
+### ‎A Nile Fish.
+
+‎In the Mishna cited in the preceding article mention is also made of the דג המצרי „Egyptian fish“, of which it is said: הבא בקיפה, that it is brought in masses, to which Maimuni adds: It is a very small fish, it is sold by the heap, is very well known in Egypt and is called: al-Nachzo.
+
+‎Pecockes (Beschreibung des Morgenlandes part 1, p. 202, German transl. p. 315) lists the following fish living in the Nile: the Bulti, Sebuga, Rai, the trout (as the Franks call this kind of fish), the Kescher, and the Latous. All these fish, however, are large, and therefore, according to Maimuni's explanation, our fish cannot be identical with any of them. Nor is it likely to be the fish of which Pecockes says: There is there a small fish which in Upper Egypt is called Gurgu and in Cairo Shallh, and which grows at most a foot long; for this fish too, as one sees, is not very small. On the other hand, cf. Rosenmüller (Bibl. Alterth. vol. 3, p. 215), who says: “Ancient and modern writers praise the abundance of fish of every kind which the Nile carries with it. Especially when the river rises it is filled with thousands of small fish called Sir (صير [ṣīr]), which pass into the ponds and pools and, fresh and salted, provide a tasty food”; cf. also Midr. [=Midrash] (Rabba Schemoth fol. 117a), where the דגים קטנים are mentioned.
+
+‎This seems to be a [p. 274] kind of anchovy, which is salted like herring; in French, as is well known, called Anchois; might there be a linguistic kinship here with Nachzon? The Mishnah states that wetting this fish outside the water would be harmful to it.
+
+### ‎§. 355.
+
+### ‎The Plaice.
+
+‎In three parallel passages (Pesachim 24a; Maccoth 16b and Erubin 28a) it says: Whoever eats a פוטיתא violates a fourfold prohibition. Raschi explains the animal as שרץ המים, i.e., as an aquatic creeping creature, which is small and scarcely the size of an olive.
+
+‎Aruch, on the other hand, explains it as an unclean fish which is identical with גוריתא.
+
+‎The latter name, however, is nowhere used in the Talmud as the name of a fish; even in the passage (Chulin 109b) where it is said that for the forbidden גירותא the כורא was permitted as an equivalent, the former word is not a fish name, cf. above p. 180.
+
+‎The only question is which fish the פוטיתא, for which Aruch reads פטהא, is supposed to be.
+
+‎From the circumstance that eating the פוטיתא involves a fourfold prohibition, however, we may safely conclude that a kind of fish is meant here which, by virtue of its nature, can also be regarded as an aquatic creeping creature. This is the kind of the half-fishes, or the plaice. It lies mostly on the bottom of the sea and is blind on that side, sometimes also shaggy on it; added to this is that, in the opinion of the ancients, the plaice does not arise through copulation; thus Aristotle says (loc. cit. 4, 11, 4): There are among the fishes several kinds which, just like the testaceans and the plants, do indeed bring forth young, but without any copulation taking place; to these belong, among the fishes, the plaice, Ψῆτται [psēttai].
+
+‎With this Greek word פטהא has a recognizable kinship through transposition of the letters, and פחטא may therefore be the more correct spelling; however, transpositions in words that passed from the Greek into the Aramaic language are not rare; thus גמלן (§. 409) means large, like μέγαλον [megalon]; נמלה, harbor, like λιμήν [limēn]; ערוד (§. 300) water snake, like Ὕδρος [Hydros]; קרש (§. 146), like Ὄρυξ [Oryx]; אנקה (§. 134), like Ἐχῖνος [Echinos], אונקא, like πύχην [pychēn], neck; הירדוליס, ὕδραυλις [hydraulis], water organ; also אוקינוס, hook, is the Latin Uncinus; קאקגרסין, wicked, for κακοῦργος [kakourgos] etc.
+
+### ‎[p. 275] §. 356.
+
+### ‎The Sole.
+
+‎Nidda 25b it says: If a woman brings forth an abortus in the shape of a סנדל, she must, in ritual respect, observe the regulations of an actual birth. The Talmud adds the explanation: סנדל resembles the sea fish which is called סנדל “sole”; at first the fetus was normal, but was later flattened; another adds: סנדל has the shape of an ox tongue.
+
+‎Evidently the sole (Pleuronectes solea) is meant here; in Latin it is called Solea, in Greek Βούγλωσσος [Bouglōssos] (ox tongue). The fish is three times as long as it is broad, and thus indeed has the surface dimensions of the sole of a foot; in shape it resembles the ox tongue, cf. Harduin on Plin. h. n. 9, 20, 36. The Romans called the fish Linguata; in Varro it is called Lingualaca.
+
+### ‎§. 357.
+
+### ‎The Spiny Fish.
+
+‎Sabbat 77b it is said that the לויתן is afraid of the כלבית. Through the error of translating לויתן as crocodile, a second error was committed, that of explaining כלבית as ichneumon. It has, however, been proven to the point of evidence that לויתן does not mean crocodile but whale (§. 179), in which case כלבית naturally cannot be the ichneumon either.
+
+‎Raschi explains the animal as a small insect which is said to crawl into the ear openings of the great fish. Since the whale has no ear openings but nostrils or blowholes, we must probably make an emendation in Raschi, all the more so as B. batra 73b also speaks of an insect (the whale louse §. 448) which crawls into the whale's blowholes. This insect, however, is called not כלבית but אוכלא טונא.
+
+‎The Aruch explains the animal differently; he says: The כלבית (in our edition of the Talmud כלבית) is a small unclean fish. This explanation is all the more correct since כלבית in A. Sara 40a and כלבית in Chulin 97a occur expressly as names of fish.
+
+‎We must now seek the enemy of the whale among the fishes. Known as such are 1) the grampus (Delphinus Orca); several of these animals attack the whale and harry it until it opens its jaws wide, whereupon they devour its tongue (Voigt l. c. 1, p. 465). This fish cannot be meant in our [p. 276] passage, since, first, it is not small and, second, it does not attack the whale singly. — 2) The sawfish (Pristis antiquorum); it lives in eternal enmity with the whale, and while the latter defends itself with its powerful tail, the sawfish springs out of the water over its enemy and thrusts its saw into its body.
+
+‎This fish too is hardly likely to be meant in our passage, for it too is not small, growing 12 to 15 feet long, and it attacks the whale only from the outside.
+
+‎I therefore believe I may conjecture the globefish (Stachelbauch), also called porcupine fish. Its skin is covered all over with strong, bony spines, which makes it unassailable by other fishes. When agitated it inflates itself, whereby it swells and then turns over, so that the belly lies uppermost; the spines then stand erect. Since it lives in the Indian Sea as well as in the Atlantic Ocean, it is just as destructive to the predatory sea fishes as the stickleback is to the predatory river fishes, and it may therefore be meant in our passage. It often measures a cubit, but sometimes only a foot, in diameter, and can therefore in any case be described as a small fish in comparison with the whale. The whale, however, is afraid to attack the porcupine fish because of its spines.
+
+‎Admittedly, what has been said can make no claim to certainty; perhaps כלבית may denote the dogfish shark (§. 352), whose natural history requires further investigation.
+
+### ‎§. 358.
+
+### ‎The Common Stickleback.
+
+‎Chulin 97a mentions כילכית as an unclean fish. It was once found in a pot filled with meat, so that an expert was made to taste the food and determine whether it had taken on the taste of the fish. Raschi explains the animal as שרץ דגים קטנים, an unclean small fish.
+
+‎One would be inclined to think of the Χαλκις [chalkis], which is often mentioned by Aristotle, Pliny and Aelian as a kind of herring; nevertheless, by analogy with the כלבית mentioned in the preceding article according to the reading of the Aruch, we would assume the stickleback here too. It is three inches long, with a pointed snout (hence in itself unclean, §. 24), scaleless and covered with bone-hard plates. Its flesh is not palatable, and it is used at most for manuring the fields;
+
+‎[p. 277] it is thus small and, because of the low regard in which it is held, rightly called a שקץ (§. 268); cf. the Appendix s.v. כולכיד.
+
+### ‎§. 359.
+
+### ‎A Small Kind of Fish.
+
+‎A. Sara 39b states: If one buys fish brine from gentiles and a כילבית is swimming about in it, this is a sign that the brine is from clean fish. Raschi adds: The little fish grows and arises in the brine of its own accord, but only in that of clean fish; if, however, the brine of unclean fish were mixed into it, the כילבית cannot arise in it.
+
+‎The little fish itself is said by some to be clean, by others unclean (see Sifte Cohen on Jore Dea §. 83, n. 18.); thus the identity of our fish with the one mentioned in the preceding article is not generally accepted.
+
+‎Raschi's strange statement, however, was refuted early on. Nachmanides (Commentary on A. Sara, included in the collection מעשה צדיקים, Livorno 1779, 4) regards that statement as fabricated and calls it דברי נביאות "prophetic words," which whoever wishes may accept in good faith, but which are not grounded in science.
+
+‎He explains our Talmudic statement much more simply, namely that the fisherman, in order to commend his wares as genuine fish brine, used to put a little fish into it; without this, the brine would not have been bought, out of suspicion that it had been obtained from unclean fish.
+
+‎The nature of the little fish is not stated; Sifte Cohen (loc. cit.) says outright that it is not known; it is, however, probably some little fish caught shortly after hatching, which was used only for that commercial purpose.
+
+### ‎§. 360.
+
+### ‎The Mendola.
+
+‎A. Sara 39b forbids the purchase of מלח סלקונרית, because the gentile prepares this salt by admixture of the fatty parts of unclean fishes. The correct reading of those words is given by the Aruch; he reads: מלח סלקנדית, i.e., Sal conditus, of which Pliny (h. n. 31, 7, 40) says: It is even prepared from the brine of salted fish, in that after removal of the moisture it takes on [p. 278] its original nature; the most palatable is that from the brine of the Maena*). The Maena is the common mendola (Sparus maena); it closely resembles the herring, but with a rounded belly, is about seven inches long, with a small head, lead-grey on the back, silvery on the belly, and has a black spot on the sides. Above each ventral fin it has an elongated pointed scale, and another such between them. From this description (see Voigt l. c. 3. p. 181) it follows that the mendola is a clean fish, and it is probably meant when the Talmud there determines that Sal conditus (seasoned salt) made from clean fish may be bought. The unclean fishes, from which such salt is likewise prepared and the purchase of which is accordingly forbidden, are not specified more closely and therefore cannot be determined here.
+
+‎Pliny (ibid. 31, 7, 41) further reports that the salt thus obtained was prepared with added scents; it then served in place of vegetables and stimulated the appetite; it was even preferred to fish sauce (Granum).
+
+‎According to this description the Roman gourmands will certainly not have disdained that salt, and so we understand the Talmud's explanation of מלח סלקינדרית, which the סלקודרי רומי are accustomed to eat. Maimuni explains the latter expression by גדולי הנוצרים "distinguished Christians," Bartenoro by גדולי רומי "distinguished Romans"**), Raschi by נחתומין שברומי "Roman bakers." None of these commentators seems to have known the nature of the Sal conditum; Maimuni even takes סלקינדרית for a place name; it seems, however, that those gourmands were called Salconditi ironically, or as a term of abuse.
+
+‎The Aruch reads סלוקתי רומי "cooks," or "everything cooked" in Rome.
+
+---
+
+**Notes**
+
+*p. 247*
+
+‎*) The Jerusalem Talmud (Sabbat 4, d) says: Melted fish fat does not smell bad while it burns, but it does when the flame is extinguished.  
+
+*p. 249*
+
+‎*) The hook, so ruinous to fish, is therefore called מצידה רעה (Sanhedrin 81b).  
+
+*p. 250*
+
+‎*) Let it be noted here in passing that our Talmud passage (60b) says: “If a pregnant woman eats clay (גרגושתא, Rashi: ארזילא"ה, probably clayey earth), she will have ugly children.” — With this cf. Alex. v. Humboldt (Ansichten der Natur p. 43), who describes the earth-eating Otomacs. They live on the Orinoco and eat an earth which is fatty, of a yellowish-grey colour, tinted with some iron oxide. An Indian consumes a pound of this true potter's clay daily. — The Negroes of Guinea, too, are very greedy for a yellow earth which they call Caouac.  
+
+*p. 251*
+
+‎*) Without any further specification or justification, Brecher (Das Transcendentale etc. p. 171) translates the שבוטא occurring here as Blakfisch (ink-fish).  
+
+*p. 254*
+
+‎*) Pulpamentum est caudae proximum (Harduin l. c.). Cf. Pliny (h. n. 32, 11, 53).  
+
+*p. 257*
+
+‎*) Aristotle (loc. cit. 2, 11, 7) says: “The gall of the ʾΑμία [Amia] is as long as its intestines, to which it is attached, indeed often even twice as long.” — The ʾΑμία [Amia] is the bonito, cf. Plin. (h. n. 9, 15, 19).  
+
+*p. 258*
+
+‎*) The r-sound is sometimes lost in Aramaic words, e.g. פטיליה, basket, corresponds to the Latin Sportula, which arose from the Greek Σπυρίς [Spyris]; in the Aramaic word the S and r dropped out; likewise פס “piece” is related to Pars; in מרא “hoe” an r from Marra was lost, likewise in קרוכין “coach” from Carruca, as in קרון “wagon” from Carrum; the same happens in Syriac words, e.g. ܣܘܩܐ [סוקא] = הרצא, thigh, ܟܪܘܫܚܐ [כרושחא] = כרכושחא, weasel and others; on the other hand a ר is inserted, e.g. חרטום formed from חוטם (§. 47) and אורזילא from غزال [ghazāl] (§. 174).  
+‎**) Hic est pelamidum generis maximus neque redit in Maeotin similis Tritoni, vetustate melior.  
+
+*p. 262*
+
+‎*) Buxdorf (Lex. p. 1906) erroneously reads דבב, whereas ד is merely the particle marking the genitive; the phrase reads: צחנתא דבב נהרא; the river is therefore called not Debhabh but Bab.  
+
+*p. 263*
+
+‎*) I.e. that unclean fish do not survive there.  
+
+*p. 265*
+
+‎*) In the Midrash Jalkut Schim. (part 2, fol. 130, col. 3) it says not מוחא דשבוטא but לשון דג “tongue of the fish,” and in Midr. R. (Wajikra fol. 191, col. 1) it says דג ששמו שבוטא “the fish which is called Schebuto.”  
+‎**) Marini porculi meminit et Ambrosius in Hexaëm., Judaeos tradens marinis vesci porcis, terrestribus cum abstineant.  
+‎***) Cf. §. 314, note.  
+
+*p. 268*
+
+‎*) Let it be noted in passing that the Egyptians venerated the Nile fish Latus; Pococke: Description of Egypt, English ed. 1, p. 111, German ed. 1, p. 181. —  
+
+*p. 270*
+
+‎*) Asellorum duo genera callariae minores et bacchi, qui nonnisi in alto capiuntur, ideo praelati prioribus.  
+
+*p. 278*
+
+‎*) Quin et e muria salsamentorum recoquitur, iterumque consumpto liquore ad naturam suam redit, vulgo e maenis jucundissimus.  
+‎**) Cf. Bartenoro's explanation of מאכל פוליטיקין on Terumoth 2, 5 and above §. 184 on the preference given to city dwellers.  

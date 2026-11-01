@@ -1,0 +1,265 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "170",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "170"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der Nachtreiher. — Der gemeine Flamingo.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Nachtreiher. — Der gemeine Flamingo."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "— Raschi citirt diese Talmudstelle zu Lev. 11, 19*) und fügt hinzu:\nוכדומה לי שקוראין אותו איירון „ und wie ich glaube, ist es der Vogel,\nden man Héron nennt“. In der That hat der Fischreiher eine\nwilde Natur; er ist wild und bissig (Voigt l. c. 2. S. 359). Selbst,\nwenn er lahm geschossen wird, vertheidigt er sich wüthend gegen die\nHunde und richtet seine Schnabelstiche gegen den Kopf derselben,\nweshalb man nie einen Hund gegen ihn losläßt (Beumer: Popu-\nläre Naturgesch. S. 197). Er hat eben solche Stelzfüße, wie der\nStorch, mit dem er überhaupt viele Aehnlichkeit hat, und steht so\nmit Recht in der Schrift neben jenem Vogel erwähnt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "— Raschi citirt diese Talmudstelle zu Lev. 11, 19*) und fügt hinzu:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "וכדומה לי שקוראין אותו איירון"
+    },
+    {
+     "lang": "deu",
+     "text": " „ und wie ich glaube, ist es der Vogel,\nden man "
+    },
+    {
+     "lang": "fra",
+     "text": "Héron"
+    },
+    {
+     "lang": "deu",
+     "text": " nennt“. In der That hat der Fischreiher eine\nwilde Natur; er ist wild und bissig (Voigt l. c. 2. S. 359). Selbst,\nwenn er lahm geschossen wird, vertheidigt er sich wüthend gegen die\nHunde und richtet seine Schnabelstiche gegen den Kopf derselben,\nweshalb man nie einen Hund gegen ihn losläßt (Beumer: Popu-\nläre Naturgesch. S. 197). Er hat eben solche Stelzfüße, wie der\nStorch, mit dem er überhaupt viele Aehnlichkeit hat, und steht so\nmit Recht in der Schrift neben jenem Vogel erwähnt."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 201.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 201."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Nachtreiher.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Nachtreiher."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 63, a heißt es: Der Vogel אריכי שקי וירוקי, welcher\nlange Schenkel (d. i. Stelzfüße) hat, und von Farbe ירוק ist, darf\nnicht gegessen werden. — Bekanntlich kann ירוק grün, gelb und\nblau heißen (s. Ture Sahab zu Jore Dea §. 38, 1, und Isserels\nibid. §. 188, 1). Alle diese Farben vereinigt in sich der Nachtreiher\n(Ardea Nycticorax). Kopf, Rücken und Schultern sind schwarz,\nstahlblau und grünlich schillernd; beim alten Männchen ist der Bauch\nschwefelgelb. Er hat Stelzfüße und ist mit Recht verboten, da unter\ndem Reihergeschlecht, der Fischreiher (§. 200) von der Schrift aus-\ndrücklich verboten ist.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 63, a heißt es: Der Vogel "
+    },
+    {
+     "lang": "heb",
+     "text": "אריכי שקי וירוקי"
+    },
+    {
+     "lang": "deu",
+     "text": ", welcher\nlange Schenkel (d. i. Stelzfüße) hat, und von Farbe "
+    },
+    {
+     "lang": "heb",
+     "text": "ירוק"
+    },
+    {
+     "lang": "deu",
+     "text": " ist, darf\nnicht gegessen werden. — Bekanntlich kann "
+    },
+    {
+     "lang": "heb",
+     "text": "ירוק"
+    },
+    {
+     "lang": "deu",
+     "text": " grün, gelb und\nblau heißen (s. Ture Sahab zu Jore Dea §. 38, 1, und Isserels\nibid. §. 188, 1). Alle diese Farben vereinigt in sich der Nachtreiher\n("
+    },
+    {
+     "lang": "lat",
+     "text": "Ardea Nycticorax"
+    },
+    {
+     "lang": "deu",
+     "text": "). Kopf, Rücken und Schultern sind schwarz,\nstahlblau und grünlich schillernd; beim alten Männchen ist der Bauch\nschwefelgelb. Er hat Stelzfüße und ist mit Recht verboten, da unter\ndem Reihergeschlecht, der Fischreiher (§. 200) von der Schrift aus-\ndrücklich verboten ist."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 202.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 202."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der gemeine Flamingo.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der gemeine Flamingo."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 63, a heißt es: Der Vogel שקיטנא mit langen und\nrothen Schenkeln ist zu essen erlaubt. Als Beweis (וסמנך) dient der\nמורומא. Hierzu Raschi: Es giebt von dem Vogel שקיטנא zwei Ar-\nten; der, welche lange Schenkel (Stelzfüße) hat und am Körper roth\nist, darf gegessen werden, denn als Beweis dient der ebenso gestal-\ntete und als rein allgemein bekannte Vogel מורומא. Dieses letztre\nWort selbst erklärt Aruch als ein persisches, mit welchem jeder rothe\nund dabei lange Gegenstand benannt wird. Wir haben hier שקיטנא\nund מורומא als identisch und nur als Provincialismen zu nehmen;",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 63, a heißt es: Der Vogel "
+    },
+    {
+     "lang": "arc",
+     "text": "שקיטנא"
+    },
+    {
+     "lang": "deu",
+     "text": " mit langen und\nrothen Schenkeln ist zu essen erlaubt. Als Beweis ("
+    },
+    {
+     "lang": "heb",
+     "text": "וסמנך"
+    },
+    {
+     "lang": "deu",
+     "text": ") dient der\n"
+    },
+    {
+     "lang": "arc",
+     "text": "מורומא"
+    },
+    {
+     "lang": "deu",
+     "text": ". Hierzu Raschi: Es giebt von dem Vogel "
+    },
+    {
+     "lang": "arc",
+     "text": "שקיטנא"
+    },
+    {
+     "lang": "deu",
+     "text": " zwei Ar-\nten; der, welche lange Schenkel (Stelzfüße) hat und am Körper roth\nist, darf gegessen werden, denn als Beweis dient der ebenso gestal-\ntete und als rein allgemein bekannte Vogel "
+    },
+    {
+     "lang": "arc",
+     "text": "מורומא"
+    },
+    {
+     "lang": "deu",
+     "text": ". Dieses letztre\nWort selbst erklärt Aruch als ein persisches, mit welchem jeder rothe\nund dabei lange Gegenstand benannt wird. Wir haben hier "
+    },
+    {
+     "lang": "arc",
+     "text": "שקיטנא"
+    },
+    {
+     "lang": "deu",
+     "text": "\nund "
+    },
+    {
+     "lang": "arc",
+     "text": "מורומא"
+    },
+    {
+     "lang": "deu",
+     "text": " als identisch und nur als Provincialismen zu nehmen;"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "In Reggio's Pentateuchausgabe steht hier fehlerhaft האנפה für האנקה.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In Reggio's Pentateuchausgabe steht hier fehlerhaft "
+    },
+    {
+     "lang": "heb",
+     "text": "האנפה"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "heb",
+     "text": "האנקה"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2175
+   ],
+   [
+    3308,
+    2849
+   ]
+  ],
+  "input_tokens": 11350,
+  "output_tokens": 1819,
+  "cost_usd": 0.0409,
+  "seconds": 12.0
+ }
+}

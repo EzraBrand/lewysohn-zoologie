@@ -1,0 +1,453 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "366",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "366"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Nachtrag.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nachtrag."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "heißt das Thier דובא und mag vielleicht auch Bär bedeuten; vergl.\nMich. Geiger im אגרת מלאכת מחשבה S. 19); auf der dritten Stufe\nder Leopard (נימרא, wie der Commentar פחשנן הכתב gelesen hat,\nund was auch richtig ist, wie aus der unten citirten Stelle hervor-\ngeht; in der Ausgabe Frankf. a. d. Oder a 5544 steht נשרא, Ad-\nler, wie auch Burdorf Lex. p. 147 gelesen hat) und אינקא, was\nPassegen ha-Ketab mit Kameel übersetzt; Burdorf hält es für\neinen Vogelnamen; in der unten citirten Stelle heißt der Pl.\ndieses Namens אנקין. Ist die Leseart נימרא, oder נמרא die richtige,\nso ist אינקא allerdings als Säugethier wahrscheinlicher als als Vogel\nzu nehmen; auf der vierten Stufe standen sich gegenüber der Adler\nund der Pfau; auf der fünften die Katze und der Hahn, und\nauf der sechsten der Sperber (בר נצא) und die Taube. — Trat\nnun, fährt das Targum später fort, ein falscher Zeuge vor den Rich-\nterthron Salomon's, so erhoben die gedachten Thiere ein Geschrei,\nwelches bei den verschiedenen Thieren verschieden bezeichnet wird, die\nStiere געיין, die Löwen נהמין, die Schafe פעיין, die Leoparde\nבעיין, die Kameele בכיין, die Katzen טיסין, die Pfaue מיללין,\ndie Hähne מקרקרין; von den Wölfen und den Sperbern heißt\nes מחטפין und חטפין (sie stürmten heran) und von den Tauben\n(צפורין) heißt es, wie vom Pfau, מיללין. — Ueber den Ausdruck בכה\nfür Hundegeheul s. S. 24 Anmerkung *. Das Wort טיסין, welches\nBurdorf (Lex. p. 865) nicht recht zu erklären vorgiebt, ist das gr.\nθωύσσειν, welches bellen, summen, schreien u. s. w. bedeutet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "heißt das Thier "
+    },
+    {
+     "lang": "arc",
+     "text": "דובא"
+    },
+    {
+     "lang": "deu",
+     "text": " und mag vielleicht auch Bär bedeuten; vergl.\nMich. Geiger im "
+    },
+    {
+     "lang": "heb",
+     "text": "אגרת מלאכת מחשבה"
+    },
+    {
+     "lang": "deu",
+     "text": " S. 19); auf der dritten Stufe\nder Leopard ("
+    },
+    {
+     "lang": "arc",
+     "text": "נימרא"
+    },
+    {
+     "lang": "deu",
+     "text": ", wie der Commentar "
+    },
+    {
+     "lang": "heb",
+     "text": "פחשנן הכתב"
+    },
+    {
+     "lang": "deu",
+     "text": " gelesen hat,\nund was auch richtig ist, wie aus der unten citirten Stelle hervor-\ngeht; in der Ausgabe Frankf. a. d. Oder a 5544 steht "
+    },
+    {
+     "lang": "arc",
+     "text": "נשרא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Ad-\nler, wie auch Burdorf Lex. p. 147 gelesen hat) und "
+    },
+    {
+     "lang": "arc",
+     "text": "אינקא"
+    },
+    {
+     "lang": "deu",
+     "text": ", was\nPassegen ha-Ketab mit Kameel übersetzt; Burdorf hält es für\neinen Vogelnamen; in der unten citirten Stelle heißt der Pl.\ndieses Namens "
+    },
+    {
+     "lang": "arc",
+     "text": "אנקין"
+    },
+    {
+     "lang": "deu",
+     "text": ". Ist die Leseart "
+    },
+    {
+     "lang": "arc",
+     "text": "נימרא"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "arc",
+     "text": "נמרא"
+    },
+    {
+     "lang": "deu",
+     "text": " die richtige,\nso ist "
+    },
+    {
+     "lang": "arc",
+     "text": "אינקא"
+    },
+    {
+     "lang": "deu",
+     "text": " allerdings als Säugethier wahrscheinlicher als als Vogel\nzu nehmen; auf der vierten Stufe standen sich gegenüber der Adler\nund der Pfau; auf der fünften die Katze und der Hahn, und\nauf der sechsten der Sperber ("
+    },
+    {
+     "lang": "arc",
+     "text": "בר נצא"
+    },
+    {
+     "lang": "deu",
+     "text": ") und die Taube. — Trat\nnun, fährt das Targum später fort, ein falscher Zeuge vor den Rich-\nterthron Salomon's, so erhoben die gedachten Thiere ein Geschrei,\nwelches bei den verschiedenen Thieren verschieden bezeichnet wird, die\nStiere "
+    },
+    {
+     "lang": "arc",
+     "text": "געיין"
+    },
+    {
+     "lang": "deu",
+     "text": ", die Löwen "
+    },
+    {
+     "lang": "arc",
+     "text": "נהמין"
+    },
+    {
+     "lang": "deu",
+     "text": ", die Schafe "
+    },
+    {
+     "lang": "arc",
+     "text": "פעיין"
+    },
+    {
+     "lang": "deu",
+     "text": ", die Leoparde\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בעיין"
+    },
+    {
+     "lang": "deu",
+     "text": ", die Kameele "
+    },
+    {
+     "lang": "arc",
+     "text": "בכיין"
+    },
+    {
+     "lang": "deu",
+     "text": ", die Katzen "
+    },
+    {
+     "lang": "arc",
+     "text": "טיסין"
+    },
+    {
+     "lang": "deu",
+     "text": ", die Pfaue "
+    },
+    {
+     "lang": "arc",
+     "text": "מיללין"
+    },
+    {
+     "lang": "deu",
+     "text": ",\ndie Hähne "
+    },
+    {
+     "lang": "arc",
+     "text": "מקרקרין"
+    },
+    {
+     "lang": "deu",
+     "text": "; von den Wölfen und den Sperbern heißt\nes "
+    },
+    {
+     "lang": "arc",
+     "text": "מחטפין"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "arc",
+     "text": "חטפין"
+    },
+    {
+     "lang": "deu",
+     "text": " (sie stürmten heran) und von den Tauben\n("
+    },
+    {
+     "lang": "arc",
+     "text": "צפורין"
+    },
+    {
+     "lang": "deu",
+     "text": ") heißt es, wie vom Pfau, "
+    },
+    {
+     "lang": "arc",
+     "text": "מיללין"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Ueber den Ausdruck "
+    },
+    {
+     "lang": "arc",
+     "text": "בכה"
+    },
+    {
+     "lang": "deu",
+     "text": "\nfür Hundegeheul s. S. 24 Anmerkung *. Das Wort "
+    },
+    {
+     "lang": "arc",
+     "text": "טיסין"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches\nBurdorf (Lex. p. 865) nicht recht zu erklären vorgiebt, ist das gr.\n"
+    },
+    {
+     "lang": "grc",
+     "text": "θωύσσειν"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches bellen, summen, schreien u. s. w. bedeutet."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 521.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 521."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Midraschstelle (Rabba Bereschit fol. 24, b) ist zoologisch\ninteressant. Die Kleider von Häuten (כותנות עור), welche Adam und Eva\nsich verfertigt hatten, sollten entweder איגיאה, oder אנגיה, oder לגאי,\noder סיסרטון, oder גלא קסינון, oder צמר גמלים, oder endlich צמר ארנבין\ngewesen sein. Offenbar sind hier die Häute verschiedener Thiere ge-\nmeint. איגיאה ist, wie Burdorf (Lex. 21) vermuthet: αἰγεία, von\nZiegen; אנגיה halte ich von anguis, Schlange, abgeleitet, da\nschon §. 288, Anm. eine Stelle mitgetheilt wurde, wonach jene Klei-\nder aus der Schlangenhaut bestanden haben sollten; לגאי vermuthet\nBurdorf (l. c. p. 1122) sei das gr. λαγεία, von Haasen; סיסרטון,\nwofür Aruch סיסרנון liest, ist das gr. σισύρνα, Bockleder; גלא\nקסינון halte ich für γαλῆ, Wiesel; der Zusatz קסינון heißt klein,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Midraschstelle (Rabba Bereschit fol. 24, b) ist zoologisch\ninteressant. Die Kleider von Häuten ("
+    },
+    {
+     "lang": "heb",
+     "text": "כותנות עור"
+    },
+    {
+     "lang": "deu",
+     "text": "), welche Adam und Eva\nsich verfertigt hatten, sollten entweder "
+    },
+    {
+     "lang": "arc",
+     "text": "איגיאה"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "arc",
+     "text": "אנגיה"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "arc",
+     "text": "לגאי"
+    },
+    {
+     "lang": "deu",
+     "text": ",\noder "
+    },
+    {
+     "lang": "arc",
+     "text": "סיסרטון"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "arc",
+     "text": "גלא קסינון"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "arc",
+     "text": "צמר גמלים"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder endlich "
+    },
+    {
+     "lang": "arc",
+     "text": "צמר ארנבין"
+    },
+    {
+     "lang": "deu",
+     "text": "\ngewesen sein. Offenbar sind hier die Häute verschiedener Thiere ge-\nmeint. "
+    },
+    {
+     "lang": "arc",
+     "text": "איגיאה"
+    },
+    {
+     "lang": "deu",
+     "text": " ist, wie Burdorf (Lex. 21) vermuthet: "
+    },
+    {
+     "lang": "grc",
+     "text": "αἰγεία"
+    },
+    {
+     "lang": "deu",
+     "text": ", von\nZiegen; "
+    },
+    {
+     "lang": "arc",
+     "text": "אנגיה"
+    },
+    {
+     "lang": "deu",
+     "text": " halte ich von anguis, Schlange, abgeleitet, da\nschon §. 288, Anm. eine Stelle mitgetheilt wurde, wonach jene Klei-\nder aus der Schlangenhaut bestanden haben sollten; "
+    },
+    {
+     "lang": "arc",
+     "text": "לגאי"
+    },
+    {
+     "lang": "deu",
+     "text": " vermuthet\nBurdorf (l. c. p. 1122) sei das gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "λαγεία"
+    },
+    {
+     "lang": "deu",
+     "text": ", von Haasen; "
+    },
+    {
+     "lang": "arc",
+     "text": "סיסרטון"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nwofür Aruch "
+    },
+    {
+     "lang": "arc",
+     "text": "סיסרנון"
+    },
+    {
+     "lang": "deu",
+     "text": " liest, ist das gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "σισύρνα"
+    },
+    {
+     "lang": "deu",
+     "text": ", Bockleder; "
+    },
+    {
+     "lang": "arc",
+     "text": "גלא"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "arc",
+     "text": "קסינון"
+    },
+    {
+     "lang": "deu",
+     "text": " halte ich für "
+    },
+    {
+     "lang": "grc",
+     "text": "γαλῆ"
+    },
+    {
+     "lang": "deu",
+     "text": ", Wiesel; der Zusatz "
+    },
+    {
+     "lang": "arc",
+     "text": "קסינון"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt klein,"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2030
+   ],
+   [
+    3308,
+    2970
+   ]
+  ],
+  "input_tokens": 11351,
+  "output_tokens": 2733,
+  "cost_usd": 0.05,
+  "seconds": 14.8
+ }
+}

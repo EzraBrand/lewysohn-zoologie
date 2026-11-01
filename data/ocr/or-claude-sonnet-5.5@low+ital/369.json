@@ -1,0 +1,461 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Anhang.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Anhang."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "369",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "369"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "אורדען (Rabba Wajikra f. 190, a), hierfür in der Parallelstelle\n(Bereschit f. 12, b) עורדען, Frosch, welcher einen Skorpion über\neinen Fluß trug. Im babyl. Talm. (Nedarim 41, a) steht hierfür\nקרוקתא, worüber §. 271.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "אורדען"
+    },
+    {
+     "lang": "deu",
+     "text": " (Rabba Wajikra f. 190, a), hierfür in der Parallelstelle\n(Bereschit f. 12, b) "
+    },
+    {
+     "lang": "heb",
+     "text": "עורדען"
+    },
+    {
+     "lang": "deu",
+     "text": ", Frosch, welcher einen Skorpion über\neinen Fluß trug. Im babyl. Talm. (Nedarim 41, a) steht hierfür\n"
+    },
+    {
+     "lang": "arc",
+     "text": "קרוקתא"
+    },
+    {
+     "lang": "deu",
+     "text": ", worüber §. 271."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "heb",
+   "text": "אבחטם אמבטם s.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "אבחטם אמבטם"
+    },
+    {
+     "lang": "deu",
+     "text": " s."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "אספרון, Babba (Bereschit fol. 9, 2) heißt es: „Man darf nicht\nden Fisch מירן mit dem Fische אספרון zusammenbinden und sie so im\nWasser dahinziehen lassen, weil es eine Geschlechtsvermischung (כלאים)\nist.“ Hierfür steht im Jalkut (Schimoni Bereschit fol. 4, b) שני דגים\nחד אוכם וחד חיור „ein schwarzer und ein weißer Fisch“; und im jerus.\nTalm. (Kilajim C. 1. H. 6): „Man führe nicht Fische an einem Fa-\nden, welcher an dem Ohr des לכיסא (λευκὸς, weißen) und an dem\nOhre des יריקא (grünen, §. 201) Fisches angebracht ist; so wollte\nman auch מירן und אספרון als Farben erklären und מירן für schwarz\n(etwa von ἀμαυρὸν; über das aphoristische α s. §. 511), אספרון für\nweiß deuten; der Verf. des Matnat Kehuna erklärt die Wörter ent-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "אספרון"
+    },
+    {
+     "lang": "deu",
+     "text": ", Babba (Bereschit fol. 9, 2) heißt es: „Man darf nicht\nden Fisch "
+    },
+    {
+     "lang": "heb",
+     "text": "מירן"
+    },
+    {
+     "lang": "deu",
+     "text": " mit dem Fische "
+    },
+    {
+     "lang": "heb",
+     "text": "אספרון"
+    },
+    {
+     "lang": "deu",
+     "text": " zusammenbinden und sie so im\nWasser dahinziehen lassen, weil es eine Geschlechtsvermischung ("
+    },
+    {
+     "lang": "heb",
+     "text": "כלאים"
+    },
+    {
+     "lang": "deu",
+     "text": ")\nist.“ Hierfür steht im Jalkut (Schimoni Bereschit fol. 4, b) "
+    },
+    {
+     "lang": "heb",
+     "text": "שני דגים"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חד אוכם וחד חיור"
+    },
+    {
+     "lang": "deu",
+     "text": " „ein schwarzer und ein weißer Fisch“; und im jerus.\nTalm. (Kilajim C. 1. H. 6): „Man führe nicht Fische an einem Fa-\nden, welcher an dem Ohr des "
+    },
+    {
+     "lang": "arc",
+     "text": "לכיסא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "grc",
+     "text": "λευκὸς"
+    },
+    {
+     "lang": "deu",
+     "text": ", weißen) und an dem\nOhre des "
+    },
+    {
+     "lang": "arc",
+     "text": "יריקא"
+    },
+    {
+     "lang": "deu",
+     "text": " (grünen, §. 201) Fisches angebracht ist; so wollte\nman auch "
+    },
+    {
+     "lang": "heb",
+     "text": "מירן"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "אספרון"
+    },
+    {
+     "lang": "deu",
+     "text": " als Farben erklären und "
+    },
+    {
+     "lang": "heb",
+     "text": "מירן"
+    },
+    {
+     "lang": "deu",
+     "text": " für schwarz\n(etwa von "
+    },
+    {
+     "lang": "grc",
+     "text": "ἀμαυρὸν"
+    },
+    {
+     "lang": "deu",
+     "text": "; über das aphoristische "
+    },
+    {
+     "lang": "grc",
+     "text": "α"
+    },
+    {
+     "lang": "deu",
+     "text": " s. §. 511), "
+    },
+    {
+     "lang": "heb",
+     "text": "אספרון"
+    },
+    {
+     "lang": "deu",
+     "text": " für\nweiß deuten; der Verf. des Matnat Kehuna erklärt die Wörter ent-"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "gegengesetzt, wonach אספרון schwarz und מירן weiß bedeuten. —\nEndlich citirt Burxdorf (Lex. p. 172) den Guil. Postellus, der in\nder lat. Uebersetzung des Midrasch מירן durch Miaron und אספרון\ndurch Asporon, also als Thiernamen, erklärt. — Da אספרון als\nFarbe aus dem Griechischen nicht nachgewiesen werden kann, so dürf-\nten in der That hier eher zwei Fischnamen zu vermuthen sein, viel-\nleicht der Μύρινος und die Σφύραινα, vergl. §. 341; beide sind Meer-\nfische; vergl. Aristot. (Thiergesch. 8, 20, 6, und 9, 3, 1).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "gegengesetzt, wonach "
+    },
+    {
+     "lang": "heb",
+     "text": "אספרון"
+    },
+    {
+     "lang": "deu",
+     "text": " schwarz und "
+    },
+    {
+     "lang": "heb",
+     "text": "מירן"
+    },
+    {
+     "lang": "deu",
+     "text": " weiß bedeuten. —\nEndlich citirt Burxdorf (Lex. p. 172) den Guil. Postellus, der in\nder lat. Uebersetzung des Midrasch "
+    },
+    {
+     "lang": "heb",
+     "text": "מירן"
+    },
+    {
+     "lang": "deu",
+     "text": " durch Miaron und "
+    },
+    {
+     "lang": "heb",
+     "text": "אספרון"
+    },
+    {
+     "lang": "deu",
+     "text": "\ndurch Asporon, also als Thiernamen, erklärt. — Da "
+    },
+    {
+     "lang": "heb",
+     "text": "אספרון"
+    },
+    {
+     "lang": "deu",
+     "text": " als\nFarbe aus dem Griechischen nicht nachgewiesen werden kann, so dürf-\nten in der That hier eher zwei Fischnamen zu vermuthen sein, viel-\nleicht der "
+    },
+    {
+     "lang": "grc",
+     "text": "Μύρινος"
+    },
+    {
+     "lang": "deu",
+     "text": " und die "
+    },
+    {
+     "lang": "grc",
+     "text": "Σφύραινα"
+    },
+    {
+     "lang": "deu",
+     "text": ", vergl. §. 341; beide sind Meer-\nfische; vergl. Aristot. (Thiergesch. 8, 20, 6, und 9, 3, 1)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "ארי נמירון (Rabba Bereschit 86, d); in frühern Ausgaben steht\nאריה אימרון; die erste Leseart bedeutet Leopard, indem das lat.\nund deutsche Wort und ebenso das aram. aus zwei Theilen zusam-\nmengesetzt ist, letzteres aus ארי, Löwe, und נמר, Pardel. — Die\nzweite Leseart lautet der gezähmte Löwe (wie ἥμερος), entgegenge-\nsetzt dem כלב אגריון, wilden (wie ἄγριος) Hund. Es ist in dieser\nStelle die Rede von der Begattung des wilden Hundes mit dem\nארי נמירון; wenigstens ist es bekannt, daß der Tiger mit dem Hunde\nzuweilen sich begatten, s. Aristot. (Thiergesch. 8, 27, 8).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ארי נמירון"
+    },
+    {
+     "lang": "deu",
+     "text": " (Rabba Bereschit 86, d); in frühern Ausgaben steht\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אריה אימרון"
+    },
+    {
+     "lang": "deu",
+     "text": "; die erste Leseart bedeutet Leopard, indem das lat.\nund deutsche Wort und ebenso das aram. aus zwei Theilen zusam-\nmengesetzt ist, letzteres aus "
+    },
+    {
+     "lang": "heb",
+     "text": "ארי"
+    },
+    {
+     "lang": "deu",
+     "text": ", Löwe, und "
+    },
+    {
+     "lang": "heb",
+     "text": "נמר"
+    },
+    {
+     "lang": "deu",
+     "text": ", Pardel. — Die\nzweite Leseart lautet der gezähmte Löwe (wie "
+    },
+    {
+     "lang": "grc",
+     "text": "ἥμερος"
+    },
+    {
+     "lang": "deu",
+     "text": "), entgegenge-\nsetzt dem "
+    },
+    {
+     "lang": "heb",
+     "text": "כלב אגריון"
+    },
+    {
+     "lang": "deu",
+     "text": ", wilden (wie "
+    },
+    {
+     "lang": "grc",
+     "text": "ἄγριος"
+    },
+    {
+     "lang": "deu",
+     "text": ") Hund. Es ist in dieser\nStelle die Rede von der Begattung des wilden Hundes mit dem\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ארי נמירון"
+    },
+    {
+     "lang": "deu",
+     "text": "; wenigstens ist es bekannt, daß der Tiger mit dem Hunde\nzuweilen sich begatten, s. Aristot. (Thiergesch. 8, 27, 8)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "בן הפילים (Rabba Schemoth f. 133, b) steht für בן נפילים (Skink),\nworüber §. 277 gehandelt wurde.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "בן הפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Rabba Schemoth f. 133, b) steht für "
+    },
+    {
+     "lang": "heb",
+     "text": "בן נפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Skink),\nworüber §. 277 gehandelt wurde."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "בר הריה (Rabba Wajikra fol. 170, b) für ריה (Geier), worüber\nvergl. §. 196.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "בר הריה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Rabba Wajikra fol. 170, b) für "
+    },
+    {
+     "lang": "heb",
+     "text": "ריה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Geier), worüber\nvergl. §. 196."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "בר נש דטור (jerus. Talm. Kilajim C. 8. fol. 31, c) zur Bezeich-\nnung des fabelhaft dargestellten Thieres אבני שדה, vergl. §. 111.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "בר נש דטור"
+    },
+    {
+     "lang": "deu",
+     "text": " (jerus. Talm. Kilajim C. 8. fol. 31, c) zur Bezeich-\nnung des fabelhaft dargestellten Thieres "
+    },
+    {
+     "lang": "heb",
+     "text": "אבני שדה"
+    },
+    {
+     "lang": "deu",
+     "text": ", vergl. §. 111."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Zoologie des Talmuds.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zoologie des Talmuds."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "24",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "24"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3304,
+    2166
+   ],
+   [
+    3304,
+    2918
+   ]
+  ],
+  "input_tokens": 11359,
+  "output_tokens": 2747,
+  "cost_usd": 0.0502,
+  "seconds": 16.2
+ }
+}

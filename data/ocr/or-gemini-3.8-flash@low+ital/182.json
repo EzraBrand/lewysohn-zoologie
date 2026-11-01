@@ -1,0 +1,269 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "182 Die Fettgans. — Die Seemöve.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "182 Die Fettgans. — Die Seemöve."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "allein dieser Grund ist viel zu schwach in unserer Stelle deshalb an\ndie Lerche (die ohne dies anders heißt, s. §. 214) zu denken. —\nDrittens heißt תם einfältig, und so mag hier der dumme, arg-\nlose und unvorsichtige Gimpel gemeint sein. Seine Einfalt ist\nsprüchwörtlich geworden, er gehört zum Sperlingsgeschlecht und kann\ndaher mit Recht als reiner Vogel betrachtet worden sein. — Im\nMidrasch Rabba (Schir ha-Schirim) wird das von der Taube ge-\nbrauchte תמה einmal (fol. 12, col. d) mit schön und das zweite\nMal (ibid. fol. 17, col. d Anf.) mit vollkommen übersetzt; doch\nkann in unserer Talmudstelle die Taube nicht gemeint sein, da der\nTalmud diesen Vogel niemals תמה nennt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "allein dieser Grund ist viel zu schwach in unserer Stelle deshalb an\ndie Lerche (die ohne dies anders heißt, s. §. 214) zu denken. —\nDrittens heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "תם"
+    },
+    {
+     "lang": "deu",
+     "text": " einfältig, und so mag hier der dumme, arg-\nlose und unvorsichtige Gimpel gemeint sein. Seine Einfalt ist\nsprüchwörtlich geworden, er gehört zum Sperlingsgeschlecht und kann\ndaher mit Recht als reiner Vogel betrachtet worden sein. — Im\nMidrasch Rabba (Schir ha-Schirim) wird das von der Taube ge-\nbrauchte "
+    },
+    {
+     "lang": "heb",
+     "text": "תמה"
+    },
+    {
+     "lang": "deu",
+     "text": " einmal (fol. 12, col. d) mit schön und das zweite\nMal (ibid. fol. 17, col. d Anf.) mit vollkommen übersetzt; doch\nkann in unserer Talmudstelle die Taube nicht gemeint sein, da der\nTalmud diesen Vogel niemals "
+    },
+    {
+     "lang": "heb",
+     "text": "תמה"
+    },
+    {
+     "lang": "deu",
+     "text": " nennt."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 222.\nDie Fettgans.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 222.\nDie Fettgans."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 62, b werden zwei Vögel erwähnt: Der בוניא ist zu\nessen gestattet, der פרוא ist zu essen verboten. Es muß hier ein\nwesentlicher Gegensatz in der Natur beider Vögel vorhanden sein,\nund ich glaube den darin zu finden, daß פרוא ein magerer (s.\nnachfolgenden Artikel), und בוניא ein fetter Vogel ist. Hier spre-\nchen wir über den leztern. Aruch liest כניא, was fett bedeutet.\nDas Fettgekröse des Rindes heißt כנתא, was Münster (im Lex.)\ndurch Sumen pinguendo intestinorum erklärt; ich möchte daher unter\nכניא die Fettgans (Spheniscus demersus; Voigt l. c. 2. S. 422)\nverstehen. Als Gans kann sie mit Recht als rein erklärt worden\nsein. Aber auch unsere Leseart könnte für unsere Erklärung sprechen,\ndenn während פרוא der Avis prava, der magere Vogel ist, ist\nבוניא der Avis bona, der gute, d. i., fette Vogel; so heißt die\nWachtel wegen ihrer Fettigkeit im Arab. سَمَانَيّ, Samana (Rosen-\nmüller a. a. O. S. 346).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 62, b werden zwei Vögel erwähnt: Der "
+    },
+    {
+     "lang": "arc",
+     "text": "בוניא"
+    },
+    {
+     "lang": "deu",
+     "text": " ist zu\nessen gestattet, der "
+    },
+    {
+     "lang": "arc",
+     "text": "פרוא"
+    },
+    {
+     "lang": "deu",
+     "text": " ist zu essen verboten. Es muß hier ein\nwesentlicher Gegensatz in der Natur beider Vögel vorhanden sein,\nund ich glaube den darin zu finden, daß "
+    },
+    {
+     "lang": "arc",
+     "text": "פרוא"
+    },
+    {
+     "lang": "deu",
+     "text": " ein magerer (s.\nnachfolgenden Artikel), und "
+    },
+    {
+     "lang": "arc",
+     "text": "בוניא"
+    },
+    {
+     "lang": "deu",
+     "text": " ein fetter Vogel ist. Hier spre-\nchen wir über den leztern. Aruch liest "
+    },
+    {
+     "lang": "arc",
+     "text": "כניא"
+    },
+    {
+     "lang": "deu",
+     "text": ", was fett bedeutet.\nDas Fettgekröse des Rindes heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "כנתא"
+    },
+    {
+     "lang": "deu",
+     "text": ", was Münster (im Lex.)\ndurch "
+    },
+    {
+     "lang": "lat",
+     "text": "Sumen pinguendo intestinorum"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt; ich möchte daher unter\n"
+    },
+    {
+     "lang": "arc",
+     "text": "כניא"
+    },
+    {
+     "lang": "deu",
+     "text": " die Fettgans ("
+    },
+    {
+     "lang": "lat",
+     "text": "Spheniscus demersus"
+    },
+    {
+     "lang": "deu",
+     "text": "; Voigt l. c. 2. S. 422)\nverstehen. Als Gans kann sie mit Recht als rein erklärt worden\nsein. Aber auch unsere Leseart könnte für unsere Erklärung sprechen,\ndenn während "
+    },
+    {
+     "lang": "arc",
+     "text": "פרוא"
+    },
+    {
+     "lang": "deu",
+     "text": " der "
+    },
+    {
+     "lang": "lat",
+     "text": "Avis prava"
+    },
+    {
+     "lang": "deu",
+     "text": ", der magere Vogel ist, ist\n"
+    },
+    {
+     "lang": "arc",
+     "text": "בוניא"
+    },
+    {
+     "lang": "deu",
+     "text": " der "
+    },
+    {
+     "lang": "lat",
+     "text": "Avis bona"
+    },
+    {
+     "lang": "deu",
+     "text": ", der gute, d. i., fette Vogel; so heißt die\nWachtel wegen ihrer Fettigkeit im Arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "سَمَانَيّ"
+    },
+    {
+     "lang": "deu",
+     "text": ", Samana (Rosen-\nmüller a. a. O. S. 346)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 223.\nDie Seemöve.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 223.\nDie Seemöve."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Wie בוניא (§. 222), so ist auch פרוא (Chulin 62, b) ein Wasser-\nvogel und ich vermuthe in lezterm Namen die sehr magere See-\nmöve. Das hebr. שחף (Lev. 11, 16) wird von den meisten Com-\nmentaren und Lexicographen als Möve erklärt, von שחף „abgezehrt“,\n„mager“, und ganz besonders ist dies die Seemöve (Larus mari-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wie "
+    },
+    {
+     "lang": "arc",
+     "text": "בוניא"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 222), so ist auch "
+    },
+    {
+     "lang": "arc",
+     "text": "פרוא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 62, b) ein Wasser-\nvogel und ich vermuthe in lezterm Namen die sehr magere See-\nmöve. Das hebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "שחף"
+    },
+    {
+     "lang": "deu",
+     "text": " (Lev. 11, 16) wird von den meisten Com-\nmentaren und Lexicographen als Möve erklärt, von "
+    },
+    {
+     "lang": "heb",
+     "text": "שחף"
+    },
+    {
+     "lang": "deu",
+     "text": " „abgezehrt“,\n„mager“, und ganz besonders ist dies die Seemöve ("
+    },
+    {
+     "lang": "lat",
+     "text": "Larus mari-"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3296,
+    2072
+   ],
+   [
+    3296,
+    3008
+   ]
+  ],
+  "input_tokens": 3342,
+  "output_tokens": 1449,
+  "cost_usd": 0.0079,
+  "seconds": 9.1
+ }
+}

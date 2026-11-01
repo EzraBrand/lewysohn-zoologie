@@ -1,0 +1,85 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Das Carmesin.\t349",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Carmesin.\t349"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "gaim 14, 1) durch: צמר צבוע ככרמי „in Carmesin gefärbte Wolle“\nerklärt. Das Carmesin wird von den aufgeschwollenen Eierblasen\neiner Art Schildkröte bereitet. Diese Eier findet man auf den Blät-\ntern der Stechpalme. Die Eier gleichen kleinen steinlosen Rosinen\nund färben braunroth. Raschi (zu Jes. 1, 18) sagt: In den Eiern\nliegen Würmer (תולעים), welche die rothe Farbe liefern. Man nennt\naber die Eier auch Färbekorn, Färbebeere, weshalb ich diesen\nArtikel hierher zu den Zoophyten ziehe; vergl. Rosenmüller (a. a. O.\n4, 2. S. 447 ff.). — Außer unserer Schildkrötenart wurde auch der\nSaft der Trompetenschnecke (S. 281), der Purpurschnecke (S. 282),\ndes Tintenfisches (S. 283) und das Blut des Rindes (§. 102) zur\nFärberei benutzt. Ueber die Färbung des Horns der Antilope s. B.\nbatra 16, b und hierzu Raschi daselbst. — Die aramäischen Para-\nphrasen nehmen sowohl תולעת שני (Exod. 25, 4), wie שני תולעת (Num.\n19, 6) nur als Farbe, und zwar als Purpurfarbe. Interessant ist,\ndaß Jonathan nur zur letzten und die LXX nur zur ersten Stelle das\nWort שני pointiren. — Ueber die Auster, welche an Felsen sich an-\nsetzt s. ob. S. 285, Anmerkung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "gaim 14, 1) durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "צמר צבוע ככרמי"
+    },
+    {
+     "lang": "deu",
+     "text": " „in Carmesin gefärbte Wolle“\nerklärt. Das Carmesin wird von den aufgeschwollenen Eierblasen\neiner Art Schildkröte bereitet. Diese Eier findet man auf den Blät-\ntern der Stechpalme. Die Eier gleichen kleinen steinlosen Rosinen\nund färben braunroth. Raschi (zu Jes. 1, 18) sagt: In den Eiern\nliegen Würmer ("
+    },
+    {
+     "lang": "heb",
+     "text": "תולעים"
+    },
+    {
+     "lang": "deu",
+     "text": "), welche die rothe Farbe liefern. Man nennt\naber die Eier auch Färbekorn, Färbebeere, weshalb ich diesen\nArtikel hierher zu den Zoophyten ziehe; vergl. Rosenmüller (a. a. O.\n4, 2. S. 447 ff.). — Außer unserer Schildkrötenart wurde auch der\nSaft der Trompetenschnecke (S. 281), der Purpurschnecke (S. 282),\ndes Tintenfisches (S. 283) und das Blut des Rindes (§. 102) zur\nFärberei benutzt. Ueber die Färbung des Horns der Antilope s. B.\nbatra 16, b und hierzu Raschi daselbst. — Die aramäischen Para-\nphrasen nehmen sowohl "
+    },
+    {
+     "lang": "heb",
+     "text": "תולעת שני"
+    },
+    {
+     "lang": "deu",
+     "text": " (Exod. 25, 4), wie "
+    },
+    {
+     "lang": "heb",
+     "text": "שני תולעת"
+    },
+    {
+     "lang": "deu",
+     "text": " (Num.\n19, 6) nur als Farbe, und zwar als Purpurfarbe. Interessant ist,\ndaß Jonathan nur zur letzten und die LXX nur zur ersten Stelle das\nWort "
+    },
+    {
+     "lang": "heb",
+     "text": "שני"
+    },
+    {
+     "lang": "deu",
+     "text": " pointiren. — Ueber die Auster, welche an Felsen sich an-\nsetzt s. ob. S. 285, Anmerkung."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3208,
+    3048
+   ]
+  ],
+  "input_tokens": 2253,
+  "output_tokens": 543,
+  "cost_usd": 0.0037,
+  "seconds": 5.2
+ }
+}

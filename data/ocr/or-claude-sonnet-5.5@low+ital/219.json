@@ -1,0 +1,181 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Amphibien.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Amphibien."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "219",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "219"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "(חלד, Wiesel; עכבר, Maus; אנקה, Igel und תנשמת, Maulwurf) zu\nden Säugethieren, drei (צב, Kröte; לטאה, Eidechse; כח, Hardun) zu\nden eigentlichen Amphibien, und endlich eins (חומט, Schnecke) zu den\nSchalthieren. Alle diese 8 Thiere werden aber im Talmud öfter\nunter שמונה שרצים „acht Kriechthiere, d. i. niedrige Thiere“ zusam-\nmengefaßt und nicht bloß in ritueller, sondern auch in naturhistori-\nscher Beziehung zu gemeinschaftlichen Momenten vereinigt. Wir be-\nrücksichtigen hier nur die letztre Beziehung. — Alle acht Thiere,\nheißt es (Sabbat 107, a), haben eine Haut, andere niedrigen Thiere\nhaben keine. Diese Angabe wird verschieden erklärt; nach Mai-\nmuni (ibid. 14, 1) ist der Sinn derselben, daß bei jenen acht Thie-\nren die verletzte Haut, da sie von dem Fleisch leicht ablösbar ist (bei\nder Schnecke die Schale), nie mehr derart zuheilt, daß sie die frühere\nGestalt wieder annimmt, während bei den andern Reptilien und\nWürmern die Haut so weich ist, daß sie, wie das Fleisch auch ver-\nletzt, nachwächst und ganz die frühere Gestalt bekömmt. — Nach\nAnderen ist der Sinn jener Angabe folgender: Bei jenen acht Thie-\nren bewirkt ein verwundender Schlag nur einen Blutverlauf, da das\nBlut wegen der Dichtigkeit der Haut nicht nach außen dringen kann,\nbei anderen Reptilien hingegen dringt bei einer Contusion das Blut\ndurch die Poren der weichen Haut nach außen (Jos. Karo zu Or.\nChajim §. 316). — Noch Andere machen den Unterschied: Daß die\nHaut (Beziehungsweise die Schale) gesondert und benutzt werden\nkann, bei anderen Reptilien hingegen dieselbe sich nicht vom Körper\nablösen lasse und daher unbrauchbar sei (Tos. Sabbat ibid. s. v. הצרן).\nAllein häutet sich nicht die Schlange? Wahrscheinlich denken die\nTosephot nur an die kleinen Reptilien.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "("
+    },
+    {
+     "lang": "heb",
+     "text": "חלד"
+    },
+    {
+     "lang": "deu",
+     "text": ", Wiesel; "
+    },
+    {
+     "lang": "heb",
+     "text": "עכבר"
+    },
+    {
+     "lang": "deu",
+     "text": ", Maus; "
+    },
+    {
+     "lang": "heb",
+     "text": "אנקה"
+    },
+    {
+     "lang": "deu",
+     "text": ", Igel und "
+    },
+    {
+     "lang": "heb",
+     "text": "תנשמת"
+    },
+    {
+     "lang": "deu",
+     "text": ", Maulwurf) zu\nden Säugethieren, drei ("
+    },
+    {
+     "lang": "heb",
+     "text": "צב"
+    },
+    {
+     "lang": "deu",
+     "text": ", Kröte; "
+    },
+    {
+     "lang": "heb",
+     "text": "לטאה"
+    },
+    {
+     "lang": "deu",
+     "text": ", Eidechse; "
+    },
+    {
+     "lang": "heb",
+     "text": "כח"
+    },
+    {
+     "lang": "deu",
+     "text": ", Hardun) zu\nden eigentlichen Amphibien, und endlich eins ("
+    },
+    {
+     "lang": "heb",
+     "text": "חומט"
+    },
+    {
+     "lang": "deu",
+     "text": ", Schnecke) zu den\nSchalthieren. Alle diese 8 Thiere werden aber im Talmud öfter\nunter "
+    },
+    {
+     "lang": "heb",
+     "text": "שמונה שרצים"
+    },
+    {
+     "lang": "deu",
+     "text": " „acht Kriechthiere, d. i. niedrige Thiere“ zusam-\nmengefaßt und nicht bloß in ritueller, sondern auch in naturhistori-\nscher Beziehung zu gemeinschaftlichen Momenten vereinigt. Wir be-\nrücksichtigen hier nur die letztre Beziehung. — Alle acht Thiere,\nheißt es (Sabbat 107, a), haben eine Haut, andere niedrigen Thiere\nhaben keine. Diese Angabe wird verschieden erklärt; nach Mai-\nmuni (ibid. 14, 1) ist der Sinn derselben, daß bei jenen acht Thie-\nren die verletzte Haut, da sie von dem Fleisch leicht ablösbar ist (bei\nder Schnecke die Schale), nie mehr derart zuheilt, daß sie die frühere\nGestalt wieder annimmt, während bei den andern Reptilien und\nWürmern die Haut so weich ist, daß sie, wie das Fleisch auch ver-\nletzt, nachwächst und ganz die frühere Gestalt bekömmt. — Nach\nAnderen ist der Sinn jener Angabe folgender: Bei jenen acht Thie-\nren bewirkt ein verwundender Schlag nur einen Blutverlauf, da das\nBlut wegen der Dichtigkeit der Haut nicht nach außen dringen kann,\nbei anderen Reptilien hingegen dringt bei einer Contusion das Blut\ndurch die Poren der weichen Haut nach außen (Jos. Karo zu Or.\nChajim §. 316). — Noch Andere machen den Unterschied: Daß die\nHaut (Beziehungsweise die Schale) gesondert und benutzt werden\nkann, bei anderen Reptilien hingegen dieselbe sich nicht vom Körper\nablösen lasse und daher unbrauchbar sei (Tos. Sabbat ibid. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "הצרן"
+    },
+    {
+     "lang": "deu",
+     "text": ").\nAllein häutet sich nicht die Schlange? Wahrscheinlich denken die\nTosephot nur an die kleinen Reptilien."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 270.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 270."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Haut der Amphibien ist nicht durchgängig glatt und legt\nnamentlich zwischen den Gelenken Falten (Nidda 42, b; פרונצש,\nFroncis). — Im Allgemeinen heißt es von den Amphibien und den\nWürmern, daß sie ekelerregend sind (Bechoroth 37, a). Es kann\ndies freilich jedoch nur von den Thieren gelten, welche von der\nNatur entweder eine scheußliche Gestalt erhielten, oder welche auf\ndie ekelhafteste Weise sich erhalten, oder endlich welche an den\nschmutzigsten Stellen sich aufhalten. — Unrichtig ist die Angabe,\ndaß nur das Schlangengift tödlich ist; sowie, daß alle Reptilien\nGift besäßen (A. Sara 31, b). Selbst aber, wenn ארם, hier in",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Haut der Amphibien ist nicht durchgängig glatt und legt\nnamentlich zwischen den Gelenken Falten (Nidda 42, b; "
+    },
+    {
+     "lang": "heb",
+     "text": "פרונצש"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nFroncis). — Im Allgemeinen heißt es von den Amphibien und den\nWürmern, daß sie ekelerregend sind (Bechoroth 37, a). Es kann\ndies freilich jedoch nur von den Thieren gelten, welche von der\nNatur entweder eine scheußliche Gestalt erhielten, oder welche auf\ndie ekelhafteste Weise sich erhalten, oder endlich welche an den\nschmutzigsten Stellen sich aufhalten. — Unrichtig ist die Angabe,\ndaß nur das Schlangengift tödlich ist; sowie, daß alle Reptilien\nGift besäßen (A. Sara 31, b). Selbst aber, wenn "
+    },
+    {
+     "lang": "heb",
+     "text": "ארם"
+    },
+    {
+     "lang": "deu",
+     "text": ", hier in"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2405
+   ],
+   [
+    3308,
+    2723
+   ]
+  ],
+  "input_tokens": 11345,
+  "output_tokens": 1754,
+  "cost_usd": 0.0402,
+  "seconds": 11.1
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hebräisches und aramäisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hebräisches und aramäisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "אינבא 326.\nאינקא 366.\nאינקירי 193.\nאירעי 375.\nאישות 101, 233.\nאכלא טונא 324.\nאכספטיאס 259.\nאלגומים 345.\nאליתא 351.\nאלמוג 344,\nאלחית 272.\nאמכטס 368.\nאנדרפתא 161.\nאנפה 169.\nאנקה 94. 100.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "אינבא"
+    },
+    {
+     "lang": "deu",
+     "text": " 326.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אינקא"
+    },
+    {
+     "lang": "deu",
+     "text": " 366.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אינקירי"
+    },
+    {
+     "lang": "deu",
+     "text": " 193.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אירעי"
+    },
+    {
+     "lang": "deu",
+     "text": " 375.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אישות"
+    },
+    {
+     "lang": "deu",
+     "text": " 101, 233.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אכלא טונא"
+    },
+    {
+     "lang": "deu",
+     "text": " 324.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אכספטיאס"
+    },
+    {
+     "lang": "deu",
+     "text": " 259.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אלגומים"
+    },
+    {
+     "lang": "deu",
+     "text": " 345.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אליתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 351.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אלמוג"
+    },
+    {
+     "lang": "deu",
+     "text": " 344,\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אלחית"
+    },
+    {
+     "lang": "deu",
+     "text": " 272.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אמכטס"
+    },
+    {
+     "lang": "deu",
+     "text": " 368.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אנדרפתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 161.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אנפה"
+    },
+    {
+     "lang": "deu",
+     "text": " 169.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אנקה"
+    },
+    {
+     "lang": "deu",
+     "text": " 94. 100."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2840,
+    2118
+   ],
+   [
+    2840,
+    2934
+   ]
+  ],
+  "input_tokens": 11334,
+  "output_tokens": 650,
+  "cost_usd": 0.0292,
+  "seconds": 6.0
+ }
+}

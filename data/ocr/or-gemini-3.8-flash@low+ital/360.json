@@ -1,0 +1,517 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "360\nNachtrag.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "360\nNachtrag."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "stellung der meisten Fremdwörter aus den vier Schulchan Aruch gab\nich in Frankel's Monatsschrift für Gesch. und Wissensch. d. Judenth.\n1856. S. 441 ff. und S. 477 ff.\nS. Ar. Or. Chajim Siman 159, Seïf 11 סימיא, Simia, Affe. —\n216, 2 מוסק, fr. Musc, Moschus; hierzu Bar ha-Goleh פיום, Bi-\nsam. — 320, b אספת, span. Esponja, Schwamm.\nS. Ar. Jore Dea. Siman 28, Seïf 4 בופלי, Büffel. — 57, 3.\nפלקון, Falke. — 82 Bet Josef קורין, span. Corneja, Krähe. — אישפרויר,\nÉpervier und גאוילן, span. Gavilan, Sperber. — גולונדרינא, span.\nGolondrina, Schwalbe. — סיגואינייא, span. Cigüeña, Storch. — אגולא,\nspan. Aguila, Adler. — 83, 5 הערינג, Häring. — מרקריש, vielleicht\ndas fr. Maguereau, die kleine Makrele. — Bet Josef כרבוטא; Barbet\n(Mulus barbatus), der Rothbart. — 84, 5 Sifte Kohen 14: מילווין,\nMilben. — 114, 9 טונינא, Thonine, der Thunfisch.\nS. Ar. Choschen Mispat Siman 155 Seïf 16 מרטינה, span.\nMarta, Marder. — 303, b פוטיש, Putois und Bar ha-Goleh 389, 8\nאילטיס, Iltis.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "stellung der meisten Fremdwörter aus den vier Schulchan Aruch gab\nich in Frankel's Monatsschrift für Gesch. und Wissensch. d. Judenth.\n1856. S. 441 ff. und S. 477 ff.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "S. Ar. Or. Chajim Siman "
+    },
+    {
+     "lang": "deu",
+     "text": "159, Seïf 11 "
+    },
+    {
+     "lang": "heb",
+     "text": "סימיא"
+    },
+    {
+     "lang": "lat",
+     "text": ", Simia"
+    },
+    {
+     "lang": "deu",
+     "text": ", Affe. —\n216, 2 "
+    },
+    {
+     "lang": "heb",
+     "text": "מוסק"
+    },
+    {
+     "lang": "fra",
+     "text": ", fr. Musc"
+    },
+    {
+     "lang": "deu",
+     "text": ", Moschus; hierzu Bar ha-Goleh "
+    },
+    {
+     "lang": "heb",
+     "text": "פיום"
+    },
+    {
+     "lang": "deu",
+     "text": ", Bi-\nsam. — 320, b "
+    },
+    {
+     "lang": "heb",
+     "text": "אספת"
+    },
+    {
+     "lang": "deu",
+     "text": ", span. "
+    },
+    {
+     "lang": "other",
+     "text": "Esponja"
+    },
+    {
+     "lang": "deu",
+     "text": ", Schwamm.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "S. Ar. Jore Dea. Siman "
+    },
+    {
+     "lang": "deu",
+     "text": "28, Seïf 4 "
+    },
+    {
+     "lang": "heb",
+     "text": "בופלי"
+    },
+    {
+     "lang": "deu",
+     "text": ", Büffel. — 57, 3.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פלקון"
+    },
+    {
+     "lang": "deu",
+     "text": ", Falke. — 82 "
+    },
+    {
+     "lang": "lat",
+     "text": "Bet Josef "
+    },
+    {
+     "lang": "heb",
+     "text": "קורין"
+    },
+    {
+     "lang": "deu",
+     "text": ", span. "
+    },
+    {
+     "lang": "other",
+     "text": "Corneja"
+    },
+    {
+     "lang": "deu",
+     "text": ", Krähe. — "
+    },
+    {
+     "lang": "heb",
+     "text": "אישפרויר"
+    },
+    {
+     "lang": "deu",
+     "text": ",\n"
+    },
+    {
+     "lang": "fra",
+     "text": "Épervier "
+    },
+    {
+     "lang": "deu",
+     "text": "und "
+    },
+    {
+     "lang": "heb",
+     "text": "גאוילן"
+    },
+    {
+     "lang": "deu",
+     "text": ", span. "
+    },
+    {
+     "lang": "other",
+     "text": "Gavilan"
+    },
+    {
+     "lang": "deu",
+     "text": ", Sperber. — "
+    },
+    {
+     "lang": "heb",
+     "text": "גולונדרינא"
+    },
+    {
+     "lang": "deu",
+     "text": ", span.\n"
+    },
+    {
+     "lang": "other",
+     "text": "Golondrina"
+    },
+    {
+     "lang": "deu",
+     "text": ", Schwalbe. — "
+    },
+    {
+     "lang": "heb",
+     "text": "סיגואינייא"
+    },
+    {
+     "lang": "deu",
+     "text": ", span. "
+    },
+    {
+     "lang": "other",
+     "text": "Cigüeña"
+    },
+    {
+     "lang": "deu",
+     "text": ", Storch. — "
+    },
+    {
+     "lang": "heb",
+     "text": "אגולא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nspan. "
+    },
+    {
+     "lang": "other",
+     "text": "Aguila"
+    },
+    {
+     "lang": "deu",
+     "text": ", Adler. — 83, 5 "
+    },
+    {
+     "lang": "heb",
+     "text": "הערינג"
+    },
+    {
+     "lang": "deu",
+     "text": ", Häring. — "
+    },
+    {
+     "lang": "heb",
+     "text": "מרקריש"
+    },
+    {
+     "lang": "deu",
+     "text": ", vielleicht\ndas fr. "
+    },
+    {
+     "lang": "fra",
+     "text": "Maguereau"
+    },
+    {
+     "lang": "deu",
+     "text": ", die kleine Makrele. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Bet Josef "
+    },
+    {
+     "lang": "heb",
+     "text": "כרבוטא"
+    },
+    {
+     "lang": "fra",
+     "text": "; Barbet\n"
+    },
+    {
+     "lang": "lat",
+     "text": "(Mulus barbatus)"
+    },
+    {
+     "lang": "deu",
+     "text": ", der Rothbart. — 84, 5 "
+    },
+    {
+     "lang": "lat",
+     "text": "Sifte Kohen "
+    },
+    {
+     "lang": "deu",
+     "text": "14: "
+    },
+    {
+     "lang": "heb",
+     "text": "מילווין"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nMilben. — 114, 9 "
+    },
+    {
+     "lang": "heb",
+     "text": "טונינא"
+    },
+    {
+     "lang": "fra",
+     "text": ", Thonine"
+    },
+    {
+     "lang": "deu",
+     "text": ", der Thunfisch.\n"
+    },
+    {
+     "lang": "lat",
+     "text": "S. Ar. Choschen Mispat Siman "
+    },
+    {
+     "lang": "deu",
+     "text": "155 Seïf 16 "
+    },
+    {
+     "lang": "heb",
+     "text": "מרטינה"
+    },
+    {
+     "lang": "deu",
+     "text": ", span.\n"
+    },
+    {
+     "lang": "other",
+     "text": "Marta"
+    },
+    {
+     "lang": "deu",
+     "text": ", Marder. — 303, b "
+    },
+    {
+     "lang": "heb",
+     "text": "פוטיש"
+    },
+    {
+     "lang": "fra",
+     "text": ", Putois "
+    },
+    {
+     "lang": "deu",
+     "text": "und "
+    },
+    {
+     "lang": "lat",
+     "text": "Bar ha-Goleh "
+    },
+    {
+     "lang": "deu",
+     "text": "389, 8\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אילטיס"
+    },
+    {
+     "lang": "deu",
+     "text": ", Iltis."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 511.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 511."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Sota 42, b heißt es: Der Riese Goliat war בר מאה פפי וחדא\nנאנאי „der Sohn von Hundert פפי und eines נאנאי.“ Das Wort\nפפי erklärt Raschi durch פרשטי\"רא, richtiger im Ain Jacob: פדרש\"טרוש,\nd. i. Pédérastes, Knabenschänder, und נאנאי durch: Vater; der\nSinn ist: Die Mutter jenes Riesen war eine feile Person, sie gab\nsich vielen (hundert ist eine unbestimmte runde Zahl; s. Raschi) Wol-\nlüstlingen, selbst den sonst den Frauen verächtlichen Päderasten hin;\nnur Einer war der wirkliche Vater des Riesen. Burdorf (Lex. p.\n1350) hat diese Stelle nicht verstanden und übersetzt פפי durch Pape\nals Eigennamen. (Eine Zusammenstellung der auffallendsten Irr-\nthümer in dem Werke dieses Lexicographen werde ich in Kobak's\nJeschurun geben.) Anders erklärt der Glossator zum Jalk. Schimoni\n2. Th. fol. 17, d das Wort נאנאי und zwar durch כלב, Hund.\nDie Tosephot (zur Talmudstelle s. v. מאה) nehmen das Wort eben\nin diesem Sinne und begründen es, weil Goliat zu David sprach:\n„Bin ich denn ein Hund?“ (1. Sam. 17, 43). Ich glaube, daß das\nWort, wie die anderen Hundenamen נבחן und למס (§. 122) nach\nder Eigenschaft des Thieres gebildet ist. Der Hund wird sowohl in\nder Bibel (Jes. 56, 11) als auch im Talmud עז נפש, oder עז פנים,\nder Freche, der Unbändige genannt, und so mag er auch ἀνήνιον",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sota "
+    },
+    {
+     "lang": "deu",
+     "text": "42, b heißt es: Der Riese Goliat war "
+    },
+    {
+     "lang": "arc",
+     "text": "בר מאה פפי וחדא"
+    },
+    {
+     "lang": "heb",
+     "text": "\nנאנאי"
+    },
+    {
+     "lang": "deu",
+     "text": " „der Sohn von Hundert "
+    },
+    {
+     "lang": "arc",
+     "text": "פפי"
+    },
+    {
+     "lang": "deu",
+     "text": " und eines "
+    },
+    {
+     "lang": "arc",
+     "text": "נאנאי"
+    },
+    {
+     "lang": "deu",
+     "text": ".“ Das Wort\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פפי"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt Raschi durch "
+    },
+    {
+     "lang": "heb",
+     "text": "פרשטי\"רא"
+    },
+    {
+     "lang": "deu",
+     "text": ", richtiger im Ain Jacob: "
+    },
+    {
+     "lang": "heb",
+     "text": "פדרש\"טרוש"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nd. i. "
+    },
+    {
+     "lang": "fra",
+     "text": "Pédérastes"
+    },
+    {
+     "lang": "deu",
+     "text": ", Knabenschänder, und "
+    },
+    {
+     "lang": "arc",
+     "text": "נאנאי"
+    },
+    {
+     "lang": "deu",
+     "text": " durch: Vater; der\nSinn ist: Die Mutter jenes Riesen war eine feile Person, sie gab\nsich vielen (hundert ist eine unbestimmte runde Zahl; s. Raschi) Wol-\nlüstlingen, selbst den sonst den Frauen verächtlichen Päderasten hin;\nnur Einer war der wirkliche Vater des Riesen. Burdorf (Lex. p.\n1350) hat diese Stelle nicht verstanden und übersetzt "
+    },
+    {
+     "lang": "arc",
+     "text": "פפי"
+    },
+    {
+     "lang": "deu",
+     "text": " durch Pape\nals Eigennamen. (Eine Zusammenstellung der auffallendsten Irr-\nthümer in dem Werke dieses Lexicographen werde ich in Kobak's\nJeschurun geben.) Anders erklärt der Glossator zum Jalk. Schimoni\n2. Th. fol. 17, d das Wort "
+    },
+    {
+     "lang": "arc",
+     "text": "נאנאי"
+    },
+    {
+     "lang": "deu",
+     "text": " und zwar durch "
+    },
+    {
+     "lang": "heb",
+     "text": "כלב"
+    },
+    {
+     "lang": "deu",
+     "text": ", Hund.\nDie Tosephot (zur Talmudstelle s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "מאה"
+    },
+    {
+     "lang": "deu",
+     "text": ") nehmen das Wort eben\nin diesem Sinne und begründen es, weil Goliat zu David sprach:\n„Bin ich denn ein Hund?“ (1. Sam. 17, 43). Ich glaube, daß das\nWort, wie die anderen Hundenamen "
+    },
+    {
+     "lang": "heb",
+     "text": "נבחן"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "למס"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 122) nach\nder Eigenschaft des Thieres gebildet ist. Der Hund wird sowohl in\nder Bibel (Jes. 56, 11) als auch im Talmud "
+    },
+    {
+     "lang": "heb",
+     "text": "עז נפש"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "עז פנים"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nder Freche, der Unbändige genannt, und so mag er auch "
+    },
+    {
+     "lang": "grc",
+     "text": "ἀνήνιον"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2051
+   ],
+   [
+    3308,
+    3057
+   ]
+  ],
+  "input_tokens": 3345,
+  "output_tokens": 3458,
+  "cost_usd": 0.0155,
+  "seconds": 19.4
+ }
+}

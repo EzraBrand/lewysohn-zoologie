@@ -1,0 +1,329 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "274                      Die Scholle.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "274"
+    },
+    {
+     "lang": "lat",
+     "text": "                      "
+    },
+    {
+     "lang": "deu",
+     "text": "Die Scholle."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Sardellenart zu sein, welche wie die Häringe eingesalzen werden; im\nFr. bekanntlich Anchois genannt; ob hier eine Sprachverwandtschaft\nmit Nachzon vorhanden ist? Die Mischna giebt an, daß das Be=\nnezen dieses Fisches außerhalb des Wassers ihm nachtheilig sein würde.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Sardellenart zu sein, welche wie die Häringe eingesalzen werden; im\n"
+    },
+    {
+     "lang": "fra",
+     "text": "Fr."
+    },
+    {
+     "lang": "deu",
+     "text": " bekanntlich "
+    },
+    {
+     "lang": "fra",
+     "text": "Anchois"
+    },
+    {
+     "lang": "deu",
+     "text": " genannt; ob hier eine Sprachverwandtschaft\nmit Nachzon vorhanden ist? Die Mischna giebt an, daß das Be=\nnezen dieses Fisches außerhalb des Wassers ihm nachtheilig sein würde."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 355.\nDie Scholle.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 355.\nDie Scholle."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "An drei Parallelstellen (Pesachim 24, a; Maccoth 16, b und Eru=\nbin 28, a) heißt es: Wer einen פוטיחא ißt, verlezt ein vierfaches Ver=\nbot. Raschi erklärt das Thier als שרץ המים, d. i., als Wasserkriech=\nthier, welches klein und kaum von der Größe einer Olive ist. — Aruch\nhingegen erklärt dasselbe als einen unreinen Fisch, der mit גיריתא\nidentisch ist. — Leztrer Name wird aber im Talmud nirgends als\nFischname gebraucht, selbst in der Stelle (Chulin 109, b), wo gesagt\nwird, daß für den verbotenen גיריתא der כוורא als Aequivalent ge=\nstattet wurde, ist erstres Wort kein Fischname, vergl. ob. S. 180. — Es\nfragt sich nur, welcher Fisch der פוטיחא, wofür Aruch פטחא liest,\nsein soll. — Wir haben aber aus dem Umstand, daß der Genuß des\nפוטיחא ein vierfaches Verbot involvirt, sicher zu schließen, daß hier\neine solche Fischart gemeint ist, die vermöge ihrer Natur auch als\nWasserkriechthier angesehen werden kann. Es ist dies die Art der\nHalbfische, oder die Scholle. Sie liegt meist auf dem Boden\nder See und ist auf dieser Seite blind, zuweilen an derselben auch\nzottig; hierzu kommt, daß nach der Meinung der Alten die Scholle\nnicht durch Begattung entsteht, so sagt Aristoteles (a. a. O. 4, 11, 4):\nEs giebt unter den Fischen mehrere Arten, die ebenso wie die Hart=\nschaligen und die Pflanzen zwar Junge zur Welt bringen, ohne daß\njedoch eine Begattung stattfindet, dahin gehören von den Fischen die\nSchollen, Ψῆτται. — Mit diesem gr. Worte hat פטחא durch Trans=\nposition der Buchstaben eine erkennbare Verwandtschaft, und mag da=\nher פטחא die richtigere Schreibart sein; indeß sind die Transpositio=\nnen der aus der griechischen in die aramäische Sprache übergegangenen\nWörter nicht selten, so heißt גמלן (§. 409) groß, wie μέγαλον; נמלה,\nHafen, wie λιμήν; ערוד (§. 300) Wasserschlange, wie Ὕδρος;\nקרש (§. 146), wie Ὄρυξ; אנקה (§. 134), wie Ἐχῖνος, אונקא, wie\nαὐχήν, Hals; הירדוליס, ὕδραυλις, Wasserorgel; auch אוקינוס, Haken,\nist das lat. Uncinus; קאקגרסין, schlecht, für κακοῦργος u. a. m.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "An drei Parallelstellen (Pesachim 24, a; Maccoth 16, b und Eru=\nbin 28, a) heißt es: Wer einen "
+    },
+    {
+     "lang": "heb",
+     "text": "פוטיחא"
+    },
+    {
+     "lang": "deu",
+     "text": " ißt, verlezt ein vierfaches Ver=\nbot. Raschi erklärt das Thier als "
+    },
+    {
+     "lang": "heb",
+     "text": "שרץ המים"
+    },
+    {
+     "lang": "deu",
+     "text": ", d. i., als Wasserkriech=\nthier, welches klein und kaum von der Größe einer Olive ist. — Aruch\nhingegen erklärt dasselbe als einen unreinen Fisch, der mit "
+    },
+    {
+     "lang": "heb",
+     "text": "גיריתא"
+    },
+    {
+     "lang": "deu",
+     "text": "\nidentisch ist. — Leztrer Name wird aber im Talmud nirgends als\nFischname gebraucht, selbst in der Stelle (Chulin 109, b), wo gesagt\nwird, daß für den verbotenen "
+    },
+    {
+     "lang": "heb",
+     "text": "גיריתא"
+    },
+    {
+     "lang": "deu",
+     "text": " der "
+    },
+    {
+     "lang": "heb",
+     "text": "כוורא"
+    },
+    {
+     "lang": "deu",
+     "text": " als Aequivalent ge=\nstattet wurde, ist erstres Wort kein Fischname, vergl. ob. S. 180. — Es\nfragt sich nur, welcher Fisch der "
+    },
+    {
+     "lang": "heb",
+     "text": "פוטיחא"
+    },
+    {
+     "lang": "deu",
+     "text": ", wofür Aruch "
+    },
+    {
+     "lang": "heb",
+     "text": "פטחא"
+    },
+    {
+     "lang": "deu",
+     "text": " liest,\nsein soll. — Wir haben aber aus dem Umstand, daß der Genuß des\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פוטיחא"
+    },
+    {
+     "lang": "deu",
+     "text": " ein vierfaches Verbot involvirt, sicher zu schließen, daß hier\neine solche Fischart gemeint ist, die vermöge ihrer Natur auch als\nWasserkriechthier angesehen werden kann. Es ist dies die Art der\nHalbfische, oder die Scholle. Sie liegt meist auf dem Boden\nder See und ist auf dieser Seite blind, zuweilen an derselben auch\nzottig; hierzu kommt, daß nach der Meinung der Alten die Scholle\nnicht durch Begattung entsteht, so sagt Aristoteles (a. a. O. 4, 11, 4):\nEs giebt unter den Fischen mehrere Arten, die ebenso wie die Hart=\nschaligen und die Pflanzen zwar Junge zur Welt bringen, ohne daß\njedoch eine Begattung stattfindet, dahin gehören von den Fischen die\nSchollen, "
+    },
+    {
+     "lang": "grc",
+     "text": "Ψῆτται"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Mit diesem gr. Worte hat "
+    },
+    {
+     "lang": "heb",
+     "text": "פטחא"
+    },
+    {
+     "lang": "deu",
+     "text": " durch Trans=\nposition der Buchstaben eine erkennbare Verwandtschaft, und mag da=\nher "
+    },
+    {
+     "lang": "heb",
+     "text": "פטחא"
+    },
+    {
+     "lang": "deu",
+     "text": " die richtigere Schreibart sein; indeß sind die Transpositio=\nnen der aus der griechischen in die aramäische Sprache übergegangenen\nWörter nicht selten, so heißt "
+    },
+    {
+     "lang": "heb",
+     "text": "גמלן"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 409) groß, wie "
+    },
+    {
+     "lang": "grc",
+     "text": "μέγαλον"
+    },
+    {
+     "lang": "deu",
+     "text": "; "
+    },
+    {
+     "lang": "heb",
+     "text": "נמלה"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nHafen, wie "
+    },
+    {
+     "lang": "grc",
+     "text": "λιμήν"
+    },
+    {
+     "lang": "deu",
+     "text": "; "
+    },
+    {
+     "lang": "heb",
+     "text": "ערוד"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 300) Wasserschlange, wie "
+    },
+    {
+     "lang": "grc",
+     "text": "Ὕδρος"
+    },
+    {
+     "lang": "deu",
+     "text": ";\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קרש"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 146), wie "
+    },
+    {
+     "lang": "grc",
+     "text": "Ὄρυξ"
+    },
+    {
+     "lang": "deu",
+     "text": "; "
+    },
+    {
+     "lang": "heb",
+     "text": "אנקה"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 134), wie "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἐχῖνος"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "אונקא"
+    },
+    {
+     "lang": "deu",
+     "text": ", wie\n"
+    },
+    {
+     "lang": "grc",
+     "text": "αὐχήν"
+    },
+    {
+     "lang": "deu",
+     "text": ", Hals; "
+    },
+    {
+     "lang": "heb",
+     "text": "הירדוליס"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "grc",
+     "text": "ὕδραυλις"
+    },
+    {
+     "lang": "deu",
+     "text": ", Wasserorgel; auch "
+    },
+    {
+     "lang": "heb",
+     "text": "אוקינוס"
+    },
+    {
+     "lang": "deu",
+     "text": ", Haken,\nist das lat. "
+    },
+    {
+     "lang": "lat",
+     "text": "Uncinus"
+    },
+    {
+     "lang": "deu",
+     "text": "; "
+    },
+    {
+     "lang": "heb",
+     "text": "קאקגרסין"
+    },
+    {
+     "lang": "deu",
+     "text": ", schlecht, für "
+    },
+    {
+     "lang": "grc",
+     "text": "κακοῦργος"
+    },
+    {
+     "lang": "deu",
+     "text": " u. a. m."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2660
+   ],
+   [
+    3308,
+    2600
+   ]
+  ],
+  "input_tokens": 3348,
+  "output_tokens": 2352,
+  "cost_usd": 0.0113,
+  "seconds": 13.8
+ }
+}

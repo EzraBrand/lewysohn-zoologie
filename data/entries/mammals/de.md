@@ -1,4 +1,4 @@
-# Second part, first class: Mammals (pp. 64–158)
+# Second part, first class: Mammals (pp. 64–159)
 
 ### ‎Zweite Abtheilung. Specielle Zoologie.
 
@@ -3989,7 +3989,26 @@ Raschi hält sie für eine am Ufer des Jordans*) wachsende Krautart;
 Aruch hat zwei Erklärungen, wonach jene Species entweder eine wohl-
 riechende Pflanze, oder die Ambra ist. Die Erklärung lautet:
 רעי של דג הגדל בירדן והוא עמברא. Sollten diese Worte den Sinn
-haben; „Excremente des großen Fisches im Jordan, und zwar die
+haben; „Excremente des großen Fisches im Jordan, und zwar die [p. 159] Ambra", so wäre die Erklärung schon deshalb unwahrscheinlich,
+da der Cachelot 70—80 Fuß lang wird und daher im Jordan nicht
+vorhanden sein kann; er findet sich fast in allen Meeren und wird
+zuweilen an Küsten verschlagen; heißen aber die Worte דג הגדל בירדן
+„der im Jordan wachsende Fisch", dann kann es nicht die eigentliche
+Ambra sein, und die Erklärung wäre um so weniger genügend.
+
+‎Was nun die Ambra selbst betrifft, so hielt man, wie Voigt (l. c,
+1, S. 467) sagt, dieselbe bis jetzt für eine krankhafte Anhäufung
+der Excremente*); doch hat Blainville (im Journal de Pharma-
+cie, Mai 1832, S. 246) die Vermuthung geäußert, daß sie eine
+Secration in eigenen Säcken, wie die des Bibers, oder des Moschus-
+thieres in der Gegend des Afters sei. Der Irrthum, die Ambra für
+Excrement zu halten, entstand dadurch, daß man in derselben Se-
+pienschnäbel findet; doch könnte sie gleichzeitig mit den Excrementen
+von dem Thiere entleert worden sein.
+
+‎Ueber den ebenfalls zum
+Räucherwerk im Tempel gehörenden Seenagel (ציפורן) vergleiche
+den Anhang §. 513.
 
 ---
 
@@ -4233,3 +4252,7 @@ haben; „Excremente des großen Fisches im Jordan, und zwar die
 *p. 158*
 
 ‎*) Ueber die Etymologie des Namens ירדן s. meine Aphorismen im L. Bl. d. Orients 1849 col. 391.  
+
+*p. 159*
+
+‎*) Und so mag כיפת mit כופיתא (§. 96) verwandt sein.  

@@ -1,0 +1,485 @@
+# Third class: Amphibians (pp. 218–242)
+
+### ‎Third Class.
+
+### ‎§. 268.
+
+‎Names of the amphibians. Just as even more recent zoologists call this class of animals sometimes amphibians, sometimes reptiles, according to whether regard is had to their habitat or to their gait, so this class of animals also bears various designations in the Talmud.
+
+‎Because of their creeping gait they are called רחש (Chulin 10a), רחשא (Terumoth 8, 4) and רמשים.
+
+‎The snake is in addition specifically called: חיה הרומשת (Tos. [=Tosafot] Nidda 23a. s.v. ליתני), and according to some also יאלי (§. 134).
+
+‎Because of their sometimes repulsive and disgusting appearance they are called שקצים.
+
+‎Finally, because they dwell partly in the water, partly on land, they are called שרצים (A. Sara [=Avodah Zarah] 31b). The basic meaning of the latter word is: to swarm, to be many, to be everywhere.
+
+‎How Landau, however, can call the amphibians כרוי (Aruch s.v.) is incomprehensible, for even Aruch does not understand by this name amphibians that dwell in the water and on land, a matter we shall treat in §. 394.
+
+### ‎§. 269.
+
+‎Of the eight animals mentioned side by side by the Law with regard to defilement (Lev. [=Leviticus] 11, 29—30), four [p. 219] (חלד, weasel; עכבר, mouse; אנקה, hedgehog and תנשמת, mole) belong to the mammals, three (צב, toad; לטאה, lizard; כח, Hardun) to the amphibians proper, and finally one (חומט, snail) to the shellfish. All these 8 animals, however, are often grouped together in the Talmud under שמונה שרצים „eight creeping things, i.e. lowly animals“ and are united by common features not only in ritual but also in natural-historical respects. Here we consider only the latter respect.
+
+‎All eight animals, it is said (Sabbat 107a), have a skin; other lowly animals have none. This statement is explained in various ways; according to Maimuni (ibid. 14, 1) its sense is that in those eight animals the injured skin, since it is easily detachable from the flesh (in the snail, the shell), never again heals in such a way that it resumes its former shape, whereas in the other reptiles and worms the skin is so soft that, like the flesh, when injured it grows back and fully regains its former shape.
+
+‎According to others the sense of that statement is the following: in those eight animals a wounding blow causes only an effusion of blood, since the blood cannot pass outward because of the density of the skin, whereas in other reptiles, in the case of a contusion, the blood passes outward through the pores of the soft skin (Jos. Karo on Or. Chajim [=Orach Chayyim (part of the Shulchan Aruch)] §. 316).
+
+‎Still others make the distinction that the skin (or, as the case may be, the shell) can be separated and used, whereas in other reptiles it cannot be detached from the body and is therefore useless (Tos. Sabbat ibid. s.v. הצרן). But does the snake not shed its skin? The Tosephot are probably thinking only of the small reptiles.
+
+### ‎§. 270.
+
+‎The skin of the amphibians is not smooth throughout and forms folds, particularly between the joints (Nidda 42b; פרונצש, Froncis).
+
+‎In general it is said of the amphibians and the worms that they are disgusting (Bechoroth 37a). This can of course, however, apply only to those animals which either received a hideous form from nature, or which sustain themselves in the most disgusting manner, or finally which dwell in the filthiest places.
+
+‎Incorrect is the statement that only snake venom is deadly, as well as that all reptiles possess venom (A. Sara 31b). But even if ארס, here in [p. 220] reference to the remaining reptiles, should mean slaver, the generality of that statement would still be open to doubt.
+
+‎The eggs of the creeping animals do not have the white and the yolk separated (Chulin 64a).
+
+‎Not all reptiles are harmful, and the harmlessness of those eight, partly creeping animals, partly lowly mammals (§. 269), is especially emphasized (Sabbat 107a).
+
+‎Finally, mention should be made of the distinction that Elia Wilna (cited by Lüpschütz in the Mishnah commentary on Nidda 3, 2) draws, according to which the worms arise without copulation, whereas the other reptiles arise through copulation.
+
+### ‎§. 271.
+
+### ‎The Crocodile.
+
+‎Nedarim 41a it is related: Samuel saw*) a scorpion settle on the back of a קרוקהא or אקרוקתא, and thus it was able to get across a river.
+
+‎B. batra [=Bava Batra] 73b also relates fabulous things about the size of an אקרוקתא. In both passages the commentaries explain the word as frog**); but the gigantic size attributed to it already suits the frog far too little, and it is therefore more correct, with Landau, to translate the word as crocodile, since the Aramaic word seems all too closely related to the Greek Κροκόδειλος [Krokodeilos]. The crocodile attains a size of 30 ells and more, and was thus a welcome subject of fanciful fable-making. If one further considers that very old crocodiles are overgrown with parasites of every kind, a scorpion could well settle on the shell-covered back of a crocodile and thus be carried across the water. That, however, the לויתן so frequently mentioned in the Talmud means not crocodile but whale, we have discussed in detail in §. 179.
+
+‎Another name for the crocodile is נפילים (giant), which will be discussed in §. 277***).
+
+### ‎[p. 221] §. 272.
+
+### ‎The Lizard.
+
+‎The Talmud seems to take the Hebrew לטאה (Lev. 11, 30) as a general name for the numerous lizard genus as a whole. Rashi translates it (Chulin 122a) as לתיירדא, Lézard, Latin Lacerta, by which, however, no particular species of lizard is exclusively designated, and indeed the characteristics of the animal given by the Talmud are of so general a nature that they cannot be assigned to a single species of lizard alone.
+
+‎The lizard belongs to the eight defiling animals which are called שרצים (§. 269), partly on account of their short feet (like the mouse, weasel, hedgehog and mole), partly on account of their footlessness and hence creeping motion (as is the case with the snail). To the former kind belong our common lizard and, in particular, the lizard species Hardun (§. 274). As already mentioned earlier (§. 270), these eight animals are harmless to man, and indeed even the most snappish lizard does not wound unless it is attacked or provoked.
+
+‎Like those other animals, it too has a thick (Sabbat 107a), albeit soft and smooth skin (Chulin 122a). It lays eggs (ibid. 122b) in which white and yolk are not separated (A. Sara 40a). The severed tail twitches and continues to move for some time (Erachin 7a); here Raschi says: the severed tail no longer has (actual) life and is nevertheless able to produce the convulsive twitchings; on the other hand, the same author says expressly on Chagigah 11a that there is still life in the severed tail.
+
+‎But of course there can be no question here of actual sentient life. The convulsive twitchings, which one also otherwise observes in the torn-off legs of spiders, are probably caused by the circulation of the blood remaining in those parts, and they cease only when the blood (or blood-sap) loses the last trace of animal warmth and congeals.
+
+‎An interesting report is given about the revival of a lizard that was apparently dead. Namely, such a lizard was found in a butcher's stall, in consequence of which the meat would have had to be regarded as defiled. Then R. Gamliel inquired about the temperature of the interior of the premises, and when this was found to be warm, the Rabbi [p. 222] had cold water poured on the lizard, whereby it came back to life, and so the meat was declared usable (Pesachim 88b*). The revival is here called רינחש, which Raschi explains as mere twitching; however, it is well known that frozen salamanders thaw back to life (Voigt [=F. S. Voigt, Lehrbuch der Zoologie (Stuttgart 1835–40); the text names it (p. 9: "Voigt, Lehrb. d. Zool.")] l. c. [=loco citato: in the work cited above] 3. p. 13); Voigt also relates that Hofrath Tilesius in Brazil believed an alligator to have long since been killed and therefore placed it in a jar of spirits, but on the following day it gave such a jerk that it broke the jar.
+
+‎The lizard, however, can be killed quickly only if a violent blow breaks its spine, whereas otherwise the heart and the severed tail often move for hours.
+
+### ‎§. 273.
+
+### ‎A Species of Lizard.
+
+‎Sabbat 77b states: The סממית serves against the scorpion's sting. Further: Nature cast upon five great and strong creatures the fear of five weak creatures; thus the scorpion fears the סממית.
+
+‎Raschi both times translates the word by אייראניאה, Araignée, spider; but Bochart [=Samuel Bochart, Hierozoicon, sive de animalibus Sacrae Scripturae (Lewysohn used the Frankfurt a. M. 1675 edition)] (l. c. 1, 4, 7. col. 1085) rightly remarks that that statement is nowhere found with regard to the spider, whereas it emerges from many parallel passages in ancient works of natural science that the lizard is the most fearsome enemy of scorpions, so that its mere sight makes scorpions rigid. Whether the mentioned remedy against the scorpion's sting is perhaps meant here as a cure by antidote**), or as a means of extermination, in the sense that nature created the lizard for the extermination of scorpions, the expression הק"בה ברא סממית לעקרב, “God created the Semamit against the scorpion,” could well apply to both interpretations.
+
+‎The only question is how the scorpion can here be called a strong creature and the lizard a weak one; [p. 223] but here (as Bochart l. c. 2, 5, 18. col. 793 remarks) what is meant is not outward size but inner intensive power, since scorpion venom was indeed considered the strongest; cf. also Voigt (loc. cit. 4. p. 114).
+
+‎Our passage further states: One should take a black and a white סממית, boil them together and smear the wound with them. What is meant here is probably the Lacerta agilis, of which there are green, black and grey ones; the latter two are called Lacertam atram and Lacertam arenicolam (Voigt l. c. 3, p. 39), and these two species are probably meant here, since חיור denotes both pure white and grey colour (cf. Landau s.v. חיור).
+
+‎- סממית is perhaps identical with שממית. Of the latter it is said (Sanhedrin 103b) that it was brought onto the altar by Amon, who burned the Law and abolished the Temple service. Here too Raschi translates שממית as spider (cf. §. 400); Aruch explains the word as lizard, referring to Jonathan [=Targum (Pseudo-)Jonathan], who renders לטאה in Lev. 11, 30 by שממיתא; yet Raschi's explanation is more acceptable, see §. 400.
+
+### ‎§. 274.
+
+### ‎The Hardun.
+
+‎This is the name of the lizard widespread throughout the Orient, which in Linnaeus is called Lacerta stellio, in Voigt the Stachelschwanz (spiny-tail), and by which Kimchi explains the Hebrew כח (Lev. 11, 30). It is olive-brown, tending toward blackish, with a spotted back. The tail is ringed black and yellow, and the lizard is one foot long (Voigt l. c. 3. p. 40).
+
+‎Rosenmüller [=E. F. K. Rosenmüller, Handbuch der biblischen Alterthumskunde, vol. 4, part 2 (Leipzig 1831)] (loc. cit. 4, 2. p. 260) adds that the back of this lizard is furrowed and scaly. The scales are pointed at the top.
+
+‎The Talmud gives the following characteristics of this animal. The skin is soft (Chulin 122a) and detachable (Sabbat 107a; Tos. s.v. הצדן). It is not dangerous to man, which is why catching or killing it on the Sabbath is forbidden (ibid.). Admittedly these specifications, as already mentioned (§. 272), are too general in nature for the particular species of lizard to be recognized from them; nevertheless, among the many explanations of the Hebrew word, the Arabic translation by حردون [ḥardūn] (Hardsonon) deserves preference, since Hasselquist describes precisely the lizard living in Anatolia, [p. 224] Syria and Eretz Yisrael, and which the lawgiver may well have had in mind. Schwarz (תוצאות הארץ 3, 1) gives the same lizard, but remarks that it is also called al Tsab, which, however, cannot be decisive, since the Arabic name Hardun is beyond doubt.
+
+### ‎§. 275.
+
+### ‎The Chameleon.
+
+‎The aforementioned lizard, on account of its scaly back, is only a kind of chameleon (Rosenmüller loc. cit.), and this latter animal is meant by the זקיתא mentioned in the Talmud (Sanhedrin 108b). Here it is related: “Shem, the son of Noah, said: ‘‘We once suffered much distress, for while we fed the day animals by day and the night animals at night, we did not know what the animal זקיתא was accustomed to eat; then one day I cut a pomegranate into two pieces, out of which a worm fell, which that animal devoured; thereupon I kneaded bran (חיורא*), from which worms came forth, on which the animal lived’’”.
+
+‎About this animal Mussaphia says: “I believe that it is a wind-snorting animal; some take it for an animal living on wind, for the Targum translates רוח “wind” by זיקא”.
+
+‎If we add, moreover, that people with a bloated body are called זקאני (A. Sara 31b), we should all the more surely think of the chameleon in our passage. In antiquity the opinion prevailed that this animal lives only on air**); this opinion arose because the chameleon inflates itself and thereby expands so much that its skin becomes almost transparent.
+
+‎It can go hungry for a long time and feeds on flies, gnats, ants and worms, which it catches with its long sticky tongue.
+
+### ‎§. 276.
+
+‎Conclusion. This animal is also mentioned in the Zohar (Ed. Sulzbach, Paras. Jitro pag. 33); here it is called זקיפא and is [p. 225] identified by the commentary אמרי בינה with the זקיתא mentioned in the preceding §. In the fable related there (which also passed into the קב הישר cap. 83) the זקיטא is depicted as an enemy of snakes, which even defeats the latter. Compare with this Aelian (Thierg. [=Aelian, On the Nature of Animals (De natura animalium; German title Thiergeschichte)] 4, 33), who likewise reports that enmity between the chameleon and the snake. The former, because of its firm skin, does not feel the snake's bites at all; yet the superiority of the chameleon over the snake is not mentioned at all; rather, the former defends itself against the snake by cunning, without which it could become the snake's prey.
+
+‎Cf., however, on our word the Maarich of Menachem de Lonsano s.v. זקיטא.
+
+### ‎§. 277.
+
+### ‎The Skink.
+
+‎Chulin 127a states: Under the צב (toad §. 281), designated by the Law as defiling, are also included the ערוד (water snake §. 300), the סלמנדרא (salamander §. 278) and the בן נפילים. It is the last-named animal that we have to identify here. One should note above all that only with the צב, which belongs to the eight defiling animals, is the addition למינהו “after its kind” (Lev. 11, 29) found, although hardly any of the other seven animals does not also have more or fewer varieties of its genus. How numerous, e.g., is the lizard genus, of which, however, only the לטאה (§. 272) and the כח (§. 274) are mentioned. The Talmud now takes the למינהו attached exclusively to the צב as a collective designation for several other animals, which, however, have in common only that they are all amphibians, since no other prominent common feature could otherwise be found, as the toad, the water snake, the salamander and the skink (בן נפילים) have nothing else in common.
+
+‎Bochart (l. c. 1, 4, 1), in order to obtain an agreement among the four animals, takes צב for the land crocodile, ערוד (for which he reads עסור) for a land lizard, בן נפילים for the skink and סלמנדרא for the salamander. But while he correctly identifies the two latter animals, he errs in the two former, since צב in the Talmud means only toad, and no codex has the reading עסור. If, however, as mentioned, we take the nature of the [p. 226] amphibians as the common feature, there is no further difficulty.
+
+‎Let us now come to the explanation of our animal. This is, as Buxdorf [=Johannes Buxtorf, Lexicon Chaldaicum, Talmudicum et Rabbinicum (Basel 1640)] rightly assumes, a water animal, i.e. an amphibian, which at different times stays now in the water, now on land. He refers (Lex. p. 1368) to the Midrash passage (Rabba Schemoth p. 133), in which it says: God showed Moses many objects so that he might come to know them by sight; He stirred the sea and showed him the בן נפילים u. w.*); from this it follows that the בן נפילים lives in the water. On the other hand, Buxdorf errs, and likewise Landau, who follows him, when the former lets himself be misled by the similarity of sound and translates בן נפילים as Nauplium. He refers to Pliny (h. n. [=Pliny the Elder, Natural History (Naturalis historia)] 9, 30, 49), where it says: Mucianus relates that he saw a shell in the form of a ship, and another in the Sea of Marmara, which has a curved stern and in front the prow of a vessel. In this shell the Nauplium is produced; it is similar to a snake and is accustomed to play in company.
+
+‎Buxdorf adds that Gessner takes the Nauplium in Pliny to be the well-known Nautilus (paper nautilus; Voigt l. c. 3. p. 367), the species of polyps from the realm of the testaceans. But apart from the fact that Nauplium is by no means the Nautilus, as Harduin (on Plin. l. c.) has thoroughly demonstrated, Buxdorf's explanation is incorrect for other reasons as well. First, the Nauplium, or the Nautilus, is not an amphibian, for it lives only in water, and therefore forms an entirely different Class, too different to be compared with צב, let alone included under it. If, however, the factor of body covering, the shell, is to be considered here, in which the paper nautilus is supposed to resemble the tortoise (as Buxdorf and Landau wrongly translate צב), then the two animals could least of all be placed alongside the water snake and the salamander, since the latter two entirely lack that body covering.
+
+‎Second, the addition בן is not explained, and yet it appears in the Midrash passage as well as in the Talmud passage as an essential component of the animal's name.
+
+‎[p. 227] On the other hand, the parallel passages from Arabic writers, which Bochart adduces in abundance, are far too weighty to be left out of consideration. From the many passages he cites it emerges that the skink (Arabic سَقَنْقُورْ [saqanqūr]) was caught on the banks of the Nile; it was believed to have arisen from crocodile eggs left lying on the banks. The Greeks therefore called this lizard Κροκόδειλον τὸν χερσαῖον [krokodeilon ton chersaion] (Arist. [=Aristotle] l. c. 2, 12, 9), and for this reason the skink was called בן נפילים "son of the giants," since according to that belief it descends from the crocodile.
+
+‎Bochart also cites a passage from the Arabic writer Damir, according to which the Egyptian skink is born in the Red Sea, feeds there on fish, but on land on lizards; and this skink is surely what is meant by בן נפילים; like the other three animals it belongs to the order of amphibians and is called "son of the giants" because it was believed to have arisen from the eggs of the mighty crocodile. On נפילים see further §. 516.
+
+### ‎§. 278
+
+### ‎The Salamander.
+
+‎The common newt, which is also called the land salamander, lives on land but goes into the water at mating time, and is therefore rightly designated in the Talmud (see previous §.) as an amphibian alongside the toad, the skink and the water snake. It is called סלמנדרא, Greek Σαλμάνδρα [Salmandra].
+
+‎We shall here gather together the legends about the salamander scattered through the Talmud, in which it followed the erroneous but ancient statements of earlier naturalists.
+
+‎Chagiga 26a states: The salamander arises from fire, and whoever anoints himself with its blood is protected against fire. On this Rashi remarks: The salamander is an animal that arises from a fire kept burning uninterruptedly for seven years*).
+
+‎Sanhedrin 63b relates: King Hezekiah was to be led by his father through the fire of Moloch; then his mother anointed him with the blood of the salamander. [p. 228]
+
+‎On this Rashi: The salamander is a small animal that comes forth from the furnace in which the fire has been kept up for seven years, and the fire cannot harm one who is anointed with salamander blood.
+
+‎On this Talmud passage, cited in Midr. [=Midrash] Jalkut Schimoni (part 2 p. 36, col. 4), a gloss remarks: The salamander, in the form of a mouse, arises when one burns myrtle wood in a furnace for seven consecutive years, and anointing with its blood protects against fire.
+
+‎Finally, Chulin 127a states: The salamander is included in the toad family, i.e., both animals are amphibians. On this Rashi: The salamander is a creeping animal (short-footed animal, §. 269) produced by sorcery, namely from the fire of myrtle wood. Its blood protects against fire. The Talmud then continues: How great are Your works, O God! You have great creatures in fire and great creatures in the open air; but if the former came into the air and the latter into fire, they would die. Here Rashi refers the great fire-animal to the salamander, although in the Talmud passage cited above (Sanhedrin 63b) he describes the salamander as a small animal. However, the notion of size is of course very relative, and the salamander, which grows no longer than six inches, may well be called large in comparison with other, still smaller animals.
+
+### ‎§. 279.
+
+‎Continuation. Most of the statements of the Talmud mentioned in the previous §. are already found in the most ancient and older naturalists. Aristotle (loc. cit. 5, 17, 12) says: "In Cyprus, where the stone chalcitis (Χαλκῖτις [Chalkitis], a kind of copper ore) is heated for several days, there arise in the midst of the fire (ἐν τῷ πυρὶ [en tō pyri], to be clearly distinguished from מן האור in the Rashi passage on Chulin 127a, to which another reading in Arist. also corresponds, namely ἐκ τῷ πυρὶ [ek tō pyri]. Harduin on Plinius h. n. 11, 36, 42 cites the latter reading in the name of Seneca) a kind of small winged animals, somewhat larger than our housefly, which walk and fly through the fire. These animals die at once outside the fire; that the nature of certain animals can withstand fire is shown also by the salamander, which, as is said, extinguishes fire when it passes through it."
+
+‎Pliny (h. n. 10, 68, 87)
+
+‎[p. 229] says: "Salamanders do not reproduce by copulation," and in the preceding section: "Such coldness is inherent in the salamander that it extinguishes fire by touching it, just like ice."
+
+‎On the arising of the salamander from fire, or in fire, Conrad Gessner (De quadrupedis ovip. fol. 79) and Isidore (Originum 12, 4, pag. 294; see Bondi: Or. Ester [=Jonah Bondi, Or Esther, a dictionary of the foreign words in the Talmud] s.v.) report.
+
+‎However, Aelian (Thierg. 2, 31) already says that the salamander does not arise from fire.
+
+‎As for the duration of the fire, in Midr. Tanchuma fol. 16, col. 2 it is reduced to 7 days and 7 nights.
+
+‎Unknown to me is the source according to which the wood for the fire must be of myrtle. —
+
+‎What is true, however, in these fabulous notions about the nature of the salamander is that this animal has glandular points on its body from which it squirts a milky juice; it does this when it is painfully irritated, and can therefore indeed partially extinguish a small fire. Cf. Voigt loc. cit. 3. p. 110*).
+
+### ‎§. 280.
+
+‎Conclusion. From what has been said in the two preceding articles the difficulty might arise how the Talmud could regard the salamander as an amphibian (see §. 277), since it nevertheless has it live in fire; but it is not the Talmud, only Rashi, who has the salamander live in fire; the former speaks of בריוה גדולות (great creatures) in the plural, and need not necessarily be thinking only of the salamander, which is small anyway. The passage in Chagigah 26 a does indeed speak of the origin, but not of the abode, of the salamander in fire.
+
+‎Moreover, [p. 230] the salamander is not the only animal about which the Talmud contains things both fabulous and at the same time true to natural history, and in the present case, notwithstanding the contradiction, we must nevertheless hold fast to the Talmud's correct knowledge of the nature of the salamander as against the fable. Had the salamander really been regarded only as a fire-animal, it would then be incomprehensible how the Talmud could have classified it as a defiling creeping thing (שרץ).
+
+### ‎§. 281.
+
+### ‎The Toad.
+
+‎The Hebrew צב (Lev. 11, 29), for which the Talmud also has זבוני (Nidda 56a; Aruch reads: זבוני*), is, strikingly, mistranslated by all lexicographers of the Talmud as tortoise (§. 285), although several Talmudic passages leave not the slightest doubt as to the true nature of the animal. Teharoth 5, 1 deals with the question whether one who has touched an animal and does not know whether it was a frog (which does not defile) or a צב (which defiles) is to become unclean. The commentaries state expressly that the frog and the צב look deceptively alike; accordingly צב cannot be the tortoise, recognizable by its shell, but must be the common toad, which even among us is still confused with the frog by the uninformed. The toad differs, as is well known, from the frog in having a broader body and shorter legs, and this at the same time explains why only the toad, on account of its short legs, is a שרץ in the proper sense (§. 269) and hence defiling.
+
+‎The similarity of the two animals is also stated in Ketuboth 15a and Kiduschin 80a.
+
+‎Most decisive, however, is the passage in Maimuni (in the introduction to the Order Teharoth). He says: Only the animals mentioned in the Law (Lev. 11, 29—30) are defiling, but not snakes, frogs and טרטוקא. This word is the Spanish Tortuga, Italian Tartuga, the tortoise, from which it follows beyond doubt that צב cannot be the tortoise; hence Rappoport (תולדות דרבינו נתן p. 64) errs when he translates זבונא as “little house” and wants to understand by it the shell of the tortoise.
+
+### ‎[p. 231] §. 282.
+
+‎Continuation. Landau, who shares that error, explains צב as wagon (as in Num. 7, 3), by which he understands the shell of the tortoise*); it is more correct to translate צב as puffed up (as ibid. 5, 27), since the toad puffs itself up and thus makes its ugly form even uglier.
+
+‎Rashi explains the word in various ways. On Nidda 56a he says: זבוני is the פרויט, Frot, the same as צב; some call it בוט, Italian Botta (Dutch Pad), toad. On A. Sara 40a he says: the צב and the lizard lay eggs; the צב is similar to the frog and is called כונויל (corrupted), i.e., Grenouille, natterjack toad. This diversity of foreign words can be explained by the more or less divergent resemblance of the various toads. On חרדון, a name of the toad, see §. 300.
+
+### ‎§. 283.
+
+‎Conclusion. Little is reported about the toad in terms of natural history. In its egg the yolk and white are mixed together (A. Sara 40a). It is frequently found dead and completely dried up in Mechusa (Nidda 56a). The city of Mechusa lay on a body of water (Chulin 58b and on this §. 438), and so toads would likely not be uncommon there.
+
+‎Of the toad it can rightly be said that it is hideous and disgusting (§. 270); it is unclean in its dwelling, loathsome in its way of life and especially ugly in anger.
+
+‎Finally it is said that the water snake is a hybrid of the snake and the toad (Berachoth 33a); the toad's mating with other animals is well known; it even mates with the quail (Voigt l. c. 2. p. 304). Cf. also §. 300.
+
+### ‎§. 284.
+
+### ‎The Frog.
+
+‎The frog
+
+‎צפרדע
+
+‎is not defiling (Teharoth 5, 1) and is very similar to the toad (§. 281) (Ketuboth 15a). The following passage is interesting: Rabbi Eliefer, who sought merit in interpreting every single word of Scripture in a subtle manner, maintained that the frog at the Egyptian plague was so large that it brought forth the countless frogs of that plague. The same is also maintained by [p. 232] Akiba. Both believed they had to interpret this on account of צפרדע occurring in the singular. Then Rabbi Elieser b. Asaria said to the latter: Why do you toil over this fanciful Agada? Apply your strength to more difficult Halachoth; at that plague it was simply one frog, which, however, by its croaking lured the other frogs (Sanhedrin 67b).
+
+‎The concert of the frogs is well known, as is their keen sense of hearing, for they flee at the slightest noise and jump into the water. Both facts of natural history underlie that passage; cf. §. 33.
+
+‎On the false translation of קרוקתא as: frog, see §. 271.
+
+‎In the Midrash the frogs are also called נענעא (Rappoport: תולדות רבינו נתן p. 60; Rabba Echa fol. 69a) and קולנין (Buxdorf Lex. p. 1987).
+
+‎Croaking is called קוקו (Jalkut Exod. [=Exodus] fol. 56, c); cf. also §. 368.
+
+### ‎§. 285.
+
+### ‎The Tortoise.
+
+‎Nidda 17a relates that the pious rabbis sought to keep even irrational animals away from their bedchamber, and the passage reads: רבה בר רב הונא מקרקש זגי דכילתא אביי באלי דידבי רבא באלי פרוחי. Raschi explains: Rabba b. R. Huna rang the bells of the bed, Abaje drove away the flies, Raba the gnats. Raschi thus translates כילתא as bed and זגי as bells, or little bells; Tosephot and Aruch, on the other hand, read not זגי but גזי and translate גזי דכילתא as the wasps of the bedchamber. Raschi's explanation is evidently to be preferred, for why does the first clause not also have באלי instead of מקרקש? The only question is whether it is also correct, as Raschi states, that little bells or bells were customarily attached to beds.
+
+‎While retaining the reading found in that passage, I venture to explain it differently. I take זגי דכילתא to be the shells of the tortoise; in Greek this is called Χέλυς [chelys], and in the Midr. too (Rabba Bereschit fol. 57. col. 2) the tortoise is named כילי*). Striking two tortoise shells together produces a noticeable resonance, and was therefore well suited to announce one's presence in the bedchamber, so that no stranger would enter it. The first of those three named rabbis struck with the said shells, not in order to drive away those [p. 233] insects, since it is surely still very questionable whether they are startled by the sound and go away; he merely wished to give a sign to the people nearby that he was in the bedchamber; the two other rabbis went still further and drove away (not by making noise, but with a scare-device) even those aforementioned irrational creatures.
+
+‎On the tortoise which supplies crimson see §. 497. On צב §. 281.
+
+‎(Appendix.) The river tortoise is called in Aramaic גלא דנהרא; thus the 35th fable in the Chophes Matmonim edited by Goldberg (Berlin 1845, 8) is headed גלא דנהרא וארנבתא. The Hebrew גלים (Hos. 12, 12) is already translated as tortoises by the Arabic, Syriac and Greek versions, and of the various explanations of this word (see the monthly: „Ben-Chanania“ 1858. p. 31 ff.) that of Bochart is the most commendable; he derives it from גלל „to be round“, and so too Linné names the river tortoise „Testudo orbicularis“, since this tortoise is of oval shape. Perhaps גלא means „round ship“, like the Greek Γαυλος [gaulos], since the shell serves this animal, as it were, as a ship; similarly the species of polyp is called ship-boat, Ναυτίλος [nautilos], and so in our animal too the shell shape may underlie the formation of the name.
+
+### ‎§. 286.
+
+### ‎The Crab.
+
+‎Following on from the Midrash passage cited in the preceding §., we wish to discuss here an animal mentioned there which has remained unexplained by the lexicographers. The passage reads: The Sodomites resemble the animals אישות (mole), שלשול (earthworm), לימצא (Limax, snail), כיליי (Χέλυς [chelys], tortoise) and סיליי; this word, says Buxdorf (Lex. p. 1031), still needs to be explained; I take it to be the Latin Scilla (usually Squilla), the crab; since it lives in holes in river banks or under tree roots, that grouping thus contains only such animals as live under the earth.
+
+‎Cf. my contribution in Kobak's Hebrew Jeschurun, 3rd issue, p. 115. The feelers of the crab are called קרני סולו (Jerusalem Talmud Schekalim 50a), on which more fully in the appendix.
+
+‎Otherwise the crab is called סרטן.
+
+### ‎[p. 234] §. 287.
+
+### ‎The Snakes.
+
+‎The general names for snake are: חוויה (Berachoth 12b) and נחש (biblical masc.; Talmudic also fem., cf. Heller on Para 9, 3). Because of their boring (biting) into edible objects, snakes are figuratively called נקורי (Terumoth 8, 6).
+
+‎According to Maimuni they are also called יאלי (Sabbat 5, 4); finally, only the snake is called חיה הרומשת (Tos. Nidda 23a, s.v. ליתני).
+
+‎Instead of חיויא the snake was called איויא in Galilee (Bereschit R. fol. 30. col. a); on Anguis see §. 521.
+
+### ‎§. 288.
+
+‎The eyes are, as in fish, at the sides of the head (Nidda 23a).
+
+‎In moving, the snake slowly raises its head, and then gradually the rest of the body (Berachoth 12b).
+
+‎The explanations differ regarding the Talmud's statement (Nedarim 25a) that the snake cannot be טרוף on the back. Pseudo-Raschi thinks that the giant snake mentioned there (§. 294) is not spotted on the back. This explanation is wrong, since precisely the snakes belonging to this genus are splendidly coloured over the whole body.
+
+‎Nissim explains that no snake is folded on the back; it is so only at the neck.
+
+‎But why in that case is this stated only of the back?
+
+‎Finally, Ascheri and Scheriri Gaon (cited in the Aruch) explain that no snake is flat on the back as on the belly, but rather round, which explanation is probably the correct one.
+
+‎Raschi (on Schebuoth 29b) seems to combine the last two explanations, and Ritba on the latter passage (in the collection מעשה צדיקים, Livorno 1779) declares himself for Nissim's view*).
+
+### ‎§. 289.
+
+‎Only snake venom is deadly (A. Sara 31b; see, however, §. 270). The snake lets the venom flow into the wound only after the bite [p. 235] (Sanhedrin 78a), and this venom causes burning pain, so that he who has been destined by Providence for death by fire is bitten by a snake (Sota 8b). Cattle bitten by a snake are also dangerous to eat, since the venom spreads through the whole body (Terumoth 8b). It very rarely bites a person when it is not provoked, but does so when it is trodden on (Berachoth 33a). It is vindictive (Joma 23a) and bites without deriving any enjoyment from it (Erachin 15a). It is therefore called רשע "evildoer" (Bechoroth 8a). There was also the proverb: "A person does not dwell with a snake in one basket," to describe a married couple one of whom is quarrelsome and malicious (Ketuboth 77a*). Before it bites, the snake emits a hissing sound (Sabbat 121b).
+
+‎It eats earth (ibid. 85a); yet it is especially fond of water, wine and milk (Terumoth 8, 4), likewise of liquid fat (Beza 7b), which is why one should not consume such things if they have stood uncovered overnight in places where snakes dwell. This animal is especially greedy for wine, and it was once observed how a snake got the wine out of a narrow bottle by pouring water into the bottle, whereby the wine rose and overflowed (A, Sara 30a).
+
+‎Aristotle already (loc. cit. 8, 6, 1) reports how snakes used to be caught by making them drunk with wine.
+
+‎They also drink mixed wine, but not boiled wine that is only three days old (ibid. 30b**).
+
+### ‎§. 290.
+
+‎Snake venom varies in strength as well as in weight. That of a young snake is heavy and, when the snake discharges it into a liquid, sinks to the bottom of the vessel; that of an older snake remains suspended in the middle of the liquid; finally, that of an old snake stays floating on top, because it is light (A. Sara 30b). The venom of a young snake therefore [p. 236] kills only the one who drinks last from the vessel, i.e. who drinks the dregs (ibid.). The venom forms a coherent mass in the liquid, without dispersing through it (B. Kama [=Bava Kamma] 115b). The older the snake, the stronger it becomes, but in the same measure its venom becomes weaker in intensity (A. Sara 30b). Since the snake leaves fish brine, vinegar, honey, oil and fish sauce (מרייס, Muria) untouched, these things may be consumed even if they have stood uncovered in places where snakes dwell; yet it is reported that once a snake drank of the fish brine too (Chulin 49b). It can also have fatal consequences if a bone splinter of a snake penetrates the sole of a person's foot (Pesachim 112b); yet it is known that the venom is located not in the teeth but in the salivary glands (§. 58); according to the Talmudic account, however, the snake's venom is effective even after its death, since those bones came from a snake killed by a cat, which, however, probably still requires proof *).
+
+### ‎§. 291.
+
+‎Remedies for snakebite are the following. One should put the bitten limb into a hen torn open alive (Joma 83b), or tear apart the embryo of a healthy white she-ass and lay it on the wound (Sabbat 109b); one may also lay crushed gnats on the wound (ibid. 77b). If someone has a snake in his body (Voigt l. c. 3. p. 11 relates such a case with a slow-worm, which was expelled by an emetic), he should eat hops (כשותא) mixed with salt and then run three miles, whereby the snake is killed and passes out in pieces (פרונציא, Tronçons) (Sabbat 109b).
+
+‎A famous remedy against snake venom and against the venom of other animals was the תוריקי (Sabbat ibid); this is the Theriaca mentioned by Plin. (h. n. 20, 24, 100); this medicine consisted of the flesh of the snake prepared with various other ingredients, cf. Bondi; Or Ester p. 268.
+
+‎On the snake mixture against scabies, see §. 292.
+
+### ‎§. 292.
+
+‎The snake has a very keen sense of hearing, so that it is scared away by the falling of drops from a vessel (A. Sara 30b).
+
+‎[p. 237] It drinks by lapping and lets the liquid flow back again (Para 9, 3).
+
+‎It can be tamed and reared (B. Kama 15b; Voigt l. c. 3. p. 51).
+
+‎It copulates with bellies turned toward each other (Bechoroth 8a). The female admits the male even during gestation (ibid. 8b), and carries for seven years (ibid. 8a; cf., however, §. 17).
+
+‎It lives in waterless cisterns (Chagiga 3a), also in houses, where it finds a dangerous enemy in cats (Pesachim 112b), since its venom does not harm the cat (Sabbat 128b), cf. §. 290 at the end.
+
+‎The snake sometimes coils itself around a person, or lies on him, without harming him; in which case the person must roll it off himself very carefully and, if possible, throw it into water, so that he can then flee more easily (Sabbat 110a, with which compare Voigt l. c. 3. p. 50*).
+
+‎If one boils a snake in olive oil, one obtains a mixture against scabies (Sabbat 77b and on this Aruch s.v. חף).
+
+### ‎§. 293.
+
+### ‎The Snake of Eretz Yisrael.
+
+‎The snake living in Eretz Yisrael
+
+‎נחש שבארץ ישראל
+
+‎is the most dangerous, and may therefore be killed on the Sabbath (Sabbat 121b). The animal is not described more precisely; on the other hand, it is reported as a miracle that in Jerusalem itself a snake never harmed anyone (Aboth 5, 5).
+
+### ‎§. 294.
+
+### ‎The Giant Snake.
+
+‎Nedarim 25a it is related that in the time of King Sabor there existed a great serpent, such that it devoured thirteen stables filled with straw (one after another). Rashi, in the parallel passage Shebuoth 29b, reading at the same time ארידתא "bundles" for אורייתא "stables", explains that statement as follows. There was a serpent that also swallowed people; so they took 13 bundles of straw, in which cattle, animals and live coals were wrapped; the serpent devoured all of this and died as a result, [p. 238] since it burned itself on those coals.
+
+‎This legend recalls the well-known fight with the dragon (Lindwurm), which was killed by means of wreaths of pitch, or by sharp knife blades that it swallowed. Nevertheless, the existence of such harmful animals is beyond doubt. Giant snakes scarcely as thick as an arm have been seen to choke down goats, deer and people (Voigt l. c. 3. p. 53), and these venomous and large snakes are especially at home in Persia (whose king Sabor was).
+
+### ‎§. 295.
+
+### ‎The Grass Snake.
+
+‎B. Kama 117b it is said: The עכנא encircled the opening of a cave by taking the tip of its tail into its mouth and thus lying like a ring on the rim of that opening. Rashi says: The עכנא is a large serpent.
+
+‎Kelim 5, 10 an oven made of individual rings laid one upon another is called: "The oven of עכנאי", on which Maimuni says: The עכנא is תנין גדול "a large serpent."
+
+‎In the parallel passage B. mez. [=Bava Metzia] 59b the Tosephot read: חכנא, and here we must undoubtedly think of the Greek Ἔχις [echis], or Ἔχιδνα [echidna]. This word means viper, or adder; however, the former grows to about 1½ feet long (Voigt l. c. 3. p. 69), while the grass snake has been found as large as 10 feet (Voigt l. c. p. 63). Such a snake, even of somewhat lesser length, can well encircle the entrance of a cave the size of a man's girth, which is what our first Talmud passage speaks of. Since the old adders too are irascible, the fear of entering the cave mentioned there can be explained.
+
+‎Perhaps both names עכנא and חכנא are merely designations of sex, as according to some Ἔχιδνα [echidna] is supposed to be the fem. of Ἔχις [echis].
+
+### ‎§. 296.
+
+### ‎A Species of Snake.
+
+‎Aboth 2, 10 reverence for the scholars is enjoined, and this is expressed in the following image: "Beware lest you burn yourself on their (the scholars') coals; for their bite is the bite of a fox (§. 120), their sting the sting of a scorpion (§. 398), and their hiss the hiss of a serpent called שרף." This word, already biblical as a name of a snake, corresponds to the Greek Πρηστὴρ [Prēstēr], [p. 239] from πρήθειν [prēthein] "to burn", by which a venomous species of snake is designated.
+
+‎But what kind of snake this is supposed to be cannot be determined with certainty. Winer (R.-W. 2. part p. 413) says: "But which species of snake is meant in Num. and Deut. [=Deuteronomy] (in which שרף is spoken of) is undetermined and must be left to be discussed by a more precise investigation in the desert."
+
+‎Bochart (Hieroz. [=Samuel Bochart, Hierozoicon (Frankfurt a. M. 1675 edition)] 1, 1, 9. col. 68) thinks that שרף is the Χέρσυδρος [chersydros], a snake that is non-venomous in the water but very venomous on land; but here too there can be no question of certainty.
+
+‎We therefore content ourselves with merely mentioning the statements made by the Talmudic commentators. Rashi on the above Mishnah passage (cf. also Heller ad loc.) explains the hissing of the serpent by שיפלא, Siffler, the whistling sound such as is sometimes heard from geese (§. 242), which they produce through the nostrils.
+
+‎Bartenoro says: the serpent שרף emits a burning, venomous breath from its mouth. This is reported in particular of the rattlesnake and the grass snake (§. 295) (Voigt l. c. 3. p. 54.); however, the biblical שרף may take its name from the burning pain caused by its bite.
+
+‎Bartenoro further adds that the שרף is so terrible that it cannot be charmed by any spell.
+
+‎The skill of the Indian jugglers in taming even the wildest snakes was formerly held to be a work of sorcery.
+
+### ‎§. 297.
+
+### ‎The Flat-headed Adder.
+
+‎Bochart (cited in Winer R.-Wtb. [=G. B. Winer, Biblisches Realwörterbuch] 2. p. 413) explains the biblical אפעה by the Arabic افعى [afʿā], which according to Avicenna designates an adder that has a blunt tail, a thin neck and a flat head.
+
+‎Of it the Talmud says that it is pregnant for 70 years (Bechoroth 8a and on this §. 17).
+
+‎Mussaphia also calls the adder אפא, which is mentioned B. Kama 16a, but incorrectly, for the אפא, צבוע and נפרוא mentioned there are names of the hyena (§. 119). Mussaphia takes אפא to be the Greek Ὄφις [Ophis]; but it is not at all identical with אפעה, and does not mean snake.
+
+### ‎[p. 240] §. 298.
+
+### ‎The Dragon.
+
+‎Already Aristotle (Thierg. 9, 2, 3 and 7, 4) names a kind of snake Δράκων [Drakōn], but does not describe it more closely and merely reports that it is an enemy of the eagle and that it sucks out the juice of a certain plant. According to Pliny (h. n. 29, 4, 20) the snake Draco has no venom, on which Harduin remarks that it does harm more through the wound than through venom, and cites a verse of Lucan according to which the Draco is of a gold-shimmering lustre (aurato nitidi dracones fulgere); let us add the words of Aelian (Thierg. 11, 26); he says: Among animals, too, the male sexes are distinguished by nature; thus the male Drako has a crest and a thick (bristly) beard (ὑπήνην δασεῖαν [hypēnēn daseian]); this explains the words of the Jerusalem Talmud (cited in Buxdorf p. 582): איזהו דרקון כל שציצין יוצאין בצוארו "Drakon is the snake that has locks (cf. §. 253) on its neck"*). However, the דרקון that occurs several times in the Babylonian Talmud seems not always to be a kind of snake, but rather a kind of worm. Berachoth 62b relates that a Rabbi went to a place to relieve himself there; an unfriendly Persian, however, pushed him away and took that spot, whereupon a דרקונא entered the latter's rectum; the same is also related in Gittin 57a, except that here a Roman has to undergo the adventure. In both passages the dragon can surely least of all be meant, which, as Mussaphia says, usually grows to some 20 cubits in length.
+
+‎One may rather think here of a kind of annelid worm that dwells in dirty places, if indeed any natural-historical element may be ascribed to that strange statement at all.
+
+‎B. batra 16b states: The hind has a narrow uterus and gives birth with great pain (which, incidentally, is still questionable, see §. 143); so Providence sends her a דרקון, which bites her and thereby promotes the birth. Rashi translates the word as snake; Buxdorf here too thinks of a kind of worm.
+
+‎Finally, A. Sara 42b states: Whoever finds objects on which the figure of a Drakon
+
+‎דרקון
+
+‎is placed may not keep them, but must destroy them as objects consecrated to the idol.
+
+‎[p. 241] Bartenoro says: דרקון is a snake furnished with fins and scales like a fish. Maimuni (on the Mishnah ibid.) relates that a man who manufactured such objects told him that this figure serves to designate a constellation; he could name no written source about the origin of that figure, but his master had communicated it to him secretly, etc.
+
+‎It may be noted that Jalkut Schimoni (on Jerem. [=Jeremiah] fol. 50, col. 3) reads דרכונא.
+
+### ‎§. 299.
+
+‎Conclusion. Another name for dragon is: יארוד (Ketuboth 49b). Here it is said of a man who will not feed his children and throws them as a burden upon the community: "The יארוד begets children and throws them upon the townspeople." Rashi translates the word as תנין "dragon" and refers to the Targum, which renders תנים in Jerem. 10, 9 by ירודין. In German, too, the hard-hearted man is designated by the expression "dragon's heart", "dragon's brood", etc. —
+
+‎A term of abuse was: יארוד נאלה "foolish dragon!" (Sanhedrin 59b), where, however, Rashi thinks not of a snake but of a bird called תנין, which, as if mad, constantly mourns and weeps, i.e., continually cries plaintively. Perhaps one should think here of the eagle species Περκνόπτερος [Perknopteros], of which Aristotle (Thierg. 9, 22, 2) says that it is sluggish and cries and wails when it is hungry; however, here too it is far more probable that the fabulous wild dragon-beast is meant (cf. §. 110. and the appendix s.v. ירודין)
+
+### ‎§. 300.
+
+### ‎The Water Snake.
+
+‎Berachoth 33a relates: In a certain place there lived an ערד which injured people; this was reported to R. Chanina b. Dosa, and he had the animal's hole shown to him, put his heel into it, whereupon the animal came up and bit the heel, but then immediately died. Chanina then took the animal on his shoulder and brought it into the house of study. To his disciples he said: See, my children, it is not the ערוד that kills, but sin; in it lies the true venom; whereupon the disciples said: Woe to the man whom an ערוד meets, and woe to the ערוד whom a Chanina [p. 242] b. Dosa meets!
+
+‎Rashi explains: ערוד is a hybrid of the snake and the toad; as soon as it wounds a person, the person dies if the animal slips back into the water first; the animal, on the other hand, dies if the person can first put the wounded limb into water. To Chanina, however, a miracle happened at the dangerous moment, in that a spring suddenly burst forth at that spot, into which he could put his foot.
+
+‎About the origin of the ערוד the following is reported in Chulin 127a: R. Huna once went to a place whose godless inhabitants made the most diverse kinds of animals interbreed with one another. There he saw a snake mating with a toad, which later brought the ערוד into the world. This killed many people, for God said: Since these wicked people bring forth creatures that I have not created, I too will bring forth a being not yet created, for their destruction.
+
+‎Let us compare with this Midr. (R. Bereschit fol. 42. col. 3); here it says (according to the explanation of the מחנה כהונה): God brought the חכינא (§. 295) and let it mate with the חרדון (toad §. 281), from which the חברבר (the spotted one) arose.
+
+‎If we leave aside the fabulous part concerning the nature of our animal,
+
+‎it merely follows that ערוד (by transposition of the letters equal to Ὕδωρ [Hydōr]), the water snake, is very dangerous and spotted in colour. On the dangerousness of this snake see Aelian (Thierg. 4, 57). As for the lewdness of the toad, incidentally, its lustfulness is well known, cf. §. 283, and §. 19 at the end.
+
+### ‎§. 301.
+
+### ‎The Slow-Worm.
+
+‎Chulin 67b it is said that among the snakes forbidden to be eaten (Lev. 11, 42) belong also the שילשול and the worm similar to it. The latter is the earthworm or rainworm (§. 463), the former is the slow-worm; both hide in the earth (§. 286), coil themselves and are contractile, whence the name שילשול, "twisted," "coiled."
+
+‎That the Talmud singles out precisely the slow-worm as forbidden may have its reason in the fact that the slow-worm is the only snake that brings forth live young; despite this exception, however, it was nonetheless subsumed by the Law under the general category of the snake kind.
+
+### ‎[p. 243] §. 302.
+
+### ‎The Cerastes.
+
+‎The cerastes or horned snake (Caluber cerastes) lives in Egypt and Eretz Yisrael and usually hides in the sand. It is the biblical שפיפון (see Winer R.=Wt. 1. p. 216 and Rosenmüller loc. cit. 4, 2. p. 380*). The Tosephot (Chulin 10a s.v. וישרצו) say: It buries itself in the ground extraordinarily quickly and is venomous.
+
+‎The Midr. (R. Bereschit fol. 113, col. 3) says that all animals roam about in pairs**), only the שפיפון goes its way alone and is vindictive (§. 35). Further (ibid. fol. 111, col. 2), that the venom of the שפיפון remains effective even after its death, and that its chief power resides in its head.
+
+‎Reggio (on Gen. [=Genesis] 49, 17) considers the שפיפון to be a small thin snake that lives in trees and darts down from there upon its prey; in the Jeruschalmi (Terumoth 45, d) it says: מין קטן הוא ושפיפון שמו והוא דומה לשערה, "a small hair-like snake."
+
+---
+
+**Notes**
+
+*p. 220*
+
+‎*) With barely credible carelessness Brecher (Das Transcendentale etc. p. 184) translates this Talmud passage: Samuel crossed a river etc.  
+‎**) Cf. Midr. R. Bamidbar fol. 272, c.  
+‎***) Since this work is based on F. S. Voigt's Lehrbuch der Zoologie (in 6 volumes), I have also followed his usage: der Krokodil, whereas almost all textbooks write das K.  
+
+*p. 222*
+
+‎*) The eight animals mentioned defile only after their death, and even then only either animal objects, or cereals as well if these have been moistened; for this reason spices in which a dead mouse was found were declared usable after the mouse had been thrown out (Beza 36b and on this §. 137).  
+‎**) Pliny (h. n. 29, 4, 29) says: The cut-up lizard (lacerta divulsa) is laid on the wound stung by the scorpion.  
+
+*p. 224*
+
+‎*) Aruch reads פרי "fruits", which is probably also more correct, cf. §. 468.  
+‎**) Pliny (h. n. 8, 33, 51) says: Nec cibo, nec potu, nec alio quam aëris alimento alitur, which he also repeats ibid. 28, 8, 29.  
+
+*p. 226*
+
+‎*) It says there further: He moved the inhabited part of the earth and showed him the צב. The toad, however, does not live exclusively on land; what is meant here is only its partial residence there, just as the partial residence of the בן נפילים in water: both are amphibians.  
+
+*p. 227*
+
+‎*) The Tosephot l. c. s.v. סלמנדרא cite a translation from the Targum Jonatan which is not found in our editions; see on this Rapoport, Kerem Chemed vol. 6, p. 195.  
+
+*p. 229*
+
+‎*) Since, for want of the works named below, I cannot give the relevant details precisely, I give merely in abridged form the following notice about the salamander, which is found in "The Israelite" Vol. 3. no. 25. p. 168. It says there: "The following passage occurs in Sohar 2, 211b תא חזי מסלמנדרא דעבדין מנה לבושא Behold etc. It is evident from Titurell, 140 that the ancient poets thought, the Salamander weaves golden stuffs. Marco Polo (Latin translation c. 45) says, there was kept a shawl in Rome woven from the materials of a Salamander. The fable is, therefore, older than the Sohar.  
+
+*p. 230*
+
+‎*) Cf. the pers.: زهروار [zahrvār]  
+
+*p. 231*
+
+‎*) In Gr. the tortoise does indeed have the epithet Ὀροφηφόρος [Orophēphoros] "roof-bearing"; the translation as wagon, however, is very far-fetched.  
+
+*p. 232*
+
+‎*) In Aramaic the tortoise is also called סלופיתא, cf. Appendix s.v. סלפיתא.  
+
+*p. 234*
+
+‎*) Of the snake's shedding of its skin there is no mention in the Babylonian Talmud; on the other hand, the Jerusalem Talmud (Nedarim C. 4, H. 3) relates that the wagons and chairs of kings were covered with snakeskins, and in the Pirke de R. Elieser (ch. 20) it is said that the garments of Adam and Eve (Gen. 3, 21) were made of snakeskins; cf. §. 521.  
+
+*p. 235*
+
+‎*) Sirach 26, 10 has a similar proverb: Whoever takes a wicked wife is like one who seizes the scorpion.  
+‎**) According to Midr. Jalkut Schimoni part 2, p. 97, c, snakes are driven away by fumigating with a stag's horn, which Aelian (Thierg. 9, 20) and Pliny (h. n. 8. 32, 50) also report.  
+
+*p. 236*
+
+‎*) One should even make a sandal from the hide of a beast bitten by a snake, since the venom could have remained in the hide; see p. 60, note.  
+
+*p. 237*
+
+‎*) Between heaps of sand the snake cannot move forward quickly (Rashi, Sabbat l. c.).  
+
+*p. 240*
+
+‎*) Cf. A. Sara 43a: ציצין בין פרקיו, which Buxdorf (p. 1907) translates as fins.  
+
+*p. 243*
+
+‎*) Jonathan (4. B. M. [=Buch Mose: book of Moses (5. B. M. = Deuteronomy)] 23, 3) seems to identify שפיפון with שפי; cf. Sota 10a.  
+‎**) Yet snakes in general are not gregarious; at most they live and stay together in pairs.  

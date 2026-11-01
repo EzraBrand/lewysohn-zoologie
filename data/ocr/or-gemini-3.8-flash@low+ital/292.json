@@ -1,0 +1,233 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "292\t\tDie unreine Chagab. — Verwandte Gattung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "292\t\tDie unreine Chagab. — Verwandte Gattung."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "soll der bei Linné genannte Gryllus coronatus sein (Rosenmüller a.\na. O. 4, 2, 389). Im Talmud ist חגב jedoch ein Collectivname für\nviele Heuschreckenfamilien, denn es giebt, sagt er (Chulin 63, b) 800\nArten von חגבים; auch sind die naturhistorischen Merkmale zu allge-\nmeiner Natur, als daß aus ihnen eine bestimmte Heuschreckenart er-\nmittelt werden könnte.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "soll der bei Linné genannte "
+    },
+    {
+     "lang": "lat",
+     "text": "Gryllus coronatus"
+    },
+    {
+     "lang": "deu",
+     "text": " sein (Rosenmüller a.\na. O. 4, 2, 389). Im Talmud ist "
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": " jedoch ein Collectivname für\nviele Heuschreckenfamilien, denn es giebt, sagt er (Chulin 63, b) 800\nArten von "
+    },
+    {
+     "lang": "heb",
+     "text": "חגבים"
+    },
+    {
+     "lang": "deu",
+     "text": "; auch sind die naturhistorischen Merkmale zu allge-\nmeiner Natur, als daß aus ihnen eine bestimmte Heuschreckenart er-\nmittelt werden könnte."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Tastern der חגב heißen קרני חגבים (Pesachim 48, b*); ihr\nHals gleicht dem des Viehes, d. h. der Kopf ist vom Rumpfe durch\neinen Hals getrennt, während bei vielen Insecten der Kopf durch\neinen Faden an dem Rumpf befestigt ist (A. Sara 51, a). Sie wird\nbei Thauwetter geblendet, so daß man sie leicht fangen kann (Sab-\nbat 106, b); auch kömmt sie in solch dichten Massen herbei, daß\nman nur zuzugreifen braucht, um sie zu fangen (ibid.). Ihre außer-\nordentliche Vermehrung ließ Gebete um ihre Ausrottung anordnen\n(Tanit 14, a). Sie verheert zuweilen einzelne Landstriche, zuweilen\ndie ganze Fruchtgegend (B. mez. 105, b). — Manche חגבים (wahr-\nscheinlich buntgefärbte, s. §. 375) dienten den Kindern zum Spiel und\nZeitvertreib (etwa wie jetzt die Schmetterlinge und die Käfer, Sab-\nbat 90, b). Man trieb einen förmlichen Handel mit dieser Heu-\nschrecke; man fing sie in Masse ein und verkaufte, nachdem man Wein\nauf sie gegossen hatte, alsdann dieselbe in Körben, weshalb dem\nIsraeliten verboten wurde, solche zu kaufen; er durfte dieses nur im\nHause des Händlers, bevor dieser die Heuschrecken mit Wein über-\ngossen hatte (A. Sara 39, b). — Die חגב wird in der Volkssprache\nauch גדיאן (Aruch liest גדיין) genannt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Tastern der "
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": " heißen "
+    },
+    {
+     "lang": "heb",
+     "text": "קרני חגבים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Pesachim 48, b*); ihr\nHals gleicht dem des Viehes, d. h. der Kopf ist vom Rumpfe durch\neinen Hals getrennt, während bei vielen Insecten der Kopf durch\neinen Faden an dem Rumpf befestigt ist (A. Sara 51, a). Sie wird\nbei Thauwetter geblendet, so daß man sie leicht fangen kann (Sab-\nbat 106, b); auch kömmt sie in solch dichten Massen herbei, daß\nman nur zuzugreifen braucht, um sie zu fangen (ibid.). Ihre außer-\nordentliche Vermehrung ließ Gebete um ihre Ausrottung anordnen\n(Tanit 14, a). Sie verheert zuweilen einzelne Landstriche, zuweilen\ndie ganze Fruchtgegend (B. mez. 105, b). — Manche "
+    },
+    {
+     "lang": "heb",
+     "text": "חגבים"
+    },
+    {
+     "lang": "deu",
+     "text": " (wahr-\nscheinlich buntgefärbte, s. §. 375) dienten den Kindern zum Spiel und\nZeitvertreib (etwa wie jetzt die Schmetterlinge und die Käfer, Sab-\nbat 90, b). Man trieb einen förmlichen Handel mit dieser Heu-\nschrecke; man fing sie in Masse ein und verkaufte, nachdem man Wein\nauf sie gegossen hatte, alsdann dieselbe in Körben, weshalb dem\nIsraeliten verboten wurde, solche zu kaufen; er durfte dieses nur im\nHause des Händlers, bevor dieser die Heuschrecken mit Wein über-\ngossen hatte (A. Sara 39, b). — Die "
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": " wird in der Volkssprache\nauch "
+    },
+    {
+     "lang": "heb",
+     "text": "גדיאן"
+    },
+    {
+     "lang": "deu",
+     "text": " (Aruch liest "
+    },
+    {
+     "lang": "heb",
+     "text": "גדיין"
+    },
+    {
+     "lang": "deu",
+     "text": ") genannt."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 385.\nDie unreine Chagab.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 385.\nDie unreine Chagab."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Mischna (Terumoth 10, 9) gedenkt auch der unreinen חגבים,\ndie also nicht alle jene zur Reinheit der Heuschrecke nothwendigen Ei-\ngenschaften (§. 372) besitzen. — Sie werden eingesalzen und geben\neinen Saft, der genossen werden darf (ibid. und hierzu ob. §. 95).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Mischna (Terumoth 10, 9) gedenkt auch der unreinen "
+    },
+    {
+     "lang": "heb",
+     "text": "חגבים"
+    },
+    {
+     "lang": "deu",
+     "text": ",\ndie also nicht alle jene zur Reinheit der Heuschrecke nothwendigen Ei-\ngenschaften (§. 372) besitzen. — Sie werden eingesalzen und geben\neinen Saft, der genossen werden darf (ibid. und hierzu ob. §. 95)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 386.\nVerwandte Gattung.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 386.\nVerwandte Gattung."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Zu dem Geschlechte der חגב zählt der Talmud auch die Heuschrecke\nרובניה (Chulin 65, a), sie ist demnach zu essen gestattet; über die Kör-\nperbildung der חגב, in welcher die רובניה ihr gleich sein muß, s. §. 377.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zu dem Geschlechte der "
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": " zählt der Talmud auch die Heuschrecke\n"
+    },
+    {
+     "lang": "heb",
+     "text": "רובניה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 65, a), sie ist demnach zu essen gestattet; über die Kör-\nperbildung der "
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": ", in welcher die "
+    },
+    {
+     "lang": "heb",
+     "text": "רובניה"
+    },
+    {
+     "lang": "deu",
+     "text": " ihr gleich sein muß, s. §. 377."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Vergl, Bartenoro zu Schekalim 6, 3.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Vergl, Bartenoro zu Schekalim 6, 3."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3264,
+    2997
+   ],
+   [
+    3264,
+    2099
+   ]
+  ],
+  "input_tokens": 3319,
+  "output_tokens": 1769,
+  "cost_usd": 0.0091,
+  "seconds": 14.5
+ }
+}

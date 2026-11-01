@@ -1,0 +1,289 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "188\nDer Kolibri. — Der Strauß.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "188\nDer Kolibri. — Der Strauß."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 238.\nDer Kolibri.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 238.\nDer Kolibri."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Succa 5, b wird als Extrem der Größe des Riesenvogels (§.\n502) der ציפּרתא gegenüber gestellt, ähnlich der Entgegenstellung bei-\nder Extreme von Einhorn und Läusenissen (§. 174), und so mag\nציפורתא, mit der Diminutivendung תא, ein sehr kleines Vögelchen,\netwa den Colibri bezeichnen. Vielleicht wird er auch in der Stelle\n(Temura 34, a) gemeint, in der gesagt wird, daß man die Figur\nvon Vögeln auf Beuteln, oder ähnlichen Gegenständen aus Haaren\nzu sticken pflegte. Jedenfalls bezeichnet ציפורתא alle Arten von klei-\nnen Vögeln, ähnlich einigen andern Namen, womit kleine Vögel\nbenannt werden, vergl. folgenden Artikel.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Succa 5, b wird als Extrem der Größe des Riesenvogels (§.\n502) der "
+    },
+    {
+     "lang": "arc",
+     "text": "ציפּרתא"
+    },
+    {
+     "lang": "deu",
+     "text": " gegenüber gestellt, ähnlich der Entgegenstellung bei-\nder Extreme von Einhorn und Läusenissen (§. 174), und so mag\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ציפורתא"
+    },
+    {
+     "lang": "deu",
+     "text": ", mit der Diminutivendung "
+    },
+    {
+     "lang": "arc",
+     "text": "תא"
+    },
+    {
+     "lang": "deu",
+     "text": ", ein sehr kleines Vögelchen,\netwa den Colibri bezeichnen. Vielleicht wird er auch in der Stelle\n(Temura 34, a) gemeint, in der gesagt wird, daß man die Figur\nvon Vögeln auf Beuteln, oder ähnlichen Gegenständen aus Haaren\nzu sticken pflegte. Jedenfalls bezeichnet "
+    },
+    {
+     "lang": "arc",
+     "text": "ציפורתא"
+    },
+    {
+     "lang": "deu",
+     "text": " alle Arten von klei-\nnen Vögeln, ähnlich einigen andern Namen, womit kleine Vögel\nbenannt werden, vergl. folgenden Artikel."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 239.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 239."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Wir erwähnen hier einiger anderer Namen, womit kleine Vö-\ngelarten allgemein benannt werden. Das öfter vorkommende פרגיות\nwird verschieden erklärt, von Raschi zu B. mez. 24, b durch גזלות,\nwelches nicht nothwendig junge Tauben, sondern schlechtweg\nJunge, hier junge kleine Vögel heißt (s. §. 1). Zu Berachoth\n39, a übersetzt es Raschi durch פרדי\"ר, Perdrix, Rebhuhn, jedoch un-\ngenau, obwohl allerdings auch Rebhühner zur Delikatesse gehören,\ndie man aus dem Fleisch junger Vögel bereitet. Das biblische\nאשתעשע (Ps. 119, 16) giebt der Chaldäer durch אתפרג „sich ergötzen“\nwieder. Vielleicht hat man an eine Art Fricassee, gedämpftes\nFleisch zu denken, von Frigo. — Aruch erklärt das Wort durch:\nתרנגולים קטנים „junge Hühner“ und noch allgemeiner durch: צפרים\nקטנים „junge Vögel“. — Im Midrasch Rabba (Bereschit fol. 19,\ncol. 4) heißt junges Geflügel פרגין, und Rabba (Echa fol. 59, col. 3):\nפריגין (vergl. auch Tos. Chulin 62, b. s. v. כרוי). — Ein anderer\nallgemeiner Name für junges Geflügel ist פרפראות (Berachoth 42, a).\nVergl. Buxtorf (Lex. p. 1846), und צילצלא, vergl. §. 252.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wir erwähnen hier einiger anderer Namen, womit kleine Vö-\ngelarten allgemein benannt werden. Das öfter vorkommende "
+    },
+    {
+     "lang": "arc",
+     "text": "פרגיות"
+    },
+    {
+     "lang": "deu",
+     "text": "\nwird verschieden erklärt, von Raschi zu B. mez. 24, b durch "
+    },
+    {
+     "lang": "heb",
+     "text": "גזלות"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nwelches nicht nothwendig junge Tauben, sondern schlechtweg\nJunge, hier junge kleine Vögel heißt (s. §. 1). Zu Berachoth\n39, a übersetzt es Raschi durch "
+    },
+    {
+     "lang": "heb",
+     "text": "פרדי\"ר"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Perdrix"
+    },
+    {
+     "lang": "deu",
+     "text": ", Rebhuhn, jedoch un-\ngenau, obwohl allerdings auch Rebhühner zur Delikatesse gehören,\ndie man aus dem Fleisch junger Vögel bereitet. Das biblische\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אשתעשע"
+    },
+    {
+     "lang": "deu",
+     "text": " (Ps. 119, 16) giebt der Chaldäer durch "
+    },
+    {
+     "lang": "arc",
+     "text": "אתפרג"
+    },
+    {
+     "lang": "deu",
+     "text": " „sich ergötzen“\nwieder. Vielleicht hat man an eine Art Fricassee, gedämpftes\nFleisch zu denken, von Frigo. — Aruch erklärt das Wort durch:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תרנגולים קטנים"
+    },
+    {
+     "lang": "deu",
+     "text": " „junge Hühner“ und noch allgemeiner durch: "
+    },
+    {
+     "lang": "heb",
+     "text": "צפרים\nקטנים"
+    },
+    {
+     "lang": "deu",
+     "text": " „junge Vögel“. — Im Midrasch Rabba (Bereschit fol. 19,\ncol. 4) heißt junges Geflügel "
+    },
+    {
+     "lang": "arc",
+     "text": "פרגין"
+    },
+    {
+     "lang": "deu",
+     "text": ", und Rabba (Echa fol. 59, col. 3):\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פריגין"
+    },
+    {
+     "lang": "deu",
+     "text": " (vergl. auch Tos. Chulin 62, b. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "כרוי"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Ein anderer\nallgemeiner Name für junges Geflügel ist "
+    },
+    {
+     "lang": "arc",
+     "text": "פרפראות"
+    },
+    {
+     "lang": "deu",
+     "text": " (Berachoth 42, a).\nVergl. Buxtorf (Lex. p. 1846), und "
+    },
+    {
+     "lang": "arc",
+     "text": "צילצלא"
+    },
+    {
+     "lang": "deu",
+     "text": ", vergl. §. 252."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 240.\nDer Strauß.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 240.\nDer Strauß."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "נעמית (Kelim 17, 14), נעמיתא (Sabbat 110, b), בת נעמיתא (M.\nKatan 26, a), יענה und בת יענה (Chulin 64, b), pl. נעמיות (Rabba",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "נעמית"
+    },
+    {
+     "lang": "deu",
+     "text": " (Kelim 17, 14), "
+    },
+    {
+     "lang": "arc",
+     "text": "נעמיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sabbat 110, b), "
+    },
+    {
+     "lang": "arc",
+     "text": "בת נעמיתא"
+    },
+    {
+     "lang": "deu",
+     "text": " (M.\nKatan 26, a), "
+    },
+    {
+     "lang": "heb",
+     "text": "יענה"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "בת יענה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 64, b), pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "נעמיות"
+    },
+    {
+     "lang": "deu",
+     "text": " (Rabba"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2196
+   ],
+   [
+    3308,
+    3084
+   ]
+  ],
+  "input_tokens": 3360,
+  "output_tokens": 2032,
+  "cost_usd": 0.0101,
+  "seconds": 12.2
+ }
+}

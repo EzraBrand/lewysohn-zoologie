@@ -1,0 +1,201 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "224\t\tDas Chamäleon. — Schluß.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "224\t\tDas Chamäleon. — Schluß."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Syrien und Palästina wohnende Eidechse genau beschreibt, und an\nwelche der Gesetzgeber wohl gedacht haben konnte. Schwarz\n(תוצאות הארץ 3, 1) giebt dieselbe Eidechse an, bemerkt aber, daß sie\nauch al Tsab heißt, was jedoch nicht entscheidend sein kann, da die\narab. Benennung Hardun unbezweifelt ist.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Syrien und Palästina wohnende Eidechse genau beschreibt, und an\nwelche der Gesetzgeber wohl gedacht haben konnte. Schwarz\n("
+    },
+    {
+     "lang": "heb",
+     "text": "תוצאות הארץ"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 1) giebt dieselbe Eidechse an, bemerkt aber, daß sie\nauch al Tsab heißt, was jedoch nicht entscheidend sein kann, da die\narab. Benennung Hardun unbezweifelt ist."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 275.\nDas Chamäleon.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 275.\nDas Chamäleon."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die vorerwähnte Eidechse ist wegen ihres schuppigen Rückens\nnur eine Art Chamäleon (Rosenmüller a. a. O.), und dieses leztre\nThier wird unter dem im Talmud (Sanhedrin 108, b) erwähnten\nזקיקתא gedacht. Hier wird erzählt: „Sem, der Sohn Noah's, sprach:\n„„Wir hatten einst viel Kummer empfunden, denn während wir die\nTagthiere am Tage und die Nachtthiere zur Nachtzeit fütterten,\nwußten wir nicht, was das Thier זקיקתא zu essen pflegt; da schnitt\nich eines Tages einen Granatapfel in zwei Stücke, von welchen ein\nWurm herausfiel, den jenes Thier verzehrte; hierauf knetete ich\nKleie (חיורא*), aus welcher Würmer entstanden, von welchen das\nThier lebte““.\n— Ueber dieses Thier sagt Mussaphia: „Ich\nglaube, daß es ein windschnaubendes Thier ist; Einige halten es für\nein vom Wind lebendes Thier, denn רוח „Wind“ übersetzt das Targum\ndurch זיקא“. — Fügen wir aber noch hinzu, daß Menschen mit auf-\ngedunsenem Leibe זוקאני (A. Sara 31, b) heißen, so hätten wir in\nunserer Stelle um so sicherer an das Chamäleon zu denken. Im\nAlterthum galt die Meinung, daß dieses Thier nur von der Luft\nlebe**); diese Meinung entstand dadurch, weil das Chamäleon sich\naufbläst und hierdurch so sich ausdehnt, daß seine Haut fast durch-\nsichtig wird. — Es kann lange hungern und nährt sich von Fliegen,\nMücken, Ameisen und Würmern, die es mit seiner langen klebrigen\nZunge fängt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die vorerwähnte Eidechse ist wegen ihres schuppigen Rückens\nnur eine Art Chamäleon (Rosenmüller a. a. O.), und dieses leztre\nThier wird unter dem im Talmud (Sanhedrin 108, b) erwähnten\n"
+    },
+    {
+     "lang": "arc",
+     "text": "זקיקתא"
+    },
+    {
+     "lang": "deu",
+     "text": " gedacht. Hier wird erzählt: „Sem, der Sohn Noah's, sprach:\n„„Wir hatten einst viel Kummer empfunden, denn während wir die\nTagthiere am Tage und die Nachtthiere zur Nachtzeit fütterten,\nwußten wir nicht, was das Thier "
+    },
+    {
+     "lang": "arc",
+     "text": "זקיקתא"
+    },
+    {
+     "lang": "deu",
+     "text": " zu essen pflegt; da schnitt\nich eines Tages einen Granatapfel in zwei Stücke, von welchen ein\nWurm herausfiel, den jenes Thier verzehrte; hierauf knetete ich\nKleie ("
+    },
+    {
+     "lang": "arc",
+     "text": "חיורא"
+    },
+    {
+     "lang": "deu",
+     "text": "*), aus welcher Würmer entstanden, von welchen das\nThier lebte““.\n— Ueber dieses Thier sagt Mussaphia: „Ich\nglaube, daß es ein windschnaubendes Thier ist; Einige halten es für\nein vom Wind lebendes Thier, denn "
+    },
+    {
+     "lang": "heb",
+     "text": "רוח"
+    },
+    {
+     "lang": "deu",
+     "text": " „Wind“ übersetzt das Targum\ndurch "
+    },
+    {
+     "lang": "arc",
+     "text": "זיקא"
+    },
+    {
+     "lang": "deu",
+     "text": "“. — Fügen wir aber noch hinzu, daß Menschen mit auf-\ngedunsenem Leibe "
+    },
+    {
+     "lang": "arc",
+     "text": "זוקאני"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 31, b) heißen, so hätten wir in\nunserer Stelle um so sicherer an das Chamäleon zu denken. Im\nAlterthum galt die Meinung, daß dieses Thier nur von der Luft\nlebe**); diese Meinung entstand dadurch, weil das Chamäleon sich\naufbläst und hierdurch so sich ausdehnt, daß seine Haut fast durch-\nsichtig wird. — Es kann lange hungern und nährt sich von Fliegen,\nMücken, Ameisen und Würmern, die es mit seiner langen klebrigen\nZunge fängt."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 276.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 276."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Auch im Sohar (Ed. Sulzbach, Paras. Jitro pag.\n33) wird dieses Thieres gedacht; es heißt hier זקיטא und wird",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Auch im Sohar (Ed. Sulzbach, Paras. Jitro pag.\n33) wird dieses Thieres gedacht; es heißt hier "
+    },
+    {
+     "lang": "arc",
+     "text": "זקיטא"
+    },
+    {
+     "lang": "deu",
+     "text": " und wird"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Aruch liest פרי „Früchte“, was auch wohl richtiger ist, vergl. §. 468.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Aruch liest "
+    },
+    {
+     "lang": "heb",
+     "text": "פרי"
+    },
+    {
+     "lang": "deu",
+     "text": " „Früchte“, was auch wohl richtiger ist, vergl. §. 468."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Plinius (h. n. 8, 33, 51) sagt: Nec cibo, nec potu, nec alio quam\naëris alimento alitur, was er auch ibid. 28, 8, 29 wiederholt.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Plinius (h. n. 8, 33, 51) sagt: "
+    },
+    {
+     "lang": "lat",
+     "text": "Nec cibo, nec potu, nec alio quam\naëris alimento alitur"
+    },
+    {
+     "lang": "deu",
+     "text": ", was er auch ibid. 28, 8, 29 wiederholt."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3248,
+    2532
+   ],
+   [
+    3248,
+    2660
+   ]
+  ],
+  "input_tokens": 3318,
+  "output_tokens": 1154,
+  "cost_usd": 0.0068,
+  "seconds": 10.9
+ }
+}

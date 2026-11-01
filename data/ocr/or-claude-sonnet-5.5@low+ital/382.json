@@ -1,0 +1,445 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "382",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "382"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hebräisches und aramäisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hebräisches und aramäisches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Sphyrna zygaena 267.\nSqualus catulus 272.\nSquilla 233.\nStrongylus filaria 341.\nSturnus 176.\nSula fusca 185.\nSylvia atricapilla 25.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Sphyrna zygaena 267.\nSqualus catulus 272.\nSquilla 233.\nStrongylus filaria 341.\nSturnus 176.\nSula fusca 185.\nSylvia atricapilla 25."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "T.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "T."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Tabanus bovinus 317.\nTalpa 101.\nTaurus 129.\nTenebrio molitor 308.\nTermes destructor 332.\nTestudo orbicularis 233.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tabanus bovinus 317.\nTalpa 101.\nTaurus 129.\nTenebrio molitor 308.\nTermes destructor 332.\nTestudo orbicularis 233."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Tinea pellionella 321.\nTinea sarcitella 322.\nTragelaphus 117.\nTriton 255.\nTrochilus 210.\nTurdus 259.\nTurdus iliacus 185.\nTurdus pilaris 212.\nTyrannus intrepidus 210.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tinea pellionella 321.\nTinea sarcitella 322.\nTragelaphus 117.\nTriton 255.\nTrochilus 210.\nTurdus 259.\nTurdus iliacus 185.\nTurdus pilaris 212.\nTyrannus intrepidus 210."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "U.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "U."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Uraea cybia 254.\nUranoscopus 245.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Uraea cybia 254.\nUranoscopus 245."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "V.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "V."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Thynnus 253.\nTigris 71.\nTinea granella 311.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Thynnus 253.\nTigris 71.\nTinea granella 311."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Variae 71.\nVespertilio 104.\nVipera berus 9.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Variae 71.\nVespertilio 104.\nVipera berus 9."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "III. Hebräisches und aramäisches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "III. Hebräisches und aramäisches Register."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "א.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "א."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "אבזקת 122, 321.\nאבחטם 368.\nאבני שרה 64. 356,\nאברומא 264.\nאבני שרה ןֿ. ארני שרה.\nאוח הים 368.\nאוחא 190.\nאוח 190.\nאוז בר 192.\nאווזא ןֿ. אוזא.\nאוטנום 253.\nאורדען 369.\nאורזילא 149.\nאורשינא 353.\nאושכף 290.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "אבזקת"
+    },
+    {
+     "lang": "deu",
+     "text": " 122, 321.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אבחטם"
+    },
+    {
+     "lang": "deu",
+     "text": " 368.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אבני שרה"
+    },
+    {
+     "lang": "deu",
+     "text": " 64. 356,\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אברומא"
+    },
+    {
+     "lang": "deu",
+     "text": " 264.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אבני שרה ןֿ. ארני שרה"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אוח הים"
+    },
+    {
+     "lang": "deu",
+     "text": " 368.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אוחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 190.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אוח"
+    },
+    {
+     "lang": "deu",
+     "text": " 190.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אוז בר"
+    },
+    {
+     "lang": "deu",
+     "text": " 192.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אווזא ןֿ. אוזא"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אוטנום"
+    },
+    {
+     "lang": "deu",
+     "text": " 253.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אורדען"
+    },
+    {
+     "lang": "deu",
+     "text": " 369.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אורזילא"
+    },
+    {
+     "lang": "deu",
+     "text": " 149.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אורשינא"
+    },
+    {
+     "lang": "deu",
+     "text": " 353.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אושכף"
+    },
+    {
+     "lang": "deu",
+     "text": " 290."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "אוא 167.\nאחשהרנים 364.\nאוטנום ןֿ. אטונום.\nאי 25.\nאיה 167.\nאיויא 234.\nאיילא דעינבי 310.\nאיילא קמצא 294.\nאיים ןֿ. אי.\nאיל 113, 118.\nאיל הכר 122.\nאיילא קמצא ןֿ. איל קמצא.\nאילה 111.\nאימרא בקתא 319.\nאימרי 118,\nאינבא 326.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "אוא"
+    },
+    {
+     "lang": "deu",
+     "text": " 167.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אחשהרנים"
+    },
+    {
+     "lang": "deu",
+     "text": " 364.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אוטנום ןֿ. אטונום"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אי"
+    },
+    {
+     "lang": "deu",
+     "text": " 25.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "איה"
+    },
+    {
+     "lang": "deu",
+     "text": " 167.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "איויא"
+    },
+    {
+     "lang": "deu",
+     "text": " 234.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "איילא דעינבי"
+    },
+    {
+     "lang": "deu",
+     "text": " 310.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "איילא קמצא"
+    },
+    {
+     "lang": "deu",
+     "text": " 294.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "איים ןֿ. אי"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "איל"
+    },
+    {
+     "lang": "deu",
+     "text": " 113, 118.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "איל הכר"
+    },
+    {
+     "lang": "deu",
+     "text": " 122.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "איילא קמצא ןֿ. איל קמצא"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אילה"
+    },
+    {
+     "lang": "deu",
+     "text": " 111.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אימרא בקתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 319.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אימרי"
+    },
+    {
+     "lang": "deu",
+     "text": " 118,\n"
+    },
+    {
+     "lang": "heb",
+     "text": "אינבא"
+    },
+    {
+     "lang": "deu",
+     "text": " 326."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3016,
+    2043
+   ],
+   [
+    3016,
+    3065
+   ]
+  ],
+  "input_tokens": 11345,
+  "output_tokens": 2054,
+  "cost_usd": 0.0432,
+  "seconds": 12.0
+ }
+}

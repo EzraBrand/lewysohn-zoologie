@@ -41,8 +41,9 @@ def main():
     flags = [r for r in csv.DictReader((ROOT / "logs" / f"hebcheck_{rng}.csv").open(encoding="utf-8-sig"))
              if r["kind"] != "order" and r["main"] and r["check"]]
     judge = {}
-    files = [("text", FIX / f"{rng}.json")] + [("image", f) for f in sorted(FIX.glob(f"{rng}.image*.json"))]
-    for name, f in files:  # several image files when the judge ran as parallel workers
+    files = ([("text", FIX / f"{rng}.json")] + [("text", f) for f in sorted(FIX.glob(f"{rng}_w*.json"))]
+             + [("image", f) for f in sorted(FIX.glob(f"{rng}.image*.json"))])
+    for name, f in files:  # several files when a judge ran as parallel workers (text: suffix _wN)
         for d in json.loads(f.read_text(encoding="utf-8"))["items"]:
             judge.setdefault((name, d["page"], d["line"], d["main"]), d["printed"])
     missing = [r for r in flags if ("image", int(r["page"]), r["line"], r["main"]) not in judge

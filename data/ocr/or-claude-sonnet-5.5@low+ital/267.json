@@ -1,0 +1,229 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Schmerl. — Der Hammerfisch. — Der gemeine Hammer. 267",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Schmerl. — Der Hammerfisch. — Der gemeine Hammer. 267"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 340.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 340."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Schmerl.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Schmerl."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Nach der Leseart Raschi's ist der Ab. Sara 39, a erwähnte קבר\nנונא unrein. Mit Recht vermuthet Landau hier die Schmerl; sie\nist aalförmig und unbeschuppt, wenigstens sind die ganz kleinen Schup=\npen in der schleimigen Haut kaum sichtbar; sie gehört aber zum Ge=\nschlecht der Grundel und kann daher mit Recht נונא קבר (§. 339)\nheißen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nach der Leseart Raschi's ist der Ab. Sara 39, a erwähnte "
+    },
+    {
+     "lang": "heb",
+     "text": "קבר"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "נונא"
+    },
+    {
+     "lang": "deu",
+     "text": " unrein. Mit Recht vermuthet Landau hier die Schmerl; sie\nist aalförmig und unbeschuppt, wenigstens sind die ganz kleinen Schup=\npen in der schleimigen Haut kaum sichtbar; sie gehört aber zum Ge=\nschlecht der Grundel und kann daher mit Recht "
+    },
+    {
+     "lang": "heb",
+     "text": "נונא קבר"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 339)\nheißen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 341.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 341."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Hammerfisch.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Hammerfisch."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "שפר נונא (A. Sara 39, a). Raschi und die Tosephot haben auch\nhier verschiedene Leseartcn, nach Ersterem ist der שפר נונא rein, nach\nden Letzteren unrein; daß aber die Leseart der Tosephot die richtigere\nist, geht aus der daselbst folgenden Stelle hervor; da wird erzählt:\nRabbi Aschi kam nach einem Orte, wo man ihm einen Fisch zeigte,\nwelcher dem שפר נונא ähnlich war; er sollte demnach als unrein gel=\nten, da aber der Rabbi den Fisch in ein weißes Becken legte und\nhierdurch die Schuppen (Raschi: welche schwarz sind) wahrnahm, so\ngestattete er diesen Fisch zu essen. Demnach ist der שפר נונא selbst\nunrein. — Was nun den Namen betrifft, so erklärt ihn Mussaphia\n(s. v. אספרון) durch das gr. Σφύραινα, den Hammerfisch, von dem\nes einige Gattungen giebt. Der hier als unrein angegebene Fisch,\nist die Gattung Sphyrna Tudes, die fast glatthäutig ist und an wel=\ncher die Stacheln fast unwahrnehmbar sind.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "שפר נונא"
+    },
+    {
+     "lang": "deu",
+     "text": " (A. Sara 39, a). Raschi und die Tosephot haben auch\nhier verschiedene Leseartcn, nach Ersterem ist der "
+    },
+    {
+     "lang": "heb",
+     "text": "שפר נונא"
+    },
+    {
+     "lang": "deu",
+     "text": " rein, nach\nden Letzteren unrein; daß aber die Leseart der Tosephot die richtigere\nist, geht aus der daselbst folgenden Stelle hervor; da wird erzählt:\nRabbi Aschi kam nach einem Orte, wo man ihm einen Fisch zeigte,\nwelcher dem "
+    },
+    {
+     "lang": "heb",
+     "text": "שפר נונא"
+    },
+    {
+     "lang": "deu",
+     "text": " ähnlich war; er sollte demnach als unrein gel=\nten, da aber der Rabbi den Fisch in ein weißes Becken legte und\nhierdurch die Schuppen (Raschi: welche schwarz sind) wahrnahm, so\ngestattete er diesen Fisch zu essen. Demnach ist der "
+    },
+    {
+     "lang": "heb",
+     "text": "שפר נונא"
+    },
+    {
+     "lang": "deu",
+     "text": " selbst\nunrein. — Was nun den Namen betrifft, so erklärt ihn Mussaphia\n(s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "אספרון"
+    },
+    {
+     "lang": "deu",
+     "text": ") durch das gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Σφύραινα"
+    },
+    {
+     "lang": "deu",
+     "text": ", den Hammerfisch, von dem\nes einige Gattungen giebt. Der hier als unrein angegebene Fisch,\nist die Gattung "
+    },
+    {
+     "lang": "lat",
+     "text": "Sphyrna Tudes"
+    },
+    {
+     "lang": "deu",
+     "text": ", die fast glatthäutig ist und an wel=\ncher die Stacheln fast unwahrnehmbar sind."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 342.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 342."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der gemeine Hammer.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der gemeine Hammer."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "In der im vorhergehenden Artikel citirten Talmudstelle wird ein\ndem Hammerfisch ähnlicher Fisch, nachdem man an ihm Schuppen be=\nmerkte, für rein erklärt; es ist dies die Gattung Sphyrna Zygaena;\ndie Haut ist zwar unbeschuppt, doch ist sie rauh und feinstachelig, und\ndiese Stacheln wurden als Schuppen angesehen, weshalb der Fisch\nals rein erklärt wurde.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In der im vorhergehenden Artikel citirten Talmudstelle wird ein\ndem Hammerfisch ähnlicher Fisch, nachdem man an ihm Schuppen be=\nmerkte, für rein erklärt; es ist dies die Gattung "
+    },
+    {
+     "lang": "lat",
+     "text": "Sphyrna Zygaena"
+    },
+    {
+     "lang": "deu",
+     "text": ";\ndie Haut ist zwar unbeschuppt, doch ist sie rauh und feinstachelig, und\ndiese Stacheln wurden als Schuppen angesehen, weshalb der Fisch\nals rein erklärt wurde."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2502
+   ],
+   [
+    3308,
+    2594
+   ]
+  ],
+  "input_tokens": 11352,
+  "output_tokens": 1532,
+  "cost_usd": 0.038,
+  "seconds": 10.1
+ }
+}

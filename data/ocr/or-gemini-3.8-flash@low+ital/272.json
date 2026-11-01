@@ -1,0 +1,193 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "272\t\tDer Hundshai. — Eine Fischart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "272\t\tDer Hundshai. — Eine Fischart."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "sein. — Daß die Fische Geruchssinn besitzen und daher den übelschmek-\nkenden Essig leicht fliehen, ist bekannt. Es werden viele Fische durch\nGerüche ebenso angezogen, wie vertrieben. Voigt l. c. 3. S. 123.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "sein. — Daß die Fische Geruchssinn besitzen und daher den übelschmek-\nkenden Essig leicht fliehen, ist bekannt. Es werden viele Fische durch\nGerüche ebenso angezogen, wie vertrieben. Voigt l. c. 3. S. 123."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 352.\nDer Hundshai.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 352.\nDer Hundshai."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "B. batra 73, b wird in gewohnter Weise von der Größe eines\nSeefisches gefabelt; drei Tage lang fuhr ein Schiff von einer bis zur\nandern Flosse. Hierauf heißt es; Dies war der גילדנא דימא, wel-\ncher zwei Flossen auf dem Rücken hat. Der Glossator erklärt: Der\nגילדנא, welcher sonst eine kleine Fischart (§. 332) bezeichnet, ist hier\neiner der kleinen Meerfische und hat, während diese nur eine Rücken-\nflosse haben, deren zwei. — Landau vergleicht das Wort mit Γαλεώ-\nτης, dem Schwertfisch; allein der Irrthum ist schon deshalb au-\ngenscheinlich, weil der Schwertfisch (§. 327) nur eine Rückenflosse\nhat. — Richtiger ist das bei Aristoteles häufig erwähnte Γαλεούδη,\nwomit ein fleckiger Haifisch bezeichnet wird. Schneider übersetzt\ndas Wort immer durch Mustela; wahrscheinlich dachte Aristoteles an\nden Squalus catulus, das Seehündchen oder Hundshai, der\nwie das Wiesel (Γαλῆ) gefleckt ist. — Dieser Fisch hat allerdings\nzwei Rückenflossen, wird aber nur 2 bis 3 Fuß lang; allein dieses\nLängenmaß kann uns nicht hindern unter גילדנא den gedachten Hai-\nfisch zu vestehen, da ja selbst der Riesenhai, welcher 50 Fuß lang\nwerden kann, für jene gefabelte Größe noch immer viel zu klein ist.\nJedenfalls kann hier der Schwertfisch nicht gemeint sein.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "B. batra 73, b wird in gewohnter Weise von der Größe eines\nSeefisches gefabelt; drei Tage lang fuhr ein Schiff von einer bis zur\nandern Flosse. Hierauf heißt es; Dies war der "
+    },
+    {
+     "lang": "arc",
+     "text": "גילדנא דימא"
+    },
+    {
+     "lang": "deu",
+     "text": ", wel-\ncher zwei Flossen auf dem Rücken hat. Der Glossator erklärt: Der\n"
+    },
+    {
+     "lang": "arc",
+     "text": "גילדנא"
+    },
+    {
+     "lang": "deu",
+     "text": ", welcher sonst eine kleine Fischart (§. 332) bezeichnet, ist hier\neiner der kleinen Meerfische und hat, während diese nur eine Rücken-\nflosse haben, deren zwei. — Landau vergleicht das Wort mit "
+    },
+    {
+     "lang": "grc",
+     "text": "Γαλεώ-\nτης"
+    },
+    {
+     "lang": "deu",
+     "text": ", dem Schwertfisch; allein der Irrthum ist schon deshalb au-\ngenscheinlich, weil der Schwertfisch (§. 327) nur eine Rückenflosse\nhat. — Richtiger ist das bei Aristoteles häufig erwähnte "
+    },
+    {
+     "lang": "grc",
+     "text": "Γαλεούδη"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nwomit ein fleckiger Haifisch bezeichnet wird. Schneider übersetzt\ndas Wort immer durch "
+    },
+    {
+     "lang": "lat",
+     "text": "Mustela"
+    },
+    {
+     "lang": "deu",
+     "text": "; wahrscheinlich dachte Aristoteles an\nden "
+    },
+    {
+     "lang": "lat",
+     "text": "Squalus catulus"
+    },
+    {
+     "lang": "deu",
+     "text": ", das Seehündchen oder Hundshai, der\nwie das Wiesel ("
+    },
+    {
+     "lang": "grc",
+     "text": "Γαλῆ"
+    },
+    {
+     "lang": "deu",
+     "text": ") gefleckt ist. — Dieser Fisch hat allerdings\nzwei Rückenflossen, wird aber nur 2 bis 3 Fuß lang; allein dieses\nLängenmaß kann uns nicht hindern unter "
+    },
+    {
+     "lang": "arc",
+     "text": "גילדנא"
+    },
+    {
+     "lang": "deu",
+     "text": " den gedachten Hai-\nfisch zu vestehen, da ja selbst der Riesenhai, welcher 50 Fuß lang\nwerden kann, für jene gefabelte Größe noch immer viel zu klein ist.\nJedenfalls kann hier der Schwertfisch nicht gemeint sein."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 353.\nEine Fischart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 353.\nEine Fischart."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Machschirin 6, 3 erwähnt die Mischna dreier Fischarten, von\ndenen man in ritueller Beziehung voraussetzen darf, daß sie nach dem\nFange trocken gehalten wurden, weil das spätere Benetzen ihnen nach-\ntheilig sein würde. Es sind dies der spanische Thunfisch, worüber bereits\n(§. 315) gehandelt wurde, der aegyptische Fisch, sieh folgenden §. und\nder Fisch אלחית. — Maimuni und Ascheri nehmen letzteres Wort\nals Eigennamen, Bartenoro hält es als patronymischen Namen;\nSimson und Aruch geben beide Erklärungen. — Die Zusammen-\nstellung unseres Fisches mit קולים האיספנין und דג המצרי ist allerdings\nnoch kein genügender Grund, auch אלחית als einen nach dem Orte",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Machschirin 6, 3 erwähnt die Mischna dreier Fischarten, von\ndenen man in ritueller Beziehung voraussetzen darf, daß sie nach dem\nFange trocken gehalten wurden, weil das spätere Benetzen ihnen nach-\ntheilig sein würde. Es sind dies der spanische Thunfisch, worüber bereits\n(§. 315) gehandelt wurde, der aegyptische Fisch, sieh folgenden §. und\nder Fisch "
+    },
+    {
+     "lang": "heb",
+     "text": "אלחית"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Maimuni und Ascheri nehmen letzteres Wort\nals Eigennamen, Bartenoro hält es als patronymischen Namen;\nSimson und Aruch geben beide Erklärungen. — Die Zusammen-\nstellung unseres Fisches mit "
+    },
+    {
+     "lang": "heb",
+     "text": "קולים האיספנין"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "דג המצרי"
+    },
+    {
+     "lang": "deu",
+     "text": " ist allerdings\nnoch kein genügender Grund, auch "
+    },
+    {
+     "lang": "heb",
+     "text": "אלחית"
+    },
+    {
+     "lang": "deu",
+     "text": " als einen nach dem Orte"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3276,
+    2478
+   ],
+   [
+    3276,
+    2754
+   ]
+  ],
+  "input_tokens": 3347,
+  "output_tokens": 1498,
+  "cost_usd": 0.0081,
+  "seconds": 13.1
+ }
+}

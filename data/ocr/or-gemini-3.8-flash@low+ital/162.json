@@ -1,0 +1,289 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "162\nDie Eule. — Der Kauz.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "162\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Die Eule. — Der Kauz."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "der Papagei, den man ᾿Ανθρωπόγλωττον (menschlich-redend) nennt.\n— Unter den Papageien giebt es aber zahme, die von Cerealien,\nund auch kühne und raubsüchtige (Voigt l. c. 2. S. 81), die auch\nvon Fleisch leben. Möglich also, daß in unsrer Talmudstelle der\nUnterschied zwischen zahmen und wilden Papageien gemacht wird;\nפירוז heißt wild, ausgelassen, שברא hingegen, einfältig (s.\nAruch s. v. שברא*).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "der Papagei, den man "
+    },
+    {
+     "lang": "grc",
+     "text": "᾿Ανθρωπόγλωττον"
+    },
+    {
+     "lang": "deu",
+     "text": " (menschlich-redend) nennt.\n— Unter den Papageien giebt es aber zahme, die von Cerealien,\nund auch kühne und raubsüchtige (Voigt l. c. 2. S. 81), die auch\nvon Fleisch leben. Möglich also, daß in unsrer Talmudstelle der\nUnterschied zwischen zahmen und wilden Papageien gemacht wird;\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פירוז"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt wild, ausgelassen, "
+    },
+    {
+     "lang": "heb",
+     "text": "שברא"
+    },
+    {
+     "lang": "deu",
+     "text": " hingegen, einfältig (s.\nAruch s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "שברא"
+    },
+    {
+     "lang": "deu",
+     "text": "*)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 186.\nDie Eule.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 186.\nDie Eule."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "In Babylon erlaubt man den Vogel קקיוא zu essen; in Me-\nraba hingegen wurde derjenige, welcher ihn aß, mit Schlägen gezüch-\ntigt, und dort hieß derselbe Vogel תהוותא (Chulin 63, a). Raschi\nerklärt: Ein Vogel, der zur Nachtzeit schreit und צואיטה, Chouette,\nheißt. — Das erstere Wort ist wohl mit Κικκάβη verwandt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "In Babylon erlaubt man den Vogel "
+    },
+    {
+     "lang": "arc",
+     "text": "קקיוא"
+    },
+    {
+     "lang": "deu",
+     "text": " zu essen; in Me-\nraba hingegen wurde derjenige, welcher ihn aß, mit Schlägen gezüch-\ntigt, und dort hieß derselbe Vogel "
+    },
+    {
+     "lang": "arc",
+     "text": "תהוותא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 63, a). Raschi\nerklärt: Ein Vogel, der zur Nachtzeit schreit und "
+    },
+    {
+     "lang": "heb",
+     "text": "צואיטה"
+    },
+    {
+     "lang": "fra",
+     "text": ", Chouette"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nheißt. — Das erstere Wort ist wohl mit "
+    },
+    {
+     "lang": "grc",
+     "text": "Κικκάβη"
+    },
+    {
+     "lang": "deu",
+     "text": " verwandt."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 187.\nDer Kauz.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 187.\nDer Kauz."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Unter dem im vorhergehenden Artikel erwähnten קקיוא werden\n(Chulin 63, a) noch zwei andere verbotene Vögel genannt, der קיאי",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Unter dem im vorhergehenden Artikel erwähnten "
+    },
+    {
+     "lang": "arc",
+     "text": "קקיוא"
+    },
+    {
+     "lang": "deu",
+     "text": " werden\n(Chulin 63, a) noch zwei andere verbotene Vögel genannt, der "
+    },
+    {
+     "lang": "arc",
+     "text": "קיאי"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Die Erklärung der Beinamen שבור und פירוז kann allerdings mannig-\nfach versucht werden. שבור soll an die Freundlichkeit des persischen Königs\nSapor, namentlich an den I. dieses Namens erinnern, welcher von 242 bis 272\nn. Chr. regierte und obgleich als ein grausamer und blutdürstiger Tyrann ge-\nschildert (s. Iselin. Histor. geogr. Lexicon 4. Th. S. 249), doch gegen die Juden\nfreundlich war. פירוז hingegen erinnert entweder an Pyrrhus (Buxdorf Lex.\np. 1806), welches der Name irgend eines bekannten schlechten Menschen gewesen,\noder an den spätern persischen König Peroses (reg. von 359 — 485); was\naber schon aus dem Grunde unrichtig ist, da Rab, welcher in unserer Stelle die\nbeiden Vogelarten benennt, viel früher (er lebte zur Zeit Sapor's) gelebt hat;\ns. Rappoport: Kerem Chemed 6. Th. S. 252 ff. — Vielleicht sind beide\nBeinamen geographische Namen, so gab es in der Nähe von Nehardäa eine Land-\nschaft Namens פירוז שבור, vergl. Asaria de Rossi: Meor Enajim cap. 24.\nDiese Landschaft mochte aus zwei Theilen פירוז und שבור bestanden und in ihrer\nVereinigung den gemeinsamen Namen פירוז שבור geführt haben. Vielleicht nun\nhätten beide Theile eine verschiedene rituelle Norm befolgt und in פירוז den Pa-\npagei zu essen verboten, der in שבור erlaubt war; eine Analogie hierfür sehe\nman in §. 186 und §. 211. — Am wahrscheinlichsten ist jedoch unsere im Text\ngegebene Erklärung: שבור und פירוז in appellativer Bedeutung zu nehmen, ob-\nwohl allerdings Thiere nicht selten nach Menschen benannt wurden, s. §. 248, Anm.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Die Erklärung der Beinamen "
+    },
+    {
+     "lang": "heb",
+     "text": "שבור"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "פירוז"
+    },
+    {
+     "lang": "deu",
+     "text": " kann allerdings mannig-\nfach versucht werden. "
+    },
+    {
+     "lang": "heb",
+     "text": "שבור"
+    },
+    {
+     "lang": "deu",
+     "text": " soll an die Freundlichkeit des persischen Königs\nSapor, namentlich an den I. dieses Namens erinnern, welcher von 242 bis 272\nn. Chr. regierte und obgleich als ein grausamer und blutdürstiger Tyrann ge-\nschildert (s. Iselin. Histor. geogr. Lexicon 4. Th. S. 249), doch gegen die Juden\nfreundlich war. "
+    },
+    {
+     "lang": "heb",
+     "text": "פירוז"
+    },
+    {
+     "lang": "deu",
+     "text": " hingegen erinnert entweder an Pyrrhus (Buxdorf Lex.\np. 1806), welches der Name irgend eines bekannten schlechten Menschen gewesen,\noder an den spätern persischen König Peroses (reg. von 359 — 485); was\naber schon aus dem Grunde unrichtig ist, da Rab, welcher in unserer Stelle die\nbeiden Vogelarten benennt, viel früher (er lebte zur Zeit Sapor's) gelebt hat;\ns. Rappoport: Kerem Chemed 6. Th. S. 252 ff. — Vielleicht sind beide\nBeinamen geographische Namen, so gab es in der Nähe von Nehardäa eine Land-\nschaft Namens "
+    },
+    {
+     "lang": "heb",
+     "text": "פירוז שבור"
+    },
+    {
+     "lang": "deu",
+     "text": ", vergl. Asaria de Rossi: Meor Enajim cap. 24.\nDiese Landschaft mochte aus zwei Theilen "
+    },
+    {
+     "lang": "heb",
+     "text": "פירוז"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "שבור"
+    },
+    {
+     "lang": "deu",
+     "text": " bestanden und in ihrer\nVereinigung den gemeinsamen Namen "
+    },
+    {
+     "lang": "heb",
+     "text": "פירוז שבור"
+    },
+    {
+     "lang": "deu",
+     "text": " geführt haben. Vielleicht nun\nhätten beide Theile eine verschiedene rituelle Norm befolgt und in "
+    },
+    {
+     "lang": "heb",
+     "text": "פירוז"
+    },
+    {
+     "lang": "deu",
+     "text": " den Pa-\npagei zu essen verboten, der in "
+    },
+    {
+     "lang": "heb",
+     "text": "שבור"
+    },
+    {
+     "lang": "deu",
+     "text": " erlaubt war; eine Analogie hierfür sehe\nman in §. 186 und §. 211. — Am wahrscheinlichsten ist jedoch unsere im Text\ngegebene Erklärung: "
+    },
+    {
+     "lang": "heb",
+     "text": "שבור"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "פירוז"
+    },
+    {
+     "lang": "deu",
+     "text": " in appellativer Bedeutung zu nehmen, ob-\nwohl allerdings Thiere nicht selten nach Menschen benannt wurden, s. §. 248, Anm."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2092
+   ],
+   [
+    3308,
+    3096
+   ]
+  ],
+  "input_tokens": 3345,
+  "output_tokens": 2116,
+  "cost_usd": 0.0104,
+  "seconds": 14.2
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Nachtrag.\n363",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Nachtrag.\n"
+    },
+    {
+     "lang": "deu",
+     "text": "363"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "die Gans Barliata auf faulem Holz an der See wächst, an dem sie\nmit ihrem Schnabel hängt, bis sie abfällt. Der Schnabel vertritt\ndabei die Stelle des Stieles, und die Gans entwickelt sich an ihm,\nwie die Blume an ihrem Stengel. Der griechische Bischof Jacobus\nAtheniensis versichert in der Beschreibung einer Reise nach Osten,\ndaß er solche Vögel auf Bäumen an Seeufern wachsen und an\nihrem Schnabel hängen sah, wie die Birne am Stiel hängt. —\nBei solchen Anschauungen darf es nicht Wunder nehmen, daß auch\nmancher jüdische Gelehrte die Fabel für Wahrheit nahm; vergl. ספר\nהברית Bl. 62, S. 2. Uebrigens ist erst neulich noch der Aber=\nglaube entstanden, daß die Fangheuschrecke (Mantis religiosa), deren\nFlügel täuschend dem Zitronenblatt gleichen, die Verwandelung eines\nPflanzenblattes, das vom Stamm sich ablöse, und ein Thier sei;\nVoigt l. c. S. 346.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "die Gans Barliata auf faulem Holz an der See wächst, an dem sie\nmit ihrem Schnabel hängt, bis sie abfällt. Der Schnabel vertritt\ndabei die Stelle des Stieles, und die Gans entwickelt sich an ihm,\nwie die Blume an ihrem Stengel. Der griechische Bischof Jacobus\nAtheniensis versichert in der Beschreibung einer Reise nach Osten,\ndaß er solche Vögel auf Bäumen an Seeufern wachsen und an\nihrem Schnabel hängen sah, wie die Birne am Stiel hängt. —\nBei solchen Anschauungen darf es nicht Wunder nehmen, daß auch\nmancher jüdische Gelehrte die Fabel für Wahrheit nahm; vergl. "
+    },
+    {
+     "lang": "heb",
+     "text": "ספר\nהברית"
+    },
+    {
+     "lang": "deu",
+     "text": " Bl. 62, S. 2. Uebrigens ist erst neulich noch der Aber=\nglaube entstanden, daß die Fangheuschrecke ("
+    },
+    {
+     "lang": "lat",
+     "text": "Mantis religiosa"
+    },
+    {
+     "lang": "deu",
+     "text": "), deren\nFlügel täuschend dem Zitronenblatt gleichen, die Verwandelung eines\nPflanzenblattes, das vom Stamm sich ablöse, und ein Thier sei;\nVoigt l. c. S. 346."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 516.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 516."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Mannigfaltigkeit der Geschöpfe und die große Verschieden=\nheit Betreffs ihrer Größe gab Veranlassung auf verschiedene Weise\ndie Extreme zu bezeichnen. Aus dem Fischreich wurde das Sprüch=\nwort gebildet: לויתן בחכה הועלה מה יעשו דגי רקק „Wenn der Wal=\nfisch mit der Angel heraufgezogen wird, was sollen die Fische im\nSchlamme machen?“ (M. Katan 25, b). Aus dem Vögelreich wird\nder Riesenvogel (בר יוכני, §. 502) dem Colibri (ציפוריתא, §. 328)\nentgegengestellt. Aus dem Reiche der vierfüßigen Säugethiere und\nder Insecten werden das Einhorn (§. 174) und Läusenisse (§. 451)\nals Extreme der Größe bezeichnet. — Hierher gehört noch das Sprüch=\nwort: „Geht ein Elephant durch eine Nadelöhre?“ (§. 173*). Der\nhebr. Name des Elephanten, פִּיל (arab. فِيْلٌ,) mag mit נפילים „Rie=\nsen“ verwandt sein, da der Elephant das größte Landthier ist. Der\nSkink soll nach Einigen (§. 277) בן נפילים „Sohn der Riesen“ heißen,\nwobei freilich בן נפילא angemessener erschiene, da der einzelne Kro=\nkodil nicht נפילים heißen kann; doch ist בן נפילים nach der Form von\nעיר בן אתונות (Sacharias 9, 9) gebildet, im Sinne von „dem Sohn\neines der Riesen.“ Der Talmud (Berachoth 55, b) identificirt פיל\nmit פלאות „Wunder.“ — Ein anderes Sprüchwort ist: „In Medien",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Mannigfaltigkeit der Geschöpfe und die große Verschieden=\nheit Betreffs ihrer Größe gab Veranlassung auf verschiedene Weise\ndie Extreme zu bezeichnen. Aus dem Fischreich wurde das Sprüch=\nwort gebildet: "
+    },
+    {
+     "lang": "arc",
+     "text": "לויתן בחכה הועלה מה יעשו דגי רקק"
+    },
+    {
+     "lang": "deu",
+     "text": " „Wenn der Wal=\nfisch mit der Angel heraufgezogen wird, was sollen die Fische im\nSchlamme machen?“ (M. Katan 25, b). Aus dem Vögelreich wird\nder Riesenvogel ("
+    },
+    {
+     "lang": "arc",
+     "text": "בר יוכני"
+    },
+    {
+     "lang": "deu",
+     "text": ", §. 502) dem Colibri ("
+    },
+    {
+     "lang": "arc",
+     "text": "ציפוריתא"
+    },
+    {
+     "lang": "deu",
+     "text": ", §. 328)\nentgegengestellt. Aus dem Reiche der vierfüßigen Säugethiere und\nder Insecten werden das Einhorn (§. 174) und Läusenisse (§. 451)\nals Extreme der Größe bezeichnet. — Hierher gehört noch das Sprüch=\nwort: „Geht ein Elephant durch eine Nadelöhre?“ (§. 173*). Der\nhebr. Name des Elephanten, "
+    },
+    {
+     "lang": "heb",
+     "text": "פִּיל"
+    },
+    {
+     "lang": "deu",
+     "text": " (arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "فِيْلٌ"
+    },
+    {
+     "lang": "deu",
+     "text": ",) mag mit "
+    },
+    {
+     "lang": "heb",
+     "text": "נפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Rie=\nsen“ verwandt sein, da der Elephant das größte Landthier ist. Der\nSkink soll nach Einigen (§. 277) "
+    },
+    {
+     "lang": "heb",
+     "text": "בן נפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Sohn der Riesen“ heißen,\nwobei freilich "
+    },
+    {
+     "lang": "arc",
+     "text": "בן נפילא"
+    },
+    {
+     "lang": "deu",
+     "text": " angemessener erschiene, da der einzelne Kro=\nkodil nicht "
+    },
+    {
+     "lang": "heb",
+     "text": "נפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " heißen kann; doch ist "
+    },
+    {
+     "lang": "heb",
+     "text": "בן נפילים"
+    },
+    {
+     "lang": "deu",
+     "text": " nach der Form von\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עיר בן אתונות"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sacharias 9, 9) gebildet, im Sinne von „dem Sohn\neines der Riesen.“ Der Talmud (Berachoth 55, b) identificirt "
+    },
+    {
+     "lang": "heb",
+     "text": "פיל"
+    },
+    {
+     "lang": "deu",
+     "text": "\nmit "
+    },
+    {
+     "lang": "heb",
+     "text": "פלאות"
+    },
+    {
+     "lang": "deu",
+     "text": " „Wunder.“ — Ein anderes Sprüchwort ist: „In Medien"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Maimuni (Einleitung z. Ordnung Seraïm, ed. Sulzbach 90, a)\nhat die Phrase: מן הפילים עד התולעים.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Maimuni (Einleitung z. Ordnung Seraïm, ed. Sulzbach 90, a)\nhat die Phrase: "
+    },
+    {
+     "lang": "heb",
+     "text": "מן הפילים עד התולעים"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2171
+   ],
+   [
+    3308,
+    2889
+   ]
+  ],
+  "input_tokens": 3357,
+  "output_tokens": 1085,
+  "cost_usd": 0.0066,
+  "seconds": 11.7
+ }
+}

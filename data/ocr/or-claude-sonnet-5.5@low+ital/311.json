@@ -1,0 +1,293 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Kornschabe. — Der Granatapfelwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Kornschabe. — Der Granatapfelwurm."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "311",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "311"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 421.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 421."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Chulin 13, a heißt es: Man schütte Früchte auf das\n(damals platte) Dach, damit keine כנימה daran komme; auch hier\nsagt Raschi: Es sind dies die כוצנס, Cossons, welche in Bohnen\nund Erbsen sich finden; demnach wäre das Insect mit dem Erbsen-\nkäfer (§. 411) identisch. — Zu Sanhedrin 65, b wird gesagt, daß ab-,\noder ausgerissene (nicht abgeschnittene) Erbsen von den Würmern ver-\nschont bleiben.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Chulin 13, a heißt es: Man schütte Früchte auf das\n(damals platte) Dach, damit keine "
+    },
+    {
+     "lang": "heb",
+     "text": "כנימה"
+    },
+    {
+     "lang": "deu",
+     "text": " daran komme; auch hier\nsagt Raschi: Es sind dies die "
+    },
+    {
+     "lang": "heb",
+     "text": "כוצנס"
+    },
+    {
+     "lang": "deu",
+     "text": ", Cossons, welche in Bohnen\nund Erbsen sich finden; demnach wäre das Insect mit dem Erbsen-\nkäfer (§. 411) identisch. — Zu Sanhedrin 65, b wird gesagt, daß ab-,\noder ausgerissene (nicht abgeschnittene) Erbsen von den Würmern ver-\nschont bleiben."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 422.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 422."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Kornschabe.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Kornschabe."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "B. batra 91, b werden die Worte: „Ihr werdet das alte Ge-\ntreide essen“ (Lev. 25, 22) dahin erklärt, daß an das alte Getreide\nder Wurm סלמנטון nicht kommen werde; dieser Name wird näher\ndurch רצינתא erklärt. — R. Hai Gaon (zu Para 9, 2) hält סלמנטון\nnicht als einen Thiernamen, sondern als die Bezeichnung von feucht\nund faul gewordenem Getreide (ähnlich wie קריא, §. 425). — Sim-\nson (ibid.) identificirt סלמנטון mit דירה; doch unrichtig, da Ersterer\nviel Feuchtigkeit besitzt (s. unt.), während die דירה (§. 413) als saft-\nlos gelten soll. — Sachs (Beiträge zur Sprach- und Alterthums-\nforschung 2. Heft. S. 23) leitet סלמנטון von Ἕλμινς ab; allein hier-\nmit werden besonders die Eingeweidewürmer (Helminthen) bezeichnet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "B. batra 91, b werden die Worte: „Ihr werdet das alte Ge-\ntreide essen“ (Lev. 25, 22) dahin erklärt, daß an das alte Getreide\nder Wurm "
+    },
+    {
+     "lang": "heb",
+     "text": "סלמנטון"
+    },
+    {
+     "lang": "deu",
+     "text": " nicht kommen werde; dieser Name wird näher\ndurch "
+    },
+    {
+     "lang": "arc",
+     "text": "רצינתא"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt. — R. Hai Gaon (zu Para 9, 2) hält "
+    },
+    {
+     "lang": "heb",
+     "text": "סלמנטון"
+    },
+    {
+     "lang": "deu",
+     "text": "\nnicht als einen Thiernamen, sondern als die Bezeichnung von feucht\nund faul gewordenem Getreide (ähnlich wie "
+    },
+    {
+     "lang": "heb",
+     "text": "קריא"
+    },
+    {
+     "lang": "deu",
+     "text": ", §. 425). — Sim-\nson (ibid.) identificirt "
+    },
+    {
+     "lang": "heb",
+     "text": "סלמנטון"
+    },
+    {
+     "lang": "deu",
+     "text": " mit "
+    },
+    {
+     "lang": "heb",
+     "text": "דירה"
+    },
+    {
+     "lang": "deu",
+     "text": "; doch unrichtig, da Ersterer\nviel Feuchtigkeit besitzt (s. unt.), während die "
+    },
+    {
+     "lang": "heb",
+     "text": "דירה"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 413) als saft-\nlos gelten soll. — Sachs (Beiträge zur Sprach- und Alterthums-\nforschung 2. Heft. S. 23) leitet "
+    },
+    {
+     "lang": "heb",
+     "text": "סלמנטון"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἕλμινς"
+    },
+    {
+     "lang": "deu",
+     "text": " ab; allein hier-\nmit werden besonders die Eingeweidewürmer (Helminthen) bezeichnet."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Es ist der weiße Kornwurm (Tinea granella), dessen Raupe\ndas Getreide zerstört; sie zeigt sich im aufgeschütteten Getreide, dessen\nKörner sie aushöhlt (Voigt l. c. 5. S. 208). Von ihr ist auch\nMenachoth 85, b die Rede, wo gesagt wird, daß Weizen von dem\nWurm befallen wird. Der Kornwurm schwitzt eine Feuchtigkeit aus,\nwomit er die Klumpen der ausgehöhlten Körner verbindet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Es ist der weiße Kornwurm ("
+    },
+    {
+     "lang": "lat",
+     "text": "Tinea granella"
+    },
+    {
+     "lang": "deu",
+     "text": "), dessen Raupe\ndas Getreide zerstört; sie zeigt sich im aufgeschütteten Getreide, dessen\nKörner sie aushöhlt (Voigt l. c. 5. S. 208). Von ihr ist auch\nMenachoth 85, b die Rede, wo gesagt wird, daß Weizen von dem\nWurm befallen wird. Der Kornwurm schwitzt eine Feuchtigkeit aus,\nwomit er die Klumpen der ausgehöhlten Körner verbindet."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 423.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 423."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Granatapfelwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Granatapfelwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Sanhedrin 108, b wird erzählt, daß Noa in Verlegenheit war,\nda er nicht wußte, wovon das Chamäleon (§. 275) sich ernähre; da\nschnitt er eines Tages einen Granatapfel aus einander, aus welchem\nein Wurm (חולעתא) fiel, welchen jenes Thier sogleich fing und ver-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Sanhedrin 108, b wird erzählt, daß Noa in Verlegenheit war,\nda er nicht wußte, wovon das Chamäleon (§. 275) sich ernähre; da\nschnitt er eines Tages einen Granatapfel aus einander, aus welchem\nein Wurm ("
+    },
+    {
+     "lang": "arc",
+     "text": "חולעתא"
+    },
+    {
+     "lang": "deu",
+     "text": ") fiel, welchen jenes Thier sogleich fing und ver-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "heb",
+   "text": "ובזבזין ובהגזין ובשקצים וברמשים; das Wort זבזין wird wohl aus זבזבין cor-\nrumpirt sein.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "ובזבזין ובהגזין ובשקצים וברמשים"
+    },
+    {
+     "lang": "deu",
+     "text": "; das Wort "
+    },
+    {
+     "lang": "heb",
+     "text": "זבזין"
+    },
+    {
+     "lang": "deu",
+     "text": " wird wohl aus "
+    },
+    {
+     "lang": "heb",
+     "text": "זבזבין"
+    },
+    {
+     "lang": "deu",
+     "text": " cor-\nrumpirt sein."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3272,
+    2117
+   ],
+   [
+    3272,
+    2891
+   ]
+  ],
+  "input_tokens": 11359,
+  "output_tokens": 1901,
+  "cost_usd": 0.0417,
+  "seconds": 12.7
+ }
+}

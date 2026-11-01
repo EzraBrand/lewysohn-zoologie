@@ -1,0 +1,269 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Eine Rabenart. — Die Seekrähe. 175",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine Rabenart. — Die Seekrähe. 175"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 208.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 208."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Eine Rabenart.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Eine Rabenart."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 64, a wird gesagt, daß es eine Rabenart giebt, deren\nEier denen der Taube ähnlich sind, weshalb man solche Eier, welche\nan einem Ende spitz, am andern stumpf sind, nur dann kaufen darf,\nwenn man dessen gewiß ist, daß sie Taubeneier sind. — Hieraus\nläßt sich aber die Vogelart schwerlich bestimmen, denn die Eier aller\nuns bekannten Rabenarten sind schon durch die Farbe von den\nTaubeneiern verschieden, sie sind meistentheils blaugrün, braungefleckt,\noder ölbraun, während die Taubeneier weiß sind. Die 8 Oken'schen\nTafeln von den Eierabbildungen gewähren über unsern fraglichen\nPunkt keinen Aufschluß, und nur eine vollständige Eiersammlung\nkönnte vielleicht die Ermittelung ermöglichen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 64, a wird gesagt, daß es eine Rabenart giebt, deren\nEier denen der Taube ähnlich sind, weshalb man solche Eier, welche\nan einem Ende spitz, am andern stumpf sind, nur dann kaufen darf,\nwenn man dessen gewiß ist, daß sie Taubeneier sind. — Hieraus\nläßt sich aber die Vogelart schwerlich bestimmen, denn die Eier aller\nuns bekannten Rabenarten sind schon durch die Farbe von den\nTaubeneiern verschieden, sie sind meistentheils blaugrün, braungefleckt,\noder ölbraun, während die Taubeneier weiß sind. Die 8 Oken'schen\nTafeln von den Eierabbildungen gewähren über unsern fraglichen\nPunkt keinen Aufschluß, und nur eine vollständige Eiersammlung\nkönnte vielleicht die Ermittelung ermöglichen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 209.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 209."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Seekrähe.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Seekrähe."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "קאת, welcher Name durch קיק erklärt wird (Chulin 63, a). Von\nihm heißt es (Sabbat 21, a): Wir fragten alle Seereisenden, die\nsagten uns, daß es in den Seestädten einen Vogel giebt, der קיק\nheißt. Im arab. heißt das gleichlautende Wort قِيق: Krähe und\nPlinius nennt den Seeraben, oder die Seekrähe Corvum aqua-\nticum. — Hiermit vergl. man den Verf. des מחנת כהונה (zu Midr.\nEsther fol. 119, col d), er sagt: Ich fand in einem alten Werke die\nWorte: קברין שקנן על שפת הים. „Ein קברין, der da nistet an den\nUfern des Meeres.“ Sachs (Beiträge zur Sprach= und Alter=\nthumsforschung 1. Heft S. 146) vermuthet richtig, daß קברין trans=\nponirt für קרבין (Κόρβος, Corvus) ist; nimmt aber im 2. Heft.\nS. 90, Anm. 90 diese Meinung zurück, und hält קברין für den\n„Grabvogel“, d. i., die Nachteule. Allein gerade dieser letztre\nVogel wohnt und brütet in Laubgehölzen, und wie sollte er am\nMeeresufer nistend angetroffen werden? Ich halte קברין für ein\nphönizisches Wort, und ist ebenso transponirt wie Καβρώνοι für\nקרבנין „Opfer“, vergl. meine „Opfernamen“ im L. Bl. d. Orients\n1849, col. 307. Vergl. auch §. 355, wo eine Anzahl von transponirten\nWörtern mitgetheilt wird.*) — Ueber קיק vergl. man noch das gr.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "קאת"
+    },
+    {
+     "lang": "deu",
+     "text": ", welcher Name durch "
+    },
+    {
+     "lang": "heb",
+     "text": "קיק"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt wird (Chulin 63, a). Von\nihm heißt es (Sabbat 21, a): Wir fragten alle Seereisenden, die\nsagten uns, daß es in den Seestädten einen Vogel giebt, der "
+    },
+    {
+     "lang": "heb",
+     "text": "קיק"
+    },
+    {
+     "lang": "deu",
+     "text": "\nheißt. Im arab. heißt das gleichlautende Wort "
+    },
+    {
+     "lang": "ara",
+     "text": "قِيق"
+    },
+    {
+     "lang": "deu",
+     "text": ": Krähe und\nPlinius nennt den Seeraben, oder die Seekrähe "
+    },
+    {
+     "lang": "lat",
+     "text": "Corvum aqua-\nticum."
+    },
+    {
+     "lang": "deu",
+     "text": " — Hiermit vergl. man den Verf. des "
+    },
+    {
+     "lang": "heb",
+     "text": "מחנת כהונה"
+    },
+    {
+     "lang": "deu",
+     "text": " (zu Midr.\nEsther fol. 119, col d), er sagt: Ich fand in einem alten Werke die\nWorte: "
+    },
+    {
+     "lang": "heb",
+     "text": "קברין שקנן על שפת הים"
+    },
+    {
+     "lang": "deu",
+     "text": ". „Ein "
+    },
+    {
+     "lang": "heb",
+     "text": "קברין"
+    },
+    {
+     "lang": "deu",
+     "text": ", der da nistet an den\nUfern des Meeres.“ Sachs (Beiträge zur Sprach= und Alter=\nthumsforschung 1. Heft S. 146) vermuthet richtig, daß "
+    },
+    {
+     "lang": "heb",
+     "text": "קברין"
+    },
+    {
+     "lang": "deu",
+     "text": " trans=\nponirt für "
+    },
+    {
+     "lang": "heb",
+     "text": "קרבין"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "grc",
+     "text": "Κόρβος"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "Corvus"
+    },
+    {
+     "lang": "deu",
+     "text": ") ist; nimmt aber im 2. Heft.\nS. 90, Anm. 90 diese Meinung zurück, und hält "
+    },
+    {
+     "lang": "heb",
+     "text": "קברין"
+    },
+    {
+     "lang": "deu",
+     "text": " für den\n„Grabvogel“, d. i., die Nachteule. Allein gerade dieser letztre\nVogel wohnt und brütet in Laubgehölzen, und wie sollte er am\nMeeresufer nistend angetroffen werden? Ich halte "
+    },
+    {
+     "lang": "heb",
+     "text": "קברין"
+    },
+    {
+     "lang": "deu",
+     "text": " für ein\nphönizisches Wort, und ist ebenso transponirt wie "
+    },
+    {
+     "lang": "grc",
+     "text": "Καβρώνοι"
+    },
+    {
+     "lang": "deu",
+     "text": " für\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קרבנין"
+    },
+    {
+     "lang": "deu",
+     "text": " „Opfer“, vergl. meine „Opfernamen“ im L. Bl. d. Orients\n1849, col. 307. Vergl. auch §. 355, wo eine Anzahl von transponirten\nWörtern mitgetheilt wird.*) — Ueber "
+    },
+    {
+     "lang": "heb",
+     "text": "קיק"
+    },
+    {
+     "lang": "deu",
+     "text": " vergl. man noch das gr."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "„Grabvogel“ heißt בת קברייא (Burdorf Lex. p. 1963), weshalb es\num so unwahrscheinlicher ist, daß auch die mascul. Form קברין dasselbe sein soll.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "„Grabvogel“ heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "בת קברייא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Burdorf Lex. p. 1963), weshalb es\num so unwahrscheinlicher ist, daß auch die mascul. Form "
+    },
+    {
+     "lang": "heb",
+     "text": "קברין"
+    },
+    {
+     "lang": "deu",
+     "text": " dasselbe sein soll."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3296,
+    2186
+   ],
+   [
+    3296,
+    3050
+   ]
+  ],
+  "input_tokens": 11366,
+  "output_tokens": 1912,
+  "cost_usd": 0.0419,
+  "seconds": 14.3
+ }
+}

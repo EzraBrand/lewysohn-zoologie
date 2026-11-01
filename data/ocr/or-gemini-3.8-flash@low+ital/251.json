@@ -1,0 +1,277 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die spanische Makrele. 251",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die spanische Makrele. 251"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "ten fertigte man einige Geräthschaften (Kelim 10, 1) und die Wal-\nfischknochen dienten sogar zu Baugegenständen (B. batra 73, b). —\nEndlich bediente man sich einstmals eines Fisches einen Wagen zu\nziehen, indem längs des Ufers noch eine mitbespannte Ziege denselben\nzog (Sanhedrin 59, b). — Die Fische sind schmackhafter einige Zeit\nnach dem Fange, als unmittelbar darauf (M. Katan 11, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "ten fertigte man einige Geräthschaften ("
+    },
+    {
+     "lang": "lat",
+     "text": "Kelim 10, 1"
+    },
+    {
+     "lang": "deu",
+     "text": ") und die Wal-\nfischknochen dienten sogar zu Baugegenständen ("
+    },
+    {
+     "lang": "lat",
+     "text": "B. batra 73, b"
+    },
+    {
+     "lang": "deu",
+     "text": "). —\nEndlich bediente man sich einstmals eines Fisches einen Wagen zu\nziehen, indem längs des Ufers noch eine mitbespannte Ziege denselben\nzog ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sanhedrin 59, b"
+    },
+    {
+     "lang": "deu",
+     "text": "). — Die Fische sind schmackhafter einige Zeit\nnach dem Fange, als unmittelbar darauf ("
+    },
+    {
+     "lang": "lat",
+     "text": "M. Katan 11, a"
+    },
+    {
+     "lang": "deu",
+     "text": ")."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 314.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 314."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Genuß von Fischfleisch ist nicht immer zuträglich, so ist er\nes am Tage unmittelbar nach dem Aderlasse, am folgenden Tage\nhingegen geradezu nachtheilig (A. Sara 29, a). Ebenso nachtheilig\nist der Genuß kleiner Fische für eine säugende Frau, indem er die\nMilch entweder trübt, oder gar vermindert (Ketuboth 60, b), Ißt\nsie jene mehrerwähnte aus Mehl und Fischfett bereitete Speise (§. 311),\nso pflegen in Folge dessen die Kinder später Augenzittern zu bekom-\nmen (ibid.). Auch ist bei einer Augenkrankheit der Fischgenuß nach-\ntheilig, wenn nicht andere Speisen ihm folgen (Tos. Meïle 20, b);\nist aber jene Krankheit im Abnehmen, so schadet jener Genuß nicht\n(Ps.-Raschi Nedarim 54, b). In den Tagen des Nissan (also zur\nFrühlingszeit, der gewöhnlichen Brütezeit der Fische) disponirt der\nFischgenuß zum Aussatz (Pesachim 112, b*). Am 7., 17. und 27.\n(nach Andern am 23.) Tage nach dem Einsalzen kann der Genuß\neines alsdann nicht gehörig gebratenen jungen Fisches von tödtlichen\nFolgen sein; man thut gut daran, wenn man darauf Bier (שכרא,\nwas übrigens eine eigene Art von Getränk war, vgl. das gr. Σίκερα)\ntrinkt (Berachoth 44, b). Das Steckenbleiben der Gräten (אודרא)\nin der Kehle kann gefährliche Folgen haben (Sabbat 67, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Genuß von Fischfleisch ist nicht immer zuträglich, so ist er\nes am Tage unmittelbar nach dem Aderlasse, am folgenden Tage\nhingegen geradezu nachtheilig ("
+    },
+    {
+     "lang": "lat",
+     "text": "A. Sara 29, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). Ebenso nachtheilig\nist der Genuß kleiner Fische für eine säugende Frau, indem er die\nMilch entweder trübt, oder gar vermindert ("
+    },
+    {
+     "lang": "lat",
+     "text": "Ketuboth 60, b"
+    },
+    {
+     "lang": "deu",
+     "text": "), Ißt\nsie jene mehrerwähnte aus Mehl und Fischfett bereitete Speise (§. 311),\nso pflegen in Folge dessen die Kinder später Augenzittern zu bekom-\nmen ("
+    },
+    {
+     "lang": "lat",
+     "text": "ibid."
+    },
+    {
+     "lang": "deu",
+     "text": "). Auch ist bei einer Augenkrankheit der Fischgenuß nach-\ntheilig, wenn nicht andere Speisen ihm folgen ("
+    },
+    {
+     "lang": "lat",
+     "text": "Tos. Meïle 20, b"
+    },
+    {
+     "lang": "deu",
+     "text": ");\nist aber jene Krankheit im Abnehmen, so schadet jener Genuß nicht\n("
+    },
+    {
+     "lang": "lat",
+     "text": "Ps.-Raschi Nedarim 54, b"
+    },
+    {
+     "lang": "deu",
+     "text": "). In den Tagen des Nissan (also zur\nFrühlingszeit, der gewöhnlichen Brütezeit der Fische) disponirt der\nFischgenuß zum Aussatz ("
+    },
+    {
+     "lang": "lat",
+     "text": "Pesachim 112, b*"
+    },
+    {
+     "lang": "deu",
+     "text": "). Am 7., 17. und 27.\n(nach Andern am 23.) Tage nach dem Einsalzen kann der Genuß\neines alsdann nicht gehörig gebratenen jungen Fisches von tödtlichen\nFolgen sein; man thut gut daran, wenn man darauf Bier ("
+    },
+    {
+     "lang": "heb",
+     "text": "שכרא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nwas übrigens eine eigene Art von Getränk war, vgl. das gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Σίκερα"
+    },
+    {
+     "lang": "deu",
+     "text": ")\ntrinkt ("
+    },
+    {
+     "lang": "lat",
+     "text": "Berachoth 44, b"
+    },
+    {
+     "lang": "deu",
+     "text": "). Das Steckenbleiben der Gräten ("
+    },
+    {
+     "lang": "heb",
+     "text": "אודרא"
+    },
+    {
+     "lang": "deu",
+     "text": ")\nin der Kehle kann gefährliche Folgen haben ("
+    },
+    {
+     "lang": "lat",
+     "text": "Sabbat 67, a"
+    },
+    {
+     "lang": "deu",
+     "text": ")."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 315.\nDie spanische Makrele.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 315.\nDie spanische Makrele."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Dieser zum Geschlecht der Thunfische gehörende schöne und ge-\nschmackvolle Fisch hatte neben einigen andern Namen bei den Alten\nauch den des Κολίας, Colias und heißt im Talmud קולים האספנין\n(Colias Hyspanus) und כופיא (§. 316). Ueber den erstern Namen",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dieser zum Geschlecht der Thunfische gehörende schöne und ge-\nschmackvolle Fisch hatte neben einigen andern Namen bei den Alten\nauch den des "
+    },
+    {
+     "lang": "grc",
+     "text": "Κολίας"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "lat",
+     "text": "Colias"
+    },
+    {
+     "lang": "deu",
+     "text": " und heißt im Talmud "
+    },
+    {
+     "lang": "heb",
+     "text": "קולים האספנין"
+    },
+    {
+     "lang": "deu",
+     "text": "\n("
+    },
+    {
+     "lang": "lat",
+     "text": "Colias Hyspanus"
+    },
+    {
+     "lang": "deu",
+     "text": ") und "
+    },
+    {
+     "lang": "heb",
+     "text": "כופיא"
+    },
+    {
+     "lang": "deu",
+     "text": " (§. 316). Ueber den erstern Namen"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Ohne alle nähere Angabe und Begründung übersetzt Brecher (Das\nTranscendentale u. s. w. S. 171) das hier vorkommende שבוטא durch B lak=\nfisch (Tintenfisch).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ohne alle nähere Angabe und Begründung übersetzt Brecher (Das\nTranscendentale u. s. w. S. 171) das hier vorkommende "
+    },
+    {
+     "lang": "heb",
+     "text": "שבוטא"
+    },
+    {
+     "lang": "deu",
+     "text": " durch B lak=\nfisch (Tintenfisch)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3264,
+    2046
+   ],
+   [
+    3264,
+    3038
+   ]
+  ],
+  "input_tokens": 3345,
+  "output_tokens": 1160,
+  "cost_usd": 0.0069,
+  "seconds": 10.3
+ }
+}

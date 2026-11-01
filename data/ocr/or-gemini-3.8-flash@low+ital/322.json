@@ -1,0 +1,281 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "322 Die Kleidermotte. — Die Tapetenmotte. — Der Vielfuß.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "322 Die Kleidermotte. — Die Tapetenmotte. — Der Vielfuß."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 443.\nDie Kleidermotte.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 443.\nDie Kleidermotte."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Tinea sarcitella. יניכא (Chulin 28, a; Raschi: Ein Wurm, der\nin wollenen Kleidern wächst und טיניא, Teigne heißt) und יאניכא,\nwofür auch יאניבא und יניבא geschrieben wird (Chulin 85, b; Raschi:\nEin Wurm, der den Flachs zerstört und טיישא (soll heißen טיינשא,\nTeignes heißt). — Diese Motte wird durch Thier- und Vögelblut\nvertrieben (ibid. 28, a). Sie geräth nicht in flächserne Gewänder\n(B. mez. 78, b), wohl aber in unverarbeiteten Flachs, weshalb man\nVögelblut in das Weichwasser, in welchem der Flachs sich befindet,\nschüttet, worauf die Motten, die den Blutgeruch nicht vertragen kön-\nnen, sich entfernen (Chulin 85, b). — Die von Motten zerfressene\nLeinwand heißt בליחא (blatta) (Sabbat 34, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Tinea sarcitella."
+    },
+    {
+     "lang": "deu",
+     "text": " "
+    },
+    {
+     "lang": "arc",
+     "text": "יניכא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 28, a; Raschi: Ein Wurm, der\nin wollenen Kleidern wächst und "
+    },
+    {
+     "lang": "heb",
+     "text": "טיניא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Teigne heißt) und "
+    },
+    {
+     "lang": "arc",
+     "text": "יאניכא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nwofür auch "
+    },
+    {
+     "lang": "arc",
+     "text": "יאניבא"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "arc",
+     "text": "יניבא"
+    },
+    {
+     "lang": "deu",
+     "text": " geschrieben wird (Chulin 85, b; Raschi:\nEin Wurm, der den Flachs zerstört und "
+    },
+    {
+     "lang": "heb",
+     "text": "טיישא"
+    },
+    {
+     "lang": "deu",
+     "text": " (soll heißen "
+    },
+    {
+     "lang": "heb",
+     "text": "טיינשא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nTeignes heißt). — Diese Motte wird durch Thier- und Vögelblut\nvertrieben (ibid. 28, a). Sie geräth nicht in flächserne Gewänder\n(B. mez. 78, b), wohl aber in unverarbeiteten Flachs, weshalb man\nVögelblut in das Weichwasser, in welchem der Flachs sich befindet,\nschüttet, worauf die Motten, die den Blutgeruch nicht vertragen kön-\nnen, sich entfernen (Chulin 85, b). — Die von Motten zerfressene\nLeinwand heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "בליחא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "blatta"
+    },
+    {
+     "lang": "deu",
+     "text": ") (Sabbat 34, a)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 444.\nDie Tapetenmotte.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 444.\nDie Tapetenmotte."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Pyralis tapezana, sie heißt דרנא, welche in eine Tapete (יריעה)\ngeräth (Sabbat 75, a). Raschi erklärt: Ein Wurm, der in die Ta-\npeten ein kleines, rundes Loch beißt. — Man findet diese Motte be-\nsonders häufig in den mit Tuch ausgeschlagenen Kutschen, oder in\nvernachlässigten Garderobenniederlagen (Voigt l. c. 5. S. 210). —\nUeber דרנא s. §. 436.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Pyralis tapezana"
+    },
+    {
+     "lang": "deu",
+     "text": ", sie heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "דרנא"
+    },
+    {
+     "lang": "deu",
+     "text": ", welche in eine Tapete ("
+    },
+    {
+     "lang": "heb",
+     "text": "יריעה"
+    },
+    {
+     "lang": "deu",
+     "text": ")\ngeräth (Sabbat 75, a). Raschi erklärt: Ein Wurm, der in die Ta-\npeten ein kleines, rundes Loch beißt. — Man findet diese Motte be-\nsonders häufig in den mit Tuch ausgeschlagenen Kutschen, oder in\nvernachlässigten Garderobenniederlagen (Voigt l. c. 5. S. 210). —\nUeber "
+    },
+    {
+     "lang": "arc",
+     "text": "דרנא"
+    },
+    {
+     "lang": "deu",
+     "text": " s. §. 436."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 445.\nDer Vielfuß.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 445.\nDer Vielfuß."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "נדל (Chulin 67, b), wozu Raschi: מאה רגלים קורין לו „Man\nnennt es (diese Assel): Hundertfuß“; es entspricht diese Benen-\nnung der sonst gebräuchlichen: Tausendfuß, obgleich das Weibchen\nnur 34 und das Männchen 32 Füße hat (Voigt l. c. 5. S. 418).\nDer Glossar zu Jalkut Schimoni 1. Th. S. 150, col. 1 nennt das\nInsect: צינטי פינדיש, Cent pieds. — Dahingegen erklärt es Raschi\nzu Erubin 8, b gemeinhin: שרץ שיש לו רגלים הרבה „Ein Insect,\ndas viele Füße hat.“",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "נדל"
+    },
+    {
+     "lang": "deu",
+     "text": " (Chulin 67, b), wozu Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "מאה רגלים קורין לו"
+    },
+    {
+     "lang": "deu",
+     "text": " „Man\nnennt es (diese Assel): Hundertfuß“; es entspricht diese Benen-\nnung der sonst gebräuchlichen: Tausendfuß, obgleich das Weibchen\nnur 34 und das Männchen 32 Füße hat (Voigt l. c. 5. S. 418).\nDer Glossar zu Jalkut Schimoni 1. Th. S. 150, col. 1 nennt das\nInsect: "
+    },
+    {
+     "lang": "heb",
+     "text": "צינטי פינדיש"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Cent pieds"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Dahingegen erklärt es Raschi\nzu Erubin 8, b gemeinhin: "
+    },
+    {
+     "lang": "heb",
+     "text": "שרץ שיש לו רגלים הרבה"
+    },
+    {
+     "lang": "deu",
+     "text": " „Ein Insect,\ndas viele Füße hat.“"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 446.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 446."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "(Anhang). Sachs (Beiträge zur Sprach- und Alterthums-\nforschung 2. Heft. S. 93) citirt eine Stelle aus dem jerusalemischen\nTalmud, die da lautet: שיורחא רנונא מחעביד נדל „Der Rückgrat des",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "(Anhang). Sachs (Beiträge zur Sprach- und Alterthums-\nforschung 2. Heft. S. 93) citirt eine Stelle aus dem jerusalemischen\nTalmud, die da lautet: "
+    },
+    {
+     "lang": "arc",
+     "text": "שיורחא רנונא מחעביד נדל"
+    },
+    {
+     "lang": "deu",
+     "text": " „Der Rückgrat des"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2116
+   ],
+   [
+    3308,
+    2932
+   ]
+  ],
+  "input_tokens": 3316,
+  "output_tokens": 1958,
+  "cost_usd": 0.0098,
+  "seconds": 15.8
+ }
+}

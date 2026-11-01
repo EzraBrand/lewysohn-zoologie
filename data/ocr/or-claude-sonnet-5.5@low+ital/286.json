@@ -1,0 +1,217 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "286",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "286"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die wandernde Heuschrecke.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die wandernde Heuschrecke."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 372.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 372."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Allgemein werden die Heuschrecken in reine und unreine eingetheilt;\ndas Gesetz gestattet nur 4 Arten zu essen, nämlich סלעם, חרגל, ארבה\nund חגב, fügt aber zu ארבה den Nachsatz למינו (nach ihrer Art) und\nzu den übrigen drei Arten den Zusatz למינהו (nach ihren Arten) hin-\nzu, wodurch eine große Anzahl von Heuschreckenarten unter jenen 4 ge-\ndachten subsumirt werden kann. — Die Bestimmungen für die Rein-\nheit der Heuschrecken sind nach der Mischna (Chulin 59, a) folgende:\nDie Heuschrecke muß a) 4 Füße, b) 2 Springfüße*), c) 4 Flügel\nhaben und d) müssen die Flügel so breit und so lang sein, daß sie\ndie Breite und die Länge der Heuschrecke größtentheils bedecken kön-\nnen. — Hat die Heuschrecke diese 4 Eigenschaften, so ist sie rein,\ngleichviel ob sie geschwänzt, oder ungeschwänzt ist, ob sie einen läng-\nlichen, oder runden Kopf hat (Sifte Kohen zu Jore Dea §. 85, a).\nZu den vier Zeichen ist aber noch ein nothwendiges Moment, daß\ndie Heuschrecke unter dem Namen חגב bekannt sein muß, was dahin\nzu erklären ist, daß חגב nur dann rein ist, wenn sie die 4 Rein-\nheitszeichen hat, da es auch unreine Heuschrecken unter dem Namen\nחגב giebt (§. 385). Wir kommen nun zu den einzelnen Species.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Allgemein werden die Heuschrecken in reine und unreine eingetheilt;\ndas Gesetz gestattet nur 4 Arten zu essen, nämlich "
+    },
+    {
+     "lang": "heb",
+     "text": "סלעם, חרגל, ארבה"
+    },
+    {
+     "lang": "deu",
+     "text": "\nund "
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": ", fügt aber zu "
+    },
+    {
+     "lang": "heb",
+     "text": "ארבה"
+    },
+    {
+     "lang": "deu",
+     "text": " den Nachsatz "
+    },
+    {
+     "lang": "heb",
+     "text": "למינו"
+    },
+    {
+     "lang": "deu",
+     "text": " (nach ihrer Art) und\nzu den übrigen drei Arten den Zusatz "
+    },
+    {
+     "lang": "heb",
+     "text": "למינהו"
+    },
+    {
+     "lang": "deu",
+     "text": " (nach ihren Arten) hin-\nzu, wodurch eine große Anzahl von Heuschreckenarten unter jenen 4 ge-\ndachten subsumirt werden kann. — Die Bestimmungen für die Rein-\nheit der Heuschrecken sind nach der Mischna (Chulin 59, a) folgende:\nDie Heuschrecke muß a) 4 Füße, b) 2 Springfüße*), c) 4 Flügel\nhaben und d) müssen die Flügel so breit und so lang sein, daß sie\ndie Breite und die Länge der Heuschrecke größtentheils bedecken kön-\nnen. — Hat die Heuschrecke diese 4 Eigenschaften, so ist sie rein,\ngleichviel ob sie geschwänzt, oder ungeschwänzt ist, ob sie einen läng-\nlichen, oder runden Kopf hat (Sifte Kohen zu Jore Dea §. 85, a).\nZu den vier Zeichen ist aber noch ein nothwendiges Moment, daß\ndie Heuschrecke unter dem Namen "
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": " bekannt sein muß, was dahin\nzu erklären ist, daß "
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": " nur dann rein ist, wenn sie die 4 Rein-\nheitszeichen hat, da es auch unreine Heuschrecken unter dem Namen\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חגב"
+    },
+    {
+     "lang": "deu",
+     "text": " giebt (§. 385). Wir kommen nun zu den einzelnen Species."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 373.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 373."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die wandernde Heuschrecke.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die wandernde Heuschrecke."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Das hebr. ארבה (Lev. 11, 22) erklärt Bochart (Hieroz. 2, 4, 1,\ncol, 442) nach Vorgang Ibn Esra's von רבו „viel sein“, wobei an\ndiejenige Heuschrecke gedacht wird, die in furchtbarer Menge sich fin-\ndet, und die auch Zugheuschrecke oder Strichheuschrecke heißt\n(Voigt l. c. 5. S. 336). Sie ist graulichgrün, die Oberflügel bis-\nweilen schwach bräunlich gefleckt. Das Halsschild mit stark vorragen-\ndem Kiele, die Brust unten ziegelroth, behaart; die Hinterschenkel\ndunkelgrün gebändert, die Schienbeine braunroth. — Sie gehört zu\nden reinen Heuschrecken (Chulin 65, a), und noch heute wird sie in\nMarokko von den Arabern gegessen (Voigt ibid. S. 339). Der Talmud",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das hebr. "
+    },
+    {
+     "lang": "heb",
+     "text": "ארבה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Lev. 11, 22) erklärt Bochart (Hieroz. 2, 4, 1,\ncol, 442) nach Vorgang Ibn Esra's von "
+    },
+    {
+     "lang": "heb",
+     "text": "רבו"
+    },
+    {
+     "lang": "deu",
+     "text": " „viel sein“, wobei an\ndiejenige Heuschrecke gedacht wird, die in furchtbarer Menge sich fin-\ndet, und die auch Zugheuschrecke oder Strichheuschrecke heißt\n(Voigt l. c. 5. S. 336). Sie ist graulichgrün, die Oberflügel bis-\nweilen schwach bräunlich gefleckt. Das Halsschild mit stark vorragen-\ndem Kiele, die Brust unten ziegelroth, behaart; die Hinterschenkel\ndunkelgrün gebändert, die Schienbeine braunroth. — Sie gehört zu\nden reinen Heuschrecken (Chulin 65, a), und noch heute wird sie in\nMarokko von den Arabern gegessen (Voigt ibid. S. 339). Der Talmud"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Merkwürdig ist's, daß Raschi die Springfüße am Halse der Heuschrecke\nannimmt, da ja bekanntlich vorn die Fangfüße und hinten die Springfüße sind,\ndenselben Irrthum begeht Reggio (in seiner Pentateuchausgabe Lev. 11, 21) ;\ndahingegen übersetzt die Zunz'sche Bibel die Textworte: אשר (לא) לו כרעים\nממעל לרגליו richtig: „was Gelenke hat oberhalb der Hinterbeine“, womit die\neigentlichen Springfüße gemeint sind.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Merkwürdig ist's, daß Raschi die Springfüße am Halse der Heuschrecke\nannimmt, da ja bekanntlich vorn die Fangfüße und hinten die Springfüße sind,\ndenselben Irrthum begeht Reggio (in seiner Pentateuchausgabe Lev. 11, 21) ;\ndahingegen übersetzt die Zunz'sche Bibel die Textworte: "
+    },
+    {
+     "lang": "heb",
+     "text": "אשר (לא) לו כרעים"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ממעל לרגליו"
+    },
+    {
+     "lang": "deu",
+     "text": " richtig: „was Gelenke hat oberhalb der Hinterbeine“, womit die\neigentlichen Springfüße gemeint sind."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2720
+   ],
+   [
+    3308,
+    2560
+   ]
+  ],
+  "input_tokens": 11324,
+  "output_tokens": 1880,
+  "cost_usd": 0.0414,
+  "seconds": 13.2
+ }
+}

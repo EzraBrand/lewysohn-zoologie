@@ -1,0 +1,309 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "308",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "308"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Der schwarze Kornwurm. — Der Mehlwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der schwarze Kornwurm. — Der Mehlwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "er: יחוש שבכלים. — Das erste Wort bezeichnet auch sonst kleine\ngeflügelte Insecten, wie Mücken (§. 432) und כלים erklärt Raschi\ndurch: מין קטנית צידראש „eine Art Erbsen, Ciceres.“ Dieses Wort\nheißt Kichererbsen; Mussaphia, der כלימין mit אבלסן identificirt,\nleitet es von dem gr. ʾΩχρος ab, welches ein hülsetragendes Gewächs\nmit blaßgelber Schote bezeichnet; vergl. noch §. 420.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "er: "
+    },
+    {
+     "lang": "heb",
+     "text": "יחוש שבכלים"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Das erste Wort bezeichnet auch sonst kleine\ngeflügelte Insecten, wie Mücken (§. 432) und "
+    },
+    {
+     "lang": "heb",
+     "text": "כלים"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt Raschi\ndurch: "
+    },
+    {
+     "lang": "heb",
+     "text": "מין קטנית צידראש"
+    },
+    {
+     "lang": "deu",
+     "text": " „eine Art Erbsen, Ciceres.“ Dieses Wort\nheißt Kichererbsen; Mussaphia, der "
+    },
+    {
+     "lang": "heb",
+     "text": "כלימין"
+    },
+    {
+     "lang": "deu",
+     "text": " mit "
+    },
+    {
+     "lang": "heb",
+     "text": "אבלסן"
+    },
+    {
+     "lang": "deu",
+     "text": " identificirt,\nleitet es von dem gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "ʾΩχρος"
+    },
+    {
+     "lang": "deu",
+     "text": " ab, welches ein hülsetragendes Gewächs\nmit blaßgelber Schote bezeichnet; vergl. noch §. 420."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 412.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 412."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der schwarze Kornwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der schwarze Kornwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Curculio granarius (Voigt ibid. S. 348). Der Käfer frißt die\nSchale der Getreidekörner an, und legt sein Ei in dieselbe, worauf\ndie Larve alles Mehl des Korns verzehrt, so daß nur die leeren Hül-\nsen bleiben. Diese beiden Insecten, Käfer und Made, werden in\neinem Sprüchwort genannt. Zur Bezeichnung des Gedankens, daß\nBöses nur Böses hervorbringt, hat der Midrasch (Rabba Schir-ha-\nSchirim fol. 1, col. 3) das Sprüchwort: מה ילדת חיפושיתה קרוצי בישי\nמינה „Was gebärt der Käfer? Die קרוצי, die viel ärger als er ist.“\nחיפושיתה übersetzt Matnat Kehuna fälschlich durch Skorpion (שקרפיון),\ndas Wort heißt vielmehr Käfer (§. 408) und קרוצי von קרץ heißt\n„Zerstörer“, und allerdings verdirbt die Larve viel mehr als der Kä-\nfer selbst*).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Curculio granarius"
+    },
+    {
+     "lang": "deu",
+     "text": " (Voigt ibid. S. 348). Der Käfer frißt die\nSchale der Getreidekörner an, und legt sein Ei in dieselbe, worauf\ndie Larve alles Mehl des Korns verzehrt, so daß nur die leeren Hül-\nsen bleiben. Diese beiden Insecten, Käfer und Made, werden in\neinem Sprüchwort genannt. Zur Bezeichnung des Gedankens, daß\nBöses nur Böses hervorbringt, hat der Midrasch (Rabba Schir-ha-\nSchirim fol. 1, col. 3) das Sprüchwort: "
+    },
+    {
+     "lang": "heb",
+     "text": "מה ילדת חיפושיתה קרוצי בישי"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מינה"
+    },
+    {
+     "lang": "deu",
+     "text": " „Was gebärt der Käfer? Die "
+    },
+    {
+     "lang": "heb",
+     "text": "קרוצי"
+    },
+    {
+     "lang": "deu",
+     "text": ", die viel ärger als er ist.“\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חיפושיתה"
+    },
+    {
+     "lang": "deu",
+     "text": " übersetzt Matnat Kehuna fälschlich durch Skorpion ("
+    },
+    {
+     "lang": "heb",
+     "text": "שקרפיון"
+    },
+    {
+     "lang": "deu",
+     "text": "),\ndas Wort heißt vielmehr Käfer (§. 408) und "
+    },
+    {
+     "lang": "heb",
+     "text": "קרוצי"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "heb",
+     "text": "קרץ"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt\n„Zerstörer“, und allerdings verdirbt die Larve viel mehr als der Kä-\nfer selbst*)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 413.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 413."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der Mehlwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Mehlwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Para 9, 2 ist die Rede von zwei Insecten דירה und כינה, die in\ndas mit der Asche der rothen Kuh vermischte Wasser gefallen sind.\nDas Wasser ist auch alsdann brauchbar, weil jene Insecten (scheinbar)\nsaftlos sind, und so dem Wasser keine animalische Feuchtigkeit bei-\nfügen können. Maimuni erklärt: העש והתולעת אשר יולדו בקמח „die\nMotte und der Wurm, die im Mehle entstehen.“ Es sind dies die\nLarven und die aus ihr entstehenden Käfer (Tenebrio molitor. Voigt",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Para 9, 2 ist die Rede von zwei Insecten "
+    },
+    {
+     "lang": "heb",
+     "text": "דירה"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "כינה"
+    },
+    {
+     "lang": "deu",
+     "text": ", die in\ndas mit der Asche der rothen Kuh vermischte Wasser gefallen sind.\nDas Wasser ist auch alsdann brauchbar, weil jene Insecten (scheinbar)\nsaftlos sind, und so dem Wasser keine animalische Feuchtigkeit bei-\nfügen können. Maimuni erklärt: "
+    },
+    {
+     "lang": "heb",
+     "text": "העש והתולעת אשר יולדו בקמח"
+    },
+    {
+     "lang": "deu",
+     "text": " „die\nMotte und der Wurm, die im Mehle entstehen.“ Es sind dies die\nLarven und die aus ihr entstehenden Käfer ("
+    },
+    {
+     "lang": "lat",
+     "text": "Tenebrio molitor"
+    },
+    {
+     "lang": "deu",
+     "text": ". Voigt"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Der Sinn jenes Sprüchwortes wurde in zwei ähnlichen der Thierwelt\nentnommenen Sprüchwörtern ausgedrückt. Das eine lautet: גור טוב מכלב ביש\nלא תרבי גור ביש מכלב ביש על אחת כמה וכמה „Erziehe auch keinen gutwilli-\ngen Hund, wenn er von einer böswilligen Hündin abstammt, und noch viel we-\nniger das böse Junge einer bösen Hündin!“ (Rabba Wajikra fol. 186, d); das\nandere Sprüchwort ist prägnanter: מכלבא בישא גורא טבא לא נפיק „von einer\nbösen Hündin kann kein gutwilliges Junge abstammen“ (Seder Olam Cap. 25).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Sinn jenes Sprüchwortes wurde in zwei ähnlichen der Thierwelt\nentnommenen Sprüchwörtern ausgedrückt. Das eine lautet: "
+    },
+    {
+     "lang": "heb",
+     "text": "גור טוב מכלב ביש"
+    },
+    {
+     "lang": "deu",
+     "text": "\n"
+    },
+    {
+     "lang": "heb",
+     "text": "לא תרבי גור ביש מכלב ביש על אחת כמה וכמה"
+    },
+    {
+     "lang": "deu",
+     "text": " „Erziehe auch keinen gutwilli-\ngen Hund, wenn er von einer böswilligen Hündin abstammt, und noch viel we-\nniger das böse Junge einer bösen Hündin!“ (Rabba Wajikra fol. 186, d); das\nandere Sprüchwort ist prägnanter: "
+    },
+    {
+     "lang": "arc",
+     "text": "מכלבא בישא גורא טבא לא נפיק"
+    },
+    {
+     "lang": "deu",
+     "text": " „von einer\nbösen Hündin kann kein gutwilliges Junge abstammen“ (Seder Olam Cap. 25)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2935
+   ],
+   [
+    3308,
+    2173
+   ]
+  ],
+  "input_tokens": 11359,
+  "output_tokens": 2132,
+  "cost_usd": 0.044,
+  "seconds": 12.9
+ }
+}

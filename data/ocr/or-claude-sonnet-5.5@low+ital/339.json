@@ -1,0 +1,273 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Leichenmade. — Der gemeine und der weiße Spulwurm. — Die Askaride. 339",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Leichenmade. — Der gemeine und der weiße Spulwurm. — Die Askaride. 339"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 475.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 475."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Leichenmade.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Leichenmade."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die aus dem menschlichen Leichnam sich entwickelnde Made heißt\nרמה und תולע (Aboth 3, 1); je beleibter der Körper ist, desto mehr\nMaden entwickelt er als verwester Leichnam (ibid. 2, 7). Bei einem\nLeichnam, der erst einige Tage auf einem Misthaufen lag, krochen\nMaden aus der Nase hervor (Joma 19, b). Bei einer andern, län-\ngere Zeit unbeerdigt gebliebenen Leiche kam ein Wurm (ריחשא) aus\ndem Ohr zuerst hervor (B. mez. 84, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die aus dem menschlichen Leichnam sich entwickelnde Made heißt\n"
+    },
+    {
+     "lang": "heb",
+     "text": "רמה"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "תולע"
+    },
+    {
+     "lang": "deu",
+     "text": " (Aboth 3, 1); je beleibter der Körper ist, desto mehr\nMaden entwickelt er als verwester Leichnam (ibid. 2, 7). Bei einem\nLeichnam, der erst einige Tage auf einem Misthaufen lag, krochen\nMaden aus der Nase hervor (Joma 19, b). Bei einer andern, län-\ngere Zeit unbeerdigt gebliebenen Leiche kam ein Wurm ("
+    },
+    {
+     "lang": "heb",
+     "text": "ריחשא"
+    },
+    {
+     "lang": "deu",
+     "text": ") aus\ndem Ohr zuerst hervor (B. mez. 84, b)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 476.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 476."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der gemeine Spulwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der gemeine Spulwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Dieser Wurm, der oft in den Eingeweiden des Menschen nicht\nvereinzelt, sondern in großer Menge vorhanden ist, so daß einem\nsiebenjährigen Kinde 56 Spulwürmer abgingen (Voigt l. c. 6. S. 32),\nheißt im Talmud כירצא (Gittin 69, b). Als Mittel gegen ihn dient\nder Genuß von Eselsmilch mit Lorbeerblättern (ארע = לורייר, Lau-\nrier, wovon die Beere בייש, Baies, heißt, Gittin ibid.); ferner der\nGenuß von Brod und Salz nüchtern genommen, und damit der Trank\nvom frischen Wasser (B. mez. 107, b).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dieser Wurm, der oft in den Eingeweiden des Menschen nicht\nvereinzelt, sondern in großer Menge vorhanden ist, so daß einem\nsiebenjährigen Kinde 56 Spulwürmer abgingen (Voigt l. c. 6. S. 32),\nheißt im Talmud "
+    },
+    {
+     "lang": "arc",
+     "text": "כירצא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Gittin 69, b). Als Mittel gegen ihn dient\nder Genuß von Eselsmilch mit Lorbeerblättern ("
+    },
+    {
+     "lang": "arc",
+     "text": "ארע = לורייר"
+    },
+    {
+     "lang": "deu",
+     "text": ", Lau-\nrier, wovon die Beere "
+    },
+    {
+     "lang": "arc",
+     "text": "בייש"
+    },
+    {
+     "lang": "deu",
+     "text": ", Baies, heißt, Gittin ibid.); ferner der\nGenuß von Brod und Salz nüchtern genommen, und damit der Trank\nvom frischen Wasser (B. mez. 107, b)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 477.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 477."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Der weiße Spulwurm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der weiße Spulwurm."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Da der gemeine Spulwurm (§. 476) braunroth ist, so heißt der\nweiße Spulwurm כירצא חיוורא (Gittin 69, b). Als Mittel gegen ihn\ndient der Saame von Stachelmeersenf (גילגולא = אורוגא, span.: Oruga,\nlat.: Eruca, franz.: Érucago; s. Raschi zu 2. Kön. 4, 39), den man\nin einen baumwollenen Lappen wickelt und im Wasser erweicht, welches\nalsdann getrunken wird (Gittin ibid.). Ob כירצא mit Ascaris ver-\nwandt sei?",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Da der gemeine Spulwurm (§. 476) braunroth ist, so heißt der\nweiße Spulwurm "
+    },
+    {
+     "lang": "arc",
+     "text": "כירצא חיוורא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Gittin 69, b). Als Mittel gegen ihn\ndient der Saame von Stachelmeersenf ("
+    },
+    {
+     "lang": "arc",
+     "text": "גילגולא = אורוגא"
+    },
+    {
+     "lang": "deu",
+     "text": ", span.: Oruga,\nlat.: Eruca, franz.: Érucago; s. Raschi zu 2. Kön. 4, 39), den man\nin einen baumwollenen Lappen wickelt und im Wasser erweicht, welches\nalsdann getrunken wird (Gittin ibid.). Ob "
+    },
+    {
+     "lang": "arc",
+     "text": "כירצא"
+    },
+    {
+     "lang": "deu",
+     "text": " mit Ascaris ver-\nwandt sei?"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 478.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 478."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Askaride.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Askaride."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die zumal im Mastdarm der Kinder sehr gemeine und in großer\nMenge abgehenden kleinen Würmer heißen כינים שבני מעיים (B. Kama\n82, a). Mittel gegen sie ist der Genuß von Knoblauch (ibid.), ein\nHausmittel, das noch jetzt angewendet wird. Die Bewohner heißer",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die zumal im Mastdarm der Kinder sehr gemeine und in großer\nMenge abgehenden kleinen Würmer heißen "
+    },
+    {
+     "lang": "heb",
+     "text": "כינים שבני מעיים"
+    },
+    {
+     "lang": "deu",
+     "text": " (B. Kama\n82, a). Mittel gegen sie ist der Genuß von Knoblauch (ibid.), ein\nHausmittel, das noch jetzt angewendet wird. Die Bewohner heißer"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "22*",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "22*"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2570
+   ],
+   [
+    3308,
+    2558
+   ]
+  ],
+  "input_tokens": 11370,
+  "output_tokens": 1711,
+  "cost_usd": 0.0398,
+  "seconds": 11.4
+ }
+}

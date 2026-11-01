@@ -1,0 +1,285 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Fische.\t249",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fische.\t249"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "heißt die Speise bloß הרסנא, was Samuel ungenau durch דגים קטנים\nwiedergiebt, denn הַרְסְנָא von הרס ist der zerstoßene Theil des Fisch-\nfleisches, mit welchem das Mehl vermischt wird, und werden beide\nBestandtheile der Speise A. Sara 38, a ausdrücklich mit קימחא und\nהרסנא benannt. — Mancher Fischart ist das Benetzen mit Wasser,\nnachdem sie aus dem Wasser geholt ist, nachtheilig, vgl. die betref-\nfenden Artikel der drei im vorhergehenden §. zuletzt genannten Fisch-\narten. Nach dem Midrasch (Rabba Bereschit fol. 7, d) hat ein und\nderselbe Fisch einen verschiedenen Geschmack, wenn er in verschiedenen\nWassern angetroffen wird; es heißt dort: Der Geschmack des Fisches,\nwelcher von עכו (Ace, d. i. Πτολεμαΐς) geholt wird, ist anders als\nder desjenigen, welcher von צידון (Σιδών) und אספמייא (Spanien;\ns. meine Aphorismen im L. Bl. d. Orients 1849, Nr. 23) kommt.\nDie beiden ersten phönizischen Städte lagen am Mittelmeer. Der\nMidrasch (ibid. Debarim fol. 298, c) berichtet ferner, daß die Fische\nnach dem Frühregen (רביעה) fett werden; so hatte ein nach diesem\nRegen bei עכו gefangener Fisch 300 Literas (ליטרא, Pfund) Gewicht,\nwas wohl von seinem Fett zu verstehen ist, indem es dort heißt, daß\nman (ungeöffnet) den Fisch nur auf 4 Pfund schätzte. — Die unge-\nheure Masse von Fischen in den Gewässern bei עכו bildete auch das\nSprüchwort: „Bringt man etwa Fische nach Ako?\" (ibid. Schemoth\nfol. 126, c); auch von צידון heißt es (Talm. Schekalim 6, H. 2), daß\ndaselbst einem Rabbi 300 Arten von Fischen, zu Einem Gerichte be-\nreitet, vorgesetzt wurden. — Der Euphrat heißt deshalb פרת, weil\nsein Wasser פרין ורבין sehr fischreich ist (Berachoth 59, b). Eine\nStadt in einer fischreichen Gegend hieß מגדל נוניא „Fischthurm\" (Pe-\nsachim 46, a). — Die Fische haben Geruchssinn (§. 351).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "heißt die Speise bloß "
+    },
+    {
+     "lang": "arc",
+     "text": "הרסנא"
+    },
+    {
+     "lang": "deu",
+     "text": ", was Samuel ungenau durch "
+    },
+    {
+     "lang": "heb",
+     "text": "דגים קטנים"
+    },
+    {
+     "lang": "deu",
+     "text": "\nwiedergiebt, denn "
+    },
+    {
+     "lang": "arc",
+     "text": "הַרְסְנָא"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "heb",
+     "text": "הרס"
+    },
+    {
+     "lang": "deu",
+     "text": " ist der zerstoßene Theil des Fisch-\nfleisches, mit welchem das Mehl vermischt wird, und werden beide\nBestandtheile der Speise A. Sara 38, a ausdrücklich mit "
+    },
+    {
+     "lang": "arc",
+     "text": "קימחא"
+    },
+    {
+     "lang": "deu",
+     "text": " und\n"
+    },
+    {
+     "lang": "arc",
+     "text": "הרסנא"
+    },
+    {
+     "lang": "deu",
+     "text": " benannt. — Mancher Fischart ist das Benetzen mit Wasser,\nnachdem sie aus dem Wasser geholt ist, nachtheilig, vgl. die betref-\nfenden Artikel der drei im vorhergehenden §. zuletzt genannten Fisch-\narten. Nach dem Midrasch (Rabba Bereschit fol. 7, d) hat ein und\nderselbe Fisch einen verschiedenen Geschmack, wenn er in verschiedenen\nWassern angetroffen wird; es heißt dort: Der Geschmack des Fisches,\nwelcher von "
+    },
+    {
+     "lang": "heb",
+     "text": "עכו"
+    },
+    {
+     "lang": "deu",
+     "text": " (Ace, d. i. "
+    },
+    {
+     "lang": "grc",
+     "text": "Πτολεμαΐς"
+    },
+    {
+     "lang": "deu",
+     "text": ") geholt wird, ist anders als\nder desjenigen, welcher von "
+    },
+    {
+     "lang": "heb",
+     "text": "צידון"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "grc",
+     "text": "Σιδών"
+    },
+    {
+     "lang": "deu",
+     "text": ") und "
+    },
+    {
+     "lang": "heb",
+     "text": "אספמייא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Spanien;\ns. meine Aphorismen im L. Bl. d. Orients 1849, Nr. 23) kommt.\nDie beiden ersten phönizischen Städte lagen am Mittelmeer. Der\nMidrasch (ibid. Debarim fol. 298, c) berichtet ferner, daß die Fische\nnach dem Frühregen ("
+    },
+    {
+     "lang": "heb",
+     "text": "רביעה"
+    },
+    {
+     "lang": "deu",
+     "text": ") fett werden; so hatte ein nach diesem\nRegen bei "
+    },
+    {
+     "lang": "heb",
+     "text": "עכו"
+    },
+    {
+     "lang": "deu",
+     "text": " gefangener Fisch 300 Literas ("
+    },
+    {
+     "lang": "arc",
+     "text": "ליטרא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Pfund) Gewicht,\nwas wohl von seinem Fett zu verstehen ist, indem es dort heißt, daß\nman (ungeöffnet) den Fisch nur auf 4 Pfund schätzte. — Die unge-\nheure Masse von Fischen in den Gewässern bei "
+    },
+    {
+     "lang": "heb",
+     "text": "עכו"
+    },
+    {
+     "lang": "deu",
+     "text": " bildete auch das\nSprüchwort: „Bringt man etwa Fische nach Ako?\" (ibid. Schemoth\nfol. 126, c); auch von "
+    },
+    {
+     "lang": "heb",
+     "text": "צידון"
+    },
+    {
+     "lang": "deu",
+     "text": " heißt es (Talm. Schekalim 6, H. 2), daß\ndaselbst einem Rabbi 300 Arten von Fischen, zu Einem Gerichte be-\nreitet, vorgesetzt wurden. — Der Euphrat heißt deshalb "
+    },
+    {
+     "lang": "heb",
+     "text": "פרת"
+    },
+    {
+     "lang": "deu",
+     "text": ", weil\nsein Wasser "
+    },
+    {
+     "lang": "heb",
+     "text": "פרין ורבין"
+    },
+    {
+     "lang": "deu",
+     "text": " sehr fischreich ist (Berachoth 59, b). Eine\nStadt in einer fischreichen Gegend hieß "
+    },
+    {
+     "lang": "arc",
+     "text": "מגדל נוניא"
+    },
+    {
+     "lang": "deu",
+     "text": " „Fischthurm\" (Pe-\nsachim 46, a). — Die Fische haben Geruchssinn (§. 351)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 312.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 312."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Vielfach sind die Fangmittel und die Behälter für die Fische.\nMan fing sie entweder mit der Angel (איימא, Hameçon), welche\nman irgendwo befestigte, so daß man nicht einmal zugegen zu sein\nbrauchte (Sabbat 18, a*), oder durch Netze (מצידה, Menachoth 64, a;\nמצידת הסכרין, Kelim 23, 5), oder durch ein über einen Reifen ge-\nspanntes Netz, welches in eine Spitze ausläuft, durch welche der Fisch\nnicht dringen kann und so bei der Anstrengung dies zu thun, mit\nden Kiemendeckeln an den Fäden sich verfängt (קוקרי, Sabbat 18, a).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Vielfach sind die Fangmittel und die Behälter für die Fische.\nMan fing sie entweder mit der Angel ("
+    },
+    {
+     "lang": "arc",
+     "text": "איימא"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "Hameçon"
+    },
+    {
+     "lang": "deu",
+     "text": "), welche\nman irgendwo befestigte, so daß man nicht einmal zugegen zu sein\nbrauchte (Sabbat 18, a*), oder durch Netze ("
+    },
+    {
+     "lang": "heb",
+     "text": "מצידה"
+    },
+    {
+     "lang": "deu",
+     "text": ", Menachoth 64, a;\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מצידת הסכרין"
+    },
+    {
+     "lang": "deu",
+     "text": ", Kelim 23, 5), oder durch ein über einen Reifen ge-\nspanntes Netz, welches in eine Spitze ausläuft, durch welche der Fisch\nnicht dringen kann und so bei der Anstrengung dies zu thun, mit\nden Kiemendeckeln an den Fäden sich verfängt ("
+    },
+    {
+     "lang": "arc",
+     "text": "קוקרי"
+    },
+    {
+     "lang": "deu",
+     "text": ", Sabbat 18, a)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Die den Fischen so verderbliche Angel heißt deshalb מצודה רעה (San-\nhedrin 81, b).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Die den Fischen so verderbliche Angel heißt deshalb "
+    },
+    {
+     "lang": "heb",
+     "text": "מצודה רעה"
+    },
+    {
+     "lang": "deu",
+     "text": " (San-\nhedrin 81, b)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2416
+   ],
+   [
+    3308,
+    2572
+   ]
+  ],
+  "input_tokens": 3330,
+  "output_tokens": 2146,
+  "cost_usd": 0.0105,
+  "seconds": 14.6
+ }
+}

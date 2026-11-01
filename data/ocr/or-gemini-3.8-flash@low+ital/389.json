@@ -1,0 +1,681 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Hebräiſches und aramäiſches Register.\t389",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Hebräiſches und aramäiſches Register.\t389"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "עכבר 105. 107.\nעכבר דיבשה 106.\nעכבר שכים 269.\nעכברא 105.\nעכברא דברא 108.\nעכברא דטור 374.\nעכברא דמחא 108.\nעכברתא 105.\nעכנא 238.\nעכשוב 309.\nעלוקה 336.\nעליחה 351.\nעלוק 336.\nעלוקא 336.\nעסור 225.\nעפיאן 261.\nעפיץ 261.\nעקוב 343.\nעקוש 343.\nעקרב 298.\nעקרב שבחדייב 299.\nערבונה 260.\nערב 54.\nערור 143. 241.\nערעיחא 303.\nערפרא 102.\nערקא 336.\nערקבנין 298.\nעש 308.\nעתודים 119.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "עכבר"
+    },
+    {
+     "lang": "deu",
+     "text": " 105. 107.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עכבר דיבשה"
+    },
+    {
+     "lang": "deu",
+     "text": " 106.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עכבר שכים"
+    },
+    {
+     "lang": "deu",
+     "text": " 269.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכברא"
+    },
+    {
+     "lang": "deu",
+     "text": " 105.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכברא דברא"
+    },
+    {
+     "lang": "deu",
+     "text": " 108.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכברא דטור"
+    },
+    {
+     "lang": "deu",
+     "text": " 374.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכברא דמחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 108.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכברתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 105.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עכנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 238.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עכשוב"
+    },
+    {
+     "lang": "deu",
+     "text": " 309.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עלוקה"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עליחה"
+    },
+    {
+     "lang": "deu",
+     "text": " 351.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עלוק"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עלוקא"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עסור"
+    },
+    {
+     "lang": "deu",
+     "text": " 225.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עפיאן"
+    },
+    {
+     "lang": "deu",
+     "text": " 261.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עפיץ"
+    },
+    {
+     "lang": "deu",
+     "text": " 261.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עקוב"
+    },
+    {
+     "lang": "deu",
+     "text": " 343.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עקוש"
+    },
+    {
+     "lang": "deu",
+     "text": " 343.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עקרב"
+    },
+    {
+     "lang": "deu",
+     "text": " 298.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "עקרב שבחדייב"
+    },
+    {
+     "lang": "deu",
+     "text": " 299.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערבונה"
+    },
+    {
+     "lang": "deu",
+     "text": " 260.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ערב"
+    },
+    {
+     "lang": "deu",
+     "text": " 54.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ערור"
+    },
+    {
+     "lang": "deu",
+     "text": " 143. 241.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערעיחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 303.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערפרא"
+    },
+    {
+     "lang": "deu",
+     "text": " 102.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערקא"
+    },
+    {
+     "lang": "deu",
+     "text": " 336.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ערקבנין"
+    },
+    {
+     "lang": "deu",
+     "text": " 298.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עש"
+    },
+    {
+     "lang": "deu",
+     "text": " 308.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "עתודים"
+    },
+    {
+     "lang": "deu",
+     "text": " 119."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "פ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "פ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "arc",
+   "text": "פאפליון 374.\nפרה 254.\nפה דחאנה 305.\nפוטיחא 274.\nפושקנצא 172.\nפחיא 194.\nפטרוזא 119.\nפטחא 274.\nפיל 148. 288. 363.\nפילא 148.\nפירון אנדרפטא 161.\nפלאי ביארי 287.\nפלגס 118.\nפלייה 288.\nפלמודא 254.\nפלמידא 254.\nפנתרין 73.\nפסיון 213.\nפסיואן 213.\nפרגיות 188. 215.\nפרגנין 188.\nפרד 144.\nפרה 129.\nפרוא 182. 290.\nפרוחי 315.\nפרוטה 145.\nפריגין 188.\nפרידה 199.\nפרכדיגמא 119.\nפרכריגמא 118.\nפרס 167.\nפרעוש 327.\nפרפראות 188.\nפשפש 327.\nפשקא 96.\nפשקצא ſ. פושקנצא",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "פאפליון"
+    },
+    {
+     "lang": "deu",
+     "text": " 374.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פרה"
+    },
+    {
+     "lang": "deu",
+     "text": " 254.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פה דחאנה"
+    },
+    {
+     "lang": "deu",
+     "text": " 305.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פוטיחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 274.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פושקנצא"
+    },
+    {
+     "lang": "deu",
+     "text": " 172.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פחיא"
+    },
+    {
+     "lang": "deu",
+     "text": " 194.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פטרוזא"
+    },
+    {
+     "lang": "deu",
+     "text": " 119.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פטחא"
+    },
+    {
+     "lang": "deu",
+     "text": " 274.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פיל"
+    },
+    {
+     "lang": "deu",
+     "text": " 148. 288. 363.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פילא"
+    },
+    {
+     "lang": "deu",
+     "text": " 148.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פירון אנדרפטא"
+    },
+    {
+     "lang": "deu",
+     "text": " 161.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פלאי ביארי"
+    },
+    {
+     "lang": "deu",
+     "text": " 287.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פלגס"
+    },
+    {
+     "lang": "deu",
+     "text": " 118.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פלייה"
+    },
+    {
+     "lang": "deu",
+     "text": " 288.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פלמודא"
+    },
+    {
+     "lang": "deu",
+     "text": " 254.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פלמידא"
+    },
+    {
+     "lang": "deu",
+     "text": " 254.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פנתרין"
+    },
+    {
+     "lang": "deu",
+     "text": " 73.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פסיון"
+    },
+    {
+     "lang": "deu",
+     "text": " 213.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פסיואן"
+    },
+    {
+     "lang": "deu",
+     "text": " 213.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פרגיות"
+    },
+    {
+     "lang": "deu",
+     "text": " 188. 215.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פרגנין"
+    },
+    {
+     "lang": "deu",
+     "text": " 188.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פרד"
+    },
+    {
+     "lang": "deu",
+     "text": " 144.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פרה"
+    },
+    {
+     "lang": "deu",
+     "text": " 129.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פרוא"
+    },
+    {
+     "lang": "deu",
+     "text": " 182. 290.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פרוחי"
+    },
+    {
+     "lang": "deu",
+     "text": " 315.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פרוטה"
+    },
+    {
+     "lang": "deu",
+     "text": " 145.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פריגין"
+    },
+    {
+     "lang": "deu",
+     "text": " 188.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פרידה"
+    },
+    {
+     "lang": "deu",
+     "text": " 199.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פרכדיגמא"
+    },
+    {
+     "lang": "deu",
+     "text": " 119.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פרכריגמא"
+    },
+    {
+     "lang": "deu",
+     "text": " 118.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פרס"
+    },
+    {
+     "lang": "deu",
+     "text": " 167.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פרעוש"
+    },
+    {
+     "lang": "deu",
+     "text": " 327.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פרפראות"
+    },
+    {
+     "lang": "deu",
+     "text": " 188.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פשפש"
+    },
+    {
+     "lang": "deu",
+     "text": " 327.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פשקא"
+    },
+    {
+     "lang": "deu",
+     "text": " 96.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "פשקצא"
+    },
+    {
+     "lang": "deu",
+     "text": " ſ. "
+    },
+    {
+     "lang": "arc",
+     "text": "פושקנצא"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "heb",
+   "text": "צ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "צ."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "צב 230.\nצבי 111. 113.\nצבוע 76, 183.\nצבייה 111.\nצוצייני 204.\nצחנה 255. 262.\nצחתנא 256. 259. 262.\nציחין 262.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "צב"
+    },
+    {
+     "lang": "deu",
+     "text": " 230.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "צבי"
+    },
+    {
+     "lang": "deu",
+     "text": " 111. 113.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "צבוע"
+    },
+    {
+     "lang": "deu",
+     "text": " 76, 183.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "צבייה"
+    },
+    {
+     "lang": "deu",
+     "text": " 111.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "צוצייני"
+    },
+    {
+     "lang": "deu",
+     "text": " 204.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "צחנה"
+    },
+    {
+     "lang": "deu",
+     "text": " 255. 262.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "צחתנא"
+    },
+    {
+     "lang": "deu",
+     "text": " 256. 259. 262.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "ציחין"
+    },
+    {
+     "lang": "deu",
+     "text": " 262."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    1437,
+    5136
+   ],
+   [
+    1871,
+    5136
+   ]
+  ],
+  "input_tokens": 3383,
+  "output_tokens": 1976,
+  "cost_usd": 0.0099,
+  "seconds": 12.4
+ }
+}

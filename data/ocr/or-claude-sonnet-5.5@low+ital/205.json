@@ -1,0 +1,305 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Purzeltaube. — Die wilde Taube.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Purzeltaube. — Die wilde Taube."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "205",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "205"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 254.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 254."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Purzeltaube.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Purzeltaube."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 62, a wird gesagt, daß die Taube חסיל nicht an der\nStelle der חורין, wohl aber an der der בני יונה zum Opfer genommen\nwerden dürfe; demnach muß חסיל eine ganz kleine Taube sein. Hier\nsagt Raschi: חסיל ist eine Taubenart, dahingegen zu Chulin 140, b:\nחסיל ist ein Vogel, der Taube ähnlich und ist rein. — Indessen\ngeht aus der chaldäischen Paraphrase deutlich hervor, daß חסיל zur\nBezeichnung junger und kleiner Tauben diente. Jonathan übersetzt\nגמל (Gen. 15, 9) durch: חסילא בר יון, ebenso גוזליו (Deut 32, 11)\ndurch חסילוי; somit bezeichnet חסיל einerseits die junge Taube, ande-\nrerseits das Vogeljunge überhaupt, und so werden die abweichenden\nErklärungen Raschi's erklärlich. Ich vermuthe die sehr kleine Pur-\nzeltaube (Columba livia gyratrix), die wegen ihrer Kleinheit für\nבני יונה genommen werden konnte. — Landau übersetzt: Kropf-\ntaube; allein gerade diese Taube ist sehr groß, indem sie den\nKropf ungeheuer aufbläst, und an sich schon einen sehr großen Kropf\nhat (Blumenbach: Handb. der Naturg. S. 199). — Die חסיל\nbrütet zuweilen mit anderen Tauben gegenseitig ihre Eier (Chulin\n140, b), und schlürft beim Trinken derart das Wasser, daß sie es\nwieder abfließen läßt (מוצץ ומקיא, ibid. 62, b). Beachtenswerth ist\ndie Erklärung Samuels (Rabba batra 75, a) von ציצלא durch חאציל;\nletztres Wort scheint corrumpirt für חסיל zu stehen, und ציצלא be-\nzeichnet nach allen Commentaren einen kleinen Vogel, vergl. §. 252.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 62, a wird gesagt, daß die Taube "
+    },
+    {
+     "lang": "heb",
+     "text": "חסיל"
+    },
+    {
+     "lang": "deu",
+     "text": " nicht an der\nStelle der "
+    },
+    {
+     "lang": "heb",
+     "text": "חורין"
+    },
+    {
+     "lang": "deu",
+     "text": ", wohl aber an der der "
+    },
+    {
+     "lang": "heb",
+     "text": "בני יונה"
+    },
+    {
+     "lang": "deu",
+     "text": " zum Opfer genommen\nwerden dürfe; demnach muß "
+    },
+    {
+     "lang": "heb",
+     "text": "חסיל"
+    },
+    {
+     "lang": "deu",
+     "text": " eine ganz kleine Taube sein. Hier\nsagt Raschi: "
+    },
+    {
+     "lang": "heb",
+     "text": "חסיל"
+    },
+    {
+     "lang": "deu",
+     "text": " ist eine Taubenart, dahingegen zu Chulin 140, b:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "חסיל"
+    },
+    {
+     "lang": "deu",
+     "text": " ist ein Vogel, der Taube ähnlich und ist rein. — Indessen\ngeht aus der chaldäischen Paraphrase deutlich hervor, daß "
+    },
+    {
+     "lang": "heb",
+     "text": "חסיל"
+    },
+    {
+     "lang": "deu",
+     "text": " zur\nBezeichnung junger und kleiner Tauben diente. Jonathan übersetzt\n"
+    },
+    {
+     "lang": "heb",
+     "text": "גמל"
+    },
+    {
+     "lang": "deu",
+     "text": " (Gen. 15, 9) durch: "
+    },
+    {
+     "lang": "arc",
+     "text": "חסילא בר יון"
+    },
+    {
+     "lang": "deu",
+     "text": ", ebenso "
+    },
+    {
+     "lang": "heb",
+     "text": "גוזליו"
+    },
+    {
+     "lang": "deu",
+     "text": " (Deut 32, 11)\ndurch "
+    },
+    {
+     "lang": "arc",
+     "text": "חסילוי"
+    },
+    {
+     "lang": "deu",
+     "text": "; somit bezeichnet "
+    },
+    {
+     "lang": "heb",
+     "text": "חסיל"
+    },
+    {
+     "lang": "deu",
+     "text": " einerseits die junge Taube, ande-\nrerseits das Vogeljunge überhaupt, und so werden die abweichenden\nErklärungen Raschi's erklärlich. Ich vermuthe die sehr kleine Pur-\nzeltaube (Columba livia gyratrix), die wegen ihrer Kleinheit für\n"
+    },
+    {
+     "lang": "heb",
+     "text": "בני יונה"
+    },
+    {
+     "lang": "deu",
+     "text": " genommen werden konnte. — Landau übersetzt: Kropf-\ntaube; allein gerade diese Taube ist sehr groß, indem sie den\nKropf ungeheuer aufbläst, und an sich schon einen sehr großen Kropf\nhat (Blumenbach: Handb. der Naturg. S. 199). — Die "
+    },
+    {
+     "lang": "heb",
+     "text": "חסיל"
+    },
+    {
+     "lang": "deu",
+     "text": "\nbrütet zuweilen mit anderen Tauben gegenseitig ihre Eier (Chulin\n140, b), und schlürft beim Trinken derart das Wasser, daß sie es\nwieder abfließen läßt ("
+    },
+    {
+     "lang": "heb",
+     "text": "מוצץ ומקיא"
+    },
+    {
+     "lang": "deu",
+     "text": ", ibid. 62, b). Beachtenswerth ist\ndie Erklärung Samuels (Rabba batra 75, a) von "
+    },
+    {
+     "lang": "arc",
+     "text": "ציצלא"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "arc",
+     "text": "חאציל"
+    },
+    {
+     "lang": "deu",
+     "text": ";\nletztres Wort scheint corrumpirt für "
+    },
+    {
+     "lang": "heb",
+     "text": "חסיל"
+    },
+    {
+     "lang": "deu",
+     "text": " zu stehen, und "
+    },
+    {
+     "lang": "arc",
+     "text": "ציצלא"
+    },
+    {
+     "lang": "deu",
+     "text": " be-\nzeichnet nach allen Commentaren einen kleinen Vogel, vergl. §. 252."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 255.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 255."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die wilde Taube.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die wilde Taube."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Wir haben schon früher (§. 233) einer wilden Taube gedacht,\nwelche ihren Namen von ihrer Farbe führt und welche in Baum-\nlöchern lebt; hier behandeln wir die wilde Taube, welche in\nKlüften lebt. Es heißt nämlich Gittin 69, b, daß der Koth der\nחמימתא als Mittel gegen Schmerzen im Mastdarm gebraucht wurde.\nRaschi giebt zwei Erklärungen des Wortes. Er selbst erklärt es\ndurch Taube, sein Lehrer*) hingegen durch Henne. Die Er-\nklärung Raschi's ist die richtige, da die Taube auch im Arab. حَمَامَةٌ",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wir haben schon früher (§. 233) einer wilden Taube gedacht,\nwelche ihren Namen von ihrer Farbe führt und welche in Baum-\nlöchern lebt; hier behandeln wir die wilde Taube, welche in\nKlüften lebt. Es heißt nämlich Gittin 69, b, daß der Koth der\n"
+    },
+    {
+     "lang": "arc",
+     "text": "חמימתא"
+    },
+    {
+     "lang": "deu",
+     "text": " als Mittel gegen Schmerzen im Mastdarm gebraucht wurde.\nRaschi giebt zwei Erklärungen des Wortes. Er selbst erklärt es\ndurch Taube, sein Lehrer*) hingegen durch Henne. Die Er-\nklärung Raschi's ist die richtige, da die Taube auch im Arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "حَمَامَةٌ"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Ueber Raschi und seine Lehrer vergl. mein נפשות צדיקים S. 101 ff.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ueber Raschi und seine Lehrer vergl. mein "
+    },
+    {
+     "lang": "heb",
+     "text": "נפשות צדיקים"
+    },
+    {
+     "lang": "deu",
+     "text": " S. 101 ff."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2083
+   ],
+   [
+    3308,
+    2945
+   ]
+  ],
+  "input_tokens": 11329,
+  "output_tokens": 2030,
+  "cost_usd": 0.043,
+  "seconds": 12.2
+ }
+}

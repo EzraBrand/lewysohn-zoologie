@@ -1,0 +1,229 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die plattköpfige Otter.\n239",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die plattköpfige Otter.\n"
+    },
+    {
+     "lang": "deu",
+     "text": "239"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "von πρήτειν „verbrennen\", womit eine giftige Schlangenart bezeichnet\nwird. — Was aber dies für eine Schlange sein soll, läßt sich nicht\nmit Gewißheit bestimmen. Winer (R.-W. 2. Th. S. 413) sagt:\n„Welche Schlangenspecies aber in Num. und Deut. (in welchen von\nשרף die Rede ist) gemeint sei, ist unbestimmt und muß einer genauern\nNachforschung in der Wüste zu erörtern überlassen bleiben.\" — Bo-\nchart (Hieroz. 1, 1, 9. col. 68) meint, שרף sei der Χέρσυδρος, eine\nSchlange, die im Wasser ungiftig, aber auf dem Lande sehr giftig\nist; allein auch hier kann von Bestimmtheit nicht die Rede sein. —\nWir begnügen uns daher nur die von den talmudischen Commenta-\nren gemachten Angaben zu erwähnen. Raschi zu obiger Mischnastelle\n(vergl. auch Heller i. l.) erklärt das Zischen der Schlange durch שיפלא,\nSiffler, den pfeifenden Ton, wie man ihn zuweilen bei den Gänsen\n(§. 242) hört, und welchen diese durch die Nasenlöcher hervorbringen.\n— Bartenoro sagt: die Schlange שרף bringt einen brennend giftigen\nHauch aus dem Maule hervor. Dies wird namentlich von der Klap-\nperschlange und der Ringelnatter (§. 295) berichtet (Voigt l.\nc. 3. S. 54.); indeß mag der bibl. שרף von dem durch seinen Biß\nverursachten brennenden Schmerz seinen Namen haben. — Barte-\nnoro fügt noch hinzu, daß der שרף so furchtbar ist, daß er durch\nkeinen Zauber gebannt werden kann. — Die Geschicklichkeit der in-\ndischen Gaukler auch die wildesten Schlangen zu zähmen, hielt man\nfrüher für ein Werk des Zaubers.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "von "
+    },
+    {
+     "lang": "grc",
+     "text": "πρήτειν"
+    },
+    {
+     "lang": "deu",
+     "text": " „verbrennen\", womit eine giftige Schlangenart bezeichnet\nwird. — Was aber dies für eine Schlange sein soll, läßt sich nicht\nmit Gewißheit bestimmen. Winer (R.-W. 2. Th. S. 413) sagt:\n„Welche Schlangenspecies aber in Num. und Deut. (in welchen von\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שרף"
+    },
+    {
+     "lang": "deu",
+     "text": " die Rede ist) gemeint sei, ist unbestimmt und muß einer genauern\nNachforschung in der Wüste zu erörtern überlassen bleiben.\" — Bo-\nchart ("
+    },
+    {
+     "lang": "lat",
+     "text": "Hieroz."
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 1, 9. "
+    },
+    {
+     "lang": "lat",
+     "text": "col."
+    },
+    {
+     "lang": "deu",
+     "text": " 68) meint, "
+    },
+    {
+     "lang": "heb",
+     "text": "שרף"
+    },
+    {
+     "lang": "deu",
+     "text": " sei der "
+    },
+    {
+     "lang": "grc",
+     "text": "Χέρσυδρος"
+    },
+    {
+     "lang": "deu",
+     "text": ", eine\nSchlange, die im Wasser ungiftig, aber auf dem Lande sehr giftig\nist; allein auch hier kann von Bestimmtheit nicht die Rede sein. —\nWir begnügen uns daher nur die von den talmudischen Commenta-\nren gemachten Angaben zu erwähnen. Raschi zu obiger Mischnastelle\n(vergl. auch Heller i. l.) erklärt das Zischen der Schlange durch "
+    },
+    {
+     "lang": "heb",
+     "text": "שיפלא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nSiffler, den pfeifenden Ton, wie man ihn zuweilen bei den Gänsen\n(§. 242) hört, und welchen diese durch die Nasenlöcher hervorbringen.\n— Bartenoro sagt: die Schlange "
+    },
+    {
+     "lang": "heb",
+     "text": "שרף"
+    },
+    {
+     "lang": "deu",
+     "text": " bringt einen brennend giftigen\nHauch aus dem Maule hervor. Dies wird namentlich von der Klap-\nperschlange und der Ringelnatter (§. 295) berichtet (Voigt l.\nc. 3. S. 54.); indeß mag der bibl. "
+    },
+    {
+     "lang": "heb",
+     "text": "שרף"
+    },
+    {
+     "lang": "deu",
+     "text": " von dem durch seinen Biß\nverursachten brennenden Schmerz seinen Namen haben. — Barte-\nnoro fügt noch hinzu, daß der "
+    },
+    {
+     "lang": "heb",
+     "text": "שרף"
+    },
+    {
+     "lang": "deu",
+     "text": " so furchtbar ist, daß er durch\nkeinen Zauber gebannt werden kann. — Die Geschicklichkeit der in-\ndischen Gaukler auch die wildesten Schlangen zu zähmen, hielt man\nfrüher für ein Werk des Zaubers."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 297.\nDie plattköpfige Otter.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 297.\nDie plattköpfige Otter."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Das bibl. אפעה erklärt Bochart (angef. bei Winer R.-Wtb.\n2. S. 413) durch das arab. افعى, welches nach Avicenna eine Otter\nbezeichnet, die einen stumpfen Schwanz, einen dünnen Hals und einen\nplatten Kopf hat. — Von ihr sagt der Talmud, daß sie 70 Jahre\nträchtig gehe (Bechoroth 8, a und hierzu §. 17). — Mussaphia be-\nnennt die Otter auch אפא, dessen B. Kama 16, a gedacht wird, doch\nunrichtig, denn die dort erwähnten צבוע, אפא und נפרוזא sind Namen\nder Hyäne (§. 119). Mussaphia hält אפא für das gr. Ὄφις; es ist\naber mit אפעה gar nicht identisch, und bedeutet nicht Schlange.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das bibl. "
+    },
+    {
+     "lang": "heb",
+     "text": "אפעה"
+    },
+    {
+     "lang": "deu",
+     "text": " erklärt Bochart (angef. bei Winer R.-Wtb.\n2. S. 413) durch das arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "افعى"
+    },
+    {
+     "lang": "deu",
+     "text": ", welches nach Avicenna eine Otter\nbezeichnet, die einen stumpfen Schwanz, einen dünnen Hals und einen\nplatten Kopf hat. — Von ihr sagt der Talmud, daß sie 70 Jahre\nträchtig gehe (Bechoroth 8, a und hierzu §. 17). — Mussaphia be-\nnennt die Otter auch "
+    },
+    {
+     "lang": "heb",
+     "text": "אפא"
+    },
+    {
+     "lang": "deu",
+     "text": ", dessen B. Kama 16, a gedacht wird, doch\nunrichtig, denn die dort erwähnten "
+    },
+    {
+     "lang": "heb",
+     "text": "צבוע"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "אפא"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "heb",
+     "text": "נפרוזא"
+    },
+    {
+     "lang": "deu",
+     "text": " sind Namen\nder Hyäne (§. 119). Mussaphia hält "
+    },
+    {
+     "lang": "heb",
+     "text": "אפא"
+    },
+    {
+     "lang": "deu",
+     "text": " für das gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Ὄφις"
+    },
+    {
+     "lang": "deu",
+     "text": "; es ist\naber mit "
+    },
+    {
+     "lang": "heb",
+     "text": "אפעה"
+    },
+    {
+     "lang": "deu",
+     "text": " gar nicht identisch, und bedeutet nicht Schlange."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    3052
+   ],
+   [
+    3308,
+    2176
+   ]
+  ],
+  "input_tokens": 3360,
+  "output_tokens": 1759,
+  "cost_usd": 0.0091,
+  "seconds": 11.4
+ }
+}

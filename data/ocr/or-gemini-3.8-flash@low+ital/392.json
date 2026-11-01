@@ -1,0 +1,133 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "392 Deutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "392 Deutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "תולעתא .311\nתולעתא דסיסייא .375\nתולעתא דתורתא .375\nתור .129. 203. 355\nתורא דימא .270\nתורבלא .126. 127\nתורברא .126\nתורין של רחבה .204\nתורתא .129\nתושלמי .181\nתחזותא .162\nתחש .152\nתיישא רבא .123\nתיישה .123\nתימא .181\nתיש .123\nתכך דשיראי .321\nתכלא .321",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "תולעתא .311\nתולעתא דסיסייא .375\nתולעתא דתורתא .375\nתור .129. 203. 355\nתורא דימא .270\nתורבלא .126. 127\nתורברא .126\nתורין של רחבה .204\nתורתא .129\nתושלמי .181\nתחזותא .162\nתחש .152\nתיישא רבא .123\nתיישה .123\nתימא .181\nתיש .123\nתכך דשיראי .321\nתכלא .321"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "heb",
+   "text": "תלא אילן .95\nתלשמי .181\nתמא .181\nתמון .90\nתמון .90\nתמר .352\nתנין .241. 371\nתנים .241\nתנינים .150\nתנשמת .101. 102\nתסיל .205\nתעלא .77\nתרנגול .194\nתרנגול ברא .216\nתרנגולא דאגמא .179\nתרנגולתא דאגמא .179\nתרתק .140\nתשה .115",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "תלא אילן .95\nתלשמי .181\nתמא .181\nתמון .90\nתמון .90\nתמר .352\nתנין .241. 371\nתנים .241\nתנינים .150\nתנשמת .101. 102\nתסיל .205\nתעלא .77\nתרנגול .194\nתרנגול ברא .216\nתרנגולא דאגמא .179\nתרנגולתא דאגמא .179\nתרתק .140\nתשה .115"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "IV. Deutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "IV. Deutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "A.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "A."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Aal 264.\nAbendfalter 287.\nAdler 165.\nAeneas, surinamischer 290.\nAepfelmade 337.\nAffe 66.\nAlligator 222.\nAlligatorschildkröte 374.\nAmeise 328.\nAmeise, große 330.\nAmeise, weiße 331.\nAmeisenlöwe 315.\nAntilope 114.\nArgali 122.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Aal 264.\nAbendfalter 287.\nAdler 165.\nAeneas, surinamischer 290.\nAepfelmade 337.\nAffe 66.\nAlligator 222.\nAlligatorschildkröte 374.\nAmeise 328.\nAmeise, große 330.\nAmeise, weiße 331.\nAmeisenlöwe 315.\nAntilope 114.\nArgali 122."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Askaride 339.\nAuerhahn 216.\nAuerochs 127.\nAuster 285.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Askaride 339.\nAuerhahn 216.\nAuerochs 127.\nAuster 285."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "B.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "B."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Bachstelze 214.\nBär 99.\nBaizvogel 165.\nBandwurm 340.\nBar 265.\nBarris 64.\nBarsch 263.\nBartgeier 67.\nBasilisk 76. 358. 374.\nBaumkäfer 307.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bachstelze 214.\nBär 99.\nBaizvogel 165.\nBandwurm 340.\nBar 265.\nBarris 64.\nBarsch 263.\nBartgeier 67.\nBasilisk 76. 358. 374.\nBaumkäfer 307."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2832,
+    2184
+   ],
+   [
+    2832,
+    3036
+   ]
+  ],
+  "input_tokens": 3355,
+  "output_tokens": 1119,
+  "cost_usd": 0.0067,
+  "seconds": 7.6
+ }
+}

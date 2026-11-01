@@ -1,0 +1,213 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "246",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "246"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Fische.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fische."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "rund. Man bemerkt dieses bei vielen bekannten Flußfischen, wie da\ndie Pupille nach dem Maul zu etwas spitz ausläuft, und dies wird\nwohl der Talmud gemeint haben. Er sagt nämlich: Die Pupille\n(אוכמא, was Raschi durch שבעין אוכמא „Schwarze des Auges“ erwei-\ntert) ist bei den Fischen nicht so rund wie bei den Menschen. — Das\nAuge hat eine Fettmasse, die man ausschmelzen kann (Sebachim\n22, a). Die Kehle des Fisches (woran er geangelt wird), heißt:\nגרון (Rabba Bereschit fol. 108, c); über die Benennung der Wir-\nbelsäule des Fisches s. S. 18 Anm. — Von den Ohren heißt\nes, daß sie nur solange roth bleiben, so lange der Fisch frisch ist;\nüberhaupt hielt man das Roth unter den Kiemendeckeln als das sichere\nZeichen für das Frischsein der gefangenen Fische (Beza 24, b). —\nVon dem Boniten wird bemerkt, daß er einen großen Bauch hat,\nwas von der großen Galle herrührt; vergl. §. 322. —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "rund. Man bemerkt dieses bei vielen bekannten Flußfischen, wie da\ndie Pupille nach dem Maul zu etwas spitz ausläuft, und dies wird\nwohl der Talmud gemeint haben. Er sagt nämlich: Die Pupille\n("
+    },
+    {
+     "lang": "arc",
+     "text": "אוכמא"
+    },
+    {
+     "lang": "deu",
+     "text": ", was Raschi durch "
+    },
+    {
+     "lang": "arc",
+     "text": "שבעין אוכמא"
+    },
+    {
+     "lang": "deu",
+     "text": " „Schwarze des Auges“ erwei-\ntert) ist bei den Fischen nicht so rund wie bei den Menschen. — Das\nAuge hat eine Fettmasse, die man ausschmelzen kann (Sebachim\n22, a). Die Kehle des Fisches (woran er geangelt wird), heißt:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "גרון"
+    },
+    {
+     "lang": "deu",
+     "text": " (Rabba Bereschit fol. 108, c); über die Benennung der Wir-\nbelsäule des Fisches s. S. 18 Anm. — Von den Ohren heißt\nes, daß sie nur solange roth bleiben, so lange der Fisch frisch ist;\nüberhaupt hielt man das Roth unter den Kiemendeckeln als das sichere\nZeichen für das Frischsein der gefangenen Fische (Beza 24, b). —\nVon dem Boniten wird bemerkt, daß er einen großen Bauch hat,\nwas von der großen Galle herrührt; vergl. §. 322. —"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 306.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 306."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Schuppen (קשקשת Chulin 66, a und קילפי Succah 18, a;\ndie kleinen Schuppen heißen צימחי A. Sara 39, a; vergl. noch §. 77)\nsitzen derart fest im Fleische, daß sie der Fisch nicht willkürlich be-\nwegen kann, was er hingegen wohl mit den Flossen (סנפיר Chu-\nlin 66, a und שיעצי B. batra 73, b) vermag. Er bedient sich der letz-\nteren zum Schwimmen und kann durch deren Anschlagen an den Kör-\nper Geräusch verursachen (לכשכשן, Raschi Chulin ibid.). — Samuel\nsagt (zu B. batra ibid.): Alle Meerfische haben nur eine Rücken-\nflosse, und zwar in der Mitte des Rückens, nur der Fisch Gildane\n(§. 352) habe zwei Rückenflossen. Diese Angabe darf nicht allgemein\ngenommen werden, denn der Haifisch hat zwei und der Stockfisch\ndrei Rückenflossen. — Die Haut (קרום, Chulin 112, b und עור, Kelim\n10, 1) ist dünn und porös, so daß der Fleischsaft des zerschnittenen\nFisches die Haut durchdringen kann (Chulin ibid.), doch auch fähig,\ndaß man auf sie schreiben kann, wobei es aber nicht bestimmt wird,\ndaß die Haut derart trocken werden kann, daß sie niemals eine Feuch-\ntigkeit absondern könne (Sabbat 108, a). — Das Fett ist (nament-\nlich bei den reinen Fischen) klar (קליר, clair) wie ein Spiegel (מירדוייר,\nMiroir), so daß man leicht fremde Gegenstände, wie Rohrsplitter, mit\ndenen man das Fett geschnitten, erkennen kann (Chulin 16, b). Das\nFett, wie auch die inneren Fischtheile heißen gemeinsam קירבי דגים;\nso viel wie Intestina, während שומן הדג, oder richtiger שמן הדג der",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Schuppen ("
+    },
+    {
+     "lang": "heb",
+     "text": "קשקשת"
+    },
+    {
+     "lang": "deu",
+     "text": " Chulin 66, a und "
+    },
+    {
+     "lang": "heb",
+     "text": "קילפי"
+    },
+    {
+     "lang": "deu",
+     "text": " Succah 18, a;\ndie kleinen Schuppen heißen "
+    },
+    {
+     "lang": "heb",
+     "text": "צימחי"
+    },
+    {
+     "lang": "deu",
+     "text": " A. Sara 39, a; vergl. noch §. 77)\nsitzen derart fest im Fleische, daß sie der Fisch nicht willkürlich be-\nwegen kann, was er hingegen wohl mit den Flossen ("
+    },
+    {
+     "lang": "heb",
+     "text": "סנפיר"
+    },
+    {
+     "lang": "deu",
+     "text": " Chu-\nlin 66, a und "
+    },
+    {
+     "lang": "heb",
+     "text": "שיעצי"
+    },
+    {
+     "lang": "deu",
+     "text": " B. batra 73, b) vermag. Er bedient sich der letz-\nteren zum Schwimmen und kann durch deren Anschlagen an den Kör-\nper Geräusch verursachen ("
+    },
+    {
+     "lang": "heb",
+     "text": "לכשכשן"
+    },
+    {
+     "lang": "deu",
+     "text": ", Raschi Chulin ibid.). — Samuel\nsagt (zu B. batra ibid.): Alle Meerfische haben nur eine Rücken-\nflosse, und zwar in der Mitte des Rückens, nur der Fisch Gildane\n(§. 352) habe zwei Rückenflossen. Diese Angabe darf nicht allgemein\ngenommen werden, denn der Haifisch hat zwei und der Stockfisch\ndrei Rückenflossen. — Die Haut ("
+    },
+    {
+     "lang": "heb",
+     "text": "קרום"
+    },
+    {
+     "lang": "deu",
+     "text": ", Chulin 112, b und "
+    },
+    {
+     "lang": "heb",
+     "text": "עור"
+    },
+    {
+     "lang": "deu",
+     "text": ", Kelim\n10, 1) ist dünn und porös, so daß der Fleischsaft des zerschnittenen\nFisches die Haut durchdringen kann (Chulin ibid.), doch auch fähig,\ndaß man auf sie schreiben kann, wobei es aber nicht bestimmt wird,\ndaß die Haut derart trocken werden kann, daß sie niemals eine Feuch-\ntigkeit absondern könne (Sabbat 108, a). — Das Fett ist (nament-\nlich bei den reinen Fischen) klar ("
+    },
+    {
+     "lang": "heb",
+     "text": "קליר"
+    },
+    {
+     "lang": "deu",
+     "text": ", clair) wie ein Spiegel ("
+    },
+    {
+     "lang": "heb",
+     "text": "מירדוייר"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nMiroir), so daß man leicht fremde Gegenstände, wie Rohrsplitter, mit\ndenen man das Fett geschnitten, erkennen kann (Chulin 16, b). Das\nFett, wie auch die inneren Fischtheile heißen gemeinsam "
+    },
+    {
+     "lang": "heb",
+     "text": "קירבי דגים"
+    },
+    {
+     "lang": "deu",
+     "text": ";\nso viel wie Intestina, während "
+    },
+    {
+     "lang": "heb",
+     "text": "שומן הדג"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder richtiger "
+    },
+    {
+     "lang": "heb",
+     "text": "שמן הדג"
+    },
+    {
+     "lang": "deu",
+     "text": " der"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2020
+   ],
+   [
+    3308,
+    3032
+   ]
+  ],
+  "input_tokens": 11358,
+  "output_tokens": 1865,
+  "cost_usd": 0.0414,
+  "seconds": 11.4
+ }
+}

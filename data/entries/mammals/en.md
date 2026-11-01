@@ -1,4 +1,4 @@
-# Second part, first class: Mammals (pp. 64–158)
+# Second part, first class: Mammals (pp. 64–159)
 
 ### ‎Part Two. Special Zoology.
 
@@ -512,7 +512,7 @@
 
 ### ‎The Field Mouse.
 
-‎עכבר (M. Katan 6b). In a dry year field mice are at times extraordinarily numerous and very harmful to the fields. To fields planted with trees they are even more so than to sown fields, which is why on the intermediate festival days it was permitted to exterminate the mice on the former in the ordinary manner, on the latter in an unusual manner. The ordinary manner consisted in trapping, by digging hollows in which traps were set. The unusual manner consisted in ramming a spit or pole into the mouse holes (M. Katan 7a). The dwelling of field mice has, namely, two tunnels, one for entrance, another for exit (Voigt l. c. 1, p. 358); one therefore sought to destroy these dwellings and if possible to kill the mice. See, however, Tur and Sch. Ar. Orach Chajim §. 537, 13, where the manner of trapping is explained differently.
+‎עכבר (M. Katan 6b). In a dry year field mice are at times extraordinarily numerous and very harmful to the fields. To fields planted with trees they are even more so than to sown fields, which is why on the intermediate festival days it was permitted to exterminate the mice on the former in the ordinary manner, on the latter in an unusual manner. The ordinary manner consisted in trapping, by digging hollows in which traps were set. The unusual manner consisted in ramming a spit or pole into the mouse holes (M. Katan 7a). The dwelling of field mice has, namely, two tunnels, one for entrance, another for exit (Voigt l. c. 1, p. 358); one therefore sought to destroy these dwellings and if possible to kill the mice. See, however, Tur and Sch. Ar. [=Shulchan Aruch] Orach Chajim §. 537, 13, where the manner of trapping is explained differently.
 
 ‎In the Jerusalem Talmud (B. mez. 9b) it says: “The wicked mice (עכברייא רשיעיא; cf. on this expression Horajoth 13a), as soon as they see much produce, call their companions and devour it together”; that expression עכבר רשיעא probably underlies the formation of the Judeo-German word “Achborisch.”
 
@@ -946,7 +946,7 @@
 
 ‎Because of its fifth quality the horse (rather than the ox) was driven out to the meadow (Sanhedrin 105b), though admittedly it had also found hospitable reception at the manger (מנייטורה, Italian Mangiatora) (M. Katan 10b); regarding its sixth quality, let it be remarked that undigested barley is frequently observed in the excrement of the horse, which the Talmud (Ketuboth 66b) had in mind when it reports that out of hunger a girl of Jerusalem picked barley out of the excrement of the cattle of the Arabs, and by this (ibid. 67a) the horse is expressly understood; finally, as concerns the last-mentioned quality, it is well known how both the riding horse and the draught horse must be kept in the track of the road by the [p. 138] bridle, since otherwise it readily veers to the side.
 
-‎With reference to the biblical passage Zech. 1, 8, the Talmud mentions red horses (chestnuts, which occur most frequently, Bartenoro on Bechoroth 1, 2), yellow ones (שרוקים, duns, see Rosenmüller biblical Alterth. vol. 4, Abth. 2, p. 28) and white ones (greys, Sanhedrin 93a). A favourite adornment of the white horse was a red bridle (Chagiga 9b); the white horse is also an auspicious apparition in a dream (Sanhedrin ibid.).
+‎With reference to the biblical passage Zech. 1, 8, the Talmud mentions red horses (chestnuts, which occur most frequently, Bartenoro on Bechoroth 1, 2), yellow ones (שרוקים, duns, see Rosenmüller biblical Alterth. [=E. F. K. Rosenmüller, Handbuch der biblischen Alterthumskunde (Leipzig 1823–31)] vol. 4, Abth. 2, p. 28) and white ones (greys, Sanhedrin 93a). A favourite adornment of the white horse was a red bridle (Chagiga 9b); the white horse is also an auspicious apparition in a dream (Sanhedrin ibid.).
 
 ‎In general the horse is one of the most useful domestic animals. "Do not live in a city in which one does not hear the neighing of the horse!" is recommended in one passage (Pesachim 113a), and its uses are manifold. Together with birds of prey such as the hawk, the falcon, etc., it serves for fowling (Sabbat 94a); from the manes and the tail hairs blankets were made (Raschi, Succa 20b). Non-Israelites also ate its flesh (Schekalim 12, col. 2); above all, however, it served for riding (Bechoroth 2a). Accordingly much effort and expense were devoted to the breeding of the horse; a master of the stable was kept specially for this purpose (Sabbat 113b), it was curried (M. katan 10b), and its hooves were frequently trimmed so that it would feel no pain when walking, since otherwise the hoof becomes injured and the horse is hindered from a sure gait (ibid. 10a). From this it follows that the Talmud, whose nursery was Asian soil, did not yet know the shoeing of hooves with iron. According to Bracy Clarke this dates from the 6th century, and although the Talmud received its final completion only in the middle of the 8th century in the school of the Suranic Gaon R. Jehuda b. Nachman, it is nevertheless to be assumed that the European invention of horseshoeing had not yet become known in Asia at that time. Striking, on the other hand, are the words of Raschi's commentary on the above Talmud passage; they read: כדרך שעושין עכשיו לסוסים שלנו "as we are accustomed to do with our horses"; thus the practice of shoeing must not yet have been general even in the time of that commentator. As Jacob Reifmann has shown (in Frankel's Monatsschrift für Ges. u. Wissensch. des Judenth. [=Monatsschrift für Geschichte und Wissenschaft des Judenthums, ed. Zacharias Frankel (Dresden, from 1851)] 1854, p. 229), this commentary belongs not to Raschi but to the older R. Gerson b. Jehuda. (I gave further proofs against Raschi's authorship of that commentary in the Univers israélite vol. 10, p. 31).
 
@@ -1178,7 +1178,11 @@
 
 ### ‎The Cachalot.
 
-‎This cetacean, which is also called the sperm whale, is not, it is true, expressly named in the Talmud; yet, just as of the musk deer only the musk is mentioned (§. 150), so too of the cachalot only ambergris is mentioned, provided that the explanation of the Aruch were the more correct one among the divergent explanations, which, however, is highly questionable. Keritot 6a enumerates the species of which the incense in the Temple consisted. Among these a little of the כיפת הירדן was also taken, a species that is explained in various ways. Raschi considers it a kind of herb growing on the bank of the Jordan*); Aruch has two explanations, according to which that species is either a fragrant plant or ambergris. The explanation reads: רעי של דג הגדל בירדן והוא עמברא. Should these words have the meaning: “Excrement of the great fish in the Jordan, namely the
+‎This whale, which is also called the sperm whale, is admittedly not expressly named in the Talmud; yet, just as only the musk of the musk deer is mentioned (§. 150), so too only the ambergris of the cachalot is mentioned, provided that the explanation of the Aruch, among the divergent explanations, is the more correct one, which, however, is highly questionable. Keritot 6a enumerates the species of which the incense in the Temple consisted. Of these, a little was also taken from the כיפת הירדן, a species that is explained in various ways. Rashi takes it to be a kind of herb growing on the bank of the Jordan*); the Aruch has two explanations, according to which that species is either a fragrant plant or ambergris. The explanation reads: רעי של דג הגדל בירדן והוא עמברא. Should these words mean "excrement of the great fish in the Jordan, namely [p. 159] ambergris", the explanation would be improbable for this reason alone, since the cachalot grows 70—80 feet long and therefore cannot be present in the Jordan; it is found in almost all seas and is occasionally driven onto coasts. If, however, the words דג הגדל בירדן mean "the fish growing in the Jordan", then it cannot be true ambergris, and the explanation would be all the less satisfactory.
+
+‎As for ambergris itself, it has until now, as Voigt (l. c, 1, p. 467) says, been considered a morbid accumulation of excrement*); Blainville (in the Journal de Pharmacie, May 1832, p. 246), however, has voiced the conjecture that it is a secretion in special sacs, like that of the beaver or of the musk deer, in the region of the anus. The error of regarding ambergris as excrement arose from the fact that cuttlefish beaks are found in it; yet it could have been voided by the animal together with the excrement.
+
+‎On the operculum (ציפורן), which likewise belonged to the incense in the Temple, compare the appendix §. 513.
 
 ---
 
@@ -1421,3 +1425,7 @@
 *p. 158*
 
 ‎*) On the etymology of the name ירדן see my Aphorisms in the L. Bl. d. Orients 1849 col. 391.  
+
+*p. 159*
+
+‎*) And so כיפת may be related to כופיתא (§. 96).  

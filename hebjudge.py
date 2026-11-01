@@ -118,7 +118,7 @@ def main():
     # worker of the same mode has decided (all files re-read before each flag)
     p.add_argument("--reverse", action="store_true", help="work from the last flag back")
     p.add_argument("--start", type=int, default=0, help="begin at this flag index")
-    p.add_argument("--suffix", default="", help="output file suffix for an extra worker, e.g. 2")
+    p.add_argument("--suffix", default="", help="output file suffix for an extra worker: text _w2, image 2")
     p.add_argument("--only-ties", action="store_true",
                    help="image mode: skip flags where the text judge agrees with Flash (2 of 3 already)")
     a = p.parse_args()
@@ -138,9 +138,10 @@ def main():
 
     todo = [r for r in rows if r["kind"] in ("replace", "insert", "delete") and r["main"]][a.start:]
     if a.only_ties:
-        text_file = DATA / "hebfix" / f"{a.first}-{a.last}.json"
+        rng = f"{a.first}-{a.last}"
         text = {(d["page"], d["line"], d["main"]): d["printed"]
-                for d in json.loads(text_file.read_text(encoding="utf-8"))["items"]}
+                for f in [DATA / "hebfix" / f"{rng}.json", *sorted((DATA / "hebfix").glob(f"{rng}_w*.json"))]
+                for d in json.loads(f.read_text(encoding="utf-8"))["items"]}
         todo = [r for r in todo if text.get((int(r["page"]), r["line"], r["main"])) != r["check"]]
         print(f"{len(todo)} flags where the text judge does not agree with Flash", flush=True)
     if a.reverse:

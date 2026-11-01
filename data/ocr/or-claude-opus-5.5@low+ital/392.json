@@ -1,0 +1,393 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "392 Deutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "392 Deutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "תולעתא 311.\nתולעתא דסיסייא 375.\nתולעתא דתורתא 375.\nתור 129. 203. 355.\nתורא דימא 270.\nתורבלא 126. 127.\nתורברא 126.\nתורין של רחבה 204.\nתורתא 129.\nתושלמי 181.\nתחוותא 162.\nתחש 152.\nתיישא רבא 123.\nתיישה 123.\nתימא 181.\nתיש 123.\nתכך דשיראי 321.\nתכלא 321.\nתלא אילן 95.\nתלשמי 181.\nתמא 181.\nתמוון 90.\nתמון 90.\nתמר 352.\nתנין 241. 371.\nתנים 241.\nתנינים 150.\nתנשמת 101. 102.\nתסיל 205.\nתעלא 77.\nתרנגול 194.\nתרנגול ברא 216.\nתרנגולא דאגמא 179.\nתרנגולתא דאגמא 179.\nתרחק 140.\nתשה 115.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "תולעתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 311.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תולעתא דסיסייא"
+    },
+    {
+     "lang": "deu",
+     "text": " 375.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תולעתא דתורתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 375.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תור"
+    },
+    {
+     "lang": "deu",
+     "text": " 129. 203. 355.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תורא דימא"
+    },
+    {
+     "lang": "deu",
+     "text": " 270.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תורבלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 126. 127.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תורברא"
+    },
+    {
+     "lang": "deu",
+     "text": " 126.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תורין של רחבה"
+    },
+    {
+     "lang": "deu",
+     "text": " 204.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תורתא"
+    },
+    {
+     "lang": "deu",
+     "text": " 129.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תושלמי"
+    },
+    {
+     "lang": "deu",
+     "text": " 181.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תחוותא"
+    },
+    {
+     "lang": "deu",
+     "text": " 162.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תחש"
+    },
+    {
+     "lang": "deu",
+     "text": " 152.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תיישא רבא"
+    },
+    {
+     "lang": "deu",
+     "text": " 123.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תיישה"
+    },
+    {
+     "lang": "deu",
+     "text": " 123.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תימא"
+    },
+    {
+     "lang": "deu",
+     "text": " 181.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תיש"
+    },
+    {
+     "lang": "deu",
+     "text": " 123.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תכך דשיראי"
+    },
+    {
+     "lang": "deu",
+     "text": " 321.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תכלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 321.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תלא אילן"
+    },
+    {
+     "lang": "deu",
+     "text": " 95.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תלשמי"
+    },
+    {
+     "lang": "deu",
+     "text": " 181.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תמא"
+    },
+    {
+     "lang": "deu",
+     "text": " 181.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תמוון"
+    },
+    {
+     "lang": "deu",
+     "text": " 90.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תמון"
+    },
+    {
+     "lang": "deu",
+     "text": " 90.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תמר"
+    },
+    {
+     "lang": "deu",
+     "text": " 352.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תנין"
+    },
+    {
+     "lang": "deu",
+     "text": " 241. 371.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תנים"
+    },
+    {
+     "lang": "deu",
+     "text": " 241.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תנינים"
+    },
+    {
+     "lang": "deu",
+     "text": " 150.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תנשמת"
+    },
+    {
+     "lang": "deu",
+     "text": " 101. 102.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תסיל"
+    },
+    {
+     "lang": "deu",
+     "text": " 205.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תעלא"
+    },
+    {
+     "lang": "deu",
+     "text": " 77.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תרנגול"
+    },
+    {
+     "lang": "deu",
+     "text": " 194.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תרנגול ברא"
+    },
+    {
+     "lang": "deu",
+     "text": " 216.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תרנגולא דאגמא"
+    },
+    {
+     "lang": "deu",
+     "text": " 179.\n"
+    },
+    {
+     "lang": "arc",
+     "text": "תרנגולתא דאגמא"
+    },
+    {
+     "lang": "deu",
+     "text": " 179.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תרחק"
+    },
+    {
+     "lang": "deu",
+     "text": " 140.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "תשה"
+    },
+    {
+     "lang": "deu",
+     "text": " 115."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "IV. Deutsches Register.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "IV. Deutsches Register."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "A.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "A."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Aal 264.\nAbendfalter 287.\nAdler 165.\nAeneas, surinamischer 290.\nAepfelmade 337.\nAffe 66.\nAlligator 222.\nAlligatorschildkröte 374.\nAmeise 328.\nAmeise, große 330.\nAmeise, weiße 331.\nAmeisenlöwe 315.\nAntilope 114.\nArgali 122.\nAskaride 339.\nAuerhahn 216.\nAuerochs 127.\nAuster 285.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Aal 264.\nAbendfalter 287.\nAdler 165.\nAeneas, surinamischer 290.\nAepfelmade 337.\nAffe 66.\nAlligator 222.\nAlligatorschildkröte 374.\nAmeise 328.\nAmeise, große 330.\nAmeise, weiße 331.\nAmeisenlöwe 315.\nAntilope 114.\nArgali 122.\nAskaride 339.\nAuerhahn 216.\nAuerochs 127.\nAuster 285."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "B.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "B."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Bachstelze 214.\nBär 99.\nBaizvogel 165.\nBandwurm 340.\nBar 265.\nBarris 64.\nBarsch 263.\nBartgeier 67.\nBasilisk 76. 358. 374.\nBaumkäfer 307.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bachstelze 214.\nBär 99.\nBaizvogel 165.\nBandwurm 340.\nBar 265.\nBarris 64.\nBarsch 263.\nBartgeier 67.\nBasilisk 76. 358. 374.\nBaumkäfer 307."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2832,
+    2184
+   ],
+   [
+    2832,
+    3036
+   ]
+  ],
+  "input_tokens": 11369,
+  "output_tokens": 1925,
+  "cost_usd": 0.084,
+  "seconds": 23.7
+ }
+}

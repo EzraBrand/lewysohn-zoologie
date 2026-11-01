@@ -32,8 +32,28 @@ DOCS = [
     {"slug": "part1", "kind": "entry", "entry": "part1", "pages": ["scan0015", *range(2, 64)],
      "title": "First part: General zoology",
      "sub": "pp. 1–63 · living beings, reproduction, the senses, anatomy, illness and death of animals"},
-    {"slug": "mammals", "kind": "entry", "entry": "mammals", "pages": list(range(64, 159)),
-     "title": "Second part, first class: Mammals", "sub": "pp. 64–158 · from the ape to the whale"},
+    {"slug": "mammals", "kind": "entry", "entry": "mammals", "pages": list(range(64, 160)),
+     "title": "Second part, first class: Mammals", "sub": "pp. 64–159 · §§ 111–181 · from the ape to the whale"},
+    {"slug": "birds", "kind": "entry", "entry": "birds", "pages": list(range(159, 219)),
+     "title": "Second class: Birds", "sub": "pp. 159–217 · §§ 182–267 · the unclean birds, birds of prey, domestic fowl, songbirds"},
+    {"slug": "amphibians", "kind": "entry", "entry": "amphibians", "pages": list(range(218, 244)),
+     "title": "Third class: Amphibians", "sub": "pp. 218–243 · §§ 268–302 · crocodile, lizards, frog, tortoise, snakes"},
+    {"slug": "fish", "kind": "entry", "entry": "fish", "pages": list(range(243, 280)),
+     "title": "Fourth class: Fish", "sub": "pp. 243–279 · §§ 303–360 · tuna, herring, eel, sturgeon and others"},
+    {"slug": "molluscs", "kind": "entry", "entry": "molluscs", "pages": list(range(279, 286)),
+     "title": "Fifth class: Molluscs", "sub": "pp. 279–285 · §§ 361–370 · snails, the purple snail, mussel, cuttlefish"},
+    {"slug": "insects", "kind": "entry", "entry": "insects", "pages": list(range(285, 335)),
+     "title": "Sixth class: Insects", "sub": "pp. 285–334 · §§ 371–459 · locusts, bees, ants, flies, lice and others"},
+    {"slug": "worms", "kind": "entry", "entry": "worms", "pages": list(range(334, 343)),
+     "title": "Seventh class: Worms", "sub": "pp. 334–342 · §§ 460–488 · leech, maggots, intestinal worms"},
+    {"slug": "zoophytes", "kind": "entry", "entry": "zoophytes", "pages": list(range(342, 351)),
+     "title": "Eighth class: Zoophytes", "sub": "pp. 342–350 · §§ 489–497 · sponges, coral, pearl mussel, kermes"},
+    {"slug": "fabulous", "kind": "entry", "entry": "fabulous", "pages": list(range(350, 359)),
+     "title": "Third part: Fabulous animals", "sub": "pp. 350–358 · §§ 498–508 · shamir, phoenix, Behemoth, Leviathan"},
+    {"slug": "addenda", "kind": "entry", "entry": "addenda", "pages": list(range(358, 377)),
+     "title": "Supplement, appendix, additions and corrections", "sub": "pp. 358–376 · §§ 509–522 and the appendix of further names"},
+    {"slug": "registers", "kind": "entry", "entry": "registers", "pages": list(range(377, 401)),
+     "title": "Registers", "sub": "pp. 377–400 · I Greek, II Latin, III Hebrew and Aramaic, IV German", "contents": True},
     {"slug": "lion-tiger", "kind": "entry", "entry": "lion-tiger", "pages": [68, 69, 70, 71],
      "title": "The lion, the tiger (test entry)",
      "sub": "§§ 114–115 · pp. 68–71 · the first entry done, with the two hand-checked pages; also in Mammals"},
@@ -214,7 +234,7 @@ def header(active: str) -> str:
             '<option value="">Auto</option><option value="light">Light</option><option value="paper">Paper</option>'
             '<option value="dark">Dark</option></select></label>')
     return (f'<header class="site"><a class="brand" href="index.html">Lewysohn, <i>Zoologie des Talmuds</i> '
-            f'<span>· reading edition (test)</span></a><nav>{nav}</nav></header>')
+            f'<span>· reading edition</span></a><nav>{nav}</nav></header>')
 
 
 CN_TOGGLE = '<label><input type="checkbox" data-toggle="show-cn" checked> Common names</label>'
@@ -377,16 +397,17 @@ def index_html() -> str:
 <h1>Ludwig Lewysohn, <i>Die Zoologie des Talmuds</i></h1>
 <p class="lede">Frankfurt am Main, 1858: the first systematic collection of the Talmudic and
 Midrashic material on animals, in German (set in Fraktur) with Hebrew, Aramaic, Greek and Latin.
-This is a test reading edition: machine transcription and English translation of a few pages,
-made to see what current tools can do. The companion project for plants is
+This reading edition has the whole book, pp. 1–400 and the front matter, in a machine
+transcription and English translation, made to see what current tools can do. The companion project for plants is
 <a href="https://ezrabrand.github.io/low-flora/">Löw, <i>Die Flora der Juden</i></a>.</p>
 <p class="lede"><b>New:</b> <a href="{FACTCHECK}">Talmud zoology fact-check</a>, the Talmud's statements
 on animals (and Lewysohn's comments on them) checked against modern zoology, with links to the §§ here.</p>
 <ul class="docs">{items}</ul>
 <h2>What this is</h2>
 <ul class="plain">
-<li>The transcription and the translation are machine output (Claude Opus 5.5). Two pages
-(pp. 68 and 70) were checked by hand.</li>
+<li>The transcription and the translation are machine output (transcription: Claude Opus 5.5
+and, from p. 64 on, Sonnet 5.5; Hebrew read a second time and corrected by a vote of three
+checks; translation: Opus 5.5). Two pages (pp. 68 and 70) were checked by hand.</li>
 <li>The book has no list of abbreviations. They are expanded from a table built from the text and
 reviewed by hand (<a href="abbreviations.html">table</a>); “guess” marks an expansion that is not
 certain.</li>

@@ -19,21 +19,28 @@ Lewysohn's comments on them, against modern zoology, with links to the §§ of t
 **§ links:** each § in the reading edition has a fixed anchor, `#s` + its number
 (`mammals.html#s119` for § 119), and each page opens with a collapsible list of its §§.
 
-**In English so far:** the [front matter](data/entries/front/en.md), the [preface](data/entries/preface/en.md),
-the [contents](data/entries/toc/en.md), the [first part, General zoology](data/entries/part1/en.md)
-(pp. 1–63) and the [mammals](data/entries/mammals/en.md) (pp. 64–158): 166 of the 400 text pages.
+**In English: the whole book** (01-Nov-2026): the [front matter](data/entries/front/en.md), the
+[preface](data/entries/preface/en.md), the [contents](data/entries/toc/en.md), the
+[first part, General zoology](data/entries/part1/en.md) (pp. 1–63), the eight classes of the second
+part ([mammals](data/entries/mammals/en.md), [birds](data/entries/birds/en.md),
+[amphibians](data/entries/amphibians/en.md), [fish](data/entries/fish/en.md),
+[molluscs](data/entries/molluscs/en.md), [insects](data/entries/insects/en.md),
+[worms](data/entries/worms/en.md), [zoophytes](data/entries/zoophytes/en.md)), the
+[fabulous animals](data/entries/fabulous/en.md), the [supplement, appendix and corrections](data/entries/addenda/en.md)
+and the [registers](data/entries/registers/en.md) (pp. 377–400).
 
-## Status (31-Oct-2026)
+## Status (01-Nov-2026)
 
 | Part | Pages | OCR | Hebrew check | Translation |
 |---|---|---|---|---|
 | Front matter, preface, contents | 4 + VII–XII + 1 | Opus 5.5 | read by eye | done |
 | First part: General zoology | 1–63 | Opus 5.5 | Flash + vote: 50 changes | done ($2.02) |
-| Second part, class 1: Mammals | 64–158 | Sonnet 5.5 | Flash + vote: 111 changes | done ($2.97) |
+| Second part, class 1: Mammals | 64–159 | Sonnet 5.5 | Flash + vote: 111 changes | done ($2.97) |
 | §§ 114–115, lion and tiger (test entry) | 68–71 | Opus 5.5; **gold pp. 68, 70** | by hand | done |
-| Birds to Zoophytes, fabulous animals, addenda, registers | 159–400 | — | — | not started |
+| Classes 2–8 (birds to zoophytes), fabulous animals, supplement and appendix | 159–376 | Sonnet 5.5 | Flash + vote: 248 changes | done |
+| Registers I–IV | 377–400 | Opus 5.5 (4 pages by column) | Flash + text judge: 21 changes | done; printed lines kept |
 
-Abbreviations: the book has **no list of abbreviations**; a reviewed table of 131 rows
+Abbreviations: the book has **no list of abbreviations**; a reviewed table of 144 rows
 ([ABBREVIATIONS.md](ABBREVIATIONS.md)), built from the text, expanded by a fixed step after
 translation (`abbrev.py`).
 
@@ -117,6 +124,11 @@ uv run hebjudge.py 64 158 --main "or-claude-sonnet-5.5@low+ital" --mode image --
 uv run hebvote.py 64 158                                         # 2 of 3 -> data/hebfix/*.decisions.json
 uv run abbrev.py --candidates mammals                            # new abbreviations, for review
 uv run entry.py mammals                                          # join, translate, fixed steps
+
+# the registers: two columns; text_box may keep only one, so these pages go column by column
+uv run ocr.py openrouter 387 388 389 399 --model anthropic/claude-opus-5.5 --effort low --tag ital --force --columns
+# parallel judges: text workers write {range}_wN.json, image workers {range}.imageN.json
+uv run hebjudge.py 159 376 --main "or-claude-sonnet-5.5@low+ital" --start 130 --suffix _w2
 uv run build_site.py                                   # reading edition in docs/
 ```
 
@@ -235,6 +247,16 @@ majority, 13 for review (`logs/hebvote_64-158.csv`). Sonnet's typical error is �
 They are applied to every use of the word on its page, in the German and, by a fixed step, in an
 English translation made before the vote. Cost: about $0.03 per flag.
 
+Birds to the appendix (pp. 159–376, Sonnet): 3,832 Hebrew words, 551 differences; 490 flags →
+**248 changes**, 132 kept, 88 without a majority, 22 for review (`logs/hebvote_159-376.csv`); the
+image judge only on the 283 flags where the text judge and Flash disagree. Typical: ח for ת
+(חרנגול → תרנגול, חולעת → תולעת), ר for ד (ריה → דיה), final ם for ס (סום → סוס).
+
+Registers (pp. 377–400, Opus): 972 Hebrew words, 139 differences; 92 flags → **21 changes**, 69
+without a majority (kept), 2 for review (`logs/hebvote_377-400.csv`). **No image judge here**: its
+strip is cut by line number on a one-column page, which does not work on the two-column registers;
+so a change needs Flash and the text judge to agree.
+
 ## Costs so far
 
 | Step | Pages | Cost | Per page |
@@ -248,11 +270,17 @@ English translation made before the vote. Cost: about $0.03 per flag.
 | Mammals: OCR, Sonnet 5.5 and Flash | 91 | $4.43 | $0.049 |
 | Mammals: text judge (203 flags) and image judge (78 ties, 3 workers) | — | $3.50 | — |
 | Mammals: translation (first run lost at chunk 26 by a network reset: $1.86; second run) | 95 | $4.83 | $0.051 |
+| pp. 159–400: OCR, Sonnet 5.5 (4 parallel workers) | 242 | $9.81 | $0.041 |
+| pp. 159–400: OCR, Flash (Hebrew check) | 242 | $2.01 | $0.008 |
+| Registers: OCR again with Opus 5.5 (Sonnet dropped text), 4 pages again by column | 24 | $1.82 | $0.076 |
+| pp. 159–376: text judge (521 flags, 4 workers) and image judge (283 ties, 3 workers, some overlap) | — | $12.46 | — |
+| Registers: text judge (92 flags) | — | $0.94 | — |
+| pp. 159–400: translation (9 entries and the registers, run in parallel; includes chunks lost when a run was stopped) | 242 | $7.56 | $0.031 |
 
-OpenRouter prices. Total for this project: about $28 (the key had $13.88 of usage from other
-projects before this one). Translations are now saved chunk by chunk, so a stopped run resumes. The rest of the book (pp. 159–400, about 242
-pages) would be about $12 for OCR (Sonnet + Flash), $8 for translation and $5 for the Hebrew
-judges.
+OpenRouter prices. Total for this project: about $63 (the key had $13.88 of usage from other
+projects before this one). Translations are saved chunk by chunk, so a stopped run resumes; OCR
+and the judges skip what is done, so they run as parallel workers (OCR of 242 pages: about 15
+minutes with 4 workers per model).
 
 ## Notes
 
@@ -275,10 +303,25 @@ judges.
   p. VIII ends מגאלינום in the print (the Hebrew Kusari has מגאלינוס). The abbreviation check
   reports "Kusari: 2 in the German, 3 in the English"; this is correct ("Kusaricommentar" →
   "Kusari commentary").
-- **Abbreviations:** 131 rows. Rows marked **guess**: Gesenius, Fürst, Münster, "D. m.",
-  Or. Ester, Mytholog. Wörterb. Not identified: "Klein's Jahrbuch" (preface), "i. d. e. S." (part 1,
+- **Abbreviations:** 144 rows (13 added for pp. 159–400: Winer, Blumenbach, Sch. Ar., Or. Chajim,
+  i. l. and others). Rows marked **guess**: Gesenius, Fürst, Münster, "D. m.", Or. Ester, Mytholog. Wörterb. Not identified: "Klein's Jahrbuch" (preface), "i. d. e. S." (part 1,
   twice). Voigt is now certain (p. 9: "Voigt, Lehrb. d. Zool.").
 - The contents page was OCR'd and translated without an error (13 lines, 13 page numbers).
+- **Pages shared by two parts** (01-Nov-2026): each class heading stands mid-page, so an entry now
+  includes the first page of the next one. Before this, the end of § 181 (ambergris) on p. 159 was
+  missing from the mammals; it is now translated and added. A footnote whose mark is in the other
+  part of a shared page is left out (p. 279: the note belongs to the molluscs, not the fish).
+- **More Sonnet errors** (from p. 159 on): "Burxdorf" for Buxdorf, "a. a. D." for "a. a. O." (Fraktur O
+  and D look alike), both in `WORD_FIXES`; the heading "Vierte Klasse." typed as a running head on
+  p. 243 (`TYPE_FIXES`). Not corrected (the translation reads them correctly): 13 Fraktur double
+  hyphens written as "=" ("unvol= lem", but also the real hyphen "Nord= und Ostsee") and 6 long s
+  (ſ) in the German.
+- **Registers:** two columns. On pp. 387–389 and 399 the text-block crop kept only one column, so
+  both engines read half the page; `ocr.py --columns` cuts the page at the column gap and sends the
+  two columns as two images. Sonnet also dropped most of pp. 383–384, so the registers are Opus.
+  In the English, all 1,830 page numbers are the same as in the German and in the same order; the
+  German register IV is translated line by line and keeps the German alphabetical order.
+- **Page joins** pp. 159–376: all checked from `logs/qa_159-400.csv`; 10 needed a `continue`.
 - **Existing work:** Natan Slifkin wrote in 2012
   (["A Few Announcements"](https://www.rationalistjudaism.com/p/a-few-announcements)) that he was
   studying this book for his doctorate, was running the PDF through OCR, and proposed a
@@ -291,9 +334,11 @@ judges.
 2. **p. 69 in the mammals:** the vote and the manual correction agree on עוא; check that p. 70's
    gold ויהורא should be זיהורא, as the vote chose on pp. 50–51.
 3. **A gold page from part 1 and from the mammals**, to measure the CER after the vote.
-4. **The rest of the book** (birds to registers, pp. 159–400): about $25 with the current setup.
-5. Abbreviations: resolve the **guess** rows. Reading edition: links from `§. N` cross-references
-   to their §, and the registers as data.
+4. **Review by hand, pp. 159–400:** 22 review cases and 88 without a majority
+   (`logs/hebvote_159-376.csv`); registers: 2 and 69 (`logs/hebvote_377-400.csv`).
+5. **A gold page from the birds or insects**, to measure the error rate of the Sonnet + vote setup.
+6. Abbreviations: resolve the **guess** rows. Reading edition: links from `§. N` cross-references
+   to their §, and from the register page numbers to the pages.
 
 ## License
 

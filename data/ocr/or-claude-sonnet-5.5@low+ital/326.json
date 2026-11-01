@@ -1,0 +1,169 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "326",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "326"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Kleiderlaus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Kleiderlaus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "ekelhaften Insecte wußte man einen medicinischen Nutzen abzugewin-\nnen, worüber wir auf Gittin 69, b verweisen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "ekelhaften Insecte wußte man einen medicinischen Nutzen abzugewin-\nnen, worüber wir auf Gittin 69, b verweisen."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 451.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 451."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Schluß. Was die Fortpflanzung der Läuse betrifft, so entstehen\nsie, wie erwähnt (§ 449) durch Generatio originaria, nach Raschi\n(Sabbat 12, a) aus dem menschlichen Körper selbst. Es fragt sich nun,\nwie die birnförmigen Eier, die sogenannten Nisse zu erklären sind?\nDa die Nisse todt, oder lebendig sind, so hält sie der Talmud für\nein eigenes Ungeziefer, obgleich sie ביצי כינים „Eier der Läuse“ heißen\n(Sabbat 107, b). Es scheint der Talmud somit anzunehmen, daß\ndie Nisse zwar von den Läusen gelegt werden, daß aber diese Eier\nnicht durch Begattung entstehen, sondern gewissermaßen die Excre-\nmente der Läuse sind. — Es bildet eine Analogie hierfür das Fisch-\ngeschlecht der Schollen, die Rogen haben, aber sich nicht begatten\n(s. §. 355). — Die lebendige Nisse heißt: אינבא חיה, wozu Raschi\n(Nasir 39, a): מביצי כינים לינטריש בלע\"ז דהוא „Lentes in fremder\nSprache, aus den Eiern der Läuse“; die todte Nisse heißt: אינבא\nמתה. — Die Erstere befindet sich an der Basis der Haare und senkt\nsich, obgleich das Haar wächst, doch stets nach unten; die Letztere\naber wird von dem wachsenden Haare getragen, und so immer mehr\nvon der Kopffläche entfernt (ibid.). — Die Nisse dient zur Bezeich-\nnung der Kleinheit, als Extrem gegen die Größe, so heißt es: Gott\nernährt das Einhorn (§. 174) und die Nisse (A. Sara 3, b). Ferner\nheißt es: Ein Mann auf der Spitze des Berges Ophel erscheint,\nvom Thale aus gesehen, nur so groß wie eine אינבא, Nisse (Tanit\n22, b*).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Schluß. Was die Fortpflanzung der Läuse betrifft, so entstehen\nsie, wie erwähnt (§ 449) durch "
+    },
+    {
+     "lang": "lat",
+     "text": "Generatio originaria"
+    },
+    {
+     "lang": "deu",
+     "text": ", nach Raschi\n(Sabbat 12, a) aus dem menschlichen Körper selbst. Es fragt sich nun,\nwie die birnförmigen Eier, die sogenannten Nisse zu erklären sind?\nDa die Nisse todt, oder lebendig sind, so hält sie der Talmud für\nein eigenes Ungeziefer, obgleich sie "
+    },
+    {
+     "lang": "heb",
+     "text": "ביצי כינים"
+    },
+    {
+     "lang": "deu",
+     "text": " „Eier der Läuse“ heißen\n(Sabbat 107, b). Es scheint der Talmud somit anzunehmen, daß\ndie Nisse zwar von den Läusen gelegt werden, daß aber diese Eier\nnicht durch Begattung entstehen, sondern gewissermaßen die Excre-\nmente der Läuse sind. — Es bildet eine Analogie hierfür das Fisch-\ngeschlecht der Schollen, die Rogen haben, aber sich nicht begatten\n(s. §. 355). — Die lebendige Nisse heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "אינבא חיה"
+    },
+    {
+     "lang": "deu",
+     "text": ", wozu Raschi\n(Nasir 39, a): "
+    },
+    {
+     "lang": "heb",
+     "text": "מביצי כינים"
+    },
+    {
+     "lang": "other",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "לינטריש בלע\"ז דהוא"
+    },
+    {
+     "lang": "deu",
+     "text": " „Lentes in fremder\nSprache, aus den Eiern der Läuse“; die todte Nisse heißt: "
+    },
+    {
+     "lang": "heb",
+     "text": "אינבא\nמתה"
+    },
+    {
+     "lang": "deu",
+     "text": ". — Die Erstere befindet sich an der Basis der Haare und senkt\nsich, obgleich das Haar wächst, doch stets nach unten; die Letztere\naber wird von dem wachsenden Haare getragen, und so immer mehr\nvon der Kopffläche entfernt (ibid.). — Die Nisse dient zur Bezeich-\nnung der Kleinheit, als Extrem gegen die Größe, so heißt es: Gott\nernährt das Einhorn (§. 174) und die Nisse (A. Sara 3, b). Ferner\nheißt es: Ein Mann auf der Spitze des Berges Ophel erscheint,\nvom Thale aus gesehen, nur so groß wie eine "
+    },
+    {
+     "lang": "heb",
+     "text": "אינבא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Nisse (Tanit\n22, b*)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Vielleicht hat man Sabbat 107, b unter טיפויי die todten, und unter\nביצי כינים die lebendigen Nisse zu verstehen. — Folgende Worte des Aristoteles\n(Thierg. 5, 1, 5) mögen hier eine Stelle finden, sie lauten: „Die an Thieren,\nPflanzen, oder ihren Theilen von selbst entstandenen Thiere haben zwar unleug-\nbar getrennte Geschlechter, und sie bringen auch durch ihre Begattung etwas her-\nvor, nie aber ein Geschöpf ihrer eigenen Art, sondern etwas Mangelhaftes, wie\nz. B. von den Läusen die Nissen, und von den Fliegen und Schmetterlingen die\neierähnlichen Würmer, aus denen weder ein Geschöpf, wie ihre Eltern (?), noch\nsonst ein Thier hervorgeht, sondern die nur das bleiben, was sie sind.“ — Von\nden Nissen ist es allerdings richtig, daß sie in ihrem Zustand verharren und nicht\nin ein gegliedertes Insect sich entwickeln.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Vielleicht hat man Sabbat 107, b unter "
+    },
+    {
+     "lang": "heb",
+     "text": "טיפויי"
+    },
+    {
+     "lang": "deu",
+     "text": " die todten, und unter\n"
+    },
+    {
+     "lang": "heb",
+     "text": "ביצי כינים"
+    },
+    {
+     "lang": "deu",
+     "text": " die lebendigen Nisse zu verstehen. — Folgende Worte des Aristoteles\n(Thierg. 5, 1, 5) mögen hier eine Stelle finden, sie lauten: „Die an Thieren,\nPflanzen, oder ihren Theilen von selbst entstandenen Thiere haben zwar unleug-\nbar getrennte Geschlechter, und sie bringen auch durch ihre Begattung etwas her-\nvor, nie aber ein Geschöpf ihrer eigenen Art, sondern etwas Mangelhaftes, wie\nz. B. von den Läusen die Nissen, und von den Fliegen und Schmetterlingen die\neierähnlichen Würmer, aus denen weder ein Geschöpf, wie ihre Eltern (?), noch\nsonst ein Thier hervorgeht, sondern die nur das bleiben, was sie sind.“ — Von\nden Nissen ist es allerdings richtig, daß sie in ihrem Zustand verharren und nicht\nin ein gegliedertes Insect sich entwickeln."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2130
+   ],
+   [
+    3308,
+    3094
+   ]
+  ],
+  "input_tokens": 11341,
+  "output_tokens": 1717,
+  "cost_usd": 0.0399,
+  "seconds": 10.6
+ }
+}

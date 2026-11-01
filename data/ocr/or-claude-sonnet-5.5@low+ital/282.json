@@ -1,0 +1,213 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "282",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "282"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Purpurschnecke.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Purpurschnecke."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 366.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 366."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Purpurschnecke.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Purpurschnecke."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Bei Aristoteles (a. a. O. 4, 4, 1): Πορφύρα; bei Plinius (a.\na. O. 9, 36, 61): Purpura, oder Pelagia genannt. Die Schale ist\neiförmig, dick, meist höckerig; die Mündung sehr ausgeschweift und\nin einen kurzen schiefen Kanal ausgehend; die Schale ist zugespitzt\n(Voigt l. c. 3. S. 459). — Diese Schnecke wird in folgender Stelle\nerwähnt: חלזון זה גופו דומה לים ובריותו דומה לדג ועולה אחד לשבעים\nשנה ובדמו צובעין תכלת לפיכך דמיו יקרים (Menachoth 44, a). Raschi\nerklärt diese Stelle folgendermaßen: Der חלזון gleicht an Farbe seines\nKörpers dem Meere, in seiner Entstehung dem Fisch, steigt (aus dem\nMeere*) nur ein Mal in 70 Jahren, wo man alsdann mit seinem\nBlute die Farbe תכלת färbt, weshalb diese so theuer ist. — Lan-\ndau übersetzt die Worte: גופו דומה לים „die innere Farbe, d. i., der\nSaft, gleicht dem Meere.“ — Diese Uebersetzung ist richtiger, denn,\nwie erwähnt, heißt die Purpurschnecke auch im Lat. Pelagia sicher-\nlich so von ihrem meerfarbigen Saft (pelagus) benannt; sie selbst ist\nschwarzbraun; eine verwandte Gattung, die Purpura patula, ist kirsch-\nrothbraun (Voigt l. c. 3. S. 459 u. 460), demnach muß die Aehn-\nlichkeit mit der Meerfarbe nicht auf die äußere Erscheinung, sondern\nauf den Saft bezogen werden. Die Meerfarbe selbst bestimmt der\nTalmud folgendermaßen: תכלת gleicht dem Meere, das Meer dem\nAether, der Aether dem Gottesthron, und dieser ist von der Farbe\ndes Saphirs**). — Der Saphir ist bekanntlich von himmelblauer\nFarbe, ebenso ist es das Meer, in welchem der Aether, d. i., das\nFirmament sich abspiegelt, und so ist תכלת die himmelblaue Farbe.\nWir haben somit unter Purpur nicht ausschließlich die rothe Farbe\nzu verstehen, sondern die Farbe überhaupt, welche aus den Conchy-\nlien gewonnen wurde. So färben die Muscheln des atlantischen\nOceans schwärzlich, die an den italischen und sicilischen Ufern\nviolett, und die an den phönizischen und überhaupt an den süd-\nlichen Küsten hochroth. Vergl. Heeren: Ideen über die Politik,\nden Verkehr und den Handel der alten Völker (1. Th. 2. Abth.\nS. 97).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bei Aristoteles (a. a. O. 4, 4, 1): "
+    },
+    {
+     "lang": "grc",
+     "text": "Πορφύρα"
+    },
+    {
+     "lang": "deu",
+     "text": "; bei Plinius (a.\na. O. 9, 36, 61): "
+    },
+    {
+     "lang": "lat",
+     "text": "Purpura"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "lat",
+     "text": "Pelagia"
+    },
+    {
+     "lang": "deu",
+     "text": " genannt. Die Schale ist\neiförmig, dick, meist höckerig; die Mündung sehr ausgeschweift und\nin einen kurzen schiefen Kanal ausgehend; die Schale ist zugespitzt\n(Voigt l. c. 3. S. 459). — Diese Schnecke wird in folgender Stelle\nerwähnt: "
+    },
+    {
+     "lang": "heb",
+     "text": "חלזון זה גופו דומה לים ובריותו דומה לדג ועולה אחד לשבעים\nשנה ובדמו צובעין תכלת לפיכך דמיו יקרים"
+    },
+    {
+     "lang": "deu",
+     "text": " (Menachoth 44, a). Raschi\nerklärt diese Stelle folgendermaßen: Der "
+    },
+    {
+     "lang": "heb",
+     "text": "חלזון"
+    },
+    {
+     "lang": "deu",
+     "text": " gleicht an Farbe seines\nKörpers dem Meere, in seiner Entstehung dem Fisch, steigt (aus dem\nMeere*) nur ein Mal in 70 Jahren, wo man alsdann mit seinem\nBlute die Farbe "
+    },
+    {
+     "lang": "heb",
+     "text": "תכלת"
+    },
+    {
+     "lang": "deu",
+     "text": " färbt, weshalb diese so theuer ist. — Lan-\ndau übersetzt die Worte: "
+    },
+    {
+     "lang": "heb",
+     "text": "גופו דומה לים"
+    },
+    {
+     "lang": "deu",
+     "text": " „die innere Farbe, d. i., der\nSaft, gleicht dem Meere.“ — Diese Uebersetzung ist richtiger, denn,\nwie erwähnt, heißt die Purpurschnecke auch im Lat. "
+    },
+    {
+     "lang": "lat",
+     "text": "Pelagia"
+    },
+    {
+     "lang": "deu",
+     "text": " sicher-\nlich so von ihrem meerfarbigen Saft ("
+    },
+    {
+     "lang": "lat",
+     "text": "pelagus"
+    },
+    {
+     "lang": "deu",
+     "text": ") benannt; sie selbst ist\nschwarzbraun; eine verwandte Gattung, die "
+    },
+    {
+     "lang": "lat",
+     "text": "Purpura patula"
+    },
+    {
+     "lang": "deu",
+     "text": ", ist kirsch-\nrothbraun (Voigt l. c. 3. S. 459 u. 460), demnach muß die Aehn-\nlichkeit mit der Meerfarbe nicht auf die äußere Erscheinung, sondern\nauf den Saft bezogen werden. Die Meerfarbe selbst bestimmt der\nTalmud folgendermaßen: "
+    },
+    {
+     "lang": "heb",
+     "text": "תכלת"
+    },
+    {
+     "lang": "deu",
+     "text": " gleicht dem Meere, das Meer dem\nAether, der Aether dem Gottesthron, und dieser ist von der Farbe\ndes Saphirs**). — Der Saphir ist bekanntlich von himmelblauer\nFarbe, ebenso ist es das Meer, in welchem der Aether, d. i., das\nFirmament sich abspiegelt, und so ist "
+    },
+    {
+     "lang": "heb",
+     "text": "תכלת"
+    },
+    {
+     "lang": "deu",
+     "text": " die himmelblaue Farbe.\nWir haben somit unter Purpur nicht ausschließlich die rothe Farbe\nzu verstehen, sondern die Farbe überhaupt, welche aus den Conchy-\nlien gewonnen wurde. So färben die Muscheln des atlantischen\nOceans schwärzlich, die an den italischen und sicilischen Ufern\nviolett, und die an den phönizischen und überhaupt an den süd-\nlichen Küsten hochroth. Vergl. Heeren: Ideen über die Politik,\nden Verkehr und den Handel der alten Völker (1. Th. 2. Abth.\nS. 97)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Raschi hat מן הארץ, offenbar ein Druckfehler, vergl. Sanhedrin 91, a\nund Megilla 6, a.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Raschi hat "
+    },
+    {
+     "lang": "heb",
+     "text": "מן הארץ"
+    },
+    {
+     "lang": "deu",
+     "text": ", offenbar ein Druckfehler, vergl. Sanhedrin 91, a\nund Megilla 6, a."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Noch weitläufiger ist diese Farbenvergleichung Midr. Jalkut 2. Th.\n§. 700, und sehr abweichend hiervon ibid. §. 841 zu Ende.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Noch weitläufiger ist diese Farbenvergleichung Midr. Jalkut 2. Th.\n§. 700, und sehr abweichend hiervon ibid. §. 841 zu Ende."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    2025
+   ],
+   [
+    3308,
+    3039
+   ]
+  ],
+  "input_tokens": 11358,
+  "output_tokens": 1855,
+  "cost_usd": 0.0413,
+  "seconds": 11.2
+ }
+}

@@ -1,0 +1,265 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Die Ente. — Die Kragenente.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Ente. — Die Kragenente."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "193",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "193"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 244.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 244."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Ente.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Ente."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "בר אוזא (Beza 32, b). Das vorgesetzte בר, בן, oder בת bezeich-\nnet zwar das Junge des Thieres (§. 1), doch heißt בר אוזא nicht\n„junge Gans“, sondern gewissermaßen „kleine Gans“, wie das lat.\nAnas mit Anser verwandt ist; vergl. hierüber meinen Beitrag im\n„Lien d’Israél“ (II. année p. 364). Bei Jehuda ha-Lewi (im\nKusari Cap. 3, §. 35) heißt die Ente אלברכיה, arab. اَلْبَرْكِيَةُ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "בר אוזא"
+    },
+    {
+     "lang": "deu",
+     "text": " (Beza 32, b). Das vorgesetzte "
+    },
+    {
+     "lang": "heb",
+     "text": "בר, בן"
+    },
+    {
+     "lang": "deu",
+     "text": ", oder "
+    },
+    {
+     "lang": "heb",
+     "text": "בת"
+    },
+    {
+     "lang": "deu",
+     "text": " bezeich-\nnet zwar das Junge des Thieres (§. 1), doch heißt "
+    },
+    {
+     "lang": "arc",
+     "text": "בר אוזא"
+    },
+    {
+     "lang": "deu",
+     "text": " nicht\n„junge Gans“, sondern gewissermaßen „kleine Gans“, wie das lat.\nAnas mit Anser verwandt ist; vergl. hierüber meinen Beitrag im\n„Lien d’Israél“ (II. année p. 364). Bei Jehuda ha-Lewi (im\nKusari Cap. 3, §. 35) heißt die Ente "
+    },
+    {
+     "lang": "heb",
+     "text": "אלברכיה"
+    },
+    {
+     "lang": "deu",
+     "text": ", arab. "
+    },
+    {
+     "lang": "ara",
+     "text": "اَلْبَرْكِيَةُ"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Ente hat die Eigenschaft mit gesenktem Kopfe hin und her\nzu laufen, mit dem Schnabel überall zu wühlen um sich Nahrung\nzu suchen und dabei beständig um sich zu schauen. Hieraus entstand\ndas Sprüchwort: שפיל ואזיל בר אוזא ועיניה מטייפי „Es bückt sich\nund geht weiter die Ente, und ihre Augen schweifen umher“, womit\nman ein Doppeltes bezeichnete, erstens ein klatschhaftes Weib, das\nbeim Spinnrocken sitzt und dabei gelegentlich über Andere schwätzt\nund klatscht (Megilla 14, b), so sucht die Ente um sich blickend,\nwährend sie gleichzeitig vorwärts geht. — Zweitens bezeichnete jenes\nSprüchwort die Nothwendigkeit des Menschen, welcher, so schwach\ner auch sein mag, dennoch nach geistiger und physischer Nahrung sich\numsehen muß (B. Kama 92, b). — Die beiden Häute des Magens\nsind zuweilen so fest an einander hängend, daß sie erst dann abschäl-\nbar sind, wenn man den Magen eine längere Zeit der Sonnenwärme\nausgesetzt hat (Chulin 62, b). — Man pflegte sie entweder zu braten\n(Beza 32, b), oder als Pastete (פשטידא, Pâté, vergl. meinen Bei-\ntrag in Frankel’s Monatsschrift 1856. S. 441) zu bereiten (Pesa-\nchim 74, b). — Magen und Eingeweide wurden zuweilen mit einem\ndünnen Teig zu einer Speise bereitet (Tos. ibid. s. v. טפל), sonst\nwaren die Eingeweide wenig geachtet, man warf sie der Katze vor\n(Sabbat 142, b). In der Parallelstelle hierzu (Beza 32, b) hat Ra-\nschi את für בר אוזא, was wohl ein Druckfehler ist.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Ente hat die Eigenschaft mit gesenktem Kopfe hin und her\nzu laufen, mit dem Schnabel überall zu wühlen um sich Nahrung\nzu suchen und dabei beständig um sich zu schauen. Hieraus entstand\ndas Sprüchwort: "
+    },
+    {
+     "lang": "arc",
+     "text": "שפיל ואזיל בר אוזא ועיניה מטייפי"
+    },
+    {
+     "lang": "deu",
+     "text": " „Es bückt sich\nund geht weiter die Ente, und ihre Augen schweifen umher“, womit\nman ein Doppeltes bezeichnete, erstens ein klatschhaftes Weib, das\nbeim Spinnrocken sitzt und dabei gelegentlich über Andere schwätzt\nund klatscht (Megilla 14, b), so sucht die Ente um sich blickend,\nwährend sie gleichzeitig vorwärts geht. — Zweitens bezeichnete jenes\nSprüchwort die Nothwendigkeit des Menschen, welcher, so schwach\ner auch sein mag, dennoch nach geistiger und physischer Nahrung sich\numsehen muß (B. Kama 92, b). — Die beiden Häute des Magens\nsind zuweilen so fest an einander hängend, daß sie erst dann abschäl-\nbar sind, wenn man den Magen eine längere Zeit der Sonnenwärme\nausgesetzt hat (Chulin 62, b). — Man pflegte sie entweder zu braten\n(Beza 32, b), oder als Pastete ("
+    },
+    {
+     "lang": "arc",
+     "text": "פשטידא"
+    },
+    {
+     "lang": "deu",
+     "text": ", Pâté, vergl. meinen Bei-\ntrag in Frankel’s Monatsschrift 1856. S. 441) zu bereiten (Pesa-\nchim 74, b). — Magen und Eingeweide wurden zuweilen mit einem\ndünnen Teig zu einer Speise bereitet (Tos. ibid. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "טפל"
+    },
+    {
+     "lang": "deu",
+     "text": "), sonst\nwaren die Eingeweide wenig geachtet, man warf sie der Katze vor\n(Sabbat 142, b). In der Parallelstelle hierzu (Beza 32, b) hat Ra-\nschi "
+    },
+    {
+     "lang": "heb",
+     "text": "את"
+    },
+    {
+     "lang": "deu",
+     "text": " für "
+    },
+    {
+     "lang": "arc",
+     "text": "בר אוזא"
+    },
+    {
+     "lang": "deu",
+     "text": ", was wohl ein Druckfehler ist."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 245.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 245."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Die Kragenente.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Kragenente."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Chulin 57, a wird gesagt: Jemand brachte einen Korb mit\nאינקורי, da untersuchte Raba die Stelle, wo die Schenkeladern zu-\nsammenlaufen (צומח הגידין, §. 73), und gestattete hierauf die Vögel\nzu essen. — Hier giebt Raschi zwei Erklärungen des Wortes אינקורי,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Chulin 57, a wird gesagt: Jemand brachte einen Korb mit\n"
+    },
+    {
+     "lang": "arc",
+     "text": "אינקורי"
+    },
+    {
+     "lang": "deu",
+     "text": ", da untersuchte Raba die Stelle, wo die Schenkeladern zu-\nsammenlaufen ("
+    },
+    {
+     "lang": "heb",
+     "text": "צומח הגידין"
+    },
+    {
+     "lang": "deu",
+     "text": ", §. 73), und gestattete hierauf die Vögel\nzu essen. — Hier giebt Raschi zwei Erklärungen des Wortes "
+    },
+    {
+     "lang": "arc",
+     "text": "אינקורי"
+    },
+    {
+     "lang": "deu",
+     "text": ","
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Zoologie des Talmuds.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zoologie des Talmuds."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "13",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "13"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3308,
+    3026
+   ],
+   [
+    3308,
+    2222
+   ]
+  ],
+  "input_tokens": 11310,
+  "output_tokens": 1919,
+  "cost_usd": 0.0418,
+  "seconds": 12.7
+ }
+}

@@ -1,0 +1,221 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "264\tDer Brachsen. — Der Aal. — Die Muräne.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "264\tDer Brachsen. — Der Aal. — Die Muräne."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 334.\nDer Brachsen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 334.\nDer Brachsen."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "אברומא (Succa 18, a). Raschi erklärt: מין דגים קטנים „eine kleine\nFischart\"; doch ist das Wort das gr. Ἀβραμίς und bezeichnet wohl\nden Brachsen (Abramis Brama, Voigt l. c. 3. S. 225). Er wird\n2 bis 3 Fuß lang und 10 bis 20 Pfund schwer; er ist ein vorzüg-\nlicher Flußfisch. — Nach dem Talmud darf er nicht überall gegessen\nwerden, wovon Raschi die an ihm zuweilen haftenden und unkennt-\nlichen Parasiten als Grund angiebt, was aber aus dem Wortlaut des\nTalmuds nicht hervorgeht; vgl. den vorhergehenden Artikel, und §. 488.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "אברומא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "Succa 18, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). Raschi erklärt: "
+    },
+    {
+     "lang": "heb",
+     "text": "מין דגים קטנים"
+    },
+    {
+     "lang": "deu",
+     "text": " „eine kleine\nFischart\"; doch ist das Wort das gr. "
+    },
+    {
+     "lang": "grc",
+     "text": "Ἀβραμίς"
+    },
+    {
+     "lang": "deu",
+     "text": " und bezeichnet wohl\nden Brachsen ("
+    },
+    {
+     "lang": "lat",
+     "text": "Abramis Brama"
+    },
+    {
+     "lang": "deu",
+     "text": ", Voigt l. c. 3. S. 225). Er wird\n2 bis 3 Fuß lang und 10 bis 20 Pfund schwer; er ist ein vorzüg-\nlicher Flußfisch. — Nach dem Talmud darf er nicht überall gegessen\nwerden, wovon Raschi die an ihm zuweilen haftenden und unkennt-\nlichen Parasiten als Grund angiebt, was aber aus dem Wortlaut des\nTalmuds nicht hervorgeht; vgl. den vorhergehenden Artikel, und §. 488."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 335.\nDer Aal.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 335.\nDer Aal."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "צלופחא (A. Sara 39, a). Raschi erklärt das Wort durch אנגילא,\nAnguille. Er ist unrein, weil er keine Schuppen hat (§. 24). Diese\nAngabe beruht auf dem Mangel an Untersuchung dieses Fisches; er\nhat allerdings ganz feine und zarte, tief in der Schleimhaut versteckte\nSchuppen, und so läßt sich die daselbst gemachte Erzählung auch er-\nklären. Rabbi Aschi kam nach Tamdoria, wo man ihm einen aal-\nähnlichen Fisch vorsetzte; diesen hielt er gegen die Sonne und be-\nmerkte an ihm sehr feine Schuppen, worauf er ihn zu essen gestattete.\nBekanntlich unterscheidet man 11 Gattungen dieses Fisches, und\nirgend eine solche ist hier gemeint. S. Beumer (Popul. Naturg. S.\n280). — Einige schreiben צלכחא, denn צלכ hat die Grundbedeutung:\nglatt=, nacktsein; s. Fürst L. Bl. des Orients 1849, col. 379.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "arc",
+     "text": "צלופחא"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "lat",
+     "text": "A. Sara 39, a"
+    },
+    {
+     "lang": "deu",
+     "text": "). Raschi erklärt das Wort durch "
+    },
+    {
+     "lang": "fra",
+     "text": "אנגילא"
+    },
+    {
+     "lang": "deu",
+     "text": ",\n"
+    },
+    {
+     "lang": "fra",
+     "text": "Anguille"
+    },
+    {
+     "lang": "deu",
+     "text": ". Er ist unrein, weil er keine Schuppen hat (§. 24). Diese\nAngabe beruht auf dem Mangel an Untersuchung dieses Fisches; er\nhat allerdings ganz feine und zarte, tief in der Schleimhaut versteckte\nSchuppen, und so läßt sich die daselbst gemachte Erzählung auch er-\nklären. Rabbi Aschi kam nach Tamdoria, wo man ihm einen aal-\nähnlichen Fisch vorsetzte; diesen hielt er gegen die Sonne und be-\nmerkte an ihm sehr feine Schuppen, worauf er ihn zu essen gestattete.\nBekanntlich unterscheidet man 11 Gattungen dieses Fisches, und\nirgend eine solche ist hier gemeint. S. Beumer (Popul. Naturg. S.\n280). — Einige schreiben "
+    },
+    {
+     "lang": "arc",
+     "text": "צלכחא"
+    },
+    {
+     "lang": "deu",
+     "text": ", denn "
+    },
+    {
+     "lang": "arc",
+     "text": "צלכ"
+    },
+    {
+     "lang": "deu",
+     "text": " hat die Grundbedeutung:\nglatt=, nacktsein; s. Fürst L. Bl. des Orients 1849, col. 379."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "§. 336.\nDie Muräne.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "§. 336.\nDie Muräne."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Dieser Fisch wird zwar nicht im Talmud, wohl aber in den To-\nsephot (Bechoroth 7, b. s. v. רוב) erwähnt. Es heißt hier: Man darf\ndie מרנש, welche in dem Walfisch (§. 180) gefunden werden, essen.\nAllein schon die Piske Tosephoth lesen hier richtiger הרינגן „Häringe“\nfür מרנש, denn abgesehen, daß die Muränen wegen ihrer Größe, sie\nwerden 3 Fuß lang, nicht zur Speise des Walfisches, der bekanntlich\neine sehr enge Kehle hat, dienen, so wird wohl auch die Muräne,\nals zum Geschlechte des Aals gehörend, nicht gegessen werden dürfen;\nauch fehlt ihr die Brust- und die Bauchflosse.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Dieser Fisch wird zwar nicht im Talmud, wohl aber in den To-\nsephot (Bechoroth 7, b. s. v. "
+    },
+    {
+     "lang": "heb",
+     "text": "רוב"
+    },
+    {
+     "lang": "deu",
+     "text": ") erwähnt. Es heißt hier: Man darf\ndie "
+    },
+    {
+     "lang": "arc",
+     "text": "מרנש"
+    },
+    {
+     "lang": "deu",
+     "text": ", welche in dem Walfisch (§. 180) gefunden werden, essen.\nAllein schon die Piske Tosephoth lesen hier richtiger "
+    },
+    {
+     "lang": "heb",
+     "text": "הרינגן"
+    },
+    {
+     "lang": "deu",
+     "text": " „Häringe“\nfür "
+    },
+    {
+     "lang": "arc",
+     "text": "מרנש"
+    },
+    {
+     "lang": "deu",
+     "text": ", denn abgesehen, daß die Muränen wegen ihrer Größe, sie\nwerden 3 Fuß lang, nicht zur Speise des Walfisches, der bekanntlich\neine sehr enge Kehle hat, dienen, so wird wohl auch die Muräne,\nals zum Geschlechte des Aals gehörend, nicht gegessen werden dürfen;\nauch fehlt ihr die Brust- und die Bauchflosse."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3268,
+    2457
+   ],
+   [
+    3268,
+    2531
+   ]
+  ],
+  "input_tokens": 3369,
+  "output_tokens": 1273,
+  "cost_usd": 0.0073,
+  "seconds": 10.2
+ }
+}

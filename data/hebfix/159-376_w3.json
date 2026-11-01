@@ -1,0 +1,1122 @@
+{
+ "main": "or-claude-sonnet-5.5@low+ital",
+ "model": "anthropic/claude-opus-5.5",
+ "items": [
+  {
+   "page": 288,
+   "line": "gabe des Talmuds, die צפורת כרמים als eine Heuschreckenart aus",
+   "main": "צפורת",
+   "check": "ציפורת",
+   "confident": false,
+   "note": "The Talmudic term for this locust is the 'vineyard bird' (Chullin 65a). Both the defective spelling צפורת and the plene ציפורת are attested. The 19th-century scholarly convention favours the defective form, but this is a guess between two valid spellings.",
+   "printed": "צפורת"
+  },
+  {
+   "page": 288,
+   "line": "Schluß. צפורת כרמים scheint uns die Heuschreckenart Gryl-",
+   "main": "צפורת",
+   "check": "ציפורת",
+   "confident": false,
+   "note": "The Mishnah (Shabbat 90b) spells the term defectively, צפורת כרמים, and a 19th-century author likely followed that. The plene ציפורת is also a valid spelling, so this is not certain.",
+   "printed": "צפורת"
+  },
+  {
+   "page": 288,
+   "line": "Schon Aruch bemerkt, daß פליה ביארי eine Heuschreckenart ist, mit",
+   "main": "פליה",
+   "check": "פלייה",
+   "confident": false,
+   "note": "This is likely a foreign (Arabic or Romance) gloss quoted from Aruch, which I cannot verify. Either spelling is plausible; I lean towards the simpler spelling פליה without the doubled yod.",
+   "printed": "פליה"
+  },
+  {
+   "page": 288,
+   "line": "chen. — Sie mag wegen ihres schnellen Auffliegens צפורת „Vogel“",
+   "main": "צפורת",
+   "check": "ציפורת",
+   "confident": false,
+   "note": "The next line prints צפורת כרמים in defective spelling, so the same form is likely here. Both spellings are valid for 'Vogel', so this is not certain.",
+   "printed": "צפורת"
+  },
+  {
+   "page": 288,
+   "line": "צפורת כרמים aus: אשה סטיפה מושחת ממנה והיא מחרפא; dies läßt die Fet-",
+   "main": "מחרפא",
+   "check": "מתרפא",
+   "confident": true,
+   "note": "The phrase means 'a woman ... anoints herself with it and is healed', which requires the verb מתרפא (hitpael of רפא, 'is healed'). The other reading, מחרפא, is not a word; it is a ח/ת confusion.",
+   "printed": "מתרפא"
+  },
+  {
+   "page": 288,
+   "line": "Von einem im Mittelalter verfaßten Gedichte (des שלמה דפיירה), wel-",
+   "main": "דפיירה",
+   "check": "רפיירה",
+   "confident": true,
+   "note": "The poet is Solomon de Piera, a medieval Spanish Hebrew poet, whose name is written שלמה דפיירה with ד for 'de'. רפיירה is a ד/ר misreading.",
+   "printed": "דפיירה"
+  },
+  {
+   "page": 288,
+   "line": "כרגע נקבצו מקרים ובאו בדי ארבה וצפורת כרמים",
+   "main": "בדי",
+   "check": "כדי",
+   "confident": true,
+   "note": "The line quotes Judges 6:5, 'ובאו כדי ארבה לרב' ('they came like locusts in multitude'), so the printed word is כדי; בדי would not fit this sense.",
+   "printed": "כדי"
+  },
+  {
+   "page": 289,
+   "line": "Insect mit רשנא, womit Onkelos כלעם wiedergiebt; Jonatan hat",
+   "main": "כלעם",
+   "check": "סלעם",
+   "confident": true,
+   "note": "The paragraph is about the biblical locust name סלעם (Lev. 11:22), which Onkelos renders as רשונא. The reading כלעם is an OCR confusion of ס with כ and is not the word in question.",
+   "printed": "סלעם"
+  },
+  {
+   "page": 289,
+   "line": "25, a. s. v. תחלת), und so hätten wir an eine kleine gefräßige",
+   "main": "תחלת",
+   "check": "חתלת",
+   "confident": true,
+   "note": "The Gemara in Nidda 25a reads 'תחלת ברייתו' ('the beginning of its formation'), and Tosafot's heading takes that word, matching 'am Anfang seiner Entstehung'. חתלת is not a fitting word here.",
+   "printed": "תחלת"
+  },
+  {
+   "page": 290,
+   "line": "Vogelnamen שבור אנדרפטא, פירח אנדרפתא (§. 185) und פרוא (§. 223)",
+   "main": "שבור",
+   "check": "פירוז אנדרפחא שכור",
+   "confident": true,
+   "note": "Chulin 62b names the birds after Shavur (Shapur), spelled שבור. Reading B is a garbled multi-word span with errors, including שכור for שבור.",
+   "printed": "שבור"
+  },
+  {
+   "page": 290,
+   "line": "tung steht der Name שפן (§. 152) nicht entgegen, da es durchaus unwahr-",
+   "main": "שפן",
+   "check": "שפנן",
+   "confident": true,
+   "note": "The passage concerns the Hebrew animal name שפן (shafan, hyrax/coney), which was popularly linked to the name of Spain. שפנן is not an attested form.",
+   "printed": "שפן"
+  },
+  {
+   "page": 290,
+   "line": "Das hebr. חרגול (Lev. 11, 22) vergleicht Bochart (a. a. O.",
+   "main": "חרגול",
+   "check": "חרגל",
+   "confident": false,
+   "note": "Lev. 11:22 spells it defectively, חרגל, which fits the biblical citation. However, the plene rabbinic spelling חרגול is also plausible here.",
+   "printed": "חרגל"
+  },
+  {
+   "page": 291,
+   "line": "ניפול (§. 377) in andern רשון (ibid.; Chulin 65, a). Sie ist ge-",
+   "main": "רשון",
+   "check": "רשין",
+   "confident": true,
+   "note": "The Chulin 65a list of local names for the locust includes רשון, which matches the German context here. רשין is not attested as a name for it.",
+   "printed": "רשון"
+  },
+  {
+   "page": 291,
+   "line": "Heuschrecke ערצביא; sie theilt also die Eigenschaften in Beziehung der",
+   "main": "ערצביא",
+   "check": "ערצוביא",
+   "confident": false,
+   "note": "The standard text of Chulin 65 reads ערצוביא for this חרגול‑type locust. A defective spelling ערצביא is also plausible, so this is not certain.",
+   "printed": "ערצוביא"
+  },
+  {
+   "page": 291,
+   "line": "ner die Heuschrecke כרסכת, sie hat wie jene gleiche Körperbildung (§.",
+   "main": "כרסכת",
+   "check": "כרספת",
+   "confident": true,
+   "note": "Chulin 65b lists כרספת (karsefet) with the chargol, and the comparison to Greek Chrysophaes requires a פ (ph). כרסכת is not an attested word.",
+   "printed": "כרספת"
+  },
+  {
+   "page": 292,
+   "line": "auch גריאן (Aruch liest גריין) genannt.",
+   "main": "גריאן גריין",
+   "check": "גדיאן גדיין",
+   "confident": true,
+   "note": "In Chullin 65a the חגב is glossed as גדיאן, and Jastrow lists gadyan as a locust species; the Aruch spelling is גדיין. The ר in reading A is a ד/ר OCR confusion.",
+   "printed": "גדיאן גדיין"
+  },
+  {
+   "page": 292,
+   "line": "רזבנית (Chulin 65, a), sie ist demnach zu essen gestattet; über die Kör-",
+   "main": "רזבנית",
+   "check": "רובניה",
+   "confident": true,
+   "note": "רזבנית is the locust species listed in Chulin 65a (Jastrow s.v.). The next line of the passage also prints רזבנית, while רובניה is not a known word.",
+   "printed": "רזבנית"
+  },
+  {
+   "page": 292,
+   "line": "perbildung der חגב, in welcher die רזבנית ihr gleich sein muß, s. §. 377.",
+   "main": "רזבנית",
+   "check": "רובניה",
+   "confident": true,
+   "note": "Chulin 65a lists רזבנית as a locust species, and the earlier line of the passage also reads רזבנית. רובניה is not attested and is an ז→ו / ת→ה misread.",
+   "printed": "רזבנית"
+  },
+  {
+   "page": 293,
+   "line": "65, b); im Talm. jerus. Sabbat 3, b heißt unsere Heuschrecke חלזון.",
+   "main": "חלזון",
+   "check": "חלוזון",
+   "confident": false,
+   "note": "חלזון is the standard rabbinic spelling. The plene form חלוזון could occur in a Yerushalmi citation, so this is a guess.",
+   "printed": "חלזון"
+  },
+  {
+   "page": 294,
+   "line": "Gattung der חגב“ (§. 384). Es heißt dort: Die איילא קמצא ist",
+   "main": "איילא",
+   "check": "אילא",
+   "confident": false,
+   "note": "Lewysohn derives the name from איל, so the plain spelling אילא fits the Aramaic phrase cited from Avodah Zarah 37a. The plene spelling איילא is also possible, so this is not certain.",
+   "printed": "אילא"
+  },
+  {
+   "page": 294,
+   "line": "Schluß. Burxdorf (Lex. p. 71) sagt: איל קמצא heißt gleich-",
+   "main": "איל",
+   "check": "אייל",
+   "confident": false,
+   "note": "The Talmudic locust name is usually spelled אילא קמצא (Chullin 65a), and Buxtorf's entry falls under the defective spelling איל. 'Hirsch' (stag) is spelled either איל or אייל, so both readings are possible.",
+   "printed": "איל"
+  },
+  {
+   "page": 296,
+   "line": "62, b), חילפי übersetzt Raschi auch hier durch אורטאוש, Ortie, und",
+   "main": "אורטאוש",
+   "check": "אורטאיש",
+   "confident": false,
+   "note": "Rashi's Old French gloss for nettle ('orties') is more plausibly spelled אורטאיש, with yod giving the -i-/-ie- vowel; אורטאוש fits the French less well. This is a guess, not checked against the printed text.",
+   "printed": "אורטאיש"
+  },
+  {
+   "page": 296,
+   "line": "aram. Wort scheint aus בא und כרז zusammengesetzt zu sein und heißt:",
+   "main": "כרז",
+   "check": "כרו",
+   "confident": false,
+   "note": "His gloss „Der Rufer kömmt“ points to the Aramaic root כרז ('to proclaim', as in כרוזא, herald); כרו is not a word meaning 'Rufer'. However, כרו is the literal letter segment of כרובא before בא, so B remains possible.",
+   "printed": "כרז"
+  },
+  {
+   "page": 296,
+   "line": "ist. — Für כרובא haben manche Ausgaben jener Paraphrase כרובא,",
+   "main": "כרובא",
+   "check": "כרוכא",
+   "confident": false,
+   "note": "The variant reading is glossed as 'Wickelraupe' from כרוך ('to wrap'), so it should be כרוכא. But the line holds two near-identical words, and the first may properly be כרובא, so which word is marked is uncertain.",
+   "printed": "כרוכא"
+  },
+  {
+   "page": 296,
+   "line": "כירבי für כרבי, was „Schutthaufen“ heißen soll, und כרוי sollen Am-",
+   "main": "כירבי",
+   "check": "כירי",
+   "confident": false,
+   "note": "The passage contrasts Aruch's reading with קרבי/כרבי, so the variant should be a close spelling of the same word. כירבי fits that pattern, while כירי ('stoves') would be a different word with no link to 'Schutthaufen'. This is inferred from the context, not checked against the Aruch itself.",
+   "printed": "כירבי"
+  },
+  {
+   "page": 296,
+   "line": "Wort von הסל „abfressen“ ab**). — Die Stabheuschrecke (Bacillus)",
+   "main": "הסל",
+   "check": "חסל",
+   "confident": true,
+   "note": "חסיל derives from the root חסל, \"to devour\" (Deut 28:38 יחסלנו). הסל is not a word and is an ח/ה OCR confusion.",
+   "printed": "חסל"
+  },
+  {
+   "page": 296,
+   "line": "(kurzer Weg, compendiaria), so entspricht auch מוף, Memphis; חוף, τύμπα-",
+   "main": "חוף",
+   "check": "תוף",
+   "confident": true,
+   "note": "תוף (drum) corresponds to Greek τύμπανον, the example of a lost μ. חוף means 'shore', which does not fit the comparison.",
+   "printed": "תוף"
+  },
+  {
+   "page": 296,
+   "line": "ν in ם eingeschoben, z. B. קומקמא (Kessel, cucuma, κουκκούμιον), פרמביא",
+   "main": "ם",
+   "check": "מ",
+   "confident": false,
+   "note": "The line says a mem is inserted, as in קומקמא, פרמביא and סימפין. Cited in isolation the letter would normally be printed as medial מ, but final ם is also possible, so this is a guess.",
+   "printed": "מ"
+  },
+  {
+   "page": 296,
+   "line": "(Halster, φορβεία), סימפין, Rohr, σίφων).",
+   "main": "סימפין",
+   "check": "סימפון",
+   "confident": true,
+   "note": "Rabbinic סימפון (tube, pipe; cf. סימפונות, the bronchial tubes) renders σίφων, with an inserted mem. סימפין is not an attested form; the OCR likely confused ו with י.",
+   "printed": "סימפון"
+  },
+  {
+   "page": 297,
+   "line": "Heuschrecke וחל, welche auch אסקרין heißt; sie wird ohne Springfüße",
+   "main": "וחל",
+   "check": "זחל",
+   "confident": true,
+   "note": "The locust in Chullin 65a is זחל (zachal), and Lewysohn glosses it as \"kriechen\" (to creep), which is the Hebrew root זחל. The reading וחל is not this word.",
+   "printed": "זחל"
+  },
+  {
+   "page": 297,
+   "line": "und ist nur die Uebersetzung von וחל „kriechen“; wir haben demnach",
+   "main": "וחל מין גוזי",
+   "check": "זחל נין",
+   "confident": false,
+   "note": "The gloss „kriechen“ (to crawl) points to זחל, the usual Hebrew verb for crawling, so B's first word fits and A's וחל looks like a ז/ו misread. Neither reading matches the printed line exactly: A adds מין גוזי and B adds נין, so this is not certain.",
+   "printed": "זחל נין"
+  },
+  {
+   "page": 297,
+   "line": "(Schachrit des 7. Pessachtages s. v. חסדי ד' אוכיר) das Wort durch: „Erd-",
+   "main": "ד אוכיר",
+   "check": "ר אזכיר",
+   "confident": true,
+   "note": "The phrase is Isa. 63:7, חסדי ה' אזכיר (\"I will recall the kindnesses of the LORD\"), which opens a piyyut. ד' is the standard abbreviation for the divine name, so reading B's ר is a ד/ר misread and A carries that ד correctly. But B's אזכיר is the real word, while A's אוכיר is a ז/ו error and not a word.",
+   "printed": "ר אזכיר"
+  },
+  {
+   "page": 298,
+   "line": "zu Nidda 63, a s. v. חנא). Für die Krankheit in Folge des Skor-",
+   "main": "חנא",
+   "check": "תנא",
+   "confident": true,
+   "note": "Tosafot catchwords (s.v.) often begin with תנא, which introduces a baraita. חנא is only a personal name and is not a plausible catchword here, so ח for ת looks like an OCR confusion.",
+   "printed": "תנא"
+  },
+  {
+   "page": 298,
+   "line": "kanntlich vor dem After des Skorpions. Vergl. וביב נושכת בצירעה (Raschi zu",
+   "main": "וביב נושכת בצירעה",
+   "check": "וכיב נשכח כצירעה ליעקציה",
+   "confident": true,
+   "note": "Reading A, וביב נושכת בצירעה, is a coherent phrase (\"stings like a hornet\", Rashi on Chulin 58b). Reading B misreads ו as כ and ו/ת as ח, and wrongly pulls in ליעקציה, which belongs to the next citation.",
+   "printed": "וביב נושכת בצירעה"
+  },
+  {
+   "page": 298,
+   "line": "Schlange an: דמחייא והורה דמחייא, daß er den Stich mehrmals wiederholt.",
+   "main": "והורה",
+   "check": "וחוזרה",
+   "confident": true,
+   "note": "The Yerushalmi passage says the scorpion strikes, then 'returns' (חוזרת) and strikes again, which matches 'wiederholt'. והורה ('and taught/instructed') makes no sense in this context.",
+   "printed": "וחוזרה"
+  },
+  {
+   "page": 299,
+   "line": "עקרב שבחדייב (Sabbat 121, b). Aruch liest הדייב, welche Lese-",
+   "main": "שבחדייב הדייב",
+   "check": "שכחדייב הרייב",
+   "confident": true,
+   "note": "Shabbat 121b has עקרב שבחדייב (Adiabene), so ב (not כ) is correct. Aruch's variant is הדייב (Hadyab) with ד; B's הרייב with ר is not a known reading.",
+   "printed": "שבחדייב הדייב"
+  },
+  {
+   "page": 299,
+   "line": "בוכיא (Succa 52, a), Raschi erklärt: Es ist die עכביש oder אורניא,",
+   "main": "אורניא",
+   "check": "אוריניא",
+   "confident": false,
+   "note": "Rashi's Old French gloss for 'araignée' is usually spelled with a yod for the 'ai' sound, which favours אוריניא. But the two readings differ only by one yod, and OCR can easily drop or add one, so this is a guess.",
+   "printed": "אוריניא"
+  },
+  {
+   "page": 300,
+   "line": "36, col. 1036) hat daher auch die Leseart קופרים (Igel, §. 134) für",
+   "main": "קופרים",
+   "check": "קופדים",
+   "confident": true,
+   "note": "The gloss 'Igel' (hedgehog) matches biblical קפוד and rabbinic קופד/קיפוד, whose plural is קופדים. קופרים is a ד/ר misreading and is not the hedgehog word.",
+   "printed": "קופדים"
+  },
+  {
+   "page": 300,
+   "line": "קופין, Affen. Es könnte aber die Leseart קופין beibehalten bleiben,",
+   "main": "קופין",
+   "check": "קפין",
+   "confident": true,
+   "note": "The same line repeats the word as קופין ('die Leseart קופין beibehalten'). The Talmud passage on raising animals to clear mice (Bava Kamma 80a) also spells 'apes' plene as קופין, so B looks like a dropped ו.",
+   "printed": "קופין"
+  },
+  {
+   "page": 302,
+   "line": "befestigt (Uxin 3, 10). Wenn man die Honigtafeln (חליות דבש) aus",
+   "main": "חליות",
+   "check": "חלות",
+   "confident": true,
+   "note": "Mishnah Uktzin 3:11 has חלות דבש, 'honeycombs', which matches 'Honigtafeln'. חליות means vertebrae and is the wrong word here.",
+   "printed": "חלות"
+  },
+  {
+   "page": 302,
+   "line": "קירותא (Κηρὸς) erklärt (Sabbat 20, b), und קירה (Cera, Jebamoth",
+   "main": "קירותא",
+   "check": "קירוותא",
+   "confident": false,
+   "note": "Lewysohn glosses the Talmudic wax word (Shabbat 20b) with Greek κηρός. The single-vav form קירותא is the more usual Aramaic spelling, but a double-vav plene spelling cannot be ruled out from memory.",
+   "printed": "קירותא"
+  },
+  {
+   "page": 303,
+   "line": "גוין steht gewöhnlich neben צירעין (Hornissen), wird aber von",
+   "main": "גוין",
+   "check": "גוזי",
+   "confident": false,
+   "note": "Reading A (גוין) appears throughout the passage, and as a plural in -ין it fits the pairing with צירעין. The Talmudic word in Shabbat 106b is usually spelled גזין, so neither reading matches exactly; A is the closer and more consistent form, but this is uncertain.",
+   "printed": "גוין"
+  },
+  {
+   "page": 303,
+   "line": "Raschi als Heuschreckenart erklärt. Sabbat 106, b sagt derselbe: גוין",
+   "main": "גוין",
+   "check": "גוזי",
+   "confident": false,
+   "note": "Every other occurrence in the passage reads גוין, the plural form used for this insect (cf. Talmudic גזין, wasps). גוזי lacks the final nun, so it looks like a misread.",
+   "printed": "גוין"
+  },
+  {
+   "page": 303,
+   "line": "er: גוין und צירעין sind Arten von ארבה; schon die Variation über",
+   "main": "גוין",
+   "check": "גוזי",
+   "confident": false,
+   "note": "Reading A (גוין) matches the spelling used in every other line of the passage. The Talmudic term is properly גזין (Shabbat 106b), so the print may differ slightly. Reading B (גוזי) lacks the plural ending -ין and fits neither form.",
+   "printed": "גוין"
+  },
+  {
+   "page": 303,
+   "line": "גוין, die bald zu חגב (§. 384), bald zu ארבה (§. 373) gezählt wer-",
+   "main": "גוין",
+   "check": "גוזי",
+   "confident": true,
+   "note": "The passage consistently prints גוין (the insect named beside צירעין in Berachoth/Bechoroth, cf. Talmudic גזין). גוזי breaks the plural ‑ין form used in every other line, so it is an OCR error.",
+   "printed": "גוין"
+  },
+  {
+   "page": 303,
+   "line": "schreckenart zu erklären, berechtigt zur Annahme, daß auch גוין zu dem",
+   "main": "גוין",
+   "check": "גוזי",
+   "confident": true,
+   "note": "Every other occurrence in the passage reads גוין, paired with צירעין (the Talmudic 'honey of gazin and tziraʿin'). The plural ending ־ין fits this pairing; גוזי lacks it and is not the form used here.",
+   "printed": "גוין"
+  },
+  {
+   "page": 303,
+   "line": "heißt aber nur דבש הצירעים, und der der Wespen nur דבש הגוין; es",
+   "main": "הגוין גוין גוין גוי זבי",
+   "check": "הגוזין גוזי גוזי גוזי יוזי",
+   "confident": false,
+   "note": "In the Talmudic list (Shabbat 106b, Bechorot 7b) the wasp word is gazin/guzin, spelled גזין or גוזין. Reading B's גוזין is an attested variant; reading A's גוין is not a word, though both readings may garble an original גזין.",
+   "printed": "הגוזין גוזי גוזי גוזי יוזי"
+  },
+  {
+   "page": 303,
+   "line": "ערעיתא (Sabbat 80, b). — Für den Frauennamen דבורה setzt der",
+   "main": "ערעיתא",
+   "check": "ערעותא",
+   "confident": false,
+   "note": "ערעיתא fits the Aramaic feminine ending -ita, like זיבוריתא in the same line, as a term for hornet/wasp at Sabbat 80b. This is from memory and the ו/י confusion is common, so it is uncertain.",
+   "printed": "ערעיתא"
+  },
+  {
+   "page": 304,
+   "line": "Festsetzung eines Testamentes Zeit erübrigen will, sehr scharfen (אינגרא,",
+   "main": "אינגרא",
+   "check": "איגרא",
+   "confident": false,
+   "note": "OCR is more likely to drop a letter than add one, and the form with nun resembles a word-form I seem to recall from the Avodah Zarah 12b passage, but I could not verify this. Reading B, without the nun, is closer to the French 'aigre' he compares, so both remain possible.",
+   "printed": "אינגרא"
+  },
+  {
+   "page": 305,
+   "line": "— In unserer Talmudstelle stehen צירעה שבנינוה und זבוב שבארץ",
+   "main": "שבארץ",
+   "check": "שכארץ",
+   "confident": true,
+   "note": "The phrase is זבוב שבארץ מצרים, \"the fly that is in the land of Egypt\". It parallels צירעה שבנינוה just before it, which uses the same ש + ב construction. שכארץ (\"that is like the land\") makes no sense here.",
+   "printed": "שבארץ"
+  },
+  {
+   "page": 306,
+   "line": "חפושית entspricht dem arab. خُنْفَسآء*).",
+   "main": "חפושית חיפושתא גמלניתא חיפושתא חיפושתא",
+   "check": "חפושיח חיפושחא חיפושחא גמלניחא חיפושחא",
+   "confident": true,
+   "note": "The printed forms are חפושית and the Aramaic חיפושתא (beetle, cf. A. Zara 28b). Reading B's חפושיח and חיפושחא are not words; they come from the common OCR confusion of ת with ח.",
+   "printed": "חפושית חיפושתא גמלניתא חיפושתא חיפושתא"
+  },
+  {
+   "page": 306,
+   "line": "גמלניתא (transponirt aus μέγαλον; sieh ausführlich §. 355) erklärt",
+   "main": "גמלניתא גמה",
+   "check": "גמלניחא גסה",
+   "confident": false,
+   "note": "The word on the marked line is גמלניתא, spelled with ת as elsewhere in the passage, so A is right there; B's גמלניחא is not a word. However, Rashi's 'groß' is גסה, which supports B's second word, so neither reading is fully right.",
+   "printed": "גמלניתא גמה"
+  },
+  {
+   "page": 306,
+   "line": "Das arab. ن geht in den aram. Wörtern verloren, so ist קפור (§. 134)",
+   "main": "קפור חויר",
+   "check": "קפוד חזיר",
+   "confident": true,
+   "note": "Arabic qunfudh (hedgehog) corresponds to קפוד, and khinzir (pig) corresponds to חזיר. קפור and חויר are OCR confusions of ד/ר and ז/ו.",
+   "printed": "קפוד חזיר"
+  },
+  {
+   "page": 306,
+   "line": "In unserer Stelle heißt das Fett חרבא (s. §. 92); allein eigentliches",
+   "main": "חרבא חרבא",
+   "check": "תרבא תרבא",
+   "confident": true,
+   "note": "Aramaic תרבא means 'fat, suet' (Hebrew חלב), which matches 'das Fett'; חרבא means 'sword' or 'ruin' and does not fit.",
+   "printed": "תרבא תרבא"
+  },
+  {
+   "page": 306,
+   "line": "Rappoport in der dem ער גל vorangehenden Abhandlung, S. 43) behauptet, daß",
+   "main": "ער",
+   "check": "עד",
+   "confident": true,
+   "note": "This refers to the book גל עד (Gal-Ed), the Prague gravestone inscriptions, which opens with Rapoport's essay. The title is Genesis 31:47; ער גל is not a title.",
+   "printed": "עד"
+  },
+  {
+   "page": 307,
+   "line": "Species im Talmud gemeint sei. Sie heißen allgemein חולעת (Mid-",
+   "main": "חולעת דרני",
+   "check": "תולעת רני",
+   "confident": false,
+   "note": "The printed text is probably תולעת דרני: תולעת is 'worm' (Middoth 2,5) and דרני is the woodworm word cited for Sabbat 102b. Each reading has one error. A has the common ח/ת look-alike slip but keeps the correct דרני. B drops a letter from דרני to give רני, which is not the word cited. So A is closer, but neither matches exactly.",
+   "printed": "חולעת דרני"
+  },
+  {
+   "page": 308,
+   "line": "er: יחוש שבכלים. — Das erste Wort bezeichnet auch sonst kleine",
+   "main": "שבכלים כלים",
+   "check": "שבכליסים כליסים",
+   "confident": false,
+   "note": "The Talmudic phrase is 'gnats in the kelisin' (יבחושין שבכליסין), a legume. This matches Rashi's gloss מין קטנית and Mussaphia's derivation from Greek ὦχρος. Reading A, שבכלים ('in vessels'), looks like ס misread as final ם. The exact printed ending is uncertain, so this is not confident.",
+   "printed": "שבכליסים כליסים"
+  },
+  {
+   "page": 308,
+   "line": "durch: מין קטנית צידראש „eine Art Erbsen, Ciceres.“ Dieses Wort",
+   "main": "קטנית צידראש כלימין אבלסן",
+   "check": "קטניה צירראש כליסין אכלסין",
+   "confident": false,
+   "note": "The Talmud (Hullin 67) has יבחושין שבכליסין, so כליסין in B fits, and אכלסין fits Greek ὦχρος. But A's קטנית is the usual Rashi spelling, so the readings are mixed.",
+   "printed": "קטניה צירראש כליסין אכלסין"
+  },
+  {
+   "page": 308,
+   "line": "Schirim fol. 1, col. 3) das Sprüchwort: מה ילדת חיפושיתה קרוצי בישי",
+   "main": "בישי",
+   "check": "ביש",
+   "confident": false,
+   "note": "The plural קרוצי calls for the plural adjective בישי ('worse than it'), which fits the Aramaic proverb as cited. The singular ביש is less fitting here, but I am not certain of the exact printed form.",
+   "printed": "בישי"
+  },
+  {
+   "page": 308,
+   "line": "חיפושיתה übersetzt Matnat Kehuna fälschlich durch Skorpion (שקרפיון),",
+   "main": "שקרפיון",
+   "check": "עקרפין",
+   "confident": false,
+   "note": "Matnat Kehuna typically gives vernacular glosses in Hebrew letters, and שקרפיון renders German 'Skorpion'. עקרפין is not a known word and looks like an OCR blend with עקרב.",
+   "printed": "שקרפיון"
+  },
+  {
+   "page": 309,
+   "line": "son identificirt דירה mit סלמנטין, jedoch unrichtig; s. §. 422. — Ueber",
+   "main": "סלמנטין",
+   "check": "סלמונטין",
+   "confident": false,
+   "note": "This is a guess: I cannot verify Simson's exact spelling. סלמנטין looks like the more common rabbinic form, perhaps linked to the salamander name. סלמונטין, with plene vav, is plausible too.",
+   "printed": "סלמנטין"
+  },
+  {
+   "page": 309,
+   "line": "חולעת שבעיקרי גפנים „Wurm am Stamme des Weinstocks;“ es ist",
+   "main": "חולעת",
+   "check": "תולעת",
+   "confident": true,
+   "note": "תולעת means 'worm' (Chullin 67b: תולעת שבעיקרי גפנים), matching Lewysohn's gloss „Wurm“; חולעת is not a word, just a ח/ת OCR confusion.",
+   "printed": "תולעת"
+  },
+  {
+   "page": 309,
+   "line": "Oelbeerbaumes als verbotenes Insect betrachtet wird, er heißt: חולעת",
+   "main": "חולעת",
+   "check": "תולעת",
+   "confident": true,
+   "note": "The Hebrew word for 'worm' is תולעת (tola'at), as in Chullin 67b's תולעת שבזיתים. The reading חולעת is not a word; it comes from confusing ח with ת.",
+   "printed": "תולעת"
+  },
+  {
+   "page": 310,
+   "line": "שבעיקרי זחים „Wurm am Stamme der Oelbäume.“ — Auch dieses",
+   "main": "שבעיקרי זחים איילא",
+   "check": "שלעיקרי זתים אילא",
+   "confident": false,
+   "note": "Neither reading is clean. 'שבעיקרי' (\"in the roots of\") is the expected form, while 'שלעיקרי' looks like a misread. A's 'זחים' reads like a ח/ת confusion for 'זתים' (olives), which is the more typical OCR slip. The spelling איילא vs אילא is uncertain, so this is a guess.",
+   "printed": "שבעיקרי זחים איילא"
+  },
+  {
+   "page": 310,
+   "line": "חולעת שבחמרים — erst später in sie gerathen sein (Chulin 58, b),",
+   "main": "חולעת שבחמרים חולעת",
+   "check": "תולעת שבתמרים תולעת",
+   "confident": true,
+   "note": "The phrase means 'worm in dates', i.e. תולעת שבתמרים (tola'at, worm; tamar, date). Reading A's חולעת and שבחמרים come from the common ח/ת confusion and give no meaningful word here.",
+   "printed": "תולעת שבתמרים תולעת"
+  },
+  {
+   "page": 310,
+   "line": "denden Würmer: וזין שבערשים, was Raschi durch כוצנש, Cossons,",
+   "main": "וזין שבערשים כוצנש וזין זין",
+   "check": "זזין שבעדשים כוצוש זיז זז",
+   "confident": false,
+   "note": "Chullin 67b has זיזין שבעדשים, and B correctly reads שבעדשים (A has ר for ד). B's זיז also fits Landau's 'Bewegung' etymology (cf. זיז שדי). However, neither reading gets the first word (זיזין) right, and A's כוצנש matches 'Cossons' better than B's כוצוש.",
+   "printed": "זזין שבעדשים כוצוש זיז זז"
+  },
+  {
+   "page": 311,
+   "line": "sagt Raschi: Es sind dies die כוצנס, Cossons, welche in Bohnen",
+   "main": "כוצנס",
+   "check": "כוזעי",
+   "confident": true,
+   "note": "Rashi's Old French gloss here is 'cosson' (weevil), which Hebrew script renders as כוצנ\"ש / כוצנס; the passage itself gives 'Cossons'. Reading B, כוזעי, does not transcribe that word.",
+   "printed": "כוצנס"
+  },
+  {
+   "page": 311,
+   "line": "ein Wurm (חולעתא) fiel, welchen jenes Thier sogleich fing und ver-",
+   "main": "חולעתא ובזבזין ובהגזין",
+   "check": "תולעתא וכבוזין ובהגנין",
+   "confident": false,
+   "note": "Reading A's ובזבזין matches Lewysohn's own comment on the word זבזין, while B's וכבוזין and ובהגנין do not. However, the Talmudic word for worm is תולעתא, which favours B's first word, so neither reading is fully right.",
+   "printed": "חולעתא ובזבזין ובהגזין"
+  },
+  {
+   "page": 311,
+   "line": "ובזבזין ובהגזין ובשקצים וברמשים; das Wort זבזין wird wohl aus זבזבין cor-",
+   "main": "זבזין זבזבין",
+   "check": "זבוזין וכוביז",
+   "confident": true,
+   "note": "The sentence reads: \"das Wort זבזין wird wohl aus זבזבין corrumpirt sein\" (the word zbzyn is probably a corruption of zbzbyn). Reading A gives exactly these two words, the attested form and its proposed emendation. Reading B (זבוזין וכוביז) is garbled and is not meaningful Hebrew or Aramaic.",
+   "printed": "זבזין זבזבין"
+  },
+  {
+   "page": 312,
+   "line": "הה דרימוני (Sabbat 90, b) identisch, welches Insect zu verschlingen",
+   "main": "דרימוני מילווין",
+   "check": "דרימיני מילויו",
+   "confident": false,
+   "note": "Reading A has the correct spelling for 'of pomegranates' (as in the pomegranate worm of Shabbat 90b); B's רימיני looks like a ו/י confusion. The second word in both readings is unclear, so this is not certain.",
+   "printed": "דרימוני מילווין"
+  },
+  {
+   "page": 312,
+   "line": "natürliche Fäulniß übergegangene Saat der Ausdruck החליע gebraucht",
+   "main": "החליע",
+   "check": "התליע",
+   "confident": true,
+   "note": "Kilayim 2:3 has 'עד שתתליע' (let the sown seed rot or become wormy), from the root תלע, hiphil התליע, which fits 'natural decay'. החליע is not a word with this meaning.",
+   "printed": "התליע"
+  },
+  {
+   "page": 312,
+   "line": "זבוב (Nidda 25, a), דורבא (Berachoth 44, a), pl. דידבי (Nidda",
+   "main": "דידבי",
+   "check": "דירבי",
+   "confident": true,
+   "note": "The Aramaic word for fly is דידבא, with the plural דידבי (Nidda 17a). The form דידבתא cited right after it in the passage supports the reading דידבי; דירבי is a ד/ר misreading.",
+   "printed": "דידבי"
+  },
+  {
+   "page": 313,
+   "line": "Fliegen durch Affen s. §. 401. — Ueber זבזין, s. S. 311, Anmerkung.",
+   "main": "זבזין",
+   "check": "זבובי",
+   "confident": false,
+   "note": "A cross-reference to a note on another page suggests a distinct, unusual lemma. זבזין fits that better than the construct plural זבובי, which is odd standing alone. I could not confirm the word against a source.",
+   "printed": "זבזין"
+  },
+  {
+   "page": 314,
+   "line": "יבחושין, Raschi erklärt: כמין יתושים דקין הנמצאות במרתפות של יין „eine",
+   "main": "יתושים",
+   "check": "יחושים",
+   "confident": true,
+   "note": "Rashi's gloss reads כמין יתושים דקין, \"like thin gnats\", which matches Lewysohn's \"dünner Mücken\". יתושים (gnats) is the standard word, while יחושים is not a word and comes from the ח/ת confusion.",
+   "printed": "יתושים"
+  },
+  {
+   "page": 314,
+   "line": "Raschi (Lev. 11, 11) durch מושיילונם, Moucherons, und unserer Fliege",
+   "main": "מושיילונם",
+   "check": "מושיילונס",
+   "confident": true,
+   "note": "Rashi's Old French gloss for 'moucherons' (mouchelons) ends in the plural -s, written ס. A final ם makes no sense in a French loanword transliteration.",
+   "printed": "מושיילונס"
+  },
+  {
+   "page": 315,
+   "line": "קרצית ist eine große Fliege von der Größe einer Heuschrecke und hält",
+   "main": "קרצית קרצית קרצית קרצית קרצית",
+   "check": "קרציח קרציח קרציח קדטית קרציח",
+   "confident": true,
+   "note": "The Talmudic word is קרצית, a kind of fly or tick (Shabbat 109b). Reading B's קרציח is a ח/ת confusion and not a real word, and its קדטית is garbled.",
+   "printed": "קרצית קרצית קרצית קרצית קרצית"
+  },
+  {
+   "page": 316,
+   "line": "schöpfe מפניע habe. Raschi erklärt: מפניע ist ein kleines Thier, dessen",
+   "main": "מפניע מפניע מפניע",
+   "check": "מפגיע מפגיע מפגיע",
+   "confident": true,
+   "note": "Shabbat 77b reads אימתא דכילבית על ארי... ממפגיע (mafgia), the small creature the lion fears. מפגיע is the attested word, and מפניע is a ג/נ OCR confusion.",
+   "printed": "מפגיע מפגיע מפגיע"
+  },
+  {
+   "page": 316,
+   "line": "Sie werden מויקי בית genannt (Rabba Bereschit fol. 60, c).",
+   "main": "בית",
+   "check": "ביח",
+   "confident": true,
+   "note": "בית ('house') is a real word that fits the phrase (cf. מזיקי בית); ביח is not a Hebrew or Aramaic word and is a typical ת/ח misread.",
+   "printed": "בית"
+  },
+  {
+   "page": 317,
+   "line": "band man Spänchen von Wachholder (ריחמא; nach Rosenmüller",
+   "main": "ריחמא",
+   "check": "ריהמא",
+   "confident": false,
+   "note": "In Sabbat 54b the word is likely ריתמא (retama/broom), so both readings may be OCR errors. A, ריחמא, matches the later occurrence in the passage, but this is a guess.",
+   "printed": "ריחמא"
+  },
+  {
+   "page": 317,
+   "line": "Gaon (Para 9, 2) identificirt דרן mit דירה (§. 413); über ריחמא und",
+   "main": "ריחמא",
+   "check": "ריהמא",
+   "confident": false,
+   "note": "The Talmudic word (Shabbat 54b, juniper/broom) is ריתמא. ריחמא is the closer, more plausible print form (ח/ת confusion), matching the passage's other occurrences. ריהמא is not an attested word.",
+   "printed": "ריחמא"
+  },
+  {
+   "page": 318,
+   "line": "הנמצאים בין עור לבשר כשמפשיטין הבהמה ובלע\"ז גרביליש „Würmer,",
+   "main": "גרביליש גרבליש",
+   "check": "גרבילו\"ש גרבלי\"ש",
+   "confident": false,
+   "note": "Rashi's foreign glosses (la'azim) are usually printed with gershayim, as in the ובלע\"ז just before the word. An OCR engine is more likely to drop those marks than to invent them, so B probably reflects the print. Both readings are plausible transliterations of an Old French word.",
+   "printed": "גרבילו\"ש גרבלי\"ש"
+  },
+  {
+   "page": 318,
+   "line": "mitgetheilt werden. Sie lautet: אמר רב ליה בקא בר יומא ולית דירבא",
+   "main": "ליה",
+   "check": "לית",
+   "confident": true,
+   "note": "Chullin 58b reads \"אמר רב לית בקא בר יומא\", i.e. \"there is no gnat that lives a day\". This is paralleled by the following \"ולית דירבא בר שתא\", so לית is required and ליה makes no sense here.",
+   "printed": "לית"
+  },
+  {
+   "page": 318,
+   "line": "mitgetheilt werden. Sie lautet: אמר רב ליה בקא בר יומא ולית דירבא",
+   "main": "דירבא",
+   "check": "דידבא",
+   "confident": true,
+   "note": "In Chulin 58b the gnat lives one day and none 'grows' (רבי/רבא) to a year, so דירבא fits. דידבא is not a meaningful word.",
+   "printed": "דירבא"
+  },
+  {
+   "page": 318,
+   "line": "im Sinne von תמריא (Hiob 39, 10) und übersetzt es durch wider-",
+   "main": "תמריא",
+   "check": "המריא",
+   "confident": true,
+   "note": "The biblical word is תַּמְרִיא from Job 39:18, 'כעת במרום תמריא', which Raschi quotes in the next line as 'כעת תמריא'. The same spelling recurs throughout the passage, so המריא is an OCR ה/ת confusion.",
+   "printed": "תמריא"
+  },
+  {
+   "page": 318,
+   "line": "setzen, er sagt: לשון כעת תמריא נתנכרה לו ומרדה עליו אינשלבייר „ähn-",
+   "main": "תמריא",
+   "check": "חמריא",
+   "confident": true,
+   "note": "The passage quotes the biblical verse 'כעת במרום תמריא' (Job 39:18), so the printed word is the biblical verb תמריא. Lewysohn uses the same spelling throughout the passage. חמריא is not that biblical form.",
+   "printed": "תמריא"
+  },
+  {
+   "page": 318,
+   "line": "setzen, er sagt: לשון כעת תמריא נתנכרה לו ומרדה עליו אינשלבייר „ähn-",
+   "main": "אינשלבייר תמריא תמריא",
+   "check": "אינשלביי\"ר חמריא חמריא",
+   "confident": true,
+   "note": "The biblical word cited is תמריא, from Job 39:18 'כעת במרום תמריא', and the passage spells it this way throughout. Reading B's חמריא ('donkeys/wine') is a ח/ת confusion and the wrong word for this source.",
+   "printed": "אינשלבייר תמריא תמריא"
+  },
+  {
+   "page": 319,
+   "line": "construirt, es müßte alsdann אימרא כבקא heißen. Raschi nimmt",
+   "main": "כבקא",
+   "check": "בבקא",
+   "confident": true,
+   "note": "The sentence says רום takes a following ב, so the required form is אימרא בבקא, with the preposition ב prefixed to בקא. כבקא would not fit that construction.",
+   "printed": "בבקא"
+  },
+  {
+   "page": 319,
+   "line": "weder mit einfachem Accusativ אימרא בקתא בקא (nach Deut. 1, 26;",
+   "main": "בקתא",
+   "check": "בקחא",
+   "confident": false,
+   "note": "בקתא is a real Aramaic form (cf. בקא, gnat); בקחא is not a word. The garbled line makes the exact printed text uncertain.",
+   "printed": "בקתא"
+  },
+  {
+   "page": 319,
+   "line": "mals aber wird מרה mit ם construirt; Aruch hat in der That לבקא, was",
+   "main": "ם",
+   "check": "מ",
+   "confident": false,
+   "note": "A lone letter naming a preposition prefix is normally printed in its non-final form, so מ is likelier than final ם. The printed letter may well have been another one entirely, such as ב, so this is a guess between two forms.",
+   "printed": "מ"
+  },
+  {
+   "page": 319,
+   "line": "pliren, und אימרא בקתא für Ἡμέρα Bacta, d. i. Musca ephe-",
+   "main": "בקתא מילני",
+   "check": "בקחא מיליני",
+   "confident": true,
+   "note": "The passage itself spells the word בקתא twice ('Bacta'). בקחא is a ת/ח misreading, and מילני matches the following line's citation for μέλαινα.",
+   "printed": "בקתא מילני"
+  },
+  {
+   "page": 319,
+   "line": "Was בקתא betrifft, so erklärt Raschi dasselbe durch מין זבוב צינצא",
+   "main": "בקתא",
+   "check": "בקחא",
+   "confident": true,
+   "note": "The preceding line reads אימרא בקתא, and the passage discusses בקתא as a gnat or fly (Talmudic בקתא, cf. בקי in Succa 26a). בקחא is a ח/ת OCR confusion.",
+   "printed": "בקתא"
+  },
+  {
+   "page": 319,
+   "line": "צינצלש. — Burdorf (Lex. p. 342) nimmt das Fremdwort für das",
+   "main": "צינצלש",
+   "check": "צינצלי",
+   "confident": true,
+   "note": "Rashi's Old French gloss is 'cinceles' (gnats). The final ש renders the French plural -s, so צינצלש fits. צינצלי has no matching French form.",
+   "printed": "צינצלש"
+  },
+  {
+   "page": 320,
+   "line": "graphische Lage von מחוזא vergl. noch Art. Kröte.",
+   "main": "מחוזא מקק דספרי מקק נמק מקק",
+   "check": "מחזא סקק דסיפרי סקק נסק סקק",
+   "confident": true,
+   "note": "The place name is מחוזא (Mechoza), and the paper-louse term is מקק (as in מקק ספרים, 'book-worm'). Reading B's סקק is a misread of final ם/ס-type letters and is not a word here, and מחזא drops the vav of the place name.",
+   "printed": "מחוזא מקק דספרי מקק נמק מקק"
+  },
+  {
+   "page": 320,
+   "line": "ibid. heißt sie מקק ספרים ומקק מטפחותיהם „Zernagerin der Bücher",
+   "main": "ומקק",
+   "check": "וסקק",
+   "confident": true,
+   "note": "The Mishnah (Shabbat 90a) reads מקק ספרים ומקק מטפחותיהם, and Lewysohn glosses it \"und Zernagerin ihrer Decken\". So the word is ומקק; וסקק is not a word.",
+   "printed": "ומקק"
+  },
+  {
+   "page": 320,
+   "line": "S. über unsere Stelle speciell Tosephot zu B. Kama 92, b s. v. שיתין",
+   "main": "שיתין שיתין",
+   "check": "שיחין שיחין",
+   "confident": true,
+   "note": "Aramaic שיתין ('sixty') is the Tosafot lemma in both B. Kama 92b (שיתין רהיטי) and M. Katan 28a, where sixty is discussed as a stock number. שיחין ('pits') fits neither passage.",
+   "printed": "שיתין שיתין"
+  },
+  {
+   "page": 321,
+   "line": "laus, §. 439), חבך דשיראי (Seidenmotte, §. 441), פח דתאנה (Fei-",
+   "main": "חבך",
+   "check": "חכך",
+   "confident": false,
+   "note": "Low-confidence guess: חכך (from the root 'to rub, scratch') fits a silk-gnawing moth slightly better. I could not recall the Talmud passage's exact spelling, so חבך remains possible.",
+   "printed": "חכך"
+  },
+  {
+   "page": 321,
+   "line": "gengallwespe, §. 407) und איילא דעינבא (Traubenkäfer, §. 417); hier-",
+   "main": "איילא",
+   "check": "אילא",
+   "confident": false,
+   "note": "The Talmudic list of insects is usually cited as אילא דעינבי (grape worm or beetle), so B is slightly favoured. The plene spelling איילא is also attested in dictionaries, so both are possible.",
+   "printed": "אילא"
+  },
+  {
+   "page": 321,
+   "line": "יזהר אדם ממקק סופרים (פירוש אבק שמשימין הסופרים על כתיבתן כדי",
+   "main": "יזהר",
+   "check": "יוהר",
+   "confident": true,
+   "note": "The standard idiom is \"לעולם יזהר אדם\" (\"a person should always beware\"), followed here by מן (\"from\"). The reading יוהר is not a word.",
+   "printed": "יזהר"
+  },
+  {
+   "page": 321,
+   "line": "שלא תמחק) ,מסכך דשיארי (פירוש הסט שעל המלח) ומפח דתאיני (פי'",
+   "main": "הסט",
+   "check": "הטט",
+   "confident": false,
+   "note": "The German gloss 'am Salze haftender Gyps' (gypsum clinging to salt) points to טיט, 'clay/mud'. הטט is closer to הטיט, possibly with the yod dropped; הסט is not a meaningful word.",
+   "printed": "הטט"
+  },
+  {
+   "page": 321,
+   "line": "Die Seidenmotte heißt חבך דשיראי „Zernagerin der Seide“ (Sab-",
+   "main": "חבך",
+   "check": "חכך",
+   "confident": false,
+   "note": "חכך (root 'rub, scratch') matches 'Zernagerin' and the dictionary entry for Shabbat 90a; חבך is not a known word.",
+   "printed": "חכך"
+  },
+  {
+   "page": 321,
+   "line": "sen gehaltener Seide entsteht. — Zu Berachoth 56, a heißt sie חבלא",
+   "main": "חבלא",
+   "check": "תכלא",
+   "confident": false,
+   "note": "I recall Berachoth 56a reading 'נפל תכלא בשיראי', which points to תכלא, but that memory is uncertain. 'Verderberin' could also fit חבלא from the root חבל (to destroy), so this is partly a guess.",
+   "printed": "תכלא"
+  },
+  {
+   "page": 321,
+   "line": "tigt wurde. Die Motte heißt אבוקה und ist die Tinea pellionella,",
+   "main": "אבוקה",
+   "check": "אבזקת",
+   "confident": false,
+   "note": "אבוקה is Hebrew for 'torch' and does not mean 'moth'. The rarer form אבזקת fits the midrashic parable of a moth getting into the king's fur. I am guessing from a vague memory of the source, not confirming it.",
+   "printed": "אבזקת"
+  },
+  {
+   "page": 322,
+   "line": "wofür auch יאניכא und יניכא geschrieben wird (Chulin 85, b; Raschi:",
+   "main": "יאניכא יניכא",
+   "check": "יאניבא יניבא",
+   "confident": false,
+   "note": "Reading A agrees with the יניכא spelling Lewysohn uses in the heading line of the same entry. However, ב/כ confusion is common in OCR. Variant spellings such as ינבא are also attested, so this is close to a guess.",
+   "printed": "יאניכא יניכא"
+  },
+  {
+   "page": 322,
+   "line": "Ein Wurm, der den Flachs zerstört und טיישא (soll heißen טינשא,",
+   "main": "טינשא בליתא",
+   "check": "טיינשא בליחא",
+   "confident": false,
+   "note": "Lewysohn's correction 'soll heißen טינשא' spells the French 'teignes' with a single yod, which matches A's first word. The second word (בליתא vs בליחא) cannot be checked against the passage, so this is a lean, not a certainty.",
+   "printed": "טינשא בליתא"
+  },
+  {
+   "page": 322,
+   "line": "Talmud, die da lautet: שיורתא דנונא מהעביד נדל „Der Rückgrat des",
+   "main": "שיורתא דנונא מהעביד",
+   "check": "שיורחא רנונא מחעביד",
+   "confident": true,
+   "note": "Reading A gives proper Aramaic: שיורתא \"spine/remainder\", דנונא \"of the fish\", מתעביד/מהעביד \"becomes\". B's רנונא and שיורחא are not words here.",
+   "printed": "שיורתא דנונא מהעביד"
+  },
+  {
+   "page": 323,
+   "line": "Aehnlichkeit haben. — Sachs erklärt aber das talm. יילי (welches",
+   "main": "יילי",
+   "check": "ילי",
+   "confident": false,
+   "note": "Sachs links the word to Greek Ἰουλος. A double-yod spelling יילי (consonantal y plus vowel) fits that and Talmudic orthography, but this is a guess; I could not firmly recall the printed form.",
+   "printed": "יילי"
+  },
+  {
+   "page": 323,
+   "line": "abgeleitet. Allein in beiden Etymologien irrt sich Sachs. — Was יילי",
+   "main": "יילי יילי",
+   "check": "ילי ילי",
+   "confident": false,
+   "note": "The passage elsewhere consistently spells the word יילי (B. Batra 4a: כלילא דיילי, 'hedgehog'), which favours A. The doubling in both readings is unexplained, so this is not certain.",
+   "printed": "יילי יילי"
+  },
+  {
+   "page": 323,
+   "line": "ausstachen. Sachs, der יילי mit Vielfuß übersetzt, findet es auf-",
+   "main": "יילי יילי יילי",
+   "check": "ילי ילי ילי",
+   "confident": false,
+   "note": "Every other occurrence in the passage reads יילי, matching the Talmud's 'כלילא דיילי' (Bava Batra 4a, hedgehog skin). This suggests Lewysohn spelled the headword יילי, though ילי (cf. Onkelos ילא) is also a plausible form.",
+   "printed": "יילי יילי יילי"
+  },
+  {
+   "page": 324,
+   "line": "„saugen“, welche Grundbedeutung das häufig vorkommende מאכולח",
+   "main": "מאכולח ט נא",
+   "check": "מאכולת טינא",
+   "confident": true,
+   "note": "The printed words are מאכולת 'louse' (§. 449) and טינא, glossed 'Leidenschaft'. Reading A has ח for final ת and a broken ט נא, so it is not a word.",
+   "printed": "מאכולת טינא"
+  },
+  {
+   "page": 324,
+   "line": "und Bochart identificiren unser Insect mit כילביה (Sabbat 77, b);",
+   "main": "כילביה כילביה",
+   "check": "כילבית כילבית",
+   "confident": true,
+   "note": "Shabbat 77b reads \"אימת כילבית על לויתן\" (the fear of the kilbit upon the leviathan), so the word is כילבית. כילביה is a ה/ת confusion and not the attested form.",
+   "printed": "כילבית כילבית"
+  },
+  {
+   "page": 324,
+   "line": "כינה (Sabbat 12, a) und מאכולח (ibid.). Beide sind generelle",
+   "main": "מאכולח מאכולח",
+   "check": "מאכולת מאכולת",
+   "confident": true,
+   "note": "The Talmudic word for louse is מאכולת (Shabbat 12a; מאכולת של ראש, Nidda 19b), ending in ת. The reading מאכולח is an OCR confusion of ח for ת and is not a word.",
+   "printed": "מאכולת מאכולת"
+  },
+  {
+   "page": 325,
+   "line": "Er gehört zu denen חיין אינם חיים, deren Leben nicht als Leben be-",
+   "main": "חיין",
+   "check": "חייהן",
+   "confident": false,
+   "note": "The Talmudic phrase (Beitzah 32b, Pesachim 113b) is \"those whose lives are not lives\", built on חייהן \"their lives\". חיין is a rarer, shortened variant that remains possible.",
+   "printed": "חייהן"
+  },
+  {
+   "page": 326,
+   "line": "(s. §. 355). — Die lebendige Nisse heißt: אינבא חיה, wozu Raschi",
+   "main": "אינבא",
+   "check": "אינכא",
+   "confident": true,
+   "note": "The Talmud (Nazir 39a) uses אינבא חיה / אינבא מתה for the living and dead nit, and Jastrow lists אִינְבָּא as 'nit'. אינכא is not a word with this meaning.",
+   "printed": "אינבא"
+  },
+  {
+   "page": 326,
+   "line": "Sprache, aus den Eiern der Läuse“; die todte Nisse heißt: אינבא",
+   "main": "אינבא",
+   "check": "מביצי כינים אינכא",
+   "confident": true,
+   "note": "The marked line ends with the start of the phrase 'die todte Nisse heißt: אינבא מתה', so the printed word there is the single word אינבא, matching 'אינבא חיה' a few lines above. Reading B wrongly adds 'מביצי כינים' from Rashi's gloss in the previous line and has a ב/כ misreading (אינכא).",
+   "printed": "אינבא"
+  },
+  {
+   "page": 326,
+   "line": "vom Thale aus gesehen, nur so groß wie eine אינבא, Nisse (Tanit",
+   "main": "אינבא טיפויי",
+   "check": "איניכא סיפיי",
+   "confident": true,
+   "note": "In Ta'anit 22b the Aramaic word for a nit is אינבא. טיפויי is a plausible form for the Shabbat 107b term. Reading B's איניכא and סיפיי are not attested words.",
+   "printed": "אינבא טיפויי"
+  },
+  {
+   "page": 327,
+   "line": "Laus (§. 449): כינה קופצוח „springendes Ungeziefer“ (Tos. Sabbat 12, a.",
+   "main": "קופצוח שמא",
+   "check": "קופצות משא",
+   "confident": false,
+   "note": "קופצות ('springing', feminine plural) is a real word and fits 'springendes Ungeziefer'; קופצוח in A is not a word (ח/ת confusion). However, A's שמא matches the s.v. heading, while B's משא looks like a transposition, so this is a guess.",
+   "printed": "קופצות משא"
+  },
+  {
+   "page": 327,
+   "line": "צימצא (ital. Cimica). — Maimuni erklärt: פשפש sind runde, rothe",
+   "main": "צימצא",
+   "check": "צימיצא",
+   "confident": false,
+   "note": "Italian 'cimice' is normally spelled with a yod for each i (tsi-mi-tsa), so B fits Lewysohn's '(ital. Cimica)'. A could be a defective spelling, so this is not certain.",
+   "printed": "צימיצא"
+  },
+  {
+   "page": 327,
+   "line": "sie Baki. — Endlich erklärt Raschi das Wort durch: פוניש, Punaise",
+   "main": "פוניש",
+   "check": "פונייז",
+   "confident": false,
+   "note": "Rashi's Old French gloss for 'punaise' is plausibly spelled with double yod and final ז for the voiced s. The two readings differ in more than look-alike letters, so this is a guess.",
+   "printed": "פונייז"
+  },
+  {
+   "page": 328,
+   "line": "hang s. v. שכלון); hiermit vergl. man Harduin (in den Noten und Emenda-",
+   "main": "שכלון פשפש",
+   "check": "שבלון כפש",
+   "confident": false,
+   "note": "פשפש is the standard word for the bedbug (Wanze) in the remedy, while כפש in B is not a word. The leech term is less certain: שכלון fits the line as printed, but שבלון/שבלול cannot be ruled out.",
+   "printed": "שכלון פשפש"
+  },
+  {
+   "page": 328,
+   "line": "aus: קצת הנמלים בכנפים ומהם בלי כנפים, „ein Theil Ameisen sind beflügelt,",
+   "main": "בכנפים",
+   "check": "נכנפים",
+   "confident": true,
+   "note": "'בכנפים ומהם בלי כנפים' (with wings / without wings) is the natural parallel; נכנפים is not a standard form here.",
+   "printed": "בכנפים"
+  },
+  {
+   "page": 330,
+   "line": "Das Nest, oder der Aufenthalt der Ameisen heißt קינא דשומשמני (Ne-",
+   "main": "דשומשמני",
+   "check": "דשומשני",
+   "confident": true,
+   "note": "The Aramaic word for ant is שומשמנא, plural שומשמני, as in קינא דשומשמני ('ants' nest'). Reading B, דשומשני, drops a מ and is not a word.",
+   "printed": "דשומשמני"
+  },
+  {
+   "page": 330,
+   "line": "harten Gegenständen (חילפי Weiden, dann trockene Gegenstände über-",
+   "main": "חילפי",
+   "check": "הילפי",
+   "confident": true,
+   "note": "חילפי (willows) is the Talmudic word from Shabbat 77b, where the creature lives among willows. הילפי is not a word; the ח/ה swap is a typical OCR confusion.",
+   "printed": "חילפי"
+  },
+  {
+   "page": 331,
+   "line": "bacher zu Gebote) wird שומשמנא*) geschrieben, was Sachs (Beiträge ⁊c.",
+   "main": "שומשמנא",
+   "check": "שומשמא",
+   "confident": true,
+   "note": "The Talmudic Aramaic word for 'ant' is שומשמנא, and the passage repeats this spelling a few lines later. שומשמא is a different word, 'sesame'.",
+   "printed": "שומשמנא"
+  },
+  {
+   "page": 331,
+   "line": "Vielleicht bezeichnet שומשמנא insbesonders die Species der Arbeiter",
+   "main": "שומשמנא",
+   "check": "שומשמא",
+   "confident": true,
+   "note": "The passage consistently prints שומשמנא, the Talmudic Aramaic word for 'ant' (Ketuboth 75a: 'even if he is only as big as an ant'). B's שומשמא means 'sesame' and is the wrong word for this sense.",
+   "printed": "שומשמנא"
+  }
+ ]
+}
