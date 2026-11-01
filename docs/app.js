@@ -19,7 +19,7 @@
       tr.style.display = tr.textContent.toLowerCase().indexOf(q)>=0 ? '' : 'none';});});}
   // reading position: current § and page in the sticky bar, progress, contents highlight, back to top
   var bar=document.querySelector('nav.where'), top=document.querySelector('a.totop');
-  var secs=[].slice.call(document.querySelectorAll('.row[id^="s"]'));
+  var secs=[].slice.call(document.querySelectorAll('.row[id^="s"],.row[id^="l"]'));
   var pgs=[].slice.call(document.querySelectorAll('.cell.en a.pg'));
   var toc=document.getElementById('toc'), links={};
   if(toc) toc.querySelectorAll('li a').forEach(function(a){links[a.getAttribute('href').slice(1)]=a;});

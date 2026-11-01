@@ -1,465 +1,465 @@
 # Registers (pp. 377–400)
 
-### ‎I. Greek Register.
+### ‎I. Greek Index.
 
 ### ‎Α.
 
-‎Ἀβραμίς 264.  
-‎Ἀκρίς 295.  
-‎Ἀμία 257.  
-‎Ἀνδρό-φατος 161.  
-‎Ἀνήνιον 360.  
-‎Ἀνθίας 268.  
-‎Ἀνθρωπόγλωττον 162.  
-‎Ἀσκαρής 297.  
-‎Αὐλωπίας 268.  
-‎Ἀφρός 261.  
-‎Ἀφύη 261.
+‎Ἀβραμίς [abramis] 264.  
+‎Ἀκρίς [akris] 295.  
+‎Ἀμία [amia] 257.  
+‎Ἀνδρό-φατος [andro-phatos] 161.  
+‎Ἀνήνιον [anēnion] 360.  
+‎Ἀνθίας [anthias] 268.  
+‎Ἀνθρωπόγλωττον [anthrōpoglōtton] 162.  
+‎Ἀσκαρής [askarēs] 297.  
+‎Αὐλωπίας [aulōpias] 268.  
+‎Ἀφρός [aphros] 261.  
+‎Ἀφύη [aphyē] 261.
 
 ### ‎Β.
 
-‎Βάτος 263. 268.  
-‎Βουγενές 375.  
-‎Βούγλωσσος 275.  
-‎Βούνεβρος 151.  
-‎Βούπαις 375.  
-‎Βουποίητος 375.  
-‎Βοῦς 151. 270. 307.  
-‎Βοῦς θαλάσσιος 270.  
-‎Βροῦχος 287. 296.
+‎Βάτος [batos] 263. 268.  
+‎Βουγενές [bougenes] 375.  
+‎Βούγλωσσος [bouglōssos] 275.  
+‎Βούνεβρος [bounebros] 151.  
+‎Βούπαις [boupais] 375.  
+‎Βουποίητος [boupoiētos] 375.  
+‎Βοῦς [bous] 151. 270. 307.  
+‎Βοῦς θαλάσσιος [bous thalassios] 270.  
+‎Βροῦχος [brouchos] 287. 296.
 
 ### ‎Γ.
 
-‎Γαίδαρο 144.  
-‎Γαλεούδη 262. 272.  
-‎Γαλεώτης 262. 272.  
-‎Γαλῆ 272. 366.  
-‎Γαῦλος 233.  
-‎Γυπαίετος 372.
+‎Γαίδαρο [gaidaro] 144.  
+‎Γαλεούδη [galeoudē] 262. 272.  
+‎Γαλεώτης [galeōtēs] 262. 272.  
+‎Γαλῆ [galē] 272. 366.  
+‎Γαῦλος [gaulos] 233.  
+‎Γυπαίετος [gypaietos] 372.
 
 ### ‎Δ.
 
-‎Δράκων 240.
+‎Δράκων [drakōn] 240.
 
 ### ‎Ε.
 
-‎Ἕλμινς 311.  
-‎Ἐρωδιός 210.  
-‎Εὐλή 310.  
-‎Ἔχιδνα 238.  
-‎Ἐχῖνος 100.  
-‎Ἐχῖνος χερσαῖος 94.  
-‎Ἔχις 238.  
-‎Ἑψητός 269.
+‎Ἕλμινς [helmins] 311.  
+‎Ἐρωδιός [erōdios] 210.  
+‎Εὐλή [eulē] 310.  
+‎Ἔχιδνα [echidna] 238.  
+‎Ἐχῖνος [echinos] 100.  
+‎Ἐχῖνος χερσαῖος [echinos chersaios] 94.  
+‎Ἔχις [echis] 238.  
+‎Ἑψητός [hepsētos] 269.
 
 ### ‎Η.
 
-‎Ἡμέρα 319.  
-‎Ἡμίονος 144. 370.  
-‎Ἥμισυ 370.
+‎Ἡμέρα [hēmera] 319.  
+‎Ἡμίονος [hēmionos] 144. 370.  
+‎Ἥμισυ [hēmisy] 370.
 
 ### ‎Θ.
 
-‎Θύννος 253.  
-‎Θρίσσα 256.  
-‎Θώς 316.
+‎Θύννος [thynnos] 253.  
+‎Θρίσσα [thrissa] 256.  
+‎Θώς [thōs] 316.
 
 ### ‎Ι.
 
-‎Ἱέραξ 164.  
-‎Ἴουλος 323.
+‎Ἱέραξ [hierax] 164.  
+‎Ἴουλος [ioulos] 323.
 
 ### ‎[p. 378] K.
 
-‎Κανθήλιος 140.  
-‎Κάραβος 294.  
-‎Κατωβλέπας 358.  
-‎Κεῖπος 66.  
-‎Κερκοπίθηκος 67.  
-‎Κῆβος 66.  
-‎Κήξ 176.  
-‎Κήρυξ 281.  
-‎Κικκάβη 162.  
-‎Κίρκος 51.  
-‎Κίχλη 212.  
-‎Κνηκίας 81.  
-‎Κνώδαλον 323.  
-‎Κόγχη 374.  
-‎Κολίας 251.  
-‎Κόραξ 169.  
-‎Κόρβος 175.  
-‎Κόρυδος 177.  
-‎Κόσσυφος 259.  
-‎Κόττυφος 259.  
-‎Κοχλίον 279.  
-‎Κραμβίς 333.  
-‎Κροκίδειλος 220. 227.  
-‎Κύων 82.
+‎Κανθήλιος [kanthēlios] 140.  
+‎Κάραβος [karabos] 294.  
+‎Κατωβλέπας [katōblepas] 358.  
+‎Κεῖπος [keipos] 66.  
+‎Κερκοπίθηκος [kerkopithēkos] 67.  
+‎Κῆβος [kēbos] 66.  
+‎Κήξ [kēx] 176.  
+‎Κήρυξ [kēryx] 281.  
+‎Κικκάβη [kikkabē] 162.  
+‎Κίρκος [kirkos] 51.  
+‎Κίχλη [kichlē] 212.  
+‎Κνηκίας [knēkias] 81.  
+‎Κνώδαλον [knōdalon] 323.  
+‎Κόγχη [konchē] 374.  
+‎Κολίας [kolias] 251.  
+‎Κόραξ [korax] 169.  
+‎Κόρβος [korbos] 175.  
+‎Κόρυδος [korydos] 177.  
+‎Κόσσυφος [kossyphos] 259.  
+‎Κόττυφος [kottyphos] 259.  
+‎Κοχλίον [kochlion] 279.  
+‎Κραμβίς [krambis] 333.  
+‎Κροκίδειλος [krokideilos] 220. 227.  
+‎Κύων [kyōn] 82.
 
 ### ‎Λ.
 
-‎Λαγώς 62.  
-‎Λάιψων 83.  
-‎Λύκος 81.
+‎Λαγώς [lagōs] 62.  
+‎Λάιψων [laipsōn] 83.  
+‎Λύκος [lykos] 81.
 
 ### ‎M.
 
-‎Μαῖα 376.  
-‎Μαινὶς ὀλίγη 373.  
-‎Μέλισσα 375.  
-‎Μονόκερως 114.  
-‎Μυίσκα 283.  
-‎Μύρινος 369.  
-‎Μυστικητός 269.  
-‎Μῦς-τὸ-κῆτος 269.
+‎Μαῖα [maia] 376.  
+‎Μαινὶς ὀλίγη [mainis oligē] 373.  
+‎Μέλισσα [melissa] 375.  
+‎Μονόκερως [monokerōs] 114.  
+‎Μυίσκα [myiska] 283.  
+‎Μύρινος [myrinos] 369.  
+‎Μυστικητός [mystikētos] 269.  
+‎Μῦς-τὸ-κῆτος [mys-to-kētos] 269.
 
 ### ‎N.
 
-‎Ναυτίλος 233.
+‎Ναυτίλος [nautilos] 233.
 
 ### ‎Ξ.
 
-‎Ξιφίας 259.
+‎Ξιφίας [xiphias] 259.
 
 ### ‎O.
 
-‎Οἰνάνθη 186.  
-‎Οἰνάς 186.  
-‎Ὄνος 270.  
-‎Ὀρεύς 140.  
-‎Ὄρκυνος 258.  
-‎Ὄρνις 353.  
-‎Ὀροφηφόρος 231.  
-‎Ὄρυξ 114.  
-‎Ὀρφανός 259.  
-‎Ὄρφιον 259.  
-‎Ὄρφος 259.  
-‎Ὀρφῶς 259.  
-‎Οὐραῖα κύβια 254.  
-‎Ὄφις 239.
+‎Οἰνάνθη [oinanthē] 186.  
+‎Οἰνάς [oinas] 186.  
+‎Ὄνος [onos] 270.  
+‎Ὀρεύς [oreus] 140.  
+‎Ὄρκυνος [orkynos] 258.  
+‎Ὄρνις [ornis] 353.  
+‎Ὀροφηφόρος [orophēphoros] 231.  
+‎Ὄρυξ [oryx] 114.  
+‎Ὀρφανός [orphanos] 259.  
+‎Ὄρφιον [orphion] 259.  
+‎Ὄρφος [orphos] 259.  
+‎Ὀρφῶς [orphōs] 259.  
+‎Οὐραῖα κύβια [ouraia kybia] 254.  
+‎Ὄφις [ophis] 239.
 
 ### ‎Π.
 
-‎Πάνθηρ 71.  
-‎Πάρδαλις 71, 73.  
-‎Πελεκάν 184.  
-‎Περιστερά 186.  
-‎Περκνόπτερος 169. 241. 372.  
-‎Πορφύρα 282.  
-‎Πρηστήρ 238.
+‎Πάνθηρ [panthēr] 71.  
+‎Πάρδαλις [pardalis] 71, 73.  
+‎Πελεκάν [pelekan] 184.  
+‎Περιστερά [peristera] 186.  
+‎Περκνόπτερος [perknopteros] 169. 241. 372.  
+‎Πορφύρα [porphyra] 282.  
+‎Πρηστήρ [prēstēr] 238.
 
 ### ‎Σ.
 
-‎Σαλαμάνδρα 227.  
-‎Σέλαχος 244.  
-‎Σίττη 210.  
-‎Σκίαινα 263.  
-‎Σπογγιά 344.  
-‎Σπόγγος 344.  
-‎Συκαλίς 211.  
-‎Σφῆξ 375.  
-‎Σφύραινα 267. 369.
+‎Σαλαμάνδρα [salamandra] 227.  
+‎Σέλαχος [selachos] 244.  
+‎Σίττη [sittē] 210.  
+‎Σκίαινα [skiaina] 263.  
+‎Σπογγιά [spongia] 344.  
+‎Σπόγγος [spongos] 344.  
+‎Συκαλίς [sykalis] 211.  
+‎Σφῆξ [sphēx] 375.  
+‎Σφύραινα [sphyraina] 267. 369.
 
 ### ‎[p. 379] Τ.
 
-‎Ταχίνας 153.  
-‎Ταχύς 153.  
-‎Ταώς 189.  
-‎Τζίχλα 212.  
-‎Τίγρις 70.  
-‎Τραγέλαφος 117.  
-‎Τρόχιλος 210.
+‎Ταχίνας [tachinas] 153.  
+‎Ταχύς [tachys] 153.  
+‎Ταώς [taōs] 189.  
+‎Τζίχλα [tzichla] 212.  
+‎Τίγρις [tigris] 70.  
+‎Τραγέλαφος [tragelaphos] 117.  
+‎Τρόχιλος [trochilos] 210.
 
 ### ‎Υ.
 
-‎Ὕδρος 274.
+‎Ὕδρος [hydros] 274.
 
 ### ‎Φ.
 
-‎Φάλαινα 158.  
-‎Φάσσα 186.
+‎Φάλαινα [phalaina] 158.  
+‎Φάσσα [phassa] 186.
 
 ### ‎Χ.
 
-‎Χαλκίς 276. 372.  
-‎Χέλυς 232. 233.  
-‎Χέρσυδρος 239.
+‎Χαλκίς [chalkis] 276. 372.  
+‎Χέλυς [chelys] 232. 233.  
+‎Χέρσυδρος [chersydros] 239.
 
 ### ‎Ψ.
 
-‎Ψῆττα 274.  
-‎Ψυχή 364.
+‎Ψῆττα [psētta] 274.  
+‎Ψυχή [psychē] 364.
 
-### ‎II. Latin Register.
+### ‎II. Latin Index.
 
 ### ‎A.
 
-‎Abramis Brama 264.  
-‎Acarus farinae 312.  
-‎Acarus scabici 325.  
-‎Accipiter 164.  
-‎Alalonga 258.  
-‎Alauda 374.  
-‎Alauda cristata 177. 186.  
-‎Alcyonium cydonium 343.  
-‎Alec 259.  
-‎Amia 257.  
-‎Anableps tetrophthalmus 244.  
-‎Anas 193.  
-‎Anas Histrionica 194.  
-‎Anguis 366.  
-‎Anser 193.  
-‎Antilope Dorcas 127.  
-‎Antilope Leucoryx 149.  
-‎Antilope Oryx 114.  
-‎Aquila imperialis 166,  
-‎Aquila Valera 167  
-‎Aranea 376.  
-‎Ardea nycticorax 170.  
-‎Ardea stellaris 180.  
-‎Ascaris 339.  
-‎Asellus 270.  
-‎Asina 140.  
-‎Asinus Lybicus 142.  
-‎Asinus silvestris 143.  
-‎Asopia farinalis 309.  
-‎Atherina hepsetus 269.  
-‎Atherina presbyter 269.
+‎Abramis Brama [common bream] 264.  
+‎Acarus farinae [flour mite] 312.  
+‎Acarus scabici [itch mite] 325.  
+‎Accipiter [hawk] 164.  
+‎Alalonga [albacore] 258.  
+‎Alauda [lark] 374.  
+‎Alauda cristata [crested lark] 177. 186.  
+‎Alcyonium cydonium [quince sponge] 343.  
+‎Alec [herring] 259.  
+‎Amia [bonito] 257.  
+‎Anableps tetrophthalmus [four-eyed fish] 244.  
+‎Anas [duck] 193.  
+‎Anas Histrionica [harlequin duck] 194.  
+‎Anguis [snake] 366.  
+‎Anser [goose] 193.  
+‎Antilope Dorcas [dorcas gazelle] 127.  
+‎Antilope Leucoryx [scimitar oryx] 149.  
+‎Antilope Oryx [oryx] 114.  
+‎Aquila imperialis [imperial eagle] 166,  
+‎Aquila Valera [eagle] 167  
+‎Aranea [spider] 376.  
+‎Ardea nycticorax [night heron] 170.  
+‎Ardea stellaris [bittern] 180.  
+‎Ascaris [roundworm] 339.  
+‎Asellus [cod] 270.  
+‎Asina [she-ass] 140.  
+‎Asinus Lybicus [Libyan ass] 142.  
+‎Asinus silvestris [wild ass] 143.  
+‎Asopia farinalis [meal moth] 309.  
+‎Atherina hepsetus [sand smelt] 269.  
+‎Atherina presbyter [sand smelt] 269.
 
 ### ‎B.
 
-‎Bacchus 270.  
-‎Bacillus 296.  
-‎Balaena 158.  
-‎Balaena mysticetus 269.  
-‎Bombus lapidarius 361.  
-‎Bombyx mori 359.  
-‎Bruchus pisi 307.  
-‎Buccinus 281.
+‎Bacchus [bacchus fish] 270.  
+‎Bacillus [stick insect] 296.  
+‎Balaena [whale] 158.  
+‎Balaena mysticetus [bowhead whale] 269.  
+‎Bombus lapidarius [red-tailed bumblebee] 361.  
+‎Bombyx mori [silkworm] 359.  
+‎Bruchus pisi [pea weevil] 307.  
+‎Buccinus [whelk] 281.
 
 ### ‎C.
 
-‎Callarias 270.  
-‎Canis sagax 89.
+‎Callarias [cod] 270.  
+‎Canis sagax [hound] 89.
 
-‎[p. 380] Canissa 87.  
-‎Capra silvestris 126.  
-‎Casina 87.  
-‎Catelli 87.  
-‎Catuli 87.  
-‎Cephalopterus cornuta 271.  
-‎Cervus volans 294.  
-‎Clupea Sprattus 260.  
-‎Cobitis fossilis 266.  
-‎Colias Hyspanus 251.  
-‎Coluber cerastes 243.  
-‎Columba domestica 200.  
-‎Columba Livia cocullata 204.  
-‎Columba Livia gyratrix 205.  
-‎Columba Oenas 186.  
-‎Cordyla 253.  
-‎Corvus 169. 175.  
-‎Corvus aquaticus 174. 175.  
-‎Corvus marinus 174.  
-‎Cossus ligniperda 332.  
-‎Culex 319.  
-‎Curculio granarius 308.  
-‎Cynips psenes 305.  
-‎Cyprinus phoxinus 261.
+‎[p. 380] Canissa [bitch] 87.  
+‎Capra silvestris [wild goat] 126.  
+‎Casina [little dog] 87.  
+‎Catelli [puppies] 87.  
+‎Catuli [puppies] 87.  
+‎Cephalopterus cornuta [devil ray] 271.  
+‎Cervus volans [stag beetle] 294.  
+‎Clupea Sprattus [sprat] 260.  
+‎Cobitis fossilis [weatherfish] 266.  
+‎Colias Hyspanus [chub mackerel] 251.  
+‎Coluber cerastes [horned viper] 243.  
+‎Columba domestica [domestic pigeon] 200.  
+‎Columba Livia cocullata [hooded pigeon] 204.  
+‎Columba Livia gyratrix [tumbler pigeon] 205.  
+‎Columba Oenas [stock dove] 186.  
+‎Cordyla [young tuna] 253.  
+‎Corvus [raven] 169. 175.  
+‎Corvus aquaticus [cormorant] 174. 175.  
+‎Corvus marinus [cormorant] 174.  
+‎Cossus ligniperda [goat moth] 332.  
+‎Culex [gnat] 319.  
+‎Curculio granarius [grain weevil] 308.  
+‎Cynips psenes [fig wasp] 305.  
+‎Cyprinus phoxinus [minnow] 261.
 
 ### ‎D.
 
-‎Delphinus orca 275.  
-‎Draco 240.
+‎Delphinus orca [killer whale] 275.  
+‎Draco [dragon] 240.
 
 ### ‎E.
 
-‎Echinococcus veterinorum 341.  
-‎Entozoa 334.  
-‎Ephippigera 290.  
-‎Ephippigera perforata 293.  
-‎Equus hemionos 370.
+‎Echinococcus veterinorum [hydatid tapeworm] 341.  
+‎Entozoa [intestinal parasites] 334.  
+‎Ephippigera [saddle-backed bush cricket] 290.  
+‎Ephippigera perforata [saddle-backed bush cricket] 293.  
+‎Equus hemionos [onager] 370.
 
 ### ‎F.
 
-‎Falco palumbarius 165.  
-‎Felis onzo 317.  
-‎Ficedula 211.  
-‎Formica herculeana 331.
+‎Falco palumbarius [goshawk] 165.  
+‎Felis onzo [ounce] 317.  
+‎Ficedula [figpecker] 211.  
+‎Formica herculeana [carpenter ant] 331.
 
 ### ‎G.
 
-‎Gadus callarias 270.  
-‎Glis esculentus 108.  
-‎Gryllus coronatus 291.  
-‎Gryllus stridulus 288. 293.
+‎Gadus callarias [Atlantic cod] 270.  
+‎Glis esculentus [edible dormouse] 108.  
+‎Gryllus coronatus [crowned cricket] 291.  
+‎Gryllus stridulus [rattle grasshopper] 288. 293.
 
 ### ‎H.
 
-‎Halec 259.  
-‎Haliaëtos ossifragus 167.  
-‎Helix janthina 281.  
-‎Helix pomatia 280.  
-‎Hinnus 145.  
-‎Hirundo 210.  
-‎Hirundo fulva 209.  
-‎Hirundo urbica 208.  
-‎Homo troglodytes 65.
+‎Halec [herring] 259.  
+‎Haliaëtos ossifragus [sea eagle] 167.  
+‎Helix janthina [violet sea snail] 281.  
+‎Helix pomatia [Roman snail] 280.  
+‎Hinnus [hinny] 145.  
+‎Hirundo [swallow] 210.  
+‎Hirundo fulva [cliff swallow] 209.  
+‎Hirundo urbica [house martin] 208.  
+‎Homo troglodytes [chimpanzee] 65.
 
 ### ‎L.
 
-‎Lacerta 221.  
-‎Lacerta agilis 223.  
-‎Lacerta arenicola 223.  
-‎Lacerta atra 223.  
-‎Lacerta stellio 223.  
-‎Larus marinus 182.  
-‎Leo 71.  
-‎Ligula cingulum 341.  
-‎Limax 233.  
-‎Limax sylvaticus 279.  
-‎Lingualaca 275.  
-‎Linguata 275.  
-‎Locusta 294.  
-‎Locusta viridissima 291.
+‎Lacerta [lizard] 221.  
+‎Lacerta agilis [sand lizard] 223.  
+‎Lacerta arenicola [sand lizard] 223.  
+‎Lacerta atra [black lizard] 223.  
+‎Lacerta stellio [starred agama] 223.  
+‎Larus marinus [great black-backed gull] 182.  
+‎Leo [lion] 71.  
+‎Ligula cingulum [tapeworm] 341.  
+‎Limax [slug] 233.  
+‎Limax sylvaticus [wood slug] 279.  
+‎Lingualaca [sole] 275.  
+‎Linguata [sole] 275.  
+‎Locusta [locust] 294.  
+‎Locusta viridissima [great green bush cricket] 291.
 
 ### ‎M.
 
-‎Maena 278.  
-‎Mamestra brassicae 333.  
-‎Mantis religiosa 363.  
-‎Melolontha hippocastani 307.  
-‎Melolontha vulgaris 306.  
-‎Merops apiaster 169.
+‎Maena [picarel] 278.  
+‎Mamestra brassicae [cabbage moth] 333.  
+‎Mantis religiosa [praying mantis] 363.  
+‎Melolontha hippocastani [forest cockchafer] 307.  
+‎Melolontha vulgaris [common cockchafer] 306.  
+‎Merops apiaster [bee-eater] 169.
 
-‎[p. 381] Motacilla atricapilla 212.  
-‎Mula 144.  
-‎Mulio 319.  
-‎Mullus barbatus 266. 360.  
-‎Mulus 145. 319.  
-‎Muraena 158.  
-‎Mus domesticus 108.  
-‎Mus marinus 269.  
-‎Mus marmota 374.  
-‎Musca 314.  
-‎Musca cellaris 314.  
-‎Musca ephemera 319.  
-‎Muscicapa albicollis 212.  
-‎Mustela 272.  
-‎Mustela marina 92.  
-‎Mustela silvestris 95.  
-‎Myrmeleo formicarius 315.
+‎[p. 381] Motacilla atricapilla [blackcap] 212.  
+‎Mula [she-mule] 144.  
+‎Mulio [fly] 319.  
+‎Mullus barbatus [red mullet] 266. 360.  
+‎Mulus [mule] 145. 319.  
+‎Muraena [moray eel] 158.  
+‎Mus domesticus [house mouse] 108.  
+‎Mus marinus [sea mouse] 269.  
+‎Mus marmota [marmot] 374.  
+‎Musca [fly] 314.  
+‎Musca cellaris [cellar fly] 314.  
+‎Musca ephemera [mayfly] 319.  
+‎Muscicapa albicollis [collared flycatcher] 212.  
+‎Mustela [weasel] 272.  
+‎Mustela marina [sea weasel] 92.  
+‎Mustela silvestris [wild weasel] 95.  
+‎Myrmeleo formicarius [antlion] 315.
 
 ### ‎N.
 
-‎Nais tubifex 335.  
-‎Nauplium 226.  
-‎Nautilus 226.  
-‎Nepa cinerea 328.  
-‎Noctua 163.  
-‎Noctua serici 359.
+‎Nais tubifex [sludge worm] 335.  
+‎Nauplium [nautilus] 226.  
+‎Nautilus [nautilus] 226.  
+‎Nepa cinerea [water scorpion] 328.  
+‎Noctua [owl] 163.  
+‎Noctua serici [silk moth] 359.
 
 ### ‎O.
 
-‎Oestrus bovis 317.  
-‎Olor 210.  
-‎Orcynus 258.  
-‎Ovis aurita 31.
+‎Oestrus bovis [botfly] 317.  
+‎Olor [swan] 210.  
+‎Orcynus [tuna] 258.  
+‎Ovis aurita [long-eared sheep] 31.
 
 ### ‎P.
 
-‎Pantera 71.  
-‎Papilio 374.  
-‎Pardus 71.  
-‎Parus ater 212.  
-‎Passer 187.  
-‎Pelagia 282.  
-‎Pelamys 253.  
-‎Pelamys sarda 257.  
-‎Pelicanus bassanus 184.  
-‎Perdix nana 213.  
-‎Percnopterus 169. 372.  
-‎Phalacrocorax 174.  
-‎Phoenicopterus minor 171.  
-‎Phoenicopterus ruber 171.  
-‎Phryganea grandis 315.  
-‎Piscis 306.  
-‎Pithecus satyrus 64.  
-‎Pithecus troglodytes 64.  
-‎Pleuronectes solea 275.  
-‎Porculus marinus 265.  
-‎Porcus marinus 265.  
-‎Pristis antiquorum 276  
-‎Psocus pulsatorius 320.  
-‎Purpura 282.  
-‎Purpura patula 282.  
-‎Pyralis 351.  
-‎Pyralis tapezana 322.  
-‎Pyrausta 351.
+‎Pantera [panther] 71.  
+‎Papilio [butterfly] 374.  
+‎Pardus [leopard] 71.  
+‎Parus ater [coal tit] 212.  
+‎Passer [sparrow] 187.  
+‎Pelagia [purple snail] 282.  
+‎Pelamys [bonito] 253.  
+‎Pelamys sarda [Atlantic bonito] 257.  
+‎Pelicanus bassanus [northern gannet] 184.  
+‎Perdix nana [dwarf partridge] 213.  
+‎Percnopterus [Egyptian vulture] 169. 372.  
+‎Phalacrocorax [cormorant] 174.  
+‎Phoenicopterus minor [lesser flamingo] 171.  
+‎Phoenicopterus ruber [greater flamingo] 171.  
+‎Phryganea grandis [caddisfly] 315.  
+‎Piscis [fish] 306.  
+‎Pithecus satyrus [orangutan] 64.  
+‎Pithecus troglodytes [chimpanzee] 64.  
+‎Pleuronectes solea [common sole] 275.  
+‎Porculus marinus [porpoise] 265.  
+‎Porcus marinus [porpoise] 265.  
+‎Pristis antiquorum [sawfish] 276  
+‎Psocus pulsatorius [booklouse] 320.  
+‎Purpura [purple snail] 282.  
+‎Purpura patula [wide-mouthed purpura] 282.  
+‎Pyralis [pyralid moth] 351.  
+‎Pyralis tapezana [tapestry moth] 322.  
+‎Pyrausta [pyrausta moth] 351.
 
 ### ‎R.
 
-‎Raja rubus 263. 268.  
-‎Rallus crex 211.  
-‎Rhynchites Bacchus 309.  
-‎Rupi-capra 115.
+‎Raja rubus [thornback ray] 263. 268.  
+‎Rallus crex [corncrake] 211.  
+‎Rhynchites Bacchus [vine weevil] 309.  
+‎Rupi-capra [chamois] 115.
 
 ### ‎S.
 
-‎Sarcophaga carnaria 9.  
-‎Scarabeus lucanicus 294.  
-‎Sciaena 263.  
-‎Scilla 233.  
-‎Scolopendra gigantea 323.  
-‎Sepia officinalis 284.  
-‎Simia 360.  
-‎Solea 275.  
-‎Sparus maena 278.  
-‎Spheniscus demersus 182.  
-‎Sphinx celeris 287.  
-‎Sphyrna tudes 267.
+‎Sarcophaga carnaria [flesh fly] 9.  
+‎Scarabeus lucanicus [stag beetle] 294.  
+‎Sciaena [meagre] 263.  
+‎Scilla [shrimp] 233.  
+‎Scolopendra gigantea [giant centipede] 323.  
+‎Sepia officinalis [common cuttlefish] 284.  
+‎Simia [ape] 360.  
+‎Solea [sole] 275.  
+‎Sparus maena [picarel] 278.  
+‎Spheniscus demersus [African penguin] 182.  
+‎Sphinx celeris [hawk moth] 287.  
+‎Sphyrna tudes [hammerhead shark] 267.
 
-‎[p. 382] Sphyrna zygaena 267.  
-‎Squalus catulus 272.  
-‎Squilla 233.  
-‎Strongylus filaria 341.  
-‎Sturnus 176.  
-‎Sula fusca 185.  
-‎Sylvia atricapilla 25.
+‎[p. 382] Sphyrna zygaena [smooth hammerhead] 267.  
+‎Squalus catulus [dogfish] 272.  
+‎Squilla [shrimp] 233.  
+‎Strongylus filaria [lungworm] 341.  
+‎Sturnus [starling] 176.  
+‎Sula fusca [brown booby] 185.  
+‎Sylvia atricapilla [blackcap] 25.
 
 ### ‎T.
 
-‎Tabanus bovinus 317.  
-‎Talpa 101.  
-‎Taurus 129.  
-‎Tenebrio molitor 308.  
-‎Termes destructor 332.  
-‎Testudo orbicularis 233.  
-‎Thynnus 253.  
-‎Tigris 71.  
-‎Tinea granella 311.  
-‎Tinea pellionella 321.  
-‎Tinea sarcitella 322.  
-‎Tragelaphus 117.  
-‎Triton 255.  
-‎Trochilus 210.  
-‎Turdus 259.  
-‎Turdus iliacus 185.  
-‎Turdus pilaris 212.  
-‎Tyrannus intrepidus 210.
+‎Tabanus bovinus [horsefly] 317.  
+‎Talpa [mole] 101.  
+‎Taurus [bull] 129.  
+‎Tenebrio molitor [mealworm beetle] 308.  
+‎Termes destructor [termite] 332.  
+‎Testudo orbicularis [European pond turtle] 233.  
+‎Thynnus [tuna] 253.  
+‎Tigris [tiger] 71.  
+‎Tinea granella [grain moth] 311.  
+‎Tinea pellionella [case-bearing clothes moth] 321.  
+‎Tinea sarcitella [clothes moth] 322.  
+‎Tragelaphus [goat-stag] 117.  
+‎Triton [triton] 255.  
+‎Trochilus [trochilus bird] 210.  
+‎Turdus [thrush] 259.  
+‎Turdus iliacus [redwing] 185.  
+‎Turdus pilaris [fieldfare] 212.  
+‎Tyrannus intrepidus [kingbird] 210.
 
 ### ‎U.
 
-‎Uraea cybia 254.  
-‎Uranoscopus 245.
+‎Uraea cybia [salted tuna tail-pieces] 254.  
+‎Uranoscopus [stargazer] 245.
 
 ### ‎V.
 
-‎Variae 71.  
-‎Vespertilio 104.  
-‎Vipera berus 9.
+‎Variae [leopards] 71.  
+‎Vespertilio [bat] 104.  
+‎Vipera berus [adder] 9.
 
-### ‎III. Hebrew and Aramaic Register.
+### ‎III. Hebrew and Aramaic Index.
 
 ### ‎א.
 

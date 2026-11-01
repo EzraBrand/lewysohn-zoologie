@@ -257,12 +257,30 @@ def plain(text: str, words: int = 0) -> str:
     return s
 
 
+REGISTER = re.compile(r"^(I|II|III|IV)\.\s+(\w+)")
+
+
 def anchors(en: list[dict]) -> tuple[dict[int, str], list[dict]]:
     """-> ({block index: anchor id}, contents entries). A § heading gets id "sN" (§. 119. -> #s119);
     its label is the title on the same line, or the title heading after it, or the opening words of
-    its first paragraph. Other headings (parts, classes) get "hI" and are listed as group headings."""
+    its first paragraph. Other headings (parts, classes) get "hI" and are listed as group headings.
+    In the registers, a letter heading after "I. Greek Register." etc. gets "lR-K" (#l3-2: the second
+    letter of register III) and is listed in one row under its register."""
     ids, toc, used = {}, [], set()
+    reg, k = None, 0
     for i, b in enumerate(en):
+        if b["type"] == "heading" and (r := REGISTER.match(plain(b["text"]))):
+            reg, k = ["I", "II", "III", "IV"].index(r.group(1)) + 1, 0
+            ids[i] = f"h{i}"
+            toc.append({"id": ids[i], "label": plain(b["text"]).rstrip("."), "group": True})
+            continue
+        letter = plain(b["text"]).rstrip(".")
+        if reg and b["type"] == "heading" and len(letter) <= 4:  # "Jod." (J, after the vowel "J.")
+            k += 1
+            ids[i] = f"l{reg}-{k}"
+            toc.append({"id": ids[i], "label": letter, "title": "", "group": False, "letter": True,
+                        "reg": ["Greek", "Latin", "Hebrew", "German"][reg - 1]})
+            continue
         m = PARA.match(b["text"])
         # a few § lines are typed as body text (mammals §§ 114-115); take them when the line is short
         short_para = b["type"] != "heading" and m and len(b["text"]) < 60
@@ -292,14 +310,25 @@ def toc_html(toc: list[dict]) -> str:
     ctx = {"ids": {}, "notes": {}, "lang": "en"}
     items = "".join(
         f'<li class="grp"><a href="#{t["id"]}">{inline(t["label"], "", ctx)}</a></li>' if t["group"] else
+        f'<li class="ltr"><a href="#{t["id"]}"><b>{t["label"]}</b><span class="rg"> {t["reg"]} register</span></a></li>'
+        if t.get("letter") else
         f'<li><a href="#{t["id"]}"><b>{t["label"]}</b> {inline(t["title"], "", ctx)}</a></li>'
         for t in toc)
     first, last = next(t for t in toc if not t["group"]), [t for t in toc if not t["group"]][-1]
-    return (f'<details class="toc" id="toc"><summary><span class="ti">☰</span> Contents '
-            f'<span class="tn">{first["label"]}–{last["label"].removeprefix("§ ")} · {n} sections</span>'
-            f'<span class="th">open to jump to any §</span></summary>'
-            f'<p class="sub">Each § has a fixed link: <code>#s119</code> for § 119. The bar at the top of '
-            f'the screen shows where you are while you read.</p><ul>{items}</ul></details>\n'
+    if first.get("letter"):
+        head = (f'<span class="tn">{sum(t["group"] for t in toc)} registers · {n} letters</span>'
+                f'<span class="th">open to jump to a register or letter</span></summary>'
+                f'<p class="sub">Each letter has a fixed link: <code>#l3-2</code> for the second letter of '
+                f'register III. The bar at the top of the screen shows where you are while you read.</p>')
+        cls = "toc reg"
+    else:
+        head = (f'<span class="tn">{first["label"]}–{last["label"].removeprefix("§ ")} · {n} sections</span>'
+                f'<span class="th">open to jump to any §</span></summary>'
+                f'<p class="sub">Each § has a fixed link: <code>#s119</code> for § 119. The bar at the top of '
+                f'the screen shows where you are while you read.</p>')
+        cls = "toc"
+    return (f'<details class="{cls}" id="toc"><summary><span class="ti">☰</span> Contents '
+            f'{head}<ul>{items}</ul></details>\n'
             f'<nav class="where" aria-label="Position in this page"><div class="prog"><span></span></div>'
             f'<button type="button" class="open-toc" title="Contents">☰<span> Contents</span></button>'
             f'<button type="button" class="prev" title="Previous §" aria-label="Previous §">‹</button>'
@@ -498,6 +527,9 @@ details.toc li{break-inside:avoid;padding:.12rem 0;font-size:.93rem}
 details.toc li a{text-decoration:none;color:var(--fg)}
 details.toc li a:hover{color:var(--accent)}
 details.toc li.grp{font-weight:600;margin-top:.5rem;column-span:all}
+details.toc.reg ul{columns:auto}
+details.toc.reg li.ltr{display:inline-block;margin-right:.9rem;font-size:1.05rem}
+details.toc.reg li.ltr .rg{display:none}
 .row[id],.row.note .cell{scroll-margin-top:3.2rem}
 .fntip{position:absolute;z-index:7;background:var(--bg);color:var(--fg);border:1px solid var(--accent);border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.25);padding:.6rem .8rem;font-size:.92rem;line-height:1.5;max-height:50vh;overflow-y:auto}
 .fntip p{display:inline;margin:0}
@@ -560,7 +592,7 @@ JS = """(function(){
       tr.style.display = tr.textContent.toLowerCase().indexOf(q)>=0 ? '' : 'none';});});}
   // reading position: current § and page in the sticky bar, progress, contents highlight, back to top
   var bar=document.querySelector('nav.where'), top=document.querySelector('a.totop');
-  var secs=[].slice.call(document.querySelectorAll('.row[id^="s"]'));
+  var secs=[].slice.call(document.querySelectorAll('.row[id^="s"],.row[id^="l"]'));
   var pgs=[].slice.call(document.querySelectorAll('.cell.en a.pg'));
   var toc=document.getElementById('toc'), links={};
   if(toc) toc.querySelectorAll('li a').forEach(function(a){links[a.getAttribute('href').slice(1)]=a;});

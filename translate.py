@@ -148,9 +148,13 @@ This input is the book's registers (indexes): I Greek, II Latin, III Hebrew and 
 Here the rule on joining lines does NOT apply: keep every printed line (one entry: a word and its \
 page numbers) as its own line, separated by "\\n", in the same order. Keep the page numbers \
 exactly as printed. Translate the headings and the German entries of register IV, and the German \
-words in the other registers; keep the Greek, Latin, Hebrew and Aramaic entry words exactly as \
-printed, with no transliteration or translation added. Do not reorder entries: the order is that \
-of the German alphabet."""
+words in the other registers. Register I (Greek): keep each Greek word exactly as printed and add \
+its SBL transliteration in square brackets right after it, as in the rest of the text \
+("Ἀβραμίς [abramis] 264."). Register II (Latin): keep each Latin name exactly as printed and add a \
+short English rendering in square brackets right after it ("Accipiter [hawk] 164.", "Acarus farinae \
+[flour mite] 312."); for a zoological name use the common English name of the animal. Register III \
+(Hebrew and Aramaic): keep the words exactly as printed, with nothing added. Do not reorder \
+entries: the order is that of the printed alphabet."""
 
 
 def translate(page: dict, model: str, effort: str, page_key: str | list[str], extra: str = "") -> dict:

@@ -320,7 +320,8 @@ minutes with 4 workers per model).
   both engines read half the page; `ocr.py --columns` cuts the page at the column gap and sends the
   two columns as two images. Sonnet also dropped most of pp. 383–384, so the registers are Opus.
   In the English, all 1,830 page numbers are the same as in the German and in the same order; the
-  German register IV is translated line by line and keeps the German alphabetical order.
+  German register IV is translated line by line and keeps the German alphabetical order; the Greek
+  register has SBL transliterations and the Latin register short English renderings, in brackets.
 - **Page joins** pp. 159–376: all checked from `logs/qa_159-400.csv`; 10 needed a `continue`.
 - **Existing work:** Natan Slifkin wrote in 2012
   (["A Few Announcements"](https://www.rationalistjudaism.com/p/a-few-announcements)) that he was
