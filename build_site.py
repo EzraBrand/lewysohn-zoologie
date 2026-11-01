@@ -7,6 +7,7 @@ and English side by side, and a searchable abbreviation table. Built only from f
 no model calls. Scans are shown from Frankfurt's IIIF server.
 """
 
+import hashlib
 import html
 import json
 import re
@@ -215,12 +216,12 @@ def page_html(title: str, body: str, desc: str = "") -> str:
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v={stamp(CSS)}">
 <script>try{{var t=localStorage.getItem('lz-theme');if(t)document.documentElement.setAttribute('data-theme',t)}}catch(e){{}}</script>
 </head>
 <body>
 {body}
-<script src="app.js"></script>
+<script src="app.js?v={stamp(JS)}"></script>
 </body>
 </html>
 """
@@ -310,7 +311,7 @@ def toc_html(toc: list[dict]) -> str:
     ctx = {"ids": {}, "notes": {}, "lang": "en"}
     items = "".join(
         f'<li class="grp"><a href="#{t["id"]}">{inline(t["label"], "", ctx)}</a></li>' if t["group"] else
-        f'<li class="ltr"><a href="#{t["id"]}"><b>{t["label"]}</b><span class="rg"> {t["reg"]} register</span></a></li>'
+        f'<li class="ltr"><a href="#{t["id"]}"><b>{t["label"]}</b><span class="rg" hidden> {t["reg"]} register</span></a></li>'
         if t.get("letter") else
         f'<li><a href="#{t["id"]}"><b>{t["label"]}</b> {inline(t["title"], "", ctx)}</a></li>'
         for t in toc)
@@ -475,6 +476,12 @@ knowledge</b>; <b>guess</b> = not certain, check.</p>
 <tbody>{rows}</tbody></table>
 </main>"""
     return page_html("Abbreviations · Lewysohn, Zoologie des Talmuds", body)
+
+
+def stamp(text: str) -> str:
+    """Short content hash for the style.css / app.js links, so a browser never pairs a new page
+    with an old cached file (01-Nov-2026: the registers contents showed with the old CSS)."""
+    return hashlib.sha1(text.encode("utf-8")).hexdigest()[:8]
 
 
 CSS = """:root{--bg:#fbfaf7;--fg:#22201c;--muted:#6b665d;--line:#e4e0d6;--accent:#7a4b12;--panel:#f2efe7;--mark:#efe3cf}
